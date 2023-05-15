@@ -1,9 +1,7 @@
-import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:oladic/router/app_router.dart';
+import 'package:go_router/go_router.dart';
 import 'package:oladic/words.dart';
 
-@RoutePage()
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
 
@@ -16,7 +14,7 @@ class HomePage extends StatelessWidget {
                   words[index],
                 ),
                 onTap: () {
-                  context.pushRoute(WordRoute(word: words[index]));
+                  context.go('/collection/${words[index]}');
                 },
               ),
           itemCount: words.length),

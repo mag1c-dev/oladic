@@ -1,12 +1,10 @@
-import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_html/flutter_html.dart';
 
 
-@RoutePage()
 class WordPage extends StatelessWidget {
-  const WordPage({Key? key, @PathParam() required this.word}) : super(key: key);
+  const WordPage({Key? key, required this.word}) : super(key: key);
 
   final String word;
 

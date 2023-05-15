@@ -1,18 +1,31 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_html/flutter_html.dart';
+import 'package:oladic/main.dart';
 
 
-class WordPage extends StatelessWidget {
+class WordPage extends StatefulWidget {
   const WordPage({Key? key, required this.word}) : super(key: key);
 
   final String word;
 
   @override
+  State<WordPage> createState() => _WordPageState();
+}
+
+class _WordPageState extends State<WordPage> {
+  @override
+  void initState() {
+    super.initState();
+  }
+
+
+
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: FutureBuilder(
-          future: rootBundle.loadString('words/$word.txt'),
+          future: rootBundle.loadString('words/${widget.word}.txt'),
           builder: (context, snapshot) {
             if (snapshot.hasData) {
               return SingleChildScrollView(
@@ -27,7 +40,6 @@ class WordPage extends StatelessWidget {
           }),
     );
   }
-
 
   Map<String, CustomRender> _customRender() {
     return {

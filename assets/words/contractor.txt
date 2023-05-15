@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>contractor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> external, independent, outside, private | government | approved </B><I>a list of approved contractors </I><B>| building, defence, electrical, engineering, haulage </B> </P>
+<P> <U> VERB + CONTRACTOR </U><B> employ, hire, use </B><I>We'll need to employ a building contractor to do the work. </I> </P>
+</DIV>

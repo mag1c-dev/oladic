@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>offer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of help or sth that is needed </TT> </P>
+<P> <U> ADJ. </U><B> generous, kind | conditional, unconditional | job | peace </B> </P>
+<P> <U> VERB + OFFER </U><B> make (sb) </B><I>He made me an offer I simply couldn't refuse </I><B>| withdraw | accept, take up | decline, refuse, turn down </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>the range of goods on offer </I><B>| ~ from </B><I>I had to turn down a job offer from a theatre because the pay was too low. </I><B>| ~ of </B><I>They refused our offer of help. </I> </P>
+<P> <SUP> 2 </SUP> <TT> special price/deal </TT> </P>
+<P> <U> ADJ. </U><B> special | cheap | free </B><I>I got the conditioner in a free offer with my shampoo. </I><B>| introductory </B><I>Your first order is delivered free as an introductory offer. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>We have a number of bargains on offer. </I> </P>
+<P> <SUP> 3 </SUP> <TT> amount of money </TT> </P>
+<P> <U> ADJ. </U><B> acceptable, attractive, fair, favourable, reasonable | tempting | high, low </B><I>We realized we would not get a higher offer. </I><B>| final, initial | firm, formal </B><I>Several people have made enquiries but no one has made a firm offer. </I><B>| lucrative | pay | takeover | cash </B> </P>
+<P> <U> VERB + OFFER </U><B> make (sb), put in | withdraw | get, receive | listen to </B><I>I'll listen to any reasonable offer. </I><B>| accept | reject, turn down | increase, up </B><I>They just kept upping their offer until I had to say yes. </I> </P>
+<P> <U> OFFER + NOUN </U><B> price </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The property is currently under offer to a client. </I><B>| ~ for </B><I>Several people put in an offer for the house. </I><B>| ~ of </B><I>They accepted our offer of </I>&pound;</B><I>80,000. </I> </P>
+<P> <U> PHRASES </U><B> be open to offers </B><I>The asking price is </I>&pound;</B><I>500 but I'm open to offers. </I><B>| or near offer </B><I>They are selling their car for </I>&pound;</B><I>2,500 or near offer. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>offer </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> give/provide sth; ask if sb would like sth </TT> </P>
+<P> <U> ADV. </U><B> generously, kindly | helpfully | impulsively </B><I>&lsquo;Do you need any help?&rsquo; he offered impulsively. </I> </P>
+<P> <U> VERB + OFFER </U><B> be able/unable to, can/could </B><I>the protection that life insurance can offer </I><B>| appear to, seem to </B><I>The plan seemed to offer real advantages. </I><B>| fail to | be pleased to </B><I>(formal)</I>, <B>would like to </B><I>I refer to your recent application and interview and am pleased to offer you the post of editor. </I><B>| aim to, seek to | claim to </B><I>They claim to offer a more comprehensive service than other firms. </I><B>| be expected to, be likely to </B><I>This investment is likely to offer a higher return. </I><B>| be/feel compelled to, be forced to, be/feel obliged to </B><I>She felt obliged to offer him a bed for the night. </I><B>| have little/a lot/nothing, etc. to, have sth to </B><I>This player has proved that he still has a lot to offer </I>(= can still play well)</B><I>. The open evening is a chance to see what the college has to offer students. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>She offered drinks to her guests. </I> </P>
+<P> <SUP> 2 </SUP> <TT> say that you will pay a certain amount </TT> </P>
+<P> <U> VERB + OFFER </U><B> be able/unable to, can/could | be prepared to, be ready to, be willing to </B><I>Would they be prepared to offer any more? </I> </P>
+<P> <U> PREP. </U><B> for </B><I>They have offered over </I>&pound;</B><I>500,000 for the house. </I> </P>
+</DIV>

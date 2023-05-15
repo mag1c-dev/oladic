@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>graph </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bar, line </B> </P>
+<P> <U> VERB + GRAPH </U><B> draw, produce | depict sth as/on, show sth as/in/on </B><I>The statistics can be depicted as a graph. </I><B>| plot sth on </B><I>The figures are all plotted on a graph. </I> </P>
+<P> <U> GRAPH + VERB </U><B> show sth </B><I>She drew a graph showing the relationship between costs and sales. </I> </P>
+<P> <U> GRAPH + NOUN </U><B> paper </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>I decided to show the results in a bar graph. </I><B>| on a/the ~ </B><I>We can see on this graph how the company has grown over the last year. </I> </P>
+<P> <U> PHRASES </U><B> in graph form </B><I>Results can be shown in numeric or graph form. </I> </P>
+</DIV>

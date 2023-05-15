@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>hockey </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> field, ice, indoor, roller | ladies', mens', mixed | senior, under-18, etc. </B> </P>
+<P> <U> VERB + HOCKEY </U><B> play </B><I>She plays hockey in the winter. </I> </P>
+<P> <U> HOCKEY + NOUN </U><B> stick | pitch | match, tournament | coach, player | star | fan | club, squad, team </B><I>the Olympic hockey squad </I><B>| league, tournament </B></B> </P>
+</DIV>

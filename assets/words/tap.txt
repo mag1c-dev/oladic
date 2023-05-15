@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>tap </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for water, gas, etc. </TT> </P>
+<P> <U> ADJ. </U><B> hot, hot-water | cold, cold-water | mixer | dripping, running </B><I>the sound of a dripping tap </I><B>| leaky | bath, bathroom, kitchen </B> </P>
+<P> <U> VERB + TAP </U><B> turn (off/on) </B><I>Turn the tap clockwise. </I><B>| run </B><I>You have to run the tap a long time before the hot water comes. </I> </P>
+<P> <U> TAP + VERB </U><B> drip, run </B><I>Someone has left the tap running. </I><B>| leak </B> </P>
+<P> <U> TAP + NOUN </U><B> water | washer </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>The pub has two sorts of beer on tap </I>(= in a barrel with a tap on it)</B><I>. (figurative) We have this sort of information on tap </I>(= available to be used at any time)</B><I>. </I> </P>
+<P> <SUP> 2 </SUP> <TT> quick gentle blow; the sound it makes </TT> </P>
+<P> <U> ADJ. </U><B> gentle, light, little | sharp </B> </P>
+<P> <U> VERB + TAP </U><B> give sb/sth </B> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>There was a little tap at the door. </I><B>| ~ on </B><I>He gave her a tap on the shoulder. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tap </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, lightly </B><I>She tapped her fingers gently on the table. </I><B>| away </B><I>She tapped away at her keyboard. </I> </P>
+<P> <U> PREP. </U><B> against, at, on, with </B><I>She tapped the ice with a stick. </I> </P>
+</DIV>

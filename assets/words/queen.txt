@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>queen </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> female ruler/wife of a king </TT> </P>
+<P> <U> ADJ. </U><B> rightful | crowned | future </B> </P>
+<P> <U> VERB + QUEEN </U><B> become | crown (sb), make sb, proclaim sb </B><I>She was crowned queen at the age of fifteen. </I><B>| depose, put aside </B> </P>
+<P> <U> QUEEN + VERB </U><B> reign, rule, rule (over) sb/sth | abdicate </B><I>the queen's decision to abdicate </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>England under Queen Elizabeth I </I><B>| ~ of </B><I>the Queen of France </I> </P>
+<P> <U> PHRASES </U><B> queen consort </B>(= the wife of a king)  </P>
+<P> <SUP> 2 </SUP> <TT> playing card </TT> </P>
+<a href="/collocation-tag/playing-card" class="tag">Learn more about PLAYING CARD</a>
+</DIV>

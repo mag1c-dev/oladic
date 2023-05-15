@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>reasoning </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, sound | false, faulty | underlying | abstract | practical | logical | deductive, inductive | judicial, legal, moral, scientific, theological | human </B> </P>
+<P> <U> QUANT. </U><B> piece </B><I>a rather confused piece of reasoning </I> </P>
+<P> <U> VERB + REASONING </U><B> adopt, apply, employ, use </B><I>the reasoning adopted by the court </I><B>| follow, understand </B><I>I can't quite follow your reasoning. </I><B>| accept | reject | challenge | explain </B> </P>
+<P> <U> REASONING + VERB </U><B> apply </B><I>The same reasoning applies to the current situation. </I><B>| lead sb/sth to sth </B><I>I cannot accept the reasoning that led the trial court to its decision. </I> </P>
+<P> <U> REASONING + NOUN </U><B> process | ability </B> </P>
+<P> <U> PREP. </U><B> in your ~ </B><I>the circularity in their reasoning </I><B>| ~ about </B><I>reasoning about art </I><B>| ~ behind </B><I>Many people challenged the reasoning behind the proposal. </I> </P>
+<P> <U> PHRASES </U><B> a flaw in your reasoning, a form/kind/line of reasoning </B><I>The implication of this line reasoning is that globalization of capital is destructive. </I><B>| power of reasoning </B><I>She seemed to have lost her powers of reasoning. </I> </P>
+</DIV>

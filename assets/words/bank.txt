@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>bank </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for money </TT> </P>
+<P> <U> ADJ. </U><B> big, large, major | small | central, clearing, commercial, investment, issuing, reserve, savings </B><I>The central bank has put up interest rates. The bond will be priced by the issuing bank. She has her money in one of the largest savings banks. </I><B>| private | foreign, international, overseas </B> </P>
+<P> <U> VERB + BANK </U><B> go to | borrow (sth) from </B> </P>
+<P> <U> BANK + VERB </U><B> lend sb sth </B><I>The bank lent her money to buy a car. </I><B>| underwrite sth </B><I>A group of ten international banks is to underwrite and sell the bonds. </I><B>| collapse, crash </B><I>Investors lost millions when the bank crashed. </I> </P>
+<P> <U> BANK + NOUN </U><B> account, balance, charges, deposit, loan, statement | manager | robber </B> </P>
+<P> <U> PREP. </U><B> from a/the ~ </B><I>He got a large loan from the bank. </I><B>| in a/the ~ </B><I>I'll put half the money in the bank and spend the rest. </I><B>| out of a/the ~ </B><I>I need to get some money out of the bank. </I> </P>
+<P> <SUP> 2 </SUP> <TT> by a river/canal </TT> </P>
+<P> <U> ADJ. </U><B> far, opposite, other </B><I>We could see them waving on the opposite bank. </I><B>| canal, river </B> </P>
+<P> <U> VERB + BANK </U><B> burst, overflow </B><I>The River Frome had burst its banks after torrential rain. </I> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>We strolled along the river bank. </I><B>| on a/the ~ </B><I>a picnic on the banks of the Thames </I> </P>
+<P> <SUP> 3 </SUP> <TT> area of sloping ground </TT> </P>
+<P> <U> ADJ. </U><B> steep | grassy </B> </P>
+<P> <U> PREP. </U><B> down a/the ~ </B><I>The children rolled down the grassy bank. </I><B>| up a/the ~ </B> </P>
+<P> <SUP> 4 </SUP> <TT> mass of cloud, etc./row of machines, etc. </TT> </P>
+<P> <U> ADJ. </U><B> huge, vast </B><I>a huge bank of switches and buttons </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a vast bank of cloud </I> </P>
+</DIV>

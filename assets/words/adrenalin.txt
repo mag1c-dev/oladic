@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>adrenalin </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pure </B> </P>
+<P> <U> QUANT. </U><B> burst, flow, rush, surge </B><I>He felt a surge of pure adrenalin as he won the race. </I> </P>
+<P> <U> VERB + ADRENALIN </U><B> feel </B> </P>
+<P> <U> ADRENALIN + VERB </U><B> course, flow, pump, surge </B><I>The adrenalin was coursing through his system. </I> </P>
+<P> <U> ADRENALIN + NOUN </U><B> rush </B> </P>
+<P> <U> PHRASES </U><B> get the adrenalin flowing/going </B><I>We'll start with a bit of dancing to get the adrenalin going. </I> </P>
+</DIV>

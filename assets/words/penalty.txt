@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>penalty </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> punishment </TT> </P>
+<P> <U> ADJ. </U><B> harsh, heavy, severe, stiff, strict, tough | light | maximum, minimum | fixed, mandatory </B><I>a new system of fixed penalties for most traffic offences </I><B>| financial, tax </B><I>the heavy financial penalties of leaving the scheme early </I><B>| death </B><I>the movement for the abolition of the death penalty </I> </P>
+<P> <U> VERB + PENALTY </U><B> impose, introduce | threaten | increase | carry </B><I>crimes which carry severe penalties </I><B>| face, incur </B> </P>
+<P> <U> PREP. </U><B> on/under ~ of </B><I>They made him promise, under penalty of death. </I><B>| ~ for </B><I>the penalty for murder </I><B>| ~ on </B><I>He threatened stiffer penalties on young offenders. </I> </P>
+<P> <SUP> 2 </SUP> <TT> disadvantage </TT> </P>
+<P> <U> VERB + PENALTY </U><B> pay, suffer </B><I>He's now paying the penalty for his misspent youth. People who lose their jobs are suffering the penalties for longer periods. </I><B>| accept </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>You must accept the penalty for your rash behaviour. </I><B>| ~ of </B><I>It's just one of the penalties of fame. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in football </TT> </P>
+<P> <U> ADJ. </U><B> disputed | winning | first-half, second-half | early, late </B> </P>
+<P> <U> VERB + PENALTY </U><B> award (sb), give (sb) | give away </B><I>They were leading until Cole gave away a penalty. </I><B>| appeal for | be awarded/given, get, have </B><I>We were unlucky not to get a penalty. </I><B>| kick, take | score from </B><I>Owen scored from a first-half penalty. </I><B>| miss | save </B> </P>
+<P> <U> PENALTY + NOUN </U><B> area, box, spot | shoot-out </B> </P>
+<P> <U> PREP. </U><B> ~ by/from </B><I>Thet won, thanks to a late penalty from Fry. </I></B> </P>
+</DIV>

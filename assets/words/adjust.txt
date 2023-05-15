@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>adjust </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> change sth slightly </TT> </P>
+<P> <U> ADV. </U><B> slightly | finely </B><I>It is important to have equipment that can be finely adjusted. </I><B>| automatically | carefully | accordingly </B><I>Children are sensitive to disapproval and adjust their behaviour accordingly. </I><B>| downwards, upwards </B><I>This estimate may have to be adjusted downwards. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>Salaries are adjusted for inflation. </I> </P>
+<P> <SUP> 2 </SUP> <TT> get used to new situation </TT> </P>
+<P> <U> ADV. </U><B> quickly, rapidly | gradually, slowly </B> </P>
+<P> <U> VERB + ADJUST </U><B> be difficult/hard to </B> </P>
+<P> <U> VERB + ADJUST </U><B> need/take time to </B><I>It may take a little time to adjust to the climate here. </I> </P>
+<P> <U> VERB + ADJUST </U><B> try to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>She will gradually adjust to her new role. </I> </P>
+</DIV>

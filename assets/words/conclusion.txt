@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>conclusion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> opinion reached after considering the facts </TT> </P>
+<P> <U> ADJ. </U><B> correct | logical, reasonable, valid | inescapable, inevitable, obvious | erroneous, false, wrong | main | hasty </B> </P>
+<P> <U> VERB + CONCLUSION </U><B> arrive at, come to, draw, reach </B><I>I can't draw any conclusions from what she said. </I><B>| jump to, leap to </B><I>We don't want to jump to the wrong conclusion. Don't go jumping to conclusions before you know the facts. </I><B>| lead to, point to </B><I>It all points to the conclusion that nobody knew what was going on. </I> </P>
+<P> <SUP> 2 </SUP> <TT> ending of sth </TT> </P>
+<P> <U> ADJ. </U><B> satisfactory, successful | foregone </B><I>The result of the match was a foregone conclusion. </I><B>| hasty </B> </P>
+<P> <U> VERB + CONCLUSION </U><B> bring about, bring sth to </B><I>The meeting was brought to a hasty conclusion. </I><B>| come to </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>In conclusion, I would like to thank you all for your hard work. </I>&gt; Special page at MEETING </B> </P>
+</DIV>

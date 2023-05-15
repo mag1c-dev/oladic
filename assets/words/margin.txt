@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>margin </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> empty space at the side of a page in a book, etc. </TT> </P>
+<P> <U> ADJ. </U><B> generous, wide </B><I>Leave a generous margin on the left. </I><B>| narrow | left-hand, right-hand </B> </P>
+<P> <U> VERB + MARGIN </U><B> leave, rule, set | adjust </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>Start writing at the left-hand margin. </I><B>| in the ~ </B><I>She scribbled notes in the margin. </I> </P>
+<P> <SUP> 2 </SUP> <TT> space, time, votes, etc. by which sth is won </TT> </P>
+<P> <U> ADJ. </U><B> comfortable, considerable, greater, huge, large, wide | narrow, slim, small | clear, safe </B> </P>
+<P> <U> VERB + MARGIN </U><B> have </B> </P>
+<P> <U> PREP. </U><B> by a ~ </B><I>She won by a clear margin. </I><B>| ~ over </B><I>He had an 18-second margin over his nearest rival. </I> </P>
+<P> <U> PHRASES </U><B> by the largest/narrowest, etc. of margins </B><I>He won by the narrowest of margins. </I><B>| a margin of victory </B> </P>
+<P> <SUP> 3 </SUP> <TT> amount of extra space, time, etc. </TT> </P>
+<P> <U> ADJ. </U><B> good, greater, wide </B><I>Sales predictions are open to wide margins of error. </I><B>| narrow | adequate | safety </B> </P>
+<P> <U> VERB + MARGIN </U><B> allow (sb/sth), give (sb/sth), leave, provide </B><I>The device gives a greater margin of safety. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>We have substantial reserves, which provide a good margin for uncertainties. </I> </P>
+<P> <U> PHRASES </U><B> a margin for/of error </B><I>The schedule left no margin for error. </I><B>| a margin of safety </B> </P>
+<P> <SUP> 4 </SUP> <TT> profit </TT> </P>
+<P> <U> ADJ. </U><B> high, large | low, narrow, small, tight </B><I>We're working to rather tight profit margins. </I><B>| gross, net | profit | operating, pre-tax, retail </B> </P>
+<P> <U> VERB + MARGIN </U><B> achieve, have </B><I>These manufacturers have high gross margins. </I><B>| operate at/on, work to | improve, increase </B><I>Higher productivity has enabled them to increase their profit margins. </I><B>| cut, erode, reduce, squeeze </B><I>Price rises have eroded profit margins. </I> </P>
+<P> <U> MARGIN + VERB </U><B> widen | narrow </B> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>They are operating at very low margins. </I><B>| ~ on </B><I>They hope to improve their margins on computers. </I></P>
+<a href="/collocation-tag/financial" class="tag">Learn more about FINANCIAL</a>
+</DIV>

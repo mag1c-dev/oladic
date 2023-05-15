@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>blank </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> with nothing written, recorded, etc. on </TT> </P>
+<P> <U> VERBS </U><B> be | go </B><I>The screen's gone blank. </I><B>| remain | leave sth </B><I>I left the third column blank. </I> </P>
+<P> <U> ADV. </U><B> completely, entirely </B> </P>
+<P> <SUP> 2 </SUP> <TT> without emotion/interest/understanding </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>Gina looked blank; then understanding dawned. </I><B>| go </B><I>What if my mind goes completely blank with panic? </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> completely | studiously </B><I>His expression remained studiously blank. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>blank </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> empty space on paper </TT> </P>
+<P> <U> VERB + BLANK </U><B> fill in </B><I>In the test, we had to fill in the blanks. </I><B>| leave </B><I>If you don't know the answer, just leave a blank. </I> </P>
+<P> <SUP> 2 </SUP> <TT> cartridge for a gun </TT> </P>
+<P> <U> VERB + BLANK </U><B> fire </B><I>Soldiers fired blanks into the sky. </I> </P>
+</DIV>

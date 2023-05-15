@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>believer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sb who has religious faith </TT> </P>
+<P> <U> ADJ. </U><B> devout, genuine, true | religious </B> </P>
+<P> <SUP> 2 </SUP> <TT> sb who believes that sth is good </TT> </P>
+<P> <U> ADJ. </U><B> fervent, firm, great, passionate, staunch, strong </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>I'm a firm believer in the benefits of exercise. </I> </P>
+</DIV>

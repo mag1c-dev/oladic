@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>wash </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good | quick | car </B> </P>
+<P> <U> VERB + WASH </U><B> have </B><I>He had a quick wash and shave. </I><B>| do </B><I>I'm doing a dark wash </I>(= washing all the dark clothes together)</B><I>. </I><B>| could do with, need </B><I>That car could do with a good wash. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B>(= being washed or waiting to be washed) <I>Your shirt's in the wash. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wash </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, properly, thoroughly | gently </B><I>She gently washed and dressed the wound. </I><B>| quickly </B> </P>
+<P> <U> PHRASES </U><B> freshly/newly washed </B><I>the smell of freshly washed hair </I> </P>
+</DIV>

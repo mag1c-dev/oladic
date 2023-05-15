@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>gossip </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> rumours about other people </TT> </P>
+<P> <U> ADJ. </U><B> latest | common </B><I>It's common gossip in the office that she's about to leave her husband. </I><B>| idle, malicious, salacious, silly </B> </P>
+<P> <U> QUANT. </U><B> bit, piece, titbit </B><I>I heard an interesting bit of gossip yesterday. </I> </P>
+<P> <U> VERB + GOSSIP </U><B> spread </B><I>Someone has been spreading malicious gossip about me. </I><B>| exchange, swap | hear, listen to, pay attention to </B><I>You shouldn't listen to idle gossip. </I> </P>
+<P> <U> GOSSIP + VERB </U><B> circulate, go around/round </B><I>A piece of silly gossip was going round the school. </I> </P>
+<P> <U> GOSSIP + NOUN </U><B> column, columnist </B><I>I saw it in the gossip column of the local newspaper. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a magazine full of gossip about famous people </I> </P>
+<P> <SUP> 2 </SUP> <TT> conversation about other people </TT> </P>
+<P> <U> ADJ. </U><B> good </B> </P>
+<P> <U> VERB + GOSSIP </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>We had a good gossip about the boss. </I><B>| ~ with </B><I>She's having a gossip with Maria. </I> </P>
+</DIV>

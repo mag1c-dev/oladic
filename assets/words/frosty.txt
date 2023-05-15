@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>frosty </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> cold enough for frost </TT> </P>
+<P> <U> VERBS </U><B> be, look | become, get, turn </B><I>when the weather turns frosty </I><B>| remain, stay </B> </P>
+<P> <U> ADV. </U><B> very </B> </P>
+<P> <U> PHRASES </U><B> cold and frosty </B><I>The day dawned cold and frosty. </I> </P>
+<P> <SUP> 2 </SUP> <TT> unfriendly </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become, turn </B><I>He cool green eyes became positively frosty. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> decidedly, distinctly, positively, very </B><I>The atmosphere in the room was decidedly frosty. </I><B>| pretty</B> </P>
+</DIV>

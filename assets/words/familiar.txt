@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>familiar </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> well-known </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, smell, sound </B><I>The place felt faintly familiar to me. </I><B>| become | make sth </B> </P>
+<P> <U> ADV. </U><B> distinctly, very </B><I>The room looked distinctly familiar. </I><B>| entirely | increasingly | faintly, fairly, quite, rather, reasonably, slightly, vaguely | enough </B><I>The report's conclusions were already familiar enough to the government. </I><B>| already | immediately, instantly </B><I>His face was instantly familiar, even after all those years. </I><B>| somehow </B><I>a name that was somehow familiar </I><B>| curiously, disconcertingly, oddly, strangely </B><I>Her face looked strangely familiar. </I><B>| blessedly, comfortingly </B><I>The kitchen smelled warm and inviting and blessedly familiar. </I><B>| all too, depressingly, horribly, painfully, sickeningly </B><I>a situation which has become all too familiar to most teachers </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The name sounded vaguely familiar to her. </I></P>
+<P> <SUP> 2 </SUP> <TT> familiar with sth: having a good knowledge of sth  </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become, get, grow </B><I>I was now getting much more familiar with the local area. </I> </P>
+<P> <U> ADV. </U><B> extremely, intimately, very | completely, fully, perfectly, thoroughly </B><I>You will need to be thoroughly familiar with our procedures. </I><B>| increasingly | fairly, pretty, quite, reasonably | already</B> </P>
+</DIV>

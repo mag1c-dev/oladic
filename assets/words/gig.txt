@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>gig </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> benefit, charity | free | live | pub </B> </P>
+<P> <U> VERB + GIG </U><B> do, play (in) </B><I>They're doing a gig in Leeds tonight. </I><B>| go to </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>They're performing at a local pub gig. </I> </P>
+</DIV>

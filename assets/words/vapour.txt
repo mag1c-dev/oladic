@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>vapour </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> water </B> </P>
+<P> <U> QUANT. </U><B> cloud </B><I>There was a hissing sound, and clouds of vapour were emitted. </I> </P>
+<P> <U> VERB + VAPOUR </U><B> form, turn to </B><I>The particles then form a vapour. </I><B>| emit, give off/out </B> </P>
+<P> <U> VAPOUR + VERB </U><B> condense</B> </P>
+</DIV>

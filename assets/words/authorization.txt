@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>authorization </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> formal, official, written | prior </B><I>You will need prior authorization from your bank. </I> </P>
+<P> <U> VERB + AUTHORIZATION </U><B> need, require | ask for, seek </B><I>He asked for authorization to proceed with the plan. </I><B>| get, have, obtain | give sb, grant (sb) | refuse (sb) </B><I>The government will probably refuse authorization under these conditions. </I><B>| revoke </B> </P>
+<P> <U> PREP. </U><B> with/without ~ </B><I>You cannot take a day off without authorization. </I><B>| ~ for </B><I>Formal authorization for the trip was given last week. </I><B>| ~ from </B><I>The change of plan would require authorization from the minister. </I> </P>
+</DIV>

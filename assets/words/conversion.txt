@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>conversion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> change to a new form/system/use </TT> </P>
+<P> <U> ADJ. </U><B> careful </B><I>Today, after a careful conversion, it is a very comfortable and elegant country home. </I><B>| barn, loft | office | currency </B><I>There are no charges for currency conversion. </I><B>| data, file | energy </B><I>Cheap solar energy conversion has been the dream of some scientists since the 1970s. </I> </P>
+<P> <U> VERB + CONVERSION </U><B> carry out, undertake </B> </P>
+<P> <U> PREP. </U><B> ~ from, ~ into </B><I>A local building firm will carry out the conversion of the farm buildings into business units. </I><B>| ~ to </B><I>conversion from analogue to digital data </I> </P>
+<P> <SUP> 2 </SUP> <TT> religious </TT> </P>
+<P> <U> ADJ. </U><B> religious | deathbed | overnight, sudden </B><I>(figurative) her overnight conversion to market economics </I> </P>
+<P> <U> VERB + CONVERSION </U><B> experience, undergo </B><I>In the late eighties he underwent a religious conversion. </I> </P>
+<P> <U> CONVERSION + NOUN </U><B> experience </B> </P>
+<P> <U> PREP. </U><B> ~ from, ~ to </B><I>her conversion from Buddhism to Christianity </I> </P>
+<P> <SUP> 3 </SUP> <TT> in rugby </TT> </P>
+<P> <U> VERB + CONVERSION </U><B> kick | add </B><I>The try came in the third minute and Jon Bland added the conversion. </I> </P>
+</DIV>

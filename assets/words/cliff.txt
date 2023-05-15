@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cliff </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, towering | low | dramatic, precipitous, sheer, steep | craggy, jagged, rocky, rugged | chalk, limestone, etc. | coastal, mountain, river, sea </B> </P>
+<P> <U> QUANT. </U><B> line </B><I>a long line of cliffs surrounding the bay </I> </P>
+<P> <U> VERB + CLIFF </U><B> climb, scale </B> </P>
+<P> <U> CLIFF + VERB </U><B> fall (away), rise (up) </B><I>The cliffs fall away to the north. Rugged sandstone cliffs rose up from the beach. </I><B>| overlook sth, tower </B><I>Steep cliffs towered above the river. </I><B>| crumble </B><I>crumbling cliffs </I> </P>
+<P> <U> CLIFF + NOUN </U><B> edge, face, ledge, top | path, walk </B> </P>
+<P> <U> PHRASES </U><B> be perched (high) on a cliff </B><I>The hotel was perched high on a cliff overlooking the sea. </I><B>| the base/bottom/edge/foot/top of the cliff</B> </P>
+</DIV>

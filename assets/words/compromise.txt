@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>compromise </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acceptable, fair, good, happy, honourable, possible, pragmatic, reasonable, sensible, suitable | ideal | muddled, uneasy, unsatisfactory </B><I>After months of negotiations, they have reached an uneasy compromise. </I><B>| inevitable, necessary </B> </P>
+<P> <U> VERB + COMPROMISE </U><B> agree on, arrive at, come to, find, make, reach, work out </B><I>I'm not making any more compromises. They're still trying to work out an acceptable compromise. </I><B>| look for, seek </B><I>It is best to try to seek a compromise rather than a perfect solution. </I><B>| offer, suggest </B><I>After much discussion, she offered a compromise. </I><B>| accept | reject </B> </P>
+<P> <U> COMPROMISE + NOUN </U><B> agreement, deal, formula, proposal, resolution, solution | candidate </B><I>He might be an attractive compromise candidate if both sides' first choices are rejected. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>It was a fair compromise between the two sides. </I><B>| ~ on/over </B><I>They came to a compromise over the exact amount to be paid. </I><B>| ~ with </B><I>There could be no compromise with the nationalists. </I>&gt; Special page at MEETING </B> </P>
+</DIV><DIV class="item"><P class="word"><B>compromise </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> in order to reach agreement </TT> </P>
+<P> <U> VERB + COMPROMISE </U><B> be prepared to, be ready to | refuse to </B><I>He wanted his own way and refused to compromise. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>Unions and management seem ready to compromise on the level of the pay increase. </I><B>| with </B><I>They debated whether to compromise with the opposition parties. </I> </P>
+<P> <SUP> 2 </SUP> <TT> damage/put in danger </TT> </P>
+<P> <U> ADV. </U><B> seriously </B><I>The affair seriously compromised the party's prospects of electoral success. </I> </P>
+<P> <U> VERB + COMPROMISE </U><B> be prepared to, be ready to | refuse to </B> </P>
+<P> <U> PREP. </U><B> on </B><I>We are not prepared to compromise on safety standards. </I> </P>
+</DIV>

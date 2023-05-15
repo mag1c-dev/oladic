@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>assertion </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bold, confident, proud | categorical, dogmatic, general, sweeping </B><I>sweeping assertions about the role of women in society </I><B>| simple </B><I>The argument needs to progress beyond the simple assertion that criminals are made not born. </I><B>| unfounded, unsubstantiated, unsupported </B> </P>
+<P> <U> VERB + ASSERTION </U><B> make </B><I>How can you make such an assertion? </I><B>| justify, prove, support </B><I>Your assertion is not supported by the facts. </I><B>| accept, agree with | challenge, question </B><I>Researchers have recently challenged these assertions. </I><B>| reject | refute </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>assertions about human nature </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>correspondence </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> letters exchanged </TT> </P>
+<P> <U> ADJ. </U><B> confidential, personal, private | business, commercial, diplomatic, official | regular | voluminous | lively </B><I>a lively correspondence in &lsquo;The Times&rsquo; about ways of preparing tripe </I> </P>
+<P> <U> QUANT. </U><B> item </B><I>Numerous items of correspondence have been received on this subject. </I><B>| pile </B><I>He was leafing through piles of correspondence. </I> </P>
+<P> <U> VERB + CORRESPONDENCE </U><B> enter into, have </B><I>It would be foolish for a doctor to enter into correspondence with a patient. I have had correspondence with the company director on this matter. </I><B>| carry on, keep up </B><I>We kept up a correspondence for many months. </I><B>| send </B><I>Please send correspondence to &lsquo;Letters to the Editor, Model Railway Journal&rsquo;. </I><B>| receive | read | answer, deal with, handle </B><I>The secretary deals with all the correspondence. </I><B>| catch up on </B><I>I would spend the time reading or catching up on my correspondence. </I><B>| intercept </B><I>The department intercepted the correspondence of foreign diplomats. </I> </P>
+<P> <U> CORRESPONDENCE + NOUN </U><B> column </B><I>the correspondence columns of the &lsquo;London Review of Books&rsquo; </I><B>| course </B><I>I did a correspondence course in economics. </I> </P>
+<P> <U> PREP. </U><B> by/through ~ </B><I>All our business is conducted by correspondence. </I><B>| in ~ with </B><I>I have been in correspondence with the manager of the store. </I><B>| ~ about/on/concerning/regarding/relating to </B><I>files full of confidential correspondence relating to the company's expansion plans </I><B>| ~ between </B><I>I have seen the correspondence between the company and the local authority. </I><B>| ~ from </B><I>The editor welcomes correspondence from readers on any subject. </I><B>| ~ with </B><I>copies of his correspondence with the Queen </I> </P>
+<P> <SUP> 2 </SUP> <TT> connection </TT> </P>
+<P> <U> ADJ. </U><B> direct, exact, one-to-one </B><I>The child can see the one-to-one correspondence of the buttons and buttonholes. </I><B>| close </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>a close correspondence between theory and practice </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>friction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> disagreement between people/groups </TT> </P>
+<P> <U> ADJ. </U><B> considerable, serious | increasing | constant </B><I>I'm exhausted from the constant friction between my boss and my colleagues. </I> </P>
+<P> <U> VERB + FRICTION </U><B> cause, create, generate, lead to, produce </B><I>His decision led to considerable friction in his family. </I><B>| prevent </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>friction between neighbours </I><B>| ~ with </B><I>Her requests for time off created friction with her boss. </I> </P>
+<P> <U> PHRASES </U><B> a cause/source of friction </B> </P>
+<P> <SUP> 2 </SUP> <TT> rubbing of one thing against another </TT> </P>
+<P> <U> VERB + FRICTION </U><B> cause, generate, produce </B><I>Rubbing the stones together produces friction. </I><B>| reduce</B> </P>
+</DIV>

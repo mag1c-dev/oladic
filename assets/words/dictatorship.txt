@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>dictatorship </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> communist, fascist | left-wing, right-wing | military | totalitarian | benevolent </B> </P>
+<P> <U> VERB + DICTATORSHIP </U><B> establish, set up </B><I>The generals established a military dictatorship. </I><B>| overthrow </B><I>They succeeded in overthrowing the fascist dictatorship. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>the atrocities that took place during his dictatorship </I><B>| under (a/the) ~ </B><I>These men had all lived under dictatorship. </I> </P>
+</DIV>

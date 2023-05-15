@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>review </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> considering sth again </TT> </P>
+<P> <U> ADJ. </U><B> complete, comprehensive, extensive, full, full-scale, fundamental, in-depth, major, overall, systematic, thorough, wide-ranging | brief, rapid, short | urgent | annual, periodic, regular </B><I>the government's annual policy review </I><B>| constant, continuous | critical </B><I>The first chapter presents a critical review of the existing nursery education system. </I><B>| government, independent, internal, judicial | financial, pay, performance, policy, rent </B> </P>
+<P> <U> VERB + REVIEW </U><B> ask for, call for, campaign for, press for, seek </B><I>Greenpeace will seek a judicial review if a full public enquiry is not held. </I><B>| announce, order | carry out, conduct, do, hold, undertake | present </B> </P>
+<P> <U> REVIEW + VERB </U><B> take place | cover sth, deal with sth | conclude sth, indicate sth, propose sth, recommend sth, suggest sth </B> </P>
+<P> <U> REVIEW + NOUN </U><B> body, committee, group </B> </P>
+<P> <U> PREP. </U><B> due for ~ </B><I>The rent is due for review. </I><B>| under ~ </B><I>The matter is still under review. </I><B>| ~ by </B><I>a review by the court </I> </P>
+<P> <SUP> 2 </SUP> <TT> report on a film, restaurant, etc. </TT> </P>
+<P> <U> ADJ. </U><B> enthusiastic, favourable, glowing, good, rave | bad, hostile, poor, scathing </B><I>The show has good audience figures despite poor reviews in the press. </I><B>| critical | mixed </B><I>The book received mixed reviews. </I><B>| book, film </B> </P>
+<P> <U> VERB + REVIEW </U><B> do, write </B><I>I'm doing a review for the local paper. </I><B>| give sth | get, have, receive, win | open to </B><I>Their new musical opened to glowing reviews. </I><B>| read, see </B><I>Did you see the review in &lsquo;The Times&rsquo;? </I> </P>
+<P> <U> REVIEW + VERB </U><B> appear </B><I>His review appeared in yesterday's paper. </I> </P>
+<P> <U> REVIEW + NOUN </U><B> copy</B> </P>
+</DIV><DIV class="item"><P class="word"><B>review </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> examine sth again </TT> </P>
+<P> <U> ADV. </U><B> comprehensively, fully, thoroughly | extensively, widely | carefully | briefly | urgently </B><I>Safety procedures are being urgently reviewed after a chemical leak at the factory. </I><B>| currently </B><I>We are currently reviewing the situation. </I><B>| constantly, regularly | annually, from time to time, periodically </B><I>This figure will be reviewed from time to time in the light of inflation. </I><B>| critically </B><I>Pull out your budget and critically review each line on it. </I> </P>
+<P> <U> VERB + REVIEW </U><B> agree to, promise to | ask sb to | decline to, refuse to </B> </P>
+<P> <U> PHRASES </U><B> review sth in the light of sth </B><I>This case should be reviewed in the light of new evidence. </I> </P>
+<P> <SUP> 2 </SUP> <TT> write a report of a book/film, etc. </TT> </P>
+<P> <U> ADV. </U><B> favourably </B><I>The film has been favourably reviewed in a number of papers. </I><B>| critically</B> </P>
+</DIV>

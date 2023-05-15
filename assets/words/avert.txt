@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>avert </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> prevent sth </TT> </P>
+<P> <U> ADV. </U><B> narrowly </B><I>A tragedy was narrowly averted when a lorry crashed into a crowded restaurant. </I> </P>
+<P> <U> VERB + AVERT </U><B> attempt to, try to | manage to </B><I>He managed to avert the closure of the factory. </I><B>| fail to </B> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to avert sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> turn sth away </TT> </P>
+<P> <U> ADV. </U><B> hastily, quickly </B><I>They hastily averted their faces to hide their giggles. </I> </P>
+<P> <U> VERB + AVERT </U><B> try to </B> </P>
+<P> <U> PREP. </U><B> from </B><I>averting his eyes from the dead child </I> </P>
+</DIV>

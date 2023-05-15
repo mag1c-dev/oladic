@@ -1,0 +1,4 @@
+
+<div class="item"><p class="word first"><b>sailor </b><i>noun</i>  </p>
+<p> <u> ADJ. </u><div class="ex"><b> experienced, good, keen | inexperienced, novice | drowned, shipwrecked</b></div></p>
+</div>

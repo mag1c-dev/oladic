@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>face </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> front part of the head </TT> </P>
+<P> <U> ADJ. </U><B> angelic, beautiful, handsome, lovely, pleasant, pretty, sweet | plain, ugly, terrible | colourless, grey, pale, pallid, white | flushed, pink, red, ruddy </B><I>Her face was flushed after her run. </I><B>| tanned | dark | sallow | heart-shaped, oval, round, square | bearded, freckled, unshaven | lined, wrinkled | pock-marked, raddled | fat, plump </B><I>She had a plump, pretty face. </I><B>| gaunt, haggard, lean, pinched, thin, wizened | craggy, rugged </B><I>a craggy face with deep-set eyes and bushy brows </I><B>| elfin </B><I>Her short hair suited her elfin face. </I><B>| painted | happy, smiling | tear-stained, tear-streaked | human </B> </P>
+<P> <U> VERB + FACE </U><B> tilt, turn </B><I>She turned her face away. He tilted her face up to his. </I> </P>
+<P> <U> FACE + VERB </U><B> look, peer, stare </B><I>A face peered round the door at him. </I> </P>
+<P> <U> PREP. </U><B> in the/sb's ~ </B><I>The ball hit him in the face. His eyes were sunken in his gaunt face. </I><B>| on the/sb's ~ </B><I>She put some powder on her face. </I> </P>
+<P> <U> PHRASES </U><B> a sea of faces </B>(= a large crowd of faces) <I>From the stage, he looked down at a sea of faces. </I> </P>
+<P> <SUP> 2 </SUP> <TT> expression on sb's face </TT> </P>
+<P> <U> ADJ. </U><B> animated, cheerful, friendly, grinning, happy, radiant, smiling | anxious, frightened, troubled | angry, furious | hard, set, stern </B><I>His face was set and hard. </I><B>| grave, serious | long, sad </B><I>The news for the company isn't good, judging from the long faces in the boardroom. </I><B>| funny </B><I>She made a funny face and gave a snorting sort of laugh. </I><B>| honest, kind | expectant | rapt | expressive, open </B><I>She looked at the honest, open face of her husband. </I><B>| blank, expressionless, impassive </B><I>His face remained impassive, so strong was his self-control. </I> </P>
+<P> <U> VERB + FACE </U><B> make, pull </B><I>What are you pulling a face at now? </I><B>| search </B><I>He searched her face for some clue as to what she meant. </I> </P>
+<P> <U> FACE + VERB </U><B> brighten, glow, light up </B><I>Her little face lit up when I gave her the present. </I><B>| beam, smile </B><I>The face smiled benignly at him. </I><B>| cloud, crumple, drop, fall </B><I>Her face crumpled and she started crying. &lsquo;I can't come,&rsquo; she said. His face fell. </I><B>| clear </B><I>His face cleared and she smiled back. </I><B>| darken, harden, set </B><I>Her face darkened with anger. His face set in grim lines. </I><B>| soften </B><I>The father's face softened as he hugged his little boy. </I><B>| flame, flush, go red, redden </B><I>Jack's face flushed with embarrassment. </I><B>| pale </B><I>Her face paled with fright. </I><B>| contort, crease, pucker, tighten, twist </B><I>Her face contorted in pain. </I><B>| betray sth, reveal sth </B><I>Her face betrayed no emotion at all. </I> </P>
+<P> <U> PREP. </U><B> on sb's ~ </B><I>She had a bi</I>g </B><I>smile on her face</I>. </B> </P>
+<P> <U> PHRASES </U><B> a face like thunder </B>(= a very angry face) <I>Mr Hibbs came in with a face like thunder. </I> </P>
+<P> <SUP> 3 </SUP> <TT> front part/side of sth </TT> </P>
+<P> <U> ADJ. </U><B> front, rear | North, South, etc. | steep </B><I>We slowly climbed the steep face of the crag. </I><B>| cliff, rock | clock </B> </P>
+<P> <U> PHRASES </U><B> face down/downwards, face up/upwards </B><I>She placed the cards face downwards on the table. </I> </P>
+<P> <SUP> 4 </SUP> <TT> person </TT> </P>
+<P> <U> ADJ. </U><B> familiar, (same) old </B><I>I looked around for a familiar face. I'm so bored with seeing the same old faces! </I><B>| different, fresh, new, strange, unfamiliar | famous, well-known </B><I>a restaurant where you often see famous faces </I> </P>
+<P> <U> VERB + FACE </U><B> see </B> </P>
+<P> <SUP> 5 </SUP> <TT> particular character/aspect of sth </TT> </P>
+<P> <U> ADJ. </U><B> human </B><I>bureaucracy with a human face </I><B>| acceptable | unacceptable </B><I>Social deprivation is the unacceptable face of capitalism. </I><B>| true | changing </B><I>the changing face of Britain </I> </P>
+</DIV>

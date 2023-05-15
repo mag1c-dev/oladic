@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>merit </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, exceptional, great, outstanding | aesthetic, architectural, artistic, literary </B><I>The film has no artistic merit whatsoever. </I><B>| relative </B><I>We need to consider the relative merits of both makes of cooker. </I><B>| individual </B><I>Each case should be judged on its individual merits. </I> </P>
+<P> <U> VERB + MERIT </U><B> have | argue, assess, consider, debate, discuss, judge </B><I>We need to assess the merits of both proposals before making our decision. </I> </P>
+<P> <U> MERIT + NOUN </U><B> award </B><I>She received a merit award for outstanding work. </I> </P>
+<P> <U> PREP. </U><B> according to ~ </B><I>Films are given a rating of one to five stars according to merit. </I><B>| on ~ </B><I>Prizes are awarded entirely on merit. </I> </P>
+<P> <U> PHRASES </U><B> no merit in doing sth </B><I>I can see no merit in excluding the child from school. </I><B>| order of merit </B><I>The winners are ranked in order of merit. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>merit </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> certainly, clearly | hardly </B><I>The question hardly merits an answer. </I> </P>
+</DIV>

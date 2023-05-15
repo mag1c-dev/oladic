@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>footpath </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> public | long-distance </B> </P>
+<P> <U> VERB + FOOTPATH </U><B> follow, take, use | keep to </B> </P>
+<P> <U> FOOTPATH + VERB </U><B> follow sth, lead, run </B><I>The footpath runs along the canal. </I><B>| cross sth </B><I>a footpath crossing farmland </I><B>| link sth </B><I>the footpath linking Sprotton and Lumm </I> </P>
+<P> <U> FOOTPATH + NOUN </U><B> network, system </B> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>We walked along the footpath. </I><B>| by (a/the) ~ </B><I>The monastery is an hour away by footpath. </I><B>| down a/the ~, on the ~ </B><I>We stood on the footpath and waited for a gap in the traffic. </I><B>| up a/the ~ | ~ across, ~ along, ~ alongside, ~ from, ~ over, ~ through, ~ to </B><I>the footpath through the wood </I> </P>
+</DIV>

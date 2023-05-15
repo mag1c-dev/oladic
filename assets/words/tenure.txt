@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>tenure </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> holding an important position </TT> </P>
+<P> <U> ADJ. </U><B> life, long | brief, short </B> </P>
+<P> <U> VERB + TENURE </U><B> have </B><I>She had a long tenure of office. </I> </P>
+<P> <U> PREP. </U><B> during sb's ~ </B><I>He achieved a lot during his short tenure. </I> </P>
+<P> <U> PHRASES </U><B> a tenure of office </B> </P>
+<P> <SUP> 2 </SUP> <TT> legal right to occupy property/land </TT> </P>
+<P> <U> ADJ. </U><B> life, secure | fixed-period | housing, land | feudal, freehold </B> </P>
+<P> <U> PHRASES </U><B> security of tenure </B><I>The tenants have security of tenure. </I> </P>
+<P> <SUP> 3 </SUP> <TT> right to remain permanently in your job </TT> </P>
+<P> <U> ADJ. </U><B> academic </B> </P>
+<P> <U> VERB + TENURE </U><B> have | get | grant sb </B><I>She has been granted tenure at Leeds University. </I> </P>
+</DIV>

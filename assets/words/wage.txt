@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>wage </B><I>noun </I><B>(</B>also<B>wages) </B> </P>
+<P> <U> ADJ. </U><B> decent, fair, good, high | inadequate, low, meagre, small </B><I>He busked to supplement his meagre wages. </I><B>| annual, hourly, regular, etc. | gross, pre-tax | after-tax, net | money | real </B><I>If money wages remain constant and price levels rise, real wages fall. </I><B>| basic, standard </B><I>a basic wage of </I>&pound;</B><I>100 a week plus tips </I><B>| living </B><I>workers fighting for a living wage </I><B>| minimum | average </B> </P>
+<P> <U> VERB + WAGE </U><B> pay | earn </B><I>She earns a good wage at the factory. </I><B>| live on </B><I>How can you live on such a low wage? </I><B>| increase, keep up, push up, raise </B><I>Full employment pushed up wages. </I><B>| cut, force down, hold down, keep down | supplement </B> </P>
+<P> <U> WAGE + VERB </U><B> increase, rise | decrease, fall </B> </P>
+<P> <U> WAGE + NOUN </U><B> earner | labour, workers | claim </B><I>The union submitted a wage claim for a 9% rise. </I><B>| bargaining, negotiations | agreement, settlement | cut, reduction | controls, freeze, restraint </B><I>The government promised greater tax cuts in return for continued wage restraints. </I><B>| explosion, increase, inflation, rise | bill, costs | structure, system | differentials </B><I>wage differentials between large and small firms </I><B>| packet </B><I>He got his first wage packet at fourteen years old. </I> </P>
+<P> <U> PHRASES </U><B> a cut/fall in wages, growth in wages, an increase/a rise in wages</B> </P>
+</DIV>

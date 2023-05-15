@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>stereotype </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> common, popular, traditional, usual | negative | cultural, national, racial | gender, sexual | social </B> </P>
+<P> <U> VERB + STEREOTYPE </U><B> create, produce | perpetuate, reinforce </B><I>Jokes perpetuate various national stereotypes. </I><B>| conform to, fit </B><I>Not all areas of the country fit the stereotypes of the poor north and the rich south. </I><B>| challenge, reject </B><I>a writer who challenges sexual stereotypes </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>common stereotypes about the French </I><B>| ~ of </B><I>the stereotype of women as passive victims </I> </P>
+</DIV>

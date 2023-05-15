@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>swallow </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> food/drink, etc. </TT> </P>
+<P> <U> ADV. </U><B> hastily, quickly | accidentally </B><I>She accidentally swallowed a glass bead. </I><B>| easily </B><I>Liquid food may be more easily swallowed. </I><B>| down </B><I>She swallowed down her breakfast in a hurry. </I> </P>
+<P> <U> PHRASES </U><B> swallow sth whole </B><I>Most snakes swallow their prey whole. </I> </P>
+<P> <SUP> 2 </SUP> <TT> move your throat muscles </TT> </P>
+<P> <U> ADV. </U><B> deeply, hard | convulsively, drily, nervously, painfully </B><I>She swallowed convulsively, determined not to cry. </I><B>| back </B><I>He swallowed back the lump in his throat. </I> </P>
+<P> <U> VERB + SWALLOW </U><B> have to </B><I>She had to swallow hard before she could speak. </I> </P>
+</DIV>

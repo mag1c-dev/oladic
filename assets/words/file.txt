@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>file </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put sth in a file </TT> </P>
+<P> <U> ADV. </U><B> carefully | alphabetically | away </B><I>These notes should be carefully filed away for future reference. </I> </P>
+<P> <U> PREP. </U><B> under </B><I>The card is filed alphabetically under the name of the editor. </I> </P>
+<P> <SUP> 2 </SUP> <TT> record sth officially </TT> </P>
+<P> <U> ADV. </U><B> formally </B><I>He has now formally filed a complaint against the police. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>to file for bankruptcy/divorce </I><B>| with </B><I>A copy of the notice must be filed with the court. </I> </P>
+<P> <SUP> 3 </SUP> <TT> walk in line </TT> </P>
+<P> <U> ADV. </U><B> silently | out, past </B><I>The long line of mourners filed silently past. </I> </P>
+<P> <U> PREP. </U><B> in, into, out of, past, through</B> </P>
+</DIV>

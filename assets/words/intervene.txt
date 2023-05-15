@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>intervene </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> become involved in a situation </TT> </P>
+<P> <U> ADV. </U><B> actively, directly | personally | decisively | effectively, successfully | militarily </B><I>Intervening militarily will not bring peace. </I> </P>
+<P> <U> VERB + INTERVENE </U><B> be forced to, have to </B><I>Eventually, the army was forced to intervene. </I><B>| be reluctant to | be powerless to </B><I>Local people feel strongly about the proposed development but are virtually powerless to intervene. </I><B>| have the power to, have the right to </B><I>Our government has no right to intervene. </I><B>| refuse to </B><I>The UN refused to intervene. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>They would not intervene against the rebels themselves. </I><B>| between </B><I>She went over to intervene between the two men. </I><B>| in </B><I>She was reluctant to intervene in what was essentially a private dispute. </I><B>| on behalf of </B><I>The King intervened personally on behalf of the children. </I><B>| with </B><I>to intervene with the authorities on the prisoners' behalf </I> </P>
+</DIV>

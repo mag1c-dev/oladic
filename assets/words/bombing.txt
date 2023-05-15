@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>bombing </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> aerial </B><I>the aerial bombing of ports </I><B>| precision | wartime | area, carpet, indiscriminate, saturation | strategic | enemy </B><I>The neighbourhood was badly damaged by enemy bombing. </I><B>| terrorist | suicide </B> </P>
+<P> <U> BOMBING + NOUN </U><B> attack | blitz, campaign | mission, raid, sortie </B><I>He was shot down during a bombing raid over London. </I><B>| target | victim</B> </P>
+</DIV>

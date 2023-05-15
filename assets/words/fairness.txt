@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>fairness </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strict </B> </P>
+<P> <U> VERB + FAIRNESS </U><B> achieve, ensure, guarantee </B><I>a way of achieving fairness to the accused </I> </P>
+<P> <U> FAIRNESS + VERB </U><B> call for sth, demand sth, require sth </B><I>Fairness demanded an equal division of the winnings. </I> </P>
+<P> <U> PREP. </U><B> in (all) ~ </B><I>In all fairness to him, I should say that most of his story is true. </I><B>| with ~ </B><I>They were all treated with strict fairness. </I><B>| ~ in </B><I>the need for fairness in applying these rules </I><B>| ~ to </B><I>The new system of waiting lists should guarantee fairness to all patients. </I> </P>
+<P> <U> PHRASES </U><B> a sense of fairness </B><I>Children have a very strong sense of fairness. </I> </P>
+</DIV>

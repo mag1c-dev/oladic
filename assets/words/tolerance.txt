@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>tolerance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, high, remarkable | low | amused, patronising </B><I>He watched the kids throw water around with amused tolerance. </I><B>| political, racial, religious | zero (of crime) </B><I>Howard County has a zero tolerance policy on alcohol use by teenagers. </I> </P>
+<P> <U> QUANT. </U><B> degree, level </B> </P>
+<P> <U> VERB + TOLERANCE </U><B> have | show | lack | learn </B> </P>
+<P> <U> TOLERANCE + NOUN </U><B> level </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Some children have a low tolerance for boredom. </I><B>| ~ of </B><I>people with a high tolerance of discomfort </I><B>| ~ to </B><I>Tolerance to alcohol decreases with age. </I><B>| ~ towards </B><I>She was showing greater tolerance towards her younger sister than before. </I> </P>
+</DIV>

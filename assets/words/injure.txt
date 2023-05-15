@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>injure </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> harm yourself/sb physically </TT> </P>
+<P> <U> ADV. </U><B> badly, seriously, severely | slightly | accidentally </B><I>insurance to cover you in case one of your employees accidentally injures someone </I><B>| deliberately </B> </P>
+<P> <SUP> 2 </SUP> <TT> damage sb's reputation, pride, etc. </TT> </P>
+<P> <U> ADV. </U><B> seriously, severely </B><I>This incident could seriously injure the company's reputation. </I> </P>
+<P> <U> VERB + INJURE </U><B> be calculated to </B><I>(law)</I>, <B>be likely to </B><I>espionage activity which was likely to injure the national interest </I> </P>
+</DIV>

@@ -1,0 +1,33 @@
+
+<DIV class="item"><P class="word"><B>light </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not dark </TT> </P>
+<P> <U> VERBS </U><B> be | become, get, grow </B><I>It was starting to get light. As soon as it grew light, we got up and dressed. </I> </P>
+<P> <U> ADV. </U><B> completely, quite </B><I>We'll set out as soon as it's completely light. </I><B>| almost </B><I>It was almost light outside. </I><B>| fairly | enough </B><I>It was not light enough to see things clearly. </I><B>| still | beautifully </B><I>The whole house was beautifully light and airy. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not weighing much </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem | become </B> </P>
+<P> <U> ADV. </U><B> exceptionally, extraordinarily, extremely, very | fairly, quite, reasonably, relatively | enough </B><I>The tent is light enough for backpacking and touring. </I><B>| surprisingly </B> </P>
+<P> <SUP> 3 </SUP> <TT> not great in amount/degree </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> very | comparatively, fairly, quite, relatively </B><I>The traffic is usually fairly light in the afternoons. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>light bulb </B><I>noun</I> &gt; See <A HREF="bulb_noun.htm">BULB</A> </B> </P>
+</DIV><DIV class="item"><P class="word"><B>light </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> brightness </B> </TT> </P>
+<P> <U> ADJ. </U><B> clear, good | bright, harsh, intense, strong | blinding | full  </B><I>In full light, you could see Alison was well over forty. </I><B>| bad, dim, faint, feeble, murky, poor,  uncertain, weak | subdued | failing </B><I>We could hardly see the ball in the failing light. </I><B>| gentle, pale, soft, watery | mellow, warm | cold, cool </B><I>in the cold light of morning </I><B>| early | artificial | natural | infrared, ultraviolet  </B><I>film that is sensitive to ultraviolet light </I><B>| visible </B> </P>
+<P> <U> QUANT. </U><B> beam, ray | burst, flash, gleam, glimmer </B><I>There was a flash of light followed by an explosion. </I><B>| patch, pool  </B> </P>
+<P> <U> VERB + LIGHT </U><B> have </B><I>Have you got enough light for reading? </I><B>| generate, produce | cast, emit, give (out), provide, shed </B><I>light emitted by a star </I><B>| be bathed in | be sensitive to </B> </P>
+<P> <U> LIGHT + VERB </U><B> gleam, glow, shine | come, fall, pour </B><I>Light from a tall lamp fell in a pool on the desk. </I><B>| reflect </B><I>The light reflecting off the snow was dazzling. </I><B>| grow stronger, increase | fade, fail | blind sb, dazzle sb </B><I>We were momentarily blinded by the light of the sun. </I><B>| catch sth </B><I>You could see the imperfections in the repair when the light caught it. </I> </P>
+<P> <U> LIGHT + NOUN </U><B> level | source | beam </B> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>She held up the letter against the light. </I><B>| by the ~ of </B><I>They managed to see where the door was by the light of the moon. </I><B>| into the ~ </B><I>Bring it into the light and we'll have a look at it. </I><B>| in the ~ </B><I>The place looked calm in the golden evening light. </I><B>| ~ from </B><I>the light from the kitchen window </I> </P>
+<P> <U> PHRASES </U><B> (at) the speed of light </B><I>Nothing can travel faster than the speed of light. </I><B>| a point of light, a source of light </B><I>The lamp was the only source of light in the room. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that produces light </TT> </P>
+<P> <U> ADJ. </U><B> bright </B><I>the bright lights of the city </I><B>| flashing, twinkling | electric, fluorescent, gas, neon, strip | bedside, ceiling, outside, overhead, wall | street | hazard, security, warning </B><I>The car was stopped at the side of the road with its hazard lights flashing. A warning light goes on when the battery is running low. </I><B>| landing </B><I>The pilot could just make out the runway landing lights. </I> </P>
+<P> <U> VERB + LIGHT </U><B> put on, switch on, turn on | have on </B><I>Some cars already had their lights on. </I><B>| leave on | extinguish, put off/out, switch off, turn off/out | turn up | dim, turn down | shine </B><I>Someone shone a light in my face. </I> <B>| flash </B><I>He flashed his lights to warn the oncoming cars. </I> </P>
+<P> <U> LIGHT + VERB </U><B> be off/on | come on </B><I>The warning light came on. </I><B>| go out | fuse | gleam, glimmer, glow, shine | flash </B><I>The blue light was flashing. </I><B>| flicker </B><I>The light flickered a couple of times then went out. </I><B>| blind sb, dazzle sb </B> </P>
+<P> <U> LIGHT + NOUN </U> switch | fitting &gt; See <A HREF="traffic light_noun.htm">TRAFFIC LIGHT</A> </P>
+</DIV><DIV class="item"><P class="word"><B>light </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sth begin to burn </TT> </P>
+<P> <U> VERB + LIGHT </U><B> attempt to, try to | pause to, stop to </B><I>She paused to light another cigarette. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (often<B>be lit</B>) give light to sth </TT> </P>
+<P> <U> ADV. </U><B> well </B><I>a brightly lit room </I><B>| badly, dimly, poorly </B><I>a dimly lit street </I><B>| brightly, brilliantly | softly | briefly, momentarily </B><I>(figurative) A gleam of humour momentarily lit his face. </I><B>| suddenly | artificially, electrically | up </B><I>There was an explosion and the whole sky lit up. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>(figurative) Her face lit up with pleasure. </I> </P>
+</DIV>

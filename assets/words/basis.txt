@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>basis </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> starting point </TT> </P>
+<P> <U> ADJ. </U><B> firm, solid, sound </B> </P>
+<P> <U> VERB + BASIS </U><B> form, provide </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The proposal provides a sound basis for a book. </I> </P>
+<P> <U> PHRASES </U><B> have no basis in sth </B><I>These allegations have no basis in fact. </I> </P>
+<P> <SUP> 2 </SUP> <TT> principle/reason </TT> </P>
+<P> <U> ADJ. </U><B> whole </B> </P>
+<P> <U> PREP. </U><B> on the ~ of </B><I>We made our decision on the basis of the information we had. </I><B>| ~ for </B><I>The whole basis for your argument is false. </I> </P>
+<P> <SUP> 3 </SUP> <TT> way sth is done/organized </TT> </P>
+<P> <U> ADJ. </U><B> regular | daily, monthly, weekly, etc. </B><I>Staff are employed on a monthly basis. </I><B>| permanent, temporary | casual, part-time, voluntary | commercial </B> </P>
+<P> <U> PREP. </U><B> on a &hellip; ~</B> </P>
+</DIV>

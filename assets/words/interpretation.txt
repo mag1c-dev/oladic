@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>interpretation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> correct, right, true, valid | erroneous, false, wrong | plausible, reasonable | simplistic | literal, narrow, strict | free, generous, liberal, loose, wide | alternative, competing, conflicting, different, diverse, multiple | artistic </B> </P>
+<P> <U> VERB + INTERPRETATION </U><B> give sth, make </B><I>In practice, this law is often given a wide interpretation by the police. Scientists made an interpretation based on the data available. </I><B>| be open to </B><I>The wording of this section of the contract is open to interpretation. </I> </P>
+<P> <U> PHRASES </U><B> put an interpretation on sth </B><I>It is possible to put an entirely different interpretation on her behaviour. </I> </P>
+</DIV>

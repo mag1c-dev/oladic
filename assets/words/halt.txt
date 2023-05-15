@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>halt </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> abrupt, sudden </B><I>The bus came to an abrupt halt outside the school. </I><B>| grinding, shuddering </B><I>The strike brought the capital city to a grinding halt. </I><B>| temporary | immediate </B> </P>
+<P> <U> VERB + HALT </U><B> come to, draw to, grind to, jolt to, lurch to, scream to, screech to, shudder to, skid to, slide to, slither to </B><I>The economy seems to be grinding to a halt. The car skidded to a halt just inches from the river. </I><B>| bring sth to </B><I>Production was brought to a temporary halt when power supplies failed. </I><B>| call </B><I>Scientists have decided to call a halt to the tests. </I><B>| call for, demand </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a halt in nuclear testing </I><B>| ~ to </B><I>The protesters are calling for a halt to the export of live animals. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>halt </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> virtually | effectively </B><I>The strike effectively halted production at the factory. </I><B>| abruptly </B><I>All these ideas for expansion were abruptly halted by the outbreak of war. </I><B>| briefly, temporarily | finally </B> </P>
+<P> <U> VERB + HALT </U><B> try to | threaten to | fail to </B><I>failing to halt the destruction of the rainforest </I> </P>
+<P> <U> PHRASES </U><B> halt in your tracks </B><I>A sudden shout made them halt in their tracks and look round. </I><B>| halt sth in its tracks </B><I>The development programme has been halted in its tracks by this intervention. </I> </P>
+</DIV>

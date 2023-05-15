@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>preparation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> getting sth ready </TT> </P>
+<P> <U> ADJ. </U><B> careful, thorough | elaborate | adequate | initial </B><I>It is the initial preparation that takes the time. </I> </P>
+<P> <U> VERB + PREPARATION </U><B> need, require </B><I>a dish that requires no elaborate preparation or cooking </I><B>| do </B><I>He's done a lot of preparation for this meeting. </I> </P>
+<P> <U> PREPARATION + NOUN </U><B> time </B><I>This simple dish takes very little preparation time. </I> </P>
+<P> <U> PREP. </U><B> in ~ for </B><I>Get a good night's sleep in preparation for the journey. </I></P>
+<P> <SUP> 2 </SUP> <TT> preparations: things done to get sth ready  </TT> </P>
+<P> <U> ADJ. </U><B> elaborate, meticulous, special | secret | necessary | final, last-minute | Christmas, wedding, etc. | military </B><I>military preparations for full-scale action </I> </P>
+<P> <U> VERB + PREPARATION </U><B> make </B><I>making the final preparations for the party </I><B>| begin, go ahead with | be busy with | complete, finalize </B> </P>
+<P> <U> PREPARATION + VERB </U><B> be in hand, be under way </B><I>Preparations are now in hand to close half the factories. </I><B>| be complete </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The family can now go ahead with preparations for the funeral. </I> </P>
+</DIV>

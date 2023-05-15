@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>package </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> parcel </TT> </P>
+<P> <U> ADJ. </U><B> bulky | neat | suspect, suspicious </B><I>Police destroyed the suspect package in a controlled explosion. </I> </P>
+<P> <U> VERB + PACKAGE </U><B> unwrap, wrap | post, send | deliver | sign for </B> </P>
+<P> <U> PACKAGE + VERB </U><B> contain </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>I sent the books in one big package. </I> </P>
+<P> <SUP> 2 </SUP> <TT> set of proposals </TT> </P>
+<P> <U> ADJ. </U><B> complete, comprehensive, total | attractive, excellent | reform | benefits, compensation, financial, remuneration </B><I>a comprehensive benefits package </I><B>| redundancy | aid, assistance | austerity, economic, recovery, rescue | jobs | training </B> </P>
+<P> <U> VERB + PACKAGE </U><B> offer, produce, put together </B><I>The IMF has put together a rescue package for the country's faltering economy. </I><B>| accept, approve | reject </B> </P>
+<P> <U> PACKAGE + VERB </U><B> contain sth, include sth | be aimed at sth </B><I>a jobs package aimed at helping the unemployed </I> </P>
+<P> <U> PACKAGE + NOUN </U><B> holiday, tour | deal </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the measures included in the package </I><B>| under a/the ~ </B><I>Under the reform package spending on health will increase. </I><B>| ~ of </B><I>a package of measures to assist industry </I> </P>
+<P> <U> PHRASES </U><B> part of a package </B><I>The pay freeze forms part of a package of budget cuts. </I> </P>
+<P> <SUP> 3 </SUP> <TT> computer software </TT> </P>
+<P> <U> ADJ. </U><B> software | integrated </B><I>an integrated business software package </I><B>| application, desktop publishing, drawing, graphics, word-processing | accounting, business </B> </P>
+<P> <U> VERB + PACKAGE </U><B> use | develop </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>word processing and database software in one package </I> </P>
+</DIV>

@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>claim </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> statement saying that sth is true </TT> </P>
+<P> <U> ADJ. </U><B> false, unfounded, unsubstantiated | conflicting  </B><I>There are conflicting claims about the cause of the fire. </I><B>| absurd, astonishing, extravagant,  grandiose </B> </P>
+<P> <U> VERB + CLAIM </U><B> make </B><I>The company had made false claims about its products. I make no claim to understand modern art. </I><B>| accept  </B><I>They accepted her claim that she had been ill-treated. </I><B>| challenge | deny, dismiss, dispute, reject </B><I>Claims of a cover-up were dismissed. </I><B>| back up, substantiate, support </B><I>They were able to produce witnesses to support their claim. </I><B>| investigate </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>to investigate claims about appalling prison conditions </I><B>| ~ of </B><I>Claims of corruption within the police force were denied. </I> </P>
+<P> <SUP> 2 </SUP> <TT> demand for sth </TT> </P>
+<P> <U> ADJ. </U><B> large, small | excessive </B><I>excessive wage claims </I><B>| legal, legitimate | bogus, fraudulent </B><I>Police are investigating fraudulent claims for fire damage. </I><B>| accident, compensation, damage/damages, insurance, pay, wage | civil </B><I>to file a civil claim for damages </I> </P>
+<P> <U> VERB + CLAIM </U><B> bring, file, lodge, make, put forward/in, submit </B><I>She brought a claim for damages against the company. </I><B>| drop, waive, withdraw | investigage | allow, uphold </B><I>His claim for compensation was upheld in court. </I> <B>| dismiss | win | meet, pay, settle </B><I>We will need extra funds to meet all the insurance claims. </I> </P>
+<P> <U> CLAIM + VERB </U><B> arise </B><I>claims arising out of accidents at work </I><B>| fail </B><I>The claim failed because the company had not been misled. </I> </P>
+<P> <U> CLAIM + NOUN </U><B> form </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>claims against the company for breach of contract </I><B>| ~ for </B><I>a claim for compensation </I><B>| ~ on </B><I>to make a claim on your insurance policy I have many claims on my time. </I> </P>
+<P> <SUP> 3 </SUP> <TT> right to have sth </TT> </P>
+<P> <U> ADJ. </U><B> good, strong | competing, rival </B><I>competing claims for public money </I><B>| prior </B><I>She had a prior claim on his affections. </I><B>| moral | territorial </B> </P>
+<P> <U> VERB + CLAIM </U><B> have </B><I>He has a good claim to the land. </I><B>| assert, lay, press, stake </B><I>Four men laid claim to leadership of the country. to stake a claim to some of the prize money </I><B>| establish, prove </B><I>You will have to prove your claim to the property in a court of law. </I><B>| relinquish, renounce, withdraw </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>His children have a claim on his estate. </I><B>| ~ to </B><I>She renounced her claim to the property. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>claim </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> say that sth is true </TT> </P>
+<P> <U> ADV. </U><B> justifiably, rightfully, rightly | falsely, wrongly </B><I>The company had falsely claimed that its products were biodegradable. </I> </P>
+<P> <U> VERB + CLAIM </U><B> attempt to, try to </B><I>He tried to claim that he had acted in self-defence. </I> </P>
+<P> <SUP> 2 </SUP> <TT> ask for sth you think you have a right to have </TT> </P>
+<P> <U> ADV. </U><B> back </B><I>You can claim back some of the cost of your treatment. </I> </P>
+<P> <U> VERB + CLAIM </U><B> be able to, be entitled to, can/could </B><I>You might be entitled to claim compensation if you are injured at work. </I><B>| attempt to, try to </B> </P>
+<P> <U> PREP. </U><B> on </B><I>Can't you claim on your insurance? </I> </P>
+</DIV>

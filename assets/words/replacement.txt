@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>replacement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> replacing one thing with another </TT> </P>
+<P> <U> ADJ. </U><B> complete, full </B><I>Complete replacement of the roof tiles would be very costly. </I><B>| partial | direct </B><I>The series III gearbox is a direct replacement for a series II. </I><B>| gradual | eventual </B> </P>
+<P> <U> VERB + REPLACEMENT </U><B> be in need of, need, require </B><I>The original furnishings are now in need of replacement. </I> </P>
+<P> <U> REPLACEMENT + NOUN </U><B> programme | cost, value </B><I>Rare instruments are usually insured for their full replacement value. </I><B>| equipment </B> </P>
+<P> <U> PHRASES </U><B> hormone replacement therapy </B> </P>
+<P> <SUP> 2 </SUP> <TT> sb/sth that replaces sb/sth else </TT> </P>
+<P> <U> ADJ. </U><B> permanent | temporary | immediate | likely </B><I>He is the most likely replacement for the captain. </I><B>| possible | ideal | adequate | appropriate, suitable | hip, joint, knee | valve </B> </P>
+<P> <U> VERB + REPLACEMENT </U><B> appoint, bring in (sb/sth as), hire </B><I>We'll have to see how bad the injury is before deciding whether to bring in a replacement. </I><B>| name (sb as) </B><I>She was named as a possible replacement for the cabinet minister. </I><B>| need | look for, seek | find </B><I>We need to find a replacement for Jan when she goes on maternity leave. </I><B>| get | come in/on as, go on as </B><I>He came on as a replacement for the injured striker. </I><B>| have </B><I>She had a hip replacement six years ago. </I> </P>
+<P> <U> REPLACEMENT + NOUN </U><B> teacher | part, unit </B><I>Do you know where I can get the replacement part? </I><B>| car, vehicle </B> </P>
+<P> <U> PREP. </U><B> as ~ </B><I>Trams are now often preferred as replacements for buses. </I><B>| ~ by </B><I>the president's temporary replacement by the Chief of Staff </I><B>| ~ for</B> </P>
+</DIV>

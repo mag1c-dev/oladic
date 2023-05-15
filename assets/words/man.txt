@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>man </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> male person </TT> </P>
+<P> <U> ADJ. </U><B> elderly, middle-aged, old, older, young </B><I>a little old man </I><B>| attractive, good-looking, handsome | ugly | short, tall | fat, thin | big, burly | little </B><I>a nice little man </I><B>| black, white | dark, dark-haired, fair, fair-haired | bearded | blind | sick | dead | intelligent, wise | great </B><I>Several people made speeches in honour of the great man. </I><B>| brave | charming, fine, good, kind, nice | honest | proud | quiet | bad, horrible </B><I>What a horrible man! </I><B>| arrogant | strange | brutal, hard, violent | married, single | family </B><I>He's a family man who rarely goes out with his friends. </I><B>| gay | professional | lucky </B><I>He was a lucky man to have found such a partner. </I><B>| poor, rich | betting, gambling </B><I>I've never been a gambling man. </I><B>| self-made | right-hand </B><I>He found success hard to come by after losing his right-hand man. </I><B>| innocent | free </B><I>He walked out of court a free man. </I><B>| condemned </B> </P>
+<P> <SUP> 2 </SUP> <TT> human beings </TT> </P>
+<P> <U> ADJ. </U><B> early, prehistoric, primitive | Stone Age, etc. | Neanderthal, etc. </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>In man the brain is highly developed. </I> </P>
+<P> <U> PHRASES </U><B> known to man </B><I>the most poisonous substance known to man </I> </P>
+</DIV>

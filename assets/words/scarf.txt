@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>scarf </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long | chiffon, silk, woollen | college, football </B> </P>
+<P> <U> VERB + SCARF </U><B> wind around sth, wrap around sth </B><I>He wrapped his scarf around his neck. </I><B>| knot, tie </B><I>She had a scarf tied over her head. </I><B>| unwind </B> </P>
+<P> <U> SCARF + VERB </U><B> cover sth </B><I>Her hair was covered by a silk scarf. </I>  </B> </P>
+</DIV>

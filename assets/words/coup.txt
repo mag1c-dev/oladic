@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>coup </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> (</B><I>also </I><B>coup d'etat</B>) violent change of government </TT> </P>
+<P> <U> ADJ. </U><B> abortive, attempted, failed, unsuccessful | successful | bloody | bloodless | army, military | palace, presidential </B><I>He deposed his father in a palace coup in 1970. </I><B>| communist | boardroom </B><I>She lost her position in a boardroom coup </I>(= a sudden change of power among senior managers in a company)</B><I>. </I> </P>
+<P> <U> VERB + COUP </U><B> launch, mount, stage | foil, put down </B><I>The coup was immediately put down and the plotters were shot. </I><B>| plan, plot | lead | come to power in, seize power in </B><I>He seized power in a military coup </I> </P>
+<P> <U> COUP + NOUN </U><B> attempt, plot | leader, plotter </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>an army coup against the president </I> </P>
+<P> <SUP> 2 </SUP> <TT> achievement </TT> </P>
+<P> <U> ADJ. </U><B> big, brilliant, great, major, real, spectacular </B><I>Winning that contract was her greatest coup. </I><B>| diplomatic, financial, intelligence, propaganda, publicity </B> </P>
+<P> <U> VERB + COUP </U><B> pull off </B><I>He managed to pull off a major diplomatic coup. </I> </P>
+</DIV>

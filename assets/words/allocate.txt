@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>allocate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> efficiently </B><I>Local authorities have to learn to allocate resources efficiently. </I><B>| randomly </B> </P>
+<P> <U> PREP. </U><B> for </B><I>More money should be allocated for famine relief. </I><B>| to </B><I>More funds will now be allocated to charitable organizations. </I> </P>
+</DIV>

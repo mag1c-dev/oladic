@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>protest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> angry, strong, violent | peaceful | sit-down | mass | formal, official | popular, public, student | anti-government, political | continuing, further, renewed | rooftop, street </B><I>a rooftop protest by prison inmates </I><B>| widespread </B> </P>
+<P> <U> QUANT. </U><B> flood, storm, tide, wave </B><I>The new tax sparked a wave of public protest. </I> </P>
+<P> <U> VERB + PROTEST </U><B> organize, stage | lodge, register </B><I>The Samoan team lodged a formal protest after the referee sent off the wrong player. </I><B>| lead to, spark </B> </P>
+<P> <U> PROTEST + NOUN </U><B> group, movement | demonstration, march, meeting, rally | strike | petition | song </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Prisoners shouted and hurled slates in protest. </I><B>| under ~ </B><I>The strikers returned to work, but under protest. </I><B>| without ~ </B><I>The crowd dispersed without protest. </I><B>| ~ about </B><I>a protest about the new bypass </I><B>| ~ against </B><I>There had been a number of public protests against the new tax. </I><B>| ~ at </B><I>The party boycotted the election in protest at alleged vote rigging. </I><B>| ~ over </B><I>a student protest over tuition fees </I> </P>
+<P> <U> PHRASES </U><B> a chorus/cry/howl of protest </B><I>The announcement brought cries of protest from the crowd. </I><B>| the freedom/right of protest </B><I>The constitution guarantees the right of peaceful protest. </I><B>| a letter of protest</B> </P>
+</DIV><DIV class="item"><P class="word"><B>protest </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> strongly, vehemently, vigorously | formally | loudly | mildly | weakly | peacefully </B><I>the right to protest peacefully </I><B>| bitterly, desperately, indignantly </B> </P>
+<P> <U> VERB + PROTEST </U><B> begin to, try to </B><I>When he tried to protest, she insisted. </I><B>| gather to </B><I>Crowds gathered to protest about the police violence. </I> </P>
+<P> <U> PREP. </U><B> about/over </B><I>protesting over an income tax increase </I><B>| against </B><I>protesting against the proposed agreement </I><B>| at </B><I>Many people have protested at the cuts in state benefits. </I><B>| to </B><I>We have protested to the government. </I> </P>
+</DIV>

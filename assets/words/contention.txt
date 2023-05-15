@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>contention </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> opinion that sb expresses </TT> </P>
+<P> <U> ADJ. </U><B> main </B><I>Her main contention is that staff should get better training. </I> </P>
+<P> <U> VERB + CONTENTION </U><B> support </B><I>There is no evidence to support her contention. </I><B>| reject </B> </P>
+<P> <SUP> 2 </SUP> <TT> disagreement between people </TT> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>There is no contention between the two groups. </I> </P>
+<P> <U> PHRASES </U><B> an area of contention, a bone/point/source of contention </B><I>Where to go on holiday is always a bone of contention in our family. </I> </P>
+</DIV>

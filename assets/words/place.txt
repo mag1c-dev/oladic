@@ -1,0 +1,37 @@
+
+<DIV class="item"><P class="word"><B>place </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> particular position/area </TT> </P>
+<P> <U> ADJ. </U><B> good, great, ideal | terrible </B><I>It was a terrible place to live. </I><B>| safe </B><I>Keep your purse in a safe place. </I><B>| right, suitable </B><I>I happened to be in the right place at the right time. </I><B>| wrong | beautiful, nice </B><I>It's a nice place you've got here. </I><B>| interesting | busy, crowded | quiet | strange | faraway, out-of-the way, remote </B><I>holidays in faraway places </I><B>| public | hiding, market, meeting, resting </B> </P>
+<P> <U> VERB + PLACE </U><B> mark </B><I>I forgot to mark my place </I>(= in a book)</B><I>. </I><B>| lose </B><I>I've lost my place in the script. </I> </P>
+<P> <U> PLACE + NOUN </U><B> name </B> </P>
+<P> <U> PREP. </U><B> at/in a/the ~ </B><I>We had dinner at a crowded place in Soho. </I><B>| in ~ </B><I>It was held in place with tape. There will be rain in places. </I><B>| into ~ </B><I>She tapped the lid into place. </I><B>| out of ~ </B><I>Some of these files seem to be out of place. </I> </P>
+<P> <U> PHRASES </U><B> all over the place </B>(= everywhere), <B>no place/not the place </B><I>This is not the place for an argument. </I><B>| a place of birth/business/interest/learning/work/worship </B><I>Please state your date and place of birth. </I> </P>
+<P> <SUP> 2 </SUP> <TT> seat/position for sb/sth </TT> </P>
+<P> <U> VERB + PLACE </U><B> sit (down) in, take </B><I>We took our places round the table. </I><B>| go back to, return to </B><I>The boy returned to his place </I><B>| keep (sb), save (sb) | lose </B><I>I've lost my place in the queue. </I><B>| give up | change, swap </B><I>He swapped places with me. </I><B>| show sb to </B><I>She showed them to their places. </I><B>| lay, set </B><I>I've laid four places for dinner. </I> </P>
+<P> <U> PLACE + NOUN </U><B> mat | card </B> </P>
+<P> <U> PHRASES </U><B> the place of honour </B><I>He took the place of honour on his hostess's right. </I> </P>
+<P> <SUP> 3 </SUP> <TT> role/position/function </TT> </P>
+<P> <U> ADJ. </U><B> central, important, prominent | special </B><I>He holds a special place in her affections </I><B>| proper, rightful </B> </P>
+<P> <U> VERB + PLACE </U><B> have, hold, occupy </B><I>Housing occupied a prominent place in the discussions. </I><B>| know </B><I>She knows her place. </I><B>| forget </B><I>I'm sorry?I was forgetting my place. </I><B>| restore sth to </B><I>He has been restored to his rightful place in the community. </I><B>| put sb in </B><I>At first he tried to take charge of the meeting but I soon put her in her place</I>. </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Dance has a centra</I>l </B><I>place in their culture</I>. </B> </P>
+<P> <U> PHRASES </U><B> it's not sb's place to </B><I>It's not your place to correct her. </I><B>| a place in history </B><I>a statesman who is assured a place in history </I> </P>
+<P> <SUP> 4 </SUP> <TT> opportunity to study at a college, play for a team, etc. </TT> </P>
+<P> <U> ADJ. </U><B> free | college, nursery, school, university </B> </P>
+<P> <U> VERB + PLACE </U><B> get, win | award sb, offer sb | lose </B><I>He was injured and lost his place in the side. </I> </P>
+<P> <U> PREP. </U><B> ~ at/in </B><I>He was awarded a place at Leeds University. </I><B>| ~ on </B><I>She got a place on the French course. </I> </P>
+<P> <SUP> 5 </SUP> <TT> sb's position at the end of a race, competition, etc. </TT> </P>
+<P> <U> VERB + PLACE </U><B> finish in, take </B><I>She took third place. </I> </P>
+<P> <U> PLACE + VERB </U><B> go to sb </B><I>Second place went to the Moroccan athlete. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>place </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> (often <B>be placed</B>) put sth in a position </TT> </P>
+<P> <U> ADV. </U><B> carefully, neatly | haphazardly </B><I>The books were placed haphazardly on the shelf. </I><B>| firmly </B><I>She produced a long silver whistle and placed it firmly between her lips. </I><B>| gently, lightly | centrally </B><I>The table was placed centrally. </I><B>| ideally, conveniently, uniquely, well </B><I>The hotel is well placed for restaurants, bars and clubs. </I><B>| judiciously, strategically </B><I>There are candles strategically placed?just in case we have another power cut. </I><B>| side by side </B><I>The boots, neatly placed side by side, were near the bed. </I> </P>
+<P> <U> PREP. </U><B> between, in, inside, on, over, under, etc. </B><I>He placed the letter in a drawer. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (often <B>be placed</B>) put sb in a situation </TT> </P>
+<P> <U> ADV. </U><B> firmly | ideally, conveniently, uniquely, well </B><I>The company is ideally placed to win the contract. </I> </P>
+<P> <U> VERB + PLACE </U><B> atttempt to, try to | be difficult to, be hard to </B><I>children who are difficult to place in foster homes </I> </P>
+<P> <U> PREP. </U><B> in, on </B><I>an attempt to place the question firmly back on the political agenda </I> </P>
+<P> <U> PHRASES </U><B> an attempt to place sth </B> </P>
+<P> <SUP> 3 </SUP> <TT> emphasis, value, blame, etc. </TT> </P>
+<P> <U> ADV. </U><B> squarely </B> </P>
+<P> <U> PREP. </U><B> on </B><I>The blame was placed squarely on the doctor. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>tank </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> container </TT> </P>
+<P> <U> ADJ. </U><B> empty, full | glass, steel | 4-foot, 50-gallon, 80-litre, etc. | fuel, gas, oil, oxygen, petrol, water </B><I>the hot and cold water tanks </I><B>| storage | septic, slurry | fish </B> </P>
+<P> <U> VERB + TANK </U><B> fill </B> </P>
+<P> <U> TANK + VERB </U><B> contain sth </B> </P>
+<P> <U> PREP. </U><B> in/into a/the ~ </B><I>Put a little fish food into the tank. </I><B>| ~ of </B><I>a full tank of petrol </I> </P>
+<P> <SUP> 2 </SUP> <TT> military vehicle </TT> </P>
+<P> <U> ADJ. </U><B> armoured, army, battle </B> </P>
+<P> <U> VERB + TANK </U><B> climb into, get into | drive </B> </P>
+<P> <U> TANK + VERB </U><B> roll </B><I>Tanks rolled in to end the siege. </I> </P>
+<P> <U> TANK + NOUN </U><B> regiment</B> </P>
+</DIV>

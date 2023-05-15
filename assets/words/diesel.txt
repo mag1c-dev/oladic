@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>diesel </B><I>noun </I> </P>
+<P> <U> VERB + DIESEL </U><B> run on, use </B><I>These buses run on diesel. </I> </P>
+<P> <U> DIESEL + NOUN </U><B> power | fuel, fumes, oil | car, engine, locomotive, model, train </B><I>The diesel model is noisier than the petrol model. </I> </P>
+</DIV>

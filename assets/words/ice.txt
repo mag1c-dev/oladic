@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>ice cream </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chocolate, strawberry, vanilla, etc. </B> </P>
+<P> <U> QUANT. </U><B> scoop | carton, tub </B> </P>
+<P> <U> VERB + ICE CREAM </U><B> eat, have </B> </P>
+<P> <U> ICE CREAM + VERB </U><B> melt </B> </P>
+<P> <U> ICE CREAM + NOUN </U><B> carton, cone | parlour, van </B> </P>
+<P> <U> PHRASES </U><B> and/with ice-cream </B><I>apple pie with ice cream </I>&gt; Special page at FOOD </B> </P>
+</DIV><DIV class="item"><P class="word"><B>ice </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> thick </B><I>Is the ice thick enough to walk on? </I><B>| thin | black </B><I>Motorists have been warned about black ice on the roads. </I> </P>
+<P> <U> QUANT. </U><B> block, slab </B><I>The spray froze and formed great blocks of ice on the front of the ship. </I> </P>
+<P> <U> VERB + ICE </U><B> form </B> </P>
+<P> <U> ICE + VERB </U><B> form </B><I>Ice had formed on the pond. </I><B>| crack, melt </B><I>The ice was beginning to melt. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>skating on the ice </I> </P>
+</DIV>

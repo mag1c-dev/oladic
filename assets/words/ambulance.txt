@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>ambulance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> air </B> </P>
+<P> <U> VERB + AMBULANCE </U><B> call (for), get, phone/ring/telephone for, send for </B><I>Quick, call an ambulance! </I><B>| drive </B> </P>
+<P> <U> AMBULANCE + VERB </U><B> be on its way </B><I>Don't worry?the ambulance is on its way. </I><B>| arrive, come </B><I>When the ambulance came, I carried her out. </I> </P>
+<P> <U> AMBULANCE + NOUN </U><B> service | crew, staff | driver, man, worker | station </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>She was rushed to hospital by air ambulance. </I><B>| in an/the~ </B><I>He went in the ambulance with Lizzy. </I> </P>
+</DIV>

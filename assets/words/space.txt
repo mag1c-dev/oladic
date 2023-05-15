@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>space </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> empty area </TT> </P>
+<P> <U> ADJ. </U><B> large, vast, wide </B><I>She left a large space empty at the bottom of the page. He liked the wide open spaces of the Australian countryside. </I><B>| adequate, ample, enough, sufficient </B><I>The new flat has ample living space. </I><B>| limited, small, tiny | narrow </B><I>the narrow space between the sofa and the wall </I><B>| open | confined, enclosed </B><I>Avoid using the cleaner in a confined space. </I><B>| awkward </B><I>This chisel is useful for getting into awkward spaces. </I><B>| available, free, vacant </B><I>The exhibition takes up most of the available space in the gallery. looking for a free parking space </I><B>| blank, empty, white </B><I>Fill in the blank spaces in the table. The page layout included plenty of white space. </I><B>| living | storage | floor, roof, shelf, wall, etc. | office | parking | personal </B><I>She moved out of the house because she wanted her own personal space. </I><B>| private | public | green </B><I>The inner residential areas don't have many green spaces. </I><B>| air </B><I>The plane strayed into French air space. </I><B>| disk | advertising </B><I>The magazine is struggling to fill all its advertising space. </I><B>| exhibition, gallery </B> </P>
+<P> <U> VERB + SPACE </U><B> make use of, take up, use </B><I>The potted plants take up too much space. </I><B>| create, make </B><I>They moved the sofa to make space for the piano. </I><B>| waste | save | clear </B><I>We'd better clear a space for the new computer. </I><B>| fill (in) | jostle for </B><I>A motley collection of ornaments jostled for space on the crowded shelf. </I><B>| stare into </B><I>She sat there motionless, staring into space. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the space between the bookshelves </I> </P>
+<P> <U> PHRASES </U><B> be/run short of space </B><I>I'm running short of disk space. </I><B>| time and space </B><I>The writer lacked the time and space to develop his idea fully. </I> </P>
+<P> <SUP> 2 </SUP> <TT> vast area containing planets, stars, etc. </TT> </P>
+<P> <U> ADJ. </U><B> deep | outer </B> </P>
+<P> <U> VERB + SPACE </U><B> go into </B> </P>
+<P> <U> SPACE + NOUN </U><B> exploration, programme, research, science | flight, travel | capsule, probe, rocket, ship (also spaceship) | shuttle, station </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>the first man in space </I> </P>
+<P> <SUP> 3 </SUP> <TT> period of time </TT> </P>
+<P> <U> ADJ. </U><B> long | brief, short | 2-second, 10-minute, etc. </B><I>The recording includes a 5-second space between tracks. </I><B>| breathing </B><I>The extension of the deadline gives us a breathing space. </I> </P>
+<P> <U> PREP. </U><B> for the ~ of </B><I>The job holder will be on probation for the space of six months. </I><B>| in/within the ~ of </B><I>He fell asleep in the space of a few minutes. </I><B>| ~ of </B><I>She returned to top-class tennis after a space of two years. </I> </P>
+<P> <U> PHRASES </U><B> a space of time </B><I>They have achieved a great deal in a short space of time. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>space </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> at intervals, equally, evenly, regularly </B><I>Telephone boxes are spaced at regular intervals along the motorway. Make sure the posts are spaced evenly apart. </I><B>| irregularly | closely | generously, well, widely | apart, out </B><I>The fruits should be well spaced out so that they are not touching each other. </I> </P>
+<P> <U> PREP. </U><B> along</B> </P>
+</DIV>

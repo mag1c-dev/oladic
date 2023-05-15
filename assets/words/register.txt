@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>register </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> list of names </TT> </P>
+<P> <U> ADJ. </U><B> detailed | full | up-to-date | annual | central, national, public | statutory | professional | attendance, membership | electoral, voters' | medical | birth, burial, marriage | address | class, school | church, parish | hotel | asset, land, property, share </B> </P>
+<P> <U> VERB + REGISTER </U><B> appear on, be on </B><I>All those appearing on the register must notify the authorities of any change of address. </I><B>| remain on | keep, maintain </B><I>They keep a register of all those who have contributed to the fund. </I><B>| call, take </B><I>The teacher takes the register at the beginning of each class. </I><B>| inspect | compile, create, draw up, establish </B><I>She was asked to draw up a register of suitable sites. </I><B>| add sb/sth to, enter sb/sth in/on, register sb/sth in/on </B><I>Their names had been entered in the register as owners of the company. </I><B>| omit sb/sth from | remove sb from, strike sb from/off </B><I>He was struck off the medical register for professional misconduct. </I><B>| sign </B><I>The bride and bridegroom signed the register. </I> </P>
+<P> <U> REGISTER + VERB </U><B> contain sth, include sth </B><I>a register containing details of four million cars </I> </P>
+<P> <U> REGISTER + NOUN </U><B> office </B> </P>
+<P> <U> PREP. </U><B> in a /the~ </B><I>It was the last entry in the register. </I><B>| on a/the ~ </B><I>There are 36 children on the register. </I> </P>
+<P> <U> PHRASES </U><B> an entry in/on a register </B> </P>
+<P> <SUP> 2 </SUP> <TT> range of a voice/an instrument </TT> </P>
+<P> <U> ADJ. </U><B> high, low, middle, upper </B><I>the lower register of the piano </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>boy trebles singing in high registers </I> </P>
+<P> <SUP> 3 </SUP> <TT> level/style of a piece of writing/speech </TT> </P>
+<P> <U> ADJ. </U><B> formal, informal | appropriate </B> </P>
+<P> <U> VERB + REGISTER </U><B> adopt </B><I>He has adopted an informal register so as not to alienate his audience. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>register </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put sb/sth on an official list </TT> </P>
+<P> <U> ADV. </U><B> fully </B><I>On completion of the preregistration year, graduates become fully registered by the General Medical Council. </I><B>| jointly </B><I>About 68 per cent of illegitimate births were jointly registered by both parents. </I><B>| formally, officially | legally | duly </B><I>As I reached my eighteenth birthday I duly registered for military service. </I><B>| automatically </B> </P>
+<P> <U> VERB + REGISTER </U><B> be required to, have to, must </B><I>You must register the death within three days. </I><B>| be eligible to, be entitled to | fail to | refuse to </B> </P>
+<P> <U> PREP. </U><B> as </B><I>the number of people officially registering as unemployed </I><B>| at </B><I>He registered at his local university. </I><B>| for </B><I>There is still time to register for English classes. </I><B>| with </B><I>Students living away from home are required to register with a local doctor. </I> </P>
+<P> <SUP> 2 </SUP> <TT> notice sth </TT> </P>
+<P> <U> ADV. </U><B> barely, hardly, scarcely </B><I>She had barely registered his presence. </I><B>| vaguely </B><I>He vaguely registered that the women had gone. </I> </P>
+<P> <U> VERB + REGISTER </U><B> fail to </B><I>His eyes failed to register Meredith's surprise. </I> </P>
+</DIV>

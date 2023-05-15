@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>election </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fair, free | democratic, multi-party | rigged | direct, indirect | fresh, new | early </B><I>The prime minister may decide to call an early election. </I><B>| primary, run-off | federal, local, municipal, national, regional, state | congressional, council, general, gubernatorial, leadership, legislative, local government, mayoral, parliamentary, party, presidential, Senate </B> </P>
+<P> <U> VERB + ELECTION </U><B> have, hold | call | contest, fight | stand for | lose, win | rig </B> </P>
+<P> <U> ELECTION + VERB </U><B> take place | be due, be scheduled for </B><I>Elections are scheduled for November. </I> </P>
+<P> <U> ELECTION + NOUN </U><B> campaign | manifesto, pledge, promise | broadcast | candidate | defeat, victory | day, night, year | fraud </B> </P>
+<P> <U> PREP. </U><B> at/in a/the ~ </B><I>in the 2001 general election </I><B>| by ~ </B><I>Membership of the committee is by election. </I><B>| ~ to </B><I>her election to the Senate </I> </P>
+<P> <U> PHRASES </U><B> the outcome of an election, the run-up to an election </B><I>opinion poll results in the run-up to elections </I> </P>
+</DIV>

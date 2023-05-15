@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>violation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> blatant, clear, flagrant </B><I>The attack on civilians is a flagrant violation of the peace agreement. </I><B>| grave, gross, major, massive, serious | wholesale, widespread | continued, repeated | human rights | traffic </B> </P>
+<P> <U> VERB + VIOLATION </U><B> commit </B><I>The army was accused of committing violations against the accord. </I><B>| be, constitute </B><I>This action constitutes a violation of international law. </I> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>There is plenty of evidence that her actions were in violation of an earlier contract. </I><B>| ~ against </B><I>violations against minimum wage agreements </I> </P>
+</DIV>

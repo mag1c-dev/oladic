@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>insect </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> flying, winged | aquatic | beneficial </B><I>Unfortunately, pesticides kill off beneficial insects as well as harmful ones. </I><B>| harmful, poisonous | social </B><I>Social insects, such as ants, live in large colonies. </I> </P>
+<P> <U> QUANT. </U><B> swarm </B> </P>
+<P> <U> INSECT + VERB </U><B> buzz </B><I>An insect was buzzing around the room. </I><B>| fly | crawl | swarm | bore </B><I>Insects had bored deep into the wood. </I><B>| bite, sting </B> </P>
+<P> <U> INSECT + NOUN </U><B> attack </B><I>The wood should be treated against insect attack. </I><B>| bite | eggs, larva | pests </B><I>Gardeners welcome birds as they control insect pests. </I><B>| repellent, spray | species | world </B><I>Wasps are the master builders of the insect world. </I> </P>
+</DIV>

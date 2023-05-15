@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>wolf </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> lone </B><I>A lone wolf howled under the full moon. </I><B>| marauding, ravening, slavering </B><I>(figurative) She called the media &lsquo;ravening wolves&rsquo;. </I> </P>
+<P> <U> QUANT. </U><B> pack </B> </P>
+<P> <U> WOLF + VERB </U><B> bark, growl, howl | hunt </B> </P>
+<P> <U> WOLF + NOUN </U><B> cub | pack</B> </P>
+</DIV>

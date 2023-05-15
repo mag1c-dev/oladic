@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>contribution </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that helps cause/increase sth </TT> </P>
+<P> <U> ADJ. </U><B> important, significant | big, enormous, great, huge, major, strong, substantial | minor, modest, small | invaluable, positive, useful, valuable </B><I>We like to think that we are making a positive contribution to society. </I><B>| notable, outstanding </B> </P>
+<P> <U> VERB + CONTRIBUTION </U><B> make </B><I>He made a major contribution to peace in the region. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>a valuable contribution to science </I> </P>
+<P> <SUP> 2 </SUP> <TT> money given to help pay for sth </TT> </P>
+<P> <U> ADJ. </U><B> generous, large | small | voluntary </B><I>We rely entirely on voluntary contributions. </I> </P>
+<P> <U> VERB + CONTRIBUTION </U><B> make, offer, pay </B> </P>
+<P> <U> PREP. </U><B> ~ to/towards </B><I>I'd like to make a small contribution to the cost of the holiday. </I> </P>
+</DIV>

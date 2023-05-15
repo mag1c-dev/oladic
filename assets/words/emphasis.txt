@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>emphasis </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> special importance/attention </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, heavy, increased </B><I>schools that put a heavy emphasis on sporting achievement </I><B>| strong | main </B><I>discussing where the main emphasis should be placed </I><B>| particular, special </B><I>Examine the events leading to the war, with particular emphasis on France's role in them. </I> </P>
+<P> <U> VERB + EMPHASIS </U><B> give, lay, place, put </B><I>The company lays great emphasis on customer care. </I><B>| shift </B><I>The Democrats shifted the emphasis away from direct taxation. </I> </P>
+<P> <U> EMPHASIS + VERB </U><B> move, shift </B><I>In recent years, the emphasis has moved away from punishing drug addicts towards helping them. </I> </P>
+<P> <U> PREP. </U><B> ~ on/upon </B><I>The emphasis is on keeping fit rather than developing lots of muscles. </I> </P>
+<P> <U> PHRASES </U><B> a change/shift of emphasis </B> </P>
+<P> <SUP> 2 </SUP> <TT> stress on a word/phrase </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>&lsquo;I&rsquo;, he said with great emphasis, &lsquo;was the one.&rsquo; </I><B>| slight </B><I>His slight emphasis on the word &lsquo;Lady&rsquo; was definitely mocking. </I> </P>
+<P> <U> VERB + EMPHASIS </U><B> put </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>She repeated the question with emphasis. </I><B>| ~ on </B><I>Put the emphasis on the second syllable. </I> </P>
+</DIV>

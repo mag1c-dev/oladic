@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>exceed </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> considerably, far, greatly, significantly, substantially | comfortably, easily </B><I>The House voted by 327 votes to 93, comfortably exceeding the required two-thirds majority. </I><B>| slightly | clearly | regularly | rarely </B><I>Summer temperatures rarely exceed 27&deg;C. </I><B>| generally, normally, usually </B> </P>
+<P> <U> VERB + EXCEED </U><B> be expected to, be likely to </B><I>Income is expected to exceed expenditure. </I><B>| be unlikely to</B> </P>
+</DIV>

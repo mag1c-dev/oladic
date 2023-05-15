@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>bang </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden loud noise </TT> </P>
+<P> <U> ADJ. </U><B> almighty, big, enormous, huge, loud, massive, terrific, tremendous </B> </P>
+<P> <U> VERB + BANG </U><B> let out, make </B><I>The engine let out a bang. Will the firework make a loud enough bang? </I><B>| hear </B><I>We suddenly heard an almighty bang from the kitchen. </I> </P>
+<P> <U> BANG + VERB </U><B> echo </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>She slammed the door with a loud bang. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sudden hard hit </TT> </P>
+<P> <U> ADJ. </U><B> nasty </B><I>He got a nasty bang on the head. </I> </P>
+<P> <U> VERB + BANG </U><B> get, have</B> </P>
+</DIV><DIV class="item"><P class="word"><B>bang </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> hit noisily </TT> </P>
+<P> <U> ADV. </U><B> hard, loudly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>He kept banging his chair against the wall. </I><B>| on </B><I>She banged loudly on the table. </I> </P>
+<P> <U> PHRASES </U><B> bang sth about, bang (sth) down, bang (sth) open/shut </B><I>The bedroom door banged shut. She banged the door shut. </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of the body/person </TT> </P>
+<P> <U> ADV. </U><B> badly, hard </B><I>I had banged my head badly. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>He banged into me in the corridor. </I><B>| on </B><I>I banged my leg on the table. </I> </P>
+</DIV>

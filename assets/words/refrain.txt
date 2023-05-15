@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>refrain </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> constant | familiar </B><I>Complaints about school food have become a familiar refrain. </I> </P>
+<P> <U> VERB + REFRAIN </U><B> sing, take up </B><I>The choir's sopranos took up the refrain. </I> </P>
+<P> <U> REFRAIN + VERB </U><B> go </B><I>Shoppers, so the refrain goes, are never happy until they have found a bargain. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>refrain </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, deliberately </B><I>He deliberately refrained from expressing his opinion on the matter. </I><B>| wisely </B> </P>
+<P> <U> PREP. </U><B> from </B><I>I refrained from laughing. </I> </P>
+</DIV>

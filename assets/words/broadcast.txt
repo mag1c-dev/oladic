@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>broadcast </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> radio, satellite, television | live | outside | election, news, party political, religious </B> </P>
+<P> <U> VERB + BROADCAST </U><B> give, make </B><I>The president gave a radio broadcast to mark the end of the war. </I><B>| hear, see </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>More details will be given in our news broadcast. </I><B>| ~ by </B><I>a broadcast by the prime minister </I><B>| ~ on </B><I>a radio broadcast on the problems of unemployment </I> </P>
+</DIV><DIV class="item"><P class="word"><B>broadcast </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> live </B> </P>
+<P> <U> PREP. </U><B> from </B><I>We will broadcast live from the ship. </I><B>| to </B><I>a Christmas message broadcast to the nation </I> </P>
+</DIV>

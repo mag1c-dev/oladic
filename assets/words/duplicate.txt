@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>duplicate </B><I>noun </I> </P>
+<P> <U> VERB + DUPLICATE </U><B> make </B><I>We made a duplicate of the key. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The contract is prepared in duplicate, so that both parties can sign it. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>duplicate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> exactly </B><I>The original experiment cannot be exactly duplicated. </I><B>| simply </B><I>I wanted to avoid simply duplicating work that had already been done. </I> </P>
+</DIV>

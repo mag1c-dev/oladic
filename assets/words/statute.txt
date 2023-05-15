@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>statute </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> legal | federal, parliamentary | criminal </B> </P>
+<P> <U> VERB + STATUTE </U><B> pass | comply with </B> </P>
+<P> <U> STATUTE + NOUN </U><B> law </B><I>the obligations of the employer in common and statute law </I><B>| book </B><I>This archaic law remained on the statute books until last year. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Local authorities are required by statute to provide care homes for the elderly. </I><B>| under (a/the) ~ </B><I>a trading company formed under statute </I> </P>
+</DIV>

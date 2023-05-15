@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>sewage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> raw, untreated | treated </B> </P>
+<P> <U> VERB + SEWAGE </U><B> dump, pump </B><I>In some parts of the country raw sewage is pumped straight in the sea. </I><B>| treat </B><I>Sewage should be treated in a proper disposal system. </I> </P>
+<P> <U> SEWAGE + NOUN </U><B> farm, plant, works | disposal, treatment | discharge, effluent, sludge | pollution</B> </P>
+</DIV>

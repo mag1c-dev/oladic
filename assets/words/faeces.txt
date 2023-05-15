@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>faeces </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fresh | dog, human, etc. </B> </P>
+<P> <U> QUANT. </U><B> mass, piece </B> </P>
+<P> <U> VERB + FAECES </U><B> be excreted in, be expelled in, be passed in </B><I>The larvae may be excreted in the faeces. </I><B>| collect </B><I>A sample of fresh faeces should be collected each day. </I> </P>
+<P> <U> FAECES + NOUN </U><B> sample </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>The amount of blood in the faeces was measured. </I> </P>
+</DIV>

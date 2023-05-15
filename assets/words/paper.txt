@@ -1,0 +1,30 @@
+
+<DIV class="item"><P class="word"><B>paper </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> material </TT> </P>
+<P> <U> ADJ. </U><B> thick, thin | see-through, transparent | plain, unlined | lined | graph, squared | A3, A4, etc. | foolscap | blank </B><I>I stared at the blank paper, not knowing how to start the letter. </I><B>| printed </B><I>The Post Office has a special rate for printed paper. </I><B>| brown, coloured </B><I>a brown paper parcel of books </I><B>| greaseproof, waxed | glossy, shiny | scrap, waste </B><I>I made some notes on a piece of scrap paper. </I><B>| computer, typing | writing | blotting | tracing | wrapping | cr</B>e<B>pe | tissue | photographic | filter | kitchen | toilet | cigarette </B><I>a packet of cigarette papers </I> </P>
+<P> <U> QUANT. </U><B> bit, piece, scrap, sheet, slip, strip </B><I>I scribbled down his number on a scrap of paper. </I><B>| roll </B><I>a roll of kitchen paper </I><B>| side </B><I>The essay filled seven sides of A4 paper. </I> </P>
+<P> <U> VERB + PAPER </U><B> fold </B><I>Fold the paper in half. </I><B>| shred, tear | crumple (up), screw up </B><I>I screwed up the paper and threw it in the bin. </I><B>| recycle | wrap sth in </B> </P>
+<P> <U> PAPER + VERB </U><B> be strewn </B><I>There was paper strewn all over the floor. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>I've had nothing on paper </I>(= in writing) </B><I>to say that I've been accepted. </I> </P>
+<P> <U> PHRASES </U><B> put pen to paper </B><I>I've thought about what I'm going to write, but I haven't yet put pen to paper. </I><B>| a waste of paper </B><I>This report is a waste of paper. </I> </P>
+<P> <SUP> 2 </SUP> <TT> newspaper </TT> </P>
+<P> <U> ADJ. </U><B> daily, evening, morning, Sunday, weekly | today's, yesterday's | independent, left-wing, right-wing | local, national | broadsheet, quality | tabloid </B> </P>
+<P> <U> QUANT. </U><B> copy </B><I>Have you got a copy of yesterday's paper? </I><B>| edition </B><I>today's edition of the paper </I> </P>
+<P> <U> VERB + PAPER </U><B> buy, get, take </B><I>Do you take a daily paper? </I><B>| flick through, read </B><I>What paper do you usually read? </I><B>| print, produce, publish | edit, write for/in | appear in | get into </B><I>The story got into the papers. </I> </P>
+<P> <U> PAPER + VERB </U><B> come out </B><I>The paper comes out every Saturday. </I> </P>
+<P> <U> PAPER + NOUN </U><B> shop | boy, girl | round </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>I read about his arrest in the papers. </I><B>| on a/the ~ </B><I>She got a job on the local paper. </I>  </B> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>papers</B>) official document </TT> </P>
+<P> <U> ADJ. </U><B> commercial | necessary | official | identity | personal, private | ballot </B> </P>
+<P> <U> QUANT. </U><B> pile, sheaf </B> </P>
+<P> <U> VERB + PAPER </U><B> show </B><I>Be prepared to show your identity papers at the border. </I> </P>
+<P> <SUP> 4 </SUP> <TT> exam </TT> </P>
+<P> <U> ADJ. </U><B> exam, examination, question, test | written </B><I>I did well on the oral but not on the written paper. </I><B>| English, geography, etc. </B> </P>
+<P> <U> VERB + PAPER </U><B> do, sit, take | set </B><I>The exam papers are set by experienced teachers. </I><B>| mark | turn over </B><I>You may now turn over your papers. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the questions in the physics paper </I><B>| on a/the ~ </B><I>You must not write on the question paper. </I> </P>
+<P> <SUP> 5 </SUP> <TT> piece of writing on a specialist subject </TT> </P>
+<P> <U> ADJ. </U><B> draft | consultation, consultative, discussion, position, working | research, scientific </B> </P>
+<P> <U> VERB + PAPER </U><B> deliver, give, present, put forward, read | draft, prepare, produce, write | issue, publish, release </B> </P>
+<P> <U> PAPER + VERB </U><B> consider sth, deal with sth, focus on/upon sth, look at sth </B><I>The paper looks at the future of primary school education. </I><B>| argue sth, propose sth | demonstrate sth | describe sth, outline sth, present sth | be called sth, be entitled sth </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Freud first mentioned this concept in his paper &lsquo;On Narcissism&rsquo;. </I><B>| ~ on </B><I>a paper on the development of the novel </I> </P>
+</DIV>

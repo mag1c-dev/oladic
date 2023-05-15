@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>distant </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> far away in space </TT> </P>
+<P> <U> VERBS </U><B> be, sound | become, grow </B><I>The sound of the engine was growing more and more distant. </I> </P>
+<P> <U> ADV. </U><B> far </B><I>(literary)</I>, <B>very </B><I>in far distant lands </I><B>| increasingly | unimaginably </B><I>It was only a few miles away but it seemed unimaginably distant. </I><B>| geographically </B><I>geographically distant areas of the world </I> </P>
+<P> <U> PREP. </U><B> from </B><I>The stars are more distant from the earth than the sun. </I> </P>
+<P> <SUP> 2 </SUP> <TT> far away in time </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> very | increasingly | fairly, not too </B><I>in the not too distant future </I> </P>
+<P> <U> PHRASES </U><B> the dim and distant past </B><I>stories from the dim and distant past </I> </P>
+<P> <SUP> 3 </SUP> <TT> not friendly/not paying attention </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain | find sb </B> </P>
+<P> <U> ADV. </U><B> very | rather, slightly | strangely </B><I>Even his children found him strangely distant and impersonal. </I> </P>
+</DIV>

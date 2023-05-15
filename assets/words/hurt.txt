@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>hurt </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> injured </TT> </P>
+<P> <U> VERBS </U><B> be, look | get </B><I>Stop that or you'll get hurt! </I> </P>
+<P> <U> ADV. </U><B> badly, seriously </B><I>Steve didn't look seriously hurt. </I><B>| slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> upset </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound | get </B> </P>
+<P> <U> ADV. </U><B> bitterly, deeply, extremely, really, terribly, very | a bit, quite, rather, slightly </B> </P>
+<P> <U> PREP. </U><B> by </B><I>Roy seemed deeply hurt by this remark. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>hurt </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bitter, deep, great </B> </P>
+<P> <U> VERB + HURT </U><B> feel </B><I>the deep hurt that he felt when Jane left him </I><B>| cause </B><I>She knew that she had caused her husband a lot of hurt. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>hurt </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> cause pain/injury </TT> </P>
+<P> <U> ADV. </U><B> badly, seriously </B><I>She fell and hurt her leg quite badly. No one was seriously hurt in the accident. </I><B>| slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> be/feel painful </TT> </P>
+<P> <U> ADV. </U><B> badly, a lot, really </B><I>My ankle still hurts quite badly. Does it hurt a lot? Ouch! It really hurts. </I><B>| slightly </B> </P>
+<P> <U> VERB + HURT </U><B> be going to </B><I>I knew it was going to hurt?but not that much! </I><B>| begin to </B> </P>
+<P> <SUP> 3 </SUP> <TT> upset sb </TT> </P>
+<P> <U> ADV. </U><B> badly, deeply, really, terribly </B><I>Her remarks hurt him deeply. They never told me why and that really hurt. </I> </P>
+<P> <U> VERB + HURT </U><B> attempt to, try to </B><I>Are you deliberately trying to hurt me? </I><B>| want to </B><I>Why would I want to hurt her? </I><B>| not mean to </B><I>I never meant to hurt anyone. </I> </P>
+</DIV>

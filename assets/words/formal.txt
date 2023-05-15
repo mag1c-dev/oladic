@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>formal </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> very correct/official </TT> </P>
+<P> <U> VERBS </U><B> be, seem, sound | become </B> </P>
+<P> <U> ADV. </U><B> extremely, very | strictly </B><I>Learning was by rote and strictly formal. </I><B>| almost </B><I>The greeting was polite, almost formal. </I><B>| fairly, quite, rather, relatively | oddly </B><I>Her words sounded oddly formal. </I><B>| stiffly </B><I>His manner was stiffly formal. </I> </P>
+<P> <SUP> 2 </SUP> <TT> concerned with the way sth is done </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> merely, purely </B><I>Getting approval for the plan is a purely formal matter: nobody will seriously oppose it. </I><B>| largely </B><I>The monarch retains largely formal duties. </I> </P>
+</DIV>

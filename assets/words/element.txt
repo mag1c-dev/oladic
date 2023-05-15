@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>element </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> one part of sth </TT> </P>
+<P> <U> ADJ. </U><B> basic, critical, crucial, decisive, essential, fundamental, important, key, main, major, necessary, principal, significant, vital | dominant </B><I>The promise of tax cuts became the dominant element in the campaign. </I><B>| considerable, large </B><I>There is a considerable element of danger in her job. </I><B>| competitive </B><I>There is too much of a competitive element in the sales department. </I><B>| racial, sexual </B><I>Police say there may have been a racial element to the attacks. </I> </P>
+<P> <U> VERB + ELEMENT </U><B> be, constitute, form | contain, have, include, involve </B><I>These rumours do contain an element of truth. </I><B>| introduce </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>This constitutes one of the key elements in this reform programme. </I><B>| ~ of </B><I>Practical work will form a major element of the syllabus. There may have been an element of jealousy in her response. </I></P>
+<P> <SUP> 2 </SUP> <TT> the elements: bad weather  </TT> </P>
+<P> <U> VERB + ELEMENT </U><B> brave </B><I>I put on my thick coat ready to brave the elements. </I><B>| battle (against) </B><I>He told us stories of how he had battled the elements on his mountaineering trips. </I><B>| be exposed to, be open to </B><I>The place was completely exposed to the elements. </I><B>| be protected from, be sheltered from </B> </P>
+<P> <U> PHRASES </U><B> protection/shelter from the elements</B> </P>
+</DIV>

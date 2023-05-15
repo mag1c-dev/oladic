@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>progression </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rapid | gradual, slow, steady | smooth | upward | linear, logical, natural </B><I>By a logical progression of thought, she worked out why the remark had caused offence. </I><B>| career | chord, harmonic </B> </P>
+<P> <U> PREP. </U><B> ~ from &hellip; to &hellip; </B><I>his progression from chubby teenager to handsome movie star </I><B>| ~ through </B><I>Her progression through the grades of the civil service had been rapid. </I><B>| ~ within </B><I>his steady upward progression within the company </I> </P>
+<P> <U> PHRASES </U><B> the progression of a disease </B><I>one of the later stages in the progression of the disease </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>trough </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> container for animal feed/water </TT> </P>
+<P> <U> ADJ. </U><B> drinking, feeding | water | cattle, horse, pig </B> </P>
+<P> <SUP> 2 </SUP> <TT> low point </TT> </P>
+<P> <U> ADJ. </U><B> deep </B> </P>
+<P> <U> VERB + TROUGH </U><B> fall to, reach </B><I>Inflation fell to a trough of 3.3%. </I> </P>
+<P> <U> PHRASES </U><B> from peak to trough </B><I>The stock market fell by 48% from peak to trough. </I><B>| the peaks and troughs </B><I>the peaks and troughs of economic cycles </I> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>sharp </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> having a fine edge or point </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | stay | keep sth </B> </P>
+<P> <U> ADV. </U><B> extremely, really, very, wickedly </B><I>a display of wickedly sharp teeth </I><B>| pretty, quite, rather </B> </P>
+<P> <U> PHRASES </U><B> as sharp as a razor </B> </P>
+<P> <SUP> 2 </SUP> <TT> very great or sudden </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> particularly, very | fairly, quite, rather </B><I>a fairly sharp rise in the cost of living </I> </P>
+<P> <SUP> 3 </SUP> <TT> able to think/act/understand/see/hear quickly </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, razor, very </B><I>a razor sharp mind </I><B>| pretty, quite </B> </P>
+<P> <SUP> 4 </SUP> <TT> angry/severe </TT> </P>
+<P> <U> VERBS </U><B> be, sound </B><I>Her voice sounded rather sharp. </I> </P>
+<P> <U> ADV. </U><B> very | a bit, quite, rather | suddenly </B><I>&lsquo;Stick to the facts, &rsquo; said Romanov, his voice suddenly sharp. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She was quite sharp with me when I talked during her lecture. </I> </P>
+<P> <SUP> 5 </SUP> <TT> flavour </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>Raw cranberries are extremely sharp and must always be cooked with a little sugar. </I><B>| slightly </B><I>This cheese has a slightly sharp flavour. </I> </P>
+</DIV>

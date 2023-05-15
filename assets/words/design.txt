@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>design </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> making drawings of how sth should be made </TT> </P>
+<P> <U> ADJ. </U><B> graphic | computer-aided </B><I>a specialist in computer-aided design </I><B>| architectural, industrial, interior </B> </P>
+<P> <U> DESIGN + NOUN </U><B> business, company, consultancy, firm | consultant, engineer, staff, team | centre, department, studio | work </B><I>She's done some design work for us in the past. </I><B>| process </B><I>The new CAD program really speeds up the design process. </I><B>| program, software | project | ability, expertise, skills </B> </P>
+<P> <U> PHRASES </U><B> art and design </B><I>I'm doing a course in art and design. </I> </P>
+<P> <SUP> 2 </SUP> <TT> the way sth is made/a drawing of this </TT> </P>
+<P> <U> ADJ. </U><B> basic, simple | complex, sophisticated | excellent, good | poor | adventurous, bold, innovative, original, revolutionary | attractive, beautiful, stylish | classical, conventional, traditional | ergonomic </B> </P>
+<P> <U> VERB + DESIGN </U><B> come up with, create, produce </B><I>He's come up with a really good design for a solar-powered car. </I><B>| follow, use </B><I>We followed the traditional design. </I> </P>
+<P> <U> DESIGN + NOUN </U><B> feature </B><I>The latest model incorporates some novel design features. </I><B>| concept, idea, solution </B><I>The architect put forward two alternative design concepts for the new library. </I><B>| brief, requirements, specifications </B><I>The chair she had sketched was far bigger than stipulated in the design brief. </I><B>| fault | award </B><I>The car wouldn't win any design awards, but it's very reliable. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The machine is quite simple in design. </I><B>| of &hellip; ~ </B><I>a vehicle of revolutionary design </I><B>| to a &hellip; ~ </B><I>The other houses are built to a more conventional design. </I><B>| ~ for </B><I>the architect's designs for the cathedral </I> </P>
+<P> <U> PHRASES </U><B> at the design stage </B><I>Their new car is still at the design stage. </I> </P>
+<P> <SUP> 3 </SUP> <TT> pattern that decorates sth </TT> </P>
+<P> <U> ADJ. </U><B> elaborate, intricate | simple | abstract, circular, floral, geometric, symmetrical </B> </P>
+<P> <U> VERB + DESIGN </U><B> have </B><I>The building has intricate geometric designs on several of the walls. </I> </P>
+<P> <SUP> 4 </SUP> <TT> intention </TT> </P>
+<P> <U> ADJ. </U><B> evil, sinister | grand </B><I>His grand design was to connect up every academic institution in the world. </I> </P>
+<P> <U> VERB + DESIGN </U><B> harbour, have </B><I>I suspected that he had some sinister designs. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Had it happened by accident or by design? </I> </P>
+</DIV><DIV class="item"><P class="word"><B>design </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, cleverly </B><I>These shelves have been designed very cleverly to fit into corners. </I><B>| specially, specifically </B><I>They run specially designed courses for managers. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The instruments are designed for use in very cold conditions. </I> </P>
+</DIV>

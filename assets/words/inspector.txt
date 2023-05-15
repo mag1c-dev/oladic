@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>inspector </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> official who inspects sth </TT> </P>
+<P> <U> ADJ. </U><B> chief, principal | deputy | local | independent | official | government, ministry, RSPCA, UN/United Nations, etc. | building, factory, (health and) safety, planning, (public) health, school, tax, ticket, weapons </B><I>UN weapons inspectors </I> </P>
+<P> <U> VERB + INSPECTOR </U><B> call in </B><I>The school inspectors were called in. </I> </P>
+<P> <U> INSPECTOR + VERB </U><B> be in charge of sth </B><I>the inspector in charge of producing the report </I><B>| look at sth | report (on) sth </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>an inspector of prisons </I></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+<P> <SUP> 2 </SUP> <TT> police officer </TT> </P>
+<P> <U> ADJ. </U><B> police | Chief, detective </B> </P>
+<P> <U> PHRASES </U><B> the rank of inspector</B> </P>
+</DIV>

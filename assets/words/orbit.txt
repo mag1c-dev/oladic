@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>orbit </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> circular, elliptical | eccentric </B><I>Mercury's orbit is fairly eccentric. </I><B>| stable | planetary </B> </P>
+<P> <U> VERB + ORBIT </U><B> enter, go into | put/send sth into | complete, make </B><I>The spaceship made an orbit of the moon. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The satellite will remain in orbit for several years. </I><B>| ~ around/round </B><I>the moon's orbit around the earth </I> </P>
+</DIV>

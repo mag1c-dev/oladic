@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>redemption </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> being saved from the power of evil </TT> </P>
+<P> <U> VERB + REDEMPTION </U><B> be in need of, need </B><I>She believes that humanity is in need of redemption. </I> </P>
+<P> <U> PREP. </U><B> beyond ~ </B><I>After another incident at the weekend, the club's reputation for violence is beyond redemption. </I><B>| ~ from </B><I>redemption from evil </I> </P>
+<P> <SUP> 2 </SUP> <TT> repayment of money invested/borrowed </TT> </P>
+<P> <U> ADJ. </U><B> early </B><I>There is a fee for early redemption. </I><B>| capital, loan, share </B> </P>
+<P> <U> REDEMPTION + NOUN </U><B> date | price, value, yield </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>A charge is payable on redemption. </I> </P>
+</DIV>

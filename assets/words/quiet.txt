@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>quiet </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> with little or no noise; not talking </TT> </P>
+<P> <U> VERBS </U><B> be | become, fall, go, grow | lie, keep, remain, sit, stay </B><I>Just sit quiet for a moment, there's a good boy. </I><B>| keep sb/sth </B><I>Keep that dog quiet, will you! </I> </P>
+<P> <U> ADV. </U><B> all, extraordinarily, extremely, really, remarkably, unusually, very </B><I>Suddenly the room went all quiet. </I><B>| absolutely, completely, perfectly | fairly, pretty, rather | enough | blissfully | deathly, eerily </B><I>The house was eerily quiet. </I><B>| dangerously, ominously </B><I>His voice was dangerously quiet as he asked the question. </I><B>| oddly, strangely, unnaturally </B><I>She went back to a strangely quiet house. </I><B>| uncharacteristically </B> </P>
+<P> <U> PREP. </U><B> about </B><I>I knew I had to keep quiet about it. </I> </P>
+<P> <U> PHRASES </U><B> nice (and) quiet </B><I>I was looking forward to a nice quiet afternoon. </I> </P>
+<P> <SUP> 2 </SUP> <TT> without much activity </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become | lie, remain, sit </B><I>Lie quiet for an hour and you'll feel better. </I><B>| keep sb/sth </B><I>Keep the patient as quiet as possible. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | comparatively, fairly, pretty, quite, rather, reasonably, relatively | enough </B><I>Things seemed quiet enough, but it was an uneasy calm. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>quiet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> comparative, relative </B><I>a period of comparative quiet </I><B>| sudden </B> </P>
+<P> <U> VERB + QUIET </U><B> call for </B><I>A man's voice was calling for quiet. </I><B>| shatter </B><I>A machine gun shattered the quiet. </I> </P>
+<P> <U> QUIET + VERB </U><B> follow </B><I>in the sudden quiet that followed the gunshot </I> </P>
+<P> <U> PHRASES </U><B> peace and quiet </B><I>I'm going home for a bit of peace and quiet! </I><B>| a place/time of quiet </B><I>She made sure she had times of quiet in which to write. </I> </P>
+</DIV>

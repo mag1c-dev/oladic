@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>bug </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> infectious illness </TT> </P>
+<P> <U> ADJ. </U><B> nasty | flu, stomach, tummy </B> </P>
+<P> <U> VERB + BUG </U><B> have | catch, come/go down with, get, pick up </B> </P>
+<P> <U> BUG + VERB </U><B> go around/round </B><I>A stomach bug has been going round at school. </I><B>| strike sb down </B> </P>
+<P> <U> PREP. </U><B> with a/the ~ </B><I>off work with a flu bug </I>&gt; Special page at ILLNESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> sudden interest in sth </TT> </P>
+<P> <U> VERB + BUG </U><B> be bitten by, catch, get </B><I>She's been bitten by the travel bug. </I> </P>
+<P> <U> BUG + VERB </U><B> bite (sb) </B> </P>
+<P> <SUP> 3 </SUP> <TT> sth wrong in a system/machine </TT> </P>
+<P> <U> ADJ. </U><B> minor, slight | computer, software</B> </P>
+</DIV>

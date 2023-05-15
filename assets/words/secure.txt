@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>secure </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel | become | make sth | keep sth </B><I>It's important to keep your documents secure. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, completely, entirely, perfectly, quite, totally, utterly | fairly, pretty, reasonably, relatively | enough, sufficiently </B><I>I finally felt secure enough in myself to have a child of my own. </I><B>| apparently | economically, financially | socially </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The house has been made secure against intruders. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>secure </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> fix/lock sth firmly </TT> </P>
+<P> <U> ADV. </U><B> firmly, properly, tightly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The crates had not been properly secured to the truck. </I><B>| with </B><I>She secured the boat with a rope. </I> </P>
+<P> <SUP> 2 </SUP> <TT> get/achieve sth </TT> </P>
+<P> <U> ADV. </U><B> easily </B><I>Victory was not going to be easily secured. </I><B>| automatically </B> </P>
+<P> <U> VERB + SECURE </U><B> be able to, manage to | fail to </B><I>They failed to secure the release of the prisoners. </I><B>| help (to) </B> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to secure sth, be aimed at securing sth, a chance/hope of securing sth </B><I>trying to improve their chances of securing employment </I><B>| succeed/be successful in securing sth</B> </P>
+</DIV>

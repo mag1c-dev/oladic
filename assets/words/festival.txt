@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>festival </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> series of performances/events </TT> </P>
+<P> <U> ADJ. </U><B> big, major | annual | autumn, spring, etc. | international, local | arts, beer, cultural, dance, drama, film, flower, folk, jazz, literary, music, rock, theatre </B> </P>
+<P> <U> VERB + FESTIVAL </U><B> have, hold | attend, go to, visit | organize | appear at, take part in </B><I>The school has taken part in the festival since 1997. </I> </P>
+<P> <U> FESTIVAL + VERB </U><B> take place | begin, open, start | attract sb </B><I>The festival attracts thousands of visitors every year. </I> </P>
+<P> <U> FESTIVAL + NOUN </U><B> organizer | events, programme </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>He's appearing at a local folk festival tonight. </I><B>| during a/the ~ </B><I>the movies shown during the eight-day festival </I><B>| in a/the ~ </B><I>the events in this year's festival </I> </P>
+<P> <SUP> 2 </SUP> <TT> religious celebration </TT> </P>
+<P> <U> ADJ. </U><B> great, important, major | annual | pagan, religious | Christian, Muslim, etc. | harvest </B> </P>
+<P> <U> VERB + FESTIVAL </U><B> celebrate, observe </B><I>The family always observes the Jewish festivals. </I> </P>
+<P> <U> PREP. </U><B> at/on a/the ~ </B><I>the pilgrims who arrived on major festivals </I> </P>
+</DIV>

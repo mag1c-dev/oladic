@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>taxation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excessive, heavy, high </B><I>the heavy taxation on smokers and drinkers </I><B>| low | direct, indirect | progressive, redistributive | company, corporate, general, local, personal </B><I>changes in corporate taxation </I> </P>
+<P> <U> QUANT. </U><B> level, rate </B><I>a promise to lower the overall level of taxation </I> </P>
+<P> <U> VERB + TAXATION </U><B> increase, put up, raise </B><I>If the government raises direct taxation, it will lose votes. </I><B>| cut, lower, reduce | avoid | be exempt from </B><I>Any profits made are totally exempt from taxation. </I> </P>
+<P> <U> TAXATION + NOUN </U><B> policy, system | rate </B> </P>
+<P> <U> PREP. </U><B> after/before ~ </B><I>The loss before taxation was $2.7 million. </I><B>| from/out of ~ </B><I>The hospital was funded from taxation. </I><B>| through ~ </B><I>the power to raise funds through taxation </I><B>| ~ on </B><I>increased taxation on oil companies </I> </P>
+<P> <U> PHRASES </U><B> the burden of taxation </B><I>reducing the heavy burden of taxation on the wealthy </I><B>| a form of taxation </B><I>The poll tax was a very unpopular form of taxation. </I><B>| for taxation purposes </B><I>They were treated as a married couple for taxation purposes. </I> </P>
+</DIV>

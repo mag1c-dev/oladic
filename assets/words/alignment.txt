@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>alignment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> arrangement in correct position </TT> </P>
+<P> <U> ADJ. </U><B> correct </B> </P>
+<P> <U> VERB + ALIGNMENT </U><B> bring sth into </B> </P>
+<P> <U> PREP. </U><B> in ~ (with sth) </B><I>The door needs to be in alignment with the frame before you start work on it. </I><B>| out of ~ </B><I>A few of the tiles were clearly out of alignment. </I> </P>
+<P> <SUP> 2 </SUP> <TT> political support </TT> </P>
+<P> <U> ADJ. </U><B> close | military, political </B> </P>
+<P> <U> VERB + ALIGNMENT </U><B> establish, form | maintain </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>It is very difficult to maintain the alignment between the two countries since the trade dispute. </I><B>| ~ with </B><I>Britain formed a close alignment with Egypt in the last century. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>contempt </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lack of respect </TT> </P>
+<P> <U> ADJ. </U><B> deep, utter, withering | cold, icy | healthy </B><I>She'd developed what she considered a healthy contempt for authority. </I><B>| barely/thinly disguised </B> </P>
+<P> <U> VERB + CONTEMPT </U><B> feel, have, hold sb/sth in </B><I>He felt nothing but contempt for them. Politicians seem to be generally held in contempt by the police. </I><B>| betray, demonstrate, display, show </B><I>His remarks betray an utter contempt for the truth </I>(= are completely false)</B><I>. </I><B>| develop | regard sb/sth with, treat sb/sth with | deserve </B><I>I shall treat that suggestion with the contempt it deserves. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>He has a deep contempt for racists. </I><B>| beneath ~ </B><I>His treatment of his children is beneath contempt </I>(= so bad it is not even worth feeling contempt for)</B><I>. </I><B>| with ~ </B><I>She looked at him with barely disguised contempt. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (</B><I>also </I><B>contempt of court</B>) refusal to obey a court </TT> </P>
+<P> <U> ADJ. </U><B> civil, criminal </B> </P>
+<P> <U> VERB + CONTEMPT </U><B> be held in </B><I>She was held in contempt for refusing to testify. </I> </P>
+<P> <U> PREP. </U><B> in ~</B> </P>
+</DIV>

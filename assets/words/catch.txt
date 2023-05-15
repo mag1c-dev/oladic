@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>catch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of catching sth </TT> </P>
+<P> <U> ADJ. </U><B> brilliant, clean, easy, fine, good, nice </B> </P>
+<P> <U> VERB + CATCH </U><B> take </B><I>Roger took some brilliant catches at today's match. </I><B>| drop, miss </B> </P>
+<P> <SUP> 2 </SUP> <TT> number of fish that sb has caught </TT> </P>
+<P> <U> ADJ. </U><B> big, bumper, good, huge, large, record </B><I>Fishermen have been landing record catches this season. </I><B>| poor </B> </P>
+<P> <U> VERB + CATCH </U><B> land, make </B> </P>
+<P> <U> CATCH + VERB </U><B> decline, fall </B><I>Catches fell because of the new dam. </I><B>| go up, increase </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a bumper catch of tuna </I> </P>
+<P> <U> PHRASES </U><B> the day's catch </B><I>a restaurant where you can sample the day's catch </I> </P>
+<P> <SUP> 3 </SUP> <TT> device for fastening sth </TT> </P>
+<P> <U> ADJ. </U><B> door, window | safety </B><I>the safety catch on a gun </I> </P>
+<P> <U> VERB + CATCH </U><B> slip (off), undo, unfasten, unlock </B><I>Fran slipped the catch on the door, then turned to say goodbye. </I><B>| close</B> </P>
+</DIV>

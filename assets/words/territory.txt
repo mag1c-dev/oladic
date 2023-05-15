@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>territory </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> area of land that belongs to one country, etc. </TT> </P>
+<P> <U> ADJ. </U><B> vast | new </B><I>The explorers set off to conquer new territories. </I><B>| former </B><I>former French territories </I><B>| neighbouring, surrounding | home, national | alien, foreign, overseas | enemy, hostile | neutral | colonial, dependent | sovereign </B><I>Troops were stationed on sovereign German territory. </I><B>| conquered, lost, occupied </B><I>a town in British-occupied territory </I><B>| unoccupied | disputed | familiar | uncharted, unexplored, unknown, virgin | dangerous </B> </P>
+<P> <U> VERB + TERRITORY </U><B> hold | annex, capture, conquer, invade, occupy, recapture, take | control, govern, rule </B><I>The territory had been controlled by Azerbaijan for many years. </I><B>| cede, surrender | explore </B><I>(often figurative) Tired of writing detective novels, she began to explore new territory. </I><B>| settle </B><I>The territory was never densely settled. </I><B>| enter | leave | overfly </B><I>The plane was shot down while overflying enemy territory. </I><B>| stray into </B><I>The soldiers strayed into hostile territory. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of an animal </TT> </P>
+<P> <U> ADJ. </U><B> breeding </B> </P>
+<P> <U> VERB + TERRITORY </U><B> defend, patrol | mark (out), scent-mark</B> </P>
+</DIV>

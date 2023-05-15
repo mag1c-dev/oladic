@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>profile </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> face seen from the side </TT> </P>
+<P> <U> ADJ. </U><B> beautiful, handsome | strong | three-quarter </B> </P>
+<P> <U> VERB + PROFILE </U><B> present </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The painting shows her in profile. </I> </P>
+<P> <U> PHRASES </U><B> sb's best profile </B><I>He presented his best profile to the camera. </I> </P>
+<P> <SUP> 2 </SUP> <TT> description of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> detailed | age, career, psychological | company, customer | financial, social </B> </P>
+<P> <U> VERB + PROFILE </U><B> build up, construct, develop </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The data will enable us to construct a profile of the firm's customers. </I> </P>
+<P> <SUP> 3 </SUP> <TT> public image </TT> </P>
+<P> <U> ADJ. </U><B> high, low </B><I>She decided to keep a low profile until the scandal had died down. </I><B>| public | political | corporate </B> </P>
+<P> <U> VERB + PROFILE </U><B> have | give sb/sth </B><I>The story was given a low profile in today's papers. </I><B>| improve, increase, raise </B><I>a campaign to raise the profile of the city as a cultural leader </I><B>| lower | keep, maintain | adopt</B> </P>
+</DIV>

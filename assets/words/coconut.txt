@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>coconut </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dessicated, fresh </B> </P>
+<P> <U> QUANT. </U><B> bunch </B><I>huge bunches of fresh coconuts </I> </P>
+<P> <U> VERB + COCONUT </U><B> eat, have | grow | harvest, pick | break open, open </B><I>She broke open the coconut and drank its sweet milk. </I> </P>
+<P> <U> COCONUT + NOUN </U><B> milk, oil | palm, tree </B><I>a bay fringed with swaying coconut palms </I><B>| fibre, husk, matting, shell</B> </P>
+</DIV>

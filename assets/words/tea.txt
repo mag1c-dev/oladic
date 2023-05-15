@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>tea </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> drink </TT> </P>
+<P> <U> ADJ. </U><B> fresh </B><I>There's some fresh </I>(= just made) </B><I>tea in the pot. </I><B>|  stewed </B>(= very strong), <B>strong | weak | cold, hot, lukewarm, scalding | milky | white </B>(usually after <B>tea) <I>I'll have tea?white, no sugar, please. </I><B>| black | sugary, sweet | (early) morning | decaffeinated | fragrant | China/Chinese, Indian, etc. | Earl Grey, green | fruit, herb/herbal | camomile, jasmine, lemon, mint, etc. | iced </B> </P>
+<P> <U> QUANT. </U><B> cup, flask, mug, pot </B> </P>
+<P> <U> VERB + TEA </U><B> drink </B><I>I don't drink tea. </I><B>| have | sip, swallow </B><I>She sipped her hot tea slowly. </I><B>| take a mouthful/sip of | brew, get (sb), make (sb), mash </B><I>I'll make you some tea. </I><B>| bring sb, dispense </B><I>(often humorous)</I>, <B>ply sb with </B><I>(humorous)</I>, <B>serve (sb), take sb </B><I>I'll bring you a cup of tea in a few minutes. John rushed around dispensing tea and cakes to everyone. </I><B>| pour (sb) (out) </B><I>Pour me out a cup of tea please. </I><B>| stir </B> </P>
+<P> <U> TEA + VERB </U><B> brew, mash </B><I>You haven't let the tea brew long enough. </I><B>| cool </B> </P>
+<P> <U> TEA + NOUN </U><B> pot (also teapot), urn | cosy | service, set </B><I>a bone china tea service </I><B>| tray, trolley </B><I>A lady comes round the office with a tea trolley in the afternoon. </I><B>| bar, garden, room, shop </B><I>The hospital tea bar is run by volunteers. </I><B>| boy </B><I>(offensive when used of an older man)</I>, <B>lady | drinker, drinking | break | party | ceremony </B> </P>
+<P> <U> PREP. </U><B> in your ~ </B><I>Do you take sugar in your tea? </I> </P>
+<P> <U> PHRASES </U><B> tea and coffee, tea and biscuits/cake/cakes/sandwiches/scones, tea and sympathy </B><I>He tried to alleviate their disappointment by inviting them in for tea and sympathy. </I><B>| tea for two </B><I>&lsquo;Tea for two&rsquo;, said Mary, &lsquo;and a slice of your delicious chocolate cake.&rsquo; </I><B>| tea or coffee </B><I>Would you like tea or coffee? </I><B>| tea-making facilities </B><I>All rooms have tea-making facilities. </I> </P>
+<P> <SUP> 2 </SUP> <TT> leaves for making tea </TT> </P>
+<P> <U> ADJ. </U><B> loose </B>(= tea that is not in bags)  </P>
+<P> <U> QUANT. </U><B> packet </B> </P>
+<P> <U> VERB + TEA </U><B> grow </B> </P>
+<P> <U> TEA + VERB </U><B> grow </B> </P>
+<P> <U> TEA + NOUN </U><B> leaf | bag | caddy | strainer | estate, plantation | chest </B><I>He stores his books in a tea chest. </I> </P>
+<P> <SUP> 3 </SUP> <TT> meal </TT> </P>
+<P> <U> ADJ. </U><B> afternoon, cream, high | birthday, funeral </B> </P>
+<P> <U> TEA + NOUN </U><B> things </B><I>I cleared away the tea things. </I> </P>
+<a href="/collocation-tag/meal" class="tag">Learn more about MEAL</a>
+</DIV>

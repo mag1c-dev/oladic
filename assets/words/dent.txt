@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>dent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, great, large | considerable, serious, severe, significant </B><I>(all figurative) The latest health scare has made a very considerable dent in the sales of beef. </I><B>| little, slight, small </B> </P>
+<P> <U> VERB + DENT </U><B> leave, make </B><I>The impact of the stones made little dents in the metal. </I><B>| have </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>My side of the car had a large dent in it. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dent </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make a dent in sth </TT> </P>
+<P> <U> ADV. </U><B> badly </B><I>The car was quite badly dented on one side. </I><B>| slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> damage sth </TT> </P>
+<P> <U> ADV. </U><B> badly, seriously, severely </B><I>Being turned down for the job dented his pride quite badly. The appearance of these cheap goods from abroad has severely dented the company's sales. </I><B>| slightly </B> </P>
+<P> <U> VERB + DENT </U><B> fail to </B><I>The experience failed to dent her confidence. </I> </P>
+</DIV>

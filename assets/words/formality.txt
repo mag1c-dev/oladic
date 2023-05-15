@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>formality </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> action that is necessary according to custom/law </TT> </P>
+<P> <U> ADJ. </U><B> mere, simple </B><I>Your acceptance into the club will be a mere formality. </I><B>| customs, immigration, legal </B> </P>
+<P> <U> VERB + FORMALITY </U><B> complete, deal with, go through </B><I>It only took a few minutes to complete the legal formalities. </I><B>| dispense with </B><I>Let's dispense with the formalities and get down to work. </I> </P>
+<P> <U> PHRASES </U><B> just/merely/only a formality </B><I>She was clearly the best candidate for the job, so her interview was just a formality. </I> </P>
+<P> <SUP> 2 </SUP> <TT> polite formal behaviour </TT> </P>
+<P> <U> ADJ. </U><B> cold, cool, icy, stiff </B> </P>
+<P> <U> QUANT. </U><B> degree, level </B><I>It is important to be aware of the level of formality required at any social function. </I> </P>
+<P> <U> VERB + FORMALITY </U><B> maintain </B><I>She preferred to maintain a cool formality in her dealings with her manager. </I> </P>
+</DIV>

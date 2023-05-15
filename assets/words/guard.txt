@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>guard </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who guards sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> armed, uniformed </B><I>The building is protected by armed guards. </I><B>| border, prison, security </B> </P>
+<P> <U> VERB + GUARD </U><B> post </B><I>Guards had been posted all around the radio station. </I> </P>
+<P> <U> GUARD + VERB </U><B> patrol sth </B><I>Guards patrolled the perimeter fence. </I><B>| protect sth </B> </P>
+<P> <U> GUARD + NOUN </U><B> duty | dog </B> </P>
+<P> <SUP> 2 </SUP> <TT> being ready to prevent attack or danger </TT> </P>
+<P> <U> ADJ. </U><B> close | constant | armed </B><I>The accused was taken to court under armed guard. </I><B>| police </B> </P>
+<P> <U> VERB + GUARD </U><B> keep, mount, stand </B><I>Soldiers stood guard on the city gates. </I> </P>
+<P> <U> PREP. </U><B> off your ~ </B><I>The question seemed to catch him off his guard. </I><B>| on (your) ~ </B><I>Several police officers were on guard outside the factory. He was always on his guard against moneymaking schemes. </I><B>| under ~ </B><I>The prisoners were under close guard. </I><B>| ~ against, ~ over </B><I>Two police officers kept guard over the burnt-out building. </I> </P>
+<P> <SUP> 3 </SUP> <TT> group of soldiers/policemen who guard sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> civil, national, palace, presidential | advance </B> </P>
+<P> <U> VERB + GUARD </U><B> change </B><I>The guard was changed every two hours. </I><B>| call out </B><I>It would only be a matter of minutes before the alarm was raised and the guard called out. </I> </P>
+<P> <U> PHRASES </U><B> guard of honour </B><I>Fellow soldiers from Corporal Smith's regiment formed a guard of honour at his wedding. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>guard </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> well </B><I>The mountain pass is well guarded. </I><B>| carefully </B><I>a bird carefully guarding its eggs </I><B>| fiercely, jealously </B><I>She jealously guarded her position of power. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>guarding the city against attack </I><B>| from </B><I>pop stars who need to be guarded from their fans </I> </P>
+<P> <U> PHRASES </U><B> closely/heavily/securely guarded </B><I>The military base is closely guarded. </I><B>| guard sb/sth with your life </B><I>He was under instructions to guard the key with his life. </I><B>| strictly/tightly guarded </B><I>strictly guarded privacy </I> </P>
+</DIV>

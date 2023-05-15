@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>fraction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part/amount </TT> </P>
+<P> <U> ADJ. </U><B> large, significant, sizeable, substantial | mere, small, tiny </B><I>A mere fraction of available wind energy is currently utilized. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Why not grow your own fruit at a fraction of the price? </I> </P>
+<P> <U> PHRASES </U><B> just/only a fraction </B><I>The average income is high, though many people earn just a fraction of that average. </I> </P>
+<P> <SUP> 2 </SUP> <TT> exact part of a number </TT> </P>
+<P> <U> ADJ. </U><B> vulgar | decimal | improper </B><I>11/8 is an improper fraction, equivalent to one and three-eighths. </I> </P>
+<P> <U> VERB + FRACTION </U><B> express sth as </B><I>Express 25% as a fraction. </I> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>intake </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount of food/drink taken into the body </TT> </P>
+<P> <U> ADJ. </U><B> high | moderate | low | increased | total | good | excessive | adequate | balanced | normal | average | (recommended) daily | regular | dietary, nutritional | calorie | alcohol, calcium, energy, fat, fibre, fluid, food, oxygen, protein, salt, sugar, water </B> </P>
+<P> <U> VERB + INTAKE </U><B> have </B><I>Make sure you have a balanced intake of vitamins A, B, C and D. </I><B>| maintain </B><I>You should maintain a low intake of fat. </I><B>| increase, raise | control, watch </B><I>You need to watch your alcohol intake. </I><B>| cut, cut down (on), limit, lower, reduce, restrict </B><I>One of the best ways to get to your ideal size is to cut fat intake right down. </I> </P>
+<P> <SUP> 2 </SUP> <TT> number of students in a year </TT> </P>
+<P> <U> ADJ. </U><B> high | low | new | annual | graduate, student </B> </P>
+<P> <U> VERB + INTAKE </U><B> have </B><I>The school has an annual intake of 20 to 30. </I><B>| cut, reduce | increase </B> </P>
+<P> <SUP> 3 </SUP> <TT> where liquid/air enters a machine </TT> </P>
+<P> <U> ADJ. </U><B> air, water | pump </B> </P>
+<P> <U> VERB + INTAKE </U><B> clog (up) </B><I>Algae has clogged the intake to the water turbine. </I> </P>
+<P> <SUP> 4 </SUP> <TT> of breath </TT> </P>
+<P> <U> ADJ. </U><B> harsh, sharp </B><I>She gave a sharp intake of breath. </I> </P>
+<P> <U> VERB + INTAKE </U><B> give </B> </P>
+<P> <U> PHRASES </U><B> an intake of breath</B> </P>
+</DIV>

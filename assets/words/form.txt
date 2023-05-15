@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>form </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> type of sth/way of doing sth </TT> </P>
+<P> <U> ADJ. </U><B> common </B><I>Strikes are the most common form of industrial protest. </I><B>| extreme </B><I>an extreme form of socialism </I><B>| pure </B><I>In its purest form, the substance is highly explosive. </I><B>| complex, simple | mild | virulent </B><I>a virulent form of flu </I><B>| early, final </B><I>an early form of bicycle The document was edited before being circulated in its final form. </I><B>| art, literary, musical </B><I>Story-telling has acquired the status of an art form. </I><B>| life </B><I>primitive life forms at the bottom of the sea </I><B>| digital, electronic </B><I>The data is stored in digital form. </I><B>| graphic, tabular </B><I>The results of the survey are shown below in tabular form. </I><B>| liquid </B> </P>
+<P> <U> VERB + FORM </U><B> take </B><I>Bullying can take many forms. </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>The gas is stored in liquid form. </I><B>| in the ~ of </B><I>These costs were passed on to the tenants in the form of higher rents. </I><B>| ~ of </B><I>Swimming is one of the best forms of exercise. </I> </P>
+<P> <U> PHRASES </U><B> in any shape or form </B><I>The company will not tolerate discrimination in any shape or form. </I><B>| in some form or other </B><I>We spend most of our time communicating in some form or other. </I> </P>
+<P> <SUP> 2 </SUP> <TT> shape </TT> </P>
+<P> <U> ADJ. </U><B> human </B><I>paintings of the human form </I><B>| adult </B> </P>
+<P> <U> VERB + FORM </U><B> alter, change </B><I>a mythical creature that could change its form </I><B>| assume, take on </B><I>a god who could take on human form </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Two weeks later the moth will emerge in its adult form. </I> </P>
+<P> <SUP> 3 </SUP> <TT> piece of paper with questions on it </TT> </P>
+<P> <U> ADJ. </U><B> application, booking, entry, order </B> </P>
+<P> <U> VERB + FORM </U><B> complete, fill in/out </B><I>Please complete the application form and return it to us. </I><B>| sign | return </B> </P>
+<P> <SUP> 4 </SUP> <TT> strength/fitness </TT> </P>
+<P> <U> ADJ. </U><B> fine, good | poor | current, present </B> </P>
+<P> <U> VERB + FORM </U><B> maintain </B><I>The team is hoping that it can maintain its current form. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She was in fine form for the tournament. Barcelona are the team in form. </I><B>| off ~ </B><I>Her recent illness possibly explains why she was off form in this race. </I><B>| on (sb's) ~ </B><I>He'll be a difficult opponent to beat; he's really on form today. On his present form it seems likely that he will win the match. </I><B>| out of ~ </B><I>The team was out of form and did not play as well as expected. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>form </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make/organize sth </TT> </P>
+<P> <U> VERB + FORM </U><B> attempt to, try to | agree to, decide to | ask sb to, invite sb to </B><I>The leader of the party with the most seats is invited to form a government. </I><B>| help (to) </B> </P>
+<P> <U> PHRASES </U><B> newly/recently formed </B><I>a newly formed political party </I> </P>
+<P> <SUP> 2 </SUP> <TT> make sth into a shape </TT> </P>
+<P> <U> PREP. </U><B> into </B><I>She formed the clay into a ball. </I> </P>
+<P> <U> PHRASES </U><B> fully formed </B><I>The plan came in a flash of inspiration, fully formed. </I><B>| perfectly formed </B><I>a perfectly formed body </I> </P>
+</DIV>

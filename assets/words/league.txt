@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>league </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of sports clubs that compete with each other </TT> </P>
+<P> <U> ADJ. </U><B> cricket, football, etc. </B><I>They want to start a new football league. </I><B>| European, northern, etc. | local, national | Sunday </B><I>He played Sunday League cricket for years. </I><B>| premier | major, minor </B><I>major league baseball </I><B>| super </B><I>new proposals for a European super league </I> </P>
+<P> <U> VERB + LEAGUE </U><B> create, form, set up, start | join </B><I>The team joined the Northern League last year. </I><B>| win </B> </P>
+<P> <U> LEAGUE + NOUN </U><B> champions, leaders | championship, cup, title | club, side | player | game, match | table | cricket, football, etc. </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The team is now in the Premier League. </I> </P>
+<P> <U> PHRASES </U><B> at the bottom/top of the league, (come) bottom/top of the league, a position in the league </B><I>hoping to improve their position in the league </I> </P>
+<P> <SUP> 2 </SUP> <TT> level of quality, ability, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big, super, top, world </B><I>This move propelled him into the political big league. </I> </P>
+<P> <U> PHRASES </U><B> in a different league </B><I>Today's technology is in a different league </I>(= very much better)</B><I>. </I><B>| in a league of your own </B><I>As a painter he is in a league of his own </I>(= much better than others)</B><I>. </I><B>| not in the same league (as &hellip; ) </B>(= not nearly as good as), <B>out of sb's league </B><I>A house like that is way out of our league </I>(= too expensive for us)</B><I>. </I> </P>
+</DIV>

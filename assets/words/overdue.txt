@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>overdue </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> long </B><I>These reforms are long overdue. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>This system is overdue for reform. </I> </P>
+<P> <U> PHRASES </U><B> months/weeks/years overdue </B><I>These changes are years overdue. </I> </P>
+</DIV>

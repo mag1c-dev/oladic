@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>projection </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> current, latest | forward, future | population | financial, profit, sales </B> </P>
+<P> <U> VERB + PROJECTION </U><B> make | revise </B> </P>
+<P> <U> PREP. </U><B> on &hellip; ~s </B><I>On current projections, there will be more than ten million people 65 or over in 2010. </I><B>| ~ about </B><I>He declined to make projections about the next quarter's earnings. </I><B>| ~ as to </B><I>We have been making forward projections as to future profitability of the firm. </I><B>| ~ for </B><I>They presented profit projections for the rest of the year. </I><B>| ~ of </B><I>The council has revised its projections of funding requirements upwards. </I> </P>
+</DIV>

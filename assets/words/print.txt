@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>print </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large | fine, small </B><I>Always read the small print in a contract before signing. </I><B>| clear | bold </B> </P>
+<P> <U> PRINT + NOUN </U><B> journalist, worker | industry, union | run </B><I>The initial print run for her book was 6,000 copies. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>All her books are still in print. </I><B>| out of ~ </B><I>The shop specializes in out-of-print books. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>print </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> beautifully </B><I>The book is beautifully printed on good quality paper. </I><B>| badly | correctly </B><I>I couldn't get the graphics to print correctly. </I><B>| clearly | indelibly </B><I>(figurative) The incident was indelibly printed in her memory. </I><B>| privately </B><I>She had the memoir privately printed in a limited edition. </I><B>| specially </B><I>We had the T-shirts specially printed with the firm's logo. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>printing from a file </I><B>| in </B><I>The message was printed in blue ink. </I><B>| on </B><I>a leaflet printed on recycled paper </I><B>| with </B><I>a dress printed with blue flowers </I> </P>
+</DIV>

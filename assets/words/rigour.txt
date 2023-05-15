@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>rigour </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> strictness </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>The crime will be treated with the full rigour of the law. </I><B>| academic, intellectual, logical, scientific </B> </P>
+<P> <U> VERB + RIGOUR </U><B> lack </B><I>Their analysis lacks rigour. </I> </P>
+<P> <U> PREP. </U><B> with ~ | ~ in </B><I>There is a need for academic rigour in approaching this problem. </I></P>
+<P> <SUP> 2 </SUP> <TT> rigours: severe conditions  </TT> </P>
+<P> <U> ADJ. </U><B> full </B> </P>
+<P> <U> VERB + RIGOUR </U><B> be subjected to, face, suffer </B><I>computers that are subjected to the rigours of the office environment </I><B>| avoid, escape </B><I>The town managed to escape the rigours of war. </I><B>| stand up to, survive, withstand | prepare sb/sth for, protect (sb/sth) against </B><I>The thick coat of the mountain goat protects it against the rigours of winter. </I> </P>
+</DIV>

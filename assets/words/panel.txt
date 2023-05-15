@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>panel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of people </TT> </P>
+<P> <U> ADJ. </U><B> distinguished </B><I>a distinguished panel of academics </I><B>| independent | international | advisory, interview, interviewing, judging, review, selection </B> </P>
+<P> <U> VERB + PANEL </U><B> convene, select, set up | chair </B> </P>
+<P> <U> PANEL + VERB </U><B> be drawn from sb/sth </B><I>a panel of scientists drawn from universities </I> </P>
+<P> <U> PANEL + NOUN </U><B> member | interview | discussion | game </B><I>The comedian will chair a new TV panel game. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>The head of department serves on the advisory panel. </I><B>| ~ on </B><I>an independent panel on takeovers and mergers </I> </P>
+<P> <U> PHRASES </U><B> a member of a panel, a panel of experts/judges </B><I>The winners were chosen by a panel of judges. </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of a door, wall, etc. </TT> </P>
+<P> <U> ADJ. </U><B> ceiling, door, wall | sliding </B> </P>
+<P> <U> VERB + PANEL </U><B> fit, insert, put in | remove, take out </B> </P>
+<P> <SUP> 3 </SUP> <TT> section of vehicle body </TT> </P>
+<P> <U> ADJ. </U><B> front, rear | nearside, offside | body </B><I>My rear nearside body panel needed replacing after the accident. </I> </P>
+<P> <U> VERB + PANEL </U><B> beat </B> </P>
+<P> <U> PANEL + NOUN </U><B> beater, beating </B><I>He works as a panel beater in a local garage. </I> </P>
+<P> <SUP> 4 </SUP> <TT> surface containing controls </TT> </P>
+<P> <U> ADJ. </U><B> control, display, instrument </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>A red light flashed on the control panel. </I> </P>
+</DIV>

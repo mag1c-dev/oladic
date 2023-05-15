@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>harmony </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> state of agreement </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, perfect | reasonable, relative </B><I>They've lived together in reasonable harmony for many years. </I><B>| domestic, political, racial, social </B><I>On the surface, their life seemed a model of domestic harmony. </I> </P>
+<P> <U> VERB + HARMONY </U><B> achieve | maintain, preserve </B><I>They try to maintain harmony between the two communities. </I><B>| foster, promote </B><I>The Church tries to promote racial harmony. </I><B>| live in </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>They work together in harmony. </I><B>| ~ between </B><I>They try to foster harmony between different groups of people. </I><B>| ~ with </B><I>living in perfect harmony with nature </I> </P>
+<P> <U> PHRASES </U><B> a sense of harmony </B><I>A new sense of harmony developed in the community. </I> </P>
+<P> <SUP> 2 </SUP> <TT> pleasant combination of different musical notes </TT> </P>
+<P> <U> ADJ. </U><B> musical | five-part, four-part, etc. </B><I>an arrangement with four-part harmony </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>to sing in harmony </I> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>flat </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look | become | lie, stay </B><I>I can't get this material to lie flat. She lay flat on the ground. </I><B>| fold sth, get sth, make sth, press sth </B><I>Shall I fold the paper flat or roll it up? </I> </P>
+<P> <U> ADV. </U><B> very | absolutely, completely, quite </B><I>The sea was almost completely flat. </I><B>| almost | fairly, quite, rather</B> </P>
+</DIV><DIV class="item"><P class="word"><B>flat </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> set of rooms </TT> </P>
+<P> <U> ADJ. </U><B> big, spacious | modest | cramped, little, poky, small, tiny | comfortable, cosy | beautiful, nice | luxury, posh | shabby | modern | self-contained |  purpose-built | furnished, unfurnished | one-room, studio  | one-bedroomed, two-room, etc. | bachelor, granny </B><I>Even the prices of small bachelor flats are unbelievable. They converted two rooms of their house into a granny flat for Tony's elderly mother. </I><B>| attic, basement, bottom, downstairs, first-floor, ground-floor, penthouse, top, top-floor, upstairs </B><I>the people who lived in the downstairs flat </I><B>| high-rise </B><I>a block of high-rise flats </I> <B>| empty, unoccupied, vacant | privately-owned | rented | council | holiday | next </B><I>They live in the next flat. </I> </P>
+<P> <U> QUANT. </U><B> block </B><I>The tall blocks of flats dominated the skyline. </I> </P>
+<P> <U> VERB + FLAT </U><B> have, own </B><I>They have a flat in Paris and a house in Normandy. </I><B>| rent, take </B><I>The musician took a flat in a fashionable area of London. </I><B>| let, sublet </B><I>The landlady found they had been illegally subletting the flat. </I><B>| buy | sell | find (sb), look for </B><I>Do you think that the council could find me another flat? </I><B>| get (sb) </B><I>We got her a flat in the same block as ours. </I><B>| live in, occupy, stay in </B><I>Our flat is one of the two occupied in the block. </I><B>| share | move into, move (out) from, move out (of) | build | decorate, refurbish </B><I>a contract to refurbish 18 council flats </I><B>| lock (up) | let sb/yourself into </B><I>She let herself into the flat with the spare key. </I><B>| leave, let sb/yourself out (of) | break (into) | evict sb from </B> </P>
+<P> <U> FLAT + VERB </U><B> be located </B><I>The flat is located in a modern development. </I> <B>| face sth, overlook sth </B><I>a luxury block of flats overlooking the marina </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>I'll meet you back at your flat. </I><B>| in a/the ~ </B><I>She lives in the top flat. </I> </P>
+<P> <U> PHRASES </U><B> convert/divide/make/turn sth into flats </B><I>The house has now been converted into flats. </I> </P>
+<P> <SUP> 2 </SUP> <TT> land </TT> </P>
+<P> <U> ADJ. </U><B> coastal | tidal | mud (also mudflat), sand, salt </B><I>mud and sand flats rich in animal life </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>These birds live on the coastal flats. </I> </B> </P>
+<P> <SUP> 3 </SUP> <TT> musical note </TT> </P>
+<P> <U> ADJ. </U><B> A, B, etc. </B> </P>
+<P> <U> VERB + FLAT </U><B> have </B><I>The key of E flat major has three flats. </I><B>| play </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>Mendelssohn's Quintet in B flat </I> </P>
+</DIV>

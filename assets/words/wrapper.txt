@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>wrapper </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chocolate, sweet | Cellophane(R), foil, paper, plastic | sealed | plain | empty </B> </P>
+<P> <U> VERB + WRAPPER </U><B> remove, take off, tear off | drop, throw away, throw down </B><I>He dropped a sweet wrapper. </I> </P>
+<P> <U> WRAPPER + VERB </U><B> litter sth </B><I>Sweet wrappers littered the floor. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The book arrived in a plain brown wrapper. </I><B>| on a/the ~ </B><I>There was a list of ingredients on the wrapper. </I><B>| out of a/the </B><I>She took the chocolate bar out of the foil wrapper. </I> </P>
+</DIV>

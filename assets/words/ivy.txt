@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ivy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dense, thick | trailing | variegated </B> </P>
+<P> <U> VERB + IVY </U><B> grow </B><I>We're going to grow a variegated ivy up the back of the house. </I><B>| plant, put in | cut back, cut down, keep down </B><I>The ivy's got very thick. It needs cutting back a bit. </I><B>| be covered in </B><I>The walls were covered in ivy. </I> </P>
+<P> <U> IVY + VERB </U><B> grow </B><I>Ivy grew up the side of the house. </I><B>| climb, cling, crawl, creep, trail, twine </B><I>There was ivy clinging to the wall. </I> </P>
+<P> <U> IVY + NOUN </U><B> leaves</B> </P>
+</DIV>

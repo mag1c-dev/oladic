@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>momentum </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great, irresistible | initial | fresh </B><I>She gave fresh momentum to the campaign. </I> </P>
+<P> <U> VERB + MOMENTUM </U><B> have </B><I>The campaign for change now has considerable momentum. </I><B>| build up, gain, gather, increase </B><I>The car gathered momentum as it rolled down the hill. </I><B>| create, give sth, provide | keep up, maintain, sustain | lose </B><I>The team has lost momentum in recent weeks. </I><B>| slow </B> </P>
+<P> <U> MOMENTUM + VERB </U><B> build up, increase | go </B><I>Their momentum has gone, and they feel they cannot fight any longer. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>keeping up the momentum for growth </I><B>| ~ towards </B><I>the irresistible momentum towards reunification of the two countries </I> </P>
+<P> <U> PHRASES </U><B> keep the momentum going </B><I>We have to keep the momentum of our sales operation going. </I> </P>
+</DIV>

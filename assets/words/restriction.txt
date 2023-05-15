@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>restriction </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> severe, tight, tough | major | petty </B><I>The removal of petty restrictions has made life easier. </I><B>| absolute | further | artificial </B><I>free movement of goods between member countries without any artificial restrictions </I><B>| proposed | contractual, government, legal, statutory | advertising, age, credit, financial, import, parking, price, reporting </B>(= restrictions on information that newspapers may report), <B>speed, time, trade, travel, visa </B> </P>
+<P> <U> VERB + RESTRICTION </U><B> impose, introduce, place </B><I>The government has introduced tough new import restrictions. </I><B>| lift, remove </B><I>The press asked for restrictions on reporting the war to be lifted. </I><B>| accept | be subject to </B><I>The right of sale is subject to certain restrictions. </I> </P>
+<P> <U> RESTRICTION + VERB </U><B> affect sth, apply </B><I>The 30 mph speed restriction applies in all built-up areas. </I> </P>
+<P> <U> RESTRICTION + NOUN </U><B> order </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>Citizens of the EU can travel without restriction within the EU. </I><B>| ~ on/upon </B><I>The regulations were seen as a restriction on personal freedom. </I> </P>
+</DIV>

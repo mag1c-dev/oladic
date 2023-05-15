@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>valuation </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> high, low | detailed | independent | actuarial | market | land, mortgage, property | share, stock </B> </P>
+<P> <U> VERB + VALUATION </U><B> carry out, do, make, prepare </B> </P>
+<P> <U> VALUATION + NOUN </U><B> fee, report</B> </P>
+</DIV>

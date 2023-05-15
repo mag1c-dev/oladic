@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>sap </b><i>noun </i> </p>
+<p> <u> VERB + SAP </u><div class="ex"><b> extract </b></div><div class="excontent"><i>Maple syrup is made from sap extracted from the sugar maple tree. </i> </div></p>
+<p> <u> SAP + VERB </u><div class="ex"><b> rise </b></div><div class="excontent"><i>It was spring, and the sap was rising. </i> </div></p>
+</div>

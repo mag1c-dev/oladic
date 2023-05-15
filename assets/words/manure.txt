@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>manure </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> animal, chicken, cow, horse, pig | farmyard, garden | green </B><I>A green manure is a crop grown mainly to improve soil fertility. </I><B>| organic | well-rotted | liquid </B> </P>
+<P> <U> VERB + MANURE </U><B> apply, spread </B><I>the best time to spread manure on the fields </I><B>| dig in, work in </B><I>Work in plenty of well-rotted manure. </I> </P>
+<P> <U> MANURE + NOUN </U><B> heap</B> </P>
+</DIV>

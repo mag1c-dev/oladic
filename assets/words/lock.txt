@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>lock </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fastening device </TT> </P>
+<P> <U> ADJ. </U><B> Chubb, combination, lever, mortise, Yale | door, window </B> </P>
+<P> <U> VERB + LOCK </U><B> fit </B><I>We had new locks fitted after the burglary. </I><B>| break, force, pick | turn </B><I>He turned the lock and pushed the door open. </I> </P>
+<P> <U> PHRASES </U><B> insert/turn the key in the lock, (keep sb/sth) under lock and key </B><I>Prisoners are kept under lock and key 24 hours a day. </I> </P>
+<P> <SUP> 2 </SUP> <TT> small bunch of hair </TT> </P>
+<P> <U> ADJ. </U><B> stray </B><I>She flicked a stray lock of hair off her face. </I><B>| flowing </B><I>She had long flowing locks and blue eyes. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>lock </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> close with a lock </TT> </P>
+<P> <U> ADV. </U><B> carefully </B><I>He carefully locked the door behind him. </I> </P>
+<P> <U> VERB + LOCK </U><B> forget to </B> </P>
+<P> <U> PHRASES </U><B> be firmly/securely locked, keep sth locked </B><I>Keep your garage securely locked. </I> </P>
+<P> <SUP> 2 </SUP> <TT> put sb/sth inside sth that is locked </TT> </P>
+<P> <U> ADV. </U><B> away, in, up </B><I>I was terrified they would lock me up again. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>I locked myself in the bathroom. </I> </P>
+<P> <U> PHRASES </U><B> be safely/securely locked </B><I>All the valuables were safely locked away. </I> </P>
+</DIV>

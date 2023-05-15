@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>servant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> devoted, faithful, good, loyal, trusted | female, male | maid | hired | indentured | personal | domestic, farm, household, royal </B> </P>
+<P> <U> VERB + SERVANT </U><B> employ, have </B> </P>
+<P> <U> SERVANT + VERB </U><B> serve sb, wait on sb </B><I>An army of servants waited on the king's household. </I> </P>
+<P> <U> SERVANT + NOUN </U><B> girl </B> </P>
+<P> <U> PHRASES </U><B> an army/a retinue of servants </B><I>The duchess arrived, surrounded by her retinue of servants. </I><B>| servants' quarters</B> </P>
+</DIV>

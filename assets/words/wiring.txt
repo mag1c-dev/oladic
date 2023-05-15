@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>wiring </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> electric/electrical | dangerous, faulty, loose | mains | house </B> </P>
+<P> <U> VERB + WIRING </U><B> renew, replace </B><I>The existing wiring will have to be replaced. </I><B>| take out </B><I>They took out the old wiring. </I><B>| disconnect | check (over), have a look at </B><I>We'd better get an electrician to check the wiring before we start decorating. </I><B>| conceal </B><I>The wiring was concealed behind a false panel. </I> </P>
+<P> <U> WIRING + NOUN </U><B> diagram | system</B> </P>
+</DIV>

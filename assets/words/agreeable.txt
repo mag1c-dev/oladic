@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>agreeable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> pleasant </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound </B><I>It all sounds very agreeable. </I><B>| find sb/sth </B><I>He finds her very agreeable. </I><B>| make yourself </B><I>She did her best to make herself agreeable. </I><B>| highly, most, particularly, very </B><I>It was a most agreeable evening. </I><B>| quite </B> </P>
+<P> <U> ADV. </U><B> mutually </B><I>We tried to negotiate a mutually agreeable solution. </I> </P>
+<P> <SUP> 2 </SUP> <TT> willing to accept/do sth </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> perfectly, quite </B> </P>
+<P> <U> PREP. </U><B> to </B><I>He was perfectly agreeable to the idea. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>restraint </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> limit/control on sth </TT> </P>
+<P> <U> ADJ. </U><B> effective | voluntary </B><I>talks on voluntary wage restraint </I><B>| conventional </B><I>what happens when the conventional restraints on human cruelty are removed </I><B>| physical </B><I>Sometimes the care workers need to use physical restraint on the hospital patients. </I><B>| budgetary, economic, expenditure, financial, fiscal, monetary, pay, spending, wage | contractual, judicial, legal, regulatory | cultural, moral, social </B> </P>
+<P> <U> VERB + RESTRAINT </U><B> impose, use | remove </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>Prices continued to rise without restraint. </I><B>| ~ on/upon </B><I>The government imposed restraints on spending. </I> </P>
+<P> <SUP> 2 </SUP> <TT> behaving in a calm/moderate way </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, remarkable | mutual </B><I>the mutual restraint shown by police and protesters. </I><B>| sexual </B> </P>
+<P> <U> VERB + RESTRAINT </U><B> exercise, show </B><I>Journalists have exercised remarkable restraint in not reporting all the sordid details of the case. </I><B>| appeal for, call for </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>The government called for restraint by both sides. </I> </P>
+</DIV>

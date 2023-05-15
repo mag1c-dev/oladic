@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>treatment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way you behave towards sb/deal with sth </TT> </P>
+<P> <U> ADJ. </U><B> favourable, preferential, special, VIP </B><I>She was given the VIP treatment after winning gold for her country at the Sydney Olympics. </I><B>| generous, lenient | equal, fair | good, humane | sensitive, sympathetic | discriminatory, unequal, unfair, unjust, unkind | brutal, cruel, degrading, harsh, ill-, inhuman, inhumane, rough, violent </B><I>He claims he suffered ill-treatment at the hands of prison officers. </I><B>| shabby </B><I>You shouldn't put up with such shabby treatment. </I> </P>
+<P> <U> VERB + TREATMENT </U><B> get, have, receive, suffer | deserve </B><I>He had done nothing to deserve such cruel treatment. </I><B>| give sb, mete out (to sb) </B><I>The treatment meted out to captured soldiers was harsh. </I><B>| put up with </B> </P>
+<P> <SUP> 2 </SUP> <TT> medical care </TT> </P>
+<P> <U> ADJ. </U><B> emergency, immediate, on-the-spot, prompt, urgent | follow-up, further | long-term | effective, successful | conventional, orthodox | alternative, holistic, homoeopathic | hospital | inpatient, outpatient | free, NHS | private | specialist | dental, medical, psychiatric, veterinary | drug, hormone | operative, surgical | non-operative, non-surgical | laser | dietary, nutritional | beauty, hair </B> </P>
+<P> <U> QUANT. </U><B> course </B> </P>
+<P> <U> VERB + TREATMENT </U><B> get, have, receive, undergo </B><I>She is still undergoing medical treatment. </I><B>| administer, give sb, provide (sb with) </B><I>Paramedics are to have extra training in administering on-the-spot treatment. </I><B>| need, require | seek </B><I>When his depression worsened, he decided to seek treatment. </I><B>| advise, prescribe, recommend, suggest | refuse | benefit from, respond to </B><I>He responded well to treatment and is now walking again. </I> </P>
+<P> <U> TREATMENT + NOUN </U><B> decision, option | centre, room | method, procedure, technique | course, plan, programme, regime, regimen, schedule </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He's in treatment for cocaine addiction. </I><B>| ~ for </B><I>She is receiving treatment for a heart condition. </I> </P>
+<P> <SUP> 3 </SUP> <TT> process for cleaning/protecting sth </TT> </P>
+<P> <U> ADJ. </U><B> sewage, surface, water </B><I>Galvanizing is a common surface treatment for steel. </I> </P>
+<P> <U> TREATMENT + NOUN </U><B> facility, plant, works </B> </P>
+<P> <SUP> 4 </SUP> <TT> discussion of a subject, work of art, etc. </TT> </P>
+<P> <U> ADJ. </U><B> definitive, exhaustive, systematic | lengthy | cursory, superficial | philosophical, theoretical</B> </P>
+</DIV>

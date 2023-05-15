@@ -1,0 +1,32 @@
+<DIV class="item"><P class="word"><B>head </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> go </TT> </P>
+<P> <U> ADV. </U><B> north, northwards, etc. </B><I>We headed west for two days. </I><B>| back </B><I>Let's head back home. </I> </P>
+<P> <U> PREP. </U><B> back to </B><I>We headed straight back to school. </I><B>| for </B><I>He turned and headed for the door. </I><B>| towards </B><I>heading towards London </I> </P>
+<P> <SUP> 2 </SUP> <TT> be in charge of sth </TT> </P>
+<P> <U> ADV. </U><B> jointly </B><I>The committee will be headed jointly by two men. </I><B>| up </B> </P>
+<P> <U> VERB + HEAD </U><B> appoint sb to </B><I>She has been appointed to head up the research team. </I> </P>
+</DIV>
+
+<DIV class="item"><P class="word"><B>head </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of the body </TT> </P>
+<P> <U> ADJ. </U><B> bare | bald | shaved | blonde, dark, fair, grey, greying | bent, bowed </B><I>She sat with bowed head. </I><B>| severed </B><I>The city gates were adorned with severed heads. </I> </P>
+<P> <U> VERB + HEAD </U><B> poke, pop, put, stick </B><I>He put his head round the door. </I><B>| bob, cock, crane, incline, jerk, tilt, turn </B><I>She jerked her head in the direction of the door. </I><B>| lift, raise | bend, bow, drop, duck, hang, lower </B><I>He hung his head in shame. </I><B>| swing, throw back, toss </B><I>He threw his head back and laughed out loud. </I><B>| nod, shake </B><I>They nodded their heads in agreement. She shook her head in disbelief. </I><B>| scratch </B><I>He scratched his head. &lsquo;I don't understand, &rsquo; he said. (figurative) Detectives have been left scratching their heads over the stolen painting's sudden reappearance. </I><B>| clutch, hold </B><I>He lay writhing on the ground, clutching his head in pain. </I><B>| bury </B><I>She buried her head in the pillow. </I><B>| shave </B> </P>
+<P> <U> HEAD + VERB </U><B> ache, throb | bob, jerk, nod, tilt, turn </B><I>Her head tilted to one side as she considered the question. </I><B>| droop, drop, hang down, hang low </B><I>His head drooped and tears fell into his lap. </I> </P>
+<P> <U> HEAD + NOUN </U><B> injury | cold </B> </P>
+<P> <U> PREP. </U><B> above your ~ </B><I>The thunder burst with a grand crash above our heads. </I><B>| over your ~ </B><I>The soldiers were ordered to fire over the heads of the crowd. </I> </P>
+<P> <U> PHRASES </U><B> from head to foot/toe </B><I>We were covered from head to foot in mud. </I><B>| a fine/good, etc. head of hair </B>(= a lot of hair) <I>a woman with a lovely head of chestnut hair </I><B>| have/hold/put, etc. your head in your hands </B><I>He put his head in his hands, exasperated. </I><B>| head first </B><I>He dived head first into the water. (figurative) She got divorced and rushed head first into another marriage. </I><B>| a nod of the head </B><I>The ambassador dismissed him with a curt nod of the head. </I><B>| a shake of the head </B><I>She declined with a brief shake of the head. </I> </P>
+<P> <SUP> 2 </SUP> <TT> mind </TT> </P>
+<P> <U> ADJ. </U><B> clear, cool, level </B><I>She needed to keep a clear head if she was to remain in control. </I><B>| good </B><I>I have a good head for figures. </I> </P>
+<P> <U> VERB + HEAD </U><B> use </B><I>I wish you'd use your head </I>(= think carefully before doing or saying something)</B><I>. </I><B>| enter </B><I>It never entered my head that he might be lying. </I><B>| get it into </B><I>When will you get it into your head </I>(= understand) </B><I>that I don't want to discuss this any more! For some reason she's got it into her head </I>(= believes) </B><I>that the others don't like her. </I><B>| put sth into </B><I>Who's been putting such weird ideas into your head? </I><B>| get sth out of, put sth out of </B><I>I can't get that tune out of my head. Try to put the exams out of your head for tonight. </I><B>| bother </B><I>Don't bother your pretty little head with things like that! </I> </P>
+<P> <U> HEAD + VERB </U><B> spin </B><I>He could feel his head spinning after only one drink. </I> </P>
+<P> <U> PREP. </U><B> in your ~ </B><I>I can't work it out in my head?I need a calculator. </I><B>| inside your ~ </B><I>It was an accident, said a voice inside his head. </I> </P>
+<P> <U> PHRASES </U><B> can't get your head round sth </B>(= can't understand sth) <I>She's dead. I can't get my head round it yet. </I><B>| need your head examined </B><I>He looked at me as if I needed my head examined </I>(= as if I were crazy)</B><I>. </I> </P>
+<P> <SUP> 3 </SUP> <TT> heads: side of a coin  </TT> </P>
+<P> <U> VERB + HEAD </U><B> call </B><I>I called heads and it came down tails. </I><B>| come down/up </B> </P>
+<P> <U> PHRASES </U><B> heads or tails? </B> </P>
+<P> <SUP> 4 </SUP> <TT> of a group/organization/school, etc. </TT> </P>
+<P> <U> ADJ. </U><B> deputy | departmental | nominal, titular </B><I>The Queen is titular head of the Church of England. </I><B>| crowned </B><I>The message was sent to all the crowned heads </I>(= kings and queens) </B><I>of Europe. </I> </P>
+<P> <U> HEAD + NOUN </U><B> gardener, teacher, waiter | boy, girl </B>(= in a school)  </P>
+<P> <U> PHRASES </U><B> a head of department, the head of the family, a head of government/state </B><I>a summit meeting of heads of state </I><B>| a head of (the) household </B></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

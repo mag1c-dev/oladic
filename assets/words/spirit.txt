@@ -1,0 +1,38 @@
+
+<DIV class="item"><P class="word"><B>spirit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mind or feelings </TT> </P>
+<P> <U> ADJ. </U><B> human </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>I will be with you in spirit. </I></P>
+<P> <SUP> 2 </SUP> <TT> spirits: morale  </TT> </P>
+<P> <U> ADJ. </U><B> flagging </B> </P>
+<P> <U> VERB + SPIRIT </U><B> keep up, lift, raise </B><I>We sang songs to keep our spirits up. </I><B>| revive | break, dampen </B><I>A string of defeats has failed to dampen the team's spirits. </I> </P>
+<P> <U> SPIRIT + VERB </U><B> lift, rise </B> </P>
+<P> <U> PHRASES </U><B> in good/high/low/poor, etc. spirits </B><I>She isn't in the best of spirits today. </I> </P>
+<P> <SUP> 3 </SUP> <TT> person </TT> </P>
+<P> <U> ADJ. </U><B> guiding, leading, moving </B><I>She was a guiding spirit in primary education. </I><B>| generous | grudging, mean | brave, proud | free, independent | kindred </B><I>He found kindred spirits in the peace movement. </I> </P>
+<P> <SUP> 4 </SUP> <TT> courage/liveliness </TT> </P>
+<P> <U> ADJ. </U><B> great, tremendous | adventurous, competitive, fighting, indomitable, pioneer/pioneering </B> </P>
+<P> <U> VERB + SPIRIT </U><B> be full of, have </B><I>She has plenty of fighting spirit. </I><B>| display, show | break </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>He sang with great spirit. </I> </P>
+<P> <U> PHRASES </U><B> broken in spirit </B><I>They tortured him until he was broken in spirit. </I> </P>
+<P> <SUP> 5 </SUP> <TT> feelings of loyalty </TT> </P>
+<P> <U> ADJ. </U><B> community, party, public, team </B> </P>
+<P> <U> VERB + SPIRIT </U><B> have | develop, foster, promote </B> </P>
+<P> <SUP> 6 </SUP> <TT> attitude/mood </TT> </P>
+<P> <U> ADJ. </U><B> right </B><I>He's got the right spirit! </I><B>| essential, genuine, true | carefree | democratic, revolutionary | entrepreneurial | festive, Christmas </B> </P>
+<P> <U> VERB + SPIRIT </U><B> have | enter into </B> </P>
+<P> <U> PREP. </U><B> in a ~ of </B><I>Both sides have come together in a spirit of goodwill. </I><B>| ~ of </B><I>a spirit of adventure </I> </P>
+<P> <U> PHRASES </U><B> in the right/wrong spirit, the spirit of the age/times </B> </P>
+<P> <SUP> 7 </SUP> <TT> real/intended meaning of a rule, an agreement, etc. </TT> </P>
+<P> <U> VERB + SPIRIT </U><B> obey | be/go against, be contrary to </B> </P>
+<P> <U> PHRASES </U><B> the spirit of the law </B><I>The referee should try to obey the spirit as well as the letter of the law. </I> </P>
+<P> <SUP> 8 </SUP> <TT> soul/ghost </TT> </P>
+<P> <U> ADJ. </U><B> ancestral | evil, malevolent | restless </B><I>Owls were believed to be restless spirits who had returned to earth. </I> </P>
+<P> <U> VERB + SPIRIT </U><B> conjure up, contact, invoke, summon (up) | exorcise, ward off </B><I>She slept with a cross under the pillow to ward off evil spirits. </I><B>| be possessed by </B> </P>
+<P> <U> SPIRIT + VERB </U><B> live on </B><I>Many people believe the spirit lives on after death. </I> </P>
+<P> <U> PHRASES </U><B> the spirits of the dead </B> </P>
+<P> <SUP> 9 </SUP> <TT> (usually <B>spirits</B>) strong alcoholic drink </TT> </P>
+<P> <U> QUANT. </U><B> measure </B><I>a single measure of spirits </I> </P>
+<P> <U> VERB + SPIRIT </U><B> drink</B> </P>
+<P> <U> PHRASES </U><B> a bottle of spirits</B> </P>
+</DIV>

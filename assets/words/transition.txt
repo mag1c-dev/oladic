@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>transition </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> abrupt, immediate, rapid, sudden | direct | gradual, phased, slow | awkward, difficult, painful | easy, smooth | non-violent, orderly, peaceful </B> </P>
+<P> <U> VERB + TRANSITION </U><B> bring about, cause, effect </B><I>The negotiators hoped to effect a smooth transition to an interim administration. </I><B>| complete, make </B><I>The company was slow to make the transition from paper to computer. </I><B>| undergo | mark </B><I>The ceremony marks the transition of the student to graduate status. </I><B>| ease, smooth </B> </P>
+<P> <U> TRANSITION + VERB </U><B> occur, take place | be complete </B><I>Her transition from girl to woman was complete. </I> </P>
+<P> <U> TRANSITION + NOUN </U><B> period, process | phase </B> </P>
+<P> <U> PREP. </U><B> during (the) ~ </B><I>He will remain head of state during the transition to democracy. </I><B>| in ~ </B><I>The country is in transition from an agricultural to an industrial society. </I><B>| ~ between </B><I>This training course aims to smooth the transition between education and employment. </I><B>| ~ from, ~ to </B> </P>
+<P> <U> PHRASES </U><B> a period of transition, a process of transition, a state of transition</B> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>partner </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a marriage/relationship </TT> </P>
+<P> <U> ADJ. </U><B> former | dominant </B><I>She was the dominant partner in the relationship. </I><B>| female, male | marriage, sexual </B><I>the choice of marriage partner </I> </P>
+<P> <U> VERB + PARTNER </U><B> have </B> </P>
+<P> <SUP> 2 </SUP> <TT> in an activity </TT> </P>
+<P> <U> ADJ. </U><B> bridge, doubles, playing, tennis </B><I>I need a doubles partner for the table tennis tournament. </I><B>| dancing | sparring </B><I>(figurative) The old political sparring partners are now firm friends. </I><B>| drinking </B> </P>
+<P> <U> VERB + PARTNER </U><B> choose </B><I>The teacher asked the students to choose a partner for the next activity. </I><B>| change </B><I>All change partners for the next dance! </I> </P>
+<P> <SUP> 3 </SUP> <TT> in business </TT> </P>
+<P> <U> ADJ. </U><B> full | equal | active, managing | sleeping | junior, senior | business </B> </P>
+<P> <U> VERB + PARTNER </U><B> make sb </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>He has recently been made a junior partner in the family business. </I> </P>
+<P> <SUP> 4 </SUP> <TT> in international relations </TT> </P>
+<P> <U> ADJ. </U><B> biggest, main, principal | foreign | coalition, trading </B><I>France's principal trading partners </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Britain's partner in the aeronautic project </I> </P>
+</DIV>

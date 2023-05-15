@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>surgery </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> medical treatment </TT> </P>
+<P> <U> ADJ. </U><B> major, radical | minor | extensive | further | successful, unsuccessful | keyhole, laser | invasive </B><I>One of his specialities is minimally invasive surgery. </I><B>| elective, emergency, experimental, exploratory, remedial </B><I>They discussed whether patients should have to pay for all elective surgery. </I><B>| cosmetic, plastic | general | abdominal, brain, bypass, cardiac, gastric, heart, knee, open-heart, orthopaedic, paediatric </B> </P>
+<P> <U> VERB + SURGERY </U><B> have, undergo </B><I>She had minor surgery on her knee. </I><B>| perform </B><I>He has been performing heart surgery for ten years. </I><B>| need, require </B> </P>
+<P> <U> PREP. </U><B> after/before/during ~ </B><I>She felt weak for six months after undergoing major abdominal surgery. </I><B>| ~ for </B><I>emergency surgery for a twisted gut </I><B>| ~ to </B><I>After the accident, she needed extensive plastic surgery to her face. </I> </P>
+<P> <SUP> 2 </SUP> <TT> place/time a doctor/dentist sees patients </TT> </P>
+<P> <U> ADJ. </U><B> open | afternoon, evening, morning | dental, doctor's, GP's, veterinary </B> </P>
+<P> <U> VERB + SURGERY </U><B> do, have, hold </B><I>I'll do morning surgery, if you like. We only have a morning surgery. He holds surgery from 10 a.m. to 1 p.m. </I><B>| attend, go to </B><I>those attending the doctor's surgery with physical symptoms I'll have to go to the surgery to pick up the prescription. </I> </P>
+<P> <U> SURGERY + NOUN </U><B> hours </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Dr Smith isn't in the surgery today. </I> </P>
+</DIV>

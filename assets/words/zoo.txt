@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>zoo </B><I>noun </I> </P>
+<P> <U> VERB + ZOO </U><B> go to, visit | escape from | run </B><I>a badly-run zoo </I> </P>
+<P> <U> ZOO + NOUN </U><B> animals | keeper (also zookeeper) </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We saw a baby polar bear at the zoo. </I><B>| in a/the ~ </B><I>These lions were born in the zoo. </I> </P>
+</DIV>

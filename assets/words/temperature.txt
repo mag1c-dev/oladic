@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>temperature </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> how hot or cold sth is </TT> </P>
+<P> <U> ADJ. </U><B> high, warm </B><I>Yesterday the town reached its highest ever February temperature. </I><B>| cold, cool, low, sub-zero | moderate | normal | extreme </B><I>Avoid exposing the instrument to extreme temperatures. </I><B>| boiling, freezing, melting </B><I>the boiling temperature of the solvent </I><B>| maximum, minimum | average, mean | constant, stable, steady | daytime | daily | summer, winter, etc. | April, July, etc. | global </B><I>The increase in the mean global temperature will be about 0.3&deg;C per decade. </I><B>| air, sea, water, etc. | ambient, room | oven | body | surface </B><I>the surface temperature of our planet </I> </P>
+<P> <U> VERB + TEMPERATURE </U><B> have </B><I>Some places had temperatures in the forties during the heat wave. </I><B>| heat sth to, raise </B><I>Heat the oven to a temperature of 200&deg;C. </I><B>| reduce | reach | control | expose sth to </B> </P>
+<P> <U> TEMPERATURE + VERB </U><B> go up, increase, rise | drop, fall, go down, plummet </B><I>Overnight the temperature fell as low as -30&deg;C. </I> </P>
+<P> <U> TEMPERATURE + NOUN </U><B> conditions | change, difference, increase, rise | gradient, range, variation </B><I>a temperature range of 60?74&deg;F </I><B>| control, regulation | measurement | gauge, sensor </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>Serve the wine at room temperature. </I><B>| in a ~ </B><I>This plant grows well in temperatures above 55&deg;F. </I><B>| ~ above/below/between, ~ of </B><I>The fish prefer a temperature of 24?27&deg;C. </I> </P>
+<P> <U> PHRASES </U><B> a change/variation in temperature, a drop in temperature, an increase/a rise in temperature, a range of temperature </B> </P>
+<P> <SUP> 2 </SUP> <TT> fever </TT> </P>
+<P> <U> ADJ. </U><B> high | slight </B> </P>
+<P> <U> VERB + TEMPERATURE </U><B> have, run </B><I>She's running a temperature. </I><B>| take </B><I>The nurse produced a thermometer and took my temperature. </I><B>| bring down </B><I>They used ice packs to bring down her temperature. </I> </P>
+<P> <U> TEMPERATURE + VERB </U><B> go up, rise | come down </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He's in bed with a temperature of 102. </I> </P>
+</DIV>

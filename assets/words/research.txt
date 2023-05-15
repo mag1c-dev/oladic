@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>research </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> detailed, in-depth, painstaking | extensive </B><I>He has carried out extensive research into renewable energy sources. </I><B>| basic | original | further | ground-breaking, pioneering </B><I>pioneering research into skin disease </I><B>| collaborative | empirical | academic, clinical, historical, medical, military, scientific, social, space | AIDS, cancer, etc. | animal </B><I>calling for a ban on animal research </I><B>| market </B> </P>
+<P> <U> QUANT. </U><B> piece </B><I>a startling piece of historical research </I> </P>
+<P> <U> VERB + RESEARCH </U><B> carry out, conduct, do, undertake </B><I>She's doing research on Czech music between the wars. </I><B>| be based on </B><I>One paper based on research conducted at Oxford suggested that the drug may cause brain damage. </I> </P>
+<P> <U> RESEARCH + VERB </U><B> demonstrate sth, indicate sth, prove sth, reveal sth, show sth, suggest sth </B><I>What have their researches shown? </I><B>| produce sth, yield sth </B><I>Recent research on deaf children has produced some interesting findings about their speech. </I> </P>
+<P> <U> RESEARCH + NOUN </U><B> degree | effort, programme, project, work </B><I>directing the group's research effort </I><B>| methods | findings, results | purposes </B><I>Copies of the tape can be made for research purposes. </I><B>| centre, institute, laboratory | assistant, group, student, team, worker | grant </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Most research in the field has concentrated on the effects on children. </I><B>| ~ into/on </B><I>They are carrying out research into the natural flow patterns of water. </I> </P>
+<P> <U> PHRASES </U><B> an area of research, research and development </B><I>spending on military research and development </I> </P>
+</DIV><DIV class="item"><P class="word"><B>research </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, exhaustively, extensively, fully, meticulously, properly, thoroughly, well | poorly </B><I>The book has been poorly researched. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>She is currently researching for her next novel. </I><B>| into </B><I>I spent two years carefully researching into his background. </I> </P>
+</DIV>

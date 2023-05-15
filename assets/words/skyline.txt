@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>skyline </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dramatic | city | Hong Kong, London, etc. | northern, southern, etc. </B> </P>
+<P> <U> VERB + SKYLINE </U><B> form | dominate </B><I>The skyline is dominated by a nuclear power station. </I><B>| be silhouetted against/on, stand (out) against/on </B><I>A medieval castle stands against the skyline. </I><B>| break </B><I>The skyline is broken by a water tower. </I> </P>
+<P> <U> PREP. </U><B> above/over ~ </B><I>Clouds of smoke floated over the skyline. </I><B>| against the ~ </B><I>the moving figures he could see against the skyline </I><B>| along the ~ </B><I>lights twinkling along the Beirut skyline </I><B>| below the ~ </B><I>The sun slipped below the skyline. </I><B>| on the ~ </B><I>There are several gothic spires on the city skyline. </I> </P>
+</DIV>

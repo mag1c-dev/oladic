@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>housing </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> affordable, cheap, good, low-cost </B><I>The aim of the scheme was to provide good low-cost housing for workers. </I><B>| decent, good | adequate | bad, inadequate, poor, substandard </B><I>Many health problems are made worse by poor housing. </I><B>| permanent, temporary | council, local authority, public, social </B><I>Public expenditure on social housing provision has doubled in the last five years. </I><B>| rented | private | sheltered </B><I>sheltered housing for old people </I><B>| high-rise | rural, urban </B> </P>
+<P> <U> VERB + HOUSING </U><B> provide </B> </P>
+<P> <U> HOUSING + NOUN </U><B> association, authority, committee, department, office | conditions | development, estate, scheme </B><I>Many new housing developments had sprung up around the city. </I><B>| construction | provision | market | crisis, shortage | allowance, benefit </B><I>She receives a substantial housing allowance on top of her salary. I received housing benefit when I was unemployed. </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>Too many families are still living in substandard housing. </I> </P>
+</DIV>

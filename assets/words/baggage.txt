@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>baggage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> carry-on, hand | excess </B><I>At the airport I found that I had 100kg of excess baggage. </I><B>| emotional, spiritual </B><I>(figurative) She's still carrying all that emotional baggage from her first marriage. </I> </P>
+<P> <U> QUANT. </U><B> item, piece </B> </P>
+<P> <U> VERB + BAGGAGE </U><B> carry | go through, search | check in </B><I>Where do we check in our baggage? </I><B>| claim, reclaim </B><I>Let's claim our baggage first. </I> </P>
+<P> <U> BAGGAGE + NOUN </U><B> allowance | trolley | handler | claim, reclaim </B><I>the baggage reclaim hall </I><B>| train </B><I>Extensive baggage trains followed the troops. </I> </P>
+</DIV>

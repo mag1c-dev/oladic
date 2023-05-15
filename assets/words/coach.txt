@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>coach </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> bus for longer journeys </TT> </P>
+<P> <U> ADJ. </U><B> express | private | luxury | air-conditioned </B> </P>
+<P> <U> VERB + COACH </U><B> go by, travel by | board, get on | get off | drive | hire </B> </P>
+<P> <U> COACH + NOUN </U><B> station | driver | holiday, journey, tour, trip | travel | party | company | service </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>They are planning to tour the United States by coach. </I><B>| in/on a/the ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> large carriage pulled by horses </TT> </P>
+<P> <U> ADJ. </U><B> royal </B> </P>
+<P> <U> VERB + COACH </U><B> drive | ride in </B> </P>
+<P> <U> COACH + VERB </U><B> drive </B> </P>
+<P> <U> COACH + NOUN </U><B> road </B><I>This is the old coach road. </I><B>| house </B> </P>
+<P> <U> PHRASES </U><B> a coach and four/six </B>(= a coach and four/six horses) <I>a gateway wide enough for a coach and four to drive through </I><B>| a coach and horses </B> </P>
+<P> <SUP> 3 </SUP> <TT> person who trains people in sport, etc. </TT> </P>
+<P> <U> ADJ. </U><B> good, successful, top </B><I>a top football coach </I><B>| professional | chief, head | assistant | national | club | athletics, basketball, football, tennis, etc. | sports | acting, drama, voice </B></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

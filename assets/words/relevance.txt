@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>relevance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great, wider | limited, marginal | doubtful, dubious | equal | direct, immediate | continued/continuing | declining | obvious | real | possible, potential | general | particular, special | contemporary </B><I>He claims that the laws are antiquated and have no contemporary relevance. </I><B>| practical | political </B> </P>
+<P> <U> VERB + RELEVANCE </U><B> be/remain of </B><I>The book is of particular relevance to student nurses. </I><B>| bear, have </B><I>The theory bears little relevance to practice. </I><B>| lack, lose </B><I>Her ideas have lost all relevance to the modern world. </I><B>| ensure </B><I>Constant revision of the curriculum must be undertaken to ensure its continuing relevance. </I><B>| increase | see | demonstrate, establish </B><I>Skim the book in order to establish its relevance to your needs. </I><B>| assess, consider, examine, explore, judge | question </B> </P>
+<P> <U> PREP. </U><B> ~ for/to </B><I>I can't see the relevance of his comment to the debate. </I> </P>
+</DIV>

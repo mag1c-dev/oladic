@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>facility </B><I>noun </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> facilities buildings/services/equipment  </TT> </P>
+<P> <U> ADJ. </U><B> excellent, first-class, good | adequate, appropriate, proper, suitable | inadequate, poor | basic, limited </B><I>a hotel with only basic facilities </I><B>| modern, up-to-date | extensive | extra | available, existing </B><I>We are looking to upgrade the existing facilities. </I><B>| essential, necessary </B><I>to improve access to essential facilities </I><B>| local, community </B><I>hospitals, schools and other major community facilities </I><B>| communal, shared </B><I>The toilets and other communal facilities were in a shocking state. </I><B>| public | disabled </B><I>The railway station was criticized for its lack of disabled facilities. </I><B>| conference | airport, hotel | bar, holiday, leisure, play, recreational, social, sporting/sports | transport, travel | parking | shopping | storage | canteen, dining, restaurant | catering, cooking, kitchen | baby changing, bathroom, laundry, sanitary, shower, toilet, washing | en suite, private </B><I>All bedrooms offer private facilities </I>(= a private bathroom)</B><I>. </I><B>| health, health care, hospital, medical | childcare, cr</B>e<B>che, day care, nursery | educational, training | library, research | laboratory | computing </B> </P>
+<P> <U> VERB + FACILITY </U><B> have, offer, provide | improve, upgrade | make use of, use </B><I>I made full use of the computing facilities. </I> </P>
+<P> <U> FACILITY + VERB </U><B> be available, exist | include sth </B><I>Facilities include a large indoor pool, jacuzzi and sauna. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The school has no facilities for the teaching of music. The hotel provides excellent facilities for children. </I> </P>
+<P> <U> PHRASES </U><B> a range of facilities </B> </P>
+<P> <SUP> 2 </SUP> <TT> special feature of a machine/service </TT> </P>
+<P> <U> ADJ. </U><B> central </B><I>The archive offers a central facility for cataloguing and indexing data. </I><B>| back-up </B><I>The report warns that there are no back-up facilities if the reprocessing plant breaks down. </I><B>| support </B><I>training and other support facilities </I><B>| special | useful | flexible </B><I>A First National Bank loan is an extremely flexible facility. </I><B>| technical | cheque book, credit, loan, overdraft </B><I>a bank account with an overdraft facility </I><B>| editing, graphics, help, mail, search, word processing </B><I>(all computing) </I> </P>
+<P> <U> VERB + FACILITY </U><B> have, offer, provide | use </B> </P>
+<P> <U> FACILITY + VERB </U><B> allow (for) sth </B><I>The cheque book facility allows for a minimum withdrawal of </I>&pound;</B><I>200. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The device has a facility for storing any sound you like. </I> </P>
+<P> <SUP> 3 </SUP> <TT> natural ability </TT> </P>
+<P> <U> ADJ. </U><B> amazing, great </B> </P>
+<P> <U> VERB + FACILITY </U><B> have | show </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>He played with great facility. </I><B>| ~ for </B><I>She showed an amazing facility for mind-reading. </I> </P>
+</DIV>

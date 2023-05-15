@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>procession </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> grand, great, large, long | little, small | public, street | slow, solemn, stately | colourful | ceremonial | triumphal | constant, endless, never-ending </B><I>(figurative) We've had an endless procession of new secretaries through the office since Amy left. </I><B>| torchlight | funeral, religious, wedding </B> </P>
+<P> <U> VERB + PROCESSION </U><B> head, lead </B><I>The mayor of the town led the procession to the central square. </I> </P>
+<P> <U> PROCESSION + VERB </U><B> make its way, move, pass, wind (its way) </B><I>The funeral procession moved slowly down the avenue. The solemn procession wound its way through the narrow streets. </I><B>| leave, move off, set off </B> </P>
+<P> <U> PREP. </U><B> in (a/the) ~ </B><I>The children marched in procession behind the band. </I><B>| ~ of </B><I>a procession of circus performers </I> </P>
+</DIV>

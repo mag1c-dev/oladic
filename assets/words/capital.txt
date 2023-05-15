@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>capital </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money used to start a business, etc. </TT> </P>
+<P> <U> ADJ. </U><B> fixed, starting | working | foreign, private | equity, investment, share | risk, venture </B> </P>
+<P> <U> VERB + CAPITAL </U><B> have </B><I>We don't have enough capital to buy new premises. </I><B>| accumulate, attract, borrow, generate, raise </B><I>He had various ideas on how to raise capital for the project. </I><B>| invest, provide, put (up), sink </B><I>The company has put a lot of capital into the project. We can't expect the government to put up the capital. He sank vast amounts of capital in the venture. </I><B>| free up, release, unlock | tie up </B><I>Our capital is all tied up in property. </I> </P>
+<P> <U> CAPITAL + NOUN </U><B> assets, goods, resources, stock | costs, expenditure, investment, outlay, repayment, spending | accumulation, growth | account | grant | project </B><I>investment in major capital projects </I><B>| gain, loss | flows, inflow, movement, outflow, receipt | value </B><I>the capital value of the property </I><B>| market </B> </P>
+<P> <U> PHRASES </U><B> capital intensive </B><I>capital intensive industries </I><B>| an injection of capital </B><I>Inner city areas require a large injection of capital. </I><B>| a return on your capital </B><I>Investors want an immediate return on their capital. </I>&gt; Special page at BUSINESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> city </TT> </P>
+<P> <U> ADJ. </U><B> great, major </B><I>The department store has branches in all major capitals. </I><B>| British, Japanese, etc. | foreign | provincial, regional, state | cultural, financial, etc. </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the fast pace of life in the capital </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> &hellip; capital of the world </B><I>Las Vegas is the gambling capital of the world. </I> </P>
+</DIV>

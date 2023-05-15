@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>smear </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mark </TT> </P>
+<P> <U> ADJ. </U><B> greasy </B> </P>
+<P> <U> VERB + SMEAR </U><B> leave </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>His fingers left a smear of sweat on the wall. </I> </P>
+<P> <SUP> 2 </SUP> <TT> lies about an important person </TT> </P>
+<P> <U> VERB + SMEAR </U><B> cast </B><I>The article cast a smear on the Minister for Health. </I> </P>
+<P> <U> SMEAR + NOUN </U><B> campaign, tactic </B> </P>
+<P> <U> PREP. </U><B> ~ against/on </B><I>campaign smears against the socialist candidate </I> </P>
+</DIV><DIV class="item"><P class="word"><B>smear </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> liberally </B><I>She smeared the cream liberally on her face. </I> </P>
+<P> <U> PREP. </U><B> across, on, (all) over, with </B><I>The child had smeared jam all over her face. </I> </P>
+<P> <U> PHRASES </U><B> heavily smeared with </B><I>Their faces were heavily smeared with mud. </I> </P>
+</DIV>

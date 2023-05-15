@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>permit </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> government, official | export, import | residence, residency | work | travel | resident's, visitor's | building, filming, fishing, landing, parking </B> </P>
+<P> <U> VERB + PERMIT </U><B> have | give (sb), grant (sb), issue | get, obtain, receive | revoke | renew | apply for | need, require </B> </P>
+<P> <U> PERMIT + VERB </U><B> expire, run out </B> </P>
+<P> <U> PERMIT + NOUN </U><B> holder </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Entry is by permit only. </I><B>| with/without a ~ </B><I>You can't park here without a permit. </I><B>| ~ for </B><I>They applied for a permit for a street demonstration against university fees. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>permit </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> legally | generally, normally </B><I>Development is not normally permitted in conservation areas. </I> </P>
+<P> <U> VERB + PERMIT </U><B> refuse to | be designed to </B><I>The bill was designed to permit workers to take up to twelve weeks' unpaid leave annually for family reasons. </I> </P>
+</DIV>

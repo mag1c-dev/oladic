@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ideal </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem, sound | make sth </B><I>The hotel's size makes it ideal for large conferences. </I><B>| consider sth </B> </P>
+<P> <U> ADV. </U><B> absolutely | almost | less than </B><I>Language learning often takes place in a less than ideal environment. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The houses are absolutely ideal for families with young children. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>ideal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, lofty, noble </B><I>Sam was a real leader who had high moral ideals. </I><B>| unattainable </B><I>This is not an unattainable ideal. </I><B>| aesthetic, artistic, ethical, moral, political | democratic, liberal, revolutionary, socialist </B> </P>
+<P> <U> VERB + IDEAL </U><B> be committed to, be devoted to, believe in, cling to, espouse, have, support </B><I>They still clung to the old ideals. </I><B>| pursue, strive for | achieve, attain, be true to, conform to, live up to </B><I>A journalist should always live up to the ideals of truth, decency, and justice. </I><B>| fall short of </B><I>This agreement falls far short of the ideal. </I><B>| abandon, betray </B><I>She was accused of betraying her political ideals. </I><B>| embody, reflect </B><I>the democratic ideals embodied in the charter </I> </P>
+</DIV>

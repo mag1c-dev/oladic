@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>classification </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad | detailed | simple | higher, lower </B><I>The rooms are of the standard expected from a hotel in a higher classification. </I><B>| arbitrary | social | security </B><I>a document with the security classification &lsquo;confidential&rsquo; </I> </P>
+<P> <U> VERB + CLASSIFICATION </U><B> defy </B><I>a style of dancing that defies classification </I> </P>
+<P> <U> CLASSIFICATION + NOUN </U><B> system </B> </P>
+<P> <U> PREP. </U><B> ~ into </B><I>the broad classification of music into classical and pop </I> </P>
+<P> <U> PHRASES </U><B> a system of classification</B> </P>
+</DIV>

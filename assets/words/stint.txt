@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>stint </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long | brief </B> </P>
+<P> <U> VERB + STINT </U><B> do </B><I>He's doing a brief stint at the World Bank in Washington. </I><B>| start | finish </B> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>She met her husband during her stint at the London office. </I> </P>
+</DIV>

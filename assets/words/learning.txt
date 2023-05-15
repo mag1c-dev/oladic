@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>learning </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> process of learning sth </TT> </P>
+<P> <U> ADJ. </U><B> effective, successful </B><I>a model for effective learning </I><B>| rapid | independent | distance </B>(= by correspondence course) <B>| early </B>(= the education of very young children, often through play) <B>| higher </B><I>institutions of higher learning </I><B>| active, passive | formal, informal | rote | computer-assisted | language </B> </P>
+<P> <U> LEARNING + NOUN </U><B> curve </B><I>The whole team has been on a steep learning curve since the project began. </I><B>| environment </B><I>The centre aims to provide a supportive learning environment. </I><B>| experience, process | difficulty, disability </B><I>severe learning difficulties </I> </P>
+<P> <U> PHRASES </U><B> a seat of learning </B> </P>
+<P> <SUP> 2 </SUP> <TT> knowledge got from reading and studying </TT> </P>
+<P> <U> ADJ. </U><B> great | book </B><I>(old-fashioned) </I> </P>
+<P> <U> VERB + LEARNING </U><B> acquire, gain</B> </P>
+</DIV>

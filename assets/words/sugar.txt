@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>sugar </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> raw, unrefined | refined | natural </B><I>Fruit juices contain natural sugars. </I><B>| simple </B><I>simple sugars, such as glucose </I><B>| brown, white </B><I>Add one cup of soft brown sugar. </I><B>| caster, demerara, granulated, lump, icing | beet, cane | fruit </B><I>Fructose is a fruit sugar. </I><B>| blood </B><I>to raise blood sugar levels </I> </P>
+<P> <U> QUANT. </U><B> lump, spoonful | bag, packet </B> </P>
+<P> <U> VERB + SUGAR </U><B> put in/on, spoon, sprinkle, stir in/into, take </B>(= in tea or coffee) <I>He stirred another spoonful of sugar into his tea. Do you take sugar in your tea? </I><B>| contain | produce </B> </P>
+<P> <U> SUGAR + VERB </U><B> dissolve </B> </P>
+<P> <U> SUGAR + NOUN </U><B> cube, lump | bowl | substitute | intake </B><I>a high sugar intake </I><B>| beet, cane | industry, plantation, production, refinery </B> </P>
+<P> <U> PHRASES </U><B> high/low/reduced sugar content, high/low in sugar </B><I>Most junk food is high in sugar. </I><B>| no added sugar </B><I>apple juice with no added sugar </I> </P>
+</DIV>

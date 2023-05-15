@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>correction </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> minor, small | necessary </B><I>Make any necessary corrections before the text is printed. </I><B>| error, spelling </B> </P>
+<P> <U> VERB + CORRECTION </U><B> make | need, require </B><I>There are some programming errors that need correction. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>I've got to make one or two small corrections to the text before it's finished. </I> </P>
+</DIV>

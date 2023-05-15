@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>relapse </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acute </B> </P>
+<P> <U> VERB + RELAPSE </U><B> suffer | cause, trigger </B><I>A wide range of emotionally stressful events may trigger a relapse. </I><B>| prevent </B> </P>
+<P> <U> RELAPSE + VERB </U><B> occur </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Even in relapse there will be times when the patient's general condition improves. </I> </P>
+<P> <U> PHRASES </U><B> a risk of relapse</B> </P>
+</DIV>

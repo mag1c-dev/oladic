@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>exchange </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> giving/receiving sth in return for sth else </TT> </P>
+<P> <U> ADJ. </U><B> fair | mutual, two-way </B><I>We get together once a month for a mutual exchange of ideas. </I> </P>
+<P> <U> PREP. </U><B> in ~ (for) </B><I>Woollen cloth and timber were sent to Egypt in exchange for linen or papyrus. </I><B>| ~ between </B><I>There were exchanges of goods between the two regions. </I><B>| ~ for </B><I>She considered free language lessons a fair exchange for free accommodation. </I> </P>
+<P> <SUP> 2 </SUP> <TT> angry conversation/argument </TT> </P>
+<P> <U> ADJ. </U><B> brief | acrimonious, angry, bitter, heated, sharp | verbal </B><I>a bitter verbal exchange </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>angry exchanges about the problem of unemployment </I><B>| ~ between </B><I>There were many acrimonious exchanges between the two men. </I><B>| ~ with </B><I>Opposition MPs were involved in heated exchanges with the prime minister. </I> </P>
+<P> <U> PHRASES </U><B> an exchange of views </B><I>She had a full and frank exchange of views with her boss before resigning. </I> </P>
+<P> <SUP> 3 </SUP> <TT> of foreign currencies </TT> </P>
+<P> <U> EXCHANGE + NOUN </U><B> rate </B> </P>
+<P> <SUP> 4 </SUP> <TT> visit </TT> </P>
+<P> <U> ADJ. </U><B> academic, cultural | student, youth | official </B> </P>
+<P> <U> VERB + EXCHANGE </U><B> go on </B> </P>
+<P> <U> PREP. </U><B> on an/the ~ </B><I>She is in France on a student exchange. </I><B>| ~ to </B><I>He's gone on an exchange to Rome. </I><B>| ~ with </B><I>an exchange with a German student </I> </P>
+</DIV>

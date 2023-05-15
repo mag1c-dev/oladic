@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>needle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for sewing </TT> </P>
+<P> <U> ADJ. </U><B> long | blunt | sharp | fine | darning, embroidery, sewing, tapestry </B> </P>
+<P> <U> VERB + NEEDLE </U><B> use | thread </B> </P>
+<P> <U> PHRASES </U><B> the eye of a needle, needle and thread </B><I>She sewed it on with needle and thread. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for knitting </TT> </P>
+<P> <U> ADJ. </U><B> empty | knitting </B> </P>
+<P> <U> NEEDLE + VERB </U><B> hold sth </B><I>a needle holding two stitches </I> </P>
+<P> <SUP> 3 </SUP> <TT> for drugs </TT> </P>
+<P> <U> ADJ. </U><B> hypodermic, syringe | long | sharp | fine | clean, sterile | contaminated, infected | used </B> </P>
+<P> <U> VERB + NEEDLE </U><B> insert, jab (sb with), plunge, put, stick </B><I>He saw her stick a needle into her arm. </I><B>| use | share </B><I>the dangers of sharing needles </I> </P>
+<P> <U> NEEDLE + VERB </U><B> go in </B><I>The needle went in easily. </I> </P>
+<P> <U> NEEDLE + NOUN </U><B> tip | exchange </B><I>He believes that needle exchange schemes </I>(= where drug users can change used needles for clean ones) </B><I>encourage drug addiction. </I> </P>
+<P> <U> PHRASES </U><B> the prick of a needle </B> </P>
+<P> <SUP> 4 </SUP> <TT> on a compass/instrument </TT> </P>
+<P> <U> ADJ. </U><B> magnetized | compass </B> </P>
+<P> <U> NEEDLE + VERB </U><B> move </B><I>The needle moved away from the wind. </I><B>| point | settle </B><I>Wait until the needle settles and is pointing in one direction. </I> </P>
+<P> <U> PHRASES </U><B> the needle of a compass </B> </P>
+<P> <SUP> 5 </SUP> <TT> on a pine tree </TT> </P>
+<P> <U> ADJ. </U><B> conifer, pine </B> </P>
+<P> <U> VERB + NEEDLE </U><B> drop, lose</B> </P>
+</DIV>

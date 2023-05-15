@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>flag </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> national | chequered </B><I>Schumacher took the chequered flag to win his fourth Grand Prix of the season. </I><B>| tattered </B><I>A tattered flag hung from the roof of the burnt-out building. </I> </P>
+<P> <U> VERB + FLAG </U><B> fly, hang (out), hoist, raise, run up </B><I>a ship flying a Russian flag </I><B>| lower | wave </B><I>The crowd all waved flags as the president came past. </I><B>| unfurl | carry </B> </P>
+<P> <U> FLAG + VERB </U><B> hang | flap, flutter, fly, wave </B><I>a flag fluttering in the breeze </I><B>| be/fly at half mast </B> </P>
+<P> <U> FLAG + NOUN </U><B> pole (also flagpole) </B> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>a ship sailing under a British flag </I><B>| ~ of </B><I>a flag of truce </I> </P>
+</DIV>

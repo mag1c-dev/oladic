@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>diet </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> food sb/sth usually eats </TT> </P>
+<P> <U> ADJ. </U><B> balanced, good, healthy, sensible | adequate </B><I>People can fight infection more easily if they have an adequate diet. </I><B>| bad, poor, unhealthy | staple </B><I>a staple diet of cornmeal and vegetables </I><B>| vegan, vegetarian </B> </P>
+<P> <U> VERB + DIET </U><B> eat, have </B><I>It is important to eat a balanced diet. </I><B>| live on, survive on </B><I>They had to survive on a diet of insects and berries. </I><B>| feed sb on </B> </P>
+<P> <U> DIET + VERB </U><B> consist of sth </B><I>The animal's diet consists mainly of grasses. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the amount of fat in your diet </I><B>| on a ~ </B><I>These animals live on a mainly vegetarian diet. </I><B>| ~ of </B><I>They were fed on a diet of rice and vegetables. </I> </P>
+<P> <U> PHRASES </U><B> a diet high/rich in sth </B><I>a diet rich in vitamins and minerals </I> </P>
+<P> <SUP> 2 </SUP> <TT> when you want to lose weight/are ill </TT> </P>
+<P> <U> ADJ. </U><B> strict | slimming, weight-loss, weight-reducing | crash, starvation </B><I>Crash diets are not the best way to lose weight. </I><B>| calorie-controlled, low-calorie | restricted, special | fibre-rich, gluten-free, high/low-fibre, high/low-protein, low-fat, salt-free, etc. </B> </P>
+<P> <U> VERB + DIET </U><B> follow, have </B><I>If you follow this diet, you're bound to lose weight. </I><B>| go on, start | stick to </B><I>I have to stick to a low-fat diet. </I><B>| be on </B><I>I'd love some chips, but I'm on a diet. </I> </P>
+<P> <U> DIET + NOUN </U><B> drink, food | plan </B><I>Lose pounds with our new diet plan! </I> </P>
+<P> <U> PREP. </U><B> on a ~ </B><I>They're on a special high-protein diet. </I> </P>
+</DIV>

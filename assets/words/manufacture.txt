@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>manufacture </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large-scale, small-scale | commercial, industrial | local </B><I>cotton ropes of local manufacture </I><B>| metal, steel, etc. | cloth, cotton, textile, woollen, etc. | car, vehicle, etc. | drug, food, etc. </B> </P>
+<P> <U> VERB + MANUFACTURE </U><B> commence, start </B><I>They commenced large-scale commercial manufacture of the chairs in January. </I><B>| complete | be engaged in </B> </P>
+<P> <U> MANUFACTURE + VERB </U><B> start </B> </P>
+<P> <U> PHRASES </U><B> costs of manufacture, date of manufacture </B><I>The date of manufacture of the jewellery has not been authenticated. </I><B>| the method/process of manufacture</B> </P>
+</DIV>

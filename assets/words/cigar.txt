@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cigar </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fat | expensive | cheap </B> </P>
+<P> <U> QUANT. </U><B> box </B> </P>
+<P> <U> VERB + CIGAR </U><B> smoke | draw on, pull on </B><I>He paused and drew on his cigar. </I><B>| light | extinguish, put out, stub out </B> </P>
+<P> <U> CIGAR + VERB </U><B> burn </B><I>Her thin cigar burned quite quickly. </I><B>| glow </B><I>His cigar glowed in the darkened room. </I> </P>
+<P> <U> CIGAR + NOUN </U><B> ash, smoke | butt, end | case, holder | smoker </B> </P>
+<P> <U> PHRASES </U><B> brandy/port and cigars </B><I>They left the men to their port and cigars. </I> </P>
+</DIV>

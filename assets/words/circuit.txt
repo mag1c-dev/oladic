@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>circuit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> path for an electric current </TT> </P>
+<P> <U> ADJ. </U><B> short </B><I>The lights were not working because of a short circuit. </I><B>| closed | integrated, printed | electrical, electronic </B> </P>
+<P> <U> VERB + CIRCUIT </U><B> break </B> </P>
+<P> <U> CIRCUIT + NOUN </U><B> diagram </B> </P>
+<P> <SUP> 2 </SUP> <TT> places visited by sb in a particular job/sport </TT> </P>
+<P> <U> ADJ. </U><B> amateur, professional </B><I>Talent scouts spotted him playing on the amateur circuit. </I><B>| international, world | cabaret, festival, lecture, tennis, etc. </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She's a well-known figure on the international lecture circuit. </I> </P>
+<P> <SUP> 3 </SUP> <TT> circular journey around sth </TT> </P>
+<P> <U> ADJ. </U><B> complete </B> </P>
+<P> <U> VERB + CIRCUIT </U><B> do, make </B><I>We did a complete circuit of the park in twenty minutes. </I> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV>

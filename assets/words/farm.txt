@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>farm </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large | little, small | 100-acre, 200-hectare, etc. | neighbouring, next </B><I>She lives on the next farm. </I><B>| local, nearby, surrounding | isolated, outlying, remote | border | hill | organic | intensive | commercial | factory | model </B><I>Ten model farms have been set up to showcase modern production methods. </I><B>| working </B><I>The area combines a working farm and a farming museum. </I><B>| family, home | traditional | private | state | cooperative, collective | arable, livestock, mixed | dairy, fur, stud | fish, fruit, pig, poultry, sheep, trout, turkey, etc. </B> </P>
+<P> <U> VERB + FARM </U><B> have, own | manage, run | work (at/on) </B><I>During the war, few men were left to work the farm. The children had to work on the family farm. </I><B>| set up | live at/on | be brought up on | visit </B> </P>
+<P> <U> FARM + VERB </U><B> lie </B><I>The farm lies on the hills above the lake. </I><B>| produce sth </B><I>a dairy farm producing speciality cheeses </I> </P>
+<P> <U> FARM + NOUN </U><B> produce, product </B><I>Farm produce, including fruits and grains, was their principal export. farm products such as eggs and vegetables </I><B>| animal | labourer, worker | labour | work | manager, owner | management | land (also farmland) | building | equipment, implements, machinery | policy </B><I>the EU farm policy </I><B>| subsidies, support </B><I>The EU has decided to cut farm subsidies. </I><B>| life </B><I>village and farm life </I><B>| cottage, house (also farmhouse) | shop | road, track </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The police are investigating a fire at a farm near Whitby. </I><B>| down on the ~ </B><I>The myth of happy and contented animals down on the farm is now far from the truth. </I><B>| on a/the ~ </B><I>He had lived on that farm all his life. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>farm </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> heavily, intensively </B><I>The land has been intensively farmed. </I><B>| organically </B><I>They farm organically now. </I> </P>
+</DIV>

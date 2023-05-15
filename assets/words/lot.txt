@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>lot </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> whole amount </TT> </P>
+<P> <U> ADJ. </U><B> whole </B><I>She bought the whole lot. </I> </P>
+<P> <SUP> 2 </SUP> <TT> large amount </TT> </P>
+<P> <U> ADJ. </U><B> awful </B><I>I've got an awful lot of work to do before I go on holiday. </I> </P>
+<P> <U> PHRASES </U><B> a hell of a lot </B><I>a hell of a lot of money </I> </P>
+<P> <SUP> 3 </SUP> <TT> empty ground </TT> </P>
+<P> <U> ADJ. </U><B> empty, vacant </B><I>He parked his caravan on a vacant lot. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>bibliography </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, select, selective | comprehensive, extensive </B><I>an extensive bibliography of books and articles </I> </P>
+<P> <U> VERB + BIBLIOGRAPHY </U><B> compile, put together | contain, include | publish | consult </B><I>Consult the bibliography for further reading on the subject. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>You'll find the professor's book in the bibliography. </I><B>| ~ of </B><I>The book includes a selective bibliography of works on French art. </I> </P>
+</DIV>

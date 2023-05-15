@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>arbitration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> binding </B><I>Both sides have agreed that the arbitration will be binding. </I><B>| independent, international </B> </P>
+<P> <U> VERB + ARBITRATION </U><B> agree to, go to, refer sth to, submit (sth) to, take sth to </B><I>Both parties agreed to independent arbitration. The matter will go to arbitration. </I><B>| determine sth by, settle sth by </B><I>The matter will be settled by arbitration. </I> </P>
+<P> <U> ARBITRATION + NOUN </U><B> procedure, scheme, service, system</B> </P>
+</DIV>

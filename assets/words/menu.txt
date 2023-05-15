@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>menu </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> list of dishes </TT> </P>
+<P> <U> ADJ. </U><B> extensive | varied | daily | fixed price, set, table d'hote | a la carte | three-course, etc. | traditional | breakfast, dinner, lunch | bar, pub, restaurant | dinner-party | fish, vegetarian </B> </P>
+<P> <U> VERB + MENU </U><B> consult, have, look at, read, see, study </B><I>May we have the menu? </I><B>| do, have, offer </B><I>Many restaurants do a very reasonable set menu at lunchtime. </I><B>| choose (sth) from, order (sth) from | plan </B> </P>
+<P> <U> MENU + VERB </U><B> offer sth </B><I>a menu offering many vegetarian dishes </I> </P>
+<P> <U> MENU + NOUN </U><B> board </B><I>The chef was chalking the daily specials on the menu board. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>What's on the menu this evening? </I> </P>
+<P> <U> PHRASES </U><B> a choice of menu </B><I>Passengers are offered a daily choice of menu. </I> </P>
+<P> <SUP> 2 </SUP> <TT> on a computer </TT> </P>
+<P> <U> ADJ. </U><B> pop-up, pull-down | main | sub | edit, file, options, etc. </B> </P>
+<P> <U> VERB + MENU </U><B> select sth from </B> </P>
+<P> <U> MENU + NOUN </U><B> bar | item, option </B>&gt; Special page at COMPUTER </B> </P>
+</DIV>

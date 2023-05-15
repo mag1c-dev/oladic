@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>coordination </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> working together </TT> </P>
+<P> <U> ADJ. </U><B> better, greater | poor | international | economic, market, policy | colour </B><I>advice on colour coordination </I>(= colours that look good together) </B> </P>
+<P> <U> VERB + COORDINATION </U><B> need, require | ensure, facilitate </B><I>We must make a real effort to ensure greater coordination between the different groups. </I> </P>
+<P> <U> PREP. </U><B> in ~ with </B><I>a pamphlet produced by the government in coordination with the Sports Council </I><B>| ~ between </B><I>to facilitate better coordination between departments </I><B>| ~ in </B><I>a lack of coordination in government policy </I><B>| ~ with </B> </P>
+<P> <U> PHRASES </U><B> a lack of coordination, a need for coordination </B><I>a need for coordination with the training department </I> </P>
+<P> <SUP> 2 </SUP> <TT> ability to control your movements </TT> </P>
+<P> <U> ADJ. </U><B> good | poor | physical | hand-eye </B><I>You need good hand-eye coordination to play racket sports. </I> </P>
+<P> <U> VERB + COORDINATION </U><B> have | lack </B> </P>
+<P> <U> PHRASES </U><B> a lack of coordination</B> </P>
+</DIV>

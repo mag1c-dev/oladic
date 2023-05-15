@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>breathe </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> air/breath </TT> </P>
+<P> <U> ADV. </U><B> fast, quickly, rapidly | slowly | deeply | shallowly | hard, heavily </B><I>They were both breathing hard from the steep climb. </I><B>| gently | easily, steadily </B><I>She was beginning to breathe more easily. </I><B>| normally, properly </B><I>I can't breathe properly?I'm gasping for air! </I><B>| raggedly </B><I>He was breathing raggedly, mouth open. </I><B>| in, out </B><I>She breathed slowly in and out. </I> </P>
+<P> <U> VERB + BREATHE </U><B> can/can't, could/couldn't, could barely/hardly/scarcely | not dare </B><I>He hardly dared breathe in case they heard him. </I> </P>
+<P> <U> PREP. </U><B> through </B><I>Always breathe through your nose. </I> </P>
+<P> <SUP> 2 </SUP> <TT> say quietly </TT> </P>
+<P> <U> ADV. </U><B> huskily, softly </B><I>&lsquo;I love you, &rsquo; she breathed softly. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>consideration </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> careful thought about sth </TT> </P>
+<P> <U> ADJ. </U><B> careful, detailed, full, serious | adequate, due, proper, sufficient | special, urgent | active </B> </P>
+<P> <U> VERB + CONSIDERATION </U><B> give sth, take sth into </B><I>We will give your proposals serious consideration. You must take the size of the room into consideration. </I><B>| deserve, need, require | receive </B> </P>
+<P> <U> PREP. </U><B> after ~ </B><I>After due consideration, it was decided not to offer her the job. </I><B>| for sb's ~ </B><I>I enclose the report for your consideration. </I><B>| in ~ of </B><I>(formal) </I>(= as payment for sth), <B>on ~ </B><I>On consideration, we have decided not to come. </I><B>| under ~ </B><I>proposals under active consideration </I> </P>
+<P> <SUP> 2 </SUP> <TT> thinking about other people's wishes and feelings </TT> </P>
+<P> <U> VERB + CONSIDERATION </U><B> have </B><I>Have some consideration for those without a job. </I><B>| show sb, treat sb with </B><I>She showed little consideration for the beginners. </I> </P>
+<P> <U> PREP. </U><B> out of ~ </B><I>He did it out of consideration for his daughter. </I><B>| ~ for </B> </P>
+<P> <SUP> 3 </SUP> <TT> sth you think about when deciding sth </TT> </P>
+<P> <U> ADJ. </U><B> main, major, important, prime | overriding, paramount | minor | aesthetic, commercial, economic, environmental, ethical, financial, health, legal, moral, personal, political, practical, safety, security </B> </P>
+<P> <U> VERB + CONSIDERATION </U><B> take account of, take into account </B><I>There are several important safety considerations that must be taken into account. </I> </P>
+</DIV>

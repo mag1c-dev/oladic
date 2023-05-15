@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>migration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> seasonal </B><I>the seasonal migration of birds </I><B>| internal, inward | international | mass </B> </P>
+<P> <U> QUANT. </U><B> wave </B><I>the great waves of migration that took Europeans to the New World </I> </P>
+<P> <U> MIGRATION + VERB </U><B> occur | increase </B> </P>
+<P> <U> MIGRATION + NOUN </U><B> path, pattern, route </B><I>changes in the migration routes of reindeer </I> </P>
+<P> <U> PREP. </U><B> ~ from, ~ to </B><I>migration from rural to urban areas </I> </P>
+</DIV>

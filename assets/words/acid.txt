@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>acid </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> chemical compound </TT> </P>
+<P> <U> ADJ. </U><B> concentrated, strong | dilute, weak | acetic, amino, carbolic, citric, folic, hydrochloric, lactic, nitric, nucleic, prussic, sulphuric, etc. </B> </P>
+<P> <U> VERB + ACID </U><B> produce | neutralize </B><I>You will need a special chemical to neutralize the acid. </I> </P>
+<P> <U> ACID + VERB </U><B> burn sth </B><I>The acid burned a hole in her overalls. </I> </P>
+<P> <SUP> 2 </SUP> <TT> illegal drug </TT> </P>
+<P> <U> VERB + ACID </U><B> drop </B><I>smoking joints and dropping acid </I></P>
+<a href="/collocation-tag/drug" class="tag">Learn more about DRUG</a>
+</DIV>

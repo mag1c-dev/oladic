@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>circle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> shape </TT> </P>
+<P> <U> ADJ. </U><B> complete, full </B><I>The stones form a complete circle. How long does it take for the dial to rotate through a full circle? </I><B>| concentric | widening </B><I>The water rippled in widening circles round the fountain. </I><B>| overlapping </B><I>a design of overlapping circles </I><B>| tight </B><I>He turned the car in a tight circle. </I><B>| half | Antarctic, Arctic, polar </B> </P>
+<P> <U> VERB + CIRCLE </U><B> draw | describe </B><I>(technical)</I>, <B>go around/round in </B><I>If you follow the road signs you will simply find yourself going round in a circle. </I><B>| form, make | cut out </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The children stood in a circle. The planets move in circles round the sun. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> the area/circumference/diameter/radius of a circle, the centre/middle of a circle </B> </P>
+<P> <SUP> 2 </SUP> <TT> group of people </TT> </P>
+<P> <U> ADJ. </U><B> wide </B><I>She has a wide circle of acquaintances. </I><B>| narrow, small | charmed, close/closed, intimate, magic, select </B><I>He invited only a select circle of friends to the wedding. </I><B>| exalted, high | immediate </B><I>They treat anyone outside their immediate circle with suspicion. </I><B>| inner </B><I>He's joined the inner circles of the court early in his career. </I><B>| academic, aristocratic, artistic, business, court, diplomatic, government, intellectual, literary, official, political, royal, social, sporting, theatrical ~s </B><I>She moves in the highest social circles. </I><B>| family </B> </P>
+<P> <U> VERB + CIRCLE </U><B> have | move in </B><I>My brother and I move in completely different circles </I>(= we have very different friends)</B><I>. </I><B>| join | widen </B><I>You need to widen your circle of friends. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Talk of religion was forbidden in the family circle. friends in government circles </I> </P>
+<P> <U> PHRASES </U><B> a circle of acquaintances/admirers/friends </B> </P>
+<P> <SUP> 3 </SUP> <TT> in a theatre </TT> </P>
+<P> <U> ADJ. </U><B> dress, upper </B><I>Our seats are in the front row of the dress circle. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>circle </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move in a circle </TT> </P>
+<P> <U> ADV. </U><B> slowly </B><I>The helicopter was circling slowly, very low. </I><B>| overhead </B><I>A buzzard was circling overhead. </I> </P>
+<P> <U> PREP. </U><B> above </B><I>Several airliners were circling above the airport. </I><B>| around/round </B><I>The vultures were already circling around the dead animal. </I> </P>
+<P> <SUP> 2 </SUP> <TT> draw a circle round sth </TT> </P>
+<P> <U> PHRASES </U><B> circle sth in black, red, etc. </B><I>She circled her birthday in red on the calendar. </I> </P>
+</DIV>

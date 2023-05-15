@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>catalogue </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> list of books/objects </TT> </P>
+<P> <U> ADJ. </U><B> exhibition, library </B> </P>
+<P> <U> VERB + CATALOGUE </U><B> produce, publish | look through </B><I>Look through the catalogue and find this picture. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>More details are given in our catalogue. </I> </P>
+<P> <SUP> 2 </SUP> <TT> book of goods for sale </TT> </P>
+<P> <U> ADJ. </U><B> colour, illustrated | mail-order </B> </P>
+<P> <U> VERB + CATALOGUE </U><B> produce, publish </B><I>The gallery produced a catalogue of young artists. </I><B>| browse through, look at/through | send (off) for </B><I>Send off for our illustrated catalogue of garden plants. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~</B> </P>
+</DIV>

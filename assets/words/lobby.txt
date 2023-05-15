@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>lobby </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> powerful, strong </B><I>a powerful anti-smoking lobby </I><B>| mass | anti-abortion, anti-hunt, environmental, industrial, nuclear, political, etc. </B> </P>
+<P> <U> VERB + LOBBY </U><B> mount, organize </B> </P>
+<P> <U> LOBBY + NOUN </U><B> group </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>Many groups have together mounted a lobby against cuts in hospitals. </I><B>| ~ for </B><I>Villagers have organized a lobby for improved local facilities. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>lobby </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> actively, hard | successfully </B> </P>
+<P> <U> PREP. </U><B> against </B><I>Head teachers have been lobbying hard against education cuts. </I><B>| for </B><I>The group successfully lobbied for changes in the law. </I><B>| on behalf of </B><I>The organization has been set up to lobby the government on behalf of all the people who have lost their pensions. </I> </P>
+<P> <U> PHRASES </U><B> intense/intensive lobbying </B><I>The decision followed months of intense lobbying of UN officials. </I><B>| political lobbying </B><I>The group achieved its aims after months of political lobbying. </I> </P>
+</DIV>

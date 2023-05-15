@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>square </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look </B> </P>
+<P> <U> ADV. </U><B> very </B><I>The rooms are all very square. </I><B>| absolutely, exactly | not quite </B><I>The grid doesn't look quite square. </I><B>| quite | nearly | roughly</B> </P>
+</DIV><DIV class="item"><P class="word"><B>square </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> shape </TT> </P>
+<P> <U> ADJ. </U><B> neat | perfect </B> </P>
+<P> <U> VERB + SQUARE </U><B> cut sth into, divide sth into </B><I>Cut the sandwiches into neat squares. </I> </P>
+<P> <U> SQUARE + NOUN </U><B> shape </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>A square of light shone from the skylight. </I> </P>
+<P> <SUP> 2 </SUP> <TT> open space in a town, etc. </TT> </P>
+<P> <U> ADJ. </U><B> central, main | public | city, town, village | market </B><I>crowds thronging the market square </I> </P>
+<P> <U> VERB + SQUARE </U><B> throng </B> </P>
+<P> <U> PREP. </U><B> in a/the ~</B> </P>
+</DIV>

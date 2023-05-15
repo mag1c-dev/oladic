@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>disturbance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> actions that upset the normal state </B>of sb/sth </B> </TT> </P>
+<P> <U> ADJ. </U><B> considerable, major, serious  | minimal, minimum, minor, slight </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>an unacceptable level of disturbance to occupiers of adjacent properties </I> </P>
+<P> <U> VERB + DISTURBANCE </U><B> cause, create, make </B><I>The traffic causes serious disturbance to residents. </I><B>| suffer | prevent </B><I>She moved the nest very carefully to prevent disturbance to the birds. </I> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>a place where you can work without disturbance </I><B>| ~ from </B><I>disturbance from noisy lorries </I><B>| ~ of </B><I>the major disturbance of marine life caused by oil spillages </I><B>| ~ to </B><I>Buildings should create minimum disturbance to the environment. </I> </P>
+<P> <SUP> 2 </SUP> <TT> violent public event </TT> </P>
+<P> <U> ADJ. </U><B> serious </B><I>The decision led to serious disturbances in all the country's main cities. </I><B>| violent | public | crowd, mass | serious | civil, ethnic, political, racial, social | inner city, rural, urban </B> </P>
+<P> <U> VERB + DISTURBANCE </U><B> cause, give rise to, lead to, provoke, trigger (off) </B><I>He was arrested and charged with causing a disturbance in a public place. An influx of refugees has triggered off disturbances. </I><B>| be involved in </B><I>Large numbers of workers involved in the disturbances have been arrested. </I><B>| deal with, put down, quell </B><I>Troops were brought in to put down the disturbance. </I> </P>
+<P> <U> DISTURBANCE + VERB </U><B> occur | involve sb </B><I>disturbances involving members of a crowd of 550 demonstrators </I> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>Several people were injured during a disturbance in the capital city. </I><B>| ~ among </B><I>There had been violent disturbances among the prisoners. </I> <B>| ~ between </B><I>disturbances between members of two rival factions </I> </P>
+<P> <U> PHRASES </U><B> a disturbance of the peace </B><I>The government advocated strong action against Mussolini's disturbance of the peace. </I> </P>
+<P> <SUP> 3 </SUP> <TT> emotional/physical upset </TT> </P>
+<P> <U> ADJ. </U><B> serious, severe | behavioural, emotional, mental, psychiatric, psychological </B><I>teenagers suffering from a kind of psychological disturbance </I><B>| bowel, menstrual | sleep </B> </P>
+<P> <U> VERB + DISTURBANCE </U><B> suffer from </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a disturbance in liver function behavioural disturbances in children </I> </P>
+</DIV>

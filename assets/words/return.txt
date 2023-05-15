@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>return </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> coming/going back; giving sth back </B> </TT> </P>
+<P> <U> ADJ. </U><B> complete, full </B><I>a full return to health </I><B>| gradual | imminent | brief | emotional, happy |  dramatic </B> </P>
+<P> <U> VERB + RETURN </U><B> make </B><I>Shevchenko made an emotional return to his former club. </I><B>| mark </B><I>The victory marked Williams' return to top form. </I><B>| await, wait for | greet </B><I>The smell of cooking greeted his return home. </I><B>| celebrate | delay, put off | demand </B><I>He demanded the return of his money. </I><B>| call for, push for, vote for </B><I>The UN continued to call for a return to civilian rule. </I> </P>
+<P> <U> RETURN + NOUN </U><B> address, date </B> </P>
+<P> <U> PREP. </U><B> in ~ (for) </B><I>She gave them all the help she could, and asked for nothing in return. </I><B>| on sb's ~ </B><I>He promised to visit us on his return. </I> <B>| ~ from </B><I>The date of their return from India is a fortnight from now. </I><B>| ~ to </B><I>Jones is hoping for an early return to racing after her injury. </I> </P>
+<P> <U> PHRASES </U><B> by return (of post) </B><I>All orders will be dispatched by return of post </I>(= by the next post)</B><I>. </I>  </B> </P>
+<P> <SUP> 2 </SUP> <TT>profit</TT> </P>
+<P> <U> ADJ. </U><B> attractive, big, excellent, generous, good, high, substantial | acceptable, adequate, decent, fair, healthy, reasonable | inadequate, low, marginal, meagre, poor, small | diminishing </B><I>the law of diminishing returns </I><B>| immediate | long-term | annual, monthly, quarterly, etc. | expected, likely, possible, potential, projected | gross, pre-tax | after-tax, net | tax-free </B> </P>
+<P> <U> VERB + RETURN </U><B> achieve, get, make, receive </B><I>You should get a good return on this investment. </I><B>| boost, enhance, improve, increase, maximize </B><I>to maximize returns to shareholders </I><B>| estimate | give (sb), offer (sb), produce, provide, show, yield </B><I>The venture yielded a net return of </I>&pound;</B><I>15 million. </I> <B>| represent </B><I>These figures represent a return of 8.5% per annum. </I> </P>
+<P> <U> RETURN + VERB </U><B> increase | decline, decrease </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>the return on capital/investment/savings </I> </P>
+<P> <U> PHRASES </U><B> a rate of return </B> </P>
+<P> <SUP> 3 </SUP> <TT> ticket to travel to a place and back again </TT> </P>
+<P> <U> ADJ. </U><B> day, period | business class, economy, first-class, standard, tourist class </B> </P>
+<P> <U> RETURN + NOUN </U><B> ticket | flight, journey </B> </P>
+</DIV><DIV class="item"><P class="word"><B>return </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> recently | shortly | eventually | safely </B><I>Our aircraft all returned safely to their bases. </I><B>| voluntarily | forcibly </B><I>The asylum seekers are to be forcibly returned to their home countries. </I><B>| home </B> </P>
+<P> <U> VERB + RETURN </U><B> be due to </B><I>She is due to return to school in a fortnight. </I><B>| be expected to, be likely to, be/look set to | be allowed to | decide to, expect to, hope to, intend to, plan to, want to, wish to | agree to, promise to | fail to </B><I>Suspicions were aroused when he failed to return to work on Monday morning. </I><B>| force sb to </B><I>Lack of cash forced her to return to work. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>She had recently returned from Paris. </I><B>| to </B><I>She never returned the book to me. </I> </P>
+</DIV>

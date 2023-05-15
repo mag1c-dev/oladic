@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>deadline </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strict, tight </B> </P>
+<P> <U> VERB + DEADLINE </U><B> have, work to </B><I>We're working to a very tight deadline. </I><B>| impose, set </B><I>The deadline set by the High Court is Monday 3rd March. </I><B>| extend </B><I>We're asking them to extend the deadline. </I><B>| meet </B><I>It will be a struggle to meet the deadline. </I><B>| miss </B> </P>
+<P> <U> DEADLINE + VERB </U><B> approach </B><I>She began to panic as the deadline approached. </I><B>| expire, pass </B><I>The Wednesday deadline passed without any communication from the rebel leader. </I> </P>
+<P> <U> PREP. </U><B> before a/the ~, by a/the ~ </B><I>I must get this report finished by tomorrow's deadline. </I><B>| ~ for </B><I>The deadline for entries is noon Thursday. </I> </P>
+</DIV>

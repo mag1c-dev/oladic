@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>significance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, criminal, deep, enormous, great, immense, major, profound, real | full, general, wider </B><I>The scientists are cautious about the wider significance of their findings. </I><B>| limited, minor | particular, special | real, true </B><I>They failed to appreciate the true significance of these discoveries. </I><B>| functional, practical, statistical, strategic, symbolic, theoretical | constitutional, cultural, economic, moral, historical, political, religious, social </B> </P>
+<P> <U> VERB + SIGNIFICANCE </U><B> have </B><I>The ceremony has great symbolic significance. </I><B>| acquire, assume, gain, take on </B><I>Suddenly his son's relationship with the girl took on a new significance. </I><B>| attach </B><I>Let us not attach too much significance to these meetings. </I><B>| assess | appreciate, be aware of, grasp, understand | exaggerate | minimize, play down, underestimate </B> </P>
+<P> <U> SIGNIFICANCE + VERB </U><B> lie in sth </B><I>The significance of this lies in the fact that he had previously denied all knowledge of the fund. </I><B>| attach to sth </B><I>Does any significance attach to the use of the technical terms? </I> </P>
+<P> <U> PREP. </U><B> ~ for/to </B><I>a meal that has particular significance for a Jewish family </I><B>| of ~ </B><I>a policy of special significance to women </I> </P>
+<P> <U> PHRASES </U><B> be of little, no, etc. significance</B> </P>
+</DIV>

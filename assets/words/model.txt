@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>model </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> copy of sth </TT> </P>
+<P> <U> ADJ. </U><B> full-scale, scale | three-dimensional | detailed | working | clay, plastic, wooden, etc. </B> </P>
+<P> <U> VERB + MODEL </U><B> assemble </B>(used of models that you buy in a lot of parts), <B>build, construct, make </B> </P>
+<P> <U> MODEL + NOUN </U><B> aeroplane, car </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She made a fantastic clay model of her dog. </I> </P>
+<P> <SUP> 2 </SUP> <TT> type of product </TT> </P>
+<P> <U> ADJ. </U><B> de luxe, popular, standard | latest, new </B> </P>
+<P> <U> VERB + MODEL </U><B> do, make, produce </B><I>They do several other models of washing machine. </I><B>| sell | design, develop | recall </B><I>They're recalling their new model for modifications to the engine. </I> </P>
+<P> <SUP> 3 </SUP> <TT> example </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good | conceptual, experimental, statistical, theoretical | clinical, economic, mathematical, medical, political, scientific | computer </B> </P>
+<P> <U> VERB + MODEL </U><B> give sb, provide (sb with) </B><I>The tape provides a model for students to copy </I><B>| copy | use </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She was a model of restraint. </I><B>| ~ for </B><I>Successful state schools must be used as models for the rest. </I> </P>
+<P> <SUP> 4 </SUP> <TT> for clothes </TT> </P>
+<P> <U> ADJ. </U><B> female, male | top | catwalk, fashion </B> </P>
+<P> <U> VERB + MODEL </U><B> photograph, shoot </B></P><a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+<P> <SUP> 5 </SUP> <TT> for painting, etc. </TT> </P>
+<P> <U> ADJ. </U><B> artist's, photographic </B> </P>
+<P> <U> MODEL + VERB </U><B> sit for sb/sth </B><I>The model sits for me for three hours every day. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>model </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> closely | explicitly </B> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>This system is closely modelled upon one used in French hospitals. </I> </P>
+</DIV>

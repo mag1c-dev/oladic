@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>rate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> highly </B><I>Silver was rated more highly than gold. </I> </P>
+<P> <U> PREP. </U><B> among </B><I>a golf course that is rated among the top ten in America </I><B>| as </B><I>It is rated as one of the city's best hotels. </I><B>| for </B><I>a university that is highly rated for its research work </I> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>rate </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> speed/frequency </B> </TT> </P>
+<P> <U> ADJ. </U><B> constant, expected, regular,  steady | slow </B><I>the slow rate of change </I><B>| fast, rapid | alarming,  phenomenal </B><I>The costs of the project are rising at an alarming rate. </I><B>| low </B><I>There is a low survival rate among babies born before 22 weeks. </I><B>| high | ever-increasing, rocketing | seasonally-adjusted  </B><I>The seasonally-adjusted unemployment rate in December stood at 5%. </I><B>| success | divorce, marriage | death, mortality | </B> survival | birth, fertility | <B>accident | crime | growth, inflation | metabolic, pulse, respiratory </B><I>We need to eat less as we get older and our metabolic rate slows down. </I> </P>
+<P> <U> VERB + RATE </U><B> improve, increase, speed up | cut, hold down, reduce, slow down </B><I>trying to hold down the rate of inflation </I><B>| stabilize | maintain | increase </B> </P>
+<P> <U> RATE + VERB </U><B> be/go/shoot up, grow, increase, rise, rocket, skyrocket, soar | be/come/go down, decline, decrease, drop, fall, plummet, plunge, slow, slip </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The water was escaping at a rate of 200 gallons a minute. </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount of money paid </TT> </P>
+<P> <U> ADJ. </U><B> competitive, cheap, low, moderate, reasonable </B><I>We have a wide range of vehicles available for hire at competitive rates. Calls are cheap rate after 6 p.m. </I><B>| extortionate, high | excellent, good | poor </B><I>The account offers a poor rate of interest. </I><B>| fixed, flat </B><I>You can opt to pay a flat rate for unlimited Internet access. </I><B>| usual | going </B><I>I'll pay you at the going rate </I>(= the present usual rate of payment)</B><I>. </I><B>| variable | annual, hourly, weekly | base, basic, standard | top </B><I>paying the top rate of tax </I><B>| average | market </B><I>current market rates for borrowing </I> <B>| group, preferential, reduced </B><I>Ask about the special group rates for entrance to the house and gardens. </I><B>| bank, exchange, interest, lending, mortgage, tax </B> </P>
+<P> <U> VERB + RATE </U><B> determine, fix, set | increase, lift, put up, raise | cut, lower, reduce | hold </B><I>We will hold these rates until 1 April. </I><B>| charge </B><I>They charge the usual rate of interest. </I><B>| pay | give (sb), offer (sb) </B> </P>
+<P> <U> RATE + VERB </U><B> go/shoot up, increase, rise </B><I>Their hourly rates have gone up. </I><B>| come/go down, drop | fluctuate </B><I>Exchange rates are fluctuating wildly. </I><B>| apply to sth </B><I>Standard rates of interest apply to these loans. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>borrowing money at a high rate of interest </I><B>| ~ for </B><I>the average rate for an unskilled worker </I><B>| ~ of </B><I>an increase in the rate of taxation </I> </P>
+<P> <U> PHRASES </U><B> a drop in interest rates, a rise in mortgage rates, etc. </B><I>a one-point rise in base lending rates </I> | a rate of return </B><I>safe investments which give a good rate of return </I></P>
+<a href="/collocation-tag/financial" class="tag">Learn more about FINANCIAL</a>
+</DIV>

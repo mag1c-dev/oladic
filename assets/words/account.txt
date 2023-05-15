@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>account </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> description </TT> </P>
+<P> <U> ADJ. </U><B> brief, short | blow-by-blow, comprehensive, detailed, full, graphic, vivid </B><I>He gave us a blow-by-blow account of the incident. </I><B>| accurate, clear, eyewitness, factual, first-hand, true, verbatim | glowing, good </B><I>She received a glowing account of her son's progress. </I><B>| newspaper  </B><I>the newspaper account of the trial </I> </P>
+<P> <U> VERB + ACCOUNT </U><B> give (sb), provide (sb with), write (sb) </B><I>Can you give us an account of what happened? </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>Dr Richards describes this very well in his account of the events. </I> </P>
+<P> <U> PHRASES </U><B> by all accounts </B>(= according to what people say) <I>I've never been there, but it's a lovely place by all accounts. </I><B>| by sb's own account </B><I>By his own account he had an unhappy childhood. </I> </P>
+<P> <SUP> 2 </SUP> <TT> arrangement with a bank </TT> </P>
+<P> <U> ADJ. </U><B> bank, building society | current | deposit, investment, savings | personal | business | joint, separate </B><I>My husband and I have separate accounts. </I><B>| numbered </B><I>They have a numbered account in Switzerland. </I> </P>
+<P> <U> VERB + ACCOUNT </U><B> have, hold </B><I>Go and see the manager of the bank where your account is held. </I><B>| open </B><I>She opened a savings account at the building society. </I><B>| close | credit sth to, pay/put sth into </B><I>The money will be credited to your account tomorrow. </I><B>| debit (sth from), draw sth out (of), pay sth from, take sth out (of), withdraw sth (from) </B><I>She had taken all her money out of her account. </I><B>| overdraw </B><I>Your account is overdrawn. </I> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>He opened an account at a bank in Germany. </I><B>| ~ with </B><I>an account with Barclays Bank </I> </P>
+<P> <SUP> 3 </SUP> <TT> accounts: record of money a business earns/spends  </TT> </P>
+<P> <U> VERB + ACCOUNT </U><B> do, keep </B><I>Try to keep accurate accounts. </I><B>| audit, check, look at | submit </B><I>Your accounts will need to be submitted to the tax office. </I> </P>
+<P> <U> ACCOUNT + VERB </U><B> be in order </B><I>The accounts are all in order. </I> &gt; Special page at BUSINESS </B> </P>
+<P> <SUP> 4 </SUP> <TT> arrangement with a shop/business </TT> </P>
+<P> <U> ADJ. </U><B> expense </B>(= an arrangement to charge expenses to your own employers) <I>taking clients for expense account lunches </I> </P>
+<P> <U> VERB + ACCOUNT </U><B> have | open </B><I>I'd like to open an account, please. </I><B>| close | pay off, settle </B><I>It is best to settle the account each month. </I> | charge sth to, debit (sth from), put sth on </B><I>Charge this to my account, please. </I><B>| credit sth to </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>Ring for a cab on account. </I><B>| ~ at/with </B><I>an account with a large store </I> </P>
+</DIV><DIV class="item"><P class="word"><B>account </B><I>verb </I><B>PHRASAL VERBS account for sth </B> </P>
+<P> <U> ADV. </U><B> fully </B><I>The increase can be fully accounted for. </I><B>| partly </B><I>The differences in achievement between the pupils are partly accounted for by differences in age. </I> </P>
+</DIV>

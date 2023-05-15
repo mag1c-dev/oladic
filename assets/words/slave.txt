@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>slave </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fugitive, runaway </B> </P>
+<P> <U> VERB + SLAVE </U><B> have, own | buy, take sb as | sell (sb as) | use (sb as) | free, liberate </B><I>landowners who freed their slaves voluntarily </I> </P>
+<P> <U> SLAVE + NOUN </U><B> labour </B><I>a railway built by slave labour </I><B>| driver, master, owner, trader | market, trade, traffic </B><I>the abolition of the slave trade </I><B>| ship </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a slave of habit </I><B>| ~ to </B><I>a slave to fashion </I> </P>
+<P> <U> PHRASES </U><B> the emancipation of slaves, the trade in slaves</B> </P>
+</DIV>

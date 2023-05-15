@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>athlete </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine, good, great, Olympic, outstanding, talented, top, world-class </B><I>one of the greatest athletes of all time </I><B>| natural </B><I>She has the build and strength of a natural athlete. </I><B>| all-round, field, track | amateur, professional </B> </P>
+<P> <U> ATHLETE + VERB </U><B> train </B><I>The athletes are training hard for the Olympics. </I><B>| compete, perform </B><I>Our field athletes have performed well. </I> </P>
+</DIV>

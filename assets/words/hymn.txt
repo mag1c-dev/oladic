@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>hymn </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rousing </B><I>The service began with a rousing hymn. </I><B>| traditional | modern </B> </P>
+<P> <U> VERB + HYMN </U><B> play, sing </B> </P>
+<P> <U> HYMN + NOUN </U><B> book | tune</B> </P>
+</DIV>

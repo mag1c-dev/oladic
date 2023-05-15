@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>introduction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> first use </TT> </P>
+<P> <U> ADJ. </U><B> early, gradual, recent, widespread </B> </P>
+<P> <U> PREP. </U><B> ~ into </B><I>the gradual introduction of modern farming methods into traditional societies </I> </P>
+<P> <SUP> 2 </SUP> <TT> first part of a book/talk </TT> </P>
+<P> <U> ADJ. </U><B> brief, short </B><I>He began with a brief introduction. </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>His mother is mentioned in the introduction. </I><B>| ~ to </B><I>the introduction to her latest book </I> </P>
+<P> <SUP> 3 </SUP> <TT> book for studying a subject </TT> </P>
+<P> <U> ADJ. </U><B> excellent, general, useful </B><I>It serves as an excellent introduction to 19th-century painting. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B> </P>
+<P> <SUP> 4 </SUP> <TT> telling people each other's names </TT> </P>
+<P> <U> ADJ. </U><B> formal </B> </P>
+<P> <U> VERB + INTRODUCTION </U><B> make </B><I>I can never remember names, so I don't like to make the introductions. </I> </P>
+<P> <U> PHRASES </U><B> a letter of introduction </B><I>He gave me a letter of introduction to the manager. </I> </P>
+</DIV>

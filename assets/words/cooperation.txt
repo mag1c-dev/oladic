@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cooperation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> close | full | greater, increased | active | effective | international, local | mutual </B><I>a society founded on mutual cooperation and shared prosperity </I><B>| cultural, economic, military, political, social, technical </B> </P>
+<P> <U> VERB + COOPERATION </U><B> need, require | ask for, call for, demand, seek </B><I>She called for closer cooperation on drugs control. They are seeking the cooperation of senior medical staff. </I><B>| enlist, get </B><I>We are hoping to enlist the cooperation of women's groups. </I><B>| give (sb), offer (sb) | encourage, promote </B><I>promoting cooperation between universities and industry </I><B>| ensure </B> </P>
+<P> <U> PREP. </U><B> in ~ with </B><I>The film was made in cooperation with the Sports Council. </I><B>| with/without sb's ~ </B><I>With the cooperation of the public, the police may be able to catch this man. </I><B>| ~ among </B><I>increased technical cooperation among large companies </I><B>| ~ between </B><I>political cooperation between the two groups </I><B>| ~ from </B><I>You will need a bit of cooperation from your family. </I><B>| ~ in </B><I>We asked for their cooperation in the collection of data. </I><B>| ~ on </B><I>They offered their cooperation on the project. </I><B>| ~ with </B><I>We should like to thank you for your cooperation with us. </I> </P>
+<P> <U> PHRASES </U><B> a lack of cooperation, a need for cooperation </B><I>There is a need for greater economic cooperation. </I> </P>
+</DIV>

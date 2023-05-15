@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>insecure </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not safe </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very | increasingly | a little, rather, somewhat | financially </B><I>men who are worried about losing their jobs and becoming financially insecure </I> </P>
+<P> <SUP> 2 </SUP> <TT> anxious </TT> </P>
+<P> <U> VERBS </U><B> be, feel | become, grow </B> </P>
+<P> <U> ADV. </U><B> deeply, extremely, profoundly, really, very | increasingly | a bit, a little, quite, rather | basically | notoriously </B><I>a star who is notoriously insecure about her looks </I> </P>
+<P> <U> PREP. </U><B> about </B><I>He felt a bit insecure about being left alone. </I> </P>
+</DIV>

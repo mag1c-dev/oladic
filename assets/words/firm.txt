@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>firm </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> solid/strong </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | remain, stay </B><I>Exercise is important if you want your muscles to stay firm. </I><B>| make sth </B><I>Use extra stuffing to make the cushions firmer. </I><B>| keep sth </B><I>exercises to keep your muscles firm </I> </P>
+<P> <U> ADV. </U><B> very | fairly, quite, reasonably </B> </P>
+<P> <SUP> 2 </SUP> <TT> not likely to change </TT> </P>
+<P> <U> VERBS </U><B> be, sound | hold, remain, stand </B><I>Jo held firm: nothing else would do. We stand firm on these principles. </I> </P>
+<P> <U> ADV. </U><B> very | fairly, quite </B> </P>
+<P> <U> PREP. </U><B> with </B><I>I have always been quite firm with my children. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>firm </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, large, major | medium-sized | small | well-known | successful | established | start-up </B><I>start-up firms in the booming computer market </I><B>| private | family | international, multinational | foreign | local | accountancy, audit/auditing, broking, consulting, engineering, law, manufacturing, software, stockbroking, telecommunications | mail order </B> </P>
+<P> <U> VERB + FIRM </U><B> establish, found, set up, start (up) </B><I>She set up her own software firm. </I><B>| manage, run | merge with </B><I>They are likely to merge with a bigger firm. </I><B>| acquire, buy (out), take over </B><I>The firm was taken over by a multinational consulting firm. </I><B>| close (down), dissolve </B><I>the decision to close down the firm </I><B>| own | work for | join, leave | employ, hire </B><I>She hired a firm of private detectives to follow him. </I> </P>
+<P> <U> FIRM + VERB </U><B> be based in sth </B><I>a firm called Data Incorporated, based in Chicago </I><B>| expand, grow | merge | compete </B><I>Local firms are finding it difficult to compete in the international market. </I><B>| close (down), collapse, fail, go bust, go into liquidation </B><I>The well-established firm closed down with the loss of 600 jobs. </I><B>| develop sth, make sth, manufacture sth, produce sth | specialize in sth </B><I>a firm specializing in high-technology products </I> </P>
+<P> <U> PREP. </U><B> in/within a/the ~ </B><I>the different departments within the firm </I> </P>
+<P> <U> PHRASES </U><B> a client of a firm, a firm of accountants/consultants/solicitors, a partner in a firm </B></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+</DIV>

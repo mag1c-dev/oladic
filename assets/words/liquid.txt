@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>liquid </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> glutinous, thick, viscous | thin | clear | colourless | cloudy | flammable | volatile | immiscible, miscible </B><I>immiscible liquids such as oil and water </I> </P>
+<P> <U> QUANT. </U><B> drop, pool </B> </P>
+<P> <U> VERB + LIQUID </U><B> empty, pour </B><I>Empty the liquid into a large bowl. </I><B>| spill | drain (off), pour off, strain (off) </B><I>Drain off the liquid from the meat into a measuring jug. </I><B>| boil, bring to the boil, simmer | reduce </B><I>Reduce the liquid by boiling for two minutes. </I><B>| absorb, soak up </B> </P>
+<P> <U> LIQUID + VERB </U><B> boil, simmer </B> </P>
+<P> <U> LIQUID + NOUN </U><B> refreshment </B><I>(informal) After two hours of the meeting we stopped for liquid refreshment. </I><B>| soap | waste </B><I>unprocessed liquid waste from a nuclear power station </I> </P>
+<P> <U> PHRASES </U><B> in liquid form </B><I>The medicine is usually taken in liquid form. </I> </P>
+</DIV>

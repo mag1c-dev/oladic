@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>tenor </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> male singing voice/singer </TT> </P>
+<P> <U> ADJ. </U><B> celebrated, famous, great | high | operatic </B> </P>
+<P> <U> VERB + TENOR </U><B> sing </B><I>We persuaded Jake to sing tenor </I>(= sing the tenor part)</B><I>. </I> </P>
+<P> <U> TENOR + VERB </U><B> sing </B><I>Three celebrated tenors sang at the president's inauguration. </I> </P>
+<P> <U> TENOR + NOUN </U><B> voice | part, solo | register </B> </P>
+<P> <SUP> 2 </SUP> <TT> atmosphere/feeling </TT> </P>
+<P> <U> ADJ. </U><B> even </B><I>Nothing ever changes the even tenor of life in our village. </I><B>| general, whole </B><I>The whole tenor of the meeting was very positive. </I> </P>
+</DIV>

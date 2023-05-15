@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>respite </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, moment's, temporary </B><I>a moment's respite from the ringing of the phone </I><B>| much needed, welcome </B> </P>
+<P> <U> VERB + RESPITE </U><B> have | bring (sb), give (sb), provide (sb with) </B><I>The tablets brought temporary respite from the excruciating pain. </I><B>| gain (sb), win (sb) </B> </P>
+<P> <U> RESPITE + NOUN </U><B> care </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>The storm continued for two hours without respite. </I><B>| ~ from </B><I>They had no respite from the demands of their children. </I> </P>
+<P> <U> PHRASES </U><B> a period of respite</B> </P>
+</DIV>

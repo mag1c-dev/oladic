@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>hard </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> solid/stiff </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem </B><I>The chairs felt hard and uncomfortable. </I><B>| become, go </B><I>Don't leave the cake uncovered or the icing will go hard. </I><B>| stay </B> </P>
+<P> <U> ADV. </U><B> extremely, very | a bit, fairly, quite, rather </B> </P>
+<P> <U> PHRASES </U><B> rock hard </B><I>The toffee was rock hard. </I> </P>
+<P> <SUP> 2 </SUP> <TT> difficult </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become, get </B><I>Life got very hard. </I><B>| make sth </B><I>If you tell the children the answers, it only makes it harder for them to do the work on their own. </I><B>| find sth </B><I>I found the exam quite hard. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | a bit, fairly, pretty, quite, rather</B> </P>
+</DIV>

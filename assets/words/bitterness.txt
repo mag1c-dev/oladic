@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>bitterness </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great, real </B> </P>
+<P> <U> QUANT. </U><B> edge, hint, touch, trace </B> </P>
+<P> <U> VERB + BITTERNESS </U><B> feel </B><I>She feels no bitterness towards him. </I><B>| show </B><I>He's never shown any bitterness. </I> </P>
+<P> <U> PREP. </U><B> with/without ~ </B><I>She spoke slowly and with some bitterness. </I><B>| ~ about/over </B><I>their bitterness over the strike </I><B>| ~ against/towards </B><I>his bitterness towards his own father </I><B>| ~ among </B><I>the bitterness among nurses about this pay deal </I><B>| ~ between </B><I>There is no bitterness between them. </I> </P>
+</DIV>

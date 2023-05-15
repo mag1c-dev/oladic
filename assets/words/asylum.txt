@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>asylum </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> protection given by a government </TT> </P>
+<P> <U> ADJ. </U><B> temporary | political </B> </P>
+<P> <U> VERB + ASYLUM </U><B> apply for, claim, request, seek </B><I>She fled the country, and is now seeking asylum in Sweden. </I><B>| give sb, grant sb, offer sb, provide (sb with) | get, receive | deny sb, refuse sb </B><I>Over 400 people have been refused asylum. </I> </P>
+<P> <U> ASYLUM + NOUN </U><B> seeker </B><I>bogus/genuine asylum seekers </I><B>| application, claim </B> </P>
+<P> <U> PHRASES </U><B> an application for asylum, the right to asylum </B><I>Those fleeing from the war have the right to asylum. </I> </P>
+<P> <SUP> 2 </SUP> <TT> mental hospital </TT> </P>
+<P> <U> ADJ. </U><B> lunatic, mental </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He spent three years in an asylum. </I> </P>
+</DIV>

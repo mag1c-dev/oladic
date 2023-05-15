@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>dumb </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> unable to speak </TT> </P>
+<P> <U> VERBS </U><B> be | become, be struck </B><I>They were struck dumb by some sort of shock. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She sat there, dumb with rage. </I> </P>
+<P> <U> PHRASES </U><B> deaf and dumb </B> </P>
+<P> <SUP> 2 </SUP> <TT> stupid </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound </B><I>I'm sure my question sounded really dumb. </I><B>| act, play </B><I>I decided to act dumb. </I> </P>
+<P> <U> ADV. </U><B> really, very | pretty, rather</B> </P>
+</DIV>

@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>minute </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> one sixtieth of an hour </TT> </P>
+<P> <U> VERB + MINUTE </U><B> last, take </B> </P>
+<P> <U> MINUTE + VERB </U><B> pass, tick by </B><I>The minutes ticked by and still nothing happened. </I> </P>
+<P> <U> MINUTE + NOUN </U><B> hand </B><I>the minute hand on the clock </I> </P>
+<P> <U> PREP. </U><B> after &hellip; ~s </B><I>After twenty minutes I started to get worried. </I><B>| for &hellip; ~s </B><I>We waited for ten minutes and then left. </I><B>| in &hellip; ~s </B><I>The film starts in ten minutes. </I><B>| ~s past </B><I>four minutes past two </I><B>| ~s to </B><I>ten minutes to three </I></P>
+<a href="/collocation-tag/measure" class="tag">Learn more about MEASURE</a>
+<P> <SUP> 2 </SUP> <TT> moment </TT> </P>
+<P> <U> ADJ. </U><B> last </B><I>Don't leave everything till the last minute. </I> </P>
+<P> <U> VERB + MINUTE </U><B> hang on, hold on, wait </B><I>Could you wait a minute, please? </I><B>| have, spare </B><I>Do you have a minute, Miss Brown? Can you spare a minute? </I><B>| take </B><I>This will only take a minute. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>I'll be with you in a minute. </I><B>| within ~s </B><I>The ship sank within minutes. </I> </P>
+<P> <U> PHRASES </U><B> just a minute, the minute sth happens </B><I>Tell him I want to see him the minute he arrives. </I><B>| not for a minute </B><I>I never thought for a minute he'd refuse. </I><B>| this minute </B><I>Come here this minute! </I></P>
+<P> <SUP> 3 </SUP> <TT> minutes: written record of what is said at a meeting  </TT> </P>
+<P> <U> VERB + MINUTE </U><B> keep, take </B><I>Who's going to take the minutes? </I><B>| circulate | read | agree, approve, sign | write up </B><I>I wrote up the minutes of the meeting and circulated them by email. </I> </P>
+<P> <U> PHRASES </U><B> the minutes of a meeting </B>&gt; Special page at MEETING </B> </P>
+</DIV>

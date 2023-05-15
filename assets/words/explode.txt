@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>explode </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> blow up </TT> </P>
+<P> <U> VERB + EXPLODE </U><B> be liable to </B><I>The chemical is liable to explode on contact with water. </I><B>| fail to </B><I>A blast bomb was thrown but the device failed to explode. </I> </P>
+<P> <SUP> 2 </SUP> <TT> get angry/dangerous/moving </TT> </P>
+<P> <U> ADV. </U><B> literally | suddenly </B> </P>
+<P> <U> VERB + EXPLODE </U><B> be about to, be ready to, be set to </B><I>A row over public spending is set to explode. </I><B>| be liable to, be likely to | seem to </B> </P>
+<P> <U> PREP. </U><B> into </B><I>He suddenly exploded into action. </I><B>| with </B><I>She literally exploded with anger. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pretence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> elaborate </B><I>It was all an elaborate pretence. </I> </P>
+<P> <U> VERB + PRETENCE </U><B> keep up, maintain, sustain </B><I>I don't know how long I can keep up this pretence. </I><B>| abandon, drop, give up </B> </P>
+<P> <U> PRETENCE + VERB </U><B> be over </B><I>Now that the pretence was over, he could tell them what he really thought. </I> </P>
+<P> <U> PREP. </U><B> under the ~ of </B><I>He tried to get close to her under the pretence of examining the pictures on the wall. </I><B>| ~ at </B><I>His pretence at friendliness fooled no one. </I><B>| ~ of </B><I>He was hanged without even the pretence of a proper trial. </I> </P>
+<P> <U> PHRASES </U><B> make a/little/no pretence </B><I>I make no pretence to be an expert on the subject. </I><B>| by/under false pretences </B><I>obtaining money under false pretences </I> </P>
+</DIV>

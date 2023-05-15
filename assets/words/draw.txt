@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>draw </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> goalless, one-all, three-three, etc. </B> </P>
+<P> <U> VERB + DRAW </U><B> end in </B><I>The game ended in a two-all draw. </I><B>| earn, get, hold sb to </B><I>San Marino held them to a goalless draw. </I> </P>
+<P> <U> PREP. </U><B> ~ against, ~ with </B><I>their 1?1 draw with United </I> </P>
+</DIV><DIV class="item"><P class="word"><B>draw </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make pictures </TT> </P>
+<P> <U> ADV. </U><B> accurately, beautifully, carefully, clearly, well </B><I>a beautifully drawn picture He draws very well. </I><B>| badly, crudely, roughly </B><I>a crudely drawn child's face </I> </P>
+<P> <SUP> 2 </SUP> <TT> pull </TT> </P>
+<P> <U> ADV. </U><B> half, partly </B><I>The blinds were partly drawn. </I><B>| back </B><I>She drew back the curtains and let the sunlight in. </I><B>| up | aside, to one side </B><I>I tried to draw him aside so I could talk to him in private. </I><B>| together </B><I>(figurative) The project enables students to draw together their knowledge, skills and experience. </I> </P>
+<P> <U> PREP. </U><B> onto </B><I>She drew me onto the balcony </I><B>| out of </B><I>He drew the cork out of the bottle. </I><B>| to </B><I>I drew my chair up to the fire. </I><B>| towards </B> </P>
+<P> <SUP> 3 </SUP> <TT> attract </TT> </P>
+<P> <U> ADV. </U><B> immediately | inevitably, inexorably, irresistibly </B><I>Her gaze was drawn irresistibly to the scene outside. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>The scheme has drawn interest from local businessmen. </I><B>| to </B><I>We asked the surfing champion what first drew him to the sport. </I><B>PHRASAL VERBS draw on/upon sth </B> </P>
+<P> <U> ADV. </U><B> heavily </B><I>The novelist draws heavily on her personal experiences. </I><B>draw sth up </B> </P>
+<P> <U> ADV. </U><B> professionally, properly </B><I>Make sure the contract is properly drawn up. </I> </P>
+</DIV>

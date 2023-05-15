@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>reflect </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> send back light/heat/sound </TT> </P>
+<P> <U> ADV. </U><B> dimly, dully </B><I>The sun reflected dully off the stone walls. (figurative) In Milton's poem, Satan, even after his fall, dimly reflects his former glory. </I><B>| back </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The screen reflects light from the sun. </I><B>| off </B> </P>
+<P> <SUP> 2 </SUP> <TT> show/express sth </TT> </P>
+<P> <U> ADV. </U><B> clearly | directly | accurately, closely, correctly, faithfully, well </B><I>Does this opinion poll accurately reflect the public mood? </I><B>| adequately </B><I>The punishment should adequately reflect the revulsion felt by most people for this appalling crime. </I><B>| merely, simply </B><I>This year's budget simply reflects the fact that we have fewer people out of work. </I><B>| not necessarily </B><I>The views expressed in this article do not necessarily reflect those of the editor. </I> </P>
+<P> <U> VERB + REFLECT </U><B> be designed to </B><I>The exhibition is designed to reflect the diversity of the nation and its regions. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>The condition of the house is reflected in its low price. </I> </P>
+<P> <SUP> 3 </SUP> <TT> think deeply </TT> </P>
+<P> <U> ADV. </U><B> bitterly, gloomily, ruefully, wryly </B><I>reflecting ruefully that the great American dollar didn't buy as much as it used to </I> </P>
+<P> <U> VERB + REFLECT </U><B> pause to | leave sb to </B><I>He was left to reflect on the implications of his decision. </I> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>She paused to reflect on what she had achieved. </I> </P>
+<P> <U> PHRASES </U><B> time to reflect </B><I>I need time to reflect. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>greet </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> say hello to sb </TT> </P>
+<P> <U> ADV. </U><B> cheerfully, enthusiastically, pleasantly, warmly </B><I>The two men greeted one another warmly. </I><B>| courteously, politely | coolly </B><I>Stella greeted her mother coolly. </I> </P>
+<P> <U> VERB + GREET </U><B> be there to, be waiting to </B><I>You must be there to greet your guests. My parents were waiting to greet us at the door. </I><B>| come to, rise to, turn to </B><I>The president rose to greet his guests. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She greeted him with a quick kiss. </I> </P>
+<P> <U> PHRASES </U><B> greet sb by name </B><I>The head teacher greeted all the pupils by name. </I> </P>
+<P> <SUP> 2 </SUP> <TT> react to sth in particular way </TT> </P>
+<P> <U> ADV. </U><B> enthusiastically | coolly | angrily </B><I>The announcement was greeted angrily by the workers. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The news was greeted with astonishment. </I> </P>
+</DIV>

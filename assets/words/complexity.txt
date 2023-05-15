@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>complexity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, extraordinary, extreme, great, immense | full, sheer </B><I>Only now did he understand the full complexity of the problem. </I><B>| growing, increasing | bewildering | unnecessary | added | economic, linguistic, structural, technical </B><I>the linguistic complexity of Siberia </I> </P>
+<P> <U> QUANT. </U><B> degree, level </B> </P>
+<P> <U> VERB + COMPLEXITY </U><B> convey, highlight, illustrate, reveal </B><I>It is difficult to convey the sheer complexity of the situation. </I><B>| grasp, understand </B> </P>
+<P> <U> COMPLEXITY + VERB </U><B> arise (from sth) </B> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>a pay system of unnecessary complexity </I> </P>
+</DIV>

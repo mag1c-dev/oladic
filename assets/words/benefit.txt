@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>benefit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> advantage </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, major, real, substantial  </B><I>This could bring real benefits for teachers. </I><B>| maximum | additional  </B><I>The scheme has many additional benefits. </I><B>| fringe </B>(= extra things </B>that an employer gives as well as </B>wages) <I>The fringe benefits include free health insurance. </I><B>| mutual  </B><I>The different environmental groups could work together to their mutual benefit. </I><B>| potential | long-term, short-term | economic, environmental, financial, health, social | tax </B> </P>
+<P> <U> VERB + BENEFIT </U><B> enjoy, have </B><I>The motor industry will be one of the first to enjoy the benefits of the recovery. children who have the benefit of a stable home background </I><B>| derive, gain, get, obtain, reap, receive </B><I>The company derived substantial benefit from the deal. I reaped the benefits of all my early training. </I><B>| bring, offer, provide </B><I>The new factory will bring considerable benefits to the area. This deal will offer major benefits to industrialists and investors. </I> </P>
+<P> <U> BENEFIT + VERB </U><B> accrue </B><I>the benefits that accrue from a good education </I> </P>
+<P> <U> PREP. </U><B> for sb's ~ </B><I>We shall do this for the benefit of the patients. </I><B>| of ~ to </B><I>This arrangement will be of great benefit to you both. </I><B>| to sb's ~ </B><I>It will be to everyone's benefit. </I><B>| with/without the ~ of </B><I>managing to work without the benefit of modern technology </I><B>| ~ for </B><I>the benefits for companies </I><B>| ~ from </B><I>the benefits from tourism </I><B>| ~ of </B><I>the benefit of a steady income </I><B>| ~ to </B><I>What are the benefits to investors? </I> </P>
+<P> <SUP> 2 </SUP> <TT> money </TT> </P>
+<P> <U> ADJ. </U><B> welfare | state | means-tested, universal </B><I>One way to cut spending is to move from universal benefits?those paid to everyone regardless of need?to means-tested ones. </I><B>| cash | child, housing, sickness, social security, unemployment </B> </P>
+<P> <U> QUANT. </U><B> amount, level </B> </P>
+<P> <U> VERB + BENEFIT </U><B> be eligible for, be entitled to, qualify for | claim </B><I>You may be able to claim housing benefit. </I><B>| draw, get, receive </B><I>He receives unemployment benefit. </I><B>| be dependent on | lose </B><I>She is worried that if she takes on a job she will lose her benefits. </I><B>| cut </B><I>The government has cut unemployment benefit. </I><B>| increase </B> </P>
+<P> <U> BENEFIT + VERB </U><B> be paid </B><I>Benefit is paid monthly. </I> </P>
+<P> <U> BENEFIT + NOUN </U><B> benefits agency | office | payment | system </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>He's on social security benefit. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>benefit </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> considerably, enormously, greatly, substantially | fully | clearly, obviously, undoubtedly </B><I>The new law clearly benefits those earning the most money. </I><B>| equally | disproportionately | directly </B><I>We benefited directly from the reorganization. </I><B>| indirectly | financially </B><I>We both benefited financially from the arrangement. </I> </P>
+<P> <U> PREP. </U><B> from</B> </P>
+</DIV>

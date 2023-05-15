@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>agitation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> worry/excitement </TT> </P>
+<P> <U> ADJ. </U><B> acute, considerable, extreme, great </B> </P>
+<P> <U> VERB + AGITATION </U><B> show </B><I>trying not to show her agitation </I><B>| conceal, hide </B><I>He could not hide his agitation. </I> </P>
+<P> <U> PREP. </U><B> in sb's ~ </B><I>He knocked his glass over in his agitation. </I><B>| with ~ </B><I>She was wriggling on the seat with agitation. </I> </P>
+<P> <U> PHRASES </U><B> a feeling/state of agitation </B> </P>
+<P> <SUP> 2 </SUP> <TT> public protest </TT> </P>
+<P> <U> ADJ. </U><B> growing | mass, popular, public | political </B> </P>
+<P> <U> VERB + AGITATION </U><B> engage in, turn to </B><I>The organization is turning to political agitation in order to achieve its aims. </I><B>| stir up </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>There has been mass agitation against the president. </I><B>| ~ for </B><I>There is growing agitation for reform of local government. </I> </P>
+</DIV>

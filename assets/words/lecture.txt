@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>lecture </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> talk given to a group of people </TT> </P>
+<P> <U> ADJ. </U><B> fascinating, interesting | boring | formal | illustrated | impromptu | guest </B><I>A two-day event of guest lectures, seminars and workshops. </I><B>| popular, public | annual | inaugural, introductory </B><I>Professor Pearson gave the inaugural lecture in the new lecture theatre. </I><B>| keynote, plenary | memorial </B> </P>
+<P> <U> QUANT. </U><B> course, programme, series </B> </P>
+<P> <U> VERB + LECTURE </U><B> deliver, give, present | hold, put on </B><I>The society is putting on a series of lectures on the subject next term. </I><B>| attend, go to, hear </B><I>(formal)</I>, <B>listen to | miss, skip | prepare, write </B> </P>
+<P> <U> LECTURE + NOUN </U><B> course, programme, series | hall, room, theatre | notes | tour | circuit </B><I>a familiar figure on the international lecture circuit </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>She wasn't at the lecture. </I><B>| during a/the ~ </B><I>The fire bell went during his lecture. </I><B>| in a/the ~ </B><I>She referred to Professor Jones's work in her lecture on Shakespeare's imagery. </I><B>| ~ by </B><I>a lecture by Professor Snow </I><B>| ~ about/on, ~ to </B><I>a lecture to the Darwin Society </I> </P>
+<P> <U> PHRASES </U><B> a lecture entitled sth </B><I>a lecture entitled &lsquo;How to Prevent Food Poisoning&rsquo; </I><B>| a lecture on the subject of sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> serious talk to sb about their behaviour </TT> </P>
+<P> <U> ADJ. </U><B> little, long | severe, stern </B> </P>
+<P> <U> VERB + LECTURE </U><B> give sb, read sb </B><I>She read me a stern lecture on ingratitude. </I><B>| get </B><I>I got a lecture from Dad about coming home on time. </I><B>| take </B> </P>
+<P> <U> PREP. </U><B> ~ about/on </B><I>I don't take lectures from anyone on how to behave. </I><B>| ~ from</B> </P>
+</DIV>

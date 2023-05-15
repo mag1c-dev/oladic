@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mistrust </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, profound | growing | widespread | mutual </B><I>trying to overcome their mutual distrust </I> </P>
+<P> <U> VERB + MISTRUST </U><B> create, fuel | overcome </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>There is suspicion and mistrust between immigrants and the police. </I><B>| ~ in </B><I>The incident has increased workers' mistrust in the management. </I><B>| ~ of </B><I>His experience left him with a mistrust of banks. </I><B>| ~ towards </B> </P>
+<P> <U> PHRASES </U><B> an atmosphere/a climate/a sense of mistrust </B><I>Corruption creates an climate of mistrust towards authority. </I> </P>
+</DIV>

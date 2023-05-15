@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>altar </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, main | makeshift, portable | sacrificial </B> </P>
+<P> <U> VERB + ALTAR </U><B> approach, go up to </B><I>The bride approached the altar. </I> </P>
+<P> <U> ALTAR + NOUN </U><B> boy | cloth, frontal | rail | table </B> </P>
+<P> <U> PREP. </U><B> at an/the ~ </B><I>Helen and Tony knelt at the altar. </I><B>| before an/the ~ </B><I>He lay prostrate before the high altar. </I><B>| on an/the ~ </B><I>He placed the candles on the altar. </I> </P>
+</DIV>

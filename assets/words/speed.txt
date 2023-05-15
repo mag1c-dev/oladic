@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>speed limit </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | legal </B> </P>
+<P> <U> VERB + SPEED LIMIT </U><B> keep to/within | break, exceed </B><I>Motorists can be fined on the spot for exceeding speed limits. </I><B>| set | raise | reduce </B> </P>
+<P> <U> PREP. </U><B> over the ~ </B><I>He was driving over the 60 mph speed limit. </I><B>| below/under the ~, within the ~ </B><I>You have to come down that hill in a low gear to keep within the speed limit. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>speed </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> amazing, astonishing, breakneck, fast, great, high, incredible, lightning, phenomenal, remarkable, startling, surprising, terrific </B><I>The new houses have been built with astonishing speed. He drove us to the hospital at breakneck speed. </I><B>| low, slow | full, maximum, top | excess </B><I>90% of car accidents involve excess speed. </I><B>| constant, steady | average | cruising, flying, operating, reading, running </B><I>The machinery is regulated to a safe running speed. </I><B>| engine, traffic, etc. | air, wind </B> </P>
+<P> <U> QUANT. </U><B> burst </B><I>The Greek runner produced an electrifying burst of speed over the last 50 metres. </I> </P>
+<P> <U> VERB + SPEED </U><B> attain, reach </B><I>The car reaches a speed of 60 miles per hour within five seconds. </I><B>| build up, gain, gather, increase, pick up </B><I>The train pulled out of the station, slowly gathering speed. </I><B>| lose | curb, kill, reduce </B><I>measures to curb the speed of cars travelling through the village </I><B>| maintain </B><I>The boat maintained a steady speed while the sea was calm. </I><B>| measure </B> </P>
+<P> <U> SPEED + VERB </U><B> increase | decrease </B> </P>
+<P> <U> SPEED + NOUN </U><B> control, reduction, restriction | record </B><I>&lsquo;Mallard&rsquo; holds the speed record for a steam locomotive. </I><B>| hump | camera, trap </B> </P>
+<P> <U> PREP. </U><B> at ~ </B>(= fast) <I>The train was travelling at speed when the accident happened. at lightning speed </I><B>| with ~ </B><I>Hedgehogs, though small, can move with surprising speed. </I> </P>
+<P> <U> PHRASES </U><B> (at) full speed </B><I>He was running at full speed when a tendon snapped in his leg. </I><B>| full speed ahead </B><I>The boat can be brought to a stop from full speed ahead within her own length. </I><B>| the speed of light/sound </B><I>Concorde crosses the Atlantic at twice the speed of sound. </I><B>| a turn of speed </B><I>For a small car it has a good turn of speed. </I> </P>
+</DIV>

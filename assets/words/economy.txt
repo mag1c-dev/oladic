@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>economy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> operation of a country's money supply </TT> </P>
+<P> <U> ADJ. </U><B> booming, buoyant, dynamic, healthy, sound, stable, strong | ailing, depressed, flagging, fragile, stagnant, weak </B><I>The government devalued the currency to try to revive the flagging economy. </I><B>| advanced, developed, modern | agrarian, </B> agricultural, capitalist, industrial, <B>liberal, market, mixed, monetary, planned, rural, service-based, socialist </B><I>a modern industrial economy </I><B>| domestic, global, internal, international, local, national, world </B><I>the increasingly competitive global economy </I><B>| black, informal, underground </B><I>The black economy booms when there is high unemployment. </I> </P>
+<P> <U> VERB + ECONOMY </U><B> build, rebuild </B><I>Each party has its own strategy for building a strong economy. </I><B>| control, handle, manage, manipulate, operate, regulate, run </B><I>The government was accused of failing to run the economy competently. </I><B>| boost, develop, expand, help, improve, kick-start, reinvigorate, rescue, revive, stabilize, stimulate, strengthen | liberalize | damage, harm, weaken, wreck </B> </P>
+<P> <U> ECONOMY + VERB </U><B> develop, expand, flourish, grow | be in/go into recession, collapse, contract, fail, slow, stagnate | pick up, recover, stabilize </B> </P>
+<P> <U> PHRASES </U><B> an area/a sector of the economy </B><I>Transport workers are employed in all sectors of the economy. </I><B>| the backbone/mainstay of the economy </B><I>Agriculture was the backbone of the economy. </I><B>| growth in/of the economy </B><I>A small manufacturing sector inhibits growth in the economy. </I><B>| control/handling/management of the economy </B><I>37% approved the president's handling of the economy. </I><B>| the size of the economy, the state of the economy </B><I>The government has been criticized over the state of the economy. </I> &gt; Special page at BUSINESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> careful use of money/time/resources </TT> </P>
+<P> <U> ADJ. </U><B> important, major, significant | false </B><I>Buying cheap shoes is a false economy. </I> </P>
+<P> <U> VERB + ECONOMY </U><B> achieve, make </B><I>We could achieve major economies in time with this new machinery. </I> </P>
+<P> <U> ECONOMY + NOUN </U><B> drive </B><I>Savings are being planned as part of a huge economy drive. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>possible economies in telephone costs </I> </P>
+<P> <U> PHRASES </U><B> economy of effort/movement </B><I>It was impressive to see her economy of movement as she worked the machine. </I><B>| economy of scale </B><I>Large firms can benefit from economies of scale. </I> </P>
+</DIV>

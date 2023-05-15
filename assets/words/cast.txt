@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cast </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> huge, large | small | strong | all-star, star-studded | supporting | all-female, all-male </B> </P>
+<P> <U> VERB + CAST </U><B> have </B><I>The play has a large cast of characters. </I><B>| join | head </B><I>Jane Simms heads the cast of this brilliant production. </I> </P>
+<P> <U> CAST + VERB </U><B> perform sth </B> </P>
+<P> <U> CAST + NOUN </U><B> list, member </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Who is in the cast? </I> </P>
+<P> <U> PHRASES </U><B> a cast of characters, a member of the cast</B> </P>
+</DIV>

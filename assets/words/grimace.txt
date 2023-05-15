@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>grimace </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little, slight, small | ugly | rueful, wry | facial </B> </P>
+<P> <U> VERB + GRIMACE </U><B> give, make </B><I>She made a wry grimace. </I><B>| twist into </B><I>His face twisted into a grimace. </I> </P>
+<P> <U> GRIMACE + VERB </U><B> twist sth </B><I>An ugly grimace twisted her face. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He acknowledged his mistake with a wry grimace. </I><B>| ~ of </B><I>a grimace of disgust/pain </I> </P>
+</DIV><DIV class="item"><P class="word"><B>grimace </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> slightly | ruefully, wryly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>He grimaced slightly at the pain. She grimaced at him. </I><B>| in </B><I>She grimaced in disgust. </I> </P>
+</DIV>

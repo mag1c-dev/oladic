@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>pill </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small round flat piece of medicine </TT> </P>
+<P> <U> ADJ. </U><B> diet, sleeping, vitamin </B> </P>
+<P> <U> QUANT. </U><B> bottle </B> </P>
+<P> <U> VERB + PILL </U><B> pop, swallow, take | give sb, prescribe (sb) </B><I>The doctor prescribed her some pills to help her sleep. </I></P>
+<P> <SUP> 2 </SUP> <TT> the pill: to avoid becoming pregnant  </TT> </P>
+<P> <U> ADJ. </U><B> contraceptive </B> </P>
+<P> <U> VERB + PILL </U><B> be on, go on, use | prescribe (sb), put sb on </B><I>Her doctor put her on the pill at 16. </I><B>| come off, stop</B> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>democratic </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> favouring/practising democracy </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B><I>There have been major changes in the constitution, but the system remains democratic. </I> </P>
+<P> <U> ADV. </U><B> genuinely, truly | fully, thoroughly </B><I>a fully democratic society </I><B>| fairly, quite, reasonably </B><I>They have a fairly democratic form of government. </I><B>| dangerously </B><I>In 1776 these were considered dangerously democratic principles. </I> </P>
+<P> <SUP> 2 </SUP> <TT> being fair to different sides </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, very | fairly, quite, reasonably </B><I>I think it was a reasonably democratic decision. </I> </P>
+</DIV>

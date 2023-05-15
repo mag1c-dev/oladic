@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>vibration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high-frequency, low-frequency </B> </P>
+<P> <U> VERB + VIBRATION </U><B> cause, make, produce | dampen, reduce | detect, feel </B><I>Certain animals can feel vibrations in the sand. Their instruments can detect the slightest vibration. </I> </P>
+<P> <U> VIBRATION + NOUN </U><B> frequency | level </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>vibrations from heavy traffic </I> </P>
+</DIV>

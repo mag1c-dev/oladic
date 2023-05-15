@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>blend </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> delightful, good, perfect, right </B><I>just the right blend of work and relaxation </I><B>| curious, special, strange, subtle, unique </B><I>a scarf with a subtle blend of colours </I> </P>
+</DIV><DIV class="item"><P class="word"><B>blend </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> mix </TT> </P>
+<P> <U> ADV. </U><B> together </B><I>Blend all the ingredients together. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>Blend the cocoa into the eggs. </I><B>| with </B><I>Blend a little milk with two tablespoons of treacle. </I> </P>
+<P> <SUP> 2 </SUP> <TT> combine well </TT> </P>
+<P> <U> ADV. </U><B> happily, harmoniously, perfectly, well | in </B><I>The colour of the carpet doesn't blend in. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The ornamental pool blends perfectly with its surroundings. </I> </P>
+</DIV>

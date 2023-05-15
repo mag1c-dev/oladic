@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>drink </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cold, cool, iced, refreshing </B><I>I could do with a nice cool drink. </I><B>| hot, warm | milky | fizzy | low-alcohol, non-alcoholic, reduced-alcohol, soft | alcoholic | stiff, strong | diet, low-calorie | long </B><I>She took a long drink of cold water. </I><B>| celebratory | welcome </B><I>You will be offered a welcome drink on arrival at the hotel. </I><B>| farewell | early-evening, lunchtime | leisurely </B><I>We were enjoying a leisurely drink before dinner. </I><B>| quick | quiet </B> </P>
+<P> <U> QUANT. </U><B> round </B><I>We ordered a round of drinks while waiting for a table. </I> </P>
+<P> <U> VERB + DRINK </U><B> drink, have </B><I>I'll just drink my drink then we can go. She had a hot drink and went to bed. </I><B>| sip | down, finish, knock back </B><I>He knocked back his drink in one go and ordered another one. </I><B>| take </B><I>He took a drink of his beer and sat down. </I><B>| go for </B><I>Would you like to go for a drink after work? </I><B>| buy (sb), get (sb), offer (sb), order (sb) </B><I>Can I buy you a drink? </I><B>| pour (sb), serve (sb) </B><I>He poured himself a stiff drink to calm his nerves. </I><B>| spike </B><I>The robbers spiked his drink before taking his wallet and passport. </I><B>| drive sb to </B><I>Her money problems drove her to drink </I>(= made her start drinking a lot of alcohol)</B><I>. </I><B>| turn to </B><I>After his wife died, he turned to drink. </I> </P>
+<P> <U> DRINK + NOUN </U><B> drinks party </B><I>We've been invited to a drinks party. </I><B>| drinks cabinet/cupboard </B><I>She took a bottle from the drinks cabinet. </I><B>| problem </B><I>She suspected her boss had a drink problem. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Do you want ice in your drink? </I><B>| ~ of </B><I>I'll have a drink of milk, please. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>drink </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> take liquid into the body </TT> </P>
+<P> <U> ADV. </U><B> greedily </B><I>I pulled the ring-top from the can and drank greedily. </I><B>| down, up </B><I>He filled a cup with water and drank it down in one gulp. Drink up, and let's go home. </I> </P>
+<P> <U> VERB + DRINK </U><B> get yourself sth to, find sth to, have sth to </B><I>Go and get yourself something to eat and drink. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>He drank from a tumbler. </I><B>| through </B><I>drinking lemonade through a straw </I> </P>
+<P> <U> PHRASES </U><B> eat and drink </B> </P>
+<P> <SUP> 2 </SUP> <TT> drink alcohol </TT> </P>
+<P> <U> ADV. </U><B> excessively, heavily, to excess, too much </B><I>He's been drinking heavily since he lost his job. </I><B>| in moderation, moderately, sensibly </B><I>One way of persuading people to drink sensibly is to provide good-tasting alternatives with less alcohol. </I><B>| steadily </B><I>She had been drinking steadily since the early morning. </I> </P>
+<P> <U> PHRASES </U><B> drink and drive </B><I>The campaign aims to persuade people not to drink and drive. </I><B>| drink like a fish </B>(= drink a lot) <I>Simon was drinking like a fish that evening. </I><B>| drink yourself to death </B><I>He knew that he was probably drinking himself to death. </I> </P>
+</DIV>

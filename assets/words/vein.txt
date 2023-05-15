@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>vein </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> tube carrying blood in the body </TT> </P>
+<P> <U> ADJ. </U><B> blue </B><I>A blue vein throbbed in his forehead. </I><B>| broken, thread, varicose </B><I>She uses make-up to hide the thread veins in her cheeks. </I><B>| jugular </B> </P>
+<P> <U> VERB + VEIN </U><B> course/run along/through, flow through, pump through, race through, rush through </B><I>He felt the adrenalin coursing through his veins. </I> </P>
+<P> <U> VEIN + VERB </U><B> bulge, pulse, stand out, throb </B><I>The veins stood out on her throat and temples. </I> </P>
+<P> <SUP> 2 </SUP> <TT> particular style/quality </TT> </P>
+<P> <U> ADJ. </U><B> rich </B> </P>
+<P> <U> VERB + VEIN </U><B> hit, strike </B><I>The team have hit a rich vein of form recently. </I><B>| tap (into) </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The writer tapped into a rich vein of humour in the play. </I> </P>
+<P> <U> PHRASES </U><B> in a different vein, in a lighter/more serious vein </B><I>Fortunately, the rest of the evening continued in a lighter vein. </I><B>| in the same vein/in a similar vein</B> </P>
+</DIV>

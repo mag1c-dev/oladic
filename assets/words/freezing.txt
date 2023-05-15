@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>freezing </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, look </B><I>That water looks freezing. </I> </P>
+<P> <U> ADV. </U><B> bloody </B><I>(taboo) </I><B>| absolutely </B><I>It's absolutely freezing out there! </I> </P>
+<P> <U> PHRASES </U><B> freezing cold </B><I>It was a freezing cold day. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>freezing point </B><I>noun </I> </P>
+<P> <U> VERB + FREEZING POINT </U><B> get to, reach </B> </P>
+<P> <U> PREP. </U><B> above ~ </B><I>In the Antarctic, the temperature rarely rises above freezing point. </I><B>| at ~ </B><I>the changes that take place at freezing point </I><B>| below ~ </B><I>The temperature dropped below freezing point this afternoon. </I> </P>
+</DIV>

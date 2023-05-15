@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>ballet </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> style of dance </TT> </P>
+<P> <U> ADJ. </U><B> classical, modern </B> </P>
+<P> <U> VERB + BALLET </U><B> study </B><I>He's studying classical ballet. </I> </P>
+<P> <U> BALLET + NOUN </U><B> music | dancer | company | shoe | class, lesson, school | teacher </B> </P>
+<P> <SUP> 2 </SUP> <TT> performance of a ballet </TT> </P>
+<P> <U> ADJ. </U><B> classical, modern, romantic </B> </P>
+<P> <U> VERB + BALLET </U><B> compose, write | choreograph </B></P>
+<a href="/collocation-tag/performing" class="tag">Learn more about PERFORMING</a>
+</DIV>

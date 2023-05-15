@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>smell </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> overpowering, pervasive, pungent, rich, sharp, strong </B><I>There was an overpowering smell of burning tyres. </I><B>| faint | distinct | distinctive, particular, unmistakable | funny, peculiar, strange, unusual </B><I>What's that funny smell? </I><B>| familiar | lingering | aromatic, delectable, delicious, fragrant, fresh, lovely, nice, savoury, sweet, wonderful </B><I>the aromatic smells of a spring garden full of herbs </I><B>| warm | appalling, awful, bad, evil, horrible, nasty, offensive, terrible, unpleasant, vile | acrid, nauseating, putrid, rank, sickly </B><I>An acrid smell filled the air. </I><B>| damp, dank, musty, rancid, sour, stale </B><I>the sour smell of unwashed linen </I><B>| earthy, fishy, masculine, metallic, musky, oily, smoky, spicy | cooking </B><I>Cooking smells drifted up from the kitchen. </I> </P>
+<P> <U> VERB + SMELL </U><B> be filled with, have </B><I>The air was filled with a pervasive smell of chemicals. The cottage had a musty smell after being shut up over the winter. </I><B>| give off </B><I>The skunk gives off an unpleasant smell when attacked. </I><B>| catch, detect </B><I>As she walked into the house she detected the smell of gas. </I> </P>
+<P> <U> SMELL + VERB </U><B> come, emanate, drift, float, waft </B><I>A delicious smell of freshly baked bread wafted across the garden. </I><B>| fill sth, hang | hit sb </B><I>Then the pungent smell hit us?rotting fish and seaweed. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>the putrid smell from the slaughterhouse </I><B>| ~ of </B><I>The faint smell of her perfume hung in the air. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>smell </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> notice/identify sth by using your nose </TT> </P>
+<P> <U> ADV. </U><B> properly, well </B><I>I had a streaming cold, so I could not smell properly. </I><B>| almost </B><I>Snow fell so that you could almost smell the cold. </I> </P>
+<P> <U> VERB + SMELL </U><B> can/could </B> </P>
+<P> <SUP> 2 </SUP> <TT> have a particular smell </TT> </P>
+<P> <U> ADV. </U><B> strongly </B><I>His clothes smelled strongly of fish. </I><B>| faintly, slightly, vaguely </B><I>He smelled faintly of sweat. </I><B>| deliciously, pleasantly, sweetly </B> </P>
+<P> <U> PREP. </U><B> like </B><I>It smells like rotten meat! </I><B>| of </B><I>The kitchen smelled sweetly of herbs and fruit. </I> </P>
+</DIV>

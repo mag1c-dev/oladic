@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>compensate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> remove/reduce the bad effect of sth </TT> </P>
+<P> <U> ADV. </U><B> amply, fully | more than </B><I>The advantages of the scheme more than compensate for the risks associated with it. </I><B>| partially, partly </B> </P>
+<P> <U> PREP. </U><B> for </B> </P>
+<P> <SUP> 2 </SUP> <TT> pay money for a loss/injury </TT> </P>
+<P> <U> ADV. </U><B> adequately, properly | fully, in full </B><I>People whose health has suffered will be compensated in full. </I><B>| financially </B><I>I expect to be compensated financially. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The company will compensate you for the losses you have suffered. </I> </P>
+</DIV>

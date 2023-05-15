@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>emerge </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> come out </TT> </P>
+<P> <U> ADV. </U><B> slowly | suddenly | finally, eventually </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The world is only slowly emerging from recession. </I><B>| into </B><I>They suddenly emerged into brilliant sunshine. </I><B>| out of </B><I>the musical forms that emerged out of the American black experience </I> </P>
+<P> <SUP> 2 </SUP> <TT> become known </TT> </P>
+<P> <U> ADV. </U><B> clearly, strongly </B><I>One thing emerges very clearly from this study. </I><B>| gradually | quickly </B><I>The answer to the problem quickly emerged. </I><B>| recently | later, subsequently </B><I>It subsequently emerged that he had known about the deal all along. </I><B>| eventually, ultimately </B><I>What eventually emerged from the election disaster was a realization that it was time for change. </I> </P>
+<P> <U> VERB + EMERGE </U><B> begin to, start to </B><I>Problems with this drug are now beginning to emerge. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>Several facts started to emerge from my investigation. </I> </P>
+<P> <SUP> 3 </SUP> <TT> start to exist </TT> </P>
+<P> <U> ADV. </U><B> rapidly </B><I>The Pacific region has rapidly emerged as a leading force on the world stage. </I><B>| gradually, slowly </B> </P>
+<P> <U> PHRASES </U><B> newly emerged/emerging </B><I>newly emerging areas of science </I> </P>
+</DIV>

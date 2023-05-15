@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>feasibility </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> economic, technical </B> </P>
+<P> <U> VERB + FEASIBILITY </U><B> consider, discuss, examine, explore, investigate, look at, study | assess, determine, evaluate, test </B><I>a drilling project to assess the feasibility of bringing the water four miles into the village </I><B>| demonstrate | prove | doubt, express doubts about, question </B><I>Some of them doubted the feasibility of the proposal. </I> </P>
+<P> <U> FEASIBILITY + NOUN </U><B> study </B><I>The local council called for a feasibility study into the new road scheme. </I> </P>
+</DIV>

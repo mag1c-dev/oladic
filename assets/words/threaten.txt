@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>threaten </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> warn sb that you may hurt, kill or punish them </TT> </P>
+<P> <U> ADV. </U><B> publicly | personally, physically </B><I>He says he was physically threatened in an attempt to get him to sign over his rights. </I><B>| repeatedly </B><I>She had repeatedly threatened to commit suicide. </I><B>| allegedly, reportedly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>She threatened him with a gun. </I> </P>
+<P> <U> PHRASES </U><B> feel threatened </B><I>I never felt threatened by him. </I> </P>
+<P> <SUP> 2 </SUP> <TT> be likely to harm/destroy sth </TT> </P>
+<P> <U> ADV. </U><B> gravely, seriously, severely </B><I>social unrest which seriously threatens the stability of the whole area </I><B>| increasingly | directly | constantly, continually </B><I>Our marriage was constantly threatened by his other women. </I> </P>
+<P> <U> VERB + THREATEN </U><B> could | appear to, seem to </B> </P>
+<P> <U> PHRASES </U><B> be threatened with sth </B><I>Many species are now threatened with extinction. </I> </P>
+</DIV>

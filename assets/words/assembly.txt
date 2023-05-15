@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>assembly </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> elected group </TT> </P>
+<P> <U> ADJ. </U><B> elected, representative | consultative, general, legislative | local, national, provincial, regional, state </B> </P>
+<P> <U> VERB + ASSEMBLY </U><B> create, form, set up | elect, vote for | dissolve </B> </P>
+<P> <U> ASSEMBLY + VERB </U><B> meet </B><I>Provincial assemblies meet once a year. </I><B>| vote </B><I>The assembly voted to delay the legislation to allow further consultation to take place. </I> </P>
+<P> <U> ASSEMBLY + NOUN </U><B> member | seat </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>These issues have been discussed in the regional assemblies. </I> </P>
+<P> <U> PHRASES </U><B> a meeting/session of the assembly </B></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+<P> <SUP> 2 </SUP> <TT> group gathered together </TT> </P>
+<P> <U> ADJ. </U><B> public | peaceful | unlawful </B> </P>
+<P> <U> VERB + ASSEMBLY </U><B> hold </B><I>They demanded the right to hold peaceful assemblies. </I> </P>
+<P> <U> ASSEMBLY + NOUN </U><B> point </B><I>When the fire alarm sounds, leave the building and proceed to your assembly point. </I> </P>
+<P> <U> PHRASES </U><B> freedom of assembly, the right of assembly </B>(= the right to gather freely)  </P>
+<P> <SUP> 3 </SUP> <TT> at school </TT> </P>
+<P> <U> ADJ. </U><B> school | morning </B> </P>
+<P> <U> VERB + ASSEMBLY </U><B> conduct, have, hold </B><I>We hold an assembly every morning. </I><B>| attend, go to </B> </P>
+<P> <U> ASSEMBLY + NOUN </U><B> hall </B> </P>
+<P> <U> PREP. </U><B> at/during/in ~ </B><I>The announcement was made during morning assembly. </I> </P>
+<P> <SUP> 4 </SUP> <TT> putting parts together </TT> </P>
+<P> <U> ADJ. </U><B> easy | home </B><I>furniture designed for home assembly </I><B>| correct | final </B><I>This factory deals with final assembly and testing. </I> </P>
+<P> <U> ASSEMBLY + NOUN </U><B> line </B><I>workers on the assembly line </I><B>| plant </B><I>The company has twenty assembly plants in Europe. </I><B>| work</B> </P>
+</DIV>

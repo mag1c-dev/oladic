@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pork </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fresh | roast, smoked | organic </B> </P>
+<P> <U> QUANT. </U><B> bit, piece, slice | belly, knuckle, leg, loin, shoulder </B><I>roast leg of pork </I> </P>
+<P> <U> PORK + NOUN </U><B> chop, pie, sausage | butcher </B> </P>
+<P> <U> PHRASES </U><B> pork and apple sauce, sweet and sour pork</B> </P>
+</DIV>

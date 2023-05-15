@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>lap </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> first, opening | final, last </B> </P>
+<P> <U> VERB + LAP </U><B> complete, do, run </B> </P>
+<P> <U> LAP + NOUN </U><B> record </B><I>He set a new lap record. </I> </P>
+<P> <U> PREP. </U><B> on the &hellip; ~ </B><I>He tripped and fell on the final lap. </I> </P>
+<P> <U> PHRASES </U><B> a lap of honour </B><I>The silver medallist joined the winner in a lap of honour. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>lap </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, softly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The waves lapped gently against the side of the ship. </I><B>| around </B><I>The water lapped around his ankles. </I><B>| over </B><I>The freezing water lapped over her boots. </I> </P>
+</DIV>

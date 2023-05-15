@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>conflict </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fight/argument </TT> </P>
+<P> <U> ADJ. </U><B> big, great, major | bitter, serious, violent | growing, increasing | constant, continued, continuing, unresolved </B><I>He is in constant conflict with the authorities. </I><B>| open, overt | global, internal, regional | armed, military | civil, class, cultural, ethnic, family, industrial, political, social, religious </B> </P>
+<P> <U> VERB + CONFLICT </U><B> bring sb/sth into, cause, come into, create, lead to, provoke </B><I>His work brought him into conflict with more conventional scientists. The decision led to a bitter conflict between the management and unions. </I><B>| avert, avoid, prevent </B><I>They hid their feelings to avoid conflict. </I><B>| handle | end, resolve, settle, solve </B><I>The United Nations are hoping to resolve the conflict quickly. </I> </P>
+<P> <U> CONFLICT + VERB </U><B> arise (from sth), occur </B><I>The conflict arose from different ambitions within the team. </I> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>Thousands have been arrested in violent ethnic conflicts in the region. </I><B>| in ~ </B><I>They found themselves in conflict over the future of the firm. </I><B>| in ~ with </B><I>in conflict with management </I><B>| ~ about/over </B><I>a conflict over ownership of the land </I><B>| ~ between </B><I>conflicts between different ethnic groups </I><B>| ~ with </B><I>to end the conflict with France </I><B>| ~ within </B><I>serious conflicts within the ruling party </I> </P>
+<P> <U> PHRASES </U><B> an area/a source of conflict, in direct conflict with sb </B> </P>
+<P> <SUP> 2 </SUP> <TT> difference between ideas/wishes, etc. </TT> </P>
+<P> <U> ADJ. </U><B> fundamental, serious, sharp | direct | inherent </B><I>the inherent conflict between the demands of farmers and wishes of environmentalists </I><B>| inner | ideological </B> </P>
+<P> <U> CONFLICT + NOUN </U><B> situation | management, resolution </B><I>the key to successful conflict management </I> </P>
+<P> <U> PREP. </U><B> in ~ with </B><I>in direct conflict with his wishes </I><B>| ~ between </B><I>the conflict between science and religion </I><B>| ~ of </B><I>a serious conflict of opinion </I> </P>
+<P> <U> PHRASES </U><B> a conflict of interests/loyalties</B> </P>
+</DIV><DIV class="item"><P class="word"><B>conflict </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> apparently </B><I>how to reconcile apparently conflicting goals </I><B>| potentially </B><I>potentially conflicting values </I> </P>
+<P> <U> PREP. </U><B> with </B><I>His opinions conflicted with mine. </I> </P>
+</DIV>

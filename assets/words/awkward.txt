@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>awkward </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> difficult </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | make sth </B> </P>
+<P> <U> ADV. </U><B> extremely, very | a bit, rather, slightly, somewhat </B><I>She asked some rather awkward questions. </I> </P>
+<P> <U> PHRASES </U><B> make things awkward </B><I>He could make things very awkward for me if he wanted to. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not relaxed </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look | become | make sb </B><I>He was embarrassed, which made him awkward. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | a bit, rather | painfully </B><I>As a teenager he was painfully awkward in company. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>They felt awkward about having to leave so soon. </I><B>| with </B><I>She is awkward with people she doesn't know. </I> </P>
+</DIV>

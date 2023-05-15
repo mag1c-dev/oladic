@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>hotline </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> 24-hour | information, technical support, ticket | credit card | telephone </B> </P>
+<P> <U> VERB + HOTLINE </U><B> call, dial, phone, ring </B><I>Dial our 24-hour hotline to find out if you have won a prize. </I><B>| establish, set up </B><I>A telephone hotline has been set up to give information about the changed train services. </I><B>| operate, run </B><I>The company will be operating an information hotline that customers can call if they are worried about products. </I> </P>
+</DIV>

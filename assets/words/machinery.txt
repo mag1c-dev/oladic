@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>machinery </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | complex, complicated, elaborate, sophisticated | electrical | agricultural, construction, farm, industrial, manufacturing, office, textile </B> </P>
+<P> <U> QUANT. </U><B> piece </B><I>large and complex pieces of machinery </I> </P>
+<P> <U> VERB + MACHINERY </U><B> maintain, service | install, set up | control, drive, operate | renew, replace, update | house </B><I>The machinery is housed in a special building. </I> </P>
+<P> <U> MACHINERY + VERB </U><B> drive sth, work sth | break down | hum </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>machinery for grinding wheat </I> </P>
+<P> <U> PHRASES </U><B> the hum of machinery</B> </P>
+</DIV>

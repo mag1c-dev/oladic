@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>suitable </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, prove, seem, sound | make sth </B><I>The exercise-with-answer-key format makes the book suitable for self-study. </I><B>| consider sth, deem sth </B><I>These properties are considered especially suitable for older people. </I> </P>
+<P> <U> ADV. </U><B> eminently, especially, highly, particularly, very | perfectly | quite | not entirely, not quite, not really </B><I>This holiday is not really suitable for wheelchair users. </I><B>| not necessarily | hardly, scarcely | potentially | equally </B><I>There are many other training courses that would be equally suitable. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>not suitable as a word-processing program </I><B>| for </B><I>The walk is suitable for all the family. </I><B>| to </B><I>conditions suitable to their development </I> </P>
+</DIV>

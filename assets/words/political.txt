@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>political </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> highly, very </B><I>This whole issue has become highly political. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>political asylum </B><I>noun</I> </B> </P>
+<P> <U> VERB + POLITICAL ASYLUM </U><B> apply for, ask for, claim, demand, seek | grant sb, offer sb </B> </P>
+<P> <U> PHRASES </U><B> an application for political asylum</B> </P>
+</DIV>

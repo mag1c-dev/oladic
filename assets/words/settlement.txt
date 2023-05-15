@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>settlement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> agreement </TT> </P>
+<P> <U> ADJ. </U><B> early, speedy | final | lasting, long-term | temporary | amicable, friendly, peaceful | just, reasonable, satisfactory | compromise | negotiated | constitutional, diplomatic, financial, political | compensation, divorce, marriage | out-of-court | peace | pay, wage </B><I>Nurses refused to accept a pay settlement less than the rate of inflation. </I><B>| dispute </B> </P>
+<P> <U> VERB + SETTLEMENT </U><B> agree, reach </B><I>Both parties hope to reach an amicable settlement. </I><B>| negotiate, produce </B><I>The union has negotiated a temporary settlement. </I><B>| seek </B><I>Lawyers are seeking an out-of-court settlement. </I><B>| offer </B> </P>
+<P> <U> PHRASES </U><B> the terms of the settlement </B> </P>
+<P> <SUP> 2 </SUP> <TT> payment of debt, etc. </TT> </P>
+<P> <U> ADJ. </U><B> prompt, speedy | early | full </B><I>full settlement of a debt </I><B>| cash | debt </B> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>a cheque in settlement of the amount owing </I><B>| under a/the ~ </B><I>a beneficiary under the settlement </I> </P>
+<P> <SUP> 3 </SUP> <TT> place where people have come to live </TT> </P>
+<P> <U> ADJ. </U><B> ancient, early | land | agricultural, rural </B> </P>
+<P> <U> VERB + SETTLEMENT </U><B> establish, found </B><I>The Romans established a settlement on the south shore. </I> </P>
+<P> <U> SETTLEMENT + VERB </U><B> grow up </B><I>A settlement grew up around the castle. </I> </P>
+<P> <U> SETTLEMENT + NOUN </U><B> site</B> </P>
+</DIV>

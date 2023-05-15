@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>concept </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> basic, simple | broad, general, overall, wider </B><I>&lsquo;Mental handicap&rsquo; should be replaced with the broader concept of &lsquo;learning difficulties&rsquo;. </I><B>| entire, whole </B><I>The whole concept of responsibility was alien to him. </I><B>| central, core, essential, fundamental, important, key | clear, precise | ambiguous, elusive, nebulous, vague </B><I>The concept of &lsquo;adequate medical care&rsquo; is too vague. </I><B>| complex, difficult, sophisticated | abstract, intellectual, theoretical | alien, bizarre | underlying | useful | modern, new, novel | old-fashioned, traditional | business, design, economic, historical, legal, mathematical, political, psychological, religious, scientific </B> </P>
+<P> <U> VERB + CONCEPT </U><B> have </B><I>Teachers should have a clear concept of what a multiracial society is. </I><B>| grasp, understand </B><I>She finds it difficult to grasp abstract concepts. </I><B>| define, formulate, frame </B><I>the need to create new words to frame new concepts </I><B>| introduce | develop </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He formulated the concept of imaginary time. </I> </P>
+</DIV>

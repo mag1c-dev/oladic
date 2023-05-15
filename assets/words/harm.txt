@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>harm </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great, serious, untold </B><I>He was clearly intent on inflicting serious harm on someone. </I><B>| irreparable, lasting, permanent | emotional, mental, physical, psychological </B><I>elderly people in danger of physical or emotional harm </I><B>| economic, environmental </B> </P>
+<P> <U> VERB + HARM </U><B> cause, do, inflict </B><I>The huge fall in exports has done a great deal of harm to the economy. </I><B>| mean (sb), wish sb </B><I>I'm sorry if I upset you?I didn't mean any harm. No one wishes you harm. </I><B>| come to, suffer </B><I>I don't think he'll come to any harm if his mother is with him. </I><B>| keep sb from, prevent, protect sb from, shield sb from </B><I>The children were removed from their parents to prevent harm to them. She tried to shield her child from harm. </I> </P>
+<P> <U> HARM + VERB </U><B> come to sb/sth </B><I>I don't want any harm to come to these pictures. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>babies at risk of serious harm from their parents </I><B>| ~ to </B><I>the harm done to the environment </I> </P>
+<P> <U> PHRASES </U><B> more harm than good </B><I>The drugs he was prescribed did him more harm than good. </I><B>| out of harm's way </B><I>The younger children were kept out of harm's way. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>harm </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> seriously </B><I>Misusing drugs in pregnancy can seriously harm your baby. </I><B>| deliberately | physically </B> </P>
+<P> <U> VERB + HARM </U><B> intend to, want to </B><I>He claimed that he had not intended to harm the girl. </I><B>| try to</B> </P>
+</DIV>

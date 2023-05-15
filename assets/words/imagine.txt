@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>imagine </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> form a picture of sth in your mind </TT> </P>
+<P> <U> ADV. </U><B> clearly, easily, readily </B><I>I could clearly imagine the scene in the office. </I><B>| hardly, scarcely </B><I>I could hardly imagine living in such a remote and desolate spot. </I><B>| just </B><I>She could just imagine her mother's look of horror. </I><B>| actually </B><I>I can't actually imagine her falling for that trick. </I><B>| always </B><I>I always imagined him following in his father's footsteps. </I><B>| fondly, naively </B><I>I had fondly imagined that riding a mule would be easy. </I> </P>
+<P> <U> VERB + IMAGINE </U><B> can/could (well) </B><I>I can well imagine the atmosphere at home at this moment. </I><B>| can/could not (possibly) </B><I>There's more at stake here than you can possibly imagine. </I><B>| try to | be difficult to, be hard to, be impossible to </B><I>It is difficult to imagine Blackpool without its famous Tower. </I><B>| be easy to </B> </P>
+<P> <U> PHRASES </U><B> let us imagine </B><I>Let us imagine what really might have happened. </I> </P>
+<P> <SUP> 2 </SUP> <TT> see/hear/think sth that is not true/does not exist </TT> </P>
+<P> <U> ADV. </U><B> really, seriously </B><I>You don't seriously imagine I'll agree to that? </I><B>| almost </B><I>I could almost imagine you were jealous. </I><B>| actually | fondly, naively </B> </P>
+<P> <U> VERB + IMAGINE </U><B> be easy to </B> </P>
+<P> <U> PHRASES </U><B> be imagining things </B><I>Had I really heard a noise, or was I just imagining things? </I><B>| real or imagined </B><I>He was always keen to avenge insults, real or imagined. </I> </P>
+</DIV>

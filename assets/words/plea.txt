@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>plea </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> request </TT> </P>
+<P> <U> ADJ. </U><B> desperate, dramatic, strong, urgent | heartfelt, impassioned, passionate | repeated | personal </B> </P>
+<P> <U> VERB + PLEA </U><B> make | ignore </B> </P>
+<P> <U> PREP. </U><B> despite a/the ~, in spite of a/the ~ </B><I>Despite pleas from his mother, the gunman refused to give himself up. </I><B>| ~ by/from </B><I>Hospital visiting hours were extended in response to pleas from patients. </I><B>| ~ for </B><I>The director of the charity made an impassioned plea for help. </I> </P>
+<P> <SUP> 2 </SUP> <TT> statement in court </TT> </P>
+<P> <U> ADJ. </U><B> guilty | not guilty </B> </P>
+<P> <U> VERB + PLEA </U><B> enter | hear | change | accept, sustain </B><I>The prosecution accepted a plea of manslaughter. </I><B>| support | reject </B> </P>
+<P> <U> PLEA + NOUN </U><B> bargain, bargaining </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>A senior judge heard a plea for damages on behalf of the accident victims. </I><B>| ~ of </B><I>Her solicitor entered a plea of guilty on her behalf. </I> </P>
+</DIV>

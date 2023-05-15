@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>divorce </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> amicable, uncontested | acrimonious, bitter | messy, painful | quick </B> </P>
+<P> <U> VERB + DIVORCE </U><B> want | apply for, ask for, file for, petition for, seek, sue for, want </B><I>She filed for divorce in 1996. </I><B>| get, obtain </B><I>He told her that he was married but getting a divorce. </I><B>| experience, go through </B><I>She watched her parents go through an acrimonious divorce. </I><B>| agree to, consent to | contest </B><I>These days divorce is rarely contested. </I><B>| grant (sb) </B><I>Over 50,000 divorces were granted last year. </I><B>| refuse sb | end in </B><I>An increasing number of marriages end in divorce. </I> </P>
+<P> <U> DIVORCE + VERB </U><B> come through </B><I>He is waiting for the divorce to come through before he remarries. </I> </P>
+<P> <U> DIVORCE + NOUN </U><B> court | case, proceedings | decree, settlement | figures, rate, statistics </B><I>The divorce rate has been growing steadily since 1971. </I><B>| law </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>her divorce from the pop star </I><B>| ~ on the grounds of </B><I>seeking a divorce on the grounds of cruelty </I> </P>
+<P> <U> PHRASES </U><B> grounds for divorce </B><I>He cited adultery as grounds for divorce. </I> </P>
+</DIV>

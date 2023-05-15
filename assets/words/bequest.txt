@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>bequest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> generous, large, substantial </B><I>The library has received a generous bequest from a local businessman. </I><B>| small | charitable </B> </P>
+<P> <U> VERB + BEQUEST </U><B> leave (sb), make (sb) </B><I>In his will he made a substantial bequest to his wife. </I><B>| receive </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The picture was acquired by bequest in 1921. </I><B>| ~ from </B><I>a bequest from the late Jack Dawkins </I><B>| ~ to</B> </P>
+</DIV>

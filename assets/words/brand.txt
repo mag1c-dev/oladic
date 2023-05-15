@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>brand </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> type of product made by a particular manufacturer </TT> </P>
+<P> <U> ADJ. </U><B> leading, major, principal, top </B><I>the world's leading brand of whisky </I><B>| famous, favourite, popular, well-known | own </B>(= goods marked with the name of a particular shop instead of that of the manufacturer) <I>Supermarkets make a lot of profit on their own brand products. </I> </P>
+<P> <U> BRAND + NOUN </U><B> identity, image, name </B><I>The company owes its success to brand image. </I><B>| leader | loyalty </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a well-known brand of toothpaste </I> </P>
+<P> <SUP> 2 </SUP> <TT> particular type of sth </TT> </P>
+<P> <U> ADJ. </U><B> particular, special, unique </B><I>His designs have a unique brand of stylishness. </I><B>| ~ of </B><I>his particular brand of humour </I> </P>
+</DIV>

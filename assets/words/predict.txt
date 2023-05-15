@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>predict </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> accurately, correctly, reliably, successfully, with accuracy/certainty </B><I>It is not possible to predict with any certainty what effect this will have. </I><B>| exactly, precisely | confidently | wrongly </B> </P>
+<P> <U> VERB + PREDICT </U><B> be able/unable to, can/could | try to | dare (to) </B><I>Few would have dared to predict such a landslide victory. </I><B>| fail to | be difficult to, be hard to, be impossible to | be easy to, be possible to | use sth to </B><I>a computer model used to predict future weather patterns </I><B>| allow sb to, enable sb to </B><I>Newton's theories allow us to predict the flight of a cricket ball. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>We can predict from this information what is likely to happen next. </I> </P>
+<P> <U> PHRASES </U><B> be widely predicted </B><I>This result had been widely predicted by the opinion polls. </I> </P>
+</DIV>

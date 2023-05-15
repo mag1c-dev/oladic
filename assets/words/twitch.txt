@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>twitch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> nervous | slight </B><I>His mouth gave a slight twitch. </I><B>| involuntary | muscle, muscular </B> </P>
+<P> <U> VERB + TWITCH </U><B> have </B><I>He has a twitch in his right eye. </I><B>| develop | give</B> </P>
+</DIV><DIV class="item"><P class="word"><B>twitch </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> convulsively, violently </B><I>The body twitched violently and then lay still. </I><B>| uncontrollably | a little, slightly | nervously </B><I>Her fingers twitched nervously. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>His shoulders twitched with suppressed laughter. </I> </P>
+</DIV>

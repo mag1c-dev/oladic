@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>hardware </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a computer </TT> </P>
+<P> <U> ADJ. </U><B> computer </B> </P>
+<P> <U> QUANT. </U><B> piece </B><I>The laptop drawing tablet is a very useful piece of hardware. </I> </P>
+<P> <U> VERB + HARDWARE </U><B> design, develop | provide, supply </B><I>supplying computer hardware to business </I> </P>
+<P> <U> HARDWARE + NOUN </U><B> component, device, product | environment, platform, system </B><I>This application runs on a wide variety of hardware platforms. </I><B>| configuration | design, development | company, manufacturer, supplier, vendor </B>&gt; Special page at COMPUTER </B> </P>
+<P> <SUP> 2 </SUP> <TT> heavy machinery/weapons </TT> </P>
+<P> <U> ADJ. </U><B> military </B><I>firms selling military hardware </I> </P>
+</DIV>

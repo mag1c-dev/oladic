@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>breeding </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> activity of producing plants/animals </TT> </P>
+<P> <U> ADJ. </U><B> animal, fish, plant | selective </B><I>Certain characteristics can be developed through selective breeding. </I><B>| captive </B><I>a campaign to save the condor by captive breeding </I> </P>
+<P> <U> BREEDING + NOUN </U><B> season | stock | programme </B> </P>
+<P> <SUP> 2 </SUP> <TT> good manners/behaviour </TT> </P>
+<P> <U> ADJ. </U><B> good </B><I>Her good breeding shows in her exquisite manners. </I> </P>
+<P> <U> VERB + BREEDING </U><B> have </B><I>The young man clearly has breeding. </I> </P>
+</DIV>

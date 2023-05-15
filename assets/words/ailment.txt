@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>ailment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> common, minor, trivial | chronic, serious | childhood | physical | chest, heart, stomach </B> </P>
+<P> <U> VERB + AILMENT </U><B> be afflicted with, get, have, suffer from </B><I>I got all the usual childhood ailments. </I><B>| cure, treat | cause</B> </P>
+</DIV>

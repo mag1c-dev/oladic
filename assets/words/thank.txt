@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>thank </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gratefully, profusely, properly, sincerely, warmly </B><I>I would like to thank you all most sincerely. He thanked her warmly for the meal. </I><B>| politely | personally | publicly </B> </P>
+<P> <U> VERB + THANK </U><B> must, want to, would like to </B><I>I wanted to thank him personally. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>I haven't thanked Bill properly yet for his present. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>thank you </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, special | polite </B> </P>
+<P> <U> VERB + THANK YOU </U><B> give, say </B><I>He didn't even say thank you. We said our thank yous and goodbyes to the hosts and went to catch a cab. </I><B>| get </B> </P>
+<P> <U> THANK YOU + NOUN </U><B> letter, present </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She got a special thank you for all her hard work. </I><B>| ~ to </B><I>a big thank you to the hospital staff </I> </P>
+</DIV>

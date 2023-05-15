@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mortar </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy </B><I>They could not move their heavy mortars over the swampy ground. </I> </P>
+<P> <U> VERB + MORTAR </U><B> be armed with, have </B><I>Their troops were armed with mortars and machine guns. </I><B>| fire </B> </P>
+<P> <U> MORTAR + VERB </U><B> burst, explode </B><I>The occasional mortar burst near our truck. </I><B>| hit sth </B> </P>
+<P> <U> MORTAR + NOUN </U><B> attack, fire </B><I>We were under constant mortar fire. </I><B>| bomb, shell </B><I>hit by a mortar shell </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>city </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, large, major | small | great </B><I>Rome is one of the great cities of the world. </I><B>| ancient, historic, old | beautiful | industrial | cosmopolitan | coastal | home, native </B><I>Her native city is Tokyo. </I><B>| capital | provincial | cathedral, university | walled </B><I>the old walled city of York </I><B>| twin </B><I>Bonn is Oxford's twin city. </I> </P>
+<P> <U> VERB + CITY </U><B> build, found </B> </P>
+<P> <U> CITY + VERB </U><B> grow </B><I>The city grew rapidly in the nineteenth century. </I><B>| flourish </B> </P>
+<P> <U> CITY + NOUN </U><B> dweller | centre, street </B><I>Parking is difficult in the city centre. </I><B>| council | life </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>We live in a big city. </I><B>| outside a/the ~ </B><I>There's a park just outside the city. </I> </P>
+<P> <U> PHRASES </U><B> the centre/middle/heart of a city, the edge/outskirts of a city</B> </P>
+</DIV>

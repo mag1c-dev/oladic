@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>opposed </B><I>adj. </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> opposed to disagreeing strongly with sth  </TT> </P>
+<P> <U> VERBS </U><B> be | remain </B> </P>
+<P> <U> ADV. </U><B> adamantly, bitterly, deeply, fiercely, firmly, fundamentally, implacably, profoundly, resolutely, strongly, vehemently, very (much), violently | absolutely, categorically, completely, directly, totally, utterly, wholly | largely | actively, openly, publicly </B><I>the party most openly opposed to military rule </I> </P>
+<P> <SUP> 2 </SUP> <TT> very different from sth </TT> </P>
+<P> <U> VERBS </U><B> be, seem, stand | remain </B> </P>
+<P> <U> ADV. </U><B> completely, diametrically, directly, entirely, fundamentally, utterly </B><I>Our views are diametrically opposed on this issue. </I><B>| mutually </B><I>The two sets of values seemed mutually opposed. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The path he saw himself taking in his research seemed directly opposed to the ethos of the department. </I> </P>
+</DIV>

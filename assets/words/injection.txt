@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>injection </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of injecting sb </TT> </P>
+<P> <U> ADJ. </U><B> intramuscular, intravenous | anti-tetanus/tetanus, flu, pain-killing | insulin, penicillin, etc. | booster </B><I>Can I bring my dog in for his booster injection? </I><B>| lethal </B><I>In some US states execution is by lethal injection. </I><B>| regular | daily </B> </P>
+<P> <U> VERB + INJECTION </U><B> have </B><I>He had to have a tetanus injection after injuring himself with a shovel. </I><B>| administer, give sb, perform </B><I>They gave her an injection to stop the pain. </I><B>| receive </B><I>The rats received a daily injection of the drug. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The best treatment is antibiotics, preferably by injection. </I><B>| ~ against </B><I>an injection against whooping cough </I><B>| ~ for </B><I>injections for diabetes </I><B>| ~ in/into </B><I>an injection into the vein </I><B>| ~ with </B><I>Both groups received a second injection with the same solution. </I> </P>
+<P> <SUP> 2 </SUP> <TT> money </TT> </P>
+<P> <U> ADJ. </U><B> massive, substantial | much-needed | capital, cash </B><I>An undisclosed buyer will provide a much-needed cash injection for the fragile balance sheet. </I> </P>
+<P> <U> VERB + INJECTION </U><B> need, require | give sth, provide (sth with) | receive </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a cash injection from the Belgian state </I><B>| ~ into </B><I>an injection of cash into the economy </I> </P>
+<P> <U> PHRASES </U><B> an injection of capital/cash/money/resources </B><I>The company had reached the size where it needed an injection of capital. </I> </P>
+</DIV>

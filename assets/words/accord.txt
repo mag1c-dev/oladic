@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>accord </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> draft | peace, trade </B> </P>
+<P> <U> VERB + ACCORD </U><B> draw up, negotiate, reach </B><I>A peace accord was reached on 26 March. </I><B>| endorse, ratify, sign </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>a trade accord between Europe and the United States </I><B>| ~ on </B><I>an accord on environmental protection </I><B>| ~ with </B><I>They signed a trade accord with the Americans. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>accord </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully </B> </P>
+<P> <U> PREP. </U><B> with </B><I>His version of events does not accord fully with the facts. </I> </P>
+</DIV>

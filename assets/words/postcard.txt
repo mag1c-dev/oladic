@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>postcard </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> picture | holiday </B> </P>
+<P> <U> VERB + POSTCARD </U><B> write </B><I>I hate writing holiday postcards. </I><B>| post, send (sb) | get, receive </B> </P>
+<P> <U> POSTCARD + VERB </U><B> arrive | depict sth, show sth </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Write your answers on a postcard. </I><B>| ~ from, ~ of </B><I>I sent my mum a postcard of the cathedral. </I><B>| ~ to</B> </P>
+</DIV>

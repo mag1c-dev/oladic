@@ -1,0 +1,8 @@
+
+<div class="item"><p class="word first"><b>sabbath </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> Jewish, Muslim, etc. </b></div></p>
+<p> <u> VERB + SABBATH </u><div class="ex"><b> keep, observe | break </b></div></p>
+<p> <u> SABBATH + NOUN </u><div class="ex"><b> day | rest </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> on the ~ </b></div><div class="excontent"><i>It was considered a sin to work or play on the Sabbath. </i> </div></p>
+<p> <u> PHRASES </u><div class="ex"><b> observance of the Sabbath </b></div><div class="excontent"><i>The speaker advocated a less austere observance of the Sabbath. </i> </div></p>
+</div>

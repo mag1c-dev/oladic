@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>network </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> extensive, large, vast, wide, widespread | complex, elaborate, intricate | dense | strong </B><I>a strong network of friends </I><B>| supportive | global, local, national, worldwide | communications, telephone | bus, motorway, rail, railway, road | social | news, radio, television | computer | distribution, support | integrated </B> </P>
+<P> <U> VERB + NETWORK </U><B> build up, create, establish, form, set up </B><I>They are establishing a network of pumps and pipelines to move the oil. </I><B>| form </B><I>The new rail services will form a network connecting the capital and major cities. </I><B>| run </B><I>They were unable to run the telephone network economically. </I><B>| manage </B><I>software to help you manage your network </I> </P>
+<P> <U> PREP. </U><B> across a/the ~ </B><I>Users can access data across a network. </I><B>| in a/the ~ </B><I>Members are all linked together in a network. </I><B>| on a/the ~ </B><I>All computer users are connected on a network. </I><B>| over a/the ~ </B><I>The files are accessible over a network. </I><B>| through a/the ~ </B><I>Drinking water is brought to the village through a network of underground pipes. </I><B>| via a/the ~ </B><I>The newspapers are sent out via a national distribution network. </I><B>| ~ of </B><I>a network of motorways </I></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+</DIV>

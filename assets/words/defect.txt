@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>defect </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fundamental, important, major, serious </B><I>a fundamental defect in the product </I><B>| minor, slight, small </B><I>Goods with slight defects are sold at half price. </I><B>| building, mechanical, structural | birth, congenital, genetic </B><I>All lambs are checked for birth defects when they are born. </I><B>| eye, heart, physical, sight, speech, visual | character </B> </P>
+<P> <U> VERB + DEFECT </U><B> contain, have, suffer from </B><I>The book contains serious defects. He has a congenital heart defect. </I><B>| find </B><I>The inspector found defects in the aircraft's construction. </I><B>| correct, cure, remedy, repair </B><I>This is a physical defect that cannot be cured. The builders agreed to remedy the structural defects. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>major defects in the education system </I><B>| ~ of </B><I>a defect of her character </I> </P>
+</DIV>

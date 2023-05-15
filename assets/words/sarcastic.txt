@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>sarcastic </b><i>adj. </i> </p>
+<p> <u> VERBS </u><div class="ex"><b> be | become, get </b></div></p>
+<p> <u> ADV. </u><div class="ex"><b> extremely, very | faintly, lightly, mildly, slightly, somewhat </b></div><div class="excontent"><i>His tone was lightly sarcastic. </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> about </b></div><div class="excontent"><i>He was very sarcastic about my attempts at telling jokes. </i> </div></p>
+</div>

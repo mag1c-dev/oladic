@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>accident </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> unexpected event that causes damage/injury </TT> </P>
+<P> <U> ADJ. </U><B> dreadful, horrific, major, nasty, serious, terrible, tragic, unfortunate | fatal </B><I>a fatal road accident </I><B>| minor, slight | freak </B><I>Their boat sank in a freak accident. </I><B>| near </B>(= that nearly happens, but does not) <B>| hit-and-run | aircraft, canoeing, car, climbing, flying, industrial, motor, nuclear, road, traffic, etc. </B> </P>
+<P> <U> VERB + ACCIDENT </U><B> be involved in, have, meet with </B><I>She met with an accident while on holiday in Spain. </I><B>| cause | prevent | survive </B> </P>
+<P> <U> ACCIDENT + VERB </U><B> happen, occur, take place </B> </P>
+<P> <U> ACCIDENT + NOUN </U><B> prevention | rates, statistics </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B> </P>
+<P> <U> PHRASES </U><B> an accident involving </B><I>He was badly hurt in an accident involving two cars and a lorry. </I><B>| the scene of the accident </B><I>The ambulance took only six minutes to reach the scene of the accident. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth not planned in advance </TT> </P>
+<P> <U> ADJ. </U><B> pure, sheer </B><I>By pure accident he had come across the very man who could solve the mystery. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>We met by accident at the airport. </I> </P>
+<P> <U> PHRASES </U><B> be no accident that &hellip; </B><I>It is no accident that men fill most of the top jobs. </I><B>| by accident or design </B><I>It happened, whether by accident or design, that Steve and I were the last two people to leave. </I> </P>
+</DIV>

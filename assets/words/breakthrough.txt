@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>breakthrough </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, crucial, great, historic, important, major, real, significant | diplomatic, medical, political, scientific, technological </B> </P>
+<P> <U> VERB + BREAKTHROUGH </U><B> be, represent | achieve, make </B><I>We have achieved a real breakthrough in the search for peace. </I> </P>
+<P> <U> BREAKTHROUGH + VERB </U><B> come, happen </B><I>The crucial breakthrough came almost by accident. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The new deal represents a major breakthrough for the company. </I><B>| ~ in </B><I>a significant breakthrough in computer design </I> </P>
+</DIV>

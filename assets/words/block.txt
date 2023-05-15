@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>block </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> solid piece of sth </TT> </P>
+<P> <U> ADJ. </U><B> big, huge, large, massive | small | solid | concrete, stone, wooden | building | starting (for a runner) </B><I>aiming to be first out of the starting blocks </I><B>| breeze </B> </P>
+<P> <SUP> 2 </SUP> <TT> large building divided into offices/flats </TT> </P>
+<P> <U> ADJ. </U><B> high-rise, tower | administration, apartment, cell, office </B><I>The prisoners had been transferred to a different cell block. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She lives in a modern apartment block. </I><B>| ~ of </B><I>a block of flats </I> </P>
+<P> <SUP> 3 </SUP> <TT> temporary loss of abilities </TT> </P>
+<P> <U> ADJ. </U><B> mental, writer's </B><I>The author denies that she is experiencing writer's block. </I> </P>
+<P> <U> VERB + BLOCK </U><B> experience, have, suffer from </B><I>I suddenly had a mental block and couldn't remember his name. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>block </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make it difficult to pass </TT> </P>
+<P> <U> ADV. </U><B> completely | almost | partially, partly | off, up </B><I>The old route is completely blocked off. Don't block up the corridor with all these boxes. </I> </P>
+<P> <U> VERB + BLOCK </U><B> try to | move to </B><I>One of the men moved to block their path. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The exit was blocked with beer crates. </I> </P>
+<P> <SUP> 2 </SUP> <TT> prevent sth being done </TT> </P>
+<P> <U> ADV. </U><B> successfully | effectively </B><I>The new rules would effectively block protesters' attempts to assert their rights. </I> </P>
+<P> <U> VERB + BLOCK </U><B> attempt to, seek to, try to | move to </B><I>The group has moved to block the government's proposals. </I><B>PHRASAL VERBS block sth out </B> </P>
+<P> <U> ADV. </U><B> completely </B><I>Black clouds had completely blocked out the sun. </I><B>| almost</B> </P>
+</DIV>

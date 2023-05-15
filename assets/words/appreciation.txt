@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>appreciation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> understanding and enjoyment of sth </TT> </P>
+<P> <U> ADJ. </U><B> deep, fine, great, real | aesthetic </B> </P>
+<P> <U> VERB + APPRECIATION </U><B> have </B><I>They have little appreciation of the arts. </I><B>| show | cultivate, develop, gain </B><I>I have now developed an appreciation of poetry. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She gazed in appreciation at the scene. </I> </P>
+<P> <SUP> 2 </SUP> <TT> feeling of being grateful for sth </TT> </P>
+<P> <U> ADJ. </U><B> deep, genuine, heartfelt </B> </P>
+<P> <U> VERB + APPRECIATION </U><B> express, show </B><I>I would like to express my appreciation and thanks to you all. </I> </P>
+<P> <U> PREP. </U><B> in ~ (of) </B><I>I'll be sending them a donation in appreciation of their help. </I><B>| with ~ </B><I>&lsquo;Thank you,&rsquo; she murmured, with heartfelt appreciation. </I><B>| ~ for </B><I>his appreciation for all the work she had done </I> </P>
+<P> <U> PHRASES </U><B> a lack of appreciation, (as) a token of your appreciation </B><I>As a token of our appreciation we would like to offer you this small gift. </I> </P>
+<P> <SUP> 3 </SUP> <TT> understanding of what sth involves </TT> </P>
+<P> <U> ADJ. </U><B> better, clear, deep, full, great, keen, real, wider | growing </B><I>There is a growing appreciation of the need for change. </I> </P>
+<P> <U> VERB + APPRECIATION </U><B> have | gain </B><I>The course helped me to gain a deeper appreciation of what scientific research involves. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She had no appreciation of the difficulties we were facing. </I> </P>
+</DIV>

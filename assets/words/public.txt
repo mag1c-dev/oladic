@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>public </B><I>noun </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> the public people in general  </TT> </P>
+<P> <U> ADJ. </U><B> general </B> </P>
+<P> <U> VERB + PUBLIC </U><B> inform </B><I>The government was slow to inform the public about the health hazards of lead in petrol. </I><B>| protect | serve | be open to </B><I>The house is open to the public at weekends. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He rarely appears in public these days. </I> </P>
+<P> <U> PHRASES </U><B> a member of the public </B> </P>
+<P> <SUP> 2 </SUP> <TT> group of people with sth in common </TT> </P>
+<P> <U> ADJ. </U><B> book-buying, paying, reading, sporting, theatre-going, travelling, viewing, etc. </B><I>Satellite television has provided the viewing public with a wide choice of programmes. </I><B>| larger, wider </B><I>Her work is now available to a wider public. </I> </P>
+</DIV>

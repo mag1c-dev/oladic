@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>rice </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brown, white | boiled, fried | sticky | long/short-grain | wild | polished | creamed </B> </P>
+<P> <U> QUANT. </U><B> grain | bag, packet, sack | bowl </B> </P>
+<P> <U> VERB + RICE </U><B> cultivate, grow, produce | harvest | boil, cook | drain, strain </B> </P>
+<P> <U> RICE + NOUN </U><B> crop, production | farmer, grower, producer | field, paddy | cake, pudding, salad, wine | dish </B><I>a spicy rice dish </I> </P>
+</DIV>

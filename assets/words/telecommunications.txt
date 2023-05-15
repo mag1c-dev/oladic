@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>telecommunications </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> global, international, national, world | public </B><I>a public telecommunications system </I><B>| digital </B> </P>
+<P> <U> TELECOMMUNICATIONS + NOUN </U><B> infrastructure, link, network, services, system </B><I>modernizing their postal and telecommunications networks </I><B>| equipment, products, satellite, technology | company, firm, giant </B><I>(informal)</I>, <B>group, operator </B><I>Japan's telecommunications giant, NTT </I><B>| business, industry, market, sector</B> </P>
+</DIV>

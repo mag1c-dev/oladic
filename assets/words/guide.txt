@@ -1,0 +1,28 @@
+
+<DIV class="item"><P class="word"><B>guide </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that helps you plan what you are going to do </TT> </P>
+<P> <U> ADJ. </U><B> approximate, rough | accurate </B> </P>
+<P> <U> VERB + GUIDE </U><B> give (sb), provide (sb with) | use sth as </B><I>Use the table below as a guide to how much washing powder to use. </I> </P>
+<P> <U> PREP. </U><B> ~ as to </B><I>These figures give a rough guide as to the sales we can expect. </I><B>| ~ to </B> </P>
+<P> <SUP> 2 </SUP> <TT> book that gives information about a subject </TT> </P>
+<P> <U> ADJ. </U><B> essential, good, helpful, informative, invaluable, practical, reliable, useful, valuable | brief, quick, short, simple | complete, comprehensive, definitive, in-depth </B><I>This book is the definitive guide to world cuisine. </I><B>| step-by-step </B><I>a step-by-step guide to creating your own website </I><B>| reference </B><I>The book contains a quick reference guide to essential grammar at the back. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>a guide to British birds </I> </P>
+<P> <SUP> 3 </SUP> <TT> person </TT> </P>
+<P> <U> ADJ. </U><B> tour, tourist </B><I>Our tour guide showed us around the old town. </I> </P>
+<P> <U> VERB + GUIDE </U><B> act as, be </B><I>He agreed to go with them and act as their guide. </I> </P>
+<P> <SUP> 4 </SUP> <TT> book for tourists </TT> </P>
+<P> <U> ADJ. </U><B> holiday, travel | hotel | street </B> </P>
+<P> <U> VERB + GUIDE </U><B> consult </B><I>We consulted our guides as we walked around the cathedral. </I><B>| write | publish</B> </P>
+</DIV><DIV class="item"><P class="word"><B>guide </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> influence sb's behaviour </TT> </P>
+<P> <U> ADV. </U><B> firmly </B> </P>
+<P> <U> VERB + GUIDE </U><B> help (to) </B><I>the information and data which help guide the affairs of the business </I><B>| try to </B> </P>
+<P> <U> PREP. </U><B> into </B><I>the ways in which young people are guided into employment </I><B>| on </B><I>Schools were firmly guided on the details of the curriculum </I> </P>
+<P> <SUP> 2 </SUP> <TT> explain sth/help sb </TT> </P>
+<P> <U> ADV. </U><B> carefully </B><I>Their teacher Phil Bailey carefully guides them through rehearsals. </I> </P>
+<P> <U> VERB + GUIDE </U><B> help (to) </B> </P>
+<P> <U> PREP. </U><B> in </B><I>He guided me in my research. </I><B>| on </B><I>guiding teachers on how to maintain discipline </I><B>| through </B><I>He guided us through the intricacies of the divorce law. </I> </P>
+<P> <SUP> 3 </SUP> <TT> help sb move </TT> </P>
+<P> <U> ADV. </U><B> gently </B><I>He took her arm, gently guiding her. </I> </P>
+<P> <U> PREP. </U><B> across, along, etc. </B><I>She guided him across the busy road. </I><B>| to/towards </B><I>He guided her hand to his face. </I> </P>
+</DIV>

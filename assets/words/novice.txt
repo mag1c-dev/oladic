@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>novice </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute, complete | young </B> </P>
+<P> <U> NOVICE + NOUN </U><B> user </B><I>The on-screen manual shows the novice user the basics of the program. </I><B>| pilot, sailor, teacher, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>I'm still a novice at the sport. </I><B>| ~ in </B><I>a novice in politics </I> </P>
+</DIV>

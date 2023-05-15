@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>thirst </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> desire to drink </TT> </P>
+<P> <U> ADJ. </U><B> great, intense, raging, terrible, unquenchable </B> </P>
+<P> <U> VERB + THIRST </U><B> suffer from </B><I>Many of the refugees were suffering badly from thirst. </I><B>| quench, slake | die of | work up </B><I>After walking five miles, they had worked up a great thirst. </I> </P>
+<P> <SUP> 2 </SUP> <TT> strong desire </TT> </P>
+<P> <U> ADJ. </U><B> great, unquenchable </B><I>He has an unquenchable thirst for knowledge. </I> </P>
+<P> <U> VERB + THIRST </U><B> have | satisfy </B> </P>
+<P> <U> PREP. </U><B> ~ for</B> </P>
+</DIV>

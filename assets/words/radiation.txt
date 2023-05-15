@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>radiation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> background | low-level | harmful | electromagnetic, gravitational, infrared, microwave, nuclear, solar, thermal, ultraviolet </B> </P>
+<P> <U> QUANT. </U><B> dose </B><I>Patients receive high doses of radiation during cancer treatment. </I> </P>
+<P> <U> VERB + RADIATION </U><B> emit, give off | absorb </B><I>The ozone layer absorbs solar radiation. </I><B>| measure, monitor | expose sb to </B><I>Nuclear testing has exposed millions of people to radiation. </I> </P>
+<P> <U> RADIATION + NOUN </U><B> sickness | leak | dose, level | exposure | therapy </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>radiation from computer screens </I> </P>
+</DIV>

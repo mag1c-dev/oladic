@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>democracy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> genuine, true | political | constitutional, parliamentary | multi-party | Western </B> </P>
+<P> <U> VERB + DEMOCRACY </U><B> believe in, support </B><I>people who believe in true democracy </I><B>| fight for | establish | restore </B><I>The military regime has promised to restore democracy soon. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>We live in a multi-party democracy. </I> </P>
+<P> <U> PHRASES </U><B> pro-democracy </B><I>a pro-democracy demonstration in the capital </I><B>| the road to democracy </B><I>the need to overcome political apathy and advance on the road to democracy </I><B>| the spread of democracy</B> </P>
+</DIV>

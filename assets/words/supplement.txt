@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>supplement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that is added </TT> </P>
+<P> <U> ADJ. </U><B> useful, valuable | colour </B>(= a colour magazine that comes with most weekend papers in Britain), <B>magazine, special, Sunday </B><I>Our special supplement is packed with inspirational ideas for healthy and glamorous hair. </I><B>| dietary, food, mineral, nutritional, vitamin </B> </P>
+<P> <U> VERB + SUPPLEMENT </U><B> provide (sb/sth with) | add </B><I>The farmer adds a supplement to the horse's feed. </I><B>| take, use (sth as) </B><I>I take a vitamin supplement every day. You can use these books as supplements to the basic English course. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>This document is a supplement to the main report. </I> </P>
+<P> <SUP> 2 </SUP> <TT> extra amount of money </TT> </P>
+<P> <U> ADJ. </U><B> $100, </B>&pound;<B>50, etc. </B><I>A balcony is available for a </I>&pound;</B><I>20 supplement. </I><B>| flight, single room </B><I>If you want to travel on a different day a flight supplement is payable. </I><B>| earnings-related, means-tested </B><I>means-tested supplements to the basic pension </I> </P>
+<P> <U> VERB + SUPPLEMENT </U><B> add, charge </B><I>We charge a small supplement for this service. </I><B>| carry, have </B><I>Weekend flights carry a supplement. </I><B>| pay </B> </P>
+<P> <U> SUPPLEMENT + VERB </U><B> be payable </B> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>Single rooms are available at a supplement. </I><B>| ~ for </B><I>a $20 supplement for each extra night </I><B>| ~ on </B><I>There is a supplement on rooms with a sea view. </I> </P>
+</DIV>

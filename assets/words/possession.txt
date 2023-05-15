@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>possession </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> having/owning sth </TT> </P>
+<P> <U> ADJ. </U><B> exclusive </B><I>They had exclusive possession of the property as tenants. </I><B>| illegal, unlawful </B><I>They were charged with unlawful possession of firearms. </I> </P>
+<P> <U> VERB + POSSESSION </U><B> gain, get, obtain | take </B><I>When do you take possession of your new house? </I><B>| retain </B><I>The team was struggling to retain possession of the ball. </I> </P>
+<P> <U> POSSESSION + NOUN </U><B> order </B><I>The judge made a possession order against the tenant. </I> </P>
+<P> <U> PREP. </U><B> in ~ of sth </B><I>Drivers must be in possession of a current driving licence. </I><B>| in your ~ </B><I>They have in their possession some very valuable pictures. </I> </P>
+<P> <U> PHRASES </U><B> in full possession of sth </B><I>Anyone in full possession of the facts would see that we are right. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that sb has/owns </TT> </P>
+<P> <U> ADJ. </U><B> family, personal, private | cherished, prized, proud, treasured, valuable, valued </B><I>The sports car was her proudest possession. </I><B>| material, worldly </B><I>He carried all his worldly possessions in an old suitcase. </I><B>| colonial, continental, overseas </B><I>the country's overseas possessions </I>(= colonies)</B><I>. </I> </P>
+<P> <U> VERB + POSSESSION </U><B> acquire | collect | sell | lose</B> </P>
+</DIV>

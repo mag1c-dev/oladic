@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>contradiction </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, direct, flat | flagrant, glaring, manifest, obvious | basic, fundamental </B><I>There's a basic contradiction in the whole idea of paying for justice. </I><B>| inherent | apparent | internal </B> </P>
+<P> <U> PREP. </U><B> in ~ to/with </B><I>That's in direct contradiction to what he said yesterday. </I><B>| ~ between </B><I>There is an apparent contradiction between the needs of workers and those of employers. </I><B>| ~ of </B><I>That's a contradiction of what you just said. </I> </P>
+<P> <U> PHRASES </U><B> a contradiction in terms </B><I>The idea is almost a contradiction in terms. </I> </P>
+</DIV>

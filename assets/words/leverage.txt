@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>leverage </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> force </TT> </P>
+<P> <U> ADJ. </U><B> enough, sufficient | extra | maximum </B> </P>
+<P> <U> VERB + LEVERAGE </U><B> have </B><I>He tried to push the door open, but he didn't have sufficient leverage. </I><B>| gain, get, obtain | apply, exert </B><I>Position the piece of wood so that maximum leverage can be applied. </I><B>| provide | increase </B> </P>
+<P> <SUP> 2 </SUP> <TT> influence </TT> </P>
+<P> <U> ADJ. </U><B> economic, political </B> </P>
+<P> <U> VERB + LEVERAGE </U><B> have | gain </B><I>They are determined to gain more political leverage. </I><B>| give sb</B> </P>
+</DIV>

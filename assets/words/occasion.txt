@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>occasion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> time when sth happens </TT> </P>
+<P> <U> ADJ. </U><B> many, numerous </B><I>It was the first of many such occasions. </I><B>| rare | previous | separate </B> </P>
+<P> <U> VERB + OCCASION </U><B> recall, remember </B> </P>
+<P> <U> PREP. </U><B> on an/the ~ </B><I>The police were called out on 24 separate occasions. </I><B>| on ~(s) </B><I>He has even been known to go shopping himself on occasion. </I> </P>
+<P> <U> PHRASES </U><B> a number of occasions </B><I>I have stayed there on a number of occasions. </I><B>| on one occasion </B><I>On one occasion he even rang me in the middle of the night. </I><B>| on that/this ~ </B><I>On this occasion, as it happens, the engine started immediately. </I> </P>
+<P> <SUP> 2 </SUP> <TT> suitable time </TT> </P>
+<P> <U> ADJ. </U><B> right, suitable </B> </P>
+<P> <U> OCCASION + VERB </U><B> arise </B><I>I'll speak to him if the occasion arises. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>It should have been an occasion for rejoicing. </I> </P>
+<P> <U> PHRASES </U><B> have occasion to do sth </B><I>Last year we had occasion to visit relatives in Cornwall. </I> </P>
+<P> <SUP> 3 </SUP> <TT> special event </TT> </P>
+<P> <U> ADJ. </U><B> auspicious, big, great, important, memorable, momentous, special | festive, happy, joyous | formal, sad, solemn | social | ceremonial, state </B><I>The Queen's coach is only used for state occasions. </I> </P>
+<P> <U> VERB + OCCASION </U><B> celebrate, mark </B><I>a party to mark the occasion of their daughter's graduation </I><B>| rise to </B><I>The choir rose to the occasion and sang beautifully. </I> </P>
+<P> <U> PHRASES </U><B> for all occasions, for every occasion </B><I>We sell cards and notepaper for all occasions. </I><B>| a sense of occasion </B><I>On the day of the wedding there was a real sense of occasion. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>fuzzy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> unclear </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound | become, go </B><I>The screen suddenly went fuzzy. </I> </P>
+<P> <U> ADV. </U><B> all, extremely, very </B><I>The truck's headlights were all fuzzy and ghostlike. </I><B>| a bit, rather, slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> sticking up </TT> </P>
+<P> <U> VERBS </U><B> be | go </B> </P>
+<P> <U> ADV. </U><B> all </B><I>My hair's gone all fuzzy! </I><B>| a bit, rather</B> </P>
+</DIV>

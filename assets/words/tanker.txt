@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>tanker </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> ship carrying oil or petrol </TT> </P>
+<P> <U> ADJ. </U><B> giant, huge, large | gas, oil | coastal </B> </P>
+<P> <U> TANKER + VERB </U><B> carry sth, transport sth </B><I>a tanker carrying thousands of tons of crude oil </I><B>| run aground </B><I>The tanker ran aground in heavy seas and is breaking up on the rocks. </I><B>| break up | spill sth </B><I>A damaged tanker has spilled millions of gallons of oil into the sea. </I> </P>
+<P> <U> TANKER + NOUN </U><B> disaster, spill </B><I>the worst year for tanker spills for ten years </I><B>| fleet | route | traffic | operator, owner </B> </P>
+<P> <SUP> 2 </SUP> <TT> heavy vehicle for carrying liquids </TT> </P>
+<P> <U> ADJ. </U><B> fuel, milk, petrol | road </B> </P>
+<P> <U> VERB + TANKER </U><B> drive </B> </P>
+<P> <U> TANKER + VERB </U><B> carry sth </B> </P>
+<P> <U> TANKER + NOUN </U><B> driver</B> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>option </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> freedom to choose </TT> </P>
+<P> <U> VERB + OPTION </U><B> have </B><I>You have the option of taking your holiday early. </I><B>| give sb </B> </P>
+<P> <U> PREP. </U><B> with/without the ~ of </B><I>He was jailed without the option of a fine. </I> </P>
+<P> <U> PHRASES </U><B> have little/no option but to </B><I>We had no option but to leave without them. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth you choose/can choose </TT> </P>
+<P> <U> ADJ. </U><B> available, possible, viable | real, realistic | attractive, good </B><I>Deciding on your best option is not easy. </I><B>| preferred | practical | easy, soft </B><I>He thought General Studies would be a soft option. </I><B>| cheap | expensive | policy | menu (on a computer) </B> </P>
+<P> <U> VERB + OPTION </U><B> choose, exercise, select, take </B><I>Look at the on-screen menu and select the &lsquo;File&rsquo; option. </I><B>| give sb, offer (sb) | limit | look at </B><I>Let's look at all the options available. </I> </P>
+<P> <U> PHRASES </U><B> keep/leave your options open </B>(= to avoid making a decision now so that you still have a choice later)  </P>
+<P> <SUP> 3 </SUP> <TT> right to buy/sell sth at some time in the future </TT> </P>
+<P> <U> ADJ. </U><B> first | share, stock </B> </P>
+<P> <U> VERB + OPTION </U><B> have | exercise, take (up) </B><I>She took up an option in her contract to buy three million shares. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He's promised me first option on his car. </I> </P>
+</DIV>

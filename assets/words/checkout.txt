@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>checkout </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> supermarket </B> </P>
+<P> <U> VERB + CHECKOUT </U><B> go through, walk through </B><I>You can't just go through the checkout without paying! </I> </P>
+<P> <U> CHECKOUT + NOUN </U><B> assistant, girl, operator </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>He hates waiting at the checkout. </I> </P>
+</DIV>

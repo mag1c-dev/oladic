@@ -1,0 +1,10 @@
+
+<div class="item"><p class="word first"><b>sad </b><i>adj. </i> </p>
+<p> <sup> 1 </sup> <tt> unhappy </tt> </p>
+<p> <u> VERBS </u><div class="ex"><b> appear, be, feel, look, seem, sound | become, grow | make sb </b></div><div class="excontent"><i>This music always makes me sad. </i> </div></p>
+<p> <u> ADV. </u><div class="ex"><b> all, desperately, immensely, particularly, profoundly, really, unbearably, very </b></div><div class="excontent"><i>I called Mum, sounding all sad and pathetic. </i></div><div class="ex"><b>| almost | a bit, a little, quite, rather, slightly, somewhat | strangely </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> about </b></div><div class="excontent"><i>She was still feeling very sad about her father's death. </i> </div></p>
+<p> <sup> 2 </sup> <tt> causing unhappiness </tt> </p>
+<p> <u> VERBS </u><div class="ex"><b> be, seem | find sth </b></div></p>
+<p> <u> ADV. </u><div class="ex"><b> deeply, extremely, intensely, particularly, profoundly, really, terribly, unutterably, very </b></div><div class="excontent"><i>a deeply sad occasion </i></div><div class="ex"><b>| a bit, a little, quite, rather </b></div><div class="excontent"><i>a rather sad story </i> </div></p>
+</div>

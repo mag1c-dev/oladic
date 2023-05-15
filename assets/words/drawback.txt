@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>drawback </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, main, major, real, serious | minor, slight | obvious | possible, potential </B> </P>
+<P> <U> VERB + DRAWBACK </U><B> have (its/their), suffer from </B><I>This strategy has its drawbacks. The system suffers from two major drawbacks. </I><B>| overcome </B><I>We have to find ways of overcoming these drawbacks. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Bad weather was the main drawback to camping in the far north. </I><B>| ~ with </B><I>The one big drawback with the planned scheme was its high cost. </I> </P>
+</DIV>

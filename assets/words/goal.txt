@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>goal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> wooden frame into which a ball is kicked/hit </TT> </P>
+<P> <U> ADJ. </U><B> open </B><I>He kicked the ball into an open goal. </I> </P>
+<P> <U> VERB + GOAL </U><B> go in, play in </B><I>The goalkeeper was injured so a defender had to go in goal. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Who's in goal for Arsenal? </I> </P>
+<P> <SUP> 2 </SUP> <TT> point scored in a game </TT> </P>
+<P> <U> ADJ. </U><B> brilliant, excellent, good, great, spectacular, stunning, superb, well-taken | scrappy, soft </B><I>The fans were annoyed that the team gave away such a soft goal. </I><B>| decisive, winning | equalizing | important, useful, vital | own </B><I>Vega scored an unfortunate own goal when he slipped as he tried to clear the ball. </I> </P>
+<P> <U> VERB + GOAL </U><B> get, score | kick </B>(in rugby) <B>| head (in) | make </B><I>Visconti scored one goal himself and made two for Lupo. </I><B>| concede, give away, let in | allow, disallow </B><I>The referee disallowed the goal. </I> </P>
+<P> <U> GOAL + VERB </U><B> come from sb/sth </B><I>The equalizing goal came from Cole. The second goal came from a penalty. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>They scored three goals against the home team. </I><B>| ~ for </B><I>his first goal for Spain </I><B>| ~ from </B><I>A late goal from Owen won the game for Liverpool. </I> </B> </P>
+<P> <SUP> 3 </SUP> <TT> aim </TT> </P>
+<P> <U> ADJ. </U><B> immediate, short-term </B><I>Our immediate goal is to earn enough money to keep the business going. </I> <B>| long-term, ultimate | main, major, primary, prime | clear, explicit, specific | ambitious </B><I>They have set themselves some ambitious goals. </I><B>| modest | desirable | achievable, attainable, realistic | unattainable, unrealistic | elusive | personal | common </B><I>We are all working towards a common goal. </I><B>| twin </B><I>The prison service pursues the twin goals of the punishment and rehabilitation of offenders. </I><B>| strategic | political </B> </P>
+<P> <U> VERB + GOAL </U><B> have </B><I>It is important to have explicit goals. </I><B>| establish, set (sb) | pursue, strive for, work towards | achieve, attain, reach </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>their goal of providing free university education for everyone </I> </P>
+</DIV>

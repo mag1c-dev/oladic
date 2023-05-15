@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>valid </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> legally acceptable </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain, stay | deem sth, hold sth </B><I>The original written contract was held valid. </I> </P>
+<P> <U> ADV. </U><B> still </B><I>Is your passport still valid? </I><B>| no longer | legally </B><I>Is the contract legally valid? </I> </P>
+<P> <U> PREP. </U><B> for </B><I>Vouchers are only valid for races taking place before 31 December. </I> </P>
+<P> <SUP> 2 </SUP> <TT> strong and convincing </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain | accept sth as, consider sth, deem sth, regard sth as </B><I>We accepted several different approaches as valid. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, completely, perfectly </B><I>This is a perfectly valid question to raise. </I><B>| not entirely | reasonably | equally </B><I>using a different, but equally valid, technique </I><B>| universally </B><I>a universally valid set of moral principles </I><B>| not necessarily | not strictly </B><I>That argument is not strictly valid in this case. </I><B>| still | no longer </B><I>The old assumptions are no longer valid. </I><B>| logically, scientifically, statistically </B><I>a logically valid deduction </I> </P>
+</DIV>

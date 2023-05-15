@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>achievement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> thing done successfully </TT> </P>
+<P> <U> ADJ. </U><B> considerable, extraordinary, fine, great, important, impressive, major, no mean, notable, outstanding, real, remarkable, significant, tremendous </B><I>This was no mean achievement for the government. </I><B>| rare | unique | concrete, solid | crowning, main, proudest, supreme | lasting | modest | personal | architectural, artistic, cultural, economic, educational, engineering, literary, scientific, sporting, technical, technological </B> </P>
+<P> <U> VERB + ACHIEVEMENT </U><B> be, constitute, represent </B><I>This conference in itself constitutes a solid achievement. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>She was given a prize for her achievements in textile design. </I> </P>
+<P> <U> PHRASES </U><B> quite an achievement </B><I>To be offered a place at such a good university is quite an achievement. </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of achieving sth </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>two years of consistently high achievement </I><B>| positive | individual, personal | human </B><I>He believes European civilization was the high point of human achievement. </I><B>| academic, educational, intellectual </B><I>Success should not be measured solely by educational achievement. </I> </P>
+<P> <U> PHRASES </U><B> a feeling/sense of achievement </B><I>Climbing the mountain gave him a tremendous sense of achievement. </I><B>| a lack of achievement, a level/standard of achievement, a record of achievement </B><I>an impressive record of achievement </I> </P>
+</DIV>

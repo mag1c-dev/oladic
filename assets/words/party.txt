@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>party </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> political group </TT> </P>
+<P> <U> ADJ. </U><B> political | centre, left-wing, right-wing | centrist, fascist, populist, progressive, radical, reactionary, revolutionary, social democratic, socialist | Communist, Conservative, Democratic, Labour, Liberal, Republican, etc. | opposition | parliamentary </B><I>members of the parliamentary party </I>(= MPs, not ordinary party members) <B>| main </B><I>both main political parties </I><B>| majority, minority </B><I>They are now the majority party in Parliament. </I><B>| governing, ruling </B> </P>
+<P> <U> VERB + PARTY </U><B> establish, form, found, set up | dissolve, wind up </B><I>The party was officially dissolved in 1927. </I><B>| split </B><I>a bitter dispute which finally split the party </I><B>| be/become the leader of, lead | be/become a member of, belong to, join | be affiliated to, have links with </B><I>He was accused of having strong links with the Communist Party. </I><B>| leave, resign from </B><I>She left the party in 2000. </I><B>| expel sb from | vote for | elect, put in/into power, return to power </B><I>The Labour Party was returned to power in 2001. </I> </P>
+<P> <U> PARTY + VERB </U><B> come to power, gain power, win (sth) | lose (sth), lose power </B><I>The Labour party lost the vote on this important issue. </I><B>| contest sth </B><I>the parties contesting the elections </I> </P>
+<P> <U> PARTY + NOUN </U><B> conference, congress | activist, member, faithful </B>(= loyal members of the party) <B>| chairman, leader, leadership | line </B><I>Most MPs will follow the party line </I>(= the official view of the party)</B><I>. </I><B>| politics </B> </P>
+<P> <U> PHRASES </U><B> the left/right wing of the party </B> </P>
+<P> <SUP> 2 </SUP> <TT> social occasion </TT> </P>
+<P> <U> ADJ. </U><B> cocktail, dinner, tea | birthday, Christmas, farewell, house-warming, leaving | garden, office, street | all-night | fancy-dress | surprise </B> </P>
+<P> <U> VERB + PARTY </U><B> give, have, hold, organize, throw </B><I>On moving in they threw a huge house-warming party. </I><B>| invite sb to | attend, go to | gatecrash | leave </B> </P>
+<P> <U> PARTY + VERB </U><B> go on </B><I>There was a party going on next door. </I><B>| be in full swing </B>(= to be very busy and noisy) <I>By now the party was in full swing. </I><B>| break up </B><I>The party broke up around midnight. </I> </P>
+<P> <U> PARTY + NOUN </U><B> guest | pooper (also party-pooper; sb who does not want to join in the fun at a party) </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>I was at a party in London that night. </I><B>| ~ for </B><I>I'm organizing a surprise party for my sister. </I> </P>
+<P> <SUP> 3 </SUP> <TT> group of people working/doing sth together </TT> </P>
+<P> <U> ADJ. </U><B> boarding, coach, landing, raiding, reading, rescue, search, stretcher, working </B><I>It was time for us to join the coach party. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She arrived with a party of helpers. </I> </P>
+<P> <SUP> 4 </SUP> <TT> person in a legal case </TT> </P>
+<P> <U> ADJ. </U><B> guilty, innocent | aggrieved, injured | interested </B><I>First we must notify all the interested parties. </I><B>| third </B><I>You must sign the document in the presence of an independent third party </I>(= another person apart from the two main people involved) </B> </P>
+<P> <U> VERB + PARTY </U><B> notify | be binding on/upon, bind </B><I>This agreement shall be binding upon both parties. </I> </P>
+</DIV>

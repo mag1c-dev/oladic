@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>enter </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> come/go into a place </TT> </P>
+<P> <U> ADV. </U><B> illegally </B><I>people who enter the country illegally </I> </P>
+<P> <U> VERB + ENTER </U><B> allow sb/sth to, permit sb/sth to </B><I>He stood back to allow us to enter. </I><B>| forbid sb to </B> </P>
+<P> <U> PREP. </U><B> by/through </B><I>We entered through a large iron gate. </I> </P>
+<P> <SUP> 2 </SUP> <TT> add information to sth </TT> </P>
+<P> <U> ADV. </U><B> manually </B><I>You may need to enter this information manually. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>Your details have been entered in our database. </I><B>| into, on </B><I>Please enter all your personal details on the form provided. </I><B>| onto </B><I>Enter the data onto the computer. </I> </P>
+</DIV>

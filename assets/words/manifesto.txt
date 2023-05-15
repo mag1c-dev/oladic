@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>manifesto </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> Conservative, Labour, etc. | party, party's </B><I>We must all support the party manifesto. </I><B>| election </B> </P>
+<P> <U> VERB + MANIFESTO </U><B> draft, draw up, write | sign | issue, launch, publish | support </B> </P>
+<P> <U> MANIFESTO + VERB </U><B> pledge sth, promise sth </B><I>The manifesto promised reform of the social security system. </I><B>| call for sth, demand sth | contain sth | say sth </B> </P>
+<P> <U> MANIFESTO + NOUN </U><B> commitment, pledge, promise | proposal </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The policy is outlined in the party's election manifesto. </I><B>| on a/the ~ </B><I>Labour won the election on this manifesto. </I><B>| ~ for </B><I>a manifesto for reform </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>bracket </B><I>noun </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> brackets marks round extra information in writing  </TT> </P>
+<P> <U> ADJ. </U><B> angle, curly, round, square </B> </P>
+<P> <U> VERB + BRACKET </U><B> enclose sth in, give sth in, put sth in </B><I>The prices are given in square brackets. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>The words in brackets should be deleted. </I><B>| inside, outside, within </B><I>The numbers outside the curly brackets are the sales figures. </I> </P>
+<P> <SUP> 2 </SUP> <TT> range </TT> </P>
+<P> <U> ADJ. </U><B> age, income, price, tax | higher, top, upper | middle | lower </B> </P>
+<P> <U> PREP. </U><B> in/within </B><I>These machines are in the higher price bracket. </I><B>| outside </B><I>people outside this age bracket </I> </P>
+</DIV>

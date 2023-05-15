@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>conceive </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> think of/imagine </TT> </P>
+<P> <U> ADV. </U><B> brilliantly, carefully </B><I>The plan was brilliantly conceived. </I><B>| poorly | broadly </B><I>The course is very broadly conceived </I>(= it covers a wide range of topics)</B><I>. </I><B>| narrowly | originally </B><I>The dam project was originally conceived in 1977. </I> </P>
+<P> <U> VERB + CONCEIVE </U><B> can't/cannot </B><I>I cannot conceive why you paid out so much money. </I><B>| be difficult to, be impossible to </B><I>It is difficult to conceive of a society without money. </I><B>| be easy to, be possible to </B> </P>
+<P> <U> PREP. </U><B> of </B><I>We conceive of ourselves as individuals. </I> </P>
+<P> <SUP> 2 </SUP> <TT> become pregnant </TT> </P>
+<P> <U> ADV. </U><B> naturally </B><I>She was unable to conceive a child naturally and was offered fertility treatment. </I> </P>
+<P> <U> VERB + CONCEIVE </U><B> be able/unable to</B> </P>
+</DIV>

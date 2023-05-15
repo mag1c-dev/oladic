@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>afloat </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> floating on water </TT> </P>
+<P> <U> VERBS </U><B> be | remain, stay | set sth </B><I>The children set their new boat afloat on the lake. </I><B>| keep sth </B><I>struggling to keep the vessel afloat </I> </P>
+<P> <SUP> 2 </SUP> <TT> able to survive financially </TT> </P>
+<P> <U> VERBS </U><B> keep, stay </B><I>He is struggling to keep afloat after a series of emotional and health problems. </I><B>| keep sth </B><I>They had to sell their assets to keep the business afloat. </I> </P>
+</DIV>

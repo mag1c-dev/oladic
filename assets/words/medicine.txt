@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>medicine </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> substance taken to treat an illness </TT> </P>
+<P> <U> ADJ. </U><B> powerful, strong | cough </B><I>a bottle of cough medicine </I><B>| herbal | prescription </B> </P>
+<P> <U> QUANT. </U><B> dose </B> </P>
+<P> <U> VERB + MEDICINE </U><B> take | swallow | prescribe (sb) | administer, give sb | treat sb with </B> </P>
+<P> <U> MEDICINE + NOUN </U><B> bottle, chest </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>medicine for a chest infection </I> </P>
+<P> <SUP> 2 </SUP> <TT> science of treating/preventing illness </TT> </P>
+<P> <U> ADJ. </U><B> modern </B><I>advances in modern medicine </I><B>| traditional </B><I>qualified in traditional Chinese medicine </I><B>| folk </B><I>Garlic was widely used in folk medicine. </I><B>| conventional, orthodox | alternative, complementary, holistic, homeopathic | preventative, preventive | academic, clinical, forensic, scientific | general </B><I>She gave up general medicine to specialize in geriatric medicine. </I><B>| geriatric, obstetric, paediatric, veterinary, etc. | Chinese, Western | private, public health </B><I>She believed private medicine was a threat to the existence of the National Health Service. </I> </P>
+<P> <U> VERB + MEDICINE </U><B> train in | qualify in | practise </B><I>people practising alternative medicine </I> </P>
+<P> <U> PHRASES </U><B> a branch of medicine </B></P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+</DIV>

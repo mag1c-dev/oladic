@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>frame </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a door/picture/window </TT> </P>
+<P> <U> ADJ. </U><B> door, window | photo, photograph, picture </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>pictures in gold frames </I> </P>
+<P> <SUP> 3 </SUP> <TT> shape of sb's body </TT> </P>
+<P> <U> ADJ. </U><B> athletic, big, bony, large, lean, muscular, powerful, skinny, slender, slight, small, tall, wiry </B> </P>
+<P> <U> VERB + FRAME </U><B> have </B><I>She has quite a small frame. </I> </P>
+<P> <U> PREP. </U><B> with a &hellip; ~ </B><I>a man with a lean, athletic frame </I> </P>
+</DIV>

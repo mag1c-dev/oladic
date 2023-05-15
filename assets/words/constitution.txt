@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>constitution </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> laws/rules of a country </TT> </P>
+<P> <U> ADJ. </U><B> federal, state | codified, written </B><I>Britain does not have a written constitution. </I><B>| unwritten | draft, proposed | interim </B> </P>
+<P> <U> VERB + CONSTITUTION </U><B> draft, draw up, prepare </B><I>plans to draft a new constitution </I><B>| have | adopt, approve, enact, promulgate, ratify </B><I>The new constitution will be adopted next year. </I><B>| amend </B><I>Parliament will vote to amend the constitution. </I><B>| contravene, violate </B><I>The president's actions violate the constitution. </I><B>| suspend </B><I>The constitution was suspended and the army was placed in full control. </I><B>| be enshrined in </B><I>These principles are enshrined in the country's constitution. </I> </P>
+<P> <U> CONSTITUTION + VERB </U><B> forbid sth, guarantee sth, stipulate sth </B><I>The constitution stipulated that a general election must be held within 120 days. </I> </P>
+<P> <U> PREP. </U><B> according to/under a/the ~ </B><I>Under the constitution, an election must be called every five years. </I><B>| in a/the ~ </B><I>These rights are established in the federal constitution. </I> </P>
+<P> <U> PHRASES </U><B> an amendment to a constitution, a clause in a constitution, the principles of a constitution, the provisions/terms of a constitution </B> </P>
+<P> <SUP> 2 </SUP> <TT> ability of the body to stay healthy </TT> </P>
+<P> <U> ADJ. </U><B> good, strong | weak </B> </P>
+<P> <U> VERB + CONSTITUTION </U><B> have </B><I>The child had a weak constitution and was always ill. </I> </P>
+</DIV>

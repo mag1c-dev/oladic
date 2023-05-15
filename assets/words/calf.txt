@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>calf </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bull, heifer | beef, dairy, veal | weaned </B> </P>
+<P> <U> VERB + CALF </U><B> produce </B><I>A dairy cow needs to produce a calf each year. </I><B>| rear </B><I>These calves are reared for beef. </I><B>| graze </B><I>The calves are grazed intensively during their first season. </I> </P>
+<P> <U> CALF + VERB </U><B> graze, suckle </B> </P>
+<P> <U> PREP. </U><B> in/with ~ </B><I>Their prize cow is in calf </I>(= pregnant)</B><I>. </I> </P>
+</DIV>

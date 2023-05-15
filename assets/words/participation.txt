@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>participation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | broader, greater, increased | limited | direct | active | political | popular, public | audience, employee, student, worker </B><I>Some of the magic tricks called for audience participation. </I> </P>
+<P> <U> QUANT. </U><B> degree, extent, level </B><I>We were very pleased with the high level of participation in the charity events. </I> </P>
+<P> <U> VERB + PARTICIPATION </U><B> encourage </B><I>The scheme aims to encourage increased participation in sporting activities. </I><B>| increase </B> </P>
+<P> <U> PARTICIPATION + VERB </U><B> increase </B> </P>
+<P> <U> PARTICIPATION + NOUN </U><B> rate </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>direct participation by the masses in the running of the country </I> </P>
+</DIV>

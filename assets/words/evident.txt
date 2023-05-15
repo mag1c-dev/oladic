@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>evident </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain | make sth </B><I>The silence of the forest was made evident by the occasional snap of a twig. </I> </P>
+<P> <U> ADV. </U><B> clearly, plainly, strongly, very | perfectly, quite | increasingly | especially, particularly | fairly | sufficiently | immediately | already </B><I>It is already evident that new roads only generate new traffic. </I><B>| painfully </B><I>The strain of her work schedule became painfully evident as she jetted from New York to London and on to Milan. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>It was fairly evident from her tone of voice that she disapproved. </I><B>| in </B><I>His anger was evident in his attitude to the others. </I><B>| to </B><I>It was evident to me that the mission would fail. </I> </P>
+</DIV>

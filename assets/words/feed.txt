@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>feed </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> give food to a person/animal/plant </TT> </P>
+<P> <U> ADV. </U><B> properly, well </B><I>Have they been feeding you well? </I><B>| regularly </B> </P>
+<P> <U> VERB + FEED </U><B> help (to) </B><I>Let us discipline ourselves so as to help feed a hungry world. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>She fed the children on baked beans and fish fingers. </I><B>| to </B><I>Most of the crop is fed to the cattle. </I><B>| with </B><I>The animals are fed with hay and grass. </I> </P>
+<P> <U> PHRASES </U><B> a mouth to feed </B><I>He saw the new baby as just another mouth to feed. </I> </P>
+<P> <SUP> 2 </SUP> <TT> eat </TT> </P>
+<P> <U> ADV. </U><B> voraciously </B><I>The bears feed voraciously in summer and store energy as fat. </I><B>| busily </B><I>Egrets and a solitary grey heron were busily feeding. </I><B>| mainly, predominantly | exclusively </B> </P>
+<P> <U> PREP. </U><B> on </B><I>The seals feed mainly on fish and squid. </I> </P>
+<P> <SUP> 3 </SUP> <TT> supply sth </TT> </P>
+<P> <U> ADV. </U><B> directly </B> </P>
+<P> <U> PREP. </U><B> into </B><I>The data is fed directly into a computer. </I><B>| through </B><I>This feeds the paper through to the printer. </I><B>| to, with </B><I>feeding the media with rumours and accusations </I> </P>
+</DIV>

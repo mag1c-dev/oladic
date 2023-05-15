@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>king </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> male ruler </TT> </P>
+<P> <U> ADJ. </U><B> rightful | anointed, crowned | uncrowned </B><I>(figurative) He became the uncrowned king of the East End, scoring 28 goals in his first season. </I><B>| deposed, exiled </B> </P>
+<P> <U> VERB + KING </U><B> become | crown (sb), make sb, proclaim sb </B><I>He was crowned king at the age of fifteen. The new king was crowned immediately. </I><B>| depose, put aside </B> </P>
+<P> <U> KING + VERB </U><B> reign, rule, rule (over) sb/sth </B><I>The kings of Sicily also ruled over the southern part of Italy. </I><B>| abdicate </B><I>the king's decision to abdicate </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>Life under the new king was very different. </I><B>| ~ of </B><I>the King of Spain </I> </P>
+<P> <SUP> 2 </SUP> <TT> playing card </TT> </P>
+<a href="/collocation-tag/playing-card" class="tag">Learn more about PLAYING CARD</a>
+</DIV>

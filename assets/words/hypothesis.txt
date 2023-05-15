@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hypothesis </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acceptable, plausible | bold </B><I>Scientists have proposed a bold hypothesis. </I><B>| unlikely | speculative | testable | working </B><I>These observations appear to support our working hypothesis. </I><B>| scientific </B> </P>
+<P> <U> VERB + HYPOTHESIS </U><B> construct, form, formulate, have, make, propose, put forward, suggest </B><I>It is possible to make a hypothesis on the basis of this graph. A number of hypotheses have been put forward. </I><B>| consider, discuss, examine, test (out) </B><I>using this data to test her hypothesis </I><B>| confirm, prove, support | accept | reject </B><I>None of the hypotheses can be rejected at this stage. </I> </P>
+<P> <U> VERB + HYPOTHESIS </U><B> concern sth </B><I>Her hypothesis concerns the role of electromagnetic radiation. </I><B>| predict sth </B><I>The hypothesis predicts that children will perform better on task A than on task B. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Her study is based on the hypothesis that language simplification is possible. </I><B>| ~ about </B><I>an interesting hypothesis about the development of language </I><B>| ~ on </B><I>The results confirmed his hypothesis on the use of modal verbs. </I> </P>
+</DIV>

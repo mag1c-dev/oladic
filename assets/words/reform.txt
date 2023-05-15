@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>reform </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> drastic, fundamental, great, important, major, radical, significant, substantial | comprehensive, far-reaching, sweeping, wholesale, wide-ranging | minor | piecemeal | new | further | immediate | rapid | much needed, necessary, overdue </B><I>Health care reform is long overdue. </I><B>| effective | practical | moral, political, social | democratic, liberal | domestic, institutional, internal | procedural, structural | administrative, governmental | constitutional, electoral, judicial, law, legal, legislative | penal, prison | curriculum, educational | welfare | budgetary, economic, financial, monetary, tax | agrarian, agricultural, environmental, land </B> </P>
+<P> <U> QUANT. </U><B> package </B> </P>
+<P> <U> VERB + REFORM </U><B> adopt, bring about, introduce, put in place | push through </B><I>They wanted a weak president and a strong one-chamber parliament able to push through radical reforms. </I><B>| carry out/through, implement, put into practice, undertake | accelerate </B><I>efforts to accelerate the structural reform of the economy </I><B>| delay | block </B><I>The conservative coalition could delay further reforms or block them altogether. </I><B>| accept, welcome | advocate, call for, press for, propose </B><I>They have issued a statement advocating reform of the legal system. </I><B>| demand | back, encourage, support </B><I>We are committed to supporting democracy and reform in the region. </I><B>| require </B><I>The practice of global politics requires reform. </I><B>| plan | discuss </B> </P>
+<P> <U> REFORM + VERB </U><B> go through </B><I>The reforms went through in spite of opposition from teachers. </I><B>| aim at sth </B><I>tax reforms aimed at encouraging land development </I> </P>
+<P> <U> REFORM + NOUN </U><B> process | movement | initiative, measure, package, programme | act, bill | policy </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>reforms in housing and education </I> </P>
+<P> <U> PHRASES </U><B> the need for reform, the pace of reform, a programme of reform, a timetable for reform</B> </P>
+</DIV><DIV class="item"><P class="word"><B>reform </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> drastically, fundamentally, radically </B><I>The health service must be radically reformed. </I> </P>
+<P> <U> VERB + REFORM </U><B> attempt to, seek to, try to </B> </P>
+<P> <U> PHRASES </U><B> attempts/efforts/proposals to reform sth, a need to reform sth</B> </P>
+</DIV>

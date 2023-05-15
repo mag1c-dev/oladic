@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>murder </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> barbarously, brutally, foully, in cold blood </B><I>The boy was brutally murdered. They were murdered in cold blood. </I><B>| ritually | allegedly </B> </P>
+<P> <U> VERB + MURDER </U><B> attempt to, try to | plan to, plot to </B> </P>
+<P> <U> PHRASES </U><B> admit/deny murdering sb, be accused of murdering sb, be charged with murdering sb </B><I>She was arrested and charged with murdering the two children. </I><B>| be convicted/found guilty of murdering sb, be found murdered </B><I>He was found murdered in the cemetery. </I> </P>
+</DIV>
+
+<DIV class="item"><P class="word"><B>murder </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brutal, horrific, terrible, vicious | cold-blooded, premeditated, wilful </B><I>(law) a verdict of wilful murder </I><B>| attempted | double, mass, multiple | terrorist | racial, sectarian | unsolved </B> </P>
+<P> <U> VERB + MURDER </U><B> commit </B><I>murders committed by terrorists </I><B>| jail sb for | avenge </B><I>He vowed to avenge his brother's murder. </I><B>| witness | implicate sb in </B><I>new evidence that implicated her in the murder </I><B>| get away with </B><I>(figurative) They let their children get away with murder! </I> </P>
+<P> <U> MURDER + VERB </U><B> take place </B> </P>
+<P> <U> MURDER + NOUN </U><B> victim | suspect | hunt </B><I>(informal)</I>, <B>inquiry, investigation | bid, plot | conviction | scene | mystery, story </B><I>Her latest novel is a gripping murder mystery. </I></P>
+<a href="/collocation-tag/crimes" class="tag">Learn more about CRIMES</a>
+</DIV>

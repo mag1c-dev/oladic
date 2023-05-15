@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>cargo </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, bulk, heavy, large | small | precious, valuable </B><I>a precious cargo of antiques </I><B>| deadly </B><I>The terrorists parked the van with its deadly cargo in a dark alleyway. </I><B>| dry </B><I>dry cargo, such as fruit </I><B>| human </B><I>The boats discharged their human cargo a little way from the shore. </I> </P>
+<P> <U> VERB + CARGO </U><B> carry | load, take on </B><I>The ship stopped to take on a cargo of fruit. </I><B>| discharge, unload | handle </B><I>The port handles cargo from all over Europe. </I> </P>
+<P> <U> CARGO + NOUN </U><B> aircraft, boat, carrier, plane, ship, vessel | bay, hold | handler, handling</B> </P>
+</DIV>

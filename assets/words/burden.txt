@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>burden </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> responsibility/worry </TT> </P>
+<P> <U> ADJ. </U><B> great, heavy, onerous | crippling, intolerable | administrative, economic, financial, tax </B> </P>
+<P> <U> VERB + BURDEN </U><B> bear, carry </B><I>The manager carries the greatest burden of responsibility. </I><B>| assume, shoulder, take on </B><I>She had to shoulder the burden of childcare. </I><B>| impose, place </B><I>His illness placed an intolerable burden on his family. </I><B>| increase | ease, lighten, reduce, relieve | lift, remove </B><I>The administrative burden must be lifted from local government. </I><B>| shift </B><I>plans to shift the burden of taxation onto larger companies </I><B>| share </B><I>I need to share my burden with someone. </I> </P>
+<P> <U> BURDEN + VERB </U><B> fall on sb/sth </B><I>The economic burden falls mainly on businesses. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a burden for the whole family </I><B>| ~ of </B><I>the burden of high taxation </I><B>| ~ on/upon </B><I>easing the financial burden on families </I><B>| ~ to </B><I>She felt she was a burden to her parents. </I> </P>
+<P> <U> PHRASES </U><B> the burden of proof </B><I>(law) </I>(= the responsibility of proving that sth is true) </B><I>The burden of proof falls on the prosecution: the accused is presumed innocent until proved guilty. </I><B>| have a burden on your shoulders </B><I>He has the burden of a large family on his shoulders. </I><B>| lift a burden from sb's shoulders </B> </P>
+<P> <SUP> 2 </SUP> <TT> heavy load </TT> </P>
+<P> <U> VERB + BURDEN </U><B> carry </B><I>The women carried their burdens on their backs. </I><B>| pick up | lay down, put down </B> </P>
+<P> <U> PHRASES </U><B> a beast of burden </B>(= an animal used to do heavy work such as pulling or carrying things)  </P>
+</DIV>

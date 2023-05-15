@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>motivation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> main, primary | real | underlying | high, strong </B><I>students with high motivation his strong motivation to succeed </I><B>| low, poor </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>pupils who have a low level of motivation </I> </P>
+<P> <U> VERB + MOTIVATION </U><B> have </B><I>Many of the boys have very poor motivation. </I><B>| lack | lose </B><I>By this time the children had lost all their motivation for writing poetry. </I><B>| generate, provide </B><I>high rewards that generate the necessary motivation in the workers </I><B>| improve, increase, strengthen </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>his main motivation for supporting the government </I><B>| ~ in </B><I>my main motivation in making the suggestion </I><B>| ~ behind </B><I>the primary motivation behind the government's intervention </I> </P>
+<P> <U> PHRASES </U><B> a lack of motivation</B> </P>
+</DIV>

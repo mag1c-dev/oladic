@@ -1,0 +1,36 @@
+
+<DIV class="item"><P class="word"><B>lead1 </B>/li:d/ </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> example set by sb's behaviour </TT> </P>
+<P> <U> ADJ. </U><B> moral </B> </P>
+<P> <U> VERB + LEAD </U><B> give, take </B><I>The government should give a lead in tackling racism. </I><B>| follow </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>We should follow their lead in banning chemical weapons. </I> </P>
+<P> <SUP> 2 </SUP> <TT> position ahead of other people </TT> </P>
+<P> <U> ADJ. </U><B> big, clear, comfortable, commanding, good, strong | narrow | overall | early </B> </P>
+<P> <U> VERB + LEAD </U><B> be in, have </B><I>She has a narrow lead over the other runners. </I><B>| go into, move into, take </B><I>They took an early lead. </I><B>| build up, establish </B><I>The team has now built up a commanding lead. </I><B>| hold, maintain | lose | regain </B><I>They regained the lead with only a few minutes left to play. </I><B>| put sb/sth (back) into | extend, increase </B><I>Sheffield increased their lead just before half time. </I><B>| give </B> </P>
+<P> <U> PREP. </U><B> in/into the ~ </B><I>struggling to stay in the lead </I><B>| ~ over </B><I>This win gives the team a two-point lead over their closest rival. </I> </P>
+<P> <SUP> 3 </SUP> <TT> main part in a play, show, etc. </TT> </P>
+<P> <U> ADJ. </U><B> romantic | female, male </B> </P>
+<P> <U> VERB + LEAD </U><B> play </B><I>Her big break came when she was chosen to play the lead in a Broadway musical. </I> </P>
+<P> <U> LEAD + NOUN </U><B> role | singer | guitar, guitarist </B> </P>
+<P> <SUP> 4 </SUP> <TT> clue </TT> </P>
+<P> <U> ADJ. </U><B> good | new | possible </B><I>The police are following every possible lead. </I> </P>
+<P> <U> VERB + LEAD </U><B> have | follow, pursue | give </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>leads on the murderer's identity </I> </P>
+</DIV><DIV class="item"><P class="word"><B>lead2 </B>/li:d/ </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> show the way </TT> </P>
+<P> <U> ADV. </U><B> back, on </B><I>&lsquo;Lead on!&rsquo; said Arnold. </I> </P>
+<P> <U> VERB + LEAD </U><B> help (to) </B><I>Five people helping to lead a convoy of aid are feared dead. </I><B>| allow sb to, let sb </B><I>Let me lead the way. </I> </P>
+<P> <U> PREP. </U><B> along, down, into, out of, through, to, etc. </B><I>She led them along a dark corridor to a small room. </I> </P>
+<P> <U> PHRASES </U><B> lead the way </B><I>You lead the way and we'll follow. </I> </P>
+<P> <SUP> 2 </SUP> <TT> go to a place </TT> </P>
+<P> <U> ADV. </U><B> directly | back, down, up </B><I>An old track led back through the wood. </I><B>| nowhere, somewhere </B><I>(often figurative) Often there are discoveries which lead nowhere. </I> </P>
+<P> <U> PREP. </U><B> from, onto </B><I>The gardens lead directly onto a beach. </I><B>| to </B><I>a path leading from the village to the old church </I> </P>
+<P> <SUP> 3 </SUP> <TT> cause </TT> </P>
+<P> <U> ADV. </U><B> normally, usually | inevitably, inexorably </B><I>Industrialization inevitably led to the expansion of the urban working class. </I><B>| (almost) certainly, undoubtedly | not necessarily </B><I>The use of soft drugs does not necessarily lead to a progression to hard drugs. </I><B>| automatically </B><I>Business success does not automatically lead to financial success. </I><B>| naturally </B><I>Discussion of a client's tax affairs will lead naturally into consideration of investment options. </I><B>| directly | indirectly | eventually, ultimately </B> </P>
+<P> <U> VERB + LEAD </U><B> can/could (easily/only), may/might (well), must </B><I>Sugar and fat can more easily lead to obesity than some other foods. The carbon tax might well lead to a doubling of prices for fossil fuels. </I><B>| appear to, seem to | be expected to, be likely to, tend to </B><I>Worrying about your weight is more likely to lead to comforting yourself with a piece of chocolate. </I><B>| be bound to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>the events that led eventually to war </I> </P>
+</DIV><DIV class="item"><P class="word"><B>lead3 </B>/led/ </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> molten </B> </P>
+<P> <U> VERB + LEAD </U><B> be made of </B> </P>
+<P> <U> LEAD + NOUN </U><B> pipe, piping | paint | shot | poisoning | content, levels | industry, mine, miner, mining</B> </P>
+</DIV>

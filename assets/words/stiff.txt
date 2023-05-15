@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>stiff </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> difficult to bend/move </TT> </P>
+<P> <U> VERBS </U><B> be, feel, lie, look, sit, stand </B><I>She lay stiff and still beside him. </I><B>| become, get, go </B><I>My trousers were getting stiff with mud. My fingers had gone stiff with cold. </I> </P>
+<P> <U> ADV. </U><B> very | a bit, fairly, quite, rather </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The clothes were stiff with dust and grease. </I> </P>
+<P> <SUP> 2 </SUP> <TT> having sore muscles </TT> </P>
+<P> <U> VERBS </U><B> be, feel </B><I>He felt stiff all over. </I><B>| become, get, go </B><I>You'll get stiff if you don't have a hot bath. </I><B>| leave sb, make sb </B><I>All that digging made me really stiff. </I> </P>
+<P> <U> ADV. </U><B> really, very | all </B><I>My arm's gone all stiff. </I><B>| a bit, a little, rather </B> </P>
+<P> <U> PREP. </U><B> from </B><I>stiff from kneeling </I> </P>
+<P> <SUP> 3 </SUP> <TT> strong/severe </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B><I>Their punishment seemed rather stiff. </I> </P>
+<P> <U> ADV. </U><B> very </B><I>in the face of some very stiff competition </I><B>| a bit, fairly, quite, rather </B> </P>
+<P> <SUP> 4 </SUP> <TT> not friendly or relaxed </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem, sound </B><I>She was aware that her words sounded stiff. </I><B>| become </B> </P>
+<P> <U> ADV. </U><B> very | a bit, a little, rather, slightly, somewhat </B><I>His manner seemed rather stiff and impersonal. </I> </P>
+</DIV>

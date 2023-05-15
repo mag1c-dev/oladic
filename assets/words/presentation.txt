@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>presentation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a gift or prize </TT> </P>
+<P> <U> ADJ. </U><B> annual | official | special | farewell, retirement </B> </P>
+<P> <U> VERB + PRESENTATION </U><B> make </B> </P>
+<P> <U> PRESENTATION + NOUN </U><B> ceremony, dinner, evening, night </B><I>the school's annual presentation evening </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The president made a presentation to the businesswoman of the year. </I> </P>
+<P> <SUP> 2 </SUP> <TT> informative talk </TT> </P>
+<P> <U> ADJ. </U><B> formal | effective | slick | upbeat | business, sales | audio-visual, slide, video </B> </P>
+<P> <U> VERB + PRESENTATION </U><B> give, make </B> </P>
+<P> <U> PRESENTATION + NOUN </U><B> skills | software </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>Candidates have to give a short presentation on a subject of their choice. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<div class="item"><p class="word first"><b>satellite </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> artificial | commercial, communications, meteorological, reconnaissance, research, spy, weather </b></div></p>
+<p> <u> VERB + SATELLITE </u><div class="ex"><b> launch, put into orbit, put up, send up </b></div></p>
+<p> <u> SATELLITE + VERB </u><div class="ex"><b> be in orbit, orbit sth </b></div><div class="excontent"><i>About 100 Russian satellites are orbiting the earth. </i></div><div class="ex"><b>| pass over sth </b></div><div class="excontent"><i>The satellite passes over Britain every afternoon. </i></div><div class="ex"><b>| monitor sth, track sth </b></div><div class="excontent"><i>a new satellite that monitors changes in the environment </i></div><div class="ex"><b>| broadcast sth, relay sth, transmit sth </b></div><div class="excontent"><i>The satellite will transmit the information back to earth. </i> </div></p>
+<p> <u> SATELLITE + NOUN </u><div class="ex"><b> photograph, picture | data | link </b></div><div class="excontent"><i>The pictures are broadcast through a live satellite link with Tokyo. </i></div><div class="ex"><b>| communications, system, technology | dish, receiver, television/TV | broadcasters, channel, company, station </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> from a/the ~ </b></div><div class="excontent"><i>images from satellites </i></div><div class="ex"><b>| via ~ </b></div><div class="excontent"><i>The BBC broadcast the game via satellite. </i> </div></p>
+</div>

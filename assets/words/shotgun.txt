@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>shotgun </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> 12-bore, double-barrelled, pump-action, sawn-off </B><I>The men were armed with sawn-off shotguns. </I><B>| loaded </B> </P>
+<P> <U> VERB + SHOTGUN </U><B> fire | be armed with, carry | threaten sb with | load | aim </B> </P>
+<P> <U> SHOTGUN + NOUN </U><B> licence | cartridge, pellet | blast </B><I>The cause of death was a shotgun blast at close range. </I><B>| wound</B> </P>
+</DIV>

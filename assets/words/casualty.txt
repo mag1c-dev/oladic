@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>casualty </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person killed/injured in a war/an accident </TT> </P>
+<P> <U> ADJ. </U><B> heavy, high, serious | light | pedestrian | road | civilian, military | human </B> </P>
+<P> <U> VERB + CASUALTY </U><B> cause, inflict </B><I>The guerrillas inflicted heavy casualties on the local population. </I><B>| incur, suffer </B><I>Our division suffered only light casualties. </I> </P>
+<P> <U> CASUALTY + NOUN </U><B> figures, list, rate </B> </P>
+<P> <SUP> 2 </SUP> <TT> part of a hospital </TT> </P>
+<P> <U> VERB + CASUALTY </U><B> be admitted to </B><I>He was admitted to casualty with head injuries. </I><B>| rush sb to, take sb to </B> </P>
+<P> <U> CASUALTY + NOUN </U><B> department, unit, ward </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He works as a doctor in casualty. </I> </P>
+</DIV>

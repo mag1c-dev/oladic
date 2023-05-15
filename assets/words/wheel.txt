@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>wheel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on a bicicyle, car, etc. </TT> </P>
+<P> <U> ADJ. </U><B> bicycle, car, etc. | spare | front | back, rear | nearside | offside | loose, wobbly | alloy </B> </P>
+<P> <U> WHEEL + VERB </U><B> change, replace </B><I>A tyre blew and we had to change the wheel. </I> </P>
+<P> <U> WHEEL + VERB </U><B> go round, spin, turn </B><I>The wheels were still going round. (figurative) The political wheel had turned full circle, and he was back in power. </I><B>| skid, slide, slip </B><I>He braked suddenly, causing the front wheels to skid. </I><B>| crunch, scream, shriek </B><I>the sound of wheels crunching over snow </I><B>| come off, fall off | lock </B><I>She braked too hard and the wheels locked. </I> </P>
+<P> <U> WHEEL + NOUN </U><B> arch, base, bearings, hub, nut, rim, trim | clamp </B> </P>
+<P> <U> PREP. </U><B> on ~s </B><I>A child was pulling along a little dog on wheels. </I><B>| under the ~s </B><I>She fell under the wheels of a bus. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (</B><I>also </I><B>steering wheel</B>) </TT> </P>
+<P> <U> VERB + WHEEL </U><B> grip | turn | take </B><I>I drove the first 200 miles and then Steve took the wheel. </I> </P>
+<P> <U> WHEEL + NOUN </U><B> lock </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>The bus set off again with a fresh driver at the wheel. </I><B>| behind the ~ </B><I>I saw the car drive past, but didn't recognize the woman behind the wheel. </I> </P>
+</DIV>

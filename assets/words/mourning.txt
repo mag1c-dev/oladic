@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>mourning </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sadness about sb's death </TT> </P>
+<P> <U> ADJ. </U><B> deep | national, official </B> </P>
+<P> <U> VERB + MOURNING </U><B> be in, go into </B><I>He was in deep mourning for his dead wife. </I> </P>
+<P> <U> MOURNING + NOUN </U><B> clothes </B> </P>
+<P> <U> PHRASES </U><B> a day/period of mourning </B><I>a day of mourning for the victims of the tragedy </I><B>| a state of mourning </B> </P>
+<P> <SUP> 2 </SUP> <TT> clothes </TT> </P>
+<P> <U> ADJ. </U><B> full </B> </P>
+<P> <U> VERB + MOURNING </U><B> wear </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She was still in full mourning six months after her son's death. </I> </P>
+</DIV>

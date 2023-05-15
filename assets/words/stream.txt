@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>stream </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small river </TT> </P>
+<P> <U> ADJ. </U><B> little, small | shallow | clear | fast-flowing | bubbling </B><I>We picknicked beside a bubbling stream. </I><B>| mountain, underground </B> </P>
+<P> <U> VERB + STREAM </U><B> cross </B> </P>
+<P> <U> STREAM + VERB </U><B> flow, run </B><I>The stream flows through a narrow valley. </I> </P>
+<P> <U> STREAM + NOUN </U><B> bed </B> </P>
+<P> <U> PREP. </U><B> across a/the ~, down a/the ~, in a/the ~ </B><I>There are small fish in the stream. </I><B>| on a/the ~ </B><I>a leaf floating on the stream </I><B>| up a/the ~ </B> </P>
+<P> <U> PHRASES </U><B> the side/edge of the stream </B> </P>
+<P> <SUP> 2 </SUP> <TT> continuous flow of a liquid/gas/light </TT> </P>
+<P> <U> ADJ. </U><B> thin | air, gas </B> </P>
+<P> <U> VERB + STREAM </U><B> let in </B> </P>
+<P> <U> STREAM + VERB </U><B> flow </B><I>A stream of blood flowed from the wound. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B> </P>
+<P> <SUP> 3 </SUP> <TT> continuous flow of people/vehicles/things happening </TT> </P>
+<P> <U> ADJ. </U><B> constant, continuous, endless, never-ending, steady </B><I>a constant stream of letters Cars filed past in an endless stream. </I> </P>
+<P> <U> VERB + STREAM </U><B> let loose/out </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He let loose a stream of abuse. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>mass </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large amount/number of sth </TT> </P>
+<P> <U> ADJ. </U><B> enormous, great, huge, large, vast | broad </B><I>Their policies appeal to the broad mass of the population. </I><B>| formless, shapeless </B><I>When I washed the jumper, it just turned into a shapeless mass. </I><B>| compact, dense, solid | chaotic </B><I>a chaotic mass of ideas </I><B>| tangled </B><I>a tangled mass of hair </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a dense mass of smoke </I><B>| ~es of </B><I>(informal) There were masses of people at the concert. </I></P>
+<P> <SUP> 2 </SUP> <TT> Mass: Christian ceremony  </TT> </P>
+<P> <U> ADJ. </U><B> requiem, Sunday </B> </P>
+<P> <U> VERB + MASS </U><B> attend, go to, hear </B><I>She never failed to attend Sunday Mass. </I><B>| celebrate, offer, say </B><I>The local priest celebrates Mass in the village church. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a requiem Mass for the sailors who drowned </I> </P>
+</DIV>

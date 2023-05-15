@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>cool </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> fairly cold </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look </B><I>The forest looked cool and shady. </I><B>| become, get </B><I>It will probably get cool later, so bring a coat. </I><B>| keep sth </B><I>Try to keep the drinks cool. </I> </P>
+<P> <U> ADV. </U><B> very | fairly, quite, rather | beautifully, blissfully, deliciously, pleasantly, refreshingly, wonderfully </B><I>The temple was light, spacious and blissfully cool. </I> </P>
+<P> <SUP> 2 </SUP> <TT> calm </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look | keep, remain, stay </B><I>She managed to stay cool during the meeting. </I><B>| act, play it </B><I>(informal) He forced himself to count to ten and act cool. For once I felt uncertain about my real feelings. I decided to play it cool. </I> </P>
+<P> <U> ADV. </U><B> very | completely | pretty | professionally </B><I>Professionally cool, she went back to her patient. </I> </P>
+<P> <U> PHRASES </U><B> cool, calm and collected </B><I>He did his best to appear cool, calm and collected. </I> </P>
+<P> <SUP> 3 </SUP> <TT> not friendly/enthusiastic </TT> </P>
+<P> <U> VERBS </U><B> appear, be, sound | remain </B> </P>
+<P> <U> ADV. </U><B> distinctly, very | rather, somewhat </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She was distinctly cool about their plans. </I><B>| towards </B><I>He was cool towards me. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>cool </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> become colder </TT> </P>
+<P> <U> ADV. </U><B> completely, thoroughly | a little, slightly | down, off </B><I>He went for a swim to cool off. </I> </P>
+<P> <U> VERB + COOL </U><B> allow sth to, let sth </B><I>Allow the cake to cool thoroughly before removing it from the tin. </I> </P>
+<P> <SUP> 2 </SUP> <TT> become calmer </TT> </P>
+<P> <U> ADV. </U><B> considerably | slightly, somewhat</B> </P>
+</DIV>

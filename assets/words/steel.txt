@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>steel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> solid | forged, galvanized, mild, reinforced, rolled, stainless </B> </P>
+<P> <U> VERB + STEEL </U><B> make, manufacture, produce | harden, temper </B> </P>
+<P> <U> STEEL + NOUN </U><B> ingot, sheet | industry, manufacture, mill, plant, works </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>building in steel and aluminium </I> </P>
+</DIV>

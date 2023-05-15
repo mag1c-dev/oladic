@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cosmetic </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> merely, purely </B><I>Opponents described the reforms as a purely cosmetic exercise. </I><B>| largely</B> </P>
+</DIV><DIV class="item"><P class="word"><B>cosmetic </B><I>noun </I><B>(</B>usually <B>cosmetics) </B> </P>
+<P> <U> ADJ. </U><B> expensive | cheap </B> </P>
+<P> <U> VERB + COSMETIC </U><B> use, wear | apply, put on </B> </P>
+<P> <U> COSMETIC + NOUN </U><B> business, company, industry</B> </P>
+</DIV>

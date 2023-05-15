@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>disruption </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, major, massive, serious, severe | minimum </B><I>how to organize the building work so as to cause minimum disruption </I><B>| widespread | undue </B><I>to allow the school to function without undue disruption </I><B>| inevitable | economic, family, political, social </B><I>the effects of family disruption during childhood </I><B>| traffic </B> </P>
+<P> <U> VERB + DISRUPTION </U><B> cause, create, lead to | suffer </B><I>The city centre suffered some disruption due to a bomb scare. </I><B>| avoid, prevent | minimize </B> </P>
+<P> <U> DISRUPTION + VERB </U><B> occur </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The bombing campaign caused massive disruption to industry. </I> </P>
+</DIV>

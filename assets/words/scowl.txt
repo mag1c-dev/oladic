@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>scowl </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> black, dark | permanent </B> </P>
+<P> <U> VERB + SCOWL </U><B> wear | give sb | be set in </B><I>His face was set in a permanent scowl. </I> </P>
+<P> <U> SCOWL + VERB </U><B> deepen </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>Her brows drew together in a scowl. </I><B>| with a ~ </B><I>He looked up at me with a scowl. </I> </P>
+<P> <U> PHRASES </U><B> have a scowl on your face</B> </P>
+</DIV><DIV class="item"><P class="word"><B>scowl </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> darkly, fiercely, heavily </B><I>She scowled darkly and muttered something under her breath. </I><B>| down </B> </P>
+<P> <U> PREP. </U><B> at </B><I>His eyes scowled down at her. </I> </P>
+</DIV>

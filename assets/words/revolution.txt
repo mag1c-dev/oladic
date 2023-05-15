@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>revolution </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> changing the political system </TT> </P>
+<P> <U> ADJ. </U><B> successful | bloody, violent </B><I>Thousands of people were killed in the bloody revolution that toppled the government. </I><B>| bloodless, peaceful | popular | political | anti-communist, anti-democratic, etc. | communist, socialist, etc. | palace | bourgeois, proletarian | world </B><I>Some Marxists still believe that socialism will one day triumph through world revolution. </I> </P>
+<P> <U> VERB + REVOLUTION </U><B> carry out, conduct, fight, foment, stage </B><I>The activists were charged with fomenting revolution. </I><B>| crush, put down | call for </B> </P>
+<P> <U> REVOLUTION + VERB </U><B> break out | spread | overthrow sth, topple sth </B><I>the revolution which overthrew the old regime </I><B>| fail </B><I>the failed 1911 revolution </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>a revolution against communist rule </I> </P>
+<P> <U> PHRASES </U><B> the outbreak of the revolution, revolution from above/below </B>(= fought by people already in power/by people without political power), <B>the threat of revolution </B> </P>
+<P> <SUP> 2 </SUP> <TT> complete change in methods, opinions, etc. </TT> </P>
+<P> <U> ADJ. </U><B> quiet </B><I>There has been a quiet revolution in the way writing is taught. </I><B>| complete | virtual | minor | agrarian, agricultural, computer, cultural, economic, electronic, environmental, industrial, political, scientific, sexual, social, technological </B> </P>
+<P> <U> VERB + REVOLUTION </U><B> achieve, bring (about) </B><I>The coming of television brought about a revolution in people's leisure activities. </I><B>| undergo </B><I>Marketing has undergone a revolution in recent years. </I><B>| embrace, welcome </B><I>Doctors have welcomed the fitness revolution. </I> </P>
+<P> <U> REVOLUTION + VERB </U><B> take place </B><I>As the eighteenth century wore on, an agricultural revolution took place. </I><B>| transform sth </B><I>The computer revolution has transformed the workplace. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>He achieved a virtual revolution in the way music is recorded. </I> </P>
+<P> <SUP> 3 </SUP> <TT> movement around sth; one complete turn </TT> </P>
+<P> <U> ADJ. </U><B> complete, full </B><I>One full revolution of the knob will open the hatch. </I> </P>
+<P> <U> VERB + REVOLUTION </U><B> make </B> </P>
+<P> <U> PREP. </U><B> through a ~ </B><I>The earth turns through one complete revolution approximately every twenty-four hours. </I><B>| ~ about/around/round </B><I>How long does it take for the planet Jupiter to make a complete revolution around the sun? </I> </P>
+<P> <U> PHRASES </U><B> revolutions a/per minute </B>&gt; See <A HREF="rev_noun.htm">REV</A> </B> </P>
+</DIV>

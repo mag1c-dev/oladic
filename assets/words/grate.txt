@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>grate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> rub sth into small pieces </TT> </P>
+<P> <U> ADV. </U><B> coarsely | finely </B><I>Sprinkle the top of the dish with some finely grated cheese. </I> </P>
+<P> <U> PHRASES </U><B> freshly grated </B><I>a teaspoon of freshly grated nutmeg </I> </P>
+<P> <SUP> 2 </SUP> <TT> make a sharp unpleasant sound </TT> </P>
+<P> <U> ADV. </U><B> harshly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The steel of the helmet grated against the door. </I><B>| on </B><I>The grit beneath her soles grated harshly on the wooden deck. </I> </P>
+</DIV>

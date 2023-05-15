@@ -1,0 +1,8 @@
+
+<div class="item"><p class="word first"><b>salary </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> competitive, generous, good, handsome, high, large, top </b></div><div class="excontent"><i>Top salaries are liable for a higher rate of tax. </i></div><div class="ex"><b>| low, small | reasonable | average | basic | pensionable | gross | net | starting | current | final </b></div><div class="excontent"><i>Your pension will be based on a proportion of your final salary. </i></div><div class="ex"><b>| annual, monthly | tax-free </b></div></p>
+<p> <u> VERB + SALARY </u><div class="ex"><b> pay (sb) | earn, receive | increase | cut, decrease, reduce </b></div></p>
+<p> <u> SALARY + NOUN </u><div class="ex"><b> package </b></div><div class="excontent"><i>The position is rewarded with a generous salary package. </i></div><div class="ex"><b>| award, increase, rise </b></div><div class="excontent"><i>The top salary awards are completely out of line with inflation. </i></div><div class="ex"><b>| cut | level | review | band, grade, range </b></div><div class="excontent"><i>What salary band will I be on after two years in the company? </i></div><div class="ex"><b>| scale, structure | bill, costs </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> on a ~ </b></div><div class="excontent"><i>It's impossible to bring up a family on such a low salary. </i> </div></p>
+<p> <u> PHRASES </u><div class="ex"><b> an increase/a rise in salary, a cut/drop in salary </b></div><div class="excontent"><i>Workers are being asked to take a cut in salary. </i> </div></p>
+</div>

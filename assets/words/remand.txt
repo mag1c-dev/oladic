@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>remand </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> custodial </B> </P>
+<P> <U> VERB + REMAND </U><B> be held on </B><I>He was held on remand, charged with causing malicious damage to property. </I> </P>
+<P> <U> REMAND + NOUN </U><B> centre, home | prisoner </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>I was in prison on remand for three weeks. </I> </P>
+</DIV>

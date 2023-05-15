@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>shred </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small thin piece of sth </TT> </P>
+<P> <U> ADJ. </U><B> fine, thin | tattered </B><I>the tattered shreds of their flag </I> </P>
+<P> <U> PREP. </U><B> in/into ~s </B><I>Cut the orange peel into fine shreds. (figurative) Their economy is in shreds. </I><B>| ~ of </B><I>leaving just a few shreds of cloth </I> </P>
+<P> <U> PHRASES </U><B> cut/rip/tear sth to shreds </B><I>(figurative) Their case was torn to shreds by the defence lawyer. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very small amount of sth </TT> </P>
+<P> <U> ADJ. </U><B> every </B><I>With her had gone every shred of hope he had for the future. </I><B>| last, remaining </B><I>She was hanging on to the last remaining shreds of her reputation. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>There is not a shred of doubt in my mind that we will win. </I> </P>
+<P> <U> PHRASES </U><B> not a/the slightest shred of sth, not/without a shred of evidence</B> </P>
+</DIV><DIV class="item"><P class="word"><B>shred </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> finely </B><I>Shred the lettuce leaves finely. </I> </P>
+</DIV>

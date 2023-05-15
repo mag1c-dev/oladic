@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>investigate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, closely | extensively | fully, properly, thoroughly </B><I>The allegations have not yet been properly investigated. </I><B>| further | actively </B> </P>
+<P> <U> VERB + INVESTIGATE </U><B> ask sb to, be called in to </B><I>Police have been called in to investigate the complaints. </I><B>| agree to, pledge to, promise to </B><I>The company has pledged to investigate claims that its products are unsafe. </I><B>| aim to, be designed to, seek to</B> </P>
+</DIV>

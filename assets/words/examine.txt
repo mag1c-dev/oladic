@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>examine </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> consider/look at sb/sth carefully </TT> </P>
+<P> <U> ADV. </U><B> carefully, closely, in detail, minutely </B><I>Each case must be carefully examined. We shall now proceed to examine these two aspects of the problem in detail. </I><B>| exhaustively, fully, properly, thoroughly | briefly | further | critically </B><I>Critically examine your work as if you were looking at someone else's efforts. </I><B>| medically </B> </P>
+<P> <U> VERB + EXAMINE </U><B> aim to, be designed to, seek to, set out to </B><I>This study sets out to examine the possible effects of climate change. </I><B>| proceed to | stop to </B><I>Anna stopped to examine a plant growing by the stream. </I><B>| be necessary to, need to | want to, wish to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The room was examined minutely for clues. </I> </P>
+<P> <U> PHRASES </U><B> let us examine &hellip; </B><I>Let us examine the implications of this theory. </I> </P>
+<P> <SUP> 2 </SUP> <TT> test what sb knows/can do </TT> </P>
+<P> <U> ADV. </U><B> externally, internally </B><I>The course is externally examined </I>(= by people from outside the college, university, etc.)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>The students will be examined in all subjects at the end of term. </I><B>| on </B><I>You are only being examined on this semester's work. </I>&gt; See <A HREF="cross-examination_noun.htm">CROSS-EXAMINATION</A> </B> </P>
+</DIV>

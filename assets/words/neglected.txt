@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>neglected </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not given enough attention </TT> </P>
+<P> <U> VERBS </U><B> be, feel, lie, look, remain, seem, stand </B><I>His tools lay neglected in the garden. </I><B>| become, get </B> </P>
+<P> <U> ADV. </U><B> badly, extremely, much, sadly, seriously, sorely, very, woefully </B><I>It is a sadly neglected work. The building is sorely neglected. </I><B>| largely | comparatively, rather, relatively, somewhat | hitherto, previously | unjustly </B><I>She is an excellent and unjustly neglected author. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not given enough food, clothing, etc. </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>The group of street children looked ragged and neglected. </I> </P>
+<P> <U> ADV. </U><B> badly, grossly, severely</B> </P>
+</DIV>

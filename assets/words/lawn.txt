@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>lawn </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> manicured, neat, tended </B><I>a carefully tended lawn </I><B>| overgrown | back, front </B> </P>
+<P> <U> VERB + LAWN </U><B> cut, mow, trim </B><I>The lawn really needs mowing. </I> </P>
+<P> <U> PHRASES </U><B> a sweep of lawn </B><I>The cottage sits on a hill above a sweep of lawn. </I> </P>
+</DIV>

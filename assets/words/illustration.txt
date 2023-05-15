@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>illustration </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> picture in a book etc. </TT> </P>
+<P> <U> ADJ. </U><B> black and white, colour/coloured, full-colour | beautiful, lively </B><I>The clear, lively illustrations are in full colour. </I><B>| clear | book, cover </B> </P>
+<P> <U> ILLUSTRATION + VERB </U><B> show sth | accompany sth </B><I>the illustrations accompanying the text </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>The kite is assembled as shown in the illustration. </I><B>| with an/the ~ | ~ by </B><I>&lsquo;The Black Cat&rsquo; by Alan Ahlberg, with illustrations by Arthur Robins </I> </P>
+<P> <SUP> 2 </SUP> <TT> example </TT> </P>
+<P> <U> ADJ. </U><B> good, excellent, perfect | clear, dramatic, graphic, striking, vivid </B><I>These events are a graphic illustration of the fact that their promises cannot be trusted. </I><B>| simple </B><I>Let us take a very simple illustration. </I><B>| classic </B> </P>
+<P> <U> VERB + ILLUSTRATION </U><B> serve as </B><I>Chicago serves as an illustration of the problems faced by such cities. </I><B>| give (sb), provide </B><I>Explain the policy of detente and provide some illustrations of how it worked in practice. </I><B>| take, use sth as/for </B><I>I will use one recent example as an illustration. </I> </P>
+<P> <U> PREP. </U><B> as an ~ </B><I>As an illustration of this point, I'm going to tell you a true story. </I><B>| by way of ~ </B><I>He quoted several famous writers by way of illustration. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>shopping </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> food, etc. bought in shops </TT> </P>
+<P> <U> VERB + SHOPPING </U><B> be laden with | carry | put away, unpack </B><I>They unpacked the shopping and put it away. </I> </P>
+<P> <SUP> 2 </SUP> <TT> activity of shopping </TT> </P>
+<P> <U> ADJ. </U><B> weekend, weekly, week's </B><I>I do my weekly shopping on a Saturday. </I><B>| Christmas | supermarket | home, Internet </B><I>the move towards home shopping using your computer </I><B>| late-night | duty-free | window | one-stop </B><I>the consumers' demand for one-stop shopping </I>(= buying all they need in one place) </B> </P>
+<P> <U> VERB + SHOPPING </U><B> do, go (out) </B><I>She's doing some last-minute Christmas shopping. I have to go shopping in town this afternoon. </I> </P>
+<P> <U> SHOPPING + NOUN </U><B> bag, basket, trolley | list | arcade, area, centre, complex, facilities, mall, precinct, street </B><I>the town's main shopping street </I><B>| expedition, spree, trip </B><I>She won </I>&pound;</B><I>10,000 and immediately went on a shopping spree. </I><B>| hours </B><I>outside normal shopping hours </I> </P>
+</DIV>

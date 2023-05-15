@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>toxic </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, stay | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very | quite | potentially </B><I>potentially toxic chemicals </I> </P>
+<P> <U> PREP. </U><B> to </B><I>This chemical is toxic to many forms of life. </I> </P>
+</DIV>

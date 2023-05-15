@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>treat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, real, special | little </B><I>I like to give the girls a little treat every now and then. </I><B>| occasional, rare | anniversary, birthday, Christmas, holiday | family | tasty </B><I>Snails are a tasty treat for hedgehogs. </I> </P>
+<P> <U> VERB + TREAT </U><B> give sb | deserve </B> </P>
+<P> <U> PREP. </U><B> as/for a ~ </B><I>We took the kids to the zoo for a special treat. </I> </P>
+<P> <U> PHRASES </U><B> be in for a treat/have a treat in store </B><I>If their latest album is half as good as their last one, we've a real treat in store. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>treat </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> handle sb/sth in a particular way </TT> </P>
+<P> <U> ADV. </U><B> equitably, fairly, humanely, kindly, leniently, sympathetically, well | abominably, badly, harshly, roughly, shabbily, unfairly, unjustly </B><I>They treat their animals quite badly. </I><B>| seriously </B><I>These allegations are being treated very seriously indeed. </I><B>| differently | separately </B> </P>
+<P> <U> VERB + TREAT </U><B> tend to </B><I>Parents still tend to treat boys differently from girls. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>the tendency to treat older people as helpless and dependent </I><B>| like </B><I>Don't treat me like a child! </I><B>| with </B><I>He treated the idea with suspicion. </I> </P>
+<P> <U> PHRASES </U><B> a tendency to treat sb/sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> give sb medical treatment </TT> </P>
+<P> <U> ADV. </U><B> easily | successfully | surgically </B> </P>
+<P> <U> VERB + TREAT </U><B> be difficult to | use sth to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She was treated for cuts and bruises. </I><B>| with </B><I>We can treat this condition quite successfully with antibiotics. </I> </P>
+<P> <SUP> 3 </SUP> <TT> use a substance to protect sth </TT> </P>
+<P> <U> ADV. </U><B> chemically </B><I>Chemically treated hair can become dry and brittle. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>You need to treat this wood for woodworm. </I><B>| with </B><I>The timber has been treated with chemicals to preserve it. </I> </P>
+</DIV>

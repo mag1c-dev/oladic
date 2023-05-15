@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>receiver </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of a telephone </TT> </P>
+<P> <U> ADJ. </U><B> phone, telephone </B> </P>
+<P> <U> VERB + RECEIVER </U><B> lift, pick up </B><I>She took a deep breath and lifted the receiver off its hook. </I><B>| hold | put back/down, replace | snatch up | bang down, slam down </B><I>He slammed the receiver down and burst into tears. </I><B>| drop </B> </P>
+<P> <U> RECEIVER + VERB </U><B> dangle </B><I>The receiver was dangling from the payphone. </I> </P>
+<P> <U> PREP. </U><B> over the ~ </B><I>&lsquo;It's your mother on the phone again!&rsquo;, said John with his hand over the receiver. </I> </P>
+<P> <U> PHRASES </U><B> hold/put the receiver to your ear </B><I>She picked up the receiver and put it to her ear. </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of radio/television equipment </TT> </P>
+<P> <U> ADJ. </U><B> portable | radio, satellite, television </B> </P>
+<P> <U> RECEIVER + NOUN </U><B> unit </B><I>To change channel, select the desired number on the receiver unit. </I> </P>
+<P> <SUP> 3 </SUP> <TT> person in charge of a bankrupt company </TT> </P>
+<P> <U> ADJ. </U><B> official | administrative </B> </P>
+<P> <U> VERB + RECEIVER </U><B> appoint, appoint sb (as) | call in </B><I>They had to lay off 200 staff and call in the receivers. </I> </P>
+<P> <U> PHRASES </U><B> in the hands of the receiver </B><I>The company remained in the hands </I>(= under the control) </B><I>of the receiver. </I> </P>
+</DIV>

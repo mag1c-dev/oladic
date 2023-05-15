@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>scrub </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small trees growing in a dry area </TT> </P>
+<P> <U> ADJ. </U><B> desert </B><I>miles of desert scrub </I><B>| low </B><I>The vegetation consisted of low scrub. </I> </P>
+<P> <U> QUANT. </U><B> patch </B><I>The horses stood near a patch of scrub. </I> </P>
+<P> <U> VERB + SCRUB </U><B> be covered in, be overgrown with </B><I>The mountain was covered in scrub. </I> </P>
+<P> <SUP> 2 </SUP> <TT> cleaning </TT> </P>
+<P> <U> ADJ. </U><B> good </B><I>I gave the table a good scrub. </I> </P>
+<P> <U> VERB + SCRUB </U><B> give sb/sth</B> </P>
+</DIV><DIV class="item"><P class="word"><B>scrub </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> thoroughly | away, down, out </B> </P>
+<P> <U> PREP. </U><B> at </B><I>She scrubbed at the child's face with a tissue. </I><B>| from, off </B><I>He scrubbed the blood from his shoes. </I> </P>
+<P> <U> PHRASES </U><B> freshly scrubbed </B><I>his freshly scrubbed face </I><B>| scrub sth clean </B><I>The table had been scrubbed clean. </I> </P>
+</DIV>

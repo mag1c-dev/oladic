@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>climate </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> weather conditions of a particular region </TT> </P>
+<P> <U> ADJ. </U><B> hot, warm | cold, cool | mild | extreme, harsh, inhospitable, severe </B><I>the severe northern climate </I><B>| damp, humid, wet | arid, dry | equatorial, Mediterranean, subtropical, temperate, tropical | northern, southern, etc. | global </B><I>global climate change </I> </P>
+<P> <U> VERB + CLIMATE </U><B> have </B><I>The city has a warm climate. </I> </P>
+<P> <U> CLIMATE + NOUN </U><B> change </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Little grows in such a dry climate. </I> </P>
+<P> <SUP> 2 </SUP> <TT> opinions, etc. people have at a particular time </TT> </P>
+<P> <U> ADJ. </U><B> favourable | hostile, unfavourable | current, present, prevailing | changed, changing | business, economic, emotional, financial, ideological, intellectual, moral, political, social </B> </P>
+<P> <U> VERB + CLIMATE </U><B> create </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>His ideas on equality are viewed as utopian in the current political climate. </I><B>| ~ for </B><I>a climate for economic recovery </I><B>| ~ of </B><I>The new policies have created a climate of fear. </I> </P>
+<P> <U> PHRASES </U><B> a climate of opinion</B> </P>
+</DIV>

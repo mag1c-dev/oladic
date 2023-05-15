@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>integrate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> combine two things </TT> </P>
+<P> <U> ADV. </U><B> closely, tightly, well </B><I>They called for the defence system to be more closely integrated. </I><B>| completely, fully, seamlessly, thoroughly | properly | successfully </B><I>The department has successfully integrated new ideas into the traditional course structure. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>The results should be integrated into the final report. </I><B>| with </B><I>This computer program can be integrated with existing programs. </I> </P>
+<P> <U> PHRASES </U><B> highly integrated </B>(= with many different parts working successfully together) <I>a highly integrated approach to planning </I><B>| poorly integrated </B> </P>
+<P> <SUP> 2 </SUP> <TT> mix with other people </TT> </P>
+<P> <U> ADV. </U><B> well </B><I>The lower primary pupils are well integrated into the life of the school. </I><B>| completely, fully | quickly </B> </P>
+<P> <U> PREP. </U><B> into </B><I>They soon became fully integrated into the local community. </I><B>| with </B><I>They didn't integrate with the other children. </I> </P>
+</DIV>

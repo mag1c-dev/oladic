@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>exit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way out </TT> </P>
+<P> <U> ADJ. </U><B> front, rear, side | emergency, fire | the nearest </B><I>She headed for the nearest exit. </I> </P>
+<P> <U> VERB + EXIT </U><B> head for, make for | bar, block </B><I>Do not leave bags lying around which could block the emergency exits. </I> </P>
+<P> <U> EXIT + NOUN </U><B> door, gate, route </B> </P>
+<P> <U> PREP. </U><B> to/towards the ~ </B><I>They moved to the exits. </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of leaving </TT> </P>
+<P> <U> ADJ. </U><B> fast, hurried, quick, swift | dignified | early </B><I>her early exit from the tournament, in only the second round </I><B>| mass </B> </P>
+<P> <U> VERB + EXIT </U><B> make </B><I>She turned on her heel and made what she hoped was a dignified exit. </I> </P>
+<P> <U> EXIT + NOUN </U><B> visa </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a mass exit of members from the party </I> </P>
+<P> <SUP> 3 </SUP> <TT> for traffic </TT> </P>
+<P> <U> ADJ. </U><B> motorway | northbound, southbound, etc. </B> </P>
+<P> <U> VERB + EXIT </U><B> take </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>At the roundabout, take the exit for Swindon and Bristol. </I><B>| ~ from </B><I>Traffic lights control the exit from the M8 at Newbridge. </I> </P>
+</DIV>

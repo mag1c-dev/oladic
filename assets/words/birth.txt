@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>birth control </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> effective </B> </P>
+<P> <U> VERB + BIRTH CONTROL </U><B> practise, use </B> </P>
+<P> <U> PHRASES </U><B> a form/method of birth control</B> </P>
+</DIV><DIV class="item"><P class="word"><B>birth </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> live </B><I>Better living conditions mean more live births and fewer stillbirths. </I><B>| normal | breech, Caesarean, premature | multiple | legitimate | illegitimate | home </B> </P>
+<P> <U> VERB + BIRTH </U><B> give </B><I>She gave birth to a baby boy. </I><B>| register </B> </P>
+<P> <U> BIRTH + NOUN </U><B> certificate | rate | weight </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>The baby weighed 7 pounds at birth. </I><B>| at/during a/the ~ </B><I>The child's father was present at the birth. </I><B>| by ~ </B><I>He was American by birth, but lived in France. </I> </P>
+<P> <U> PHRASES </U><B> births, marriages and deaths </B><I>a registry of births, marriages and deaths </I><B>| your date/place of birth, of low/noble birth </B>(= born to a poor/aristocratic family), <B>the moment of birth</B> </P>
+</DIV>

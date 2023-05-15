@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>blind </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> unable to see </TT> </P>
+<P> <U> VERBS </U><B> be, be born | be registered (as) | go </B><I>She went blind at the age of ten. </I><B>| make sb </B> </P>
+<P> <U> ADV. </U><B> totally | almost, virtually | partially </B> </P>
+<P> <U> PHRASES </U><B> as blind as a bat, be blind in one eye/in both eyes </B><I>He is almost blind in one eye. </I></P>
+<P> <SUP> 2 </SUP> <TT> blind to sth: not willing to notice/admit sth  </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | make sb </B> </P>
+<P> <U> ADV. </U><B> completely, totally </B><I>His own problems have made him completely blind to the sufferings of others. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>blind </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> roller, venetian </B> </P>
+<P> <U> VERB + BLIND </U><B> open, pull up, raise | close, draw, lower, pull down </B> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>She saw a shadowy figure through the blind. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>blind </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> almost, nearly </B><I>The strong light almost blinded him. </I><B>| momentarily, temporarily</B> </P>
+</DIV>

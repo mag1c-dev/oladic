@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>behaviour </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> exemplary, good </B><I>He had his jail term cut for good behaviour. </I><B>| acceptable | antisocial, bad, unacceptable, undesirable | deviant, problem </B><I>Teachers can't always respond effectively to problem behaviour. </I><B>| normal | strange | aggressive, criminal, disruptive, violent | animal, human, sexual, social </B> </P>
+<P> <U> VERB + BEHAVIOUR </U><B> control, influence </B><I>Parents can influence the behaviour of their children. </I><B>| alter, change, modify | display, exhibit, show </B><I>Animals in zoos often display disturbed behaviour. </I> </P>
+<P> <U> BEHAVIOUR + NOUN </U><B> pattern </B> </P>
+<P> <U> PREP. </U><B> ~ towards </B><I>his behaviour towards his parents </I> </P>
+<P> <U> PHRASES </U><B> behaviour and attitudes, be on your best behaviour </B>(= to behave very well in order to impress sb), <B>a code of behaviour, a pattern of behaviour, standards of behaviour </B><I>a new study looking at the behaviour and attitudes of young men </I> </P>
+</DIV>

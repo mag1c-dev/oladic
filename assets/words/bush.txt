@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>bush </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plant </TT> </P>
+<P> <U> ADJ. </U><B> gorse, rose, thorn, etc. | prickly, scrubby </B> </P>
+<P> <U> QUANT. </U><B> clump </B><I>a large clump of rose bushes </I> </P>
+<P> <U> VERB + BUSH </U><B> plant | prune </B><I>to prune the rose bushes </I> </P>
+<P> <U> BUSH + VERB </U><B> grow </B> </P>
+<P> <U> PREP. </U><B> among/in the ~es </B><I>She was hiding in the bushes at the side of the lane. </I> </P>
+<P> <SUP> 2 </SUP> <TT> wild land in Africa/Australia </TT> </P>
+<P> <U> ADJ. </U><B> dense, thick | native </B><I>hills that have become a wasteland after the removal of native bush </I> </P>
+<P> <U> BUSH + NOUN </U><B> fire </B> </P>
+<P> <U> PREP. </U><B> in/into the ~ </B><I>going out into the bush </I> </P>
+</DIV>

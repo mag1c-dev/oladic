@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>crazy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> mad/wild </TT> </P>
+<P> <U> VERBS </U><B> be, seem, sound | go </B><I>I'd go crazy if I lived here. </I><B>| drive sb </B><I>The group's performance always drives the audience crazy. </I> </P>
+<P> <U> ADV. </U><B> really | absolutely, completely, totally | a bit, half, a little, pretty, quite, slightly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>We were crazy with excitement. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very angry </TT> </P>
+<P> <U> VERBS </U><B> be | go | drive sb </B><I>The kids would answer back, and that drove her crazy. </I> </P>
+<P> <U> ADV. </U><B> absolutely, completely </B> </P>
+<P> <U> PREP. </U><B> at </B><I>He was crazy at me for letting the goal in. </I> </P>
+</DIV>

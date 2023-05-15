@@ -1,0 +1,30 @@
+
+<DIV class="item"><P class="word"><B>relief </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> removal of anxiety/pain </TT> </P>
+<P> <U> ADJ. </U><B> considerable, deep, enormous, great, huge, immense, intense, overwhelming, tremendous | certain </B><I>The news of his appointment was received with a certain relief by most people. </I><B>| sheer | complete | temporary </B><I>The drugs only provided temporary relief from the pain. </I><B>| fast, immediate, instant | evident, obvious </B><I>She smiled with evident relief. </I><B>| blessed, welcome | pain </B><I>The injection gives complete pain relief. </I> </P>
+<P> <U> VERB + RELIEF </U><B> bring (sb), give (sb), offer (sb), provide (sb with) </B><I>Morning brought no relief from the heat. </I><B>| come as </B><I>The news came as a welcome relief to Brian. </I><B>| seek </B><I>She sought relief in drink. </I><B>| find, get </B><I>He found relief from his fears in a world of fantasy and art. </I><B>| experience, feel </B><I>I felt enormous relief once they phoned. </I><B>| sense </B><I>She could sense his relief when she said she wouldn't be leaving. </I><B>| express </B> </P>
+<P> <U> RELIEF + VERB </U><B> come </B><I>He believes that relief only comes from helping others with their suffering. </I><B>| flood </B><I>Relief flooded through me as the aeroplane landed safely. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She smiled in relief. </I><B>| out of ~ </B><I>He hugged her out of sheer relief. </I><B>| to your ~ </B><I>To my great relief, she didn't notice that anything was wrong. </I><B>| with ~ </B><I>He sighed with relief. </I><B>| ~ at </B><I>relief at not having been made a fool of </I><B>| ~ from </B><I>relief from hunger </I><B>| ~ to </B><I>The news was a huge relief to her. </I> </P>
+<P> <U> PHRASES </U><B> a cry/a sigh/tears of relief </B><I>He breathed a sigh of relief. </I><B>| a sense/wave of relief </B> </P>
+<P> <SUP> 2 </SUP> <TT> food/money/medicine given to people in need </TT> </P>
+<P> <U> ADJ. </U><B> humanitarian | emergency | famine, flood | foreign, international </B> </P>
+<P> <U> VERB + RELIEF </U><B> give sb, provide (sb with), send (sb) </B><I>The organization provides emergency famine relief. </I> </P>
+<P> <U> RELIEF + NOUN </U><B> work </B><I>She said that the fighting has halted almost all relief work in the area. </I><B>| effort, operation </B><I>There was a huge international relief effort to bring help to the stricken area. </I><B>| package, programme </B><I>Congress has agreed an $11 million relief package for victims of the hurricane. </I><B>| aid, supplies | agency, fund, organization | staff, worker | convoy, flight </B> </P>
+<P> <SUP> 3 </SUP> <TT> reduction in the amount of tax, etc. you have to pay </TT> </P>
+<P> <U> ADJ. </U><B> debt, interest, mortgage, tax </B> </P>
+<P> <U> VERB + RELIEF </U><B> get, obtain, receive </B><I>You get mortgage relief of 10% on the next </I>&pound;</B><I>5,000. </I><B>| be entitled to, qualify for | apply for, claim, seek </B> </P>
+<P> <U> RELIEF + VERB </U><B> be available </B><I>No tax relief is available in respect of this loss. </I> </P>
+<P> <SUP> 4 </SUP> <TT> sth interesting that replaces sth boring </TT> </P>
+<P> <U> ADJ. </U><B> light | comic </B> </P>
+<P> <U> VERB + RELIEF </U><B> give (sb), provide (sb with) </B><I>The scene provided some comic relief for the audience. </I> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>The comical characters are brought into the story for a little light relief. </I> </P>
+<P> <U> PHRASES </U><B> a moment of relief </B> </P>
+<P> <SUP> 5 </SUP> <TT> way of decorating wood, stone, etc. </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>The scene has been carved in high relief. </I><B>| bas, low | carved, sculptured | alabaster, bronze, marble, plaster, stucco | classical, Greek, Roman </B> </P>
+<P> <U> VERB + RELIEF </U><B> carve (sth) in </B> </P>
+<P> <U> RELIEF + NOUN </U><B> carving, sculpture | panel </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>a sculpture in high relief </I> </P>
+<P> <SUP> 6 </SUP> <TT> making sth noticeable </TT> </P>
+<P> <U> ADJ. </U><B> sharp, stark </B> </P>
+<P> <U> VERB + RELIEF </U><B> bring sth into, throw sth into </B><I>(often figurative) The proximity of the wealthy suburb to the squatter camp throws the plight of the squatters into even sharper relief. </I><B>| stand out in </B><I>The snow-capped mountains stood out in sharp relief against the blue sky. </I> </P>
+</DIV>

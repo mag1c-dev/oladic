@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>able </B><I>adj. </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> able to do sth having the ability to do sth  </TT> </P>
+<P> <U> VERBS </U><B> be, feel, prove, seem </B> </P>
+<P> <U> ADV. </U><B> perfectly, quite, well </B><I>He is well able to take care of himself. </I><B>| better, more </B><I>Once you've had some sleep you'll feel better able to cope. </I><B>| just </B><I>I was just able to make out a dark figure in the distance. </I><B>| barely, hardly, only just, scarcely | less </B> </P>
+<P> <SUP> 2 </SUP> <TT> clever; doing your job well </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B><I>She seems very able. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | fairly, reasonably</B> </P>
+</DIV>

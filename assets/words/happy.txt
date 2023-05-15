@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>happy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling pleasure </TT> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, seem, sound </B><I>Outwardly the couple appeared happy. Andrew felt happier than he had been for a long time. </I><B>| become | make sb </B><I>Money won't make you happy. </I><B>| keep sb </B><I>He went home from time to time, to keep his mother happy. </I> </P>
+<P> <U> ADV. </U><B> extremely, only too, particularly, really, very </B><I>We'd be only too happy to accept your invitation. </I><B>| completely, perfectly, quite </B><I>Mum seemed perfectly happy with my explanation. </I><B>| genuinely, truly </B><I>For the first time in her life, she felt truly happy. </I><B>| far from, not altogether, not at all, not entirely, not exactly, not particularly, not too, not totally </B><I>Her boss was not entirely happy about the situation. </I><B>| fairly, pretty, reasonably, relatively | just </B><I>I'm just happy to be back home. </I><B>| absurdly, amazingly, blissfully, deliriously, ecstatically, radiantly, ridiculously, strangely, surprisingly | clearly, obviously </B> </P>
+<P> <U> PREP. </U><B> about </B><I>I'm not too happy about her attitude. </I><B>| for </B><I>So you're getting married, I hear. I'm really happy for you! </I><B>| with </B><I>I was quite happy with the way things went. </I> </P>
+<P> <SUP> 2 </SUP> <TT> giving pleasure </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, gloriously, particularly, very, wonderfully </B><I>It had been a gloriously happy time. </I><B>| quite</B> </P>
+</DIV>

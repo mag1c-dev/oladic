@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>stimulus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, major, powerful, strong | negative, positive | external | initial | auditory, intellectual, sensory, verbal, visual </B> </P>
+<P> <U> VERB + STIMULUS </U><B> act as, give, provide | react to, respond to </B> </P>
+<P> <U> STIMULUS + VERB </U><B> come from sth </B><I>The initial stimulus came from a letter in the newspaper. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The very act of lying down in bed should provide a strong stimulus for sleep. </I><B>| ~ to </B><I>A reduction in corporate tax should act as a stimulus to economic activity. </I> </P>
+<P> <U> PHRASES </U><B> (in) response to a stimulus</B> </P>
+</DIV>

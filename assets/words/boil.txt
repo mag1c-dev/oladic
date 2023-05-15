@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>boil </B><I>noun </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> the boil state of boiling  </TT> </P>
+<P> <U> VERB + BOIL </U><B> come to </B><I>Just before the milk comes to the boil, turn down the heat. </I><B>| bring sth to </B><I>Bring the soup to the boil, then simmer for five minutes. </I><B>| go off </B><I>(usually figurative) He played brilliantly for the first set but then went rather off the boil. </I> </P>
+<P> <SUP> 2 </SUP> <TT> infected spot </TT> </P>
+<P> <U> VERB + BOIL </U><B> burst, lance </B><I>The doctor lanced the boil. </I> </P>
+<P> <U> BOIL + VERB </U><B> erupt </B><I>A boil had erupted on his neck. </I><B>| burst</B> </P>
+</DIV><DIV class="item"><P class="word"><B>boil </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> rapidly </B><I>Boil the beans rapidly for ten minutes. </I> </P>
+<P> <U> VERB + BOIL </U><B> put sth on to </B><I>I'll put the kettle on to boil. </I> </P>
+</DIV>

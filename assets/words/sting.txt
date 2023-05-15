@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>sting </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of an insect, etc. </TT> </P>
+<P> <U> ADJ. </U><B> dangerous, nasty, painful | bee, wasp, etc. | nettle, etc. | deadly, fatal </B> </P>
+<P> <U> VERB + STING </U><B> have </B><I>The scorpion has a sting that can be deadly. </I><B>| get </B><I>You can get a nasty sting from a jellyfish. </I><B>| give sb | feel </B> </P>
+<P> <SUP> 2 </SUP> <TT> sharp pain </TT> </P>
+<P> <U> ADJ. </U><B> hot, sharp </B><I>the hot sting of tears </I> </P>
+<P> <U> VERB + STING </U><B> feel </B><I>He felt the sharp sting of the soap in his eyes. </I> </P>
+</DIV>

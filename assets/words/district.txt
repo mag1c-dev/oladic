@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>district </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> neighbouring, surrounding </B><I>Fire crews from all the surrounding districts helped to fight the fires in the city. </I><B>| central </B><I>Every city has its central business district. </I><B>| outlying, remote </B><I>a new railway station to help people commuting from outlying districts </I><B>| northern, southern, etc. | affluent, exclusive, rich, wealthy | poor, working-class </B><I>the shacks in the poorest districts of the city </I><B>| slum | coastal, country, local, metropolitan, rural, suburban, urban | agricultural, business, commercial, financial, industrial, mining, residential, shopping | administrative, electoral, federal, health, military, polling, postal </B><I>a federal district court in New York He has been transferred to a hospital in a different health district. </I> </P>
+<P> <U> DISTRICT + VERB </U><B> stretch </B><I>Their district stretches nearly 150 miles, from the mountains to the sea. </I> </P>
+<P> <U> DISTRICT + NOUN </U><B> authority, council </B><I>the district health authority </I><B>| councillor, judge, nurse, etc. | court, hospital, etc. | boundary </B><I>Redrawing district boundaries would change the election results. </I> </P>
+<P> <U> PREP. </U><B> in/within a/the ~ </B><I>The hospital is only responsible for patients within its own district. </I> </P>
+</DIV>

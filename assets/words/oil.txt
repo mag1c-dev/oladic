@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>oil </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> used as fuel/to make machines work smoothly </TT> </P>
+<P> <U> ADJ. </U><B> heavy | light | crude | refined | offshore | engine, fuel, heating, lubricating, motor | linseed, paraffin </B><I>Use a rag soaked in linseed oil. </I> </P>
+<P> <U> QUANT. </U><B> barrel | film </B><I>a rod coated with a film of oil </I><B>| drop </B> </P>
+<P> <U> VERB + OIL </U><B> extract, obtain, produce | drill for </B><I>The company is drilling for oil in the North Sea. </I><B>| discover, find, hit, strike | pump | export, import | burn, use | change </B>(in a car, etc.) <B>| soak sth in | smell of </B><I>The place smelled of paint and oil. </I> </P>
+<P> <U> OIL + NOUN </U><B> company, producer | industry, production | drilling, exploration | field, rig, well | drum | tanker | refinery | prices, revenue | slick, spill, spillage </B><I>a seven-mile-long oil slick off the Scottish coast </I> </P>
+<P> <SUP> 2 </SUP> <TT> used in cooking </TT> </P>
+<P> <U> ADJ. </U><B> cooking | polyunsaturated | rancid | coconut, cod liver, fish, groundnut, olive, sesame, sunflower, vegetable </B><I>a bottle of extra virgin olive oil </I><B>| salad </B> </P>
+<P> <U> VERB + OIL </U><B> heat | boil sb/sth in, cook sth in, fry sth in | drizzle, pour </B><I>Toast the bread, rub with garlic and drizzle over a little olive oil. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Fry the potato in a little sunflower oil. </I>&gt; Special page at FOOD </B> </P>
+<P> <SUP> 3 </SUP> <TT> used as a cosmetic/medicine </TT> </P>
+<P> <U> ADJ. </U><B> aromatic, fragrant, scented | essential </B><I>extracting essential oils from flowers </I><B>| body, hair | baby, bath | aromatherapy, massage | castor, evening primrose, lavender, etc. </B> </P>
+<P> <U> VERB + OIL </U><B> massage/rub into, massage/rub sth with </B><I>She rubbed a scented oil into her hair. </I><B>| anoint sb/sth with </B><I>The sick were anointed with oil. </I><B>| extract </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>oil of rosemary </I> </P>
+</DIV>

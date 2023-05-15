@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>orphan </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little | poor </B><I>a poor little orphan </I><B>| war </B> </P>
+<P> <U> VERB + ORPHAN </U><B> be left </B><I>She was left an orphan at the age of five. </I><B>| adopt </B> </P>
+<P> <U> ORPHAN + NOUN </U><B> boy, girl</B> </P>
+</DIV>

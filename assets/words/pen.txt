@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pen </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> ballpoint, felt-tip/felt-tipped, fountain, ink, marker, quill | coloured </B> </P>
+<P> <U> VERB + PEN </U><B> use, write (sth) with </B> </P>
+<P> <U> PEN + VERB </U><B> write </B><I>This pen won't write. </I><B>| run out </B><I>My pen's run out </I>(= has no more ink)</B><I>. </I> </P>
+<P> <U> PEN + NOUN </U><B> nib </B> </P>
+<P> <U> PHRASES </U><B> pen and ink </B><I>pen and ink drawings </I> </P>
+</DIV>

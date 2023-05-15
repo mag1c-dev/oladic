@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>ceremony </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> formal public/religious event </TT> </P>
+<P> <U> ADJ. </U><B> brief, short | quiet, simple | elaborate, glittering | moving, solemn | private, public | formal, important, official, special </B><I>an official ceremony to welcome the new director </I><B>| opening </B><I>the opening ceremony of the Olympic games </I><B>| closing | award/awards | civil | cake-cutting, dedication, degree, funeral, graduation, inauguration, initiation, marriage, naming, presentation, prize-giving, signing, swearing-in, tea, unveiling, wedding, wreath-laying </B><I>the Japanese tea ceremony </I> </P>
+<P> <U> VERB + CEREMONY </U><B> conduct, hold, perform </B><I>The marriage ceremony was performed by the bishop. </I><B>| attend, be present at, take part in </B> </P>
+<P> <U> CEREMONY + VERB </U><B> take place | mark sth </B><I>a special ceremony to mark the end of the war </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>the guest of honour at the ceremony </I><B>| during a/the ~ </B><I>A lot of people wept during the funeral ceremony. </I><B>| in a/the ~ </B><I>They were married in a simple ceremony. </I> </P>
+<P> <SUP> 2 </SUP> <TT> formal behaviour/traditional actions and words </TT> </P>
+<P> <U> VERB + CEREMONY </U><B> stand on </B><I>I won't stand on ceremony </I>(= be formal)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>Without ceremony, the woman slammed the door shut in my face. </I> </P>
+<P> <U> PHRASES </U><B> pomp and ceremony </B><I>the pomp and ceremony of a royal wedding </I><B>| with due/great ceremony </B><I>With due ceremony, he took the oath to become president. </I> </P>
+</DIV>

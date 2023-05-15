@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>bias </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear, definite, marked, obvious, strong | left-wing, right-wing | cultural, political </B> </P>
+<P> <U> VERB + BIAS </U><B> have </B><I>The newspaper has a clear bias towards the Conservative Party. </I><B>| display, show | avoid, eliminate, reduce | correct </B><I>We have now tried to correct the bias in our original report. </I><B>| be free from </B><I>The newspaper was free from political bias. </I> </P>
+<P> <U> BIAS + VERB </U><B> creep in, exist </B><I>Bias often creeps in through the wording of questions. </I> </P>
+<P> <U> PREP. </U><B> with/without ~ </B><I>All material must be selected and presented without bias. </I><B>| with a ~ </B><I>a newspaper with a strong left-wing bias </I><B>| ~ against </B><I>a bias against women </I><B>| ~ in favour of/towards </B><I>a bias in favour of small firms </I> </P>
+</DIV>

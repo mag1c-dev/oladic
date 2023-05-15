@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>salon </b><i>noun</i>  </p>
+<p> <u> ADJ. </u><div class="ex"><b> beauty, grooming, hair, hairdressing | leading, professional, top | unisex </b></div></p>
+<p> <u> VERB + SALON </u><div class="ex"><b> go to</b></div></p>
+</div>

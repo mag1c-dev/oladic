@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>lamp </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bedside, desk, reading, standard, table | gas, oil, paraffin </B> </P>
+<P> <U> VERB + LAMP </U><B> light, switch on, turn on | switch off, turn off </B> </P>
+<P> <U> LAMP + VERB </U><B> burn, glow, shine </B><I>An oil lamp burned in the darkness. </I><B>| flicker, go out</B> </P>
+</DIV>

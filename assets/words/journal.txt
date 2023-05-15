@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>journal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> serious magazine </TT> </P>
+<P> <U> ADJ. </U><B> academic, learned, scholarly | professional, technical, trade | house/in-house </B><I>the house journal of the South Western Gas Board </I><B>| non-specialist, specialist | research, reviewing | business, literary, medical, science/scientific | august, highly-ranked/high-ranking, leading, major, prestigious </B><I>&lsquo;Nature&rsquo; was the highest-ranked journal in thte survey. </I><B>| official </B><I>It's the official journal of the Medical Foundation. </I><B>| international, national | monthly, quarterly, weekly </B> </P>
+<P> <U> QUANT. </U><B> copy </B><I>Please send me two copies of your new journal. </I><B>| edition, issue, volume </B> </P>
+<P> <U> VERB + JOURNAL </U><B> read | edit, write for </B><I>an academic who writes for specialist journals </I><B>| produce, publish | buy, get, subscribe to </B><I>She subscribes to quite a few academic journals. </I> </P>
+<P> <U> JOURNAL + VERB </U><B> come out </B><I>The journal comes out five times a year. </I> </P>
+<P> <U> JOURNAL + NOUN </U><B> article | editor </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>an article in a medical journal </I><B>| ~ of </B><I>the British Journal of Geology </I> </P>
+<P> <SUP> 2 </SUP> <TT> diary </TT> </P>
+<P> <U> ADJ. </U><B> private | daily </B> </P>
+<P> <U> VERB + JOURNAL </U><B> keep, write </B><I>Lady Franklin kept a daily journal of the voyage. </I><B>| read </B> </P>
+<P> <U> JOURNAL + NOUN </U><B> entry </B><I>Her journal entry for that day describes a thunder storm. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The events are all recorded in her journal. </I><B>| ~ of </B><I>He wrote a journal of his travels. </I> </P>
+</DIV>

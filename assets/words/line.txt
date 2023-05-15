@@ -1,0 +1,36 @@
+
+<DIV class="item"><P class="word"><B>line </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> long thin mark on the surface of sth </TT> </P>
+<P> <U> ADJ. </U><B> long | short | thick | fine, thin | direct, straight | curved, wavy, wiggly, zigzag | diagonal, horizontal, parallel, perpendicular, vertical | continuous, solid | broken, dotted </B><I>Sign on the dotted line. </I><B>| finishing, starting | contour </B> </P>
+<P> <U> VERB + LINE </U><B> draw </B> </P>
+<P> <U> LINE + VERB </U><B> run | divide sth </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>walk in a straight line </I> </P>
+<P> <U> PHRASES </U><B> a line of latitude/longitude </B> </P>
+<P> <SUP> 2 </SUP> <TT> mark like a line on the skin </TT> </P>
+<P> <U> ADJ. </U><B> deep </B><I>Deep lines ran from her nose to her mouth. </I> </P>
+<P> <U> VERB + LINE </U><B> have </B><I>He has lines on his forehead. </I> </P>
+<P> <U> LINE + VERB </U><B> run </B> </P>
+<P> <SUP> 3 </SUP> <TT> row of people, things, words on a page, etc. </TT> </P>
+<P> <U> ADJ. </U><B> long | short | new | continuous </B> </P>
+<P> <U> VERB + LINE </U><B> form </B> </P>
+<P> <U> PREP. </U><B> in (a/the) ~ </B><I>children standing in a line </I><B>| on a/the ~ </B><I>Start each paragraph on a new line. </I> </P>
+<P> <SUP> 4 </SUP> <TT> telephone/electricity wire/connection </TT> </P>
+<P> <U> ADJ. </U><B> direct | bad </B><I>Speak up?it's rather a bad line. </I><B>| busy | power | phone, telephone | outside, party, private </B><I>What do I dial for an outside line? </I> </P>
+<P> <U> VERB + LINE </U><B> hold </B><I>Hold the line </I>(= Don't put the receiver down)</B><I>, please. </I> </P>
+<P> <U> LINE + VERB </U><B> be engaged | be/go dead </B> </P>
+<P> <U> PREP. </U><B> down the ~ </B><I>He kept shouting down the line at me. </I><B>| on the ~ </B><I>It's your mother on the line </I>(= on the telephone)</B><I>. </I><B>| on ~ (also online) (= connected to a computer system) </B> </P>
+<P> <SUP> 5 </SUP> <TT> section of railway track </TT> </P>
+<P> <U> ADJ. </U><B> railway, train | main | branch, commuter, feeder </B><I>The branch line is threatened with closure. </I> </P>
+<P> <U> VERB + LINE </U><B> take </B><I>Take the Bakerloo line and change at Piccadilly. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>We live on the Northern Line. </I> </P>
+<P> <U> PHRASES </U><B> the end of the line 6 lines </B>words spoken by an actor in a play </B> </P>
+<P> <U> VERB + LINE </U><B> learn | forget | fluff </B> </P>
+<P> <SUP> 7 </SUP> <TT> direction/course of thought/action </TT> </P>
+<P> <U> ADJ. </U><B> broad </B><I>The broad lines of company policy are already laid down. </I><B>| firm, hard, strong, tough | official, party, political </B> </P>
+<P> <U> VERB + LINE </U><B> adopt, follow, pursue, take | bring sb/sth into </B><I>The other members of the board must be brought into line. </I> </P>
+<P> <U> PREP. </U><B> in ~ with </B>(= in agreement with), <B>out of ~ with </B>(= not in agreement with) <I>out of line with party policies </I><B>| ~ on </B><I>the official line on food safety </I> </P>
+<P> <U> PHRASES </U><B> a line of argument/enquiry/questioning </B> </P>
+<P> <SUP> 8 </SUP> <TT> place where an army is fighting </TT> </P>
+<P> <U> ADJ. </U><B> battle, firing, front </B> </P>
+<P> <U> PHRASES </U><B> behind enemy lines, in/on the front line</B> </P>
+</DIV>

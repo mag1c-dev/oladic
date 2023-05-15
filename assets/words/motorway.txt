@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>motorway </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> busy | four-lane, three-lane, etc. | orbital, urban </B><I>the M25 London orbital motorway </I> </P>
+<P> <U> VERB + MOTORWAY </U><B> join | leave, turn off | build </B> </P>
+<P> <U> MOTORWAY + NOUN </U><B> driving, traffic | network, system | bridge, junction | service area/station | crash, pile-up </B><I>Five people have been killed in a motorway pile-up. </I> </P>
+<P> <U> PREP. </U><B> along the ~ </B><I>driving along the motorway </I><B>| down the ~ </B><I>He sang as he rattled down the motorway. </I><B>| off the ~, onto the ~, on the ~, up the ~ | ~ from, ~ to </B><I>We were on the motorway to London. </I> </P>
+</DIV>

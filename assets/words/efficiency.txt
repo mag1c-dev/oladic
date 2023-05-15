@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>efficiency </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> ruthless | great, high </B><I>attempts to achieve greater efficiency in the production process </I><B>| maximum, optimum | low | cost | energy, fuel | mental, physical | administrative, business, economic, industrial, management, operational, organizational, production, productive, technical </B> </P>
+<P> <U> VERB + EFFICIENCY </U><B> achieve | boost, enhance, improve, increase, maximize, promote | decrease, impair, reduce </B> </P>
+<P> <U> EFFICIENCY + NOUN </U><B> drive, measures </B><I>New timekeeping procedures had been introduced as part of an efficiency drive. </I><B>| gains, improvements, savings </B><I>the efficiency gains resulting from improved technology </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>The uprising was put down with ruthless efficiency. </I><B>| ~ in </B><I>greater efficiency in energy use </I> </P>
+</DIV>

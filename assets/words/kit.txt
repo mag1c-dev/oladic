@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>kit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> set of clothes/equipment </TT> </P>
+<P> <U> ADJ. </U><B> combat, football, sports | first-aid, repair, sewing, shaving, survival, test, tool </B><I>Check the acidity of the soil with a test kit. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There should be a needle and thread in the sewing kit. </I> </P>
+<P> <SUP> 2 </SUP> <TT> set of parts </TT> </P>
+<P> <U> ADJ. </U><B> construction </B> </P>
+<P> <U> VERB + KIT </U><B> make up </B><I>Have you made up the kit yet? </I> </P>
+<P> <U> KIT + VERB </U><B> comprise sth, contain sth, include sth </B><I>The kit contains everything you need to make six candles. </I> </P>
+<P> <U> PREP. </U><B> from a ~ </B><I>They built the garage from a kit. </I><B>| ~ for </B><I>a kit for making candles </I> </P>
+<P> <U> PHRASES </U><B> in kit form </B><I>The doll's house comes in kit form. </I> </P>
+</DIV>

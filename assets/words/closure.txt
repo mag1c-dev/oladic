@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>closure </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, total </B><I>The accident caused the complete closure of the road. </I><B>| partial | immediate | eventual | permanent, temporary | indefinite | planned, possible, proposed, threatened | enforced | factory, hospital, pit, road, school, etc. </B> </P>
+<P> <U> VERB + CLOSURE </U><B> be earmarked for, be threatened with, face </B><I>Several schools face eventual closure. </I><B>| cause, force </B><I>Imposing higher taxes would force the closure of many bookshops. </I><B>| prevent, save sth from, stop </B><I>The mine has been saved from closure. </I> </P>
+<P> <U> CLOSURE + NOUN </U><B> plan, programme | order </B> </P>
+<P> <U> PHRASES </U><B> (be) under threat of closure</B> </P>
+</DIV>

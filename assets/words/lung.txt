@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>lung </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> collapsed, punctured </B> </P>
+<P> <U> VERB + LUNG </U><B> fill, refill </B><I>I opened the window and filled my lungs with cool fresh air. </I><B>| clear, empty </B><I>Coughing clears the lungs of mucus. </I><B>| block, choke, clog </B><I>The smoke was beginning to choke her lungs. </I><B>| enter </B><I>Water had entered his lungs and he was choking. </I><B>| puncture </B> </P>
+<P> <U> LUNG + VERB </U><B> heave | fill </B><I>I let my lungs fill with the scented air. </I><B>| collapse | burst </B><I>(figurative) Lungs bursting, she flew across the finish line. </I> </P>
+<P> <U> LUNG + NOUN </U><B> capacity, power | cancer, complaint, condition, disease, infection, problems, tumour | surface, tissue | function | transplant </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>levels of carbon dioxide in the lungs </I><B>| into the ~ </B><I>These particles are breathed into the lungs. </I><B>| on the ~ </B><I>He had blood clots on the lung. </I> </P>
+</DIV>

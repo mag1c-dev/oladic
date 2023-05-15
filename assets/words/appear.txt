@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>appear </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> come into sight </TT> </P>
+<P> <U> ADV. </U><B> suddenly </B><I>A man suddenly appeared in the doorway. </I><B>| from nowhere </B><I>A police officer appeared as if from nowhere and ordered us to halt. </I> </P>
+<P> <SUP> 2 </SUP> <TT> perform in public </TT> </P>
+<P> <U> ADV. </U><B> currently </B> </P>
+<P> <U> PREP. </U><B> at </B><I>She is currently appearing at the Liverpool Playhouse. </I> </P>
+<P> <U> PHRASES </U><B> appear on television </B><I>She regularly appears on television. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in court </TT> </P>
+<P> <U> PREP. </U><B> at </B><I>He will appear at Manchester Crown Court next week. </I> </P>
+<P> <U> PHRASES </U><B> appear before a court/judge/magistrate </B><I>The man will appear before magistrates in Birmingham later today. </I><B>| appear in court </B><I>A man has appeared in court charged with the murder of seven women. </I> </P>
+</DIV>

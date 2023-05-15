@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>hobby </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absorbing, enjoyable, relaxing, satisfying | favourite, pet </B><I>Cooking is her pet hobby. </I> </P>
+<P> <U> VERB + HOBBY </U><B> have </B><I>Have you got any hobbies? </I><B>| enjoy, follow, indulge (in), pursue </B><I>She never had any time to pursue her hobbies. </I><B>| start, take up </B><I>Why don't you take up a new hobby? </I> </P>
+<P> <U> PREP. </U><B> among your ~s </B><I>Cycling and karate are among her hobbies. </I><B>| as a ~ </B><I>He takes photographs as a hobby. </I> </P>
+</DIV>

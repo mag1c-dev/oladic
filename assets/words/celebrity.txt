@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>celebrity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> minor | local, international, national | overnight | guest, visiting | showbiz, sporting, television </B> </P>
+<P> <U> QUANT. </U><B> host </B><I>Tonight's show features a host of celebrities. </I> </P>
+<P> <U> VERB + CELEBRITY </U><B> make sb </B><I>The show's success made her an overnight celebrity. </I> </P>
+<P> <U> CELEBRITY + NOUN </U><B> status | chef </B> </P>
+<P> <U> PHRASES </U><B> something of a celebrity </B><I>He became something of a celebrity in his home town. </I> </P>
+</DIV>

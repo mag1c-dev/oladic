@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>provocation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> extreme, severe | deliberate </B> </P>
+<P> <U> QUANT. </U><B> element </B><I>The victim's conduct had involved an element of provocation. </I> </P>
+<P> <U> VERB + PROVOCATION </U><B> respond to </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The crime was committed under provocation. </I><B>| without ~ </B><I>She attacked him without provocation. </I> </P>
+<P> <U> PHRASES </U><B> at the least/slightest provocation </B><I>He would lose his temper at the slightest provocation. </I> </P>
+</DIV>

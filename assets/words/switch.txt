@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>switch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small button/lever </TT> </P>
+<P> <U> ADJ. </U><B> mains, master, power </B><I>The mains switch is in the cupboard under the stairs. </I><B>| electric, electrical | dimmer, off, on, on-off, time, timer </B><I>We fitted dimmer switches in all the bedrooms. I couldn't find the off switch on the remote control. </I><B>| ignition, intercom, light </B> </P>
+<P> <U> VERB + SWITCH </U><B> flick, flip, press, pull, throw, turn off/on </B><I>Someone threw a switch and the electricity went off. </I> </P>
+<P> <U> SWITCH + VERB </U><B> activate sth, control sth, operate sth </B><I>This switch controls the heating system. </I> </P>
+<P> <U> PREP. </U><B> by (a) ~ </B><I>The light operates by time switch. </I><B>| on a ~ </B><I>The heater is on a timer switch. </I><B>| ~ for </B><I>the switch for the air conditioning </I> </P>
+<P> <U> PHRASES </U><B> at the flick of a switch </B><I>in the days before electricity was available at the flick of a switch </I><B>| a bank of switches </B><I>The pilot reached across to the huge bank of switches on his right and flicked a couple. </I> </P>
+<P> <SUP> 2 </SUP> <TT> change that sb makes </TT> </P>
+<P> <U> ADJ. </U><B> abrupt, immediate, sudden | big | complete | tactical </B><I>The team's manager made a shrewd tactical switch in defence. </I> </P>
+<P> <U> VERB + SWITCH </U><B> make </B> </P>
+<P> <U> PREP. </U><B> ~ away from </B><I>There will be no overnight switch away from old voting habits. </I><B>| ~ back to, ~ between </B><I>the recent switches between direct and indirect taxation </I><B>| ~ from </B><I>her switch from full-time to part-time work </I><B>| ~ in </B><I>their abrupt switch in allegiance </I><B>| ~ (over) to </B><I>theatre directors who make the switch over to films </I> </P>
+</DIV><DIV class="item"><P class="word"><B>switch </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> easily, readily | suddenly </B><I>My mind suddenly switched back to my conversation with Jeremy. </I><B>| around/round, back, over </B> </P>
+<P> <U> VERB + SWITCH </U><B> decide to </B><I>He decided to switch tactics. </I> </P>
+<P> <U> PREP. </U><B> between </B><I>The remote control allows you to switch easily between TV channels. </I><B>| (away) from </B><I>He switched his allegiance from the British to the French. </I><B>| to, with </B><I>We asked them if they would switch places with us. </I> </P>
+</DIV>

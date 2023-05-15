@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>approach </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way of dealing with sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> conventional, orthodox, traditional | alternative, different, fresh, new, novel </B><I>We need to try alternative approaches to the problem. </I><B>| cautious, conservative | creative, innovative | flexible | direct, no-nonsense, positive, practical, pragmatic, problem-solving, rational, useful | indirect | formal | informal | right | wrong | analytical, scientific, structured, systematic, theoretical | holistic, integrated | basic, general | objective | simplistic </B> </P>
+<P> <U> VERB + APPROACH </U><B> have </B><I>Some teachers have a more formal approach to teaching. </I><B>| adopt, develop, take, try, use </B><I>We need to adopt a more pragmatic approach. </I><B>| favour, prefer </B><I>She favoured the direct approach. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>I liked her approach to the problem </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of coming nearer </TT> </P>
+<P> <U> VERB + APPROACH </U><B> make </B><I>The aircraft had to make a steep approach to the landing strip. </I> </P>
+<P> <U> PREP. </U><B> at the ~ of </B><I>The children fell silent at the approach of their teacher. </I><B>| with the ~ of </B><I>The weather turned colder with the approach of autumn. </I><B>| ~ to </B><I>The plane crashed during its approach to the runway. </I> </P>
+<P> <SUP> 3 </SUP> <TT> discussion with sb in order to ask them for sth </TT> </P>
+<P> <U> VERB + APPROACH </U><B> make | have, receive </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>We've received an approach from the director of a rival firm. </I><B>| ~ to </B><I>We'll have to make an approach to the managing director. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>approach </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> come nearer </TT> </P>
+<P> <U> ADV. </U><B> slowly | cautiously, warily, with caution </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The army approached from the south. </I> </P>
+<P> <SUP> 2 </SUP> <TT> come nearer in time </TT> </P>
+<P> <U> ADV. </U><B> fast, rapidly </B><I>The time is fast approaching when we will have to replace these old machines. </I> </P>
+<P> <SUP> 3 </SUP> <TT> speak to sb, usually to ask for sth </TT> </P>
+<P> <U> ADV. </U><B> directly </B><I>It's best to approach her directly. </I> </P>
+<P> <U> VERB + APPROACH </U><B> be easy to | be difficult to </B><I>She found her father difficult to approach. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>Have you approached John about doing a concert? </I><B>| for </B><I>I approached the bank for a loan. </I> </P>
+<P> <SUP> 4 </SUP> <TT> come close in amount/quality/style </TT> </P>
+<P> <U> ADV. </U><B> closely </B><I>Here Wordsworth's verse movement closely approaches that of Gray. </I><B>| not nearly, not remotely </B><I>There is no other player even remotely approaching her calibre. </I> </P>
+</DIV>

@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>flash </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden bright light; sudden idea/emotion/action </TT> </P>
+<P> <U> ADJ. </U><B> great | blinding, bright, brilliant | sudden | brief, momentary, quick | occasional | rare </B><I>a rare flash of humour </I><B>| light, lightning | news (also newsflash) </B> </P>
+<P> <U> VERB + FLASH </U><B> feel, have </B><I>He felt a brief flash of jealousy. She had a sudden flash of inspiration. </I><B>| catch, detect, notice, see </B><I>We caught a flash of white in the bushes. </I> </P>
+<P> <U> FLASH + VERB </U><B> illuminate sth, light sth (up) </B><I>A bright flash of lightning lit up the sky. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>The flashes from the guns illuminated the sky. </I><B>| ~ of </B><I>a sudden flash of light </I> </P>
+<P> <SUP> 2 </SUP> <TT> bright light for a camera </TT> </P>
+<P> <U> ADJ. </U><B> built-in | camera </B> </P>
+<P> <U> VERB + FLASH </U><B> use </B><I>I don't think the picture will come out in this light. Try using the flash. </I> </P>
+<P> <U> FLASH + VERB </U><B> go off, work </B><I>The flash didn't go off. </I> </P>
+<P> <U> FLASH + NOUN </U><B> photography | bulb | unit </B><I>a camera with a built-in flash unit </I> </P>
+<P> <U> PREP. </U><B> with (a) ~ </B><I>I took it with flash. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>flash </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> shine </TT> </P>
+<P> <U> ADV. </U><B> briefly </B><I>It was only the sun, flashing briefly on her bleached hair. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>A car flashed its headlights at me. </I> </P>
+<P> <SUP> 2 </SUP> <TT> show emotion </TT> </P>
+<P> <U> ADV. </U><B> suddenly | angrily </B><I>Her eyes flashed angrily. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>Her eyes suddenly flashed with anger. </I> </P>
+</DIV>

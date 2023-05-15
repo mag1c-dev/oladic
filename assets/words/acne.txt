@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>acne </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bad, terrible </B> </P>
+<P> <U> VERB + ACNE </U><B> have, suffer from </B><I>He had terrible acne when he was younger. </I><B>| develop, get </B><I>A lot of teenagers develop acne. </I><B>| treat </B><I>Doctors can treat acne with pills or creams. </I> </P>
+<P> <U> ACNE + VERB </U><B> clear (up) </B><I>Acne often clears up with a change in diet. </I> </P>
+</DIV>

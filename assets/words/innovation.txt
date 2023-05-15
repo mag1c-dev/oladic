@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>innovation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> introduction of new ideas </TT> </P>
+<P> <U> ADJ. </U><B> constant, continuous | successful | cultural, educational, industrial, scientific, technical, technological | design, policy, product </B><I>industries where constant product innovation is a criterion for survival </I> </P>
+<P> <U> VERB + INNOVATION </U><B> encourage, facilitate, foster, stimulate | stifle </B><I>Too strict a regulatory system will stifle innovation. </I> </P>
+<P> <U> INNOVATION + VERB </U><B> occur </B><I>Technical innovation may occur directly in the factory. </I> </P>
+<P> <U> INNOVATION + NOUN </U><B> process </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>innovation in engineering </I> </P>
+<P> <U> PHRASES </U><B> scope for innovation </B> </P>
+<P> <SUP> 2 </SUP> <TT> new idea </TT> </P>
+<P> <U> ADJ. </U><B> great, major, important, significant | successful | welcome | interesting | latest, new | recent | scientific, technical, technological </B> </P>
+<P> <U> VERB + INNOVATION </U><B> come up with </B><I>She believed she had come up with one of the greatest innovations of modern times. </I><B>| introduce </B><I>Many innovations were introduced by the 1919 Act. </I><B>| design, develop </B><I>technological innovations designed to save energy </I> </P>
+<P> <U> INNOVATION + VERB </U><B> occur </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>Mathematical astronomy was the great innovation by the Greeks of the 5th century BC. </I><B>| ~ in </B><I>innovations in machinery and instruments </I> </P>
+</DIV>

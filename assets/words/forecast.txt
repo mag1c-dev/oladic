@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>forecast </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, optimistic, promising | gloomy, pessimistic | conservative | accurate, correct | detailed | revised | annual | early | long-range, long-term </B><I>a long-range weather forecast </I><B>| short-term </B><I>a short-term forecast of the UK economy </I><B>| official | economic, financial, market, traffic, weather | cash-flow, cost, earnings, growth, profit, revenue, sales </B> </P>
+<P> <U> VERB + FORECAST </U><B> prepare, produce | give, issue, make, provide </B><I>The government has issued a pessimistic economic forecast. </I><B>| revise, update | rely on | be in line with </B><I>The interest rate is in line with the forecast. </I> </P>
+<P> <U> FORECAST + VERB </U><B> predict sth, say sth, suggest sth </B><I>Some forecasts suggest that the increase in heart disease will continue for some time. </I><B>| assume sth | be based on sth </B><I>forecasts based on a complicated procedure </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>Forecasts about the economy are often misleading. </I><B>| ~ for </B><I>forecasts for earnings forecasts for different sectors of the industry forecasts for the year </I> </P>
+</DIV><DIV class="item"><P class="word"><B>forecast </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> accurately, correctly | originally </B><I>higher costs than those originally forecast </I> </P>
+<P> <U> VERB + FORECAST </U><B> be difficult to, be hard to </B> </P>
+<P> <U> PHRASES </U><B> be widely forecast </B><I>a result that was widely forecast </I> </P>
+</DIV>

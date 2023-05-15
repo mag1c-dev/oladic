@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>trainer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who trains sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> orchestral, teacher | boxing, etc. | animal, dog, horse, racehorse | champion, winning | personal, private </B><I>He works out every morning with his personal trainer. </I></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+<P> <SUP> 2 </SUP> <TT> (usually <B>trainers</B>) sports shoe </TT> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + TRAINER </U><B> lace up, unlace </B> </P>
+</DIV>

@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>turn </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of turning sb/sth round </TT> </P>
+<P> <U> ADJ. </U><B> full, half, quarter </B><I>a full turn of the handle to the right </I><B>| 90-degree, 180-degree, etc. | quick </B><I>a quick turn of his head </I> </P>
+<P> <U> VERB + TURN </U><B> give sth </B><I>Give the knob a turn. </I> </P>
+<P> <SUP> 2 </SUP> <TT> change of direction </B> </TT> </P>
+<P> <U> ADJ. </U><B> left/left-hand, right/right-hand | sharp | wide | sudden | three-point, U-turn</B> </P>
+<P> <U> VERB + TURN </U><B> do, make, negotiate </B><I>She stopped talking as she negotiated a particularly sharp turn. </I> </P>
+<P> <U> PHRASES </U><B> at every turn </B><I>(figurative) At every turn I met with disappointment. </I><B>| a turn to the left/right </B><I>He made a sudden turn to the right. </I><B>| twists and turns </B><I>(figurative) trying to follow all the twists and turns of the plot </I>  </B> </P>
+<P> <SUP> 3 </SUP> <TT> (turning) bend/corner in a road </TT> </P>
+<P> <U> ADJ. </U><B> next | wrong </B> </P>
+<P> <U> VERB + TURN </U><B> take </B><I>He took a wrong turn and ended up on the coast road. </I><B>| miss </B> </P>
+<P> <U> PHRASES </U><B> a turn on the left/right </B><I>Take the next turn on the right. </I><B>| twists and turns </B><I>a lane full of twists and turns </I> </P>
+<P> <SUP> 4 </SUP> <TT> time when you must or may do sth </TT> </P>
+<P> <U> VERB + TURN </U><B> have, take </B><I>Can I have a turn? I'll take a turn making the dinner?you have a rest. The children took turns on the swing. </I><B>| miss </B><I>If you can't put any cards down you have to miss a turn. </I><B>| give sb </B><I>Give Sarah a turn on the swing. </I><B>| wait </B><I>Be patient and wait your turn! </I><B>| come to </B><I>By the time it came to my turn to sing, I was a bag of nerves. </I> </P>
+<P> <U> TURN + VERB </U><B> come </B><I>When my turn finally came, I was shaking with nerves. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B>(= one after the other) <I>They gave their names in turn. </I><B>| in sb's ~ </B><I>She had not been friendly to Pete and he, in his turn, was cold to her when she came to stay. </I> <B>| out of ~ </B>(= before or after your turn) <I>I'm writing to you out of turn because I have some very important news. </I> </P>
+<P> <SUP> 5 </SUP> <TT> change </TT> </P>
+<P> <U> ADJ. </U><B> dramatic, sudden, unexpected | different, new | downward </B> </P>
+<P> <U> VERB + TURN </U><B> take </B><I>Her career took an unexpected turn when she moved to New York. </I> </P>
+<P> <U> PREP. </U><B> by ~(s) </B><I>This movie is by turn </I>(= alternately) </B><I>terrifying and very funny. </I><B>| on the ~ </B>(= changing) <I>Our luck is on the turn. </I> </P>
+<P> <U> PHRASES </U><B> take a turn for the better/worse </B><I>I'm afraid Grandma has taken a turn for the worse. </I><B>| a turn of events </B><I>In a dramatic turn of events she took control of the company into her own hands. </I> </P>
+</DIV>

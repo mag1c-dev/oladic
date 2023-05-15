@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>protein </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> essential | natural | animal, vegetable </B> </P>
+<P> <U> VERB + PROTEIN </U><B> be high/rich in, contain, supply </B><I>Cereals supply essential protein and vitamins. </I><B>| produce </B> </P>
+<P> <U> PROTEIN + NOUN </U><B> content | intake | deficiency </B> </P>
+<P> <U> PHRASES </U><B> a high/low protein diet, a source of protein</B> </P>
+</DIV>

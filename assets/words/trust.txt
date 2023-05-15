@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>trust </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> relying on sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>They have placed great trust in him as a negotiator. </I><B>| absolute, complete | blind, implicit </B><I>They followed the instructions in blind trust that all would turn out well. </I><B>| basic | mutual | sacred </B><I>They accepted the responsibility as a sacred trust </I>(= sth that had been trusted to them)</B><I>. </I><B>| fragile </B><I>the fragile trust that existed between them </I><B>| misplaced | public </B><I>the need to restore public trust </I> </P>
+<P> <U> VERB + TRUST </U><B> have </B><I>We have absolute trust in the teachers. Does the scheme have the trust and cooperation of the workers? </I><B>| place, put | build (up), develop | earn, gain, win | abuse, betray </B><I>He claimed the government had betrayed the trust of the British peo </I><B>| lose | restore | be based on </B><I>a relationship based on trust </I> </P>
+<P> <U> TRUST + VERB </U><B> exist </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>efforts to promote mutual trust between nations </I><B>| ~ in </B><I>His trust in them was misplaced. </I> </P>
+<P> <U> PHRASES </U><B> a breach of trust, a lack of trust, a position of trust </B><I>As a teacher, you are in a position of trust. </I> </P>
+<P> <SUP> 2 </SUP> <TT> financial arrangement </TT> </P>
+<P> <U> ADJ. </U><B> independent, self-governing | offshore, overseas | investment | unit </B><I>Investing in a unit trust reduces risks for small investors. </I><B>| charitable, family, hospital </B> </P>
+<P> <U> VERB + TRUST </U><B> hold sth in/on, keep sth in </B><I>The proceeds will be held in trust for the children until they are eighteen. </I><B>| create, establish, set up </B><I>Wealthy people can set up overseas trusts for their children. </I><B>| invest in | administer, run </B> </P>
+<P> <U> TRUST + NOUN </U><B> account, assets, fund | deed | status | manager | beneficiary, holder </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>His father put the money in trust for him until he was 21. </I><B>| ~ for </B><I>the Cecil Houses Trust for old people </I> </P>
+</DIV><DIV class="item"><P class="word"><B>trust </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> implicitly </B><I>I trust you implicitly. </I><B>| completely, fully | not entirely, not quite, not really </B><I>You can never entirely trust even a &lsquo;tame&rsquo; leopard. </I> </P>
+<P> <U> VERB + TRUST </U><B> can/could </B><I>I knew I could trust John. </I><B>| be prepared to, be willing to | be reluctant to </B><I>I was reluctant to trust the evidence of my senses. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>I stumbled along in the dark, trusting to luck to find the right door. </I><B>| with </B><I>I'd trust her with my life. </I> </P>
+<P> <U> PHRASES </U><B> not to be trusted </B><I>He is not to be trusted with other people's money. </I><B>| tried and trusted </B><I>tried and trusted techniques </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>constraint </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> important, major | severe, tight </B><I>The government has placed tight constraints on spending this year. </I><B>| budget, financial </B> </P>
+<P> <U> VERB + CONSTRAINT </U><B> impose, place, put | remove </B> </P>
+<P> <U> PREP. </U><B> within a/the ~ </B><I>We have to work within severe constraints. </I><B>| without ~ </B><I>I felt free to speak to her without constraint. </I><B>| ~ on/upon </B><I>There are major financial constraints on all schools. </I> </P>
+</DIV>

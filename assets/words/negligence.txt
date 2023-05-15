@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>negligence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gross | contributory </B><I>The plaintiff was guilty of contributory negligence for failing to wear a crash helmet. </I><B>| medical, professional | criminal </B> </P>
+<P> <U> VERB + NEGLIGENCE </U><B> be guilty of | accuse sb of, allege, claim, sue for </B><I>The solicitor was accused of professional negligence. </I><B>| deny | prove | arise from </B><I>death arising from negligence </I> </P>
+<P> <U> NEGLIGENCE + NOUN </U><B> case | claim </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>His death was brought about by negligence on the doctor's part. </I><B>| through ~ </B><I>damage to company property through negligence </I><B>| ~ in </B><I>negligence in navigation </I> </P>
+<P> <U> PHRASES </U><B> a finding of negligence </B><I>The court made a finding of contributory negligence. </I><B>| the result of (the) negligence </B><I>The accident was the result of negligence on the part of the driver. </I></P>
+<a href="/collocation-tag/crimes" class="tag">Learn more about CRIMES</a>
+</DIV>

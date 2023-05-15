@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>shutter </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> cover for a window </TT> </P>
+<P> <U> ADJ. </U><B> closed, open </B><I>He left the shutter open. </I><B>| metal, steel, wooden | security, window </B> </P>
+<P> <U> VERB + SHUTTER </U><B> have | fling open, fold back, open, throw back/open </B><I>He threw open the shutters to cool the room. </I><B>| close, pull down, put up </B><I>The village shop had put up the shutters for the night. </I> </P>
+<P> <U> SHUTTER + VERB </U><B> be/come down </B><I>All the shutters in the street were down. (figurative) I could feel the shutters coming down in her mind. </I> </P>
+<P> <U> PREP. </U><B> behind ~ </B><I>She could be seen waiting for him behind half-closed shutters. </I><B>| through ~ </B><I>Daylight was filtering through the shutters when he woke up. </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of a camera </TT> </P>
+<P> <U> ADJ. </U><B> camera </B> </P>
+<P> <U> VERB + SHUTTER </U><B> press </B> </P>
+<P> <U> SHUTTER + VERB </U><B> click </B><I>As the princess approached you could hear hundreds of camera shutters clicking. </I> </P>
+<P> <U> SHUTTER + NOUN </U><B> speed </B><I>You will need a fast shutter speed for photographing sport. </I> </P>
+</DIV>

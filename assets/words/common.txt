@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>common </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> happening/found often </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very | increasingly | fairly, quite </B><I>These problems now seem fairly common. </I> </P>
+<P> <SUP> 2 </SUP> <TT> shared </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> PREP. </U><B> to </B><I>This attitude is common to most young men in the armed services. </I> </P>
+<P> <U> PHRASES </U><B> have sth in common </B><I>Jane and I have nothing in common </I>(= share no interests, ideas, etc.)</B><I>. I have nothing in common with Jane. The two cultures have a lot in common </I>(= have the same features, characteristics, etc.)</B><I>. </I><B>| hold sth in common </B><I>They hold the property as tenants in common </I>(= they share it)</B><I>. </I><B>| in common with </B><I>Britain, in common with </I>(= like) </B><I>many other industrialized countries, has experienced major changes over the last 100 years. </I> </P>
+<P> <SUP> 3 </SUP> <TT> showing a lack of education </TT> </P>
+<P> <U> VERBS </U><B> be, seem, sound </B><I>I wish you wouldn't use that word?it sounds so common. </I> </P>
+<P> <U> ADV. </U><B> very | a bit, rather, slightly </B><I>I don't like Sandra. She seems a bit common to me. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>common ground </B><I>noun </I> </P>
+<P> <U> VERB + COMMON GROUND </U><B> have, share </B><I>The people on the course all share a lot of common ground. </I><B>| establish, find | find yourself on </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>We found ourselves on common ground on the question of education. </I><B>| ~ between </B><I>to find common ground between the two sides </I> </P>
+<P> <U> PHRASES </U><B> an area of common ground</B> </P>
+</DIV><DIV class="item"><P class="word"><B>common sense </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, sound | plain, pure, simple | practical </B> </P>
+<P> <U> VERB + COMMON SENSE </U><B> have </B><I>That child has got no common sense! At least he had the common sense to turn the water off before he left. </I><B>| exercise, rely on/upon, show, use </B><I>Use a bit of common sense! </I> </P>
+<P> <U> COMMON SENSE + VERB </U><B> prevail </B><I>I hope that common sense will prevail. </I><B>| dictate sth, suggest sth, tell sb sth </B><I>Common sense should tell you that people will find out sooner or later. </I> </P>
+<P> <U> PHRASES </U><B> (not) an ounce of common sense </B><I>He hasn't an ounce of common sense. </I> </P>
+</DIV>

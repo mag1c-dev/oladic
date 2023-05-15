@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>feast </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> special meal </TT> </P>
+<P> <U> ADJ. </U><B> delicious | great, sumptuous </B><I>Villagers used to hold a great feast at harvest time. </I><B>| village, wedding </B> </P>
+<P> <U> VERB + FEAST </U><B> give, have, hold | make, prepare </B><I>The women were busy preparing the wedding feast. </I><B>| provide (sb with) </B><I>The migrating salmon provide a delicious feast for the brown bear. </I><B>| attend </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ | ~ of </B><I>a feast of Spanish food and wine </I> </P>
+<P> <SUP> 2 </SUP> <TT> religious festival </TT> </P>
+<P> <U> ADJ. </U><B> moveable (the date of which varies from year to year) </B> </P>
+<P> <U> VERB + FEAST </U><B> celebrate </B> </P>
+<P> <U> FEAST + NOUN </U><B> day </B> </P>
+<P> <U> PREP. </U><B> on the ~ of </B><I>on the feast of St John </I><B>| ~ of </B><I>the feast of the Passover </I> </P>
+</DIV>

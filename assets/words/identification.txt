@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>identification </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of identifying sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> accurate, correct | positive </B> </P>
+<P> <U> VERB + IDENTIFICATION </U><B> make </B><I>She was unable to make a positive identification of the suspect. </I> </P>
+<P> <U> IDENTIFICATION + NOUN </U><B> parade </B><I>A witness picked him out of an identity parade as the robber. </I> </P>
+<P> <SUP> 2 </SUP> <TT> proof of identity </TT> </P>
+<P> <U> VERB + IDENTIFICATION </U><B> carry, have </B><I>Always carry some identification. Do you have any identification? </I><B>| ask for, check </B><I>The police checked their identification. </I> </P>
+<P> <U> IDENTIFICATION + NOUN </U><B> card, papers | code, number </B><I>The vehicle's identification number is stamped on the engine. </I> </P>
+<P> <U> PHRASES </U><B> a means of identification </B><I>My only means of identification was my cheque book. </I> </P>
+</DIV>

@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>key </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for a door </TT> </P>
+<P> <U> ADJ. </U><B> master, skeleton | duplicate, spare | car, desk, front door, house, ignition, etc. </B> </P>
+<P> <U> QUANT. </U><B> bunch, set </B><I>a large bunch of keys a set of car keys </I> </P>
+<P> <U> VERB + KEY </U><B> turn </B><I>She turned the key in the lock. </I><B>| insert, put in | remove, take out | use </B><I>She must have used a key to get in. </I> </P>
+<P> <U> KEY + VERB </U><B> open, unlock </B><I>You need a key to open the garage. </I><B>| lock | turn </B><I>They heard a key turn in the back door lock. </I> </P>
+<P> <U> PREP. </U><B> with a/the ~ </B><I>You have t</I>o </B><I>close it with the key. </I><B>| ~ to </B><I>th</I>e </B><I>key to the front doo</I>r </B> </P>
+<P> <U> PHRASES </U><B> get a key cut </B><I>I'll ge</I>t </B><I>another key cut so that you ca</I>n </B><I>have one</I>. </B> </P>
+<P> <SUP> 2 </SUP> <TT> on a computer </TT> </P>
+<P> <U> ADJ. </U><B> Alt, arrow, backspace, control, delete, escape, function, return, shift, etc. | shortcut </B><I>F1 is the shortcut key for calling up help. </I> </P>
+<P> <U> QUANT. </U><B> row </B><I>the top row of keys </I> </P>
+<P> <U> VERB + KEY </U><B> hit, hold down, press, touch </B><I>Hold down the Alt key while pressing the arrow keys. </I><B>| release </B>&gt; Special page at COMPUTER </B> </P>
+<P> <SUP> 3 </SUP> <TT> explanation of symbols, etc. </TT> </P>
+<P> <U> KEY + VERB </U><B> tell sb sth </B><I>The key tells you what all the symbols mean. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>You can find the symbols in the key at the bottom of the page. </I><B>| ~ to </B><I>the key to the signs and symbols </I> </P>
+<P> <SUP> 4 </SUP> <TT> decisive factor </TT> </P>
+<P> <U> VERB + KEY </U><B> have, hold </B><I>First-time voters could hold the key to the election result. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Language is the key to understanding those around you. </I> </P>
+<P> <SUP> 5 </SUP> <TT> in music </TT> </P>
+<P> <U> ADJ. </U><B> major, minor | high, low </B> </P>
+<P> <U> VERB + KEY </U><B> change </B> </P>
+<P> <U> KEY + VERB </U><B> change </B><I>The key changes from C major to A minor. </I> </P>
+<P> <U> KEY + NOUN </U><B> change | signature </B><I>There are two sharps in the key signature of D major. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>What key's it in? Can we try it in a lower key? </I><B>| ~ of </B><I>the key of G major </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>institution </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large organization </TT> </P>
+<P> <U> ADJ. </U><B> central, major </B><I>Parliament remains the central institution of the constitution of the United Kingdom. </I><B>| established | existing </B><I>They argue for the reform of existing political institutions. </I><B>| traditional | public | private | government, governmental, state | international, national | local | democratic | academic, administrative, charitable, cultural, economic, educational, financial, legal, lending, political, religious, research </B><I>cultural institutions such as the Danish Institute </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>a course at a</I>n </B><I>institution of higher education </I>| <B>in/within ~ </B><I>examinatio</I>n </B><I>procedures within educationa</I>l </B><I>institutions</I>
+</P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+
+<P> <SUP> 2 </SUP> <TT> building for people with special needs </TT> </P>
+<P> <U> ADJ. </U><B> mental, penal</B> </P>
+<P> <U> VERB + INSTITUTION </U><B> be admitted to, be placed in </B><I>Many people wit</I>h </B><I>dementia would rather remain a</I>t </B><I>home than be placed in a</I>n </B><I>institution. </I><B>| be kept in </B> </P>
+<P> <U> PREP. </U><B> at/in ~ </B><I>patients in menta</I>l </B><I>institutions </I><B>| ~ for </B><I>an institutio</I>n </B><I>for mentally ill offender</I>s </B> </P>
+<P> <SUP> 3 </SUP> <TT> custom </TT> </P>
+<P> <U> ADJ. </U><B> national </B><I>Fish and chip</I>s </B><I>became a national institution i</I>n </B><I>Britain. </I><B>| cultural, economic, legal, political, religious, social </B><I>cultural institutions such as religious and legal codes</I> </P>
+</DIV>

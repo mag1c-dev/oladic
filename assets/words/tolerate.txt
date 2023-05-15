@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tolerate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> allow sth you do not like </TT> </P>
+<P> <U> ADV. </U><B> barely | merely </B><I>She actually seemed pleased to see him: most of her visitors she merely tolerated. </I><B>| grudgingly | officially </B><I>Union activity was officially tolerated but strongly discouraged. </I><B>| no longer </B><I>The government is not prepared to tolerate this situation any longer. </I> </P>
+<P> <U> VERB + TOLERATE </U><B> be unable to, (not) be prepared to, (not) be willing to, cannot/could not, find sth difficult to, will/would not </B><I>I will not tolerate thi</I>s </B><I>behaviour</I>! </B> </P>
+<P> <SUP> 2 </SUP> <TT> not be affected by difficult conditions </TT> </P>
+<P> <U> ADV. </U><B> readily, well </B><I>This plant prefer</I>s </B><I>alkaline soil, though it will readil</I>y </B><I>tolerate some acidity. Sh</I>e </B><I>tolerated the chemotherapy well</I>. </B> </P>
+<P> <U> VERB + TOLERATE </U><B> be unable to, cannot/could not, find/make sth difficult to, will/would not </B><I>people whose eye condition makes it difficult to tolerate bright light</I> </P>
+</DIV>

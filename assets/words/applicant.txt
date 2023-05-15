@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>applicant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> potential, prospective | suitable, suitably qualified </B><I>Grant payments will be made to suitable applicants. </I><B>| unsuitable | lucky, successful | disappointed, unsuccessful </B><I>Unsuccessful applicants may appeal against the decision. </I><B>| job | asylum, refugee </B> </P>
+<P> <U> VERB + APPLICANT </U><B> attract </B><I>The advertisement attracted a number of applicants. </I><B>| shortlist </B><I>Eighteen applicants were shortlisted. </I><B>| interview | appoint, select | reject, turn away/down </B> </P>
+<P> <U> APPLICANT + VERB </U><B> apply </B><I>All applicants should apply in writing. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>There were over fifty applicants for the job. </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>avenue </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> wide street </TT> </P>
+<P> <U> ADJ. </U><B> broad, wide | leafy, tree-lined </B> </P>
+<P> <U> AVENUE + VERB </U><B> be lined with sth </B><I>an avenue lined with elms </I> </P>
+<P> <U> PREP. </U><B> along, down, in, through, up an/the ~ </B><I>strolling down a tree-lined avenue </I> </P>
+<P> <SUP> 2 </SUP> <TT> way of doing/getting sth </TT> </P>
+<P> <U> ADJ. </U><B> possible, promising | fruitful </B> </P>
+<P> <U> VERB + AVENUE </U><B> explore, pursue, try </B><I>We need to explore every possible avenue. </I><B>| exhaust </B><I>After two months of negotiations we had exhausted all avenues. </I><B>| open (up), provide </B> </P>
+<P> <U> AVENUE + VERB </U><B> be open to sb </B><I>There was only one avenue open to him. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>to provide a new avenue for research </I><B>| ~ of </B><I>the two main avenues of enquiry </I><B>| ~ to </B><I>an avenue to success </I> </P>
+</DIV>

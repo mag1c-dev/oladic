@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>lease </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, long-term | short, short-term | ten-year, etc. | business, commercial | building, mining </B> </P>
+<P> <U> VERB + LEASE </U><B> have, hold </B><I>They've got a lease with five years to run. </I><B>| draw up | acquire, buy, enter into, get, negotiate, obtain, sign, take (on/out/up) </B><I>She has taken out a new ten-year lease on the flat. </I><B>| grant (sb), sell (sb) </B><I>A freeholder may grant a lease of any duration. </I><B>| renew | forfeit, surrender </B><I>They moved out and the lease was surrendered. </I><B>| cancel, terminate | take over | transfer </B> </P>
+<P> <U> LEASE + VERB </U><B> run </B><I>The lease runs from April 19. </I><B>| take effect | come up for renewal, expire, run out </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>a new clause in the lease </I><B>| on a ~ </B><I>The company holds the building on a long lease. </I><B>| under a/the ~ </B><I>Under the new lease, the rent would go up. </I><B>| ~ of </B><I>He took a lease of the premises. </I><B>| ~ on </B><I>The club has a 20-year lease on the property. </I> </P>
+<P> <U> PHRASES </U><B> a clause in a lease, a condition of a lease, the length/period/term of a lease, a provision in a lease, the terms of the lease</B> </P>
+</DIV>

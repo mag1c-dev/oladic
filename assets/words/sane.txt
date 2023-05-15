@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>sane </b><i>adj. </i> </p>
+<p> <u> VERBS </u><div class="ex"><b> be, seem | remain, stay | keep sb </b></div><div class="excontent"><i>Having that little bit of time to myself is what keeps me sane. </i> </div></p>
+<p> <u> ADV. </u><div class="ex"><b> eminently, very | completely, perfectly, quite, utterly </b></div><div class="excontent"><i>She seems perfectly sane to me. </i></div><div class="ex"><b>| not entirely</b></div></p>
+</div>

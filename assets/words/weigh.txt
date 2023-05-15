@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>weigh </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> consider sth carefully </TT> </P>
+<P> <U> ADV. </U><B> carefully | up </B><I>The jury weighed up the evidence carefully. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>We weighed the cost of advertising against the likely gains from increased business. </I> </P>
+<P> <SUP> 2 </SUP> <TT> be considered important </TT> </P>
+<P> <U> ADV. </U><B> heavily, strongly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>His untidy appearance weighed against him. </I><B>| in favour of </B><I>This fact weighed heavily in her favour. </I><B>| with </B><I>His evidence weighed strongly with the judge. </I> </P>
+</DIV>

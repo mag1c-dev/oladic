@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>arrangement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plans/organization </TT> </P>
+<P> <U> ADJ. </U><B> alternative, better, different, new, other </B><I>It may be necessary to make alternative arrangements. </I><B>| final | practical | satisfactory, sensible, suitable | careful, detailed | flexible | conventional | unconventional, unusual | special </B><I>There are special arrangements for people working overseas. </I><B>| formal | necessary, proper | administrative, organizational | domestic, funeral, holiday, living, pension, seating, security, sleeping, travel, working </B><I>Their domestic arrangements were considered unconventional at the time. </I> </P>
+<P> <U> VERB + ARRANGEMENT </U><B> make | complete, confirm, finalize </B><I>Arrangements for the trip have now been completed. </I><B>| discuss </B><I>We are just discussing the final arrangements for the concert. </I><B>| upset </B><I>All her careful arrangements had been upset! </I> </P>
+<P> <U> ARRANGEMENT + VERB </U><B> stand </B><I>As far as I know the arrangement still stands. </I><B>| fall through </B><I>The catering arrangements for the conference have fallen through. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Arrangements for the funeral are complete. </I><B>| ~ with </B><I>I have made arrangements with the shop for the goods to be delivered here. </I> </P>
+<P> <SUP> 2 </SUP> <TT> agreement </TT> </P>
+<P> <U> ADJ. </U><B> business, financial </B><I>It's purely a business arrangement?there's no need to get emotionally involved. </I><B>| convenient | special | formal | informal | voluntary | private | reciprocal | long-standing, long-term, permanent | interim, temporary </B> </P>
+<P> <U> VERB + ARRANGEMENT </U><B> have </B><I>The company has a special arrangement with the bank. </I><B>| agree, come to, make </B><I>She made an arrangement with her employer whereby she worked a reduced number of hours. </I> </P>
+<P> <U> PREP. </U><B> by (an/the) ~ </B><I>Viewing of the property is only possible by arrangement with the owner. The couple have an arrangement by which they each contribute equally to the cost of the house. </I><B>| under an/the ~ </B><I>Under this arrangement you can pay for the goods over a longer period. </I><B>| ~ between </B><I>an arrangement between the two men </I><B>| ~ with </B><I>He finally came to an arrangement with his landlord. </I> </P>
+<P> <U> PHRASES </U><B> by prior arrangement </B><I>A tour of the theatre is available by prior arrangement. </I> </P>
+<P> <SUP> 3 </SUP> <TT> group of things placed together </TT> </P>
+<P> <U> ADJ. </U><B> complex, complicated </B><I>a complex arrangment of rods and cogs </I><B>| physical </B><I>Even the physical arrangement of the classroon can influence the way children learn. </I><B>| floral, flower </B> </P>
+<P> <U> VERB + ARRANGEMENT </U><B> design, do </B><I>Who did this beautiful flower arrangement? </I> </P>
+</DIV>

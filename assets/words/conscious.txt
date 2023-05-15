@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>conscious </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> aware of sth </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain </B> </P>
+<P> <U> ADV. </U><B> acutely, deeply </B><I>(formal)</I>, <B>extremely, highly, intensely, terribly, very </B><I>She became acutely conscious that someone was watching her. We are now deeply conscious of these issues. </I><B>| fully, perfectly | increasingly | hardly </B><I>I was hardly conscious of my surroundings. </I><B>| clearly | dimly, vaguely </B><I>He fell, and was dimly conscious of Tara standing over him. </I><B>| painfully </B><I>All the time he was painfully conscious of how hard it was going to be to explain. </I><B>| environmentally, politically, socially </B><I>The company is extremely environmentally conscious </I>(= aware of environmental problems and how to deal with them)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>I am very conscious of the need for secrecy. </I> </P>
+<P> <U> PHRASES </U><B> fashion/health/safety/security conscious </B><I>fashion conscious teenagers </I> </P>
+<P> <SUP> 2 </SUP> <TT> able to see/hear/feel </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B><I>She remained conscious throughout the operation. </I> </P>
+<P> <U> ADV. </U><B> fully </B><I>The patient is not yet fully conscious. </I><B>| barely, hardly </B><I>One man was so drunk as to be barely conscious. </I><B>| half </B><I>I was only half conscious. </I> </P>
+</DIV>

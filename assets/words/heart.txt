@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>heart attack </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fatal | massive, serious </B><I>She died of a massive heart attack. </I><B>| mild, minor | suspected </B> </P>
+<P> <U> VERB + HEART ATTACK </U><B> have, suffer </B><I>He suffered a fatal heart attack while cycling. </I><B>| die from/of </B>&gt; Special page at ILLNESS </B> </P>
+</DIV><DIV class="item"><P class="word"><B>heart </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of the body </TT> </P>
+<P> <U> ADJ. </U><B> healthy, strong | bad, weak | artificial | human </B> </P>
+<P> <U> HEART + VERB </U><B> beat | pump sth </B><I>The heart pumps blood through the body. </I><B>| fail, stop | hammer, palpitate, pound, race, throb, thud, thump </B> </P>
+<P> <U> HEART + NOUN </U><B> rate | complaint, condition, defect, disease, failure, murmur, problem, trouble | bypass, operation, surgery, transplant </B><I>a triple heart bypass operation open-heart surgery </I> </P>
+<P> <SUP> 2 </SUP> <TT> feelings/emotions </TT> </P>
+<P> <U> ADJ. </U><B> big, good, kind, soft, tender, warm | cold, hard | broken | heavy, sinking </B><I>With a heavy heart, she watched him go. </I><B>| light </B><I>He set off with a light heart. </I> </P>
+<P> <U> VERB + HEART </U><B> have </B><I>She has a kind heart. Have you no heart? </I><B>| break </B><I>He broke her heart. </I><B>| gladden | steal, win | harden | open, pour out </B><I>Finally, he broke down tears and poured out his heart to her. </I> </P>
+<P> <U> HEART + VERB </U><B> jump, leap, lurch, miss/skip a beat </B><I>Her heart leapt with joy. </I><B>| ache </B><I>My heart aches when I think of their sorrow. </I><B>| desire sth </B><I>everything your heart could desire </I><B>| sink | go out </B><I>Our hearts go out to </I>(= we sympathize deeply with) </B><I>the families of the victims. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>At heart he is a republican. </I><B>| from the ~ </B><I>I could tell he spoke from the heart. </I><B>| in your ~ </B><I>In my heart, I knew it wasn't true. </I> </P>
+<P> <U> PHRASES </U><B> an affair of the heart </B>(= a romance) <I>Her novels tend to deal with affairs of the heart </I><B>| a change of heart </B>(= a change of attitude) <I>He could have a change of heart and settle down to family life. </I><B>| from the bottom of your heart </B><I>I beg you, from the bottom of my heart, to spare his life. </I><B>| heart and soul </B><I>He committed himself heart and soul to the cause. </I><B>| have a heart of gold/stone </B>(= to be a kind/cruel person) (= no sympathetic feelings), <B>the hearts and minds of sb </B><I>to win the hearts and minds of the nation's youth </I><B>| in good heart </B>(= cheerful and well), <B>put some/more heart into sth </B><I>Let's sing it one more time from the beginning?and put some heart into it! </I><B>| sick at heart </B>(= very unhappy), <B>with all your heart </B><I>I wish you well with all my heart. </I> </P>
+<P> <SUP> 3 </SUP> <TT> important/central part </TT> </P>
+<P> <U> ADJ. </U><B> very </B> </P>
+<P> <U> VERB + HEART </U><B> lie at </B><I>The distinction between right and wrong lies at the heart of all questions of morality. </I><B>| go to </B><I>The committee's report went to the heart of the government's dilemma. </I> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>the issue at the heart of modern government </I><B>| ~ of </B><I>We live in the very heart of the city. </I> </P>
+<P> <U> PHRASES </U><B> the heart of the matter/problem </B> </P>
+<P> <SUP> 4 </SUP> <TT> playing card </TT> </P>
+<a href="/collocation-tag/playing-card" class="tag">Learn more about PLAYING CARD</a>
+</DIV>

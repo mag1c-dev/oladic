@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>plead </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> ask sb for sth in a very serious way </TT> </P>
+<P> <U> ADV. </U><B> almost </B><I>She was almost pleading with him. </I><B>| silently | successfully </B><I>She successfully pleaded their cause with the mayor. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>They pleaded for mercy. </I><B>| with </B><I>His eyes silently pleaded with her. </I> </P>
+<P> <SUP> 2 </SUP> <TT> say that you are guilty/not guilty </TT> </P>
+<P> <U> PHRASES </U><B> plead guilty/not guilty </B><I>He pleaded not guilty to the murder. </I> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>liberal </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> respecting other opinions </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> remarkably, very | fairly, quite, relatively </B><I>His attitudes are quite liberal. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in politics </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> comparatively, relatively </B><I>comparatively liberal in trade matters </I><B>| broadly, essentially </B><I>a broadly liberal policy programme </I> </P>
+<P> <SUP> 2 </SUP> <TT> generous </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> very </B> </P>
+<P> <U> PREP. </U><B> with </B><I>She's very liberal with her advice! </I> </P>
+</DIV><DIV class="item"><P class="word"><B>liberal </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> leading | bourgeois, middle-class | old-fashioned, traditional | radical | market | economic, political, social </B> </P>
+<P> <U> LIBERAL + NOUN </U><B> leader, party</B> </P>
+</DIV>

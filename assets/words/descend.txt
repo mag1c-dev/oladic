@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>descend </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move downwards </TT> </P>
+<P> <U> ADV. </U><B> quickly, rapidly | slowly </B> </P>
+<P> <SUP> 2 </SUP> <TT> lead downwards </TT> </P>
+<P> <U> ADV. </U><B> sharply, steeply | gently, gradually </B> </P>
+<P> <U> PREP. </U><B> into, to </B><I>The path descends steeply to the village. </I></P>
+<P> <SUP> 3 </SUP> <TT> be descended from sb/sth: be related to sb/sth  </TT> </P>
+<P> <U> ADV. </U><B> directly </B><I>The breed is almost directly descended from the Eurasian wild boar. </I> </P>
+<P> <U> VERB + DESCEND </U><B> claim to </B><I>He claims to be descended from a Spanish prince. </I> </P>
+</DIV>

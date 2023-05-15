@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>slender </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> thin in an attractive way </TT> </P>
+<P> <U> VERBS </U><B> be, look </B> </P>
+<P> <U> ADV. </U><B> very </B><I>Those trousers make you look very slender. </I><B>| quite | boyishly </B><I>her boyishly slender figure </I> </P>
+<P> <SUP> 2 </SUP> <TT> small in amount/size </TT> </P>
+<P> <U> VERBS </U><B> be, seem | remain </B> </P>
+<P> <U> ADV. </U><B> decidedly, very </B><I>His musical achievements have been decidedly slender. </I><B>| fairly, pretty, rather</B> </P>
+</DIV>

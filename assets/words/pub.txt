@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pub </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excellent, good | favourite | corner, local, nearby, nearest </B><I>The corner pub is quite good. </I><B>| crowded | friendly, welcoming | country, village | historic, traditional | modern | theme </B><I>It's one of those modern theme pubs. </I> </P>
+<P> <U> VERB + PUB </U><B> go down (to), go (round) to </B><I>Let's go down the pub for a drink. </I> </P>
+<P> <U> PUB + NOUN </U><B> food, lunch, meal | landlady, landlord </B> </P>
+<P> <U> PREP. </U><B> at/in a/the ~ </B><I>He spent all afternoon in the pub. </I> </P>
+</DIV>

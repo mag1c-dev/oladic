@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high | low | barbed-wire, chain-link, iron, mesh, metal, picket, wire, wooden </B><I>There was a cottage garden at the front and a white picket fence. </I><B>| electric | boundary, garden, perimeter, security </B><I>the airport perimeter fence </I><B>| political </B><I>(figurative) a proposal favoured by people on both sides of the political fence </I> </P>
+<P> <U> VERB + FENCE </U><B> build, erect, put up | climb (over), jump (over) </B> </P>
+<P> <U> FENCE + NOUN </U><B> post </B> </P>
+<P> <U> PREP. </U><B> over a/the ~ </B><I>She leaned over the fence. </I><B>| ~ around/round </B><I>a fence around the site </I> </P>
+</DIV>

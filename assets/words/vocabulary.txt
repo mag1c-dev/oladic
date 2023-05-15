@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>vocabulary </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> extensive, large, rich, wide </B><I>English has a rich vocabulary and literature. Try to develop a wide vocabulary. </I><B>| limited, narrow, poor, restricted, small | active, passive | basic, essential, key | formal | business, scientific, specialized, technical </B> </P>
+<P> <U> VERB + VOCABULARY </U><B> have | acquire, learn </B><I>Learners of languages acquire vocabulary through practice. </I><B>| build, develop, enlarge, enrich, expand, extend, increase, widen </B><I>This book has been designed to help you expand your vocabulary. </I><B>| enter </B><I>The word &lsquo;think tank&rsquo; entered the vocabulary </I>(= became part of the language) </B><I>in the 1960s. </I><B>| use </B><I>Specialized vocabulary is used in all the major disciplines. </I> </P>
+<P> <U> VOCABULARY + NOUN </U><B> item </B> </P>
+<P> <U> PREP. </U><B> ~ for/of </B><I>the essential vocabulary for tourism </I> </P>
+<P> <U> PHRASES </U><B> not in sb's vocabulary </B><I>The word &lsquo;failure&rsquo;is not in his vocabulary </I>(= for him, failure does not exist)</B><I>. </I> </P>
+</DIV>

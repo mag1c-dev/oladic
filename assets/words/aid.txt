@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>aid </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money, food, etc. </TT> </P>
+<P> <U> ADJ. </U><B> emergency | humanitarian | cash, development, economic, financial, food, legal, medical, military, relief </B><I>Legal aid </I>(= government money for legal advice) </B><I>is a fundamental part of our system of justice. </I><B>| federal, government, state | bilateral, external, foreign, international, overseas </B><I>The country relies on foreign aid </I> </P>
+<P> <U> VERB + AID </U><B> appeal for, call for </B><I>The country's president has appealed for international aid in the wake of the disaster. </I><B>| extend, give (sb), grant (sb), provide (sb with), send (sb) | get, receive | depend on, rely on | promise | cut (off), suspend, withdraw, withhold </B><I>The British government has now suspended humanitarian aid to the area. </I> </P>
+<P> <U> AID + NOUN </U><B> agency, worker | budget, package, programme </B><I>a $14 million aid package </I> </P>
+<P> <SUP> 2 </SUP> <TT> help </TT> </P>
+<P> <U> VERB + AID </U><B> ask for, enlist </B><I>We enlisted the aid of John and his family. </I><B>| come/go to sb's </B>(= to help someone) <I>She screamed loudly and two people came to her aid. </I> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>collecting money in aid of charity </I><B>| with/without the ~ of </B><I>She is now able to walk with the aid of a stick. </I> </P>
+<P> <SUP> 3 </SUP> <TT> person/thing that helps </TT> </P>
+<P> <U> ADJ. </U><B> effective, essential, excellent, important, useful, valuable | classroom, teaching, training | audio-visual, computer, visual | hearing, walking | memory | buoyancy </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>essential aids to learning </I>&gt; See <A HREF="first aid_noun.htm">FIRST AID</A> </B> </P>
+</DIV>

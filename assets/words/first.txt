@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>first aid </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> emergency </B> </P>
+<P> <U> VERB + FIRST AID </U><B> administer, give </B><I>While one of you gives first aid, the other should call an ambulance. </I><B>| receive | be trained in </B><I>At least one member of staff should be trained in first aid. </I> </P>
+<P> <U> FIRST AID + NOUN </U><B> box, kit, manual | course | post </B><I>Medics were bringing casualties to the first-aid post. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>first </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> (</B><I>also </I><B>first gear</B>) lowest gear on a bicycle/vehicle </TT> </P>
+<P> <U> VERB + FIRST </U><B> engage </B><I>She engaged first gear and pulled off. </I><B>| get into, move into, slam into </B><I>As he moved into first the gear-lever knob came off in his hand. </I><B>| put sth into </B><I>Put the car into first and pull off slowly. </I><B>| find </B><I>It's very difficult to find first on this car. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>There was something wrong with the gearbox and I had to drive all the way home in first. </I> </P>
+<P> <SUP> 2 </SUP> <TT> highest level of university degree </TT> </P>
+<P> <U> ADJ. </U><B> double </B><I>She did Philosophy and English Literature and got a double first. </I> </P>
+<P> <U> VERB + FIRST </U><B> be awarded, gain, get, obtain </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>He got a first in modern history. </I> </P>
+</DIV>

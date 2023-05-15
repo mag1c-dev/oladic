@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>coil </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> neat, tight | thick </B><I>thick coils of blonde hair </I> </P>
+<P> <U> COIL + VERB </U><B> unwind </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>She wore her hair in a neat coil. </I><B>| ~ of </B><I>a coil of rope </I> </P>
+</DIV><DIV class="item"><P class="word"><B>coil </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> tightly | loosely | neatly | up </B><I>He coiled the rope up tightly and put it away. </I> </P>
+<P> <U> PREP. </U><B> around/round </B><I>The snake coiled itself around a branch. </I><B>| into </B><I>Her hair was neatly coiled into a bun. </I> </P>
+</DIV>

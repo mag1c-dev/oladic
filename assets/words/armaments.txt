@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>armaments </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> conventional, nuclear </B> </P>
+<P> <U> VERB + ARMAMENTS </U><B> manufacture, produce </B> </P>
+<P> <U> ARMAMENTS + NOUN </U><B> factory, industry, production</B> </P>
+</DIV>

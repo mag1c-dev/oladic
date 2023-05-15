@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>confuse </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sb unable to think clearly; make sth unclear </TT> </P>
+<P> <U> ADV. </U><B> completely, totally </B><I>Seeing the two of them together totally confused me. </I><B>| slightly, somewhat | further </B><I>I will try to be brief and avoid further confusing the issue. </I> </P>
+<P> <SUP> 2 </SUP> <TT> mistake sb/sth for another person/thing </TT> </P>
+<P> <U> ADV. </U><B> easily </B><I>You can easily confuse the two paintings. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>I sometimes confuse Jane with her sister. </I> </P>
+</DIV>

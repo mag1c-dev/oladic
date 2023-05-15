@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>liquor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> alcoholic, hard, intoxicating, strong </B><I>It is an offence to sell intoxicating liquor to anyone under the age of 18. </I> </P>
+<P> <U> LIQUOR + NOUN </U><B> licence </B><I>The restaurant finally obtained a liquor licence. </I> </P>
+</DIV>

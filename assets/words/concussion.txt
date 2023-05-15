@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>concussion </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bad | mild, minor, slight </B> </P>
+<P> <U> VERB + CONCUSSION </U><B> have, suffer </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>He was carried off the field with slight concussion. </I> </P>
+</DIV>

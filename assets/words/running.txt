@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>running </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> activity/sport </TT> </P>
+<P> <U> ADJ. </U><B> cross-country, fell, road | distance, long-distance, marathon, middle-distance </B> </P>
+<P> <U> RUNNING + NOUN </U><B> event, race | shoe, shorts, vest | track </B> </P>
+<P> <SUP> 2 </SUP> <TT> management of business, etc. </TT> </P>
+<P> <U> ADJ. </U><B> efficient, smooth </B><I>Careful planning is needed to ensure the smooth running of the event. </I><B>| day-to-day </B> </P>
+<P> <U> VERB + RUNNING </U><B> be involved in, be responsible for </B> </P>
+<P> <U> RUNNING + NOUN </U><B> costs, expenses</B> </P>
+</DIV>

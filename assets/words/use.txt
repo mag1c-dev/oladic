@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>use </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> using/being used </TT> </P>
+<P> <U> ADJ. </U><B> considerable, extensive, great, heavy, liberal | full, maximum </B><I>He made full use of the opportunity to travel. </I><B>| excessive </B><I>a style of writing with an excessive use of metaphor </I><B>| increased, increasing | constant, continued, daily, everyday, frequent, regular, repeated, routine </B><I>the daily use of a deodorant </I><B>| wide, widespread </B><I>a campaign to encourage wider use of public transport </I><B>| common, current, general, normal, ordinary </B><I>This software is no longer in common use. </I><B>| limited | occasional | appropriate, careful, clever, correct, effective, efficient, good, judicious, legitimate, optimum, proper, safe, selective </B><I>Holding a lavish party was not the best use of scarce funds. an efficient use of resources an article with a judicious use of examples The layout of the furniture makes optimum use of the space available. </I><B>| indiscriminate, poor | illegal, unauthorized | personal, private | external, internal </B><I>This antiseptic is for external use only. </I><B>| home </B><I>fire extinguishers for home use </I><B>| clinical, commercial, industrial | official | exclusive </B><I>for the exclusive use of club members </I><B>| free </B><I>Guests have free use of the hotel swimming pool. </I><B>| immediate </B><I>Only half the land was fit for immediate use. </I><B>| drug, heroin, etc. </B><I>Drug use in this age group is on the increase. </I><B>| land | language | energy | library </B> </P>
+<P> <U> VERB + USE </U><B> make </B><I>We made use of the car while you were away. </I><B>| bring sth (back) into, come into </B><I>a technology which came into use at the end of the last century </I><B>| go out of </B><I>The expression went out of use some time ago. </I> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>This phone number is only for use in an emergency. </I><B>| in ~ </B><I>The phone is in constant use. </I> </P>
+<P> <U> PHRASES </U><B> ease of use </B><I>This model has been designed for greater ease of use. </I><B>| for use as </B><I>The record is intended for use as background music. </I><B>| ready for use </B><I>This room is now ready for use. </I> </P>
+<P> <SUP> 2 </SUP> <TT> purpose for which sth is used </TT> </P>
+<P> <U> ADJ. </U><B> different | new </B> </P>
+<P> <U> VERB + USE </U><B> have </B><I>This herb has a variety of uses. </I><B>| find, put sth to </B><I>Can you find a use for this old table? Don't throw that box away?I'm sure I could put it to some use. </I> </P>
+<P> <U> PHRASES </U><B> a variety of uses </B> </P>
+<P> <SUP> 3 </SUP> <TT> ability/permission to use sth </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>the full use of your mental faculties </I> </P>
+<P> <U> VERB + USE </U><B> have </B><I>Since his stroke he hasn't had the use of his left hand. </I><B>| give sb, offer (sb) </B><I>We gave them the use of our house while we were on holiday. </I><B>| deny sb </B><I>They denied us use of the college library. </I><B>| lose | recover, regain </B><I>After a while she regained the use of her fingers. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She lost the use of her legs in a car accident. </I> </P>
+<P> <SUP> 4 </SUP> <TT> how useful sth is </TT> </P>
+<P> <U> ADJ. </U><B> practical </B> </P>
+<P> <U> VERB + USE </U><B> be of </B><I>Could this old coat be of use to you? </I><B>| have </B><I>I have no use for my golf clubs any more. </I> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>It's of no practical use to me. </I><B>| ~ to </B><I>Is it any use to you? </I> </P>
+<P> <U> PHRASES </U><B> be no use </B><I>It's no use running?the train has already gone. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>use </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, efficiently | sparingly </B><I>This paint is very expensive, so please use it sparingly. </I><B>| indiscriminately | frequently, generally, habitually, normally, regularly, usually </B><I>Do you habitually use display screen equipment as a significant part of your job? </I><B>| occasionally, rarely | up </B><I>The oil had all been used up. </I> </P>
+<P> <U> VERB + USE </U><B> be easy to, be simple to </B><I>These garden shears are lightweight and easy to use. </I><B>| be difficult to, be hard to | be ready to | be likely to, tend to </B><I>the factors that make people likely to use heroin Manufacturers tend to use disks made in the US. </I><B>| decide to | intend to, plan to | attempt to, try to | allow sb to, be entitled to, let sb, permit sb to </B><I>Candidates are not allowed to use dictionaries in the exam. </I><B>| forbid sb to | teach sb to </B> </P>
+<P> <U> PREP. </U><B> as </B><I>The tennis court is sometimes used as a car park. </I><B>| for </B><I>chemicals that are used for cleaning </I> </P>
+<P> <U> PHRASES </U><B> permission to use sth</B> </P>
+</DIV>

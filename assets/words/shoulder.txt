@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>shoulder </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of the body between the neck and the arm </TT> </P>
+<P> <U> ADJ. </U><B> dislocated, frozen </B><I>His frozen shoulder has stopped him playing tennis. </I> </P>
+<P> <U> SHOULDER + NOUN </U><B> injury | blade, bones, joint, muscle, socket </B><I>The bullet hit him squarely between the shoulder blades. </I><B>| height, level | width </B><I>Keep the feet shoulder width apart. </I><B>| harness, sling, strap | injury </B> </P>
+<P> <U> PREP. </U><B> over your ~ </B><I>He slung the sack over his shoulder and set off. </I> </P>
+<P> <U> PHRASES </U><B> a pat on the shoulder </B><I>He gave me a reassuring pat on the shoulder. </I><B>| shoulder to shoulder </B><I>The route of the procession was lined with police officers standing shoulder to shoulder. </I><B>| tap sb on the shoulder </B><I>I tapped the man on the shoulder and asked him to move. </I></P>
+<P> <SUP> 2 </SUP> <TT> shoulders: the part between the two shoulders  </TT> </P>
+<P> <U> ADJ. </U><B> big, broad, great, huge, manly, massive, muscled, muscular, powerful, strong, wide | delicate, shapely, slim | narrow, thin | square | round | bony | bowed | bare | tense, tight | tired </B> </P>
+<P> <U> VERB + SHOULDER </U><B> shrug </B><I>When I asked him why he'd done it he just shrugged his shoulders. </I><B>| hunch </B><I>He hunched his shoulders against the cold wind. </I> </P>
+<P> <U> SHOULDER + VERB </U><B> be bent, be bowed, be stooped </B><I>She was crouched with her head forward and her shoulders bent. </I><B>| droop, drop, sag, slump </B><I>My shoulders dropped with relief. </I><B>| lift, shrug </B><I>Her shoulders lifted in a vague shrug. </I><B>| heave, shake, twitch </B><I>His enormous shoulders heaved with sobs. </I><B>| stiffen, tighten | relax </B> </P>
+<P> <U> PREP. </U><B> on your ~s </B><I>The child sat on her father's shoulders to watch the parade go by. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>shoulder </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> accept the responsibility for sth </TT> </P>
+<P> <U> VERB + SHOULDER </U><B> have to, must </B><I>She had to shoulder the burden of childcare. </I><B>| be willing/unwilling to </B><I>He was unwilling to shoulder this responsibility alone. </I> </P>
+<P> <SUP> 2 </SUP> <TT> push sb/sth with your shoulder </TT> </P>
+<P> <U> ADV. </U><B> roughly </B><I>We were shouldered roughly out of the way. </I><B>| aside, out of the way </B> </P>
+<P> <U> PHRASES </U><B> shoulder your way past/through sb/sth </B><I>She shouldered her way through the crowd. </I> </P>
+</DIV>

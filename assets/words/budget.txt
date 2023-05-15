@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>budget </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fixed, limited, low, shoestring, small, tight | generous, large | annual, monthly, weekly, yearly | family, personal | federal, government, municipal, national, state | defence, education, health, housing, military, social security, (social) welfare | advertising, marketing, training | draft </B> </P>
+<P> <U> VERB + BUDGET </U><B> get, have </B><I>The organization has a large annual budget. </I><B>| allocate, draw up, plan, set </B><I>The council has to draw up its budget for next year. </I><B>| present, propose, submit | approve | balance </B><I>The school has a struggle to balance its budget. </I><B>| adhere to, keep to, stick to </B><I>Work out a weekly budget and stick to it. </I><B>| exceed, go over, overspend | cut, reduce, slash | increase </B> </P>
+<P> <U> BUDGET + NOUN </U><B> expenditure | deficit, surplus | constraint, limit | cuts | plans, proposals | allocation | Budget Day </B>(= when the government announces its budget)  </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>Is there any money left in the budget? </I><B>| below/under ~ </B><I>Costs have been held below budget. </I><B>| on (a) ~ </B><I>All his projects are on time and on budget. This hotel caters for people travelling on a tight budget. </I><B>| over ~ </B><I>The project is now well over budget. </I><B>| within ~ </B><I>to keep within budget </I><B>| ~ for </B><I>The budget for next year has not yet been set. </I><B>| ~ of </B><I>a budget of $5,000 </I> </P>
+</DIV><DIV class="item"><P class="word"><B>budget </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, sensibly </B><I>If we budget carefully we should be able to afford a holiday this year. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>We have budgeted </I>&pound;</B><I>10,000 for advertising. </I> </P>
+</DIV>

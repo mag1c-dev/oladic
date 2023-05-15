@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>deck </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> top outside floor of a ship/boat </TT> </P>
+<P> <U> ADJ. </U><B> open </B> </P>
+<P> <U> VERB + DECK </U><B> go up on </B><I>When we heard the alarm, we went up on deck. </I> </P>
+<P> <U> PREP. </U><B> below ~ </B><I>The passengers were trapped below deck. </I><B>| on ~ </B><I>I joined the others on deck. </I> </P>
+<P> <SUP> 2 </SUP> <TT> one of the floors of a bus/ship </TT> </P>
+<P> <U> ADJ. </U><B> lower, top, upper | aft/after, main, poop, promenade, saloon, sun (on a ship) </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>sitting on the top deck of the bus </I> </P>
+</DIV>

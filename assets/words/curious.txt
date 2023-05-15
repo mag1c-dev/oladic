@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>curious </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> eager to find out about sb/sth </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem | became, get, grow | remain | make sb </B><I>Her secretive manner had made me curious. </I> </P>
+<P> <U> ADV. </U><B> deeply, extremely, intensely, very </B><I>I was intensely curious to know more about him. </I><B>| a little, mildly, rather, slightly | frankly </B><I>She coped with the frankly curious looks of the men. </I><B>| genuinely | idly </B><I>He saw a book on the table and picked it up, idly curious. </I><B>| naturally </B><I>Puppies are naturally curious. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>I was curious about how she would react. </I><B>| as to </B><I>She was curious as to why he was there. </I> </P>
+<P> <U> PHRASES </U><B> curious to find out/know/see sb/sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> strange/unusual </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, smell, taste | find sb/sth </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>I find it very curious that you did not tell anyone. </I><B>| a little, rather, slightly, somewhat </B><I>The wine tasted rather curious. </I> </P>
+</DIV>

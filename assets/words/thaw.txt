@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>thaw </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rapid, sudden | spring, summer </B><I>The arctic shore remains frozen until the summer thaw. </I> </P>
+<P> <U> THAW + VERB </U><B> begin, come, set in </B> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>The river often floods during the thaw. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>thaw </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely </B><I>Make sure the meat has thawed completely before cooking. </I><B>| a little </B><I>(figurative) Relations between the two countries thawed a little after the talks. </I><B>| visibly </B><I>(figurative) The old nun was as imperious as ever, but visibly thawed when she saw the children. </I><B>| out </B><I>Has the meat thawed out yet? </I> </P>
+</DIV>

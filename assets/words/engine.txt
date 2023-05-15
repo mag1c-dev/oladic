@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>engine </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of a vehicle that produces power </TT> </P>
+<P> <U> ADJ. </U><B> big, powerful | small | twin ~s </B><I>a large plane with twin engines </I><B>| 1.4-litre, 1200cc, 20-valve, four-cylinder, two-stroke, etc. | diesel, internal-combustion, jet, outboard, petrol, piston, turbine, turbo/turbocharged | aircraft, car, rocket </B> </P>
+<P> <U> VERB + ENGINE </U><B> crank (up), start, switch on | cut </B><I>(informal)</I>, <B>kill </B><I>(informal)</I>, <B>switch off </B><I>He pulled up under some trees and cut the engine. </I><B>| rev (up), run </B><I>She sat at the traffic lights revving the engine. </I><B>| repair, service, tune | lubricate | fit (sth with) </B><I>The new model is fitted with a more powerful engine. </I> </P>
+<P> <U> ENGINE + VERB </U><B> run </B><I>She waited with the engine running while he bought a paper. The engine runs on unleaded petrol. </I><B>| idle, tick over, turn over </B><I>The engine was just ticking over. </I><B>| catch, start </B><I>I pressed the starter and the engine caught first time. </I><B>| stop | fire </B><I>The engine's firing on all four cylinders now. </I><B>| break down, die, fail, misfire, overheat, seize up, stall | cough, splutter </B><I>The engine coughed and died. </I><B>| roar, scream </B><I>The plane's engine roared as it prepared for take-off. </I><B>| race, rev (up) </B><I>He heard a car engine racing behind him. </I><B>| power sth </B><I>This model is powered by a 1.8-litre petrol engine. </I> </P>
+<P> <U> ENGINE + NOUN </U><B> capacity, power, speed | compartment, room </B><I>the ship's engine room </I><B>| component | failure, problems, trouble </B><I>It looks as if we've got a spot of engine trouble. </I><B>| noise </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>You need more oil in the engine. </I> </P>
+<P> <U> PHRASES </U><B> the noise/roar/sound of the engine </B> </P>
+<P> <SUP> 2 </SUP> <TT> vehicle that pulls a train </TT> </P>
+<P> <U> ADJ. </U><B> large, powerful | diesel, electric, steam | railway, tank </B> </P>
+<P> <U> VERB + ENGINE </U><B> build </B> </P>
+<P> <U> ENGINE + VERB </U><B> break down, fail </B><I>The engine broke down just outside the station. </I> </P>
+<P> <U> ENGINE + NOUN </U><B> driver | failure | speed | shed</B> </P>
+</DIV>

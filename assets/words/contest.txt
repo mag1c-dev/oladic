@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>contest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> close, closely fought, equal, even | one-sided, unequal </B><I>The contest was too one-sided to be exciting. </I><B>| open </B><I>This contest is wide open: any of half a dozen teams could win it. </I><B>| fair </B><I>The other bidders for the contract complained that it had not been a fair contest. </I><B>| exciting, good, great, thrilling | bitter | head-to-head </B><I>The contestants are eliminated one by one until the last two compete in a head-to-head contest. </I><B>| global, international, local, national, regional | election/electoral, gubernatorial, leadership, political, presidential | beauty, song, sporting, talent </B> </P>
+<P> <U> VERB + CONTEST </U><B> have, hold, run </B><I>We have three major beauty contests a year. Sporting contests are held in the arena. </I><B>| compete in, enter, take part in </B><I>A third candidate has entered the contest for the Republican nomination. </I><B>| win, lose </B> </P>
+<P> <U> CONTEST + VERB </U><B> take place </B> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>During the election contest newspapers are not allowed to publish public opinion polls. </I><B>| in a/the ~ </B><I>Both sides are predicting victory in this close contest. </I><B>| out of a/the ~ </B><I>Jackson has injured his knee and is now out of the contest. </I><B>| ~ against </B><I>They won the doubles contest against the Williams sisters. </I><B>| ~ between </B><I>the contest between these two great boxers </I><B>| ~ for </B><I>the contest for the leadership of the party </I><B>| ~ over </B><I>In the animal kingdom intruders usually lose contests over territories. </I><B>| ~ with </B><I>The New Zealanders are looking forward to future contests with South Africa. </I> </P>
+<P> <U> PHRASES </U><B> be no contest </B>(= used when one side in a contest is much stronger than the other and is sure to win), <B>the winner of a contest</B> </P>
+</DIV><DIV class="item"><P class="word"><B>contest </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a competition </TT> </P>
+<P> <U> ADV. </U><B> bitterly, fiercely, hotly, keenly </B><I>The election was bitterly contested. </I><B>| successfully, unsuccessfully </B> </P>
+<P> <SUP> 2 </SUP> <TT> oppose </TT> </P>
+<P> <U> ADV. </U><B> fiercely, hotly, strongly, vigorously </B><I>His views on evolution are strongly contested by other scientists. </I><B>| successfully, unsuccessfully </B><I>Defence lawyers successfully contested the case. </I> </P>
+</DIV>

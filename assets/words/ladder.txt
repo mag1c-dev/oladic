@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>ladder </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of equipment for climbing up sth </TT> </P>
+<P> <U> ADJ. </U><B> rickety | wooden | loft, rope </B> </P>
+<P> <U> VERB + LADDER </U><B> ascend, clamber up, climb (up), mount, go up </B><I>He went up the ladder onto the deck. </I><B>| come down, descend, go down | put up </B><I>We put up the ladder and went to get the paint. </I><B>| fall off, step off </B> </P>
+<P> <U> PREP. </U><B> on/up a/the ~ </B><I>She was up a ladder mending the roof. </I><B>| down a/the ~ </B><I>I was standing lower down the ladder. </I><B>| ~ to </B><I>the ladder to the gallery </I> </P>
+<P> <U> PHRASES </U><B> the bottom/foot of a ladder, a rung/step of a ladder </B><I>Several of the ladder's rungs were broken. </I><B>| the top of a ladder </B> </P>
+<P> <SUP> 2 </SUP> <TT> levels in a system </TT> </P>
+<P> <U> ADJ. </U><B> evolutionary, social </B><I>the people at the top of the social ladder </I><B>| career, corporate, housing, promotion </B> </P>
+<P> <U> VERB + LADDER </U><B> ascend, climb, move up </B><I>She was anxious to move up the promotion ladder. </I><B>| get onto </B> </P>
+<P> <U> PREP. </U><B> higher up the ~ </B><I>creatures higher up the evolutionary ladder </I><B>| lower down the ~ | ~ of </B><I>the ladder of fame </I><B>| ~ to </B><I>helping her on the ladder to success </I> </P>
+<P> <U> PHRASES </U><B> get/have one foot on the ladder </B><I>He finally managed to get one foot on the career ladder. </I><B>| a rung/step on the ladder </B><I>the old problem of how to get onto the first step on the ladder </I> </P>
+</DIV>

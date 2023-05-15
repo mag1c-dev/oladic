@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>trap </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hidden equipment used for catching sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> animal, bear, man, mouse (also mousetrap), etc. | gin, leghold, pit/pitfall | radar, speed </B><I>Slow down?there are speed traps along this stretch of road. </I> </P>
+<P> <U> VERB + TRAP </U><B> be/get caught in | catch sth in | free sth from </B><I>The fox had managed to free itself from the trap. </I><B>| lay, set | bait </B><I>Mousetraps are traditionally baited with cheese. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that tricks you; unpleasant situation </TT> </P>
+<P> <U> ADJ. </U><B> hidden, obvious | potential | booby | deadly | death, debt, poverty, unemployment </B><I>The overhead cable is a potential death trap for birds. </I><B>| offside (in football) </B> </P>
+<P> <U> VERB + TRAP </U><B> lay, set | spring | lure sb into | catch sb in | be/get caught in, fall into, stumble into, walk into </B><I>It is easy to fall into the trap of taking out a loan you cannot afford. </I><B>| avoid | fear, suspect</B> </P>
+</DIV>

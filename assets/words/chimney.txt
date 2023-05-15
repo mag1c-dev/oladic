@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>chimney </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, tall | short | narrow, wide | tapering | smoking </B><I>The air was black from smoking chimneys. </I><B>| sooty | factory, industrial </B> </P>
+<P> <U> VERB + CHIMNEY </U><B> clean, sweep </B> </P>
+<P> <U> CHIMNEY + VERB </U><B> belch sth </B><I>factory chimneys belching smoke over the town </I><B>| draw </B><I>This chimney doesn't draw very well. </I> </P>
+<P> <U> CHIMNEY + NOUN </U><B> breast, flue, piece, pot, stack | sweep</B> </P>
+</DIV>

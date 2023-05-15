@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>reactor </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> nuclear | fast, fast-breeder, fission, fusion, gas-cooled, pressurized-water, thermal </B> </P>
+<P> <U> VERB + REACTOR </U><B> build | operate, run | close (down), decommission, shut down </B> </P>
+<P> <U> REACTOR + VERB </U><B> operate, run </B> </P>
+<P> <U> REACTOR + NOUN </U><B> building, site | fuel | core | accident, safety, shut-down</B> </P>
+</DIV>

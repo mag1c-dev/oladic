@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>contamination </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> massive, serious, widespread | cross- </B><I>Chopping boards can be a source of cross-contamination. </I><B>| environmental, food | bacterial, radioactive </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>There is already a high level of environmental contamination. </I> </P>
+<P> <U> VERB + CONTAMINATION </U><B> avoid, prevent | reduce </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>Always keep food covered to prevent contamination by flies. </I><B>| ~ from </B><I>There is a danger of serious contamination from radioactive waste. </I><B>| ~ with </B><I>Wash everything thoroughly to avoid contamination with bacteria. </I> </P>
+<P> <U> PHRASES </U><B> a source of contamination</B> </P>
+</DIV>

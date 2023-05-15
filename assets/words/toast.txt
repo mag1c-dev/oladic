@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>toast </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> bread </TT> </P>
+<P> <U> ADJ. </U><B> brown, white, wholemeal | dry | soggy </B> </P>
+<P> <U> QUANT. </U><B> piece, round, slice </B><I>We'll have another round of toast, please. </I> </P>
+<P> <U> VERB + TOAST </U><B> make </B><I>making toast for breakfast </I><B>| butter, spread </B><I>buttered toast She ate two slices of toast spread with jam. </I><B>| burn </B><I>I can smell burnt toast. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>For lunch we had cheese on toast. </I> </P>
+<P> <SUP> 2 </SUP> <TT> drink </TT> </P>
+<P> <U> VERB + TOAST </U><B> make, propose </B><I>He raised his glass as if to make a toast. </I><B>| drink | respond to </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The bridegroom ended his speech by proposing a toast to the hosts. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>toast </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sth brown and crisp by heating it </TT> </P>
+<P> <U> ADV. </U><B> lightly </B><I>Toast the bread lightly on both sides. </I> </P>
+<P> <SUP> 2 </SUP> <TT> drink to sb/sth </TT> </P>
+<P> <U> ADV. </U><B> silently </B><I>He raised his glass, silently toasting his absent son. </I> </P>
+<P> <U> PREP. </U><B> in/with </B><I>We toasted his victory in champagne. </I> </P>
+</DIV>

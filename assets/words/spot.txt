@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>spot </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small red mark on the skin </TT> </P>
+<P> <U> VERB + SPOT </U><B> break out in </B><I>The children all had measles, and had broken out in spots. </I><B>| scratch, squeeze </B> </P>
+<P> <SUP> 2 </SUP> <TT> place/area </TT> </P>
+<P> <U> ADJ. </U><B> exact, particular, precise | convenient, good, ideal, perfect, right, suitable </B><I>Take the time to find the right spot to pitch your tent. </I><B>| beautiful, beauty, idyllic, lovely, pleasant </B><I>The lake is one of the local beauty spots. </I><B>| favourite, popular </B><I>a favourite spot for picnickers </I><B>| deserted, desolate, isolated, lonely, remote | quiet, secluded | shady, sheltered | sunny | holiday, tourist | picnic | sore, tender | sensitive </B><I>(often figurative) From his angry reply it was obvious that I had touched a sensitive spot. </I><B>| vulnerable, weak </B><I>Check your house for weak spots where a thief could get in. </I><B>| blind </B><I>(often figurative) I have a blind spot where jazz is concerned </I>(= I don't understand it)</B><I>. </I><B>| danger, trouble </B><I>one of the world's major trouble spots </I><B>| high, number one/two, etc., top </B><I>The record quickly reached the number one spot in the charts. </I><B>| bald </B><I>He usually wears a hat to hide his bald spot. </I> </P>
+<P> <U> VERB + SPOT </U><B> mark </B><I>On your map, X marks the spot where the race begins. </I><B>| reach | be frozen/rooted to </B><I>He stood rooted to the spot, unable to move. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>The fire brigade was on the spot within minutes. </I> </P>
+<P> <U> PHRASES </U><B> an accident black spot</B> </P>
+</DIV><DIV class="item"><P class="word"><B>spot </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> quickly | easily </B><I>Most of these fossils are too small to be easily spotted. </I><B>| suddenly | eventually, finally </B> </P>
+<P> <U> VERB + SPOT </U><B> be difficult to, be easy to | fail to </B> </P>
+<P> <U> PHRASES </U><B> well spotted </B><I>&lsquo;There's parking space over the far side.&rsquo; &lsquo;Well spotted!&rsquo; </I> </P>
+</DIV>

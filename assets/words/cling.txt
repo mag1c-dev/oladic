@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>cling </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> hold tightly </TT> </P>
+<P> <U> ADV. </U><B> firmly, tightly | desperately, precariously </B><I>houses clinging precariously to sheer cliffs </I><B>| together </B><I>The children clung together in fear. </I> </P>
+<P> <U> PREP. </U><B> onto </B><I>She clung onto my arm. </I><B>| to </B><I>He clung tightly to the raft to keep himself afloat. </I> </P>
+<P> <SUP> 2 </SUP> <TT> stay close </TT> </P>
+<P> <U> ADV. </U><B> close/closely </B><I>The ground mist clung closely to the hedgerows. </I> </P>
+<P> <U> PREP. </U><B> to PHRASAL VERBS cling (on) to sth </B> </P>
+<P> <U> ADV. </U><B> still | rigidly, stubbornly, tenaciously </B><I>He still clings stubbornly to his socialist ideas. </I><B>| desperately, fiercely </B><I>She was desperately clinging on to life. </I> </P>
+</DIV>

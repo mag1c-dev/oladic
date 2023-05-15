@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>yogurt </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> natural, plain | apricot, strawberry, etc. | fat-free, low-fat | live | set, thick </B> </P>
+<P> <U> QUANT. </U><B> carton, pot </B> </P>
+<P> <U> YOGURT + NOUN </U><B> carton, pot</B> </P>
+</DIV>

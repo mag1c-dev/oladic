@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>locate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> find the position of sb/sth </TT> </P>
+<P> <U> ADV. </U><B> accurately, precisely </B><I>The machine can accurately locate radioactive material. </I><B>| quickly | easily </B> </P>
+<P> <U> VERB + LOCATE </U><B> be able/unable to, can/could </B><I>We haven't yet been able to locate a suitable site. </I><B>| try to | fail to | be easy to </B><I>Some stars are quite easy to locate with a telescope. </I><B>| be difficult to 2 be located </B>be in a place </B> </P>
+<P> <U> ADV. </U><B> centrally </B><I>The hotel is centrally located between Dam Square and Central Station. </I><B>| conveniently, ideally, strategically | physically </B><I>Two people can meet in virtual reality even if physically located in different continents. </I><B>| abroad </B> </P>
+<P> <U> PREP. </U><B> at, between, close to, in, on, near, outside, within, etc. </B><I>Your accommodation is conveniently located within walking distance of the town centre. </I> </P>
+</DIV>

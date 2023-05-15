@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>interrogation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> police | further </B> </P>
+<P> <U> VERB + INTERROGATION </U><B> conduct </B><I>The interrogation was conducted by senior police officers. </I> </P>
+<P> <U> INTERROGATION + NOUN </U><B> cell, room | methods, procedures, techniques </B> </P>
+<P> <U> PREP. </U><B> during ~ </B><I>She revealed the name of her accomplice during interrogation. </I><B>| under ~ </B><I>Under interrogation, he refused to say anything at first. </I> </P>
+<P> <U> PHRASES </U><B> power/powers of interrogation </B><I>The committee has no power of interrogation. </I> </P>
+</DIV>

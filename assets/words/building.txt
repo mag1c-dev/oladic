@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>building </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> house, church, school, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big, high-rise, large, tall | low, single-storey, small | attractive, beautiful, fine, imposing, impressive, magnificent | crumbling, derelict, dilapidated, ramshackle, tumbledown | ancient, historic, old | seventeenth-century, etc. | listed </B><I>They were refused planning permission for a modern extension because it was a Grade II listed building. </I><B>| brick, concrete, stone, timber, wooden | industrial, public, residential | airport, apartment, church, factory, farm, headquarters, hospital, office, prison, school </B> </P>
+<P> <U> VERB + BUILDING </U><B> build, erect, put up </B><I>Several new buildings are now being put up. </I><B>| demolish, destroy, flatten, gut, knock down, pull down, raze, tear down </B><I>The building was gutted by fire. </I><B>| damage | renovate, restore </B><I>They're renovating the old farm buildings. </I> </P>
+<P> <U> BUILDING + VERB </U><B> collapse </B> </P>
+<P> <SUP> 2 </SUP> <TT> process/business of building sth </TT> </P>
+<P> <U> ADJ. </U><B> nest, road | empire, team </B> </P>
+<P> <U> BUILDING + NOUN </U><B> business, company, contractor, firm, industry, sector, trade | programme, project, scheme | activity, development, work </B><I>We're having some building work done. </I><B>| controls, regulations | land, site | materials | boom | costs | worker</B> </P>
+</DIV>

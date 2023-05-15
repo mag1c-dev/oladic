@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>formula </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of signs/letters/numbers </TT> </P>
+<P> <U> ADJ. </U><B> complex, complicated | simple | algebraic, chemical, mathematical, scientific </B> </P>
+<P> <U> VERB + FORMULA </U><B> devise, work out </B><I>A simple mathematical formula has been devised to allow you to calculate the interest due. </I><B>| apply, use </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Do you know the formula for finding the area of a circle? </I> </P>
+<P> <SUP> 2 </SUP> <TT> method of solving a problem </TT> </P>
+<P> <U> ADJ. </U><B> good, magic, successful, winning | time-honoured, traditional | face-saving </B><I>The government was forced to find a face-saving formula to cover its misjudgement. </I><B>| peace </B><I>No one has yet come up with a successful peace formula. </I><B>| political </B> </P>
+<P> <U> VERB + FORMULA </U><B> have </B><I>No one has a magic formula for keeping youngsters away from crime. </I><B>| come up with, devise, find, hit on, provide, work out </B><I>We think we might have hit on a winning formula. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>What is their formula for success? </I> </P>
+</DIV>

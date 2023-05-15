@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>aptitude </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, natural, special </B><I>He has a natural aptitude for this work. </I> </P>
+<P> <U> VERB + APTITUDE </U><B> have | display, show </B><I>children who show an aptitude for sport </I> </P>
+<P> <U> APTITUDE + NOUN </U><B> test </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>an aptitude for mathematics </I> </P>
+</DIV>

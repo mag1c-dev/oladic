@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>informative </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, prove | find sth </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, most, particularly, very, wonderfully </B><I>The survey proved most informative. </I><B>| quite </B> </P>
+<P> <U> PREP. </U><B> about </B><I>The book is extremely informative about life in Roman times. </I> </P>
+</DIV>

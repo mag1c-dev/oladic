@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>approximation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> close, good, nearest, reasonable </B><I>This is the nearest approximation of cost that they can give us. </I><B>| crude, rough </B><I>This is only a crude approximation of the actual conditions in the area. </I> </P>
+<P> <U> VERB + APPROXIMATION </U><B> make </B><I>We do not have the true figures so we will have to make some approximations. </I><B>| give (sb), provide (sb with)</B> </P>
+</DIV>

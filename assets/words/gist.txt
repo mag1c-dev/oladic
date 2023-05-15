@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>gist </B><I>noun </I><B>the gist </B> </P>
+<P> <U> ADJ. </U><B> general </B> </P>
+<P> <U> VERB + GIST </U><B> convey, give (sb) </B><I>It is difficult to convey the gist of Reich's ideas simply. </I><B>| follow, get, understand </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>I could follow the general gist of their conversation. </I> </P>
+</DIV>

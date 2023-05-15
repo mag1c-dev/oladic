@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>set </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> ready </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | get (used when starting a race) </B><I>Get set &hellip; Go! </I> </P>
+<P> <U> ADV. </U><B> all </B><I>Are you all set? Let's go! </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The Italian team looks set for victory. </I> </P>
+<P> <SUP> 2 </SUP> <TT> determined </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> dead </B> </P>
+<P> <U> PREP. </U><B> against </B><I>Her father is dead set against the marriage. </I><B>| on </B><I>The council is now set on expanding the sports centre. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>set </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of similar things </TT> </P>
+<P> <U> ADJ. </U><B> complete, full, whole | common </B><I>These two species share a common set of characteristics. </I><B>| closed, open </B><I>A grammatical choice is drawn from a closed set of options. </I><B>| complex | data, instruction </B><I>a computer's instruction set </I><B>| chess, dinner, printing, tea, train </B> </P>
+<P> <U> VERB + SET </U><B> break up </B><I>She had a complete set of these dining-room chairs but it was broken up after she died. </I><B>| complete, make up </B><I>She won a silver medal in the long jump to complete her set </I>(= of all three types of medal)</B><I>. </I> </P>
+<P> <U> SET + VERB </U><B> comprise sth, consist of sth </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There are ten pictures in the set. </I><B>| ~ of </B><I>a set of accounts/books/clothes/keys/valves a set of beliefs/circumstances/factors/guidelines </I> </P>
+<P> <U> PHRASES </U><B> one/part of a set </B><I>The plate is part of a set. </I> </P>
+<P> <SUP> 2 </SUP> <TT> scenery for play or film </TT> </P>
+<P> <U> ADJ. </U><B> film, stage, studio </B> </P>
+<P> <U> VERB + SET </U><B> design | build | dismantle, take down </B> </P>
+<P> <U> PREP. </U><B> off ~ </B><I>Off set, the two actors became close friends. </I><B>| on (the) ~ </B><I>All the cast are on the set throughout. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in tennis </TT> </P>
+<P> <U> VERB + SET </U><B> play | win | lose </B> </P>
+<P> <U> PHRASES </U><B> in straight sets </B><I>Rusedski won in straight sets </I>(= his opponent won none)</B><I>. </I> </P>
+</DIV>

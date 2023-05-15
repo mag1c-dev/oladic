@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>bash </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> strong hit </TT> </P>
+<P> <U> VERB + BASH </U><B> give sb/sth | get </B> </P>
+<P> <U> PREP. </U><B> on </B><I>She got a bash on the head. </I> </P>
+<P> <SUP> 2 </SUP> <TT> party </TT> </P>
+<P> <U> ADJ. </U><B> big | birthday, charity, farewell </B> </P>
+<P> <U> VERB + BASH </U><B> give, throw </B><I>They're throwing a big bash to celebrate their anniversary. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bash </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard </B><I>She bashed him so hard she broke his nose. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>Someone bashed him on the nose. </I><B>| with </B><I>She bashed him with her book. </I> </P>
+<P> <U> PHRASES </U><B> bash sb about/up </B><I>He had been attacked and bashed about a bit. </I> </P>
+</DIV>

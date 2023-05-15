@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>drip </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> water dripping </TT> </P>
+<P> <U> ADJ. </U><B> slow, steady </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the steady drip of water from the tap </I> </P>
+<P> <SUP> 2 </SUP> <TT> drop of water that falls down from sb/sth </TT> </P>
+<P> <U> VERB + DRIP </U><B> catch </B><I>There were buckets to catch the drips from the ceiling. </I> </P>
+<P> <U> DRIP + VERB </U><B> fall </B><I>Drips fell from the roof of the cave. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>drips from the tap </I> </P>
+<P> <SUP> 3 </SUP> <TT> medical equipment </TT> </P>
+<P> <U> ADJ. </U><B> intravenous | saline </B> </P>
+<P> <U> VERB + DRIP </U><B> fix up, set up | be attached to, be on </B><I>He is on a saline drip. </I><B>| attach sb to, put sb on | take sb off </B><I>He was taken off his drip last night. </I> </P>
+</DIV>

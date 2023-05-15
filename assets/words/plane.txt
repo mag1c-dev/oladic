@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>plane </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> aeroplane </TT> </P>
+<P> <U> ADJ. </U><B> private </B> </P>
+<P> <U> VERB + PLANE </U><B> catch, get, take </B><I>She caught the first plane out. </I><B>| miss | board, get on | get off, step off </B><I>I fell in love with the city the moment I stepped off the plane. </I><B>| fly, pilot | charter </B> </P>
+<P> <U> PLANE + VERB </U><B> take off | come down, land | crash | cruise, fly | carry sb/sth </B><I>The plane was carrying 350 people. </I> </P>
+<P> <U> PLANE + NOUN </U><B> crash, disaster </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>We left by plane for Peking. </I><B>| in a/the ~ </B><I>I've never flown in a plane. </I><B>| on a/the ~ </B><I>The president was never on the plane at all. </I> </P>
+<P> <SUP> 2 </SUP> <TT> flat surface </TT> </P>
+<P> <U> ADJ. </U><B> horizontal, parallel, vertical </B> </P>
+<P> <SUP> 3 </SUP> <TT> standard/level of thought/activity </TT> </P>
+<P> <U> ADJ. </U><B> higher </B><I>With practice, an athlete can reach a higher plane of achievement. </I><B>| mental, mystical, spiritual </B> </P>
+<P> <U> PHRASES </U><B> be/exist/function/operate on a different plane </B><I>Like all talented musicians, he operates on a different plane from most people. </I> </P>
+</DIV>

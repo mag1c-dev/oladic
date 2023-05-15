@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>deduce </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> easily | logically </B><I>The total amount can be deduced logically from the figures available. </I> </P>
+<P> <U> VERB + DEDUCE </U><B> be able to, can | be possible to </B><I>Using the evidence available it is possible to deduce quite a lot about how these people lived. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>We deduce from his behaviour that he is trying to gain attention. </I> </P>
+</DIV>

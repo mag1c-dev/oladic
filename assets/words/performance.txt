@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>performance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth performed </TT> </P>
+<P> <U> ADJ. </U><B> live | public | evening, matinee | amateur, professional | cameo | solo | repeat </B><I>The party are dreading a repeat performance of their defeat in the last election. </I><B>| ballet, concert, dance, musical, opera, theatrical | benefit, charity </B> </P>
+<P> <U> VERB + PERFORMANCE </U><B> give, put on </B><I>The theatre is putting on a performance of the popular musical &lsquo;Cats&rsquo;. </I><B>| attend, go to </B> </P>
+<P> <U> PERFORMANCE + NOUN </U><B> art | artist </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The course aims to develop the children's appreciation of music in performance. </I> </P>
+<P> <SUP> 2 </SUP> <TT> way in which sth is done </TT> </P>
+<P> <U> ADJ. </U><B> brilliant, convincing, dazzling, electrifying, excellent, fine, flawless, good, great, impressive, inspired, outstanding, polished, remarkable, sparkling, spirited, strong, superb, wonderful </B><I>The recording gives the most convincing performance of Stravinsky's &lsquo;Rite of Spring&rsquo; to date. the country's strong economic performance over the last two years </I><B>| bad, disappointing, lacklustre, poor | satisfactory | consistent | central </B><I>Mel Gibson's central performance in the film as Hamlet </I><B>| all-round, overall </B><I>He got top marks for overall academic performance. </I><B>| business, economic, financial, sales | academic, school </B> </P>
+<P> <U> VERB + PERFORMANCE </U><B> deliver, give, put in </B><I>The team put in an excellent performance at the World Cup. </I><B>| affect | assess, measure | improve </B> </P>
+<P> <U> PERFORMANCE + NOUN </U><B> indicator, level, measure, measurement, standard, target </B> </P>
+<P> <U> PREP. </U><B> ~ as </B><I>her fine performance as Ophelia </I><B>| ~ from </B><I>The film has a great performance from Jack Lemmon. </I><B>| ~ on </B><I>his flawless performance on the piano </I> </P>
+<P> <U> PHRASES </U><B> a level/measure/quality/standard of performance </B><I>to maintain a high level of performance </I><B>| on past performance </B><I>Sales forecasts were based on past performance. </I><B>| the proper performance of your duties </B> </P>
+<P> <SUP> 3 </SUP> <TT> of a machine </TT> </P>
+<P> <U> ADJ. </U><B> high | low, poor | engine </B> </P>
+<P> <U> VERB + PERFORMANCE </U><B> affect | assess, measure | enhance, improve </B></P>
+<a href="/collocation-tag/performing" class="tag">Learn more about PERFORMING</a>
+</DIV>

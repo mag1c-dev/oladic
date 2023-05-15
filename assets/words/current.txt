@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>current </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> continuous flowing movement of water </TT> </P>
+<P> <U> ADJ. </U><B> fast, fast-flowing, powerful, strong | dangerous, treacherous | ocean | prevailing </B><I>The prevailing current flows from east to west. </I><B>| off-shore | tidal </B> </P>
+<P> <U> CURRENT + VERB </U><B> flow | carry sb/sth, sweep sb/sth </B><I>The strong current carried the boat downstream. She was swept away by the treacherous currents. </I> </P>
+<P> <U> PREP. </U><B> against a/the ~ </B><I>He was swimming against the current. </I><B>| in a/the ~ </B><I>The boat was carried along in the current. </I><B>| with a/the ~ </B><I>It's easier to go with the current. </I> </P>
+<P> <SUP> 2 </SUP> <TT> flow of air </TT> </P>
+<P> <U> ADJ. </U><B> warm | air </B><I>Birds of prey use warm air currents to lift them high in the sky. </I> </P>
+<P> <U> PHRASES </U><B> a current of air </B> </P>
+<P> <SUP> 3 </SUP> <TT> flow of electricity through a wire </TT> </P>
+<P> <U> ADJ. </U><B> strong, weak | electric, electrical | alternating | direct | input, output </B> </P>
+<P> <U> VERB + CURRENT </U><B> generate, produce | carry, pass, transmit | switch off/on </B><I>Check all your wiring before switching on the current. </I> </P>
+<P> <U> CURRENT + VERB </U><B> flow, pass through sth </B><I>Measure the current flowing in the wire. </I> </P>
+</DIV>

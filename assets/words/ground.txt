@@ -1,0 +1,29 @@
+
+<DIV class="item"><P class="word"><B>ground </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> solid surface of the earth </TT> </P>
+<P> <U> ADJ. </U><B> firm, hard | muddy, soft, wet | dry, dusty | fertile </B><I>(often figurative) The fall of the old regime provided fertile ground for opportunism. </I> </P>
+<P> <U> VERB + GROUND </U><B> fall to, hit </B><I>The helicopter burst into flames when it hit the ground. </I><B>| reach </B><I>She's so short, her feet don't reach the ground when she sits down. </I><B>| get off, leave </B><I>The plane was so overloaded it couldn't leave the ground. (figurative) His plan is too costly to ever get off the ground. </I> </P>
+<P> <U> GROUND + NOUN </U><B> level </B><I>A waterproof membrane is built into the wall just above ground level. </I> </P>
+<P> <U> PREP. </U><B> above/below ~ </B><I>The roots may spread as far below ground as does the foliage above ground. </I><B>| in the ~ </B><I>a hole in the ground </I><B>| on the ~ </B><I>He sat down on the ground. </I><B>| under the ~ </B><I>The tunnel goes deep under the ground. </I> </P>
+<P> <SUP> 2 </SUP> <TT> area of land </TT> </P>
+<P> <U> ADJ. </U><B> high, low </B><I>The village stands on high ground and is not prone to flooding. </I><B>| open | difficult, rocky, rough, stony, uneven | marshy </B> </P>
+<P> <U> QUANT. </U><B> patch, piece </B><I>We found a patch of open ground in the middle of the woods. </I> </P>
+<P> <SUP> 3 </SUP> <TT> piece of land used for a particular purpose </TT> </P>
+<P> <U> ADJ. </U><B> burial | dumping | cricket, football, practice, rugby, sports, training | parade | breeding, feeding, hunting </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>I'll meet you at the football ground. </I><B>| in a/the ~ </B><I>all the graves in the burial ground </I></P>
+<P> <SUP> 4 </SUP> <TT> grounds: land surrounding a large building  </TT> </P>
+<P> <U> ADJ. </U><B> extensive | castle, hospital, palace, school, etc. </B> </P>
+<P> <U> VERB + GROUND </U><B> be set in, have </B><I>The palace is set in extensive grounds. </I> </P>
+<P> <U> PREP. </U><B> in the ~ (of) </B><I>Many estate workers lived in cottages in the grounds of the castle. </I> </P>
+<P> <SUP> 5 </SUP> <TT> area of interest/study/discussion </TT> </P>
+<P> <U> ADJ. </U><B> familiar, firm, home </B><I>I was on more familiar ground now that we were talking about our own system. </I><B>| dangerous, shaky </B><I>Legally, we're on very shaky ground </I>(= our actions may not be legal)</B><I>. </I><B>| safe | common </B><I>Both parties in the debate shared some common ground. </I> </P>
+<P> <U> VERB + GROUND </U><B> cover, go over </B><I>Several researchers have published articles covering this ground. We just seem to be going over the same ground that we covered last year. </I> </P>
+<P> <U> PREP. </U><B> on &hellip; ~ </B><I>He knew he was on dangerous ground talking about money. </I> </P>
+<P> <U> PHRASES </U><B> break new ground </B><I>Her architectural designs have broken new ground. </I> </P>
+<P> <SUP> 6 </SUP> <TT> grounds: reason for sth  </TT> </P>
+<P> <U> ADJ. </U><B> good, reasonable, sufficient, valid </B> </P>
+<P> <U> VERB + GROUND </U><B> have </B><I>The constable had reasonable grounds for arresting her. </I><B>| give (sb) </B><I>His evasiveness gave grounds for the suspicion that he knew more than he was saying. </I> </P>
+<P> <U> PREP. </U><B> on &hellip; ~s </B><I>Permission to open a mine was denied on environmental grounds. </I><B>| on the ~s of </B><I>He resigned from his post on the grounds of ill-health. </I><B>| ~ for </B><I>Drunkenness at work was sufficient grounds for instant dismissal. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>ground </B><I>verb </I><B>be grounded in/on sth </B> </P>
+<P> <U> ADV. </U><B> firmly </B><I>His book is firmly grounded in memories of his own childhood. </I> </P>
+</DIV>

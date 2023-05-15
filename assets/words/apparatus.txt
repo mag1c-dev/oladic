@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>apparatus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> breathing, chemical, electrical, experimental, laboratory, scientific | administrative, bureaucratic, legal, party, security, state </B><I>the state's powerful security apparatus </I> </P>
+<P> <U> QUANT. </U><B> piece </B><I>a very sophisticated piece of laboratory apparatus </I> </P>
+<P> <U> PHRASES </U><B> the apparatus of government/(the) state</B> </P>
+</DIV>

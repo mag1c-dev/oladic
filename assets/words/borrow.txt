@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>borrow </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> money/things </TT> </P>
+<P> <U> ADV. </U><B> heavily </B><I>He borrowed heavily to set the company up. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>She borrowed </I>&pound;</B><I>50 from her mother. </I><B>| off </B><I>(informal) I'll borrow some coffee off the neighbours. </I> </P>
+<P> <SUP> 2 </SUP> <TT> ideas, etc. </TT> </P>
+<P> <U> ADV. </U><B> freely </B> </P>
+<P> <U> PREP. </U><B> from </B><I>His designs borrow freely from the architecture of ancient Egypt. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cassette </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> audio, video | tape | blank | bootleg, pirated | music | accompanying </B><I>a set of four course books, each with an accompanying cassette </I> </P>
+<P> <U> VERB + CASSETTE </U><B> insert </B><I>He inserted a cassette into the machine. </I><B>| play, put on </B><I>She put on a U2 cassette. </I><B>| pause, stop | eject | fast forward, rewind </B> </P>
+<P> <U> CASSETTE + NOUN </U><B> deck, player, recorder | tape | box | format, version </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>I've got it on cassette. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fluctuation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, large, marked, sharp, violent, wide, wild | local, minor | rapid | short-term | cyclical, periodic, regular, seasonal </B><I>seasonal fluctuations in the demand for labour </I><B>| random | climatic, currency, economic, exchange rate, market, price, temperature </B> </P>
+<P> <U> VERB + FLUCTUATION </U><B> cause, produce </B><I>factors which cause these exchange rate fluctuations </I><B>| be subject to </B><I>The number of students at a college can be subject to considerable fluctuation. </I> </P>
+<P> <U> FLUCTUATION + VERB </U><B> occur </B><I>the climatic fluctuations that have occurred over the last ten years </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>There have been quite wide fluctuations in oil prices in recent years. </I> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>disorder </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> untidy state </TT> </P>
+<P> <U> ADJ. </U><B> complete </B> </P>
+<P> <U> VERB + DISORDER </U><B> throw sth into </B><I>The country was thrown into disorder by the strikes. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He died suddenly, leaving his financial affairs in complete disorder. </I> </P>
+<P> <U> PHRASES </U><B> a state of disorder </B> </P>
+<P> <SUP> 2 </SUP> <TT> violent behaviour </TT> </P>
+<P> <U> ADJ. </U><B> major, serious | widespread | violent | civil, crowd, public, social | political </B> </P>
+<P> <U> QUANT. </U><B> outbreak </B><I>There have been outbreaks of serious public disorder. </I> </P>
+<P> <U> VERB + DISORDER </U><B> create, lead to | quell </B><I>Troops were sent in to quell the disorder. </I><B>| prevent </B><I>new restrictions aimed at preventing social disorder </I> </P>
+<P> <SUP> 3 </SUP> <TT> illness </TT> </P>
+<P> <U> ADJ. </U><B> serious, severe | chronic | common, rare | genetic, inherited | blood, brain, etc. | circulatory, eating, etc. </B><I>Anorexia is a common eating disorder. </I><B>| behavioural, emotional, mental, nervous, personality, physical, psychiatric, psychological </B> </P>
+<P> <U> VERB + DISORDER </U><B> have, suffer from </B><I>She suffers from a rare blood disorder. </I><B>| treat </B> </P>
+<P> <U> DISORDER + VERB </U><B> affect sth </B><I>disorders affecting the very old, such as senile dementia </I>&gt; Special page at ILLNESS </B> </P>
+</DIV>

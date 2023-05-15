@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ski </B><I>noun </I> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + SKI </U><B> put on | remove, take off </B> </P>
+<P> <U> SKI + NOUN </U><B> pole | boot, jacket, mask, pants, suit | instructor, lesson | area, run, slope | lift | jump | resort </B> </P>
+<P> <U> PREP. </U><B> on ~s </B><I>The children go to school on skis. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>wheelchair </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> electric, motorized, powered </B> </P>
+<P> <U> VERB + WHEELCHAIR </U><B> use | manoeuvre </B><I>Anthony manoeuvred his wheelchair out from behind his desk. </I><B>| push | be confined to </B><I>He's been confined to a wheelchair since the accident. </I> </P>
+<P> <U> WHEELCHAIR + NOUN </U><B> access | user </B><I>better access for wheelchair users </I><B>| athlete </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>In town, she gets about by wheelchair. </I><B>| in a/the ~ </B><I>It's hard to get around if you're in a wheelchair. </I> </P>
+<P> <U> PHRASES </U><B> accessible by wheelchair, wheelchair accessible facilities/vehicles, etc.</B> </P>
+</DIV>

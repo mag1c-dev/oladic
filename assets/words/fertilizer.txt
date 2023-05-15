@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>fertilizer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> natural | artificial, chemical | liquid </B> </P>
+<P> <U> VERB + FERTILIZER </U><B> spray, spread, use </B><I>He spread fertilizer on the field with a rake. </I> </P>
+</DIV>

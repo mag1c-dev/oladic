@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>sherry </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> small | cream, dry, sweet | cooking </B> </P>
+<P> <U> QUANT. </U><B> bottle, glass </B> </P>
+<P> <U> VERB + SHERRY </U><B> have </B><I>I'll have a small sherry, please. </I><B>| drink, sip </B> </P>
+<P> <U> SHERRY + NOUN </U><B> glass</B> </P>
+</DIV>

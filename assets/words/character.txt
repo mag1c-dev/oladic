@@ -1,0 +1,31 @@
+
+<DIV class="item"><P class="word"><B>character </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person's nature/person with a particular nature </TT> </P>
+<P> <U> ADJ. </U><B> good, excellent, exemplary, impeccable | generous, gentle, likeable, lovable, popular | colourful, larger-than-life, lively, real </B><I>You must have come across some real characters, working in the circus. </I><B>| reformed </B><I>He used to go out every night, but now he's a reformed character. </I><B>| complex, elusive, enigmatic, odd | forceful, formidable, strong | weak | volatile | prickly, unpleasant | bad, evil, ruthless, violent | dubious, shady, suspicious </B><I>Who's that suspicious character hanging around outside? </I><B>| true | local </B><I>The pub was full of colourful local characters. </I><B>| human | moral </B><I>a woman of impeccable moral character </I> </P>
+<P> <U> VERB + CHARACTER </U><B> be, have | form, make up | reveal </B><I>She revealed her true character when anyone disagreed with her. </I><B>| conceal, hide | reflect </B><I>His scruffy appearance does not reflect his character. </I> </P>
+<P> <U> CHARACTER + NOUN </U><B> trait | defect | change </B><I>She's undergone a complete character change since her promotion. </I><B>| reference </B><I>Applicants were required to obtain character references before being considered for the work. </I><B>| assassination </B><I>The defence lawyer attempted a character assassination of the witness </I>(= tried to show the witness had a bad character)</B><I>. </I><B>| actor, actress </B> </P>
+<P> <U> PREP. </U><B> in sb's ~ </B><I>It's not in his character to tell lies. </I><B>| out of ~ </B><I>The lawyer argued that his client's violent behaviour was out of character. </I> </P>
+<P> <SUP> 2 </SUP> <TT> nature of sth </TT> </P>
+<P> <U> ADJ. </U><B> distinctive, individual, unique | essential, fundamental, intrinsic | original | traditional </B><I>The renovated buildings retain their traditional character. </I><B>| international, national, regional </B><I>Food in Italy has a distinct regional character. the features that make up the national character </I><B>| intimate | public </B><I>the public character of material published on the Internet </I><B>| serious </B><I>offences of a serious character </I><B>| military, political | rural, urban </B><I>The development detracts from the rural character of the area. </I> </P>
+<P> <U> VERB + CHARACTER </U><B> have </B><I>Each house in the street has its own distinctive character. </I><B>| assume, take on </B><I>As you move north, the landscape takes on a different character. </I><B>| form, make up </B><I>factors that form the character of a nation </I><B>| lose </B><I>The town centre has lost much of its original character. </I><B>| retain | preserve | give sth </B><I>It's the basil that gives the sauce its essential character. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The houses ar</I>e </B><I>Mediterranean in character</I>. </B> </P>
+<P> <SUP> 3 </SUP> <TT> interesting quality that sth has </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great </B> </P>
+<P> <U> VERB + CHARACTER </U><B> have </B><I>His face has character?I'll say that for it. </I><B>| add, give sth </B><I>the individual touches that give character to a house </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>buildings of considerable character </I> </P>
+<P> <U> PHRASES </U><B> full of character </B><I>The restaurant is cheap and full of character. </I><B>| have a character of its own/all (of) its own </B><I>Your handwriting has a character of its own. </I> </P>
+<P> <SUP> 4 </SUP> <TT> person's inner strength </TT> </P>
+<P> <U> ADJ. </U><B> great </B> </P>
+<P> <U> VERB + CHARACTER </U><B> show </B><I>The team showed great character in coming back to win. </I><B>| build </B><I>Adventure camps are considered to be character-building. </I> </P>
+<P> <U> PHRASES </U><B> strength of character </B> </P>
+<P> <SUP> 5 </SUP> <TT> person in a story/film, etc. </TT> </P>
+<P> <U> ADJ. </U><B> central, chief, leading, main, principal | minor, supporting | fictional, fictitious | believable | sympathetic, unsympathetic | comic, heroic, tragic | cartoon </B> </P>
+<P> <U> VERB + CHARACTER </U><B> play, portray </B><I>The main character is played by Nicole Kidman. </I><B>| develop </B><I>the artist who developed the Superman character </I><B>| kill off </B><I>The writers killed off her character when she wanted to leave the soap. </I> </P>
+<P> <U> CHARACTER + NOUN </U><B> development </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The actors remained in character to answer questions from the audience. </I> </P>
+<P> <SUP> 6 </SUP> <TT> letter/sign in writing/printing </TT> </P>
+<P> <U> ADJ. </U><B> Chinese | ASCII, numeric </B> </P>
+<P> <U> QUANT. </U><B> set, string </B> </P>
+<P> <U> VERB + CHARACTER </U><B> insert | delete </B> </P>
+<P> <U> CHARACTER + NOUN </U><B> set, string</B> </P>
+</DIV>

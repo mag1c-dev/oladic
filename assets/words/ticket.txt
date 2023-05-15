@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>ticket </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for travel, an event, the theatre, etc. </TT> </P>
+<P> <U> ADJ. </U><B> one-way, single | return, round-trip | day, season, weekly </B><I>an annual season ticket </I><B>| first-class, second-class, etc. </B><I>a first-class rail ticket </I><B>| invalid, valid | complimentary, free </B><I>I've got complimentary tickets for the theatre. </I><B>| concessionary, family </B><I>Concessionary tickets are available at half the standard price. </I><B>| advance </B><I>Use the coupon below to reserve advance tickets for the exhibition. </I><B>| admission, entrance, entry | air/airline, bus, plane, rail, train, etc. | cinema, concert | library </B> </P>
+<P> <U> VERB + TICKET </U><B> buy, get, obtain, purchase | have, hold </B><I>You must hold a valid ticket for your entire journey before boarding the train. </I><B>| book, reserve | show (sb) </B><I>He showed the guard his ticket. </I> </P>
+<P> <U> TICKET + NOUN </U><B> agency, counter, machine, office | price | sales | holder | collector, inspector | tout | barrier | stub </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>admission by ticket only </I><B>| ~ for </B><I>I bought a ticket for the concert. a ticket for Saturday </I><B>| ~ to </B><I>I've got a free ticket to the match. a plane ticket to New York </I> </P>
+<P> <SUP> 2 </SUP> <TT> for a lottery, etc. </TT> </P>
+<P> <U> ADJ. </U><B> winning | lottery, raffle </B> </P>
+<P> <U> QUANT. </U><B> book </B><I>I bought a whole book of raffle tickets and I still didn't win anything. </I> </P>
+<P> <SUP> 3 </SUP> <TT> giving a penalty </TT> </P>
+<P> <U> ADJ. </U><B> fixed-penalty | parking </B> </P>
+<P> <U> VERB + TICKET </U><B> give sb, issue | get </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The police officer gave us a ticket for going through a red light. </I> </P>
+</DIV>

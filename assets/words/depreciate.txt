@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>depreciate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> quickly, rapidly </B> </P>
+<P> <U> VERB + DEPRECIATE </U><B> be expected to, be likely to </B> </P>
+<P> <U> PREP. </U><B> against </B><I>Sterling is expected to depreciate against the dollar. </I><B>| by </B><I>The rupee depreciated by 9 per cent. </I> </P>
+<P> <U> PHRASES </U><B> depreciate in value </B><I>Cars depreciate in value fairly rapidly. </I> </P>
+</DIV>

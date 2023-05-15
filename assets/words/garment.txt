@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>garment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | shapeless | knitted, woollen </B> </P>
+<P> <U> VERB + GARMENT </U><B> have on, wear </B><I>She wore a shapeless knitted garment. </I> </P>
+</DIV>

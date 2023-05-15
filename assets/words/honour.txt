@@ -1,0 +1,29 @@
+
+<DIV class="item"><P class="word"><B>honour </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> sth that makes you feel proud </TT> </P>
+<P> <U> ADJ. </U><B> great, rare, signal, special, tremendous | doubtful, dubious  </B><I>Max was given the dubious honour of organizing the children's party. </I> </P>
+<P> <U> VERB + HONOUR </U><B> have </B><I>I had the rare honour of being allowed into the artist's studio. </I><B>| do sb </B><I>(formal)</I>, <B>give sb </B><I>Will you do me the honour of dining with me? </I><B>| share </B><I>He shared the honour of being the season's top scorer with Andy Cole. </I> </B> </P>
+<P> <SUP> 2 </SUP> <TT> great respect </B> </TT> </P>
+<P> <U> PREP. </U><B> in sb's ~ </B><I>They organized a party in his honour. </I> </P>
+<P> <U> PHRASES </U><B> a guard of honour </B><I>The princess's coffin was accompanied by a guard of honour. </I><B>| (the)  guest of honour </B><I>The president was guest of honour at the society's banquet. </I><B>| a lap of honour </B><I>The crowd cheered while the athletes ran their lap of honour. </I><B>| a mark of honour </B><I>They stood in silence as a mark of honour to the drowned sailors. </I><B>| the place/seat of honour, a roll of honour </B><I>The school's roll of honour lists everyone killed in the war. </I> </B> </P>
+<P> <SUP> 3 </SUP> <TT> good reputation </TT> </P>
+<P> <U> ADJ. </U><B> family, national, personal, professional </B><I>He was now satisfied that the family honour had been restored. </I> </B> </P>
+<P> <U> VERB + HONOUR </U><B> defend, fight for, save, uphold </B><I>She felt she had to defend the honour of her profession. </I><B>| restore | do, bring  </B><I>This biography does great honour to the poet's achievements. She brought honour to her country as an Olympic medal-winner. </I> </B> </P>
+<P> <U> HONOUR + VERB </U><B> be satisfied </B><I>In the return match the home team won 3?0 and honour was satisfied. </I><B>| be at stake </B><I>National honour is at stake in this match between France and England. </I> </P>
+<P> <U> PREP. </U><B> on your ~ </B><I>(old-fashioned) I swear on my honour </I>(= very seriously) </B><I>that I knew nothing about this. </I><B>| with ~ </B><I>The prime minister sought an agreement that would bring peace with honour. </I><B>| without ~ </B><I>a man without honour </I> </P>
+<P> <U> PHRASES </U><B> be/feel (in) honour bound (to &hellip; ) </B><I>He felt honour bound to help her. </I><B>| a code of honour </B><I>Knights in the Middle Ages had a strong code of honour. </I><B>| a man of honour, a matter/point of honour </B><I>It is a matter of professional honour to keep our standards as high as possible. </I><B>| a sense of honour, sb's word of <B>honour </B><I>I give you my word of honour I will not forget what I owe you. </I> </P>
+<P> <SUP> 4 </SUP> <TT> award/official title, etc. </TT> </P>
+<P> <U> ADJ. </U><B> full ~s, highest, major, top </B><I>the stars who took top honours at the MTV Awards </I><B>| academic, battle, civilian, military, political, royal </B> </P>
+<P> <U> VERB + HONOUR </U><B> award (sb), bestow, confer, give sb </B><I>The Order of Merit is the highest civilian honour that can be conferred on someone. </I><B>| accept, pick up, receive, scoop, take, win </B><I>She has confirmed that she will accept the honour of a peerage. It was the British who scooped the honours at last night's Oscars. </I> </P>
+<P> <U> HONOUR + NOUN </U><B> list, system </B><I>He was made a life peer in the New Year's honours list. </I> </P>
+<P> <U> PHRASES </U><B> with full military honours </B><I>He was burie </I> </P>
+<P> <SUP> 5 </SUP> <TT> honours: type of degree course  </TT> </P>
+<P> <U> ADJ. </U><B> combined, joint </B> </P>
+<P> <U> VERB + HONOUR </U><B> do, take </B><I>(formal) All students taking honours in Greek may also study Modern Greek. </I> </P>
+<P> <U> HONOUR + NOUN </U><B> course, degree </B><I>He's in the third year of his honours course. </I><B>| graduate, student </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>joint honours in mathematics and statistics </I> </P>
+<P> <SUP> 6 </SUP> <TT> honours: high mark in a degree course  </TT> </P>
+<P> <U> ADJ. </U><B> first-class, second-class, third-class </B> </P>
+<P> <U> HONOUR + NOUN </U><B> degree | graduate </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>She passed with second class honours. </I> </P>
+</DIV>

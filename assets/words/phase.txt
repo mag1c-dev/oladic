@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>phase </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> early, first, initial, primary | second, secondary, etc. | current, latest, new, present | final, last | intermediate, transition | temporary | critical, crucial, important </B><I>the critical phase of the operation </I><B>| distinct </B><I>The period can be divided into three distinct phases. </I> </P>
+<P> <U> VERB + PHASE </U><B> begin, enter, open, start </B><I>Society has entered a technological phase of evolution. </I><B>| go through </B><I>It's just a phase he's going through. </I><B>| complete, pass </B> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>During the first phase of expansion staff will move to the new offices. </I><B>| in a/the ~ </B><I>In the earliest phase of mental disorder, relatives feel confused. </I><B>| ~ in </B><I>a new phase in the European economy </I> </P>
+</DIV>

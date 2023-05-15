@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>distance </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> amount of space between two points </TT> </P>
+<P> <U> ADJ. </U><B> appreciable, considerable, enormous, fair, good, great, huge, large, long, vast </B><I>The town is a considerable distance from the coast. It's quite a good distance to the nearest village. The people travel vast distances to find food. </I><B>| short, small | reasonable | certain, given | average, mean  </B><I>the average distance covered during pursuits by cheetahs </I><B>| equal | maximum, minimum |  optimum | correct, right | exact | full | extra | fixed | finite, infinite | careful, comfortable, convenient, discreet, respectful, safe </B><I>The cat sat and watched us from a safe distance. </I><B>| braking, stopping </B><I>Allow for greater braking distances when pulling a loaded trailer. </I><B>| geographical, physical  </B><I>These immigrants face problems of geographical distance and cultural isolation. </I> </P>
+<P> <U> VERB + DISTANCE </U><B> cover, fly, go, travel, walk </B><I>The young birds were soon flying distances of 200 feet or more. </B> </P>
+<P> (figurative) Nobody thought he would last 15 rounds but he went the full distance. </I><B>|  keep </B><I>I kept a comfortable distance behind the van. </I><B>| determine, measure | gauge, judge </B><I>It is very difficult to judge distances in the desert. </I> </P>
+<P> <U> DISTANCE + NOUN </U><B> runner, running  </B><I>a long-distance runner </I> </P>
+<P> <U> PREP. </U><B> at a ~ (from/of) </B><I>When launching a kick it is essential to be at the correct distance from your opponent. The town is situated at a distance of twenty miles from Oxford. She followed them at a discreet distance. </I><B>| from a ~ (of) </B><I>Visitors can only view the painting from a distance of three metres. </I><B>| over a ~ (of) </B><I>The sound can be heard over a distance of more than five miles. </I><B>| within a ~ </B><I>children living within a certain distance of the school </I><B>| ~ away from </B><I>The house is a short distance away from the bus station. </I><B>| ~ between </B><I>What's the distance between London and Edinburgh? </I><B>| ~ from, ~ to </B><I>the distance from our house to the school </I> </P>
+<P> <U> PHRASES </U><B> a &hellip; distance ahead, away, apart, etc. </B><I>A bomb exploded some distance away. </I><B>| within  commuting/driving/strolling/travelling/wal distance </B><I>The shops are within walking distance. </I><B>| within hailing/shouting/sniffing/spitting/striking/ distance </B><I>The cat was now within striking distance of the duck. </B> </P>
+<P> (figurative) We came within spitting distance of winning the cup. </I> </P>
+<P> <SUP> 2 </SUP> <TT> point a long way away/being far away </TT> </P>
+<P> <U> ADJ. </U><B> far, middle </B><I>I could just see the hills in the far distance. </I><B>| blue </B><I>(literary) The moors stretched away into the blue distance </I>(= the sky)</B><I>. </I> </P>
+<P> <U> DISTANCE + NOUN </U><B> learning </B><I>The Open University offers a wide range of distance learning programmes. </I> <B>| vision </B><I>to have good distance vision </I> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>At a distance it is difficult to make out the detail on the building. </I><B>| from a ~ </B><I>We admired the palace from a distance. </I><B>| in the ~ </B><I>In the distance was a small village. </I> </P>
+<P> <SUP> 3 </SUP> <TT> not being too closely involved </TT> </P>
+<P> <U> ADJ. </U><B> critical, professional | emotional, psychological, social </B> </P>
+<P> <U> VERB + DISTANCE </U><B> keep, maintain </B><I>She was warned to keep her distance from Charles if she didn't want to get hurt. Sociologists must maintain critical distance from the ideas of society at any particular time. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>He felt a sense of distance from the others. </I> </P>
+<P> <U> PHRASES </U><B> a sense of distance </B> </P>
+</DIV>

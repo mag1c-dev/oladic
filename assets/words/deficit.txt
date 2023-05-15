@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>deficit </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> huge, large, massive, serious, substantial | small | net, overall | balance-of-payments, budget, budgetary, financial, fiscal, trade </B> </P>
+<P> <U> VERB + DEFICIT </U><B> face, have, run, show </B><I>If the government didn't run such huge deficits, the country would not have financial problems. The trade balance shows a deficit of two million pounds. </I><B>| go into, move into, run up, slip into </B><I>to prevent the country moving into deficit The company has run up a deficit of </I>&pound;</B><I>30,000. </I><B>| cut, eliminate, make up, reduce, tackle, wipe out </B><I>You cannot cut a budget deficit simply by raising taxes. We will find it hard to make up this deficit. </I><B>| overcome, overturn </B><I>United are hoping to overturn a two-goal deficit from the first leg. </I><B>| finance, fund </B><I>The government was forced to sell state-owned companies to fund the budget deficit. </I> </P>
+<P> <U> DEFICIT + VERB </U><B> run at sth </B><I>a budget deficit running at 7% of GDP </I><B>| grow, increase, rise, widen | decrease, fall, narrow, shrink </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The UK remained in deficit with all countries outside the EU. </I><B>| ~ with </B><I>the US trade deficit with Japan </I> </P>
+</DIV>

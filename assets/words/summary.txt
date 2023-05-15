@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>summary </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accurate, apt, clear, excellent, fair, good, useful </B><I>Is that a fair summary of the situation? </I><B>| comprehensive, detailed, full | general, overall | brief, concise, quick, short | bald, crude | financial, statistical | news, plot </B><I>Details of new titles, with plot summaries, are included in the catalogue. </I> </P>
+<P> <U> VERB + SUMMARY </U><B> make, prepare, write </B><I>Could you make a short summary of this article for me? </I><B>| give (sb), provide (sb with), supply (sb with) </B><I>He has provided a useful summary of the main categories. </I> </P>
+<P> <U> SUMMARY + NOUN </U><B> sheet, table | report, statement </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>In summary, his views are out of date. </I><B>| in a/the ~ </B><I>She decided not to include this incident in her summary of the day's events. </I> </P>
+<P> <U> PHRASES </U><B> in summary form </B><I>The information is shown in summary form in the following tables. </I> </P>
+</DIV>

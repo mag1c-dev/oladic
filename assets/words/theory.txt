@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>theory </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete | partial | general </B><I>Einstein's general theory of relativity </I><B>| coherent | unified </B><I>the existence of a grand unified theory that determines everything in the universe </I><B>| current, new | classical </B><I>the classical theory of gravity </I><B>| pet </B><I>One of her pet theories is that people who restrict their calorie intake live longer. </I><B>| conflicting | critical | abstract </B><I>His comments are just abstract theory and show little understanding of the realities of the situation. </I><B>| economic, legal, linguistic, literary, political, scientific, social, etc. | post-modernist, structuralist, etc. </B><I>Current feminist theory consists of several different trends. </I><B>| conspiracy </B><I>a conspiracy theory about the princess's death </I><B>| chaos, game, quantum, number, particle, probability, relativity, etc. </B> </P>
+<P> <U> QUANT. </U><B> set </B><I>Each school has its own set of theories. </I> </P>
+<P> <U> VERB + THEORY </U><B> have, hold | advance, develop, formulate, produce, propose | work on </B><I>Police are working on the theory that the murderer was known to the family. </I><B>| refute | confirm, prove | disprove | challenge, test </B> </P>
+<P> <U> THEORY + VERB </U><B> evolve | hold sth, suggest sth </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>In theory, these machines should last for ten years. </I><B>| ~ about </B><I>He has a theory about why dogs walk round in circles before going to sleep. </I> </P>
+<P> <U> PHRASES </U><B> theory and practice </B><I>the distinction/relationship between theory and practice </I> </P>
+</DIV>

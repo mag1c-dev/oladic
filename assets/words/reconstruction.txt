@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>reconstruction </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fundamental, major | complete, total | large/large-scale, life-size </B><I>a life-size reconstruction of a Viking longboat </I><B>| dramatic </B><I>a dramatic reconstruction of school life in the 1940s </I><B>| national </B><I>The country faces a huge task of national reconstruction following the war. </I><B>| post-war | economic, historical, social </B> </P>
+<P> <U> VERB + RECONSTRUCTION </U><B> undertake </B><I>A group of enthusiasts have undertaken the reconstruction of a steam locomotive. </I><B>| stage </B><I>The police have staged a reconstruction of the events leading up to the murder. </I> </P>
+<P> <U> RECONSTRUCTION + NOUN </U><B> period | work | plan, programme, scheme | cost </B><I>reconstruction costs following the cyclone </I> </P>
+</DIV>

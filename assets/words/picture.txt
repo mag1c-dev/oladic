@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>picture </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> painting/drawing/photograph </TT> </P>
+<P> <U> ADJ. </U><B> attractive, beautiful, lovely, striking, stunning, wonderful | blurred | black and white, colour | posed </B> </P>
+<P> <U> VERB + PICTURE </U><B> draw, paint | colour in </B><I>The book has simple stories and pictures to colour in. </I><B>| frame, hang, mount | display, exhibit, show | pose for, sit for | get, snap, take </B><I>I got some good pictures of the procession. </I><B>| touch up </B> </P>
+<P> <U> PICTURE + VERB </U><B> depict sth, show sth | hang </B> </P>
+<P> <U> PICTURE + NOUN </U><B> frame | book, postcard | gallery | hook, rail | editor </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>I can't see you in the picture. The story is told in pictures. </I><B>| ~ of </B><I>It's a picture of a country village. </I></P>
+<a href="/collocation-tag/art-works" class="tag">Learn more about ART WORKS</a>
+
+<P> <SUP> 2 </SUP> <TT> mental image </TT> </P>
+<P> <U> ADJ. </U><B> vivid </B><I>The book gives a vivid picture of life in Victorian England. </I> <B>| clear | complete, comprehensive, full, general, overall, total, whole </B><I>The programme was interesting but it didn't give the full picture. </I><B>| incomplete | broad </B><I>My visits enabled me to build up a broad picture of the culture. </I><B>| composite </B><I>Through interviews and old photos we put together a composite picture of life in the village a hundred years ago. </I><B>| accurate, balanced, realistic, representative, true | false, misleading, one-sided, over-simplified, unbalanced | idealized, optimistic, rosy | bleak, depressing, dismal, gloomy, grim, negative </B><I>The report paints a dismal picture of the government's economic record. </I><B>| confused, distorted | detailed | complex, complicated | disturbing | mental </B><I>I tried to form a mental picture of the building being described. </I><B>| historical </B> </P>
+<P> <U> VERB + PICTURE </U><B> build (up), construct, create, develop, establish, form, gain, get, obtain, put together </B><I>They're trying to build up a detailed picture of the incident. </I><B>| give, paint, present, project, reveal </B><I>The figures reveal a disturbing picture of the state of our schools. </I> <B>| complete | conjure up </B><I>The smell of the sea conjures up pictures of children playing on the beach. </I> </P>
+<P> <U> PICTURE + VERB </U><B> emerge </B><I>What emerges is a complex picture of family rivalry. </I> </P>
+</DIV>

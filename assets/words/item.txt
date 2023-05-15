@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>item </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> individual, particular, single, specific </B><I>Each individual item has a number. </I><B>| essential, important </B><I>I keep essential items in my hand luggage when I fly. </I><B>| main, major </B><I>the main item on the agenda a major item of expenditure </I><B>| expensive, valuable </B><I>Several valuable items were stolen. </I><B>| commodity, consumer </B><I>Computers became a consumer item in the early 1990s. </I><B>| luxury </B><I>There is a higher tax on luxury items. </I><B>| food | household </B><I>household items such as brushes and bedclothes </I><B>| collector's </B><I>The 1970s American model has become something of a collector's item. </I><B>| agenda | data | news </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Several items of clothing were found near the scene of the crime. </I><B>| ~ on </B><I>The programme featured an item on clothes for young children. </I> </P>
+<P> <U> PHRASES </U><B> item by item </B><I>Check the list carefully, item by item. </I><B>| an item on the agenda/menu</B> </P>
+</DIV>

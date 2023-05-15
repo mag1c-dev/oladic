@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>retribution </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fair, just | divine </B> </P>
+<P> <U> VERB + RETRIBUTION </U><B> demand, seek | exact | fear </B> </P>
+<P> <U> RETRIBUTION + VERB </U><B> come, follow </B><I>Violent retribution soon followed. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>His armies invaded their lands in retribution. </I><B>| ~ against </B><I>retribution against wrongdoers </I><B>| ~ for </B><I>He saw his suffering as retribution for the sins of his past life. </I><B>| ~ from </B><I>Members of Parliament clearly feared retribution from their constituents. </I><B>| ~ on </B><I>She saw the sentence as just retribution on the man who had assaulted her. </I> </P>
+<P> <U> PHRASES </U><B> an act of retribution, fear of retribution </B><I>The victim did not report the incident for fear of retribution. </I> </P>
+</DIV>

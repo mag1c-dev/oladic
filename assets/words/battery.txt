@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>battery </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for electricity </TT> </P>
+<P> <U> ADJ. </U><B> dead, flat </B><I>The car won't start?the battery's flat. </I><B>| rechargeable | car, torch | alkaline, lithium </B> </P>
+<P> <U> VERB + BATTERY </U><B> charge, recharge | change, replace | connect </B><I>Is the battery connected correctly? </I><B>| be powered by, run on, use, work on </B><I>The machine can also run on batteries. </I> </P>
+<P> <U> BATTERY + VERB </U><B> give out, go dead, run down, run out </B><I>After about six hours, the battery will run down. </I> </P>
+<P> <U> BATTERY + NOUN </U><B> power | life </B><I>With our product you get longer battery life. </I><B>| failure | charger </B> </P>
+<P> <U> PHRASES </U><B> battery-operated, battery-powered </B><I>a small battery-powered car </I> </P>
+<P> <SUP> 2 </SUP> <TT> large group of similar things </TT> </P>
+<P> <U> ADJ. </U><B> full, whole </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>I had to answer a whole battery of questions. </I> </P>
+<P> <U> PHRASES </U><B> a battery of tests</B> </P>
+</DIV>

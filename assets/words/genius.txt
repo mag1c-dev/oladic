@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>genius </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> very great and unusual ability </TT> </P>
+<P> <U> ADJ. </U><B> great, pure, real | natural </B> </P>
+<P> <U> QUANT. </U><B> flash, stroke, touch </B><I>In a flash of pure genius, she realized the answer to the problem. It was a stroke of genius on my part to avoid such awkward questions. </I> </P>
+<P> <U> VERB + GENIUS </U><B> have </B><I>She has a genius for sorting things out. </I><B>| show </B><I>a work which shows real genius </I> </P>
+<P> <U> GENIUS + VERB </U><B> lie in sth </B><I>His genius lies in his ability to convey pure terror in his work. </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>a writer of genius </I><B>| ~ for </B><I>his genius for pinpointing the absurd </I> </P>
+<P> <SUP> 2 </SUP> <TT> person with great and unusual ability </TT> </P>
+<P> <U> ADJ. </U><B> great | natural | eccentric, wayward | artistic, comic, creative, literary, mathematical, military, musical, etc.</B> </P>
+</DIV>

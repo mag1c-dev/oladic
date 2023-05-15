@@ -1,0 +1,30 @@
+
+<DIV class="item"><P class="word"><B>course </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> complete series of lessons/studies </TT> </P>
+<P> <U> ADJ. </U><B> full-time, part-time | one-year, two-year, etc. | day, evening | crash, intensive | advanced, intermediate, etc. | foundation, introductory | refresher | academic | graduate, postgraduate, undergraduate | degree, diploma, honours </B><I>a joint honours course in French and Russian </I><B>| correspondence, external, sandwich | induction | training, vocational </B> </P>
+<P> <U> VERB + COURSE </U><B> do, take </B><I>He took a crash course in Italian. </I><B>| enrol on, join, sign up for | withdraw from </B><I>She withdrew from the course because of illness. </I><B>| teach | offer, run </B><I>The school runs courses all year round. </I><B>| complete </B><I>It took him five years to complete the course. </I><B>| pass | fail </B> </P>
+<P> <U> COURSE + VERB </U><B> run </B><I>The course runs from 10?15 May. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a course in applied linguistics </I><B>| ~ on </B><I>a course on the development of capitalism </I> </P>
+<P> <SUP> 2 </SUP> <TT> route/direction </TT> </P>
+<P> <U> VERB + COURSE </U><B> alter, change </B><I>The boat altered course during the storm. </I><B>| chart, plot, set </B><I>We set course for Malta. </I><B>| be blown off | follow </B><I>The path follows the course of the river. </I> </P>
+<P> <U> PREP. </U><B> off ~ </B><I>We're a long way off course </I><B>| on ~ </B><I>We're on course for our destination. </I> </P>
+<P> <U> PHRASES </U><B> on a collision course </B><I>The two planes were on a collision course. </I> </P>
+<P> <SUP> 3 </SUP> <TT> (</B><I>also </I><B>course of action</B>) </TT> </P>
+<P> <U> ADJ. </U><B> best, better </B> </P>
+<P> <U> VERB + COURSE </U><B> adopt, follow, pursue, take </B><I>It was the best course of action to take in the circumstances. </I> </P>
+<P> <U> COURSE + VERB </U><B> be open to sb </B><I>It was the only course open to him. </I> </P>
+<P> <SUP> 4 </SUP> <TT> development of sth over a period of time </TT> </P>
+<P> <U> VERB + COURSE </U><B> change </B><I>an event that changed the course of his life </I><B>| follow, run, take </B><I>Her career followed a similar course to her sister's. We could do nothing but let the disease run its course. </I> </P>
+<P> <U> PREP. </U><B> during the ~ of </B><I>during the course of the war </I><B>| in the ~ of </B><I>In the course of time, I began to understand. </I> </P>
+<P> <U> PHRASES </U><B> the course of history </B><I>This was an event that changed the course of history. </I><B>| in due course </B>(= at the appropriate time; eventually), <B>in the normal/ordinary course of events </B><I>In the normal course of events, you should get a reply by Monday. </I><B>| let nature take its course </B><I>When the dog responded so badly to the treatment, we decided to let nature take its course </I>(= stop treating it and let it die naturally)</B><I>. </I> </P>
+<P> <SUP> 5 </SUP> <TT> part of a meal </TT> </P>
+<P> <U> ADJ. </U><B> main | first, second, etc. </B> </P>
+<P> <U> PREP. </U><B> for a/the ~ </B><I>We had chicken for our main course. </I> </P>
+<P> <U> PHRASES </U><B> a two-/three-course, etc. meal </B> </P>
+<P> <SUP> 6 </SUP> <TT> in sport/a race </TT> </P>
+<P> <U> ADJ. </U><B> golf, obstacle, race </B> </P>
+<P> <U> VERB + COURSE </U><B> complete </B><I>Only ten yachts completed the course. </I> </P>
+<P> <SUP> 7 </SUP> <TT> series of medical treatments </TT> </P>
+<P> <U> VERB + COURSE </U><B> give sb, put sb on </B><I>She's been put on a course of injections. </I><B>| prescribe (sb) | take </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a course of antibiotics </I> </P>
+</DIV>

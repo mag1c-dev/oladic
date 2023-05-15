@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>length </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> distance from one end to the other </TT> </P>
+<P> <U> ADJ. </U><B> entire, full, maximum, whole </B><I>There is a maximum length of 2,500 words. The queue stretched the whole length of the High Street. </I><B>| great </B><I>a ditch of great length and width </I><B>| medium | overall, total </B> </P>
+<P> <U> VERB + LENGTH </U><B> estimate, measure </B><I>He measured the length and width of the table. </I><B>| have </B><I>The vehicle has an overall length of 12 feet. </I><B>| grow to, reach </B><I>These fish can reach a length of over two metres. </I><B>| double in, increase in | cut sth to </B><I>Measure the size of the window and cut the cloth to length. </I><B>| drive, run, swim, travel, walk, etc. </B><I>The fence runs the length of the footpath. </I> </P>
+<P> <U> PREP. </U><B> along the ~ of </B><I>There were coloured lights along the whole length of the street. </I><B>| in ~ </B><I>The pipe was two metres in length. </I> </P>
+<P> <U> PHRASES </U><B> at arm's length </B><I>He has to hold newspapers at arm's length to focus on the print. </I><B>| double, twice, three times, half, etc. the length of sth </B><I>The queen bee is twice the length of a worker bee. </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount of time that sth lasts </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, inordinate | reasonable </B> </P>
+<P> <U> VERB + LENGTH </U><B> cut, reduce, shorten | increase </B> </P>
+<P> <U> LENGTH + VERB </U><B> increase | decrease </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>He told me at length about his new job. </I><B>| in ~ </B><I>Each lesson was an hour in length. </I> </P>
+<P> <U> PHRASES </U><B> length of time </B><I>They complained about the inordinate length of time they had to wait. </I> </P>
+<P> <SUP> 3 </SUP> <TT> length of a swimming pool </TT> </P>
+<P> <U> VERB + LENGTH </U><B> do, swim </B><I>I did 20 lengths today. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>goods </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> consumer, electrical, electronic, household, luxury </B><I>a shop selling electrical goods </I><B>| durable, perishable </B><I>A &lsquo;use by&rsquo; date must be stamped on all perishable goods. </I><B>| mass-produced | cheap, low-priced | branded, own-label </B><I>The supermarket's own-label goods are cheaper than branded goods </I><B>| duty-free | second-hand | defective, faulty, shoddy | stolen </B><I>He was accused of handling stolen goods. </I><B>| counterfeit, fake </B> </P>
+<P> <U> VERB + GOODS </U><B> make, manufacture, produce </B><I>factories which produc</I>e </B><I>luxury goods for the export marke</I>t <B>| buy, purchase | export, import | sell, supply | deliver </B><I>The good</I>s </B><I>will be delivered within ten days. </I>| <B>transport </B> </P>
+<P> <U> GOODS + NOUN </U><B> train, vehicle, wagon | depot, yard</B> </P>
+</DIV>

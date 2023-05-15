@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>responsible </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> having the job/duty of doing sth </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain | make sb </B><I>I am making you responsible for the cooking. </I> </P>
+<P> <U> ADV. </U><B> entirely, totally, wholly | chiefly, largely, mainly, primarily | individually | collectively, jointly </B><I>All members of the Cabinet are collectively responsible for decisions taken. </I><B>| formally, legally | nominally </B><I>The company could not indicate a person even nominally responsible for staff training. </I><B>| ultimately </B><I>The board is ultimately responsible for policy decisions. </I><B>| financially </B> </P>
+<P> <U> PREP. </U><B> for </B><I>They're responsible for cleaning the engine. </I> </P>
+<P> <SUP> 2 </SUP> <TT> being the cause of sth/to blame for sth </TT> </P>
+<P> <U> VERBS </U><B> be, feel | become | consider sb, deem sb, find sb, hold sb, regard sb as, see sb as, think sb </B><I>They held him responsible for the failure of the policy. </I> </P>
+<P> <U> ADV. </U><B> entirely, fully, wholly | partially, partly | directly | indirectly | personally | single-handedly, solely </B><I>He was almost single-handedly responsible for the flourishing drug trade in the town. </I><B>| ultimately | somehow </B><I>Did he think her somehow responsible for Eddie's death? </I><B>| morally </B> </P>
+<P> <U> PREP. </U><B> for </B><I>Who was responsible for the mistake? </I> </P>
+<P> <SUP> 3 </SUP> <TT> having to report to sb/sth </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> directly | ultimately </B><I>a complex web of party bodies ultimately responsible to the Central Committee </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The prime minister is directly responsible to Parliament. </I> </P>
+<P> <SUP> 4 </SUP> <TT> showing/needing good sense and reliability </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very | fairly, quite | ecologically, environmentally </B><I>The organization needs to become more environmentally responsible. </I><B>| morally, politically, socially </B><I>allocating resources in a morally responsible way </I> </P>
+</DIV>

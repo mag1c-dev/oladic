@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>leap </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> big jump </TT> </P>
+<P> <U> ADJ. </U><B> big, giant, prodigious | little | flying, running </B><I>He made a flying leap at the ball. </I> </P>
+<P> <U> VERB + LEAP </U><B> make, take </B> </P>
+<P> <U> PREP. </U><B> ~ from, ~ into </B><I>a leap into the air </I><B>| ~ to </B> </P>
+<P> <SUP> 2 </SUP> <TT> great change/increase in sth </TT> </P>
+<P> <U> ADJ. </U><B> big, enormous, giant, great, huge, quantum </B><I>There has been a quantum leap in profits since 1995. </I><B>| small | bold, dramatic, sudden </B><I>a dramatic leap in the number of people out of work </I><B>| imaginative, intuitive | technological </B> </P>
+<P> <U> VERB + LEAP </U><B> make </B><I>They've made a great leap forward with their road building in the last few years. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a leap from $632 to $735 </I><B>| ~ in </B><I>a leap in prices </I><B>| ~ of </B><I>a leap of 750% </I><B>| ~ to </B> </P>
+<P> <U> PHRASES </U><B> a leap forward, by leaps and bounds, come on/improve in leaps and bounds </B><I>His technique has come on in leaps and bounds this season. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>leap </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> almost, nearly </B><I>He almost leaped down the stairs when he heard who it was. </I><B>| immediately | suddenly | clear, high </B><I>She leaped clear of the water. </I><B>| about, around, back, down, forward, out, up (and down) </B><I>children leaping about with excitement </I> </P>
+<P> <U> VERB + LEAP </U><B> seem to </B><I>(figurative) The photograph seemed to leap off the page at her. </I><B>| be about to, be ready to </B><I>Don't be so nervous?anyone would think I was about to leap on you. </I> </P>
+<P> <U> PREP. </U><B> across </B><I>leaping across the puddles </I><B>| from </B><I>He leaped down from the ladder and ran over towards her. </I><B>| into, off, on, onto </B><I>He leaped onto his horse and rode off. </I><B>| out of </B><I>He leaped out of bed when he heard the telephone. </I><B>| over </B><I>leaping over high fences </I> </P>
+<P> <U> PHRASES </U><B> leap to your feet </B><I>Rosie immediately leaped to her feet. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>province </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> region </TT> </P>
+<P> <U> ADJ. </U><B> northern, southern, etc. | central, coastal, frontier </B><I>the central province of Ghor </I><B>| English-speaking, French-speaking, etc. | autonomous 2 the provinces </B>not the capital city </B> </P>
+<P> <U> VERB + PROVINCE </U><B> tour </B><I>The show is currently touring the provinces. </I> </P>
+<P> <U> PREP. </U><B> from the ~ </B><I>She's from the provinces and not familiar with Rome. </I><B>| in the ~ </B><I>There are a number of press agencies based in London and in the provinces. </I> </P>
+</DIV>

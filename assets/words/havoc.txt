@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>havoc </B><I>noun </I> </P>
+<P> <U> VERB + HAVOC </U><B> cause, create, play, wreak </B> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>The new tax could wreak havoc among smaller companies. </I><B>| ~ for </B><I>High winds have been creating havoc for farmers. </I><B>| ~ in </B><I>The disease can cause havoc in commercial orchards. </I><B>| ~ on </B><I>The flood wrought havoc on the countryside. </I><B>| ~ to </B><I>The storm caused havoc to wildlife. </I><B>| ~ with </B><I>The fog played havoc with flight schedules. </I> </P>
+</DIV>

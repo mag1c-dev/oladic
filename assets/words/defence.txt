@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>defence </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> action to protect sb/sth from attack </TT> </P>
+<P> <U> ADJ. </U><B> adequate, effective | natural </B><I>the body's natural defence against viruses </I><B>| national | air | civil | nuclear </B> </P>
+<P> <U> VERB + DEFENCE </U><B> organize, plan </B><I>to plan the defence of harbour </I><B>| come to, leap to, rush to, spring to </B><I>He always sprang to Rose's defence when Ed tried to criticize her. </I> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>to fight in defence of your country </I><B>| ~ against </B><I>defence against attacks from the north </I> </P>
+<P> <U> PHRASES </U><B> weapons of defence </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth that protects sb/sth from sth </TT> </P>
+<P> <U> ADJ. </U><B> effective | coastal, sea </B> </P>
+<P> <U> VERB + DEFENCE </U><B> put up </B><I>They put up an effective defence against the guerrilla forces. </I><B>| overcome, overwhelm </B><I>With her tears and angry accusations she completely overwhelmed his defences. </I><B>| build (up) </B><I>They are building up defences along the river. </I><B>| breach </B><I>The sea breached the coastal defences in a number of spots. </I> </P>
+<P> <U> DEFENCE + NOUN </U><B> mechanism </B> </P>
+<P> <U> PREP. </U><B> ~ against </B> </P>
+<P> <SUP> 3 </SUP> <TT> forces, etc. for protecting a country </TT> </P>
+<P> <U> DEFENCE + NOUN </U><B> force/forces, system | minister, ministry | policy, strategy | industry | budget, cuts, expenditure, spending </B> </P>
+<P> <SUP> 4 </SUP> <TT> legal argument </TT> </P>
+<P> <U> ADJ. </U><B> good | robust, spirited, strong | adequate | legal </B> </P>
+<P> <U> VERB + DEFENCE </U><B> conduct, make, mount, put up, raise | destroy </B> </P>
+<P> <U> DEFENCE + NOUN </U><B> counsel, lawyer </B> </P>
+<P> <U> PREP. </U><B> in sb's ~ </B><I>She spoke in his defence. </I><B>| ~ of, ~ to </B><I>a defence to murder </I> </P>
+<P> <U> PHRASES </U><B> counsel for the defence </B> </P>
+<P> <SUP> 5 </SUP> <TT> in sport </TT> </P>
+<P> <U> ADJ. </U><B> good, strong, stubborn </B> </P>
+<P> <U> VERB + DEFENCE </U><B> put up | destroy | strengthen </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>to play in defence </I> </P>
+</DIV>

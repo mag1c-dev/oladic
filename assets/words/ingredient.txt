@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>ingredient </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> thing from which sth is made </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good </B><I>It always pays to use the best ingredients when cooking. </I><B>| main, major, principal </B><I>the principal ingredient of smog </I><B>| important, vital | secret, special | basic | common | active </B><I>salicylic acid, the active ingredient in aspirin </I><B>| remaining </B><I>Add all the remaining ingredients and bring to the boil. </I><B>| fresh | natural | artificial | exotic | dry </B><I>Use a spoon to mix the dry ingredients. </I><B>| raw | food </B> </P>
+<P> <U> VERB + INGREDIENT </U><B> use </B><I>I only use natural ingredients. </I><B>| add, pour in/on/over </B><I>Mix the marinade ingredients and pour over the goose. </I><B>| blend, combine, mix, stir (in) </B><I>Blend all the ingredients together in a bowl. </I> </P>
+<P> <U> PHRASES </U><B> a list of ingredients </B><I>All food products should carry a list of ingredients on the packet. </I>&gt; Special page at FOOD </B> </P>
+<P> <SUP> 2 </SUP> <TT> thing/quality necessary to make sth successful </TT> </P>
+<P> <U> ADJ. </U><B> crucial, essential, fundamental, important, key, vital </B><I>Hard work is a vital ingredient for success. </I><B>| main, major, principal | basic, necessary </B><I>Forecasting is a basic ingredient of business planning. </I><B>| right </B><I>The little town has all the right ingredients for a murder mystery. </I><B>| magic, secret, special | added/additional, extra | missing </B> </P>
+<P> <U> VERB + INGREDIENT </U><B> have </B><I>The Australian team had the added ingredient of perseverance. </I><B>| provide, supply </B><I>She hopes the change of career will supply the missing ingredient in her life? excitement. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Tolerance is an essential ingredient for a happy marriage. </I><B>| ~ in </B><I>Individualism has been the secret ingredient in developing his chain of fashion stores. </I> </P>
+<P> <U> PHRASES </U><B> an ingredient for success</B> </P>
+</DIV>

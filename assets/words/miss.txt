@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>miss </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> not hit/catch/reach sth </TT> </P>
+<P> <U> ADV. </U><B> completely | just, narrowly </B><I>The plane crashed, narrowly missing a hotel. </I> </P>
+<P> <U> PREP. </U><B> by </B><I>The bullet missed his head by only a few inches. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not hear/see/understand </TT> </P>
+<P> <U> ADV. </U><B> completely </B><I>He completely missed the point of what I was saying. </I> </P>
+<P> <U> VERB + MISS </U><B> can't </B><I>The station is just down this road on the left. You can't miss it. </I> </P>
+<P> <SUP> 3 </SUP> <TT> feel sad because sb is not with you </TT> </P>
+<P> <U> ADV. </U><B> dreadfully, a lot, really, terribly, very much </B><I>Your father misses you dreadfully. I still miss her a lot. </I> </P>
+<P> <U> PHRASES </U><B> be greatly/sadly/sorely missed </B><I>Anne, who died on 22 July, will be sadly missed by all who knew her. </I> </P>
+</DIV>

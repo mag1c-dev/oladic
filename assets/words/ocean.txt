@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>ocean </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep | vast | great </B><I>exploring the depths of the three great oceans </I><B>| open </B><I>A storm started up once we got out into the open ocean. </I><B>| tropical, warm | southern </B><I>penguins of the southern oceans </I> </P>
+<P> <U> VERB + OCEAN </U><B> cross, sail | explore </B> </P>
+<P> <U> OCEAN + NOUN </U><B> depths </B><I>the darkness of the ocean depths </I><B>| surface | bed, floor | basin | water | wave </B><I>a life on the ocean wave </I>(= at sea) <B>| current | voyage | liner </B> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>trade across the Atlantic Ocean </I><B>| in the ~ </B><I>Various toxic substances have been dumped in the ocean. </I> </P>
+<P> <U> PHRASES </U><B> the bottom/depths/middle/surface of the ocean, the oceans of the world </B><I>great ships that sailed the oceans of the world </I> </P>
+</DIV>

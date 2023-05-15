@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>fabric </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> cloth </TT> </P>
+<P> <U> ADJ. </U><B> beautiful, rich </B><I>rich fabric wall coverings </I><B>| delicate, fine, lightweight, sheer, soft, thin | coarse, firm, hard-wearing, thick | stretch | floral, patterned, plain, printed, striped | knitted, woven | cotton, nylon, woollen, etc. | synthetic | curtain, dress, furnishing </B> </P>
+<P> <U> QUANT. </U><B> length, piece, strip </B> </P>
+<P> <U> VERB + FABRIC </U><B> produce, weave </B><I>The fabric is woven on these machines. </I> </P>
+<P> <SUP> 2 </SUP> <TT> basic structure of a society/way of life </TT> </P>
+<P> <U> ADJ. </U><B> basic </B><I>the basic fabric of family life </I><B>| economic, political, social </B> </P>
+<P> <U> VERB + FABRIC </U><B> destroy </B><I>Th</I>e </B><I>government's policies hav</I>e </B><I>destroyed the social fabric</I>. </B> </P>
+<P> <U> PHRASES </U><B> the very/whole fabric of sth </B><I>a threat to the very fabric of society </I> </P>
+</DIV>

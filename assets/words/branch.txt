@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>branch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of a tree </TT> </P>
+<P> <U> ADJ. </U><B> top/topmost | low, overhanging </B><I>Be careful of overhanging branches. </I><B>| bare, dead </B><I>the bare branches of a tree in winter </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of a larger organization </TT> </P>
+<P> <U> ADJ. </U><B> central, high street, local, overseas, regional </B> </P>
+<P> <U> VERB + BRANCH </U><B> establish, open, set up </B><I>The store is opening more local branches. </I><B>| close (down) </B> </P>
+<P> <U> BRANCH + NOUN </U><B> chairman, manager, member, office, representative, secretary </B>&gt; Special page at BUSINESS </B> </P>
+</DIV>

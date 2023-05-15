@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>pin </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> drawing, safety, tie | brass, bronze, diamond, metal, steel </B> </P>
+<P> <U> VERB + PIN </U><B> drive in, stick in </B><I>The map had a lot of little pins stuck into it. </I><B>| remove</B> </P>
+</DIV><DIV class="item"><P class="word"><B>pin </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> fasten sth with a pin </TT> </P>
+<P> <U> ADV. </U><B> carefully </B><I>She carefully pinned the two pieces of cloth together. </I><B>| firmly | back, on, together, up </B><I>Her hair was pinned back. pictures pinned up on the walls </I> </P>
+<P> <U> PREP. </U><B> onto </B><I>The poster had been pinned onto a large wooden board. </I><B>| to </B><I>Maps were pinned to the walls. </I> </P>
+<P> <U> PHRASES </U><B> pin sth in place </B> </P>
+<P> <SUP> 2 </SUP> <TT> hold sb in one position </TT> </P>
+<P> <U> ADV. </U><B> helplessly | down </B><I>He was pinned down on the floor. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>He pinned her against the wall. </I><B>| behind </B><I>His arms were pinned behind his back. </I><B>| to </B><I>She was pinned helplessly to the desk. </I><B>PHRASAL VERBS pin sth down </B> </P>
+<P> <U> ADV. </U><B> precisely </B><I>The difference between the two approaches is hard to pin down precisely. </I> </P>
+<P> <U> VERB + PIN </U><B> be difficult to, be hard to</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>distributor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> global, international, overseas, worldwide | local, national | exclusive, sole | authorized, licensed | independent, third party </B><I>Third party distributors are used to distribute the product in areas where the group does not have offices. </I><B>| large, leading, main, major, primary </B><I>We are the primary distributor of the system in France. </I><B>| car, computer, film, food, software | electricity </B><I>the national electricity distributor </I> </P>
+<P> <U> VERB + DISTRIBUTOR </U><B> appoint (sb) as </B><I>We have been appointed sole UK distributor of a number of Hungarian wines. </I><B>| act as </B><I>We will act as the exclusive distributor for these Russian goods to the world market. </I> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>You can get the book through your local distributor. </I><B>| ~ for </B><I>the exclusive distributor for these goods a distributor for the German market a distributor for Hewlett-Packard Co </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ambiguity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> possible, potential | moral, sexual </B> </P>
+<P> <U> QUANT. </U><B> degree, element </B><I>There is a degree of ambiguity in this statement. </I> </P>
+<P> <U> VERB + AMBIGUITY </U><B> lead to </B><I>Incorrect choice of words leads to ambiguity for the reader. </I><B>| avoid </B><I>The document has been carefully written to avoid ambiguity. </I><B>| reduce | remove, resolve </B><I>They had to change some of the wording in the document to resolve the ambiguity. </I> </P>
+<P> <U> AMBIGUITY + VERB </U><B> arise, occur </B><I>Ambiguity arises when students' spoken English is very limited. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>There will always be some ambiguity about what actually happened. </I><B>| ~ in </B><I>There was some ambiguity in what he said. </I> </P>
+<P> <U> PHRASES </U><B> a source of ambiguity</B> </P>
+</DIV>

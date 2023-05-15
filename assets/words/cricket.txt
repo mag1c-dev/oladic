@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>cricket </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sport </TT> </P>
+<P> <U> ADJ. </U><B> county, international, school, village | club, first-class | professional | championship, league, test, World Cup | one-day, four-day, etc. | limited-over(s) | Sunday | attacking </B><I>The crowd loves to watch attacking cricket. </I> </P>
+<P> <U> QUANT. </U><B> game </B> </P>
+<P> <U> VERB + CRICKET </U><B> play | watch | follow </B> </P>
+<P> <U> CRICKET + NOUN </U><B> game, match | championship, competition | field, ground, pitch | ball, bat | pavilion | captain, manager, team | club | enthusiast, fan, lover | season | tour | scene </B><I>This game marks his comeback to the international cricket scene. </I><B>| commentator | memorabilia </B><I>an auction of cricket memorabilia </I></B> </P>
+<P> <SUP> 2 </SUP> <TT> insect </TT> </P>
+<P> <U> CRICKET + VERB </U><B> chirp </B><I>The only sound was a cricket chirping. </I> </P>
+</DIV>

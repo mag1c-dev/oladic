@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>pest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> common | serious | agricultural, crop, garden, plant | insect | sex (in newspapers) </B><I>Police are looking for a sex pest who is frightening late-night travellers. </I> </P>
+<P> <U> VERB + PEST </U><B> control, eradicate </B><I>These birds provide a useful function in controlling insect pests. </I> </P>
+<P> <U> PEST + NOUN </U><B> control, controller, management | population</B> </P>
+</DIV>

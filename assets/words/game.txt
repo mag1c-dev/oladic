@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>game </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> activity/sport </TT> </P>
+<P> <U> ADJ. </U><B> ball, board, computer, video  | good </B><I>This is a good game for getting people to mix. </I><B>| competitive </B><I>competitive games in which there is always a winner and a loser </I><B>| team </B><I>How I hated team games at school! </I><B>| party | children's </B><I>children's party games like Musical Chairs </I><B>| indoor, outdoor </B><I>finding good indoor games for children </I> </P>
+<P> <U> VERB + GAME </U><B> have, play </B><I>Shall we have a game of chess? </I><B>| draw, lose, win </B><I>We won the first game and drew the second. </I> </P>
+<P> <U> PREP. </U><B> ~ against/with, ~ of </B><I>To pass the time, we played a game of cards. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sports match </TT> </P>
+<P> <U> ADJ. </U><B> big </B>(= important) <I>The team are in training for their big game. </I><B>| first, opening | final, last | away, home | Cup, League </B><I>their first League game of the season </I> </P>
+<P> <U> VERB + GAME </U><B> have, play </B><I>United are playing a home game this week. </I><B>| draw, lose, win </B> </P>
+<P> <U> PREP. </U><B> ~ against/with </B><I>He's hoping to be fit before next week's game with Liverpool. </I><B>| ~ of </B><I>a game of tennis </I> </P>
+<P> <SUP> 3 </SUP> <TT> how sb plays </TT> </P>
+<P> <U> ADJ. </U><B> good, great </B><I>That girl plays a great game of bridge. </I> </P>
+<P> <U> VERB + GAME </U><B> have, play </B><I>Trescothick had a good game and was man of the match. </I><B>| improve, raise </B><I>Hendry raised his game to collect the </I>&pound;</B><I>40,000 first prize. </I> </P>
+<P> <SUP> 4 </SUP> <TT> games: sports competition  </TT> </P>
+<P> <U> ADJ. </U><B> Commonwealth, Olympic </B> </P>
+<P> <U> VERB + GAME </U><B> compete in, participate in, take part in </B><I>She's hoping to participate in the next Olympic Games. </I><B>| host </B><I>Beijing's bid to host the Olympic Games </I> </P>
+<P> <SUP> 5 </SUP> <TT> business/activity </TT> </P>
+<P> <U> VERB + GAME </U><B> be in </B><I>How long have you been in this game? </I> </P>
+<P> <U> GAME + NOUN </U><B> ~ of </B><I>the game of life/politics </I> </P>
+<P> <U> PHRASES </U><B> all part of the game </B><I>Getting dirty was all part of the game to the kids. </I><B>| new to this game </B><I>I'm new to this game myself. </I> </P>
+<P> <SUP> 6 </SUP> <TT> secret plan </TT> </P>
+<P> <U> ADJ. </U><B> little, silly, stupid </B> </P>
+<P> <U> VERB + GAME </U><B> play </B><I>I realized that he had been playing a stupid game with me. </I><B>| put an end to, put a stop to </B><I>I'll soon put an end to her silly little games. </I><B>| give away </B><I>Don't let him talk to anybody or he'll give the game away. </I> </P>
+</DIV>

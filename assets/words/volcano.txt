@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>volcano </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> active, dormant, extinct </B> </P>
+<P> <U> QUANT. </U><B> chain </B> </P>
+<P> <U> VOLCANO + VERB </U><B> erupt </B><I>An active volcano may erupt at any time. </I> </P>
+</DIV>

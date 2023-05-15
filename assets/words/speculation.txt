@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>speculation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> making guesses about sth </TT> </P>
+<P> <U> ADJ. </U><B> considerable, intense, much, widespread | further, increasing, renewed | continuing, endless | pure | mere </B><I>Whether or not he will get the job is mere speculation. </I><B>| wild | idle, fruitless | rife </B><I>Speculation was rife as to whom the prince might marry. </I><B>| media, press | metaphysical, philosophical </B> </P>
+<P> <U> VERB + SPECULATION </U><B> cause, encourage, fuel, give rise to, increase, intensify, invite, lead to, prompt, raise | dampen, discourage, end, put an end to | dismiss | indulge in </B> </P>
+<P> <U> PREP. </U><B> amid ~ </B><I>He was dropped from the team amid speculation that he was seriously ill. </I><B>| ~ among </B><I>There was wild speculation among the students as to the reason for cancelling the lecture. </I><B>| ~ about/as to/on/over </B><I>There has been increasing speculation over the future of the monarchy. </I> </P>
+<P> <U> PHRASES </U><B> a matter for speculation, a subject of speculation </B> </P>
+<P> <SUP> 2 </SUP> <TT> buying and selling for profit </TT> </P>
+<P> <U> ADJ. </U><B> financial | market | currency, land, property, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>speculation against the euro </I><B>| ~ in </B><I>speculation in oil </I><B>| ~ on </B><I>speculation on the stock market </I> </P>
+</DIV>

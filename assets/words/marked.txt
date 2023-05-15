@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>marked </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> easy to see </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> especially, extremely, particularly, strongly, very </B><I>There is a strongly marked difference between the two creatures. </I><B>| increasingly | quite </B> </P>
+<P> <SUP> 2 </SUP> <TT> with markings </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> heavily </B><I>Most cranes lay two heavily marked eggs. </I><B>| attractively, beautifully, brightly, strikingly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>These trout are beautifully marked with bright red spots. </I> </P>
+</DIV>

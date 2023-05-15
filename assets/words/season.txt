@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>season </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> well </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Season the meat well with salt and pepper. </I> </P>
+<P> <U> PHRASES </U><B> highly seasoned </B><I>highly seasoned food </I> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>season </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of the year </TT> </P>
+<P> <U> ADJ. </U><B> dry, monsoon, rainy, wet </B><I>In this climate there are no real changes of temperature, just a wet and a dry season. </I><B>| summer, winter, etc. </B> </P>
+<P> <U> VERB + SEASON </U><B> be in, come into </B><I>Melons are just coming into season. </I><B>| be out of, go out of </B> </P>
+<P> <SUP> 2 </SUP> <TT> period when an activity takes place </TT> </P>
+<P> <U> ADJ. </U><B> holiday, tourist | high, peak </B><I>The resort gets overcrowded in peak season. </I><B>| low, off </B><I>The hotel is almost empty in the off season. </I><B>| breeding, mating | growing, planting | lambing | cricket, football, hunting, racing, etc. | championship, league | gruelling, hard </B><I>It was the final race of a hard season. </I><B>| successful | disappointing, disastrous | close </B><I>The team trained hard during the close season and won its first five matches. </I><B>| consecutive, successive </B><I>Our team won the trophy for the second successive season. </I><B>| Christmas, festive </B><I>best wishes for the festive season </I> </P>
+<P> <U> SEASON + NOUN </U><B> ticket </B><I>Season ticket holders do not have to queue. </I> </P>
+<P> <U> PHRASES </U><B> the height of the season </B></P>
+<a href="/collocation-tag/season" class="tag">Learn more about SEASON</a>
+</DIV>

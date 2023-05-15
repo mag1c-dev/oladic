@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>strait </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> narrow piece of water connecting seas, etc. </TT> </P>
+<P> <U> ADJ. </U><B> narrow </B> </P>
+<P> <U> VERB + STRAIT </U><B> go through, pass through | enter </B> </P>
+<P> <U> STRAIT + VERB </U><B> separate sth </B><I>The oil terminal is in the narrow strait that separates the island from the mainland. </I> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>He tried to swim across the Straits of Gibraltar. </I><B>| in the ~ </B><I>a ship anchored in the Straits of Hormuz </I><B>| on the ~ </B><I>The town is on the straits between the Black Sea and the Mediterranean. </I><B>| through the ~ </B><I>Many hundreds of vessels pass through the straits each year. </I><B>| ~ between 2 straits </B>trouble </B> </P>
+<P> <U> ADJ. </U><B> desperate, dire, serious | financial </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The business is in dire financial straits. </I> </P>
+</DIV>

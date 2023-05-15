@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>convoy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> armed, army, military, naval, troop | road, vehicle | aid, food, humanitarian, relief </B><I>the proposal to send 500 armed soldiers to escort food convoys </I><B>| UN/United Nations </B> </P>
+<P> <U> VERB + CONVOY </U><B> lead | escort, protect | attack </B> </P>
+<P> <U> CONVOY + VERB </U><B> carry sth | arrive </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The ships travelled in convoy. </I><B>| ~ of </B><I>a large convoy of lorries carrying medical supplies </I><B>| ~ to </B><I>the next aid convoy to the war-torn region </I> </P>
+</DIV>

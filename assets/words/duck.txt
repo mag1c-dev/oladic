@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>duck </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> wild | plastic, rubber </B><I>A rubber duck floated in the bath. </I><B>| roast </B> </P>
+<P> <U> QUANT. </U><B> flock, flotilla (only used for ducks that are swimming) </B><I>A flotilla of ducks bobbed near the shore. </I> </P>
+<P> <U> VERB + DUCK </U><B> feed </B><I>Every afternoon they went to the park to feed the ducks. </I> </P>
+<P> <U> DUCK + VERB </U><B> quack | paddle, swim </B><I>The ducks paddled furiously towards the bread. </I><B>| bob | dive | dabble </B><I>Some species of duck dive for food, while others dabble for plants and insects near the surface. </I><B>| waddle </B><I>A family of ducks waddled along the river bank. </I><B>| nest | migrate </B> </P>
+<P> <U> DUCK + NOUN </U><B> breast </B><I>Slice the duck breast and serve. </I><B>| egg | pond</B> </P>
+</DIV>

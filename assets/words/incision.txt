@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>incision </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep | small, tiny | abdominal, etc. | surgical </B> </P>
+<P> <U> VERB + INCISION </U><B> make </B><I>The surgeon made a small incision in the patient's cornea. </I> </P>
+</DIV>

@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>display </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> arrangement of things </TT> </P>
+<P> <U> ADJ. </U><B> attractive, beautiful, colourful, dazzling, excellent, eye-catching, fascinating, fine, good, interesting, stunning | special | public | permanent, temporary | static </B><I>The locomotive is normally kept on static display in the National Railway Museum. </I><B>| audio-visual, visual </B><I>An audio-visual display gives visitors an idea of what life was like aboard a sailing ship. </I><B>| floral, photographic </B><I>a beautiful floral display outside the Town Hall </I><B>| in-store, wall, window | museum, shop </B> </P>
+<P> <U> VERB + DISPLAY </U><B> have </B><I>The museum has a fine display of old medical instruments. </I><B>| mount </B><I>We plan to mount a display of the children's work in the lobby area. </I><B>| go on </B><I>Examples of her work will go on permanent display in the new museum. </I><B>| put sth on </B><I>The birds were put on display at the zoological society. </I> </P>
+<P> <U> DISPLAY + VERB </U><B> illustrate sth, show sth </B><I>The display illustrates the traditional industries of the town. </I> </P>
+<P> <U> DISPLAY + NOUN </U><B> board, cabinet, case, stand </B><I>a glass-fronted display cabinet </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>Designs for the new sports hall are on public display in the library. On display are earrings, necklaces and bracelets made from jade, amber and amethyst. </I><B>| ~ of </B><I>a display of Roman coins </I></P>
+<a href="/collocation-tag/art-works" class="tag">Learn more about ART WORKS</a>
+
+<P> <SUP> 2 </SUP> <TT> performing a skill </TT> </P>
+<P> <U> ADJ. </U><B> astonishing, awesome, breathtaking, brilliant, devastating, flamboyant, great, impressive, magnificent, outstanding, spectacular, spirited, superb, virtuoso </B><I>a flamboyant display of footballing skills </I><B>| disappointing, lacklustre, poor | firework | pyrotechnic </B><I>The sun set in a pyrotechnic display that burnt up the whole western sky. </I><B>| aerial, aerobatic, air, flying, parachute | courtship, mating, sexual </B> </P>
+<P> <U> VERB + DISPLAY </U><B> give, perform, put on </B><I>The male performs a magnificent courtship display. They put on a spectacular firework display. </I><B>| treat sb to </B><I>The crowd was treated to an impressive display of power tennis. </I><B>| watch </B> </P>
+<P> <U> DISPLAY + NOUN </U><B> team </B><I>an aerobatic display team </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>They gave a virtuoso display of disco dancing. </I> </P>
+<P> <SUP> 3 </SUP> <TT> showing a particular feeling/quality </TT> </P>
+<P> <U> ADJ. </U><B> brief | rare | impressive, incredible, striking </B><I>Members of the community closed ranks in an impressive display of unity. </I><B>| open, public </B><I>an open display of affection for her husband </I><B>| outward </B><I>Despite his outward display of friendliness, I sensed he was concealing something. </I><B>| ostentatious, overt </B><I>an ostentatious display of wealth </I><B>| aggressive </B><I>There may be specific events which trigger aggressive displays in your dog. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She slammed the door behind her in a display of ill-temper. </I> </P>
+<P> <SUP> 4 </SUP> <TT> on a computer screen, etc. </TT> </P>
+<P> <U> ADJ. </U><B> computer, screen | data, graphics, video, visual | colour, mono/monochrome | high resolution, low resolution </B><I>a high resolution colour display </I><B>| LCD/liquid crystal | analogue, digital | Windows </B> </P>
+<P> <U> DISPLAY + NOUN </U><B> screen, terminal, unit </B><I>display screen equipment a visual display unit </I> </P>
+</DIV><DIV class="item"><P class="word"><B>display </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> clearly, prominently </B><I>His football trophies were prominently displayed in the kitchen. </I><B>| proudly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>She proudly displayed her degree certificate to her parents. </I> </P>
+</DIV>

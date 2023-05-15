@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>taboo </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | remain | consider sth, regard sth as </B><I>Sex is considered taboo as a topic for discussion. </I> </P>
+<P> <U> ADV. </U><B> strictly </B><I>The subject of death was strictly taboo in their society. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Such work was taboo to women. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>taboo </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rigid, strict | deep-seated | cultural, gender, religious, sexual, social | incest </B> </P>
+<P> <U> VERB + TABOO </U><B> observe </B><I>his failure to observe the tribe's rigid taboos </I><B>| break, flout, violate | break down </B><I>the problem of breaking down deep-seated cultural taboos </I><B>| reinforce </B> </P>
+<P> <U> TABOO + NOUN </U><B> subject </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>the taboo about religion in British society </I><B>| ~ against </B><I>the taboo against marrying a foreigner </I><B>| ~ on </B><I>reinforcing their taboos on sexuality </I><B>| ~ surrounding </B><I>the taboos surrounding menstruation </I> </P>
+</DIV>

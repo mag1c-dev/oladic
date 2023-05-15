@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>pupil </B><I>noun</I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> child in school </TT> </P>
+<P> <U> ADJ. </U><B> able, bright, good, star | first-year, second-year, etc. | older, senior | younger | disruptive | ex-, former | private | school | primary, secondary </B> </P>
+<P> <U> VERB + PUPIL </U><B> teach | exclude, expel </B> </P>
+<P> <U> PUPIL + NOUN </U><B> attendance, numbers | assessment | performance | behaviour </B> </P>
+<P> <SUP> 2 </SUP> <TT> of the eye </TT> </P>
+<P> <U> ADJ. </U><B> dilated, enlarged </B> </P>
+<P> <U> VERB + PUPIL </U><B> dilate </B> </P>
+<P> <U> PUPIL + VERB </U><B> dilate</B> </P>
+</DIV>

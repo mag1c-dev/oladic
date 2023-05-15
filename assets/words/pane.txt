@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pane </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broken | missing </B><I>The missing pane has been replaced. </I><B>| glass | window </B> </P>
+<P> <U> VERB + PANE </U><B> break, shatter, smash | blow in/out </B><I>The wind blew in a pane of their front window. </I><B>| replace </B> </P>
+<P> <U> PREP. </U><B> against/to a/the ~ </B><I>Her face was pressed against the pane. </I><B>| down a/the ~ </B><I>The rain ran down the window pane. </I><B>| on a/the ~ </B><I>There was dirt on the pane. </I> </P>
+<P> <U> PHRASES </U><B> a pane of glass </B><I>The burglars got in by smashing a pane of glass in a door. </I> </P>
+</DIV>

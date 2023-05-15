@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fax </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> incoming </B> </P>
+<P> <U> VERB + FAX </U><B> send (sb) | get, receive </B> </P>
+<P> <U> FAX + NOUN </U><B> machine | number | line | signal </B><I>Our fax machine differentiates between an incoming fax signal and a voice call. </I><B>| message | modem, software </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>There was still time to receive copies by fax. </I><B>| ~ from, ~ to</B> </P>
+</DIV>

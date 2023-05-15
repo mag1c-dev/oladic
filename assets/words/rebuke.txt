@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>rebuke </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sharp, stern, stinging | gentle, mild | silent | implied | public </B> </P>
+<P> <U> VERB + REBUKE </U><B> receive | draw, earn (sb) </B><I>Even one minute's lateness would earn a stern rebuke. </I><B>| accept </B><I>He meekly accepted the rebuke. </I><B>| administer </B><I>If the general found his authority questioned he invariably administered a sharp rebuke. </I> </P>
+<P> <U> PREP. </U><B> ~ for, ~ from </B><I>They received a public rebuke from the prime minister for their handling of the matter. </I><B>| ~ to </B><I>He hit back with a stinging rebuke to his critics. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rebuke </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> sharply | gently | publicly </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She rebuked herself sharply for her stupidity. </I> </P>
+</DIV>

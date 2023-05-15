@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>transaction </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cross-border, international | domestic | profitable | fraudulent, illegal </B><I>The president had entered into fraudulent property transactions. </I><B>| credit, credit/debit card | cash, cheque | online | over-the-counter </B><I>Electronic banking may make over-the-counter transactions obsolete. </I><B>| banking, business, commercial, consumer, economic, financial, market, monetary, trade | foreign currency, foreign exchange | property, share | human, intellectual, interpersonal </B> </P>
+<P> <U> VERB + TRANSACTION </U><B> carry out, conduct, enter into, make | effect, handle </B><I>to effect a transaction for a client </I><B>| close, complete </B> </P>
+<P> <U> TRANSACTION + VERB </U><B> proceed, take place </B><I>to ensure the transaction proceeds smoothly </I> </P>
+<P> <U> TRANSACTION + NOUN </U><B> charges, costs </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>The system records all transactions between the firm and its suppliers. </I><B>| ~ in </B><I>Transactions in land are frequently handled by an estate agent. </I>&gt; Special page at BUSINESS </B> </P>
+</DIV>

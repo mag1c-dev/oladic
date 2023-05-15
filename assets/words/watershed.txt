@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>watershed </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> important, major, significant | cultural, historical, political </B> </P>
+<P> <U> VERB + WATERSHED </U><B> be, mark, represent | reach </B> </P>
+<P> <U> WATERSHED + VERB </U><B> divide sth </B><I>Darwin's theory of evolution was a watershed dividing the old way of thinking from the new. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>The 19th century marked a watershed between the country's agricultural past and its industrial future. </I><B>| ~ for </B><I>The granting of the vote represented a watershed for the rights of women. </I><B>| ~ in </B><I>With the strike, a historical watershed in the development of the trade union movement was reached. </I> </P>
+</DIV>

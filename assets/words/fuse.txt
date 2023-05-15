@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>fuse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> device that makes a bomb explode </TT> </P>
+<P> <U> ADJ. </U><B> short | long, slow | safety </B> </P>
+<P> <U> VERB + FUSE </U><B> set </B><I>He set the fuse to thirty minutes. </I><B>| light </B> </P>
+<P> <SUP> 2 </SUP> <TT> in an electric circuit </TT> </P>
+<P> <U> ADJ. </U><B> 5-amp, 10-amp, 13-amp, etc. </B> </P>
+<P> <U> VERB + FUSE </U><B> fit </B><I>Make sure that the correct fuse is fitted. </I><B>| change, replace | blow </B><I>When the machine was switched on it blew a fuse. </I> </P>
+<P> <U> FUSE + VERB </U><B> blow </B><I>Fuses blow if they are overloaded. </I> </P>
+<P> <U> FUSE + NOUN </U><B> wire | box </B><I>The fire started in the fuse box downstairs. </I> </P>
+</DIV>

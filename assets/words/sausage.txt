@@ -1,0 +1,8 @@
+
+<div class="item"><p class="word first"><b>sausage </b><i>noun</i>  </p>
+<p> <u> ADJ. </u><div class="ex"><b> beef, garlic, liver, pork, etc. | vegetarian | spicy </b></div></p>
+<p> <u> QUANT. </u><div class="ex"><b> slice </b></div></p>
+<p> <u> VERB + SAUSAGE </u><div class="ex"><b> eat, have | cook, fry, grill </b></div></p>
+<p> <u> SAUSAGE + VERB </u><div class="ex"><b> sizzle </b></div></p>
+<p> <u> SAUSAGE + NOUN </u><div class="ex"><b> meat, skin | roll </b></div><div class="excontent">&gt; Special page at FOOD  </div></p>
+</div>

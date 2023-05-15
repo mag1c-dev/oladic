@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>open </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not closed </TT> </P>
+<P> <U> VERBS </U><B> be, gape, lie, stand </B><I>The book lay open in front of him. The door stood open. </I><B>| burst, clang, creak, fall, fly, judder, sag, swing </B><I>The bag fell open. Suddenly the door flew open. The woman's mouth sagged open. The gate swung open. </I><B>| remain | fling sth, flip sth, get sth, prise sth, pull sth, push sth, tear sth, throw sth, wrench sth, yank sth </B><I>She flung the door open and rushed in. She flipped open Chris's diary. He tore the letter open. </I><B>| have sth, hold sth, keep sth, leave sth </B><I>She held the door open for them. </I><B>| find sth, see sth </B><I>I found the door open. </I> </P>
+<P> <U> ADV. </U><B> fully, wide </B><I>The door was wide open. </I><B>| slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> honest and willing to talk </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, completely, quite </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She's very open about her mistakes. </I><B>| with </B><I>I don't think you've been completely open with me. </I> </P>
+<P> <SUP> 3 </SUP> <TT> available for people to use </TT> </P>
+<P> <U> VERBS </U><B> be | remain, stay </B><I>In spite of the snow, the roads remained open. Some of the supermarkets stay open till ten. </I><B>| keep sth </B><I>We want to keep the village store open. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The car park is only open to residents. </I> </P>
+<P> <SUP> 4 </SUP> <TT> having begun </TT> </P>
+<P> <U> VERBS </U><B> be | declare sth </B><I>The Australian premier declared the Olympic Games open. </I> </P>
+<P> <U> ADV. </U><B> officially </B><I>The bridge is officially open now. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>open </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> door, window, box, etc. </TT> </P>
+<P> <U> ADV. </U><B> wide </B><I>She opened all the windows wide to let some fresh air in. </I><B>| slowly | gingerly </B><I>Fred opened it gingerly and peered inside. </I><B>| automatically </B><I>The glass doors opened automatically for him. </I><B>| out, up </B><I>I opened out the map and laid it on the table. &lsquo;Open up!&rsquo; He hammered on the door. </I> </P>
+<P> <U> VERB + OPEN </U><B> try to | manage to | fail to </B><I>Her parachute failed to open. </I> </P>
+<P> <SUP> 2 </SUP> <TT> building, road, etc. </TT> </P>
+<P> <U> ADV. </U><B> formally, officially | up </B><I>opening up new markets </I> </P>
+<P> <U> VERB + OPEN </U><B> be due to, be expected to, be scheduled to </B><I>The museum is due to open next year. </I><B>| hope to, intend to, plan to, want to, wish to </B> </P>
+<P> <U> PHRASES </U><B> newly/recently opened </B><I>the newly opened gallery of Western decorative art </I> </P>
+</DIV>

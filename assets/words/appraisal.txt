@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>appraisal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> detailed, full, thorough </B><I>A detailed appraisal of the scheme will now be carried out. </I><B>| frank, honest, realistic | independent | critical | economic, financial | project | performance, staff, teacher </B><I>a formal system of performance appraisal </I> </P>
+<P> <U> VERB + APPRAISAL </U><B> carry out, give, make </B><I>He was asked to give an independent appraisal. She made a quick appraisal of the other guests. </I> </P>
+<P> <U> APPRAISAL + NOUN </U><B> interview </B><I>We are holding staff appraisal interviews. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>science </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hard </B><I>His essay is not based on hard science. </I><B>| exact, inexact </B><I>Politics is as much an art form as an exact science. </I><B>| popular </B><I>The magazine contains a lot of popular science. </I><B>| basic, school </B><I>I was trying to remember what I had learnt about gravity in school science. </I><B>| applied, experimental | biological, human, life, natural, physical </B><I>The life sciences include biology and botany. </I><B>| agricultural, earth, environmental, food, marine, soil | forensic | medical, veterinary | behavioural, political, social | computer, information | cognitive, linguistic | space | sports | management </B> </P>
+<P> <U> SCIENCE + NOUN </U><B> education, research, teaching | museum, park </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Meteorology is the science of the weather. </I> </P>
+<P> <U> PHRASES </U><B> the history of science, the laws of science, science and technology, the world of science </B><I>His experiments have achieved notoriety in the world of science. </I></P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>flurry </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small amount of rain/snow </TT> </P>
+<P> <U> ADJ. </U><B> snow </B> </P>
+<P> <U> PHRASES </U><B> a flurry of rain/snow </B> </P>
+<P> <SUP> 2 </SUP> <TT> short sudden burst of sth </TT> </P>
+<P> <U> ADJ. </U><B> brief, sudden </B><I>There was a sudden flurry of interest in the book. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B> </P>
+<P> <U> PHRASES </U><B> a flurry of activity/excitement</B> </P>
+</DIV>

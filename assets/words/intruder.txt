@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>intruder </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> unwanted, unwelcome | masked </B> </P>
+<P> <U> VERB + INTRUDER </U><B> catch, disturb, find, startle, surprise </B><I>He surprised a masked intruder in the kitchen. </I><B>| deter, keep away/out </B><I>Dogs can deter unwelcome intruders. </I><B>| tackle </B><I>He was stabbed when he tackled an intruder armed with a knife. </I><B>| repel </B><I>Staff were instructed to repel intruders with physical force, if need be. </I> </P>
+<P> <U> INTRUDER + VERB </U><B> break into, force their way into </B><I>Intruders had forced their way into the house. </I> </P>
+<P> <U> INTRUDER + NOUN </U><B> alarm </B> </P>
+<P> <U> PREP. </U><B> against ~s </B><I>security measures against intruders </I> </P>
+</DIV>

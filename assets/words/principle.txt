@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>principle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> basic general rule </TT> </P>
+<P> <U> ADJ. </U><B> basic, broad, central, fundamental, general </B><I>the basic principles of car maintenance </I><B>| cardinal, essential, key | universal | democratic, legal, market, political, scientific, theoretical </B> </P>
+<P> <U> VERB + PRINCIPLE </U><B> establish, formulate, lay down | apply | explain </B> </P>
+<P> <U> PRINCIPLE + VERB </U><B> apply </B><I>This principle applies to all kinds of selling. </I><B>| underlie sth, underpin sth </B><I>the principles underlying Western philosophy </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>I agree with you in principle, but we'll need to discuss the details. </I><B>| ~ behind </B><I>She went on to explain the principles behind what she was doing. </I> </P>
+<P> <SUP> 2 </SUP> <TT> rule for good behaviour </TT> </P>
+<P> <U> ADJ. </U><B> high | guiding | Christian | moral </B><I>He was a man of high moral principles. </I> </P>
+<P> <U> VERB + PRINCIPLE </U><B> betray, compromise </B><I>I refuse to compromise my principles by eating meat. </I><B>| adhere to, stick to </B><I>She sticks to the principle that everyone should be treated equally. </I> </P>
+<P> <U> PREP. </U><B> against your ~s </B><I>Eating meat was against her principles. </I><B>| on ~ </B><I>She's opposed to abortion on principle. </I> </P>
+<P> <U> PHRASES </U><B> a matter of principle </B><I>They reject the proposal as a matter of principle. </I><B>| a person of principle </B>(= a person with high moral standards)  </P>
+</DIV>

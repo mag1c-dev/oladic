@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>spasm </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sudden | muscle, muscular </B> </P>
+<P> <U> VERB + SPASM </U><B> feel </B><I>He felt a spasm of panic sweeping over him. </I><B>| go into </B><I>The muscle goes into spasm, producing the symptom of cramp. </I> </P>
+<P> <U> SPASM + VERB </U><B> pass, subside </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She could not speak; her throat was in spasm. </I><B>| ~ of </B><I>He kicked the chair in a spasm of impatience. </I> </P>
+<P> <U> PHRASES </U><B> a spasm of coughing/pain</B> </P>
+</DIV>

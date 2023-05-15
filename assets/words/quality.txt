@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>quality </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> how good/bad sth is </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good, high, outstanding, superior, top </B><I>All our cakes are made with top quality ingredients. </I><B>| inferior, low, poor | variable | product, service | recording, sound | air, water | artistic, technical </B> </P>
+<P> <U> VERB + QUALITY </U><B> maintain | enhance, improve, raise | affect, impair, reduce | assess, determine, evaluate, monitor, test </B> </P>
+<P> <U> QUALITY + VERB </U><B> improve | suffer </B><I>When costs are cut product quality suffers. </I> </P>
+<P> <U> QUALITY + NOUN </U><B> control | assurance | standards </B> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>The photos are of variable quality. </I> </P>
+<P> <U> PHRASES </U><B> quality of life </B><I>Advances in technology would, it was hoped, improve the quality of life. </I> </P>
+<P> <SUP> 2 </SUP> <TT> characteristic </TT> </P>
+<P> <U> ADJ. </U><B> admirable, desirable, fine, good, great, positive, valuable | negative | redeeming </B><I>I found him thoroughly unpleasant, with no redeeming qualities whatsoever. </I><B>| individual, personal | inborn, inherent, innate, intrinsic | distinctive, particular, special, unique | elusive, rare </B><I>a singer with that elusive quality that sells records </I><B>| essential, important | aesthetic, artistic, literary | moral | mental, psychological | feminine, masculine | leadership, managerial | aphrodisiac, medicinal </B> </P>
+<P> <U> VERB + QUALITY </U><B> have | display, show</B> </P>
+</DIV>

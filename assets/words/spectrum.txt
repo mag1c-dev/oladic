@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>spectrum </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of colours </TT> </P>
+<P> <U> ADJ. </U><B> visible </B><I>Beyond the red end of the visible light spectrum is infrared. </I><B>| continuous </B><I>a continuous spectrum of light waves </I><B>| colour, electromagnetic </B> </P>
+<P> <U> SPECTRUM + NOUN </U><B> analysis </B> </P>
+<P> <U> PHRASES </U><B> the colours of the spectrum </B><I>Other species can perceive colours of the spectrum that are invisible to us. </I><B>| the &hellip; band/end/part of the spectrum </B><I>the ultraviolet part of the spectrum </I> </P>
+<P> <SUP> 2 </SUP> <TT> full or wide range </TT> </P>
+<P> <U> ADJ. </U><B> complete, full </B><I>The courses cover the full spectrum of levels. </I><B>| broad, wide | narrow | entire, whole | political, social </B> </P>
+<P> <U> VERB + SPECTRUM </U><B> cover </B> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>There was consensus across the political spectrum. </I><B>| ~ of </B><I>a wide spectrum of interests </I> </P>
+<P> <U> PHRASES </U><B> at one/the other end of the spectrum, both/opposite ends of the spectrum </B><I>The two speakers were chosen to represent opposite ends of the spectrum. </I><B>| a spectrum of opinion </B><I>The newspaper covers a broad spectrum of opinion. </I> </P>
+</DIV>

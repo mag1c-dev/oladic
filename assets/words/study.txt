@@ -1,0 +1,30 @@
+
+<DIV class="item"><P class="word"><B>study </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> learning </B> </TT> </P>
+<P> <U> ADJ. </U><B> full-time, part-time | graduate, postgraduate | independent, private </B><I>This grammar book is suitable both for classroom use and for independent study. </I><B>| academic </B><I>The course integrates academic study and practical training. </I><B>| language  </B> </P>
+<P> <U> QUANT. </U><B> course, programme </B> </P>
+<P> <U> VERB + STUDY </U><B> take up </B><I>Now that her children are all at school, she's going to take up full-time study again. </I> </P>
+<P> <U> STUDY + NOUN </U><B> group </B><I>A bible study group meets every Sunday at the church. </I><B>| leave </B><I>The company allows its staff to take paid study leave. </I><B>| skills </B><I>The first part of the course is designed to develop students' study skills. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>full-time study for an MA </I> </B> </P>
+<P> <U> PHRASES </U><B> an area/a field of study </B><I>Students do a foundation year before specializing in their chosen field of study. </I> 2 studies </B>sb's learning activities </B> </P>
+<P> <U> ADJ. </U><B> further </B><I>Many undertake further studies after passing their A levels. </I> </P>
+<P> <U> VERB + STUDY </U><B> undertake |  continue, pursue | complete, finish </B><I>When he has completed his studies, he'll travel round the world. </I><B>| resume, return to </B><I>She returned to her studies when her children reached school age. </I> 3 studies </B>subjects </B> </P>
+<P> <U> ADJ. </U><B> business, management, religious, women's, etc. </B><I>She's doing women's studies at Liverpool University. </I> </P>
+<P> <U> VERB + STUDY </U><B> do | lecture in, teach  </B><I>He lectures in management studies. </I> </P>
+<P> <SUP> 4 </SUP> <TT> piece of research </TT> </P>
+<P> <U> ADJ. </U><B> new, present, recent </B><I>The present study reveals an unacceptable level of air pollution in the city centre. </I><B>| earlier, previous | careful, close, comprehensive, detailed,  intensive, serious </B><I>a close study of share prices She devoted herself to a serious study of the Koran. </I><B>| major | definitive | initial, pilot,  preliminary </B><I>A preliminary study suggested that the product would be popular. </I><B>| research </B><I>Research studies carried out in Italy confirmed the theory. </I><B>| empirical, experimental, systematic, theoretical | anthropological, historical, scientific, sociological | field </B><I>This phenomenon has been observed in both laboratory and field studies. </I><B>| feasibility </B><I>The company undertook an extensive feasibility study before adopting the new system. </I><B>| literary | case </B><I>a detailed case study of nine companies </I><B>| comparative </B><I>a comparative study of the environmental costs of different energy sources </I> </P>
+<P> <U> VERB + STUDY </U><B> commission, fund, support </B><I>the recommendations of a study commissioned by the World Bank </I><B>| carry out, conduct, do, make, undertake, work on </B><I>He has made a special study of the way that birds communicate with one another. </I><B>| publish </B> </P>
+<P> <U> STUDY + VERB </U><B> take place | aim at/to, be aimed at sth, attempt to, be designed to, set out to </B><I>The study set out to examine bias in television news coverage. </I><B>| be based on sth </B><I>a study based on a sample of male white-collar workers </I><B>| cover sth </B><I>The ten-year study covered 13,000 people aged 15-25. </I><B>| concern sth, deal with sth, examine sth, focus on sth, investigate sth, look at sth | compare sth </B><I>The study compares the incidence of bone cancer in men and women. </I><B>| conclude sth, demonstrate sth, find sth, indicate sth, report sth, reveal sth, say sth, show sth, suggest sth, warn sth | provide sth </B><I>The study provided valuable insight into the development of the disease. </I><B>| highlight sth, identify sth </B><I>The study highlighted three problem areas. </I> </P>
+<P> <U> STUDY + NOUN </U><B> group </B><I>The study group was selected from a broad cross section of the population. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In a recent study, 40% of schools were found to be understaffed. </I><B>| under ~ </B><I>the biochemical process under study </I><B>| ~ into </B><I>a study into the viability of the mine </I><B>| ~ on </B><I>a definitive study on medieval weapons </I> </P>
+<P> <U> PHRASES </U><B> an area/a field of study, the results/findings of a study, the subject of a study </B><I>Shakespeare is the subject of a new study by Anthony Bryan. </I> </P>
+</DIV>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+</DIV><DIV class="item"><P class="word"><B>study </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> spend time learning about sth </TT> </P>
+<P> <U> ADV. </U><B> hard </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She is studying hard for her A levels. </I><B>| under/with </B><I>He studied under Professor Sager. </I> </P>
+<P> <SUP> 2 </SUP> <TT> examine sth carefully </TT> </P>
+<P> <U> ADV. </U><B> carefully, closely, in depth, in detail, intently, intensively </B><I>She picked up the letter and studied it carefully. In the third year a number of areas are studied in detail. </I><B>| extensively, widely | fully, thoroughly | systematically | thoughtfully </B><I>He studied her thoughtfully, then smiled. </I> </P>
+<P> <U> PHRASES </U><B> be easily/well studied </B><I>The influence of heredity is best studied in genetically identical twins. </I> </P>
+</DIV>

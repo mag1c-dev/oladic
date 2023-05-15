@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>broken </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | get </B><I>How did the jug get broken? </I> </P>
+<P> <U> ADV. </U><B> badly </B><I>One of his legs was badly broken. </I> </P>
+</DIV>

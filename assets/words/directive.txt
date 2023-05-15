@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>directive </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear </B><I>Don't start anything without a clear directive from management. </I><B>| general | important | draft, proposed | EU, European (Commission/Union), government, ministerial | policy, political | banking, environmental, etc. </B> </P>
+<P> <U> VERB + DIRECTIVE </U><B> issue </B><I>The EU issued a new drinking water directive. </I><B>| adopt, agree (on/upon), approve, sign | comply with, implement </B><I>All companies must comply with the new directive. </I><B>| block, oppose </B> </P>
+<P> <U> DIRECTIVE + VERB </U><B> come into force </B><I>A new EU directive on maternity leave will come into force next month. </I><B>| require sth </B><I>The directive requires member states to designate sites of special scientific interest. </I> </P>
+<P> <U> PREP. </U><B> in accordance with a/the ~ </B><I>They acted in accordance with the latest directive from Brussels. </I><B>| in a/the ~ </B><I>The proposals are contained in a European directive on wild birds. </I><B>| under a/the ~ </B><I>Private health services will be allowed under the directive. </I><B>| ~ from </B><I>a directive from the European Commission </I><B>| ~ on </B><I>a directive on data protection </I> </P>
+<P> <U> PHRASES </U><B> the provisions/terms of a directive</B> </P>
+</DIV>

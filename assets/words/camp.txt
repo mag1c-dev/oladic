@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>camp </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in tents/huts </TT> </P>
+<P> <U> ADJ. </U><B> makeshift, temporary | holiday, summer | base </B><I>The mountaineers set up their base camp at the foot of the mountain. </I><B>| transit | gypsy, travellers' | army, military | training </B> </P>
+<P> <U> VERB + CAMP </U><B> make, pitch, set up </B><I>We pitched camp just outside the woods. </I><B>| break, strike </B><I>We broke camp early the next morning. </I><B>| leave </B> </P>
+<P> <U> CAMP + NOUN </U><B> fire, campfire </B><I>sitting round the campfire </I><B>| site, campsite </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The children are spending a week at a summer camp. </I> </P>
+<P> <SUP> 2 </SUP> <TT> prison, etc. </TT> </P>
+<P> <U> ADJ. </U><B> concentration, detention, internment, labour, prison, prisoner-of-war | death, extermination | refugee </B><I>the appalling conditions in the refugee camps </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She spent five years in a labour camp. </I> </P>
+<P> <SUP> 3 </SUP> <TT> group with shared beliefs </TT> </P>
+<P> <U> ADJ. </U><B> hostile, opposing, rebel, rival | ideological, political | armed </B><I>The region split into two armed camps. </I> </P>
+<P> <U> VERB + CAMP </U><B> switch </B><I>a politician who switches camp when it suits him </I><B>| divide into, split into </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>people in both main political camps </I> </P>
+<P> <U> PHRASES </U><B> have a foot in both camps </B>(= show loyalty to two different groups) <I>He can unite the party because he has a foot in both camps. </I> </P>
+</DIV>

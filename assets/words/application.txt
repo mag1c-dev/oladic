@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>application </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> written request </TT> </P>
+<P> <U> ADJ. </U><B> formal, written | successful </B><I>I am pleased to tell you that your application for the post of Assistant Editor has been successful. </I><B>| unsuccessful | job, membership, patent, planning, etc. </B><I>All planning applications should be submitted to the local council. </I> </P>
+<P> <U> VERB + APPLICATION </U><B> file, lodge, make, send in, submit </B><I>The applicant must file a written application to the court. </I><B>| withdraw | consider, examine, process, screen </B><I>It takes time to process each application. </I><B>| invite </B><I>Applications are invited for the post of Lecturer in French. </I><B>| grant </B><I>(law) His application for bail was granted. </I><B>| refuse </B><I>(law)</I>, <B>reject, turn down </B> </P>
+<P> <U> APPLICATION + NOUN </U><B> form </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>(formal) Admission is obtained by written application. </I><B>| on ~ </B><I>A permit is available on application to the company. </I><B>| ~ for </B><I>an application for a new licence </I><B>| ~ to </B><I>an application to the local authority </I> </P>
+<P> <SUP> 2 </SUP> <TT> practical use </TT> </P>
+<P> <U> ADJ. </U><B> practical </B><I>What are the practical applications of this work? </I><B>| general </B><I>The program is designed for general application. </I><B>| wide | agricultural, industrial </B> </P>
+<P> <SUP> 3 </SUP> <TT> computing </TT> </P>
+<P> <U> ADJ. </U><B> client-server, database, multimedia, software </B> </P>
+<P> <U> VERB + APPLICATION </U><B> run </B><I>You can run several applications at the same time. </I><B>| develop </B> </P>
+<P> <U> APPLICATION + VERB </U><B> run </B>&gt; Special page at COMPUTER </B> </P>
+</DIV>

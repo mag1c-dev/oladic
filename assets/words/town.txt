@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>town </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place with many streets and buildings </TT> </P>
+<P> <U> ADJ. </U><B> big, large, major | little, small | nearby, neighbouring, surrounding | ancient, historic, medieval, old | new </B><I>It was built as a new town in the 1960s. </I><B>| industrial | busy </B><I>a busy market town </I><B>| boom, thriving </B><I>London was a boom town and the stock market was soaring. a thriving holiday town </I><B>| sleepy </B><I>a sleepy provincial town in southern France </I><B>| country, provincial | county </B><I>Beverley was then the county town of the East Riding of Yorkshire </I>(= the main town where the county offices were)</B><I>. </I><B>| home, native </B><I>She has gone back to live in her home town. </I><B>| border | coastal, seaside | holiday, resort | cathedral, market, university | dormitory, satellite | fortified </B><I>Kitzbuhel is an ancient fortified town with fine medieval buildings. </I><B>| shanty | ghost </B><I>It's been a ghost town since the gold rush ended. </I><B>| twin </B><I>Darlington's twin town of Amiens </I> </P>
+<P> <U> VERB + TOWN </U><B> build, found | live in </B><I>How many people live in the town? </I><B>| get out of, leave, move out of </B><I>He left town yesterday for a conference in York. They wanted to move out of town and start a new life in the country. </I> </P>
+<P> <U> TOWN + VERB </U><B> grow | flourish </B> </P>
+<P> <U> TOWN + NOUN </U><B> hall, square, walls | council | life | planning </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>They'll be back in town tomorrow. </I><B>| out of ~ </B><I>I was out of town last week. an out-of-town superstore </I><B>| outside (the) ~ </B><I>a lake just outside the town </I> </P>
+<P> <U> PHRASES </U><B> the centre/middle of (the) town, the edge/outskirts of (the) town </B> </P>
+<P> <SUP> 2 </SUP> <TT> main part of a town, with the shops, etc. </TT> </P>
+<P> <U> VERB + TOWN </U><B> go into </B><I>I'm going into town?can I get you anything? </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Mum's in town doing some shopping. </I> </P>
+</DIV>

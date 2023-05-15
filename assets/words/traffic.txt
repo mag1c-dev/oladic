@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>traffic jam </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, severe </B> </P>
+<P> <U> VERB + TRAFFIC JAM </U><B> be/get caught/stuck in, sit in </B><I>Our coach was caught in a traffic jam and got to Heathrow forty minutes late. </I> </P>
+<P> <U> PREP. </U><B> ~ on the &hellip; </B><I>Police report severe traffic jams on the M25, with five-mile tailbacks in places. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>traffic light (</B><I>also </I><B>light) </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> amber, green, red | temporary </B><I>There are temporary traffic lights because of the roadworks. </I> </P>
+<P> <U> QUANT. </U><B> set </B><I>Turn left at the third set of traffic lights. </I> </P>
+<P> <U> VERB + TRAFFIC LIGHT </U><B> go though, jump </B><I>He was stopped by the police for going through a red light. </I> </P>
+<P> <U> TRAFFIC LIGHT + VERB </U><B> change (to sth), go green, etc. </B><I>A line of vehicles waited for the traffic lights to change. Stop when the lights change to red. </I><B>| be (on) green, etc. </B><I>The lights were on red but she didn't stop. </I><B>| work </B><I>The traffic lights weren't working. </I> </P>
+<P> <U> PREP. </U><B> at the ~s </B><I>There was a hold-up at the lights. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>traffic </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> vehicles travelling somewhere </TT> </P>
+<P> <U> ADJ. </U><B> bad, busy, congested, heavy, thick | light | constant | fast, fast-flowing | slow-moving, sluggish | cycle, heavy goods vehicle, lorry, motor, road, vehicular, wheeled | foot, pedestrian | air, airline </B><I>an air traffic controller </I><B>| boat, maritime, river, sea | rail, railway | motorway | commercial, freight, goods, industrial, passenger | city, city-centre, local, town-centre, urban | international | commuter, tourist | rush-hour | holiday, summer | oncoming </B><I>I stood waiting for a gap in the oncoming traffic. </I><B>| through </B><I>Through traffic is directed around the bypass. </I><B>| northbound, southbound, etc. | one-way, two-way </B> </P>
+<P> <U> QUANT. </U><B> stream </B> </P>
+<P> <U> VERB + TRAFFIC </U><B> generate, increase </B><I>Building larger roads could generate more traffic. </I><B>| cut, reduce | slow down | block, hold up, obstruct, stop, tie up </B><I>Traffic was held up for six hours by the motorway blockade. </I><B>| direct | divert </B> </P>
+<P> <U> TRAFFIC + VERB </U><B> build up, thicken </B><I>In the town centre, traffic was already building up as early as 3 p.m. </I><B>| grow, increase </B><I>Traffic has increased by 50% in ten years. </I><B>| clog sth </B><I>Traffic clogs the streets of the city centre. </I><B>| thin </B><I>Traffic thins noticeably after 9 a.m. </I><B>| flow, move, speed, travel </B><I>The road is being widened to keep traffic moving. </I><B>| go by, pass | head </B><I>We joined the traffic heading northwards on the motorway. </I><B>| roar, rumble </B> </P>
+<P> <U> TRAFFIC + NOUN </U><B> accident | hazard </B><I>Sheep are a traffic hazard in the hills. </I><B>| chaos, congestion, disruption, delays, hold-ups, problems, queues | fumes, pollution | noise | flow, speed </B><I>Widening the road would improve traffic flow. </I><B>| levels, volume | calming, management, restraint, safety | sign, signal | laws, legislation, regulations | system | offence, violation | bollard, cone, island </B><I>A traffic island at the junction separates left- and right-turning vehicles. </I><B>| artery </B><I>(formal)</I>, <B>route | report, survey, update | cop, officer, police, policeman, warden | engineer, planner | duty </B><I>a policeman on traffic duty </I> </P>
+<P> <U> PHRASES </U><B> the volume of traffic </B> </P>
+<P> <SUP> 2 </SUP> <TT> messages, signals, etc. </TT> </P>
+<P> <U> ADJ. </U><B> radio, telephone | data, voice | network | Internet, Net, site, Web, website </B><I>Our company will help you generate site traffic. </I> </P>
+<P> <U> VERB + TRAFFIC </U><B> boost, build, generate </B> </P>
+<P> <SUP> 3 </SUP> <TT> illegal buying and selling of sth </TT> </P>
+<P> <U> ADJ. </U><B> illegal | arms, drug </B> </P>
+<P> <U> PREP. </U><B> ~ in sth </B><I>the traffic in arms </I> </P>
+</DIV>

@@ -1,0 +1,31 @@
+
+<DIV class="item"><P class="word"><B>show </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> type of entertainment </TT> </P>
+<P> <U> ADJ. </U><B> live | family, popular | radio, television/TV | floor, stage | benefit, charity | chat, talk | game, quiz | cabaret, comedy, magic, musical, talent, variety | film, light, slide | Punch and Judy, puppet | freak | peep | one-man, one-woman, solo | sb's own </B><I>She finally got her own TV show. </I><B>| road, touring, travelling </B> </P>
+<P> <U> VERB + SHOW </U><B> see, watch </B><I>Did you see the Lenny Henry Show last night? </I><B>| host </B> </P>
+<P> <U> SHOW + VERB </U><B> feature sb/sth, star sb </B><I>a live show featuring the best of Irish talent </I> </P>
+<P> <U> SHOW + NOUN </U><B> business </B> </P>
+<P> <U> PREP. </U><B> from a/the ~ </B><I>songs from the show </I><B>| in a/the ~ </B><I>one of the acts in the show </I><B>| on a/the ~ (only used about television and radio shows) </B><I>I saw her on a chat show yesterday. </I> </P>
+<P> <U> PHRASES </U><B> the star of the show </B><I>The dog was the real star of the show. </I> </P>
+<a href="/collocation-tag/performing" class="tag">Learn more about PERFORMING</a>
+<P> <SUP> 2 </SUP> <TT> public display/exhibition </TT> </P>
+<P> <U> ADJ. </U><B> big | annual, spring, summer | local | agricultural, air, art, boat, cat, dog, fashion, flower, horse, motor, trade </B> </P>
+<P> <U> VERB + SHOW </U><B> have, hold, organize, put on </B><I>They are holding a big fashion show at the Hilton tonight. </I> <B>| attend, go to </B> </P>
+<P> <U> SHOW + VERB </U><B> feature </B><I>The show features the work of local artists. </I> </P>
+<P> <U> SHOW + NOUN </U><B> ring </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>There were more than 500 exhibitors at the trade show. </I><B>| on ~ (being shown for people to look at) </B><I>The paintings are on show until April. </I> </P>
+<P> <SUP> 3 </SUP> <TT> outward expression of an emotion/attitude </TT> </P>
+<P> <U> ADJ. </U><B> great | brave | public </B> </P>
+<P> <U> VERB + SHOW </U><B> make, put on </B><I>Although she hated him, she put on a show of politeness. </I><B>| be all </B><I>He shouts a lot but it's all show. </I> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>She pretends to be interested in opera, but it's only for show. </I><B>| ~ of </B><I>He made a great show of welcoming us. </I> </P>
+<P> <U> PHRASES </U><B> a show of force/strength </B><I>The Democrats organized a show of strength, a mass rally in Central Park. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>show </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sth clear; let sb see sth </TT> </P>
+<P> <U> ADV. </U><B> clearly </B><I>The figures clearly show that her claims are false. </I> </P>
+<P> <U> VERB + SHOW </U><B> appear to, seem to | go to </B><I>It just goes to show what you can do when you really try. </I><B>| aim to, attempt to, seek to, try to | be able to, can/could | be unable to, fail to | be expected to, be likely to </B><I>Third quarter figures are likely to show a further fall in figures. </I><B>| help (to) | offer to | refuse to </B><I>Lewis refused to show any emotion. </I><B>| be anxious to, be eager to, be happy to, be keen to, intend to, want to, wish to </B><I>Les was happy to show her how it should be done. </I><B>| be designed to | let sb </B><I>Let me show you on the map. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>She showed her new toy to her friends. </I> </P>
+<P> <U> PHRASES </U><B> a chance to show sth </B><I>I'm giving him a chance to show what he can do. </I> </P>
+<P> <SUP> 2 </SUP> <TT> be visible </TT> </P>
+<P> <U> ADV. </U><B> hardly </B><I>It's such a tiny mark, it hardly shows. </I> </P>
+<P> <U> VERB + SHOW </U><B> begin to | let sth </B><I>She tried not to let her disappointment show. </I> </P>
+</DIV>

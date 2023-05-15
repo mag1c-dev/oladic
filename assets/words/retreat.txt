@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>retreat </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> retreating/leaving </TT> </P>
+<P> <U> ADJ. </U><B> hasty, headlong, rapid </B><I>I decided to beat a hasty retreat. </I><B>| humiliating, ignominious, undignified | dignified, orderly, strategic, tactful, tactical </B><I>I made a tactful retreat before they started arguing. </I> </P>
+<P> <U> VERB + RETREAT </U><B> beat, make | lead | order, sound | force/send/throw sb into </B><I>Eventually the police forced the crowd into retreat. </I><B>| block, cut off | cover </B><I>We covered his retreat with bursts of gunfire. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The enemy was now in retreat. </I><B>| on the ~ </B><I>fresh evidence that trade unionism is on the retreat </I><B>| ~ from </B><I>He took part in the retreat from Paris. </I><B>| ~ into </B><I>her retreat into a fantasy world of her own </I><B>| ~ to </B><I>an ignominious retreat to the River Vistula </I> </P>
+<P> <U> PHRASES </U><B> be in full retreat </B><I>On the eastern front the army was in full retreat. </I><B>| a line of retreat </B><I>We succeeded in cutting off the enemy's line of retreat. </I> </P>
+<P> <SUP> 2 </SUP> <TT> quiet and private place </TT> </P>
+<P> <U> ADJ. </U><B> favourite, perfect </B><I>the perfect retreat for a romantic honeymoon </I><B>| private, secret | peaceful | country, rural </B><I>designed as a gentleman's country retreat </I><B>| summer, winter | holiday, weekend </B> </P>
+<P> <U> VERB + RETREAT </U><B> turn sth into, use sth as </B><I>She plans to use it as a winter retreat. </I><B>| go into </B><I>He went into retreat at his country home to escape the attention of the media. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a summer retreat for the rich </I><B>| ~ from </B><I>staying here at his secret retreat from life in the busy city </I> </P>
+<P> <SUP> 3 </SUP> <TT> private time at a quiet place </TT> </P>
+<P> <U> ADJ. </U><B> religious, spiritual </B> </P>
+<P> <U> VERB + RETREAT </U><B> go on </B><I>She goes on a spiritual retreat for two weeks every summer. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>retreat </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hastily, quickly, rapidly, swiftly | further | back </B><I>He retreated hastily back to his car. </I> </P>
+<P> <U> VERB + RETREAT </U><B> try to | order sb to </B><I>The army was ordered to retreat. </I> </P>
+<P> <U> PREP. </U><B> before </B><I>They retreated before the Americans. </I><B>| behind </B><I>He retreated behind the table. </I><B>| from, in the face of </B><I>He retreated in the face of strong opposition. </I><B>| into </B><I>He retreated into his own world. </I><B>| to </B><I>She retreated from the busy office to her own room. </I> </P>
+</DIV>

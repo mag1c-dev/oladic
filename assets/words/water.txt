@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>water </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> liquid </TT> </P>
+<P> <U> ADJ. </U><B> boiling, cold, hot, ice-cold, lukewarm, tepid, warm | clean, clear, crystal-clear, pure | dirty | fresh | brackish, salt </B><I>These fish will quickly die in salt water. </I><B>| salty </B><I>Abscesses should be bathed in warm salty water. </I><B>| salted </B><I>Cook the pasta in plenty of boiling salted water. </I><B>| hard, soft | flowing, running </B><I>the fast-flowing water of the river All the rooms have hot and cold running water. </I><B>| river, sea | surface </B><I>The surface water made the road treacherous for drivers. </I><B>| drinking | tap </B><I>Avoid drinking the tap water when you first arrive in the country. </I><B>| bottled, mineral, spring | waste | scarce </B> </P>
+<P> <U> QUANT. </U><B> drop </B> </P>
+<P> <U> VERB + WATER </U><B> drink | pour | slosh, spill, splash, spray, sprinkle, spurt, squirt </B><I>Don't slosh too much water on the floor when you're having a bath. The burst pipe was spurting water everywhere. </I><B>| filter, purify | contaminate, pollute | turn off/on </B><I>They turned the water off for a few hours to do some work on the pipes. </I> </P>
+<P> <U> WATER + VERB </U><B> flow, pour, run | gush, spurt </B><I>Brown water gushed out of the rusty old tap. </I><B>| drip, trickle </B><I>There was water dripping from a hole in the ceiling. </I><B>| lap, slosh, spill, splash, spray, squirt </B><I>Water had got into the boat and was sloshing about under our feet. </I><B>| boil, freeze </B> </P>
+<P> <U> WATER + NOUN </U><B> vapour | temperature | pressure | supply | resources | quality | purification, treatment | filter | pollution | shortage | level | table </B><I>Building can be difficult where the water table lies close to the surface. </I><B>| power | company, industry </B> </P>
+<P> <U> PHRASES </U><B> water-repellent </B><I>water-repellent leather </I><B>| water-resistant </B><I>a water-resistant watch </I> </P>
+<P> <SUP> 2 </SUP> <TT> mass of water </TT> </P>
+<P> <U> ADJ. </U><B> deep, shallow | clear | muddy, murky, stagnant | calm, placid, still </B><I>the calm waters of Lake Como </I><B>| choppy, rough, stormy | dangerous, safe </B><I>At last the boat reached safer waters. </I><B>| flood </B><I>The flood water had caused tremendous damage. </I><B>| rising </B><I>They climbed a tree to escape the rising water. </I><B>| bathing </B> </P>
+<P> <U> WATER + NOUN </U><B> sports </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Many goods were transported by water in the last century. </I><B>| in the ~ </B><I>I saw something large floating in the water. </I><B>| on the ~ </B><I>The swan landed gracefully on the water. </I><B>| through the ~ </B><I>The boat cut effortlessly through the water. </I><B>| under the ~ </B><I>An abandoned village lies under the water of the reservoir. </I> </P>
+<P> <U> PHRASES </U><B> the water's edge </B><I>Sh</I>e </B><I>crouched at the water's edge t</I>o </B><I>wash her hands</I>. </P>
+<P> <SUP> 3 </SUP> <TT> waters: sea  </TT> </P>
+<P> <U> ADJ. </U><B> territorial | coastal | tropical | northern, southern | Antarctic, Arctic | Atlantic, Pacific, etc. | home, foreign, international | Japanese, etc. | uncharted </B><I>The ship had drifted into uncharted waters. </I> </P>
+<P> <U> PREP. </U><B> in/into &hellip; ~ </B><I>The submarine had strayed into Russian waters. </I> </P>
+</DIV>

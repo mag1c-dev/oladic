@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>shelter </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> protection from danger/bad weather </TT> </P>
+<P> <U> VERB + SHELTER </U><B> afford (sb), give (sb), offer (sb), provide (sb with) </B><I>The great elm trees gave shelter from the wind. </I><B>| need | find, run for, seek, take | refuse sb </B><I>The nuns won't refuse you shelter. </I><B>| leave </B><I>We had to leave the shelter of the trees. </I> </P>
+<P> <U> PREP. </U><B> in/under the ~ of </B><I>standing in the shelter of the shop doorway </I><B>| ~ from </B><I>to seek shelter from the rain </I> </P>
+<P> <U> PHRASES </U><B> shelter for the night </B> </P>
+<P> <SUP> 2 </SUP> <TT> small building that gives protection </TT> </P>
+<P> <U> ADJ. </U><B> makeshift, temporary | stone, underground, wooden | air-raid, bomb, bus, emergency, fallout </B> </P>
+<P> <U> VERB + SHELTER </U><B> build, erect, make, put up </B><I>The villagers were building temporary shelters. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>You'll be safer in the shelter. </I><B>| ~ for </B><I>a shelter for cattle </I> </P>
+</DIV>

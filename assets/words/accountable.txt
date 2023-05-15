@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>accountable </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | make sb | hold sb </B><I>The directors are held accountable by the shareholders. </I> </P>
+<P> <U> ADV. </U><B> fully, properly | directly </B><I>Senior managers are directly accountable to the Board of Directors. </I><B>| publicly </B><I>Local authorities should be publicly accountable to the communities they serve. </I><B>| democratically </B><I>a democratically accountable parliament </I><B>| financially, politically </B> </P>
+<P> <U> PREP. </U><B> for </B><I>In the end, we are all accountable for our actions. </I><B>| to </B><I>Politicians are accountable to Parliament. </I> </P>
+</DIV>

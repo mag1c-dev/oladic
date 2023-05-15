@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>album </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> book </TT> </P>
+<P> <U> ADJ. </U><B> family, wedding | photo/photograph, stamp </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>I keep the photographs in an album. </I> </P>
+<P> <SUP> 2 </SUP> <TT> CD/cassette/record </TT> </P>
+<P> <U> ADJ. </U><B> best-selling, good, great </B><I>Their best-selling album has won three awards. </I><B>| debut, first | double | live | solo </B><I>It's the singer's first solo album. </I><B>| compilation </B> </P>
+<P> <U> VERB + ALBUM </U><B> make, produce, record </B><I>The singer recorded her second album in Los Angeles. </I><B>| put out, release </B><I>She has not put out a new album this year. </I> </P>
+<P> <U> ALBUM + VERB </U><B> come out </B><I>His latest album comes out in the spring. </I> </P>
+<P> <U> ALBUM + NOUN </U><B> chart</B> </P>
+</DIV>

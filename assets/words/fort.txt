@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fort </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hill | Iron Age, Roman, Saxon, etc. </B><I>an Iron Age hill fort </I> </P>
+<P> <U> VERB + FORT </U><B> attack, besiege | hold </B><I>Government forces managed to hold the fort. </I> </P>
+<P> <U> FORT + VERB </U><B> be/come under attack, be/come under siege </B><I>The fort was under attack for three days. </I><B>| fall </B><I>The fort finally fell after a week of intense fighting. </I> </P>
+<P> <U> PREP. </U><B> at/in a/the ~ </B><I>All was calm at the fort that night. </I> </P>
+</DIV>

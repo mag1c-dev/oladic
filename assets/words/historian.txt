@@ -1,0 +1,4 @@
+
+<DIV class="item"><P class="word"><B>historian </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> distinguished, eminent, great, leading, respected </B><I>a talk given by an eminent social historian </I><B>| serious </B><I>No serious historian today accepts this theory. </I><B>| academic, professional | amateur | official </B><I>the official historian of the Labour Party </I><B>| contemporary, early, future </B><I>The oldest tradition goes back to the contemporary historian John Foxe. What will future historians make of the late twentieth century? </I><B>| ancient, medieval, modern </B><I>She is a writer as well as a distinguished modern historian. </I><B>| local | family | art, church, cultural, economic, human, literary, military, political, social, etc. | revisionist </B><I>Revisionist historians have questioned the accepted version of events. </I> </P>
+</DIV>

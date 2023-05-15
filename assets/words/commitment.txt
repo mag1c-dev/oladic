@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>commitment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> willingness to give time/energy to sth </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, full, total | clear, deep, firm, genuine, great, passionate, real, serious, strong | continued, continuing, increased, increasing, lifelong, long-term, ongoing | general, open-ended | government, personal, professional, public | emotional, ideological, moral, political, religious </B> </P>
+<P> <U> QUANT. </U><B> degree, level </B> </P>
+<P> <U> VERB + COMMITMENT </U><B> give, make </B><I>The prime minister made a firm commitment to increasing spending on health. </I><B>| demonstrate, display, show </B><I>to demonstrate a commitment to human rights </I><B>| lack | affirm, reaffirm | require </B><I>Learning to play the violin requires strong commitment. </I><B>| gain </B><I>The government has managed to gain the commitment of employers to the scheme. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>The government avoided giving any commitments on pensions. </I><B>| ~ to </B><I>his lifelong commitment to the socialist cause </I> </P>
+<P> <U> PHRASES </U><B> a lack of commitment </B> </P>
+<P> <SUP> 2 </SUP> <TT> a responsibility </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, major | binding | prior | international, overseas | business, domestic, family, financial, military, social, teaching, work </B> </P>
+<P> <U> VERB + COMMITMENT </U><B> have, take on </B><I>I don't want to take on any more commitments. </I><B>| fulfil, honour, meet </B><I>She can't meet her financial commitments. </I><B>| get out of, wriggle out of </B><I>He is trying to wriggle out of his various domestic commitments. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>to honour commitments on reduction of air pollution </I> </P>
+<P> <SUP> 3 </SUP> <TT> agreeing to use money/time/people for sth </TT> </P>
+<P> <U> ADJ. </U><B> heavy </B><I>a heavy commitment of capital </I> </P>
+</DIV>

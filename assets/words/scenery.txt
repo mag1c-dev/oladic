@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>scenery </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> features of the countryside </TT> </P>
+<P> <U> ADJ. </U><B> beautiful, breathtaking, delightful, dramatic, fantastic, glorious, impressive, magnificent, spectacular, stunning, superb, wonderful | changing, ever-changing, varied | surrounding </B><I>The village is charming and the surrounding scenery superb. </I><B>| passing | coastal, mountain, mountainous </B> </P>
+<P> <U> VERB + SCENERY </U><B> admire, enjoy, look at, take in </B><I>An observation deck lets you take in the passing scenery. </I> </P>
+<P> <U> SCENERY + VERB </U><B> change </B> </P>
+<P> <U> PREP. </U><B> amid/amidst/in (the) ~ </B><I>The hotel lies amidst spectacular mountain scenery. </I><B>| through (the) ~ </B><I>The train passes through some magnificent scenery. </I> </P>
+<P> <U> PHRASES </U><B> the beauty of the scenery, a change of scenery </B><I>For a complete change of scenery, take a ferry out to one of the nearby islands. </I><B>| a variety of scenery </B><I>The river passes through a rich variety of scenery. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in a theatre </TT> </P>
+<P> <U> VERB + SCENERY </U><B> set up | change </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>That table is part of the scenery for Act 2. </I> </P>
+</DIV>

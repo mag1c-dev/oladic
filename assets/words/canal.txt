@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>canal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> irrigation | ship </B> </P>
+<P> <U> VERB + CANAL </U><B> build, dig </B> </P>
+<P> <U> CANAL + NOUN </U><B> barge, boat | bank | towpath </B> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>The barge moved slowly along the canal. </I><B>| on a/the ~ </B><I>sailing on the canal </I> </P>
+</DIV>

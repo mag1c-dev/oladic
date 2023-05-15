@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>interference </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> undue, unwarranted | gross </B><I>I will not tolerate such gross interference. </I><B>| bureaucratic, government, political, state | external, outside </B> </P>
+<P> <U> VERB + INTERFERENCE </U><B> avoid, prevent </B><I>The law is designed to prevent interference by local police. </I><B>| tolerate | brook no </B><I>My boss said she would brook no interference from other departments. </I> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>I told her I wanted to make decisions without interference from her. </I><B>| ~ in </B><I>political interference in the legal process </I><B>| ~ with </B><I>interference with proper medical procedures </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>artist </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who creates works of art </TT> </P>
+<P> <U> ADJ. </U><B> gifted, great, talented | distinguished, established, famous, leading, major, successful, well-known | aspiring, budding, up-and-coming | struggling, unknown | amateur, professional | self-taught | serious </B><I>He is a serious artist, and totally committed to his work. </I><B>| local | female, woman | male | creative | real, true </B><I>(figurative) My husband is a real artist in the kitchen. </I><B>| abstract, avant-garde, commercial, conceptual, figurative, fine, graffiti, graphic, landscape, make-up, pavement, performance, pop/popular, scenic, visual, war, watercolour, wildlife | contemporary, living, modern, nineteenth-century, etc. </B> </P>
+<P> <U> VERB + ARTIST </U><B> commission </B><I>In 1942 the city commissioned war artist John Piper to paint its bombed cathedral. </I><B>| feature </B><I>an exhibition featuring wildlife artist Emma Gray </I> </P>
+<P> <U> ARTIST + VERB </U><B> create sth, draw (sth), paint (sth), produce sth </B><I>an artist who paints in oils </I><B>| work </B><I>artists who work in different media </I><B>| exhibit sth, show sth </B><I>Local watercolour artists are currently exhibiting their work in the town hall. </I> </P>
+<P> <U> PHRASES </U><B> an artist in residence </B><I>the new artist in residence at the Tate Gallery </I> </P>
+<P> <SUP> 2 </SUP> <TT> (</B><I>also </I><B>artiste</B>) a professional entertainer </TT> </P>
+<P> <U> ADJ. </U><B> guest </B><I>The Blue Note Quartet will be the guest artists tomorrow night. </I><B>| solo | recording | cabaret, escape, mime, music hall, rap, reggae, trapeze, variety </B> </P>
+<P> <U> VERB + ARTIST </U><B> feature </B><I>The festival featured artists such John Mclaughlin and Russell Malone. </I> </P>
+<P> <U> ARTIST + VERB </U><B> perform (sth) | work </B></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

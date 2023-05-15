@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>railway </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> mainline | high-speed | disused | narrow gauge, standard gauge | miniature </B><I>A miniature railway runs around the park. </I><B>| model | funicular, overhead </B><I>Tourists can take the funicular railway to the top of the mountain. </I><B>| private, regional, state | electric, steam </B> </P>
+<P> <U> VERB + RAILWAY </U><B> manage, operate, run | nationalize, privatize | build, construct | close, open </B> </P>
+<P> <U> RAILWAY + VERB </U><B> run | carry sth </B><I>The railways carry millions of tons of freight every year. </I> </P>
+<P> <U> RAILWAY + NOUN </U><B> carriage, coach, train, wagon | station, terminus | platform | ticket | ticket office | timetable | service | connection | journey, travel </B><I>the pleasures of railway travel </I><B>| passenger, traveller | employee, porter, staff, worker | architect, engineer | authorities, company | network, system | line, track | junction, sidings | bridge, tunnel, viaduct | enthusiast </B><I>He is a lifelong railway enthusiast. </I><B>| accident | age </B><I>Such speed of travel was unimaginable before the railway age. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>doing maintenance work on the railway He works on the railways. </I><B>| ~ between </B><I>the railway between Funchal and Monte </I><B>| ~ from, ~ to</B> </P>
+</DIV>

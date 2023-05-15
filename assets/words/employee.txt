@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>employee </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> salaried | full-time, part-time | permanent, temporary | retired | junior, senior | key | long-serving, loyal | potential, prospective | manual | skilled, unskilled | blue-collar, white-collar </B> </P>
+<P> <U> VERB + EMPLOYEE </U><B> have </B><I>The company has only 60 employees. </I><B>| recruit | dismiss, lay off, make redundant, sack </B><I>a fair reason for dismissing an employee The company made hundreds of employees redundant. </I> </P>
+<P> <U> EMPLOYEE + VERB </U><B> join sth | work </B><I>employees who work more than 20 hours per week </I><B>| leave | earn sth </B> </P>
+<P> <U> EMPLOYEE + NOUN </U><B> benefits </B><I>In addition to a competitive salary, the company offers attractive employee benefits. </I><B>| status </B><I>Freelance workers do not enjoy the benefits of employee status. </I><B>| relations</B> </P>
+</DIV>

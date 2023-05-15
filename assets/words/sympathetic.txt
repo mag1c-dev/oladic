@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>sympathetic </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> showing you understand sb's feelings </TT> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, seem, sound | become | find sb </B><I>I found the doctors quite sympathetic. </I> </P>
+<P> <U> ADV. </U><B> deeply, extremely, genuinely, immensely, truly, very </B><I>a patient and deeply sympathetic man He sounded genuinely sympathetic. </I><B>| largely | fairly, pretty, quite | suitably </B><I>She made suitably sympathetic noises down the phone. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>My boss is being very sympathetic about my problems. </I><B>| to </B><I>They were extremely sympathetic to my plight. </I><B>| towards </B><I>I did not feel sympathetic towards them. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in agreement with sb/sth </TT> </P>
+<P> <U> VERBS </U><B> appear, be, seem </B> </P>
+<P> <U> ADV. </U><B> deeply, extremely, highly, very | entirely | less than | broadly, generally, quite | politically </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The government is broadly sympathetic to our ideas. </I> </P>
+</DIV>

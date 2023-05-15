@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>outlay </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, huge, large, massive | modest, small | initial </B><I>The revenue from the farm could repay the initial outlay within three years. </I><B>| total | capital, cash, financial, investment </B> </P>
+<P> <U> VERB + OUTLAY </U><B> make | require </B><I>The project would require little financial outlay. </I><B>| recoup, recover | repay </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>The railway had made a considerable capital outlay on new rolling stock. </I> </P>
+</DIV>

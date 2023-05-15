@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>barley </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> malted/malting </B><I>Malt whisky is made from malted barley. </I><B>| roast/roasted | pearl | spring, winter </B> </P>
+<P> <U> QUANT. </U><B> ear | field </B> </P>
+<P> <U> VERB + BARLEY </U><B> grow | sow | cut, harvest | thresh | grind </B> </P>
+<P> <U> BARLEY + VERB </U><B> grow | ripen </B> </P>
+<P> <U> BARLEY + NOUN </U><B> harvest | field</B> </P>
+</DIV>

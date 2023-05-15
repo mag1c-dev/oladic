@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>direct </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>He asked me some very direct questions. </I><B>| fairly, quite, rather </B><I>Her manner can be rather direct. </I><B>| disconcertingly </B><I>his disconcertingly direct gaze </I> </P>
+</DIV><DIV class="item"><P class="word"><B>direct </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> mainly, primarily, principally </B><I>Tax cuts have been directed primarily at the better-off. </I><B>| clearly | straight </B><I>He directed the torch straight in her face. </I><B>| specifically </B> </P>
+<P> <U> PREP. </U><B> against </B><I>anger directed specifically against ethnic minorities </I><B>| at </B><I>criticism clearly directed at the Labour Party </I><B>| away from </B><I>directing attention away from the real issues </I><B>| onto </B><I>The machine directs light onto a special film. </I><B>| to </B><I>I directed my question to the chairman. </I><B>| towards </B><I>We are directing our efforts towards helping young people. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>cutting </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece cut out from a newspaper </TT> </P>
+<P> <U> ADJ. </U><B> newspaper, press </B><I>She had kept all the press cuttings about the murder. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a cutting from &lsquo;The Guardian&rsquo; </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece cut off from a plant </TT> </P>
+<P> <U> ADJ. </U><B> leaf, root, stem </B> </P>
+<P> <U> VERB + CUTTING </U><B> take </B> </P>
+<P> <U> CUTTING + VERB </U><B> root, take </B><I>After about four weeks you will be able to see whether the cuttings have taken. </I> </P>
+<P> <U> PREP. </U><B> from a/the ~ </B><I>These plants are easy to propagate from leaf cuttings. </I><B>| ~ from </B><I>Take cuttings from mature plants in the spring. </I> </P>
+</DIV>

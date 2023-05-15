@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>renovation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> extensive, major </B><I>The building has undergone major renovation. </I><B>| complete, full-scale, total | house </B> </P>
+<P> <U> VERB + RENOVATION </U><B> carry out </B><I>The council is to carry out extensive renovations to the building. </I><B>| complete | be in need of, need, require </B><I>The old Victorian house is in need of renovation. </I><B>| be closed for </B><I>The gallery is closed for renovation. </I><B>| undergo </B> </P>
+<P> <U> RENOVATION + NOUN </U><B> work | programme </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>renovation to the town hall </I> </P>
+</DIV>

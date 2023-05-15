@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>correlate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> closely, highly, significantly, strongly, well | positively | inversely, negatively </B> </P>
+<P> <U> VERB + CORRELATE </U><B> be found to, be shown to </B><I>High morale among staff was found to correlate positively with productivity. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Property values are negatively correlated to the tax rate. </I><B>| with </B><I>The average speed of the vehicles correlates closely with the severity of the accident caused. </I> </P>
+</DIV>

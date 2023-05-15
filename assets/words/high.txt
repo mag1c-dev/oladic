@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>high </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> high level or point </TT> </P>
+<P> <U> ADJ. </U><B> all-time, new, record </B> </P>
+<P> <U> VERB + HIGH </U><B> hit, reach </B><I>Share prices reached an all-time high yesterday. </I> </P>
+<P> <SUP> 2 </SUP> <TT> feeling of great pleasure or happiness </TT> </P>
+<P> <U> ADJ. </U><B> real, tremendous | emotional </B> </P>
+<P> <U> VERB + HIGH </U><B> experience, get </B><I>the high she got from cocaine </I><B>| give sb </B><I>The drug gives you a tremendous high. </I> </P>
+<P> <U> PREP. </U><B> on a ~ </B><I>She's been on a real high since she got her exam results. This show is our swansong?we want to finish on a high. </I> </P>
+<P> <U> PHRASES </U><B> the highs and lows </B><I>the emotional highs and lows of an actor's life </I> </P>
+</DIV>

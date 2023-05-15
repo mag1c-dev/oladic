@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>selection </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> process of choosing/being chosen </TT> </P>
+<P> <U> ADJ. </U><B> careful | random | initial | final | jury, team | natural, sexual </B><I>Natural selection is a key element of Darwin's theory of evolution. </I> </P>
+<P> <U> VERB + SELECTION </U><B> make </B><I>She took a long time to make her selection. </I><B>| win </B><I>She hopes to win selection for the Olympic 800 metres team. </I> </P>
+<P> <U> SELECTION + NOUN </U><B> criteria, policy | procedure, process | board, committee, panel </B> </P>
+<P> <U> PREP. </U><B> ~ as </B><I>his selection as candidate for the Green Party </I><B>| ~ for </B> </P>
+<P> <SUP> 2 </SUP> <TT> number of people/things that have been chosen </TT> </P>
+<P> <U> ADJ. </U><B> varied, wide | random </B><I>We interviewed a random selection of teenagers. </I><B>| representative | judicious, well-chosen | final </B><I>The final selection of winners will be announced at the end of the event. </I> </P>
+<P> <U> PREP. </U><B> ~ from, ~ of </B><I>a selection of hits from well-known musicals </I> </P>
+<P> <SUP> 3 </SUP> <TT> collection of goods in a shop, etc. that are for sale </TT> </P>
+<P> <U> ADJ. </U><B> comprehensive, extensive, huge, large, vast, wide | limited, small | excellent, fine, good, great, interesting, superb </B> </P>
+<P> <U> VERB + SELECTION </U><B> offer </B><I>The shop offers a wide selection of wines. </I><B>| choose from </B> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV>

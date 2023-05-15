@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>draught </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cold, icy </B><I>A cold draught of air blew in from the open window. </I> </P>
+<P> <U> VERB + DRAUGHT </U><B> create | prevent </B> </P>
+<P> <U> DRAUGHT + VERB </U><B> blow, come, whistle </B><I>a draught coming under the door </I> </P>
+<P> <U> DRAUGHT + NOUN </U><B> excluder, proofing </B><I>Fit draught excluders to the bottoms of doors. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>the draught from the window </I> </P>
+<P> <U> PHRASES </U><B> a draught of air</B> </P>
+</DIV>

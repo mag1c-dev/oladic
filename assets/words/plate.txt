@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>plate </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for food </TT> </P>
+<P> <U> ADJ. </U><B> dessert, dinner, serving, side, soup | clean, dirty </B><I>The sink was full of dirty plates. </I><B>| empty, full </B> </P>
+<P> <U> VERB + PLATE </U><B> clear, empty </B><I>I could see how hungry she was from the way she cleared her plate. </I><B>| clear (away), collect </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She ate everything on her plate. </I><B>| ~ of </B><I>a plate of rice </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of metal with writing on </TT> </P>
+<P> <U> ADJ. </U><B> licence, number </B><I>The driver was arrested for having false number plates on his car. </I><B>| name </B><I>He read the brass name plate by the door. </I> </P>
+</DIV>

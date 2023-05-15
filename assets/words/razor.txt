@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>razor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> open | blunt | cut-throat, disposable, electric, safety </B> </P>
+<P> <U> VERB + RAZOR </U><B> cut sb/sth with, shave with, slash sb/sth with, use </B><I>We used a razor to cut the string. </I><B>| be armed with </B><I>He was armed with a cut-throat razor. </I> </P>
+<P> <U> RAZOR + NOUN </U><B> blade | wire </B> </P>
+<P> <U> PREP. </U><B> with a/the ~ </B><I>He slashed his wrists with a razor. </I> </P>
+</DIV>

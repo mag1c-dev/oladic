@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>certainty </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute, complete | reasonable, virtual </B><I>It's a virtual certainty that petrol will go up in price. </I> </P>
+<P> <U> QUANT. </U><B> degree </B><I>It's difficult to predict with any degree of certainty how much it will cost. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>I couldn't say with absolute certainty that he's here. </I> </P>
+<P> <U> PHRASES </U><B> a lack of certainty </B><I>There seems to be a lack of certainty over what we should do. </I><B>| the one/only certainty </B><I>The one certainty left in a changing world is death. </I> </P>
+</DIV>

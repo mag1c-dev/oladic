@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>extreme </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, seem, sound | become </B> </P>
+<P> <U> ADV. </U><B> very | a bit, fairly, a little, quite, rather, somewhat </B><I>Some of his views seem rather extreme. </I><B>| dangerously | politically </B> </P>
+<P> <U> PHRASES </U><B> at its most extreme </B><I>This is hero-worship at its most extreme. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>extreme </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> opposite, polar </B><I>Their views are at opposite extremes from each other. </I><B>| climatic, political, temperature </B><I>It's a difficult place to live because of its climatic extremes. </I> </P>
+<P> <U> VERB + EXTREME </U><B> avoid </B><I>Avoid any extremes of emotional behaviour. </I><B>| go to </B><I>He went to the extreme of adulation, describing Churchill as the greatest man who ever lived. </I><B>| carry sth to, take sth to </B><I>It's foolish to take any dieting to extremes. </I> </P>
+<P> <U> PREP. </U><B> at an/the </B><I>At the extreme, some nuclear waste is so radioactive it has to be kept isolated for thousands of years. </I><B>| between ~s </B><I>There has to be a solution between these extremes. </I><B>| in the ~ </B><I>His voice was scornful in the extreme. </I><B>| to the ~ </B><I>She was always kindly and generous to the extreme. </I><B>| ~s of </B><I>These photographs show extremes of obesity and emaciation. </I> </P>
+<P> <U> PHRASES </U><B> at one extreme, at the other extreme </B><I>At the other extreme, women still childless at 32 were more likely to be from a professional background. </I><B>| go from one extreme to the other </B><I>She goes from one extreme to the other, and either works very hard or does absolutely nothing. </I> </P>
+</DIV>

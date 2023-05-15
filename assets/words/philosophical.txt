@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>philosophical </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> of philosophy </TT> </P>
+<P> <U> VERBS </U><B> be | become, get </B><I>The debate was getting too philosophical for me. </I> </P>
+<P> <U> ADV. </U><B> purely </B><I>a purely philosophical argument </I><B>| rather </B> </P>
+<P> <SUP> 2 </SUP> <TT> calm and accepting </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>Try to be philosophical about it. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> very | quite </B> </P>
+<P> <U> PREP. </U><B> about </B><I>Mum's being quite philosophical about the whole thing. </I> </P>
+</DIV>

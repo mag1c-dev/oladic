@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>snooker </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> professional </B> </P>
+<P> <U> QUANT. </U><B> frame, game </B><I>We played a couple of frames of snooker in the evening. </I> </P>
+<P> <U> VERB + SNOOKER </U><B> play </B> </P>
+<P> <U> SNOOKER + NOUN </U><B> ball, cue, table | ace, champion, player, star | club, hall, room | match, tournament | league </B></B> </P>
+</DIV>

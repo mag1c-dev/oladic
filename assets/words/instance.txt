@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>instance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> countless, innumerable, numerous | occasional, rare | isolated | (any) given, particular, specific </B><I>Further information is required to determine the correct answer in any given instance. </I><B>| extreme | striking | classic </B><I>This is a classic instance of Dostoevsky's writing operating on two levels. </I> </P>
+<P> <U> VERB + INSTANCE </U><B> give, provide </B><I>North America provides the most striking instance of European settlement on a grand scale. </I><B>| cite (sth as), take </B><I>Experts cite the country as an instance where human rights violations could lead to international intervention. To take a particular instance of this problem: &hellip; </I><B>| recall </B><I>I cannot recall any other instance in modern times in which a huge and mighty state crumbled to dust. </I> </P>
+<P> <U> INSTANCE + VERB </U><B> occur </B><I>An instance of this controversy occurred last year. </I><B>| show sth </B><I>This instance shows how important it is to check that the machine is working properly before you use it. </I> </P>
+<P> <U> PREP. </U><B> for ~ </B>(= for example) <I>Murder, petty theft and tax evasion, for instance, all have different motives and consequences. </I><B>| in &hellip; ~ </B><I>In one instance, several people had their mobile phones stolen. It is not always helpful to draw analogies between sexism and racism, but in this instance it is useful. </I><B>| ~ of </B><I>This is an instance of his general attitude to his employees. </I> </P>
+<P> <U> PHRASES </U><B> in the first instance </B><I>(formal) In the first instance, a letter from your employer may be all you need. </I> </P>
+</DIV>

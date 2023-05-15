@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>density </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | average </B><I>an average density of 2.4 people per hectare </I><B>| population, traffic </B><I>The population density in this city is very high. </I> </P>
+<P> <U> VERB + DENSITY </U><B> calculate, measure </B> </P>
+<P> <U> DENSITY + VERB </U><B> change, vary | increase, rise | decrease, fall</B> </P>
+</DIV>

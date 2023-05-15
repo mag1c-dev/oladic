@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>garage </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for keeping cars in </TT> </P>
+<P> <U> ADJ. </U><B> double, single | detached, integral, lean-to, lock-up | underground | bus </B> </P>
+<P> <U> GARAGE + NOUN </U><B> door </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Don't forget to put the car in the garage. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for repairing cars/buying petrol </TT> </P>
+<P> <U> ADJ. </U><B> local </B> </P>
+<P> <U> VERB + GARAGE </U><B> own, run | take sth to </B><I>I took the car to the local garage to get it fixed. </I> </P>
+<P> <U> GARAGE + NOUN </U><B> mechanic, owner </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The car's still at the garage. </I> </P>
+</DIV>

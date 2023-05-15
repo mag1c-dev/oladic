@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tourism </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> international, overseas | mass, package | expanding, increased | eco-friendly, ecological, environmental, green, sustainable | farm </B> </P>
+<P> <U> VERB + TOURISM </U><B> boost, increase, promote | be dependent upon, depend on, rely on </B><I>The islands' economy is largely dependent upon tourism. </I> </P>
+<P> <U> TOURISM + VERB </U><B> boom, increase </B><I>With the advent of the railways, tourism boomed. </I><B>| decline, fall, slump </B> </P>
+<P> <U> TOURISM + NOUN </U><B> business, enterprise, industry, market, sector | development, promotion | strategy | officer | potential </B><I>The city is finally realizing its tourism potential. </I> </P>
+<P> <U> PREP. </U><B> through ~ </B><I>The town survives mainly through tourism. </I> </P>
+<P> <U> PHRASES </U><B> a decline/downturn/drop in tourism, the development/promotion of tourism, earnings/income/revenue from tourism, the growth in/of tourism, the impact of tourism, an increase/a rise in tourism</B> </P>
+</DIV>

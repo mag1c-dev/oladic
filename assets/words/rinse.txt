@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>rinse </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good | final | cold </B> </P>
+<P> <U> VERB + RINSE </U><B> give sth </B><I>Give your hair a good rinse after shampooing it. </I> </P>
+<P> <U> PREP. </U><B> ~ in/with </B><I>a rinse with cold water </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rinse </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> well | thoroughly </B><I>Always rinse your hair thoroughly. </I><B>| quickly | away, off, out </B><I>She rinsed out her coffee cup. Make sure you rinse all the soap out. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>rinsing the flour from his hands </I><B>| in </B><I>She rinsed her hands in cold water. </I><B>| with </B><I>Rinse the dishes with warm water. </I> </P>
+</DIV>

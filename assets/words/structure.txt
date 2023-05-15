@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>structure </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> basic, simple | complex, elaborate | coherent, logical | rigid, stable | flimsy </B><I>The flimsy structure of the vehicle could not withstand even mild impacts. </I><B>| formal | internal | solid, three-dimensional | anatomical, body, bone, skeletal/skeleton | atomic, cell/cellular, chemical, molecular | grammatical, language, linguistic, sentence, syntactic | administrative, bureaucratic, committee, control, corporate, hierarchical, institutional, management, organizational, power, etc. | economic, financial, political, social, etc. </B><I>the social structure of the village </I><B>| democratic, federal, etc. | class | family, household | pay, price, salary, tax, wage | career </B> </P>
+<P> <U> VERB + STRUCTURE </U><B> have | lack </B><I>The job lacked a basic career structure. </I><B>| be based on | create, devise, establish </B><I>to devise a new management structure </I><B>| impose </B> </P>
+<P> <U> STRUCTURE + VERB </U><B> be based on sth </B> </P>
+<P> <U> PREP. </U><B> of a &hellip; ~ </B><I>The cell walls of plants are of a fairly rigid structure. </I><B>| &hellip; in ~ </B><I>The building is very simple in structure. </I><B>| in a/the ~ </B><I>There are weaknesses in the structure of the organization. </I><B>| ~ in/within </B><I>the salary structure in the firm </I> </P>
+<P> <U> PHRASES </U><B> a change in structure, a change in/to the structure </B><I>significant changes in the power structure </I><B>| a lack of structure </B><I>The novel suffers from a lack of structure. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>structure </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> beautifully, carefully, clearly, neatly, properly, well </B><I>She had structured her arguments very carefully. </I><B>| badly | loosely </B><I>a very loosely structured organization </I><B>| rigidly, tightly | hierarchically, logically </B> </P>
+<P> <U> PREP. </U><B> according to </B><I>the idea that living organisms had been structured according to a divine plan </I><B>| around </B><I>The teaching is structured around three topics. </I><B>| into </B><I>The company is structured into two divisions. </I> </P>
+<P> <U> PHRASES </U><B> highly structured </B><I>a complex but highly structured complaints procedure </I> </P>
+</DIV>

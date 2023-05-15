@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ingenuity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great | intellectual, technical | human </B> </P>
+<P> <U> QUANT. </U><B> amount, degree </B><I>Getting out of this mess was going to require a fair degree of ingenuity. </I> </P>
+<P> <U> VERB + INGENUITY </U><B> have </B><I>someone who has the ingenuity to solve problems </I><B>| apply, use </B><I>There is always a solution, so long as you are prepared to use your ingenuity. </I><B>| display, show </B><I>The children showed a lot of ingenuity. </I><B>| admire | call for, need, require, take </B><I>Considerable ingenuity is needed to minimize costs. It didn't take much ingenuity to transform the door into a table. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>They adapted the available materials with great ingenuity. </I><B>| ~ in </B><I>We have to admire his ingenuity in redesigning the machinery. </I> </P>
+</DIV>

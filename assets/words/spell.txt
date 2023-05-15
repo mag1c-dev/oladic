@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>spell </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> period of time </TT> </P>
+<P> <U> ADJ. </U><B> lengthy, long, prolonged | brief, short | 5-minute, 10-day, etc. | good | bad </B><I>He's going through a bit of a bad spell at the moment. </I><B>| quiet | barren, lean </B><I>Viera ended his barren spell with a goal against Parma. </I><B>| cold, dry, hot, mild, sunny, warm, wet </B> </P>
+<P> <U> VERB + SPELL </U><B> go through, have </B> </P>
+<P> <U> PREP. </U><B> during a &hellip; ~ </B><I>She managed to write a letter during a quiet spell at work. </I><B>| ~ as </B><I>He had a brief spell as ambassador to Turkey. </I> </P>
+<P> <U> PHRASES </U><B> a spell of &hellip; weather </B><I>a spell of sunny weather </I><B>| a spell of unemployment </B> </P>
+<P> <SUP> 2 </SUP> <TT> magical effect </TT> </P>
+<P> <U> ADJ. </U><B> magic, magical | powerful | hypnotic </B><I>the hypnotic spell of the crickets singing in the garden </I> </P>
+<P> <U> VERB + SPELL </U><B> be/come/fall under | cast, put, weave </B><I>The witch cast a spell on/over them. </I><B>| break, remove </B><I>She uttered the magic word, and the spell was broken. </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>Sleeping Beauty was under a spell when the prince found her. </I><B>| under sb's ~ </B><I>The audience was completely under his spell. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>spell </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> correctly, wrongly </B> </P>
+<P> <U> PREP. </U><B> as </B><I>The article spelled &lsquo;survey&rsquo; as &lsquo;servay&rsquo;. </I><B>| with </B><I>Is &lsquo;necessary&rsquo; spelt with one &lsquo;s&rsquo;, or two? </I><B>PHRASAL VERBS spell sth out </B> </P>
+<P> <U> ADV. </U><B> clearly | fully, in detail | exactly, precisely </B><I>She spelled out precisely what she wanted. </I> </P>
+<P> <U> VERB + SPELL </U><B> have to, need to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>Do I really have to spell it out for you? </I><B>| to </B><I>His speech spelled out a clear message to the car industry. </I> </P>
+</DIV>

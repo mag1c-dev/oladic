@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>usefulness </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> limited, some | general | practical | potential </B> </P>
+<P> <U> VERB + USEFULNESS </U><B> have | increase | diminish, limit, reduce </B><I>Badly written questions limit the usefulness of questionnaires. </I><B>| assess, evaluate, question | demonstrate, prove | exhaust, outlive </B><I>The advisory group has outlived its usefulness. </I> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>The theory is of limited usefulness. </I><B>| ~ for </B><I>the exam's usefulness for ranking students </I><B>| ~ in </B><I>the drug's usefulness in the treatment of cancer </I><B>| ~ to </B><I>The report is of potential usefulness to the government. </I> </P>
+</DIV>

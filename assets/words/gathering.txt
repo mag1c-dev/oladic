@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>gathering </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> meeting </TT> </P>
+<P> <U> ADJ. </U><B> big, large | small | informal, private, public | illegal | family, political, religious, social </B> </P>
+<P> <U> VERB + GATHERING </U><B> attend, go to </B><I>Women are not allowed to attend public gatherings. </I><B>| have, hold, organize </B><I>We're having a small family gathering to mark our wedding anniversary. </I><B>| address </B> </P>
+<P> <U> GATHERING + VERB </U><B> take place </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The prime minister addressed a gathering of local government officials. </I> </P>
+<P> <U> PHRASES </U><B> a gathering of the clan/clans </B><I>(humorous) All the children and grandchildren are going to my parents' at Christmas for the annual gathering of the clan. </I> </P>
+<P> <SUP> 2 </SUP> <TT> collecting </TT> </P>
+<P> <U> ADJ. </U><B> information, intelligence</B> </P>
+</DIV>

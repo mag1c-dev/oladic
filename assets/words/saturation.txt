@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>saturation </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> market </b></div></p>
+<p> <u> VERB + SATURATION </u><div class="ex"><b> approach, be close to </b></div><div class="excontent"><i>The company's sales are now close to saturation in many western countries. </i></div><div class="ex"><b>| reach </b></div></p>
+<p> <u> SATURATION + NOUN </u><div class="ex"><b> level, point </b></div><div class="excontent"><i>Demand for the product has reached saturation point. </i></div><div class="ex"><b>| coverage </b></div><div class="excontent"><i>television's saturation coverage of the World Cup </i></div><div class="ex"><b>| bombing</b></div></p>
+</div>

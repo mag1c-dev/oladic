@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>void </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | make sth, render sth </B><I>an impediment which rendered the marriage void </I><B>| declare sth </B> </P>
+<P> <U> PHRASES </U><B> null and void </B><I>The election was declared null and void. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>void </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, massive | aching | black </B> </P>
+<P> <U> VERB + VOID </U><B> leave | fill </B><I>It seemed that nothing could fill the aching black void left by Rachel's death. </I> </P>
+</DIV>

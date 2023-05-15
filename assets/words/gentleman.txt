@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>gentleman </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> man who is polite/behaves well towards others </TT> </P>
+<P> <U> ADJ. </U><B> perfect, real, true </B><I>He's a real gentleman, always kind and considerate. </I> </P>
+<P> <U> PHRASES </U><B> be no gentleman </B><I>He may be a lord, but he's no gentleman. </I><B>| too much of a gentleman </B><I>He was too much of a gentleman to ask them for any money. </I> </P>
+<P> <SUP> 2 </SUP> <TT> rich man with a high social position </TT> </P>
+<P> <U> ADJ. </U><B> country, landed </B><I>He retired to his estate in Norfolk, and lived the life of a country gentleman. </I> </P>
+<P> <U> GENTLEMAN + NOUN </U><B> farmer</B> </P>
+</DIV>

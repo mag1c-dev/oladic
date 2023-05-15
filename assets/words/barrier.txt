@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>barrier </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fence/gate </TT> </P>
+<P> <U> ADJ. </U><B> physical | crash, crush, flood, police, protective, security, ticket | sound </B><I>(figurative) the first plane to break the sound barrier </I> </P>
+<P> <U> VERB + BARRIER </U><B> build, erect, install | break through </B><I>The crowd managed to break through the barriers and get onto the pitch. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>Please show your ticket at the barrier. </I><B>| behind a/the ~ </B><I>The police waited behind the barriers. </I><B>| through a/the ~ </B><I>There was a slow trickle of people through the barriers. </I> </P>
+<P> <SUP> 2 </SUP> <TT> thing that causes problems </TT> </P>
+<P> <U> ADJ. </U><B> effective, formidable, major | class, cultural, language, racial, trade </B> </P>
+<P> <U> VERB + BARRIER </U><B> build, create, erect, put up, set up </B><I>The old laws created barriers to free trade. </I><B>| break down, lift, lower, reduce, remove | cross </B><I>They believe that sport can cross any barriers. </I><B>| be faced with, encounter, face | overcome, transcend </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The country has set up barriers against imports. </I><B>| ~ between </B><I>a class barrier between the two families </I><B>| ~ to </B><I>a formidable barrier to communication </I> </P>
+<P> <SUP> 3 </SUP> <TT> physical object that prevents sb/sth passing </TT> </P>
+<P> <U> ADJ. </U><B> impassable, impenetrable | natural </B> </P>
+<P> <U> VERB + BARRIER </U><B> form </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>The mountains form a natural barrier between the two countries. </I> </P>
+</DIV>

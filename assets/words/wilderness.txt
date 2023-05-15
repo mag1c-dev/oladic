@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>wilderness </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> last | great | barren, desert, desolate | frozen | uncharted | unspoilt | political </B><I>(figurative) the man who brought the party back from the political wilderness </I> </P>
+<P> <U> VERB + WILDERNESS </U><B> transform </B><I>They transformed the wilderness into a garden. </I><B>| explore </B><I>They set out to explore the earth's last great wilderness, Antarctica. </I> </P>
+<P> <U> WILDERNESS + NOUN </U><B> years </B><I>(figurative) His wilderness years </I>(= when he was out of politics and the public eye) </B><I>in the 1990s were spent in North America. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>We were hopelessly lost in the wilderness. </I> </P>
+</DIV>

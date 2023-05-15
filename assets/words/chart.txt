@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>chart </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> diagram showing information </TT> </P>
+<P> <U> ADJ. </U><B> bar, flow, pie | flip, wall </B><I>Each classroom has a flip chart to write on. </I><B>| organization, progress, weather </B> </P>
+<P> <U> CHART + VERB </U><B> give sth, show sth </B><I>a bar chart showing how sales have increased </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the information given in the chart </I><B>| on a/the ~ </B><I>The percentage of school-leavers is shown on the chart. </I> </P>
+<P> <SUP> 2 </SUP> <TT> detailed map of the sea/sky </TT> </P>
+<P> <U> ADJ. </U><B> aviation, nautical, navigation </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>The islands were not marked on their chart. </I></P>
+<P> <SUP> 3 </SUP> <TT> the charts: list of pop music records  </TT> </P>
+<P> <U> ADJ. </U><B> album, pop, singles </B> </P>
+<P> <U> VERB + CHART </U><B> enter, go into, hit </B><I>Their single went straight into the charts at number one. His latest single hit the charts last week. </I><B>| be top of, top </B><I>The song topped the charts for three weeks. </I> </P>
+<P> <U> CHART + NOUN </U><B> hit </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>Is that song still in the charts? </I> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>fracture </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fatigue, stress </B><I>He suffered a stress fracture of the right foot. </I><B>| hairline | compound, depressed, double, multiple, simple, spiral | hip, leg, skull, spinal, etc. </B> </P>
+<P> <U> VERB + FRACTURE </U><B> suffer, sustain</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>spray </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine, light | salt, sea </B> </P>
+<P> <U> QUANT. </U><B> cloud, plume </B><I>The boat sent a cloud of spray up behind it. </I> </P>
+<P> <U> VERB + SPRAY </U><B> send (up), throw (up) </B> </P>
+<P> <U> SPRAY + VERB </U><B> fly (up) </B><I>Spray flew up onto the rocks. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a spray of salt water </I> </P>
+</DIV>

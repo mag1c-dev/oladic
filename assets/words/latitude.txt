@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>latitude </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> geographical position </TT> </P>
+<P> <U> ADJ. </U><B> high, low | northern, southern | polar, temperate </B><I>These birds only survive in temperate latitudes. </I> </P>
+<P> <U> VERB + LATITUDE </U><B> calculate, determine </B> </P>
+<P> <U> PHRASES </U><B> a line of latitude </B> </P>
+<P> <SUP> 2 </SUP> <TT> freedom </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great </B> </P>
+<P> <U> QUANT. </U><B> degree </B><I>Some degree of latitude is required in interpreting the law on this point. </I> </P>
+<P> <U> VERB + LATITUDE </U><B> allow (sb), give sb </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>This method allows very little latitude for error. </I><B>| ~ in </B><I>Nowadays, newspapers are allowed considerable latitude in criticizing the government. </I> </P>
+</DIV>

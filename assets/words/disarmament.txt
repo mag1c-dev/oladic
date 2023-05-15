@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>disarmament </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> nuclear </B><I>They campaigned for nuclear disarmament. </I><B>| international, multilateral </B><I>The party supports multilateral disarmament. </I><B>| unilateral </B> </P>
+<P> <U> VERB + DISARMAMENT </U><B> campaign for | support </B> </P>
+<P> <U> DISARMAMENT + NOUN </U><B> negotiations, talks, treaty</B> </P>
+</DIV>

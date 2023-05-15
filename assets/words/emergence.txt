@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>emergence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gradual | rapid, sudden </B> </P>
+<P> <U> VERB + EMERGENCE </U><B> lead to </B><I>Conditions after the war led to the emergence of a new type of political party. </I><B>| herald, mark, signal | see, witness </B><I>The last decade saw the emergence of a dynamic economy. </I><B>| encourage </B><I>The annual competition has encouraged the emergence of several talented young musicians. </I><B>| prevent </B> </P>
+<P> <U> PREP. </U><B> ~ as </B><I>his emergence as the party's leader </I><B>| ~ from </B><I>the island's emergence from the sea </I> </P>
+</DIV>

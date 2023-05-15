@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>lift </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> machine for taking people/goods up and down </TT> </P>
+<P> <U> ADJ. </U><B> private, service </B><I>The hotel has a private lift linking it to the beach. </I><B>| baggage, goods, passenger, wheelchair | electric, hydraulic | basket, chair, gondola | ski </B> </P>
+<P> <U> VERB + LIFT </U><B> go down in, go up in/on, take </B><I>We took the lift down to the ground floor. </I><B>| operate </B> </P>
+<P> <U> LIFT + VERB </U><B> serve sth </B><I>The lift serves the top four floors of the building. </I><B>| arrive </B> </P>
+<P> <U> LIFT + NOUN </U><B> button | doors | shaft | attendant | pass </B><I>You'll need your lift pass for the ski lifts. </I> </P>
+<P> <SUP> 2 </SUP> <TT> free ride in a car, etc. </TT> </P>
+<P> <U> ADJ. </U><B> free </B> </P>
+<P> <U> VERB + LIFT </U><B> ask for, cadge, hitch, thumb </B><I>We stood by the roadside and thumbed a lift. </I><B>| give sb, offer sb | accept </B><I>Don't accept lifts from strangers. </I> </P>
+<P> <U> PHRASES </U><B> a lift back/home </B><I>He offered us a lift home. </I> </P>
+<P> <SUP> 3 </SUP> <TT> feeling of increased happiness/excitement </TT> </P>
+<P> <U> ADJ. </U><B> great, huge, real </B><I>Winning the semi-final gave the team a huge lift. </I> </P>
+<P> <U> VERB + LIFT </U><B> give sb | get</B> </P>
+</DIV><DIV class="item"><P class="word"><B>lift </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> raise/move sb/sth </TT> </P>
+<P> <U> ADV. </U><B> almost, half </B><I>Her hugged her, almost lifting her off the ground. </I><B>| fractionally, a little, slightly | slowly | sharply </B><I>Her head lifted sharply </I><B>| carefully, gently, gingerly </B><I>Carefully lift the cake off the tray and cool on a wire rack. </I><B>| bodily </B><I>She was lifted bodily aboard by two sailors. </I><B>| back, down, out, up </B><I>She lifted back the sheet. </I> </P>
+<P> <U> VERB + LIFT </U><B> can/could barely/hardly </B><I>The box was so heavy I could barely lift it. </I><B>| try to | manage to | be too heavy to </B> </P>
+<P> <U> PREP. </U><B> above </B><I>He stood, legs apart, arms lifted above his head. </I><B>| down </B><I>She leaned on him and he half lifted her down the stairs. </I><B>| from </B><I>He felt as if an enormous weight had been lifted from his shoulders. </I><B>| into </B><I>The heavy beams were lifted into place. </I><B>| off </B><I>She lifted the book up off the table. </I><B>| out of </B><I>He lifted the baby out of its cot. </I><B>| over </B><I>She lifted the child over the fence. </I><B>| to </B><I>Juliet nodded, lifting her face to David's. </I> </P>
+<P> <SUP> 2 </SUP> <TT> remove a law/rule </TT> </P>
+<P> <U> ADV. </U><B> completely | partially </B><I>The police managed to restore calm and the curfew was partially lifted. </I> </P>
+<P> <U> VERB + LIFT </U><B> agree to, decide to, vote to </B><I>The government decided to lift the ban on arms exports. </I><B>| refuse to</B> </P>
+</DIV>

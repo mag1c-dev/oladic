@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>ownership </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | sole | collective, common, joint, shared | new | legal | private | corporate | public, state | foreign | car, home, land </B> </P>
+<P> <U> VERB + OWNERSHIP </U><B> change, transfer </B><I>The shop has changed ownership several times. He transferred the legal ownership of his property to his children. </I><B>| pass into </B><I>The railways passed into public ownership. </I><B>| acquire, seize, take (over) | retain </B> </P>
+<P> <U> OWNERSHIP + VERB </U><B> pass </B><I>Ownership of the land passed from father to son. </I> </P>
+<P> <U> PREP. </U><B> under (the) ~ </B><I>The cafe is under new ownership. </I> </P>
+<P> <U> PHRASES </U><B> a change in ownership</B> </P>
+</DIV>

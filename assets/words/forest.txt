@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>forest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dense, thick | impenetrable | dark | native, natural | ancient, primeval, virgin | rain (also rainforest), tropical | coniferous, deciduous | beech, birch, pine, etc. </B> </P>
+<P> <U> QUANT. </U><B> stretch, tract </B><I>a large stretch of virgin forest </I> </P>
+<P> <U> VERB + FOREST </U><B> plant | chop down, clear, cut down, destroy </B><I>Forest is being cleared to make way for new farming land. </I><B>| be covered by/in/with </B><I>Much of Europe was once covered in forest. </I> </P>
+<P> <U> FOREST + VERB </U><B> stretch </B><I>Thick forest stretched as far as the eye could see. </I> </P>
+<P> <U> FOREST + NOUN </U><B> tree | floor | land | fire </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>They got lost in the forest. </I><B>| through a/the ~ </B><I>We slashed our way through the dense forest. </I> </P>
+<P> <U> PHRASES </U><B> the edge/heart/middle of the forest</B> </P>
+</DIV>

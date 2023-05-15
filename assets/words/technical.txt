@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>technical </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, sound | become, get </B><I>The conversation was getting a bit technical for me, so I left them to it. </I> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>A lot of the discussions were highly technical. </I><B>| purely </B><I>This is a purely technical problem. </I><B>| a bit, quite, rather, somewhat</B> </P>
+</DIV>

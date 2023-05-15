@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>subway </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pedestrian </B> </P>
+<P> <U> VERB + SUBWAY </U><B> take, use </B> </P>
+<P> <U> PREP. </U><B> along a/the ~, in a/the ~, through a/the ~ </B><I>He ran through the pedestrian subway. </I> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>ideology </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dominant | official | coherent </B><I>The party's policies were based on prejudice rather than on any coherent ideology. </I><B>| strong | cultural, economic, educational, political, religious | bourgeois, capitalist, communist, Marxist, revolutionary, socialist, etc. </B> </P>
+<P> <U> VERB + IDEOLOGY </U><B> have </B><I>The party had a Marxist ideology. </I><B>| adopt </B><I>They distanced themselves from the upper class and adopted a communist ideology. </I><B>| reject</B> </P>
+</DIV>

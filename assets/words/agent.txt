@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>agent </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> works in an agency </TT> </P>
+<P> <U> ADJ. </U><B> advertising, election, estate, insurance, land, letting, literary, managing, parliamentary, patent, press, publicity, travel | local </B><I>The company has developed sales through local agents in key markets. </I> </P>
+<P> <U> VERB + AGENT </U><B> employ, have, use </B><I>I have an agent who deals with all my contracts. </I><B>| appoint, engage, get (sb), hire </B><I>If you want to get published, get yourself an agent! </I><B>| act as | sack </B> </P>
+<P> <U> PREP. </U><B> through an ~ </B><I>She got the work through an agent. </I><B>| ~ for </B><I>an agent for a shipping company </I></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+<P> <SUP> 2 </SUP> <TT> spy </TT> </P>
+<P> <U> ADJ. </U><B> intelligence | enemy, foreign | federal, government | secret, undercover | double </B><I>As a double agent, he worked for the Americans and the Russians. </I> </P>
+<P> <U> VERB + AGENT </U><B> work as </B> </P>
+<P> <SUP> 3 </SUP> <TT> person/thing that has an effect </TT> </P>
+<P> <U> ADJ. </U><B> chief, main, primary, prime, principal | effective | human | moral, rational | free </B><I>I told him I couldn't stop him, he was a free agent. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The charity is an agent for social change. </I> </P>
+<P> <U> PHRASES </U><B> an agent for/of change</B> </P>
+
+</DIV>

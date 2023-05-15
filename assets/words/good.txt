@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>good </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, smell, sound, taste | become, get </B><I>She's getting quite good at reading now. </I> </P>
+<P> <U> ADV. </U><B> dead, extremely, really, very </B><I>a really good film </I><B>| fairly, pretty, quite </B><I>You've done a pretty good job. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He's very good at music. </I><B>| for </B><I>Vegetables are good for you. </I><B>| to </B><I>She was very good to me when my husband died. </I><B>| with </B><I>She's good with figures. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>good </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> common </B><I>The results of the research should be used for the common good rather than for individual profit. </I> </P>
+<P> <U> VERB + GOOD </U><B> do (sb) </B><I>You can try talking to her, but I don't think it will do much good. It will do you good to get out of the house more often. </I> </P>
+<P> <U> PREP. </U><B> for sb/sth's ~ </B><I>When the prime minister's health problems continued, he resigned for the good of the party. </I> </P>
+<P> <U> PHRASES </U><B> a force for good </B><I>In disadvantaged areas, schools can be a force for good. </I><B>| for sb's (own) good </B><I>I know you don't want to go into hospital, but it's for your own good. </I><B>| for the good of sth, good and evil </B><I>the struggle between good and evil </I><B>| a power of good </B><I>That holiday has done me a power of good. </I> </P>
+</DIV>

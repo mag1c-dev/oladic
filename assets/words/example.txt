@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>example </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that is typical/demonstrates a point </TT> </P>
+<P> <U> ADJ. </U><B> characteristic, classic, prime, representative, typical </B><I>This is a classic example of a badly designed building. </I><B>| excellent, fine, good, impressive, magnificent, outstanding, perfect, superb, wonderful </B><I>a magnificent example of sixteenth-century architecture </I><B>| fascinating, interesting, intriguing | notable, remarkable, striking | graphic, vivid | dramatic, extreme, spectacular | clear, obvious, simple, straightforward | blatant, flagrant, glaring </B><I>His treatment of his secretary was a blatant example of managerial arrogance. </I> <B>| familiar, famous, well-known | notorious | common | rare | much-quoted, oft-quoted, often-quoted </B><I>The oft-quoted example of Nero playing the violin as Rome burned shows the Emperor's detachment from reality. </I><B>| illustrative | helpful, illuminating, instructive, useful | practical </B><I>The book is full of practical examples of classroom activities. </I><B>| concrete </B><I>Let me give a concrete example of what I mean. </I><B>| hypothetical </B> </P>
+<P> <U> VERB + EXAMPLE </U><B> give sb, provide (sb with) </B><I>Let me give you a few examples of what I mean. </I><B>| contain, include </B><I>The leaflet includes several examples of bad grammar. </I><B>| cite, draw, take (sth as) </B><I>She illustrates her point with examples drawn from contemporary newspaper accounts. To take an obvious example, if there is a good harvest the price of grain will fall. </I><B>| find </B> </P>
+<P> <U> EXAMPLE + VERB </U><B> illustrate sth, show sth </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>A touring cyclist, for example, might turn the pedals 80 times a minute. </I><B>| in an/the ~ </B><I>The teacher in our example is clearly wrong. </I><B>| ~ of </B><I>We can still find examples of discrimination today. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb whose behaviour is good and should be copied </TT> </P>
+<P> <U> ADJ. </U><B> good, great, inspiring, shining </B><I>She is a shining example of how to organize your time. </I><B>| bad, poor </B> </P>
+<P> <U> VERB + EXAMPLE </U><B> set, show </B><I>You must set a good example to the children. </I><B>| follow </B><I>I think all schools should follow the example of this one. </I><B>| hold sb/sth up as </B><I>The film was held up as an example of good cinema. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Children learn by example. </I><B>| ~ to </B><I>His generosity is an example to us all. </I> </P>
+<P> <U> PHRASES </U><B> make an example of sb </B><I>The headmaster had made an example of him by scolding him in front of the whole school. </I> </P>
+</DIV>

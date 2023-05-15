@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>theatre </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> where you go to see plays, etc. </TT> </P>
+<P> <U> ADJ. </U><B> large | little, small | crowded, packed </B><I>The theatre was packed for the opening night. </I><B>| open-air | puppet </B><I>The pier has a unique little puppet theatre. </I> </P>
+<P> <U> VERB + THEATRE </U><B> go to, visit </B><I>I haven't been to the theatre for ages. </I> </P>
+<P> <U> THEATRE + NOUN </U><B> ticket | production | audience | manager, staff </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We were at the theatre last night. </I><B>| in a/the ~ </B><I>There's a bar in the theatre. </I> </P>
+<P> <SUP> 2 </SUP> <TT> drama </TT> </P>
+<P> <U> ADJ. </U><B> good, great </B><I>He writes the sort of dialogue that makes great theatre. </I><B>| live | amateur | commercial, professional | fringe, provincial, repertory </B><I>There was some good fringe theatre at the festival. </I><B>| classical, contemporary, experimental, modern, music/musical, popular | street </B><I>We saw some good street theatre while we were in Paris. </I><B>| community, youth | political </B><I>(often figurative) The Chancellor's speech was an absorbing piece of political theatre. </I> </P>
+<P> <U> QUANT. </U><B> piece </B> </P>
+<P> <U> VERB + THEATRE </U><B> study </B><I>He is studying Greek theatre. </I> </P>
+<P> <U> THEATRE + NOUN </U><B> studies | critic </B> </P>
+<P> <SUP> 3 </SUP> <TT> work of acting in/ producing plays </TT> </P>
+<P> <U> VERB + THEATRE </U><B> be in, work in | go into </B><I>He wants to go into the theatre when he finishes university. </I> </P>
+<P> <U> THEATRE + NOUN </U><B> director, producer | company, group </B> </P>
+<P> <SUP> 4 </SUP> <TT> in a hospital </TT> </P>
+<P> <U> ADJ. </U><B> operating </B> </P>
+<P> <U> VERB + THEATRE </U><B> take to </B><I>He's already been taken to theatre for the operation. </I> </P>
+<P> <U> THEATRE + NOUN </U><B> nurse, sister </B> </P>
+<P> <U> PREP. </U><B> in (the) ~ </B><I>She was in the operating theatre for two hours. </I> </P>
+</DIV>

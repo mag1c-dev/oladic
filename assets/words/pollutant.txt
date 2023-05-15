@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pollutant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> air, atmospheric, environmental, water | chemical, toxic | major | industrial </B> </P>
+<P> <U> VERB + POLLUTANT </U><B> discharge, emit, release </B> </P>
+<P> <U> POLLUTANT + NOUN </U><B> emission </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>pollutants from nearby industries </I><B>| ~ in </B><I>pollutants in exhaust gases </I> </P>
+<P> <U> PHRASES </U><B> the emission/release of pollutants</B> </P>
+</DIV>

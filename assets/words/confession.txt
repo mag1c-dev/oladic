@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>confession </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> admitting guilt </TT> </P>
+<P> <U> ADJ. </U><B> detailed, full | honest, true </B><I>It's difficult to believe it's an honest confession after all her lies. </I><B>| false | alleged | uncorroborated | signed, taped/tape-recorded, written | deathbed </B> </P>
+<P> <U> VERB + CONFESSION </U><B> make | sign | extract, get, obtain, secure </B><I>He claims his confession was extracted under torture. </I><B>| retract </B><I>She made a false confession during the trial which she later retracted. </I><B>| exclude </B><I>The court excluded the confession wrongly obtained by the police. </I> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>an alleged confession by the defendant </I><B>| ~ from </B><I>a confession from the prisoner </I><B>| ~ of </B><I>a true confession of a terrible crime </I><B>| ~ to </B><I>a confession to murder </I> </P>
+<P> <U> PHRASES </U><B> force/get a confession out of sb </B><I>The police forced a confession out of him. </I> </P>
+<P> <SUP> 2 </SUP> <TT> embarrassing statement </TT> </P>
+<P> <U> ADJ. </U><B> candid, open | shy </B> </P>
+<P> <U> VERB + CONFESSION </U><B> made </B><I>The government made open confession of its inability to cope with the crisis. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>her shy confession of love </I> </P>
+<P> <U> PHRASES </U><B> have a confession to make </B><I>I have a confession to make. I read your private emails. </I> </P>
+<P> <SUP> 3 </SUP> <TT> to a priest </TT> </P>
+<P> <U> VERB + CONFESSION </U><B> go to </B><I>I used to go to confession every Saturday as a child. </I><B>| hear </B><I>The priest heard her confession and granted absolution. </I> </P>
+<P> <U> CONFESSION + NOUN </U><B> box </B> </P>
+<P> <U> PHRASES </U><B> an act of confession</B> </P>
+</DIV>

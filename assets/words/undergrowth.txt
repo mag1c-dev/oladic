@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>undergrowth </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, dense, tangled, thick </B> </P>
+<P> <U> QUANT. </U><B> patch </B> </P>
+<P> <U> VERB + UNDERGROWTH </U><B> clear </B> </P>
+<P> <U> PREP. </U><B> into the ~ </B><I>The snake slithered off into the undergrowth. </I><B>| in the ~ </B><I>I noticed someone hiding in the undergrowth. </I><B>| through the ~ </B><I>I could hear him crashing through the undergrowth. </I> </P>
+</DIV>

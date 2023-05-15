@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>suspicious </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not trusting sb </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound | become, get, grow </B><I>I think they're starting to get suspicious. </I><B>| remain | make sb </B><I>Something about her smile made him suspicious. </I> </P>
+<P> <U> ADV. </U><B> deeply, extremely, highly, profoundly, very </B><I>She remained deeply suspicious of computers. </I><B>| increasingly | a bit, a little, rather, slightly, somewhat </B><I>His voice grew faintly suspicious. </I><B>| immediately, instantly | naturally </B><I>I have a naturally suspicious mind. </I><B>| rightly </B><I>British voters are rightly suspicious of attempts to save money in the area of education. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>They were somewhat suspicious about her past. </I><B>| of </B><I>She was highly suspicious of his motives. </I> </P>
+<P> <SUP> 2 </SUP> <TT> making you feel that sth is wrong </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem, sound </B><I>We have to carry on as usual or it would look suspicious. </I><B>| consider sth, find sth, regard sth as, treat sth as </B><I>I find it very suspicious that he left halfway through the morning. Police are treating both fires as suspicious. </I> </P>
+<P> <U> ADV. </U><B> highly, very </B><I>acting in a highly suspicious manner </I><B>| not remotely </B><I>Are you sure you haven't seen anything even remotely suspicious? </I><B>| a bit, rather, somewhat </B> </P>
+<P> <U> PHRASES </U><B> see/hear anything suspicious </B><I>Inform the police immediately if you see anything suspicious. </I> </P>
+</DIV>

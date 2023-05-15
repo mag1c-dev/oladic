@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>warmth </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> a fairly high temperature </TT> </P>
+<P> <U> ADJ. </U><B> comfortable, delicious, enveloping, glowing, pleasant, seductive, welcome </B><I>He moved towards the seductive warmth of the fire. </I><B>| gentle </B><I>the gentle warmth of the autumn sun </I><B>| bodily, body </B><I>This clothing maintains your body warmth. </I> </P>
+<P> <U> VERB + WARMTH </U><B> feel </B><I>She could feel the warmth of the child's hand in her own. </I><B>| bask in, enjoy, revel in </B><I>We lay on the beach, basking in the warmth of the hot sun. </I><B>| add </B><I>(figurative) Autumn colours add warmth to a room. </I> </P>
+<P> <U> WARMTH + VERB </U><B> spread </B><I>She sat by the fire and felt the warmth spread through her body. </I> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>They found the children huddled together for warmth. </I><B>| ~ from </B><I>warmth from the radiator </I> </P>
+<P> <SUP> 2 </SUP> <TT> friendliness or kindness </TT> </P>
+<P> <U> ADJ. </U><B> genuine, real | friendly | human, personal </B><I>She seems to be a person without human warmth. </I> </P>
+<P> <U> VERB + WARMTH </U><B> exude, radiate, show </B><I>a person who radiates warmth and kindness </I><B>| be lacking in, lack</B> </P>
+</DIV>

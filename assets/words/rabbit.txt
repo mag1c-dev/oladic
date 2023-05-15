@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>rabbit </B><I>noun </I> </P>
+<P> <U> VERB + RABBIT </U><B> hunt, shoot, trap | skin </B> </P>
+<P> <U> RABBIT + VERB </U><B> hop, jump | bolt, run </B><I>A frightened rabbit will bolt for its hole. </I><B>| breed </B><I>Rabbits breed very fast. </I> </P>
+<P> <U> RABBIT + NOUN </U><B> fur, skin | burrow, hole, hutch, warren </B><I>(often figurative) The building was a real rabbit warren of corridors. </I> </P>
+</DIV>

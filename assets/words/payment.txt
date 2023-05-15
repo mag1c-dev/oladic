@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>payment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> paying/being paid </TT> </P>
+<P> <U> ADJ. </U><B> immediate, prompt | late </B><I>penalties for late payment of tax </I><B>| early | full, part </B><I>I enclose </I>&pound;</B><I>65.20, in full payment of the bill. </I> </P>
+<P> <U> VERB + PAYMENT </U><B> make </B><I>How do you want to make payment?by cheque or in cash? </I><B>| arrange for | accept, take </B><I>Do you accept payment by credit card? </I><B>| get, receive | stop, suspend, withhold </B><I>I have authorized the bank to stop payment of the cheque. </I><B>| refuse sb | defer, delay </B><I>We may have to defer payment for a week. </I><B>| demand </B> </P>
+<P> <U> PAYMENT + VERB </U><B> be due </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She wrote out a cheque in payment of the fees. </I><B>| on ~ of </B><I>He was released on payment of the ransom. </I><B>| ~ for </B><I>payment for work done </I><B>| ~ from, ~ to </B><I>payment to the company from its customers </I> </P>
+<P> <U> PHRASES </U><B> a method of payment, payment in advance </B><I>The hostel requires full payment in advance. </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount of money paid </TT> </P>
+<P> <U> ADJ. </U><B> annual, monthly, etc. | regular | one-off, single </B><I>All families of the crash victims will receive a one-off payment of </I>&pound;</B><I>100,000. </I><B>| cash, lump sum | token | generous | down, initial | additional, further, subsequent | interim, transitional | final | credit card | benefit, compensation, interest, maintenance, mortgage, rent, tax </B> </P>
+<P> <U> VERB + PAYMENT </U><B> keep up, meet </B><I>My client was unable to meet her rent payments. </I><B>| increase, reduce | collect </B><I>It was my job to collect payment for the trip. </I> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>an extra $9 million in interest payments </I><B>| ~ for </B><I>a generous payment for his services </I><B>| ~ from </B><I>payments to the landlord from his tenants </I><B>| ~ to </B> </P>
+<P> <U> PHRASES </U><B> the balance of payments </B><I>measures designed to reduce the balance of payments deficit </I> </P>
+</DIV>

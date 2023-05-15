@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>chicken </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> bird </TT> </P>
+<P> <U> ADJ. </U><B> battery, corn-fed, free-range </B><I>Battery chickens have miserable lives. </I><B>| plump | scrawny | live </B><I>a crate of live chickens </I> </P>
+<P> <U> VERB + CHICKEN </U><B> keep | kill | pluck | truss (up) </B><I>Are we just going to sit here like trussed up chickens? </I> </P>
+<P> <U> CHICKEN + VERB </U><B> peck | scratch </B><I>A few scrawny chickens were scratching around the yard. </I><B>| cluck | roost | wander </B> </P>
+<P> <U> CHICKEN + NOUN </U><B> farmer | coop, run | wire | feed </B> </P>
+<P> <SUP> 2 </SUP> <TT> meat </TT> </P>
+<P> <U> ADJ. </U><B> fresh, frozen | juicy, succulent, tender | cold </B> </P>
+<P> <U> QUANT. </U><B> piece </B> </P>
+<P> <U> VERB + CHICKEN </U><B> eat, have | cook | barbecue, fry, grill, roast, etc. | stuff </B> </P>
+<P> <U> CHICKEN + NOUN </U><B> breast, drumsticks, giblets, joint, leg, liver, piece, thigh, wing | casserole, curry, pie, salad, sandwich, soup, stock </B> </P>
+<P> <U> PHRASES </U><B> (a) breast/leg of chicken, chicken and chips </B>&gt; Special page at FOOD </B> </P>
+</DIV>

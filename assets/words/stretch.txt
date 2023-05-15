@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>stretch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> area of land or water </TT> </P>
+<P> <U> ADJ. </U><B> great, huge, large, long, open, vast, wide </B><I>A great stretch of ocean lay beneath them. </I><B>| narrow, short, small | straight </B><I>a straight stretch of road </I><B>| continuous, unbroken | beautiful, lovely | deserted, empty, lonely </B><I>an empty stretch of beach </I><B>| fast | dangerous, hazardous | coastal </B><I>a wild uninhabited coastal stretch </I> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>There are tailbacks along a 10-mile stretch of the motorway. </I><B>| on a/the ~ </B><I>The festival is being held on a stretch of parkland near the river. </I><B>| ~ of </B> </P>
+<P> <SUP> 2 </SUP> <TT> stretching </TT> </P>
+<P> <U> ADJ. </U><B> good | gentle </B> </P>
+<P> <U> VERB + STRETCH </U><B> have </B><I>Have a good stretch from time to time to prevent yourself getting stiff. </I> </P>
+<P> <U> PHRASES </U><B> at full stretch </B><I>Her arms were at full stretch. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stretch </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> pull sth tight </TT> </P>
+<P> <U> ADV. </U><B> taut/tautly, tight/tightly </B><I>Make sure that the rope is stretched tight. Stretch the fabric tightly over the frame. </I> </P>
+<P> <U> PREP. </U><B> across, between, over </B><I>Striped awnings had been stretched across the courtyard. </I> </P>
+<P> <SUP> 2 </SUP> <TT> your body/part of the body </TT> </P>
+<P> <U> ADV. </U><B> gently | lazily, luxuriously </B><I>He stirred and stretched lazily. </I><B>| full-length </B><I>Andrea turned out the light and stretched full-length on the bed. </I><B>| down, forwards, out, up, upwards </B><I>She stretched up to reach the top shelf. </I> </P>
+<P> <SUP> 3 </SUP> <TT> cover a large area </TT> </P>
+<P> <U> ADV. </U><B> far </B><I>The wood does not stretch very far. </I><B>| endlessly | ahead, away </B><I>The road stretched ahead. </I> </P>
+<P> <U> VERB + STRETCH </U><B> seem to </B><I>The beach seemed to stretch endlessly. </I> </P>
+<P> <U> PREP. </U><B> along, beyond, for </B><I>The beach stretches for five miles. </I><B>| from, into, to </B><I>an area which stretches from London to the north </I> </P>
+<P> <SUP> 4 </SUP> <TT> continue over a period of time </TT> </P>
+<P> <U> ADV. </U><B> endlessly | back, out </B><I>The town's history stretches back to before 1500. </I> </P>
+<P> <U> PREP. </U><B> before </B><I>Endless summer days stretched out before us. </I><B>| into </B><I>The talks look set to stretch into a second week. </I> </P>
+<P> <SUP> 5 </SUP> <TT> your ability/intelligence </TT> </P>
+<P> <U> ADV. </U><B> really | fully </B><I>We can't take on any more work?we're fully stretched as it is. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>This department is stretched to its limit. </I> </P>
+</DIV>

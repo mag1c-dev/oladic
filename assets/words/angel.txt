@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>angel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> heavenly being </TT> </P>
+<P> <U> ADJ. </U><B> guardian | avenging </B><I>He liked to think of himself as an avenging angel fighting for justice. </I><B>| fallen </B><I>a book about anti-heroes and fallen angels </I> </P>
+<P> <U> QUANT. </U><B> choir, host </B><I>a whole host of angels </I> </P>
+<P> <SUP> 2 </SUP> <TT> good/kind person </TT> </P>
+<P> <U> ADJ. </U><B> absolute, little </B><I>Deborah's children are little angels. </I><B>| ministering </B><I>I could hardly see Lisa in the role of ministering angel. </I> </P>
+<P> <U> PHRASES </U><B> be an angel </B><I>Be an angel and make the tea, will you? </I><B>| be no angel </B><I>I'm no angel, but I wouldn't dream of doing a thing like that. </I> </P>
+</DIV>

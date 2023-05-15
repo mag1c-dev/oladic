@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>unusual </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem | become | consider sth </B><I>It was considered unusual for a gentleman's son to study medicine. </I> </P>
+<P> <U> ADV. </U><B> decidedly, distinctly, extremely, highly, particularly, really, very </B><I>This is a highly unusual case. </I><B>| by no means, hardly, not at all </B><I>It's not at all unusual to feel very tired in the early months of pregnancy. </I><B>| a bit, fairly, a little, pretty, quite, rather, relatively, slightly, somewhat | enough, sufficiently </B><I>The arrival of a taxi was unusual enough; an unknown woman getting out of it was sensational. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>It's unusual for a woman to do this job. </I> </P>
+</DIV>

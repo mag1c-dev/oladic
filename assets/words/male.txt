@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>male </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> entirely, exclusively </B><I>The club is an exclusively male preserve. </I><B>| largely, mainly, mostly, overwhelmingly, predominantly </B><I>The workforce is predominantly male. </I><B>| essentially </B><I>an essentially male Western view of progress </I><B>| typically | peculiarly </B><I>He nodded with a peculiarly male satisfaction at her capitulation. </I><B>| traditionally </B><I>traditionally male interests </I> </P>
+</DIV><DIV class="item"><P class="word"><B>male </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> adult | immature, young | old | dominant </B><I>the dominant male in the herd </I><B>| large, powerful, strong </B> </P>
+<P> <U> MALE + NOUN </U><B> hormone | sexuality | chauvinism, chauvinist | identity, role </B> </P>
+<P> <U> PHRASES </U><B> the male of the species </B><I>The male of the species has more brightly-coloured feathers than the female. </I> </P>
+</DIV>

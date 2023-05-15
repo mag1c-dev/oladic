@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>mine </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for coal, etc. </TT> </P>
+<P> <U> ADJ. </U><B> coal, copper, diamond, salt, tin, etc. | deep, drift, opencast | abandoned, disused </B> </P>
+<P> <U> VERB + MINE </U><B> operate, run, work | go down, work at/down/in </B><I>At 14, he went down the mines. </I> </P>
+<P> <U> MINE + VERB </U><B> produce sth </B><I>At its peak, the mine produced 5,000 tons of coal a day. </I> </P>
+<P> <U> MINE + NOUN </U><B> shaft (also mineshaft), workings </B><I>flooded mine workings </I><B>| owner </B> </P>
+<P> <SUP> 2 </SUP> <TT> explosive device </TT> </P>
+<P> <U> ADJ. </U><B> anti-personnel, land, limpet </B> </P>
+<P> <U> VERB + MINE </U><B> lay, plant </B><I>soldiers laying anti-personnel mines </I><B>| clear, dispose of, remove </B><I>The troops are slowly clearing the mines. </I><B>| detonate, hit, set off, strike </B> </P>
+<P> <U> MINE + VERB </U><B> blow up, explode, go off</B> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>dependent </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> needing sb/sth </TT> </P>
+<P> <U> VERBS </U><B> be, feel | become | remain </B> </P>
+<P> <U> ADV. </U><B> closely, deeply, greatly, heavily, highly, very </B><I>Many of the patients are closely dependent on staff for day-to-day emotional support. The country is heavily dependent on oil and gas imports. </I><B>| critically, crucially </B><I>Modern science is critically dependent on high-performance computing. </I><B>| absolutely, completely, entirely, solely, totally, utterly, wholly </B><I>Jane had never met anyone so utterly dependent. The land is dry and wholly dependent on irrigation. </I><B>| increasingly | essentially, largely, mainly | partially, partly </B><I>34% of people in the survey were at least partially dependent on public transport. </I><B>| directly | mutually </B><I>The various organs of the body do not function in isolation but are mutually dependent. </I><B>| economically, financially | emotionally </B> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>Small firms are dependent upon the local economy. </I></P>
+<P> <SUP> 2 </SUP> <TT> dependent on/upon: influenced/decided by sth  </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> strongly | entirely, solely, totally </B><I>The amount of benefit you receive is entirely dependent on the amount you have paid in. </I><B>| essentially, largely, mainly </B><I>Your access to a good education is largely dependent on where you live. </I><B>| partially, partly</B> </P>
+</DIV>

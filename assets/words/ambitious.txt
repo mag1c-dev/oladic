@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>ambitious </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> determined to be successful </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>He is a highly ambitious politician. </I><B>| socially </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She is very ambitious for her four children. </I> </P>
+<P> <SUP> 2 </SUP> <TT> difficult to achieve </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, hugely, very | rather | overly </B><I>Phases 2 and 3 seem overly ambitious. </I> </P>
+</DIV>

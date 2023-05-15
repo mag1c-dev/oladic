@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>nationality </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> various </B><I>cultural differences among various nationalities </I><B>| mixed </B><I>teams of mixed nationality </I><B>| dual </B><I>He has dual British and South African nationality. </I><B>| foreign | minority | Argentinian, etc. </B> </P>
+<P> <U> VERB + NATIONALITY </U><B> have | acquire, adopt, assume, obtain, take </B><I>She is hoping to adopt Australian nationality. </I><B>| inherit | retain | change | give up, renounce | lose | grant sb | refuse sb </B> </P>
+<P> <U> NATIONALITY + VERB </U><B> be represented </B><I>About 30 nationalities were represented at the tournament. </I> </P>
+<P> <U> PHRASES </U><B> on (the) grounds of nationality </B><I>He accused them of discrimination on the grounds of nationality. </I> </P>
+</DIV>

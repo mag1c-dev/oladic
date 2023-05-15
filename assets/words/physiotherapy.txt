@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>physiotherapy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> intensive | regular </B> </P>
+<P> <U> VERB + PHYSIOTHERAPY </U><B> provide | have, receive, undergo </B><I>I'm undergoing regular physiotherapy for a back problem. </I> </P>
+<P> <U> PHYSIOTHERAPY + NOUN </U><B> clinic, department | treatment | equipment | training</B> </P>
+</DIV>

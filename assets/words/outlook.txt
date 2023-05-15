@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>outlook </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> attitude to life </TT> </P>
+<P> <U> ADJ. </U><B> optimistic, positive | negative, pessimistic | general | broad </B><I>Having children gave her a broader outlook on life. </I><B>| different, differing | mental | moral, philosophical, religious </B> </P>
+<P> <U> VERB + OUTLOOK </U><B> have | give sb | change | broaden </B><I>Travel broadens your outlook. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She is rather cautious in outlook. </I><B>| of (a) &hellip; ~ </B><I>people of widely differing religious outlooks </I><B>| ~ on </B><I>Losing his job changed his whole outlook on life. </I> </P>
+<P> <SUP> 2 </SUP> <TT> what will probably happen </TT> </P>
+<P> <U> ADJ. </U><B> bright, good | bleak, gloomy, grim </B><I>The outlook for people on a state pension is grim. </I><B>| uncertain | business, economic, political | long-term, short-term </B> </P>
+<P> <U> VERB + OUTLOOK </U><B> improve </B><I>The drug improves the long-term outlook of migraine sufferers. </I><B>| worsen </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a brighter outlook for the economy </I> </P>
+</DIV>

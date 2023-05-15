@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>readable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> enjoyable to read </TT> </P>
+<P> <U> VERBS </U><B> be | make sth </B> </P>
+<P> <U> ADV. </U><B> eminently, extremely, highly, immensely, very </B><I>a stimulating and highly readable account </I><B>| quite </B> </P>
+<P> <SUP> 2 </SUP> <TT> able to be read </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> clearly, easily </B><I>The figures should be clearly readable. printed in large, easily readable type </I> </P>
+<P> <U> PHRASES </U><B> machine readable</B> </P>
+</DIV>

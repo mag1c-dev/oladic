@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>boast </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> proud | empty, idle, vain </B> </P>
+<P> <U> VERB + BOAST </U><B> make </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a boast he made about his achievements </I><B>| ~ of </B><I>her boast of having seen all the countries of Africa </I> </P>
+</DIV><DIV class="item"><P class="word"><B>boast </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> talk with too much pride </TT> </P>
+<P> <U> ADV. </U><B> openly </B> </P>
+<P> <U> PREP. </U><B> about/of </B><I>He openly boasted of his talents. </I> </P>
+<P> <SUP> 2 </SUP> <TT> have sth good/impressive </TT> </P>
+<P> <U> ADV. </U><B> proudly </B><I>This is a region which proudly boasts its own distinct culture. </I> </P>
+</DIV>

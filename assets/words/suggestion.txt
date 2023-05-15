@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>suggestion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> proposal </TT> </P>
+<P> <U> ADJ. </U><B> constructive, excellent, good, interesting, helpful, positive, practical, sensible, valuable | absurd, bizarre, impractical, ludicrous, outrageous, preposterous, ridiculous, stupid | tentative </B> </P>
+<P> <U> VERB + SUGGESTION </U><B> have </B><I>Has anyone got any suggestions for a title? I've had several helpful suggestions from colleagues. </I><B>| come up with, give sb, make, offer, put forward </B><I>Can you give us any suggestions for a slogan? May I make a suggestion? </I><B>| accept, act on, adopt, take up </B><I>I think we might take up the suggestion of printing the books in Hong Kong. </I><B>| take sb up on </B><I>May we take you up on your suggestion of sharing the costs for the party? </I><B>| deny, dismiss, reject </B><I>They dismissed the suggestion that they hadn't worked hard. He rejected my suggestion as impractical. </I><B>| welcome | consider, look at, note </B><I>We have noted your suggestion and will give it due consideration. </I> </P>
+<P> <U> SUGGESTION + NOUN </U><B> book, box </B> </P>
+<P> <U> PREP. </U><B> at the ~ of </B><I>At the suggestion of his boss, he resigned. </I><B>| ~ about/as to/concerning/on </B><I>Management welcomes practical suggestions on how to improve the facilities. </I><B>| ~ for </B><I>suggestions for further reading </I> </P>
+<P> <U> PHRASES </U><B> amid suggestions that </B><I>She left the country amid suggestions that she had stolen from the firm. </I><B>| be open to suggestions </B><I>I'm not sure what to do with all this money, but I'm open to suggestions. </I>&gt; Special page at MEETING </B> </P>
+<P> <SUP> 2 </SUP> <TT> communicating without stating directly </TT> </P>
+<P> <U> ADJ. </U><B> implicit | hypnotic </B><I>analgesia through hypnotic suggestion </I> </P>
+<P> <U> PREP. </U><B> by/through ~ </B><I>There's no scientific basis to the method?it works by suggestion. </I> </P>
+<P> <U> PHRASES </U><B> the power of suggestion </B><I>These healers claim to remove the pain by the power of suggestion. </I> </P>
+<P> <SUP> 3 </SUP> <TT> trace of sth </TT> </P>
+<P> <U> ADJ. </U><B> faint, mere, slightest </B> </P>
+<P> <U> VERB + SUGGESTION </U><B> carry, have </B> </P>
+<P> <U> PREP. </U><B> at the ~ of </B><I>At the slightest suggestion of criticism, he loses his temper. </I><B>| ~ of</B> </P>
+</DIV>

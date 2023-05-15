@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>elephant </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> African | Asian, Indian | bull, cow | baby | trained | wild | rogue </B> </P>
+<P> <U> QUANT. </U><B> herd </B> </P>
+<P> <U> VERB + ELEPHANT </U><B> hunt, poach | cull | drive, herd, round up </B> </P>
+<P> <U> ELEPHANT + VERB </U><B> trumpet | charge, stampede | trample sb </B> </P>
+<P> <U> ELEPHANT + NOUN </U><B> herd | tusk | conservation</B> </P>
+</DIV>

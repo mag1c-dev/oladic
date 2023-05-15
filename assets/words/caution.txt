@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>caution </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> great care </TT> </P>
+<P> <U> ADJ. </U><B> considerable, extreme, great, utmost </B><I>The utmost caution must be exercised when handling explosives. </I><B>| excessive | due </B><I>We proceeded with due caution. </I> </P>
+<P> <U> VERB + CAUTION </U><B> exercise | advise, counsel, urge </B><I>We urge caution in the use of this medication. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>The information should be treated with some caution. </I> </P>
+<P> <U> PHRASES </U><B> err on the side of caution </B>(= to be too cautious), <B>the need for caution </B><I>I must stress the need for caution. </I><B>| sound a note of caution </B><I>The minister sounded a note of caution about the economy. </I><B>| cast/throw caution to the wind/winds </B>(= to start taking risks), <B>a word of caution </B><I>I would just like to add a word of caution. </I> </P>
+<P> <SUP> 2 </SUP> <TT> spoken warning given by a judge/policeman </TT> </P>
+<P> <U> ADJ. </U><B> formal </B><I>He received a formal caution. </I> </P>
+<P> <U> VERB + CAUTION </U><B> get off with, receive | give sb, issue, let sb off with </B><I>They let her off with a caution. </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>period </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> length of time </TT> </P>
+<P> <U> ADJ. </U><B> extended, lengthy, long, prolonged | brief, limited, short </B><I>The offer is only available for a limited period. </I><B>| full </B><I>You have been paid for the full period of your employment with us. </I><B>| fixed, set </B><I>The medication is prescribed for a fixed period of time. </I><B>| indefinite | early, late </B><I>the late Victorian period </I><B>| happy </B><I>a happy period in her life </I><B>| dark, difficult, lean </B><I>a dark period in the country's history </I><B>| critical </B><I>a critical period in the development of the project </I><B>| interim, intervening | transitional | off-peak, peak | Christmas | medieval, Tudor, etc. | inter-war, post-war | accounting | cooling-off </B><I>The customer has the right to cancel the contract during the seven-day cooling-off period. </I><B>| formative </B><I>The most formative period of life is childhood. </I><B>| gestation, incubation | rest | training | waiting | trial </B><I>You can use the software free for a 30-day trial period. </I><B>| time </B> </P>
+<P> <U> VERB + PERIOD </U><B> cover </B><I>the period covered by the book </I> </P>
+<P> <U> PERIOD + VERB </U><B> begin, commence | end | last </B> </P>
+<P> <U> PERIOD + NOUN </U><B> costume, furniture </B> </P>
+<P> <U> PREP. </U><B> after a ~ </B><I>after a long period of waiting </I><B>| during/throughout the ~ </B><I>during the intervening period </I><B>| for a ~ </B><I>We lived in Caracas for a brief period. </I><B>| in/within a/the ~ </B><I>Sales have gone up in the last-five-year period. </I><B>| over a/the ~ </B><I>There will be a reduced bus service over the Christmas period. Changes were monitored over a period of two months. </I><B>| within a/the ~ </B><I>Committee members will not be eligible for re-election within a period of two years. </I><B>| ~ between </B><I>the period between his resigning and finding a new job </I><B>| ~ from &hellip; to &hellip; </B><I>the period from 1 July to 31 December </I> </P>
+<P> <U> PHRASES </U><B> the beginning/end/start of a period, a period of history, sb's period of office </B><I>Public spending was cut during his period of office. </I><B>| a period of study </B><I>Try breaking your period of study into 20-minute blocks. </I><B>| a period of time </B><I>The balance must be paid within an agreed period of time. </I><B>| a period of transition </B><I>a period of transition between communist rule and democratic government </I> </P>
+<P> <SUP> 2 </SUP> <TT> menstruation </TT> </P>
+<P> <U> ADJ. </U><B> heavy, light | menstrual | monthly </B> </P>
+<P> <U> VERB + PERIOD </U><B> have </B><I>I've got my period and don't feel too great. </I><B>| start </B><I>I was thirteen when I started my periods. </I> </P>
+<P> <U> PERIOD + VERB </U><B> start | stop | last </B> </P>
+<P> <U> PERIOD + NOUN </U><B> pains</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>thermometer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accurate | clinical | digital, mercury | rectal | meat, sugar </B><I>Check that the roast is cooked right through, using a meat thermometer. </I> </P>
+<P> <U> VERB + THERMOMETER </U><B> read </B> </P>
+<P> <U> THERMOMETER + VERB </U><B> measure sth </B> </P>
+<P> <U> THERMOMETER + NOUN </U><B> reading </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>the reading on the thermometer </I> </P>
+</DIV>

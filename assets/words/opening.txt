@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>opening </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> beginning </TT> </P>
+<P> <U> ADJ. </U><B> successful | chess, conversational </B> </P>
+<P> <U> OPENING + NOUN </U><B> day, night | lines, pages | gambit </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>the famous opening to the novel </I> </P>
+<P> <SUP> 2 </SUP> <TT> hole; way in/out </TT> </P>
+<P> <U> ADJ. </U><B> large, wide | narrow, small | window </B> </P>
+<P> <U> VERB + OPENING </U><B> cut | block, seal </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>to cut an opening in the fence </I> </P>
+<P> <SUP> 3 </SUP> <TT> opportunity; job which is available </TT> </P>
+<P> <U> ADJ. </U><B> new | possible | clear (used in the context of sport and games) </B><I>He missed one of the clearest openings in the game. </I><B>| career, political </B> </P>
+<P> <U> VERB + OPENING </U><B> create </B><I>Cooper created the opening for Russell to shoot the first goal. </I><B>| give sb | miss </B> </P>
+<P> <U> PREP. </U><B> ~ for, ~ in </B><I>career openings for biologists in the Ministry of Health </I> </P>
+<P> <SUP> 4 </SUP> <TT> ceremony </TT> </P>
+<P> <U> ADJ. </U><B> grand | formal | official, royal, state </B><I>the state opening of Parliament </I> </P>
+<P> <U> VERB + OPENING </U><B> attend </B> </P>
+<P> <U> OPENING + NOUN </U><B> ceremony</B> </P>
+</DIV>

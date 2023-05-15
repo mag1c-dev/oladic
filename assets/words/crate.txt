@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>crate </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sealed | upturned </B><I>The cat was sitting on an upturned crate. </I><B>| beer, milk, orange | shipping </B><I>Their possessions had all been packed into shipping crates. </I> </P>
+<P> <U> QUANT. </U><B> pile, stack </B> </P>
+<P> <U> VERB + CRATE </U><B> pile, stack </B><I>They stacked the crates in the corner of the yard. </I><B>| pack (sth in/into), unpack </B><I>They packed the crates with books. </I><B>| load, unload | ship </B><I>a company specializing in shipping crates </I> </P>
+<P> <U> CRATE + VERB </U><B> contain sth </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a crate of oranges </I> </P>
+</DIV>

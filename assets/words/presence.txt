@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>presence </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> being present </TT> </P>
+<P> <U> ADJ. </U><B> mere </B><I>The mere presence of children in the room is enough to upset him. </I><B>| constant, continued, continuing, permanent | strong </B><I>The company now has a strong presence in Germany. </I> </P>
+<P> <U> VERB + PRESENCE </U><B> indicate, reveal, show </B><I>These chemicals could indicate the presence of water on the planet. </I><B>| acknowledge </B><I>He acknowledged our presence with a nod of his head. </I><B>| detect | grace sb with </B><I>(ironic or humorous) How nice of you to grace us with your presence! </I> </P>
+<P> <U> PREP. </U><B> in sb's ~ </B><I>He should never have made those remarks in your presence. </I> </P>
+<P> <U> PHRASES </U><B> make your presence felt/known </B><I>She certainly made her presence felt in the boardroom. </I> </P>
+<P> <SUP> 2 </SUP> <TT> number of people </TT> </P>
+<P> <U> ADJ. </U><B> constant | military, police </B><I>There was a strong police presence throughout the demonstration. </I> </P>
+<P> <U> VERB + PRESENCE </U><B> maintain </B><I>The army maintains a constant presence in the area. </I> </P>
+<P> <SUP> 3 </SUP> <TT> force of personality </TT> </P>
+<P> <U> ADJ. </U><B> charismatic, commanding, formidable, great, imposing, powerful, strong | stage </B><I>He had a formidable stage presence. </I> </P>
+<P> <U> VERB + PRESENCE </U><B> have</B> </P>
+</DIV>

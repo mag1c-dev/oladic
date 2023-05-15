@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>region </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> area of land/part of a country </TT> </P>
+<P> <U> ADJ. </U><B> large | small | entire, whole | distinct, particular, specific | northern, southern, etc. | central | border, far-flung, outlying, peripheral, remote | neighbouring, surrounding | unexplored | geographical | arid, coastal, desert, equatorial, jungle, mountain/mountainous, polar, tropical | Basque, Gulf, London, Pacific, etc. | autonomous | urbanized | rural | populated </B><I>a sparsely populated region </I><B>| economic | developed, industrial | developing | depressed, poor, underdeveloped </B><I>the poorer regions of the continent </I><B>| prosperous, rich </B><I>Italy's richest region </I><B>| oil-producing, etc. </B> </P>
+<P> <U> VERB + REGION </U><B> inhabit, live in </B><I>Nomads have inhabited this region for thousands of years. </I><B>| work in | leave | visit | divide sth into </B><I>The country is divided into 17 autonomous regions. </I><B>| confine sb/sth to </B><I>This bird is largely confined to the southern regions of the country. </I> </P>
+<P> <U> REGION + VERB </U><B> cover sb/sth </B><I>The champagne-producing region covers 34,500 hectares. </I> </P>
+<P> <U> PREP. </U><B> across a/the ~ </B><I>Sports events across the region have been cancelled because of the weather. </I><B>| from a/the ~ </B><I>Twenty participants from the Asia-Pacific region will be invited to the seminar. </I><B>| in/within a/the ~ </B><I>The animal is found in the northern regions of Sweden. </I><B>| in the ~ of </B><I>(figurative) She earns in the region of </I>(= approximately) &pound;</B><I>200,000. </I><B>| throughout a/the ~ </B><I>The plant is found throughout the western regions of the country. </I> </P>
+<P> <U> PHRASES </U><B> sth varies from region to region </B><I>Sanitary facilities varied widely from region to region. </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of the body </TT> </P>
+<P> <U> ADJ. </U><B> distinct, particular, specific | brain, etc. </B> </P>
+<P> <U> PREP. </U><B> from a/the ~ </B><I>tissue from the mouth region </I><B>| in/within a/the ~ </B><I>cells in a particular region of the brain </I> </P>
+</DIV>

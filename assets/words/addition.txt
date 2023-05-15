@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>addition </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that is added </TT> </P>
+<P> <U> ADJ. </U><B> useful, valuable, welcome, worthy | important, major, notable, significant | latest, new, recent </B> </P>
+<P> <U> VERB + ADDITION </U><B> make </B><I>We have made several additions to the collection recently. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>the latest addition to the family </I>(= a new baby) </B> </P>
+<P> <SUP> 2 </SUP> <TT> process of adding numbers/amounts </TT> </P>
+<P> <U> ADJ. </U><B> simple </B><I>He worked it out through simple addition. </I> </P>
+<P> <U> VERB + ADDITION </U><B> do </B><I>She can do addition, but she hasn't learned subtraction yet. </I> </P>
+</DIV>

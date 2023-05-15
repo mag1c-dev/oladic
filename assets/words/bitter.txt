@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>bitter </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> angry/unhappy </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem | become, grow, turn </B><I>He had grown bitter as the years passed. Loving relationships can turn bitter. </I><B>| remain | leave sb, make sb </B><I>The divorce had left her bitter. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | quite, rather, slightly </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She still seems quite bitter about it. </I><B>| towards </B><I>I felt very bitter towards them. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very cold </TT> </P>
+<P> <U> VERBS </U><B> be | become, turn </B><I>The weather turned bitter. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> extremely, really, very | quite, rather </B> </P>
+<P> <SUP> 3 </SUP> <TT> having a sharp taste </TT> </P>
+<P> <U> VERBS </U><B> be, taste </B><I>The drink tasted bitter. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | rather, slightly, somewhat</B> </P>
+</DIV>

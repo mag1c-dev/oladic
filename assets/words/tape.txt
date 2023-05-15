@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>tape </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> magnetic material used for recording </TT> </P>
+<P> <U> ADJ. </U><B> magnetic </B><I>The data is stored on the magnetic tape. </I><B>| audio, computer, video (also videotape) | recording </B> </P>
+<P> <U> VERB + TAPE </U><B> hold sth on, store sth on | capture sth on, get sth on </B><I>Police are examining the incident, which was captured on tape. </I><B>| splice </B> </P>
+<P> <U> TAPE + NOUN </U><B> drive </B>(= in a computer) <B>| recording </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>I've got the whole concert on tape. </I> </P>
+<P> <SUP> 2 </SUP> <TT> cassette with magnetic tape on it </TT> </P>
+<P> <U> ADJ. </U><B> cassette | audio, music, sound | video (also videotape) | demo, master | compilation </B><I>a compilation tape featuring new Irish bands </I><B>| blank | pre-recorded | bootleg, pirated </B><I>The court heard that Ellis sold pirated tapes of Hollywood blockbusters. </I> </P>
+<P> <U> VERB + TAPE </U><B> make </B><I>I made another tape to play in the car. </I><B>| play (back), put on </B><I>The police will be able to play back the videotape for clues. </I><B>| listen to, watch | mime to </B><I>The singer was miming to a pre-recorded tape. </I><B>| fast-forward, pause, replay, rewind, start, stop, wind back, wind forward/on | erase, wipe </B><I>Someone had deliberately erased the tapes. </I> </P>
+<P> <U> TAPE + VERB </U><B> contain sth, have sth </B><I>The tape contained damning evidence. What does this tape have on it? </I> </P>
+<P> <U> TAPE + NOUN </U><B> deck, recorder | recording </B> </P>
+<P> <SUP> 3 </SUP> <TT> long narrow strip of fabric/paper </TT> </P>
+<P> <U> ADJ. </U><B> adhesive, Scotch(R), sticky | insulating, masking | measuring | paper, plastic, steel | ticker | double-sided </B><I>Fit the carpet using double-sided tape. </I> </P>
+<P> <U> QUANT. </U><B> piece, strip | roll </B> </P>
+<P> <U> VERB + TAPE </U><B> seal sth (up) with </B><I>I sealed up the package with strong adhesive tape. </I> </P>
+<P> <U> TAPE + NOUN </U><B> measure </B><I>Use a steel tape measure to measure the dimensions of the room. </I> </P>
+<P> <SUP> 4 </SUP> <TT> piece of material stretched across a racetrack </TT> </P>
+<P> <U> ADJ. </U><B> finishing </B> </P>
+<P> <U> VERB + TAPE </U><B> break </B><I>her look of triumph as she broke the finishing tape </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tape </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> firmly </B><I>The wires are taped firmly together. </I><B>| together, up </B><I>The box was all taped up. </I> </P>
+<P> <U> PREP. </U><B> onto, to </B><I>She had taped a note to the fridge door. </I> </P>
+</DIV>

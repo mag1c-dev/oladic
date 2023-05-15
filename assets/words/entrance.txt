@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>entrance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> door/place through which you enter sth </TT> </P>
+<P> <U> ADJ. </U><B> narrow, wide | main | back, front, rear, side | cave, church, harbour, school, tunnel, etc. </B> </P>
+<P> <U> VERB + ENTRANCE </U><B> use </B><I>While the front door is being repaired, please use the side entrance. </I><B>| mark </B><I>The little porch marked the entrance to a churchyard. </I><B>| have </B><I>The building has only one entrance. </I><B>| block </B><I>She stood firm, blocking the entrance. </I> </P>
+<P> <U> ENTRANCE + NOUN </U><B> area, foyer, hall, lobby | door, doorway, gate, porch | passage </B> </P>
+<P> <U> PREP. </U><B> at the ~, by a/the ~ </B><I>The band left by the rear entrance to escape photographers. </I><B>| in the ~ </B><I>She stood in the entrance to the ward. </I><B>| through the ~ </B><I>Go through the main entrance into the yard. </I><B>| ~ from </B><I>There is a back entrance from West Street. </I><B>| ~ into </B><I>the entrance into the car park </I><B>| ~ to </B><I>He was waiting at the entrance to the cave. </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of coming in </TT> </P>
+<P> <U> ADJ. </U><B> dramatic, grand </B> </P>
+<P> <U> VERB + ENTRANCE </U><B> make </B><I>She made a grand entrance once all the guests were assembled. </I><B>| gain </B><I>Some of the protesters tried to gain entrance to the meeting. </I> </P>
+<P> <U> PREP. </U><B> ~ into </B><I>her entrance into politics </I> </P>
+<P> <SUP> 3 </SUP> <TT> right to enter a place </TT> </P>
+<P> <U> VERB + ENTRANCE </U><B> gain </B><I>students hoping to gain entrance to university </I> </P>
+<P> <U> ENTRANCE + NOUN </U><B> charge, fee | ticket </B><I>an entrance ticket to the zoo </I><B>| requirements | exam/examination</B> </P>
+</DIV>

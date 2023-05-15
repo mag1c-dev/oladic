@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cupboard </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, deep, large | little, small, tiny | high, low | walk-in | built-in, fitted | private | bare, empty | wall | bathroom, bedside, kitchen, hall | airing, broom, coat, clothes, drinks, food, linen, medicine, stationery, storage, store </B><I>There's a broom cupboard under the stairs. </I> </P>
+<P> <U> VERB + CUPBOARD </U><B> open | close | look in | put sth in </B><I>Put the clothes in the airing cupboard. </I><B>| keep sth in </B> </P>
+<P> <U> CUPBOARD + VERB </U><B> be full of sth </B><I>The cupboard was full of old toys. </I> </P>
+<P> <U> CUPBOARD + NOUN </U><B> door | unit </B><I>We had some new cupboard units fitted in the kitchen. </I><B>| space </B><I>Do you have much cupboard space in your new house? </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Put the plates in the cupboard. </I> </P>
+</DIV>

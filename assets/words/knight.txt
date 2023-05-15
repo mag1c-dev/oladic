@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>knight </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in the Middle Ages </TT> </P>
+<P> <U> ADJ. </U><B> medieval | chivalrous, noble | armoured | mounted </B> </P>
+<P> <U> PHRASES </U><B> a knight errant </B><I>tales of medieval knights errant, wandering in search of chivalrous adventures </I><B>| a knight in armour, a knight in shining armour </B><I>(figurative, humorous) She's still waiting for a knight in shining armour to come and rescue her. </I> </P>
+<P> <SUP> 2 </SUP> <TT> man given an honour by the king/queen</TT> </P>
+<a href="/collocation-tag/aristocratic" class="tag">Learn more about ARISTOCRATIC</a>
+</DIV>

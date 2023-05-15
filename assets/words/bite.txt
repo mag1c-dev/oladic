@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>bite </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of biting/amount of food </TT> </P>
+<P> <U> VERB + BITE </U><B> have, take </B> </P>
+<P> <U> PREP. </U><B> between ~s </B><I>She tried to talk between bites. </I><B>| ~ from </B><I>I took a bite from the apple. </I><B>| ~ of </B><I>Can I have a bite of your sandwich? </I><B>| ~ out of </B><I>She took a bite out of the slab of cake. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of an insect/animal </TT> </P>
+<P> <U> ADJ. </U><B> insect, mosquito, snake, etc. </B> </P>
+<P> <U> VERB + BITE </U><B> get </B><I>I got a lot of mosquito bites last night. </I> </P>
+<P> <U> BITE + NOUN </U><B> mark </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a bite from a poisonous snake </I> </P>
+<P> <SUP> 3 </SUP> <TT> small amount to eat </TT> </P>
+<P> <U> ADJ. </U><B> quick </B> </P>
+<P> <U> VERB + BITE </U><B> grab, have </B><I>We managed to grab a bite at the theatre before the show started. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a quick bite of lunch </I> </P>
+<P> <U> PHRASES </U><B> a bite to eat </B><I>We'll have a bite to eat in town. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bite </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> use your teeth </TT> </P>
+<P> <U> ADV. </U><B> badly </B><I>Their cat was badly bitten by a dog. </I><B>| off </B><I>He bit off a chunk of bread. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He bit at his lower lip. </I><B>| into </B><I>She bit into the apple. </I><B>| through </B><I>The dog had bitten right through its rope. </I> </P>
+<P> <U> PHRASES </U><B> bite sth in half/two </B> </P>
+<P> <SUP> 2 </SUP> <TT> have an effect </TT> </P>
+<P> <U> ADV. </U><B> deep, hard </B><I>As the recession bites harder, many small companies are going bankrupt. </I> </P>
+<P> <U> VERB + BITE </U><B> begin to, start to </B><I>After two cold months, the coal shortage was beginning to bite. </I> </P>
+</DIV>

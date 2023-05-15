@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>heroin </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pure | street </B> </P>
+<P> <U> QUANT. </U><B> dose, gram, ounce, shot, wrap </B> </P>
+<P> <U> VERB + HEROIN </U><B> fix, inject, smoke </B> </P>
+<P> <U> HEROIN + NOUN </U><B> injector | possession | injection | overdose </B><I>a fatal heroin overdose </I><B>| dealing </B></P>
+<a href="/collocation-tag/drug" class="tag">Learn more about DRUG</a>
+</DIV>

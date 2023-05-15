@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>interact </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> have an effect on each other </TT> </P>
+<P> <U> ADV. </U><B> closely | directly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>This hormone interacts closely with other hormones in the body. </I> </P>
+<P> <SUP> 2 </SUP> <TT> mix with other people </TT> </P>
+<P> <U> ADV. </U><B> well | socially </B> </P>
+<P> <U> PREP. </U><B> with </B><I>He interacts very well with other children. </I> </P>
+</DIV>

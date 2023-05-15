@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>grammar </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> correct, good </B><I>Spelling and good grammar are both very important. </I><B>| bad, incorrect | Arabic, French, Latin, etc. </B><I>the complexities of English grammar </I> </P>
+<P> <U> VERB + GRAMMAR </U><B> correct, teach </B><I>People were too polite to correct my grammar when I spoke German. </I><B>| learn </B> </P>
+<P> <U> GRAMMAR + NOUN </U><B> rules </B> </P>
+<P> <U> PHRASES </U><B> the rules of grammar</B> </P>
+</DIV>

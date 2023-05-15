@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>omission </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> important, major, serious | complete | glaring, notable, obvious | curious, strange, surprising | deliberate | inadvertent </B> </P>
+<P> <U> VERB + OMISSION </U><B> correct, rectify, remedy </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Several offences such as manslaughter may be committed by omission. </I><B>| ~ from </B><I>her omission from the guest list </I> </P>
+<P> <U> PHRASES </U><B> an act or omission </B><I>The accident was not caused by any act or omission of the transport company. </I><B>| errors and/or omissions, a sin of omission</B> </P>
+</DIV>

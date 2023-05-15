@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>series </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> number of things that come one after another </TT> </P>
+<P> <U> ADJ. </U><B> whole </B><I>He is in hospital for a whole series of tests. </I><B>| endless, long | complex </B><I>a complex series of events </I><B>| continuous | concert, lecture, test (in cricket) </B><I>Australia won the test series against England. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The quartet will be performing in a series of lunchtime concerts. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> the first/last, etc. of a/the series, the first/latest, etc. in a series </B> </P>
+<P> <SUP> 2 </SUP> <TT> programmes on radio/television </TT> </P>
+<P> <U> ADJ. </U><B> radio, television/TV | comedy, crime, documentary, drama </B> </P>
+<P> <U> QUANT. </U><B> part </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She has a small part in a drama series for radio. </I><B>| ~ about/on </B><I>We watched the final part of a series on famous gardens. </I> </P>
+</DIV>

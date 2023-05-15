@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>arms </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> nuclear | small </B><I>fighters using small arms and home-made grenades </I> </P>
+<P> <U> VERB + ARMS </U><B> bear, carry </B><I>The right to bear arms is enshrined in the constitution. </I><B>| call sb to </B><I>(formal) He called his comrades to arms </I>(= urged them to fight)</B><I>. </I><B>| take up </B><I>(formal) The people took up arms to defend their country. </I><B>| lay down </B><I>(formal) The government called on them to lay down their arms and surrender. </I><B>| supply </B><I>He was accused of supplying arms to terrorists </I> </P>
+<P> <U> ARMS + NOUN </U><B> race | control, embargo | deal, industry, sales, trade </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>(formal) There were more than a million men under arms during the American Civil War. </I> </P>
+</DIV>

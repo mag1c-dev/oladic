@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>evolution </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gradual | rapid | continuous | natural | peaceful </B><I>the peaceful evolution to democracy </I><B>| biological, cultural, historical, political, social, technological | animal, human | Darwinian </B> </P>
+<P> <U> VERB + EVOLUTION </U><B> trace </B><I>a book tracing the evolution of the English language </I> </P>
+<P> <U> EVOLUTION + VERB </U><B> occur, proceed, take place </B><I>Evolution proceeds by a series of small changes. </I> </P>
+<P> <U> PREP. </U><B> ~ from &hellip; to &hellip; </B><I>his evolution from comedian to serious actor </I><B>| ~ towards </B><I>the country's gradual evolution towards democracy </I> </P>
+<P> <U> PHRASES </U><B> the theory of evolution </B><I>people who reject the theory of evolution </I> </P>
+</DIV>

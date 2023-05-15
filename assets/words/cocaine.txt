@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cocaine </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> crack, freebase </B> </P>
+<P> <U> QUANT. </U><B> line, packet </B> </P>
+<P> <U> VERB + COCAINE </U><B> freebase, inject, shoot, smoke, sniff, snort </B> </P>
+<P> <U> COCAINE + NOUN </U><B> possession | injection | export | baron | cartel </B></P>
+<a href="/collocation-tag/drug" class="tag">Learn more about DRUG</a>
+</DIV>

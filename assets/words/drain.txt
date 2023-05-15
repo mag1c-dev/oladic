@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>drain </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> pipe/hole that dirty water goes down </TT> </P>
+<P> <U> ADJ. </U><B> blocked </B> </P>
+<P> <U> VERB + DRAIN </U><B> block | clear, unblock | lay </B><I>They were busy laying the drains for the new houses. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that uses up time/money/resources </TT> </P>
+<P> <U> ADJ. </U><B> heavy, major, serious | brain </B><I>scientists joining the brain drain </I>(= moving to a country where they can work in better conditions and earn more) </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>These losses have been a major drain on the company's resources. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>drain </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sth empty/dry </TT> </P>
+<P> <U> ADV. </U><B> thoroughly, well </B><I>Remove the artichokes, drain thoroughly and allow to cool. well-drained soil </I> </P>
+<P> <SUP> 2 </SUP> <TT> make sb/sth weaker/poorer, etc. </TT> </P>
+<P> <U> ADV. </U><B> totally, utterly | emotionally, physically | away </B><I>draining away the country's coal reserves </I> </P>
+<P> <U> PREP. </U><B> of </B><I>His voice was utterly drained of emotion. </I> </P>
+<P> <U> PHRASES </U><B> be/feel drained </B><I>Sue felt exhausted and emotionally drained. </I> </P>
+</DIV>

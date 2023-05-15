@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>perimeter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> inner, outer | northern, southern, etc. </B> </P>
+<P> <U> VERB + PERIMETER </U><B> mark </B><I>The river marks the eastern perimeter of our land. </I> </P>
+<P> <U> PERIMETER + NOUN </U><B> fence, wall | road, track </B> </P>
+<P> <U> PREP. </U><B> along the ~ </B><I>I lugged my suitcase along the perimeter of the square. </I><B>| around/round the ~ </B><I>We walked round the perimeter of the prison. </I><B>| inside/outside the ~ </B><I>They demonstrated just outside the perimeter of the embassy. </I><B>| on the ~ </B><I>There's a small shop on the perimeter of the camp. </I> </P>
+</DIV>

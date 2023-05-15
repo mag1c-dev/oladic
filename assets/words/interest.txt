@@ -1,0 +1,37 @@
+
+<DIV class="item"><P class="word"><B>interest </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> desire to learn/hear more about sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> avid, burning, close, considerable, consuming, deep, great, intense, keen, lively, passionate, strong </B><I>The police were starting to take a close interest in the company's activities. She always had a great interest in the supernatural. </I><B>| particular | growing, increasing | slightest </B><I>He's never shown the slightest interest in football. </I><B>| general, widespread | worldwide | serious | genuine | abiding, lifelong | passing | renewed | added </B><I>I'll watch the programme with added interest now I know you're in it. </I><B>| active | passive | polite </B><I>He showed a polite interest in her story. </I><B>| personal | media </B><I>The event attracted a lot of media interest. </I> </P>
+<P> <U> VERB + INTEREST </U><B> have | evince, express, show, take </B><I>My cousin expressed an interest in seeing where I work. </I><B>| feign, simulate </B><I>She feigned interest in a magazine article to avoid meeting the man's stare. </I><B>| lose | arouse, attract, awaken, caught, drum up, excite, generate, kindle, spark, stimulate, stir up, whip up </B><I>A sticker on a bag caught my interest. The government failed to drum up any public interest in the referendum. A childhood journey sparked his lifelong interest in railways. </I><B>| develop </B><I>While in prison he developed an interest in art. </I><B>| maintain, sustain </B><I>Despite intensive publicity, Channel 4 failed to maintain interest in its expensive new show. </I><B>| revive </B> </P>
+<P> <U> INTEREST + VERB </U><B> grow | flag, wane </B><I>The children's interest began to flag after half an hour of the lesson. </I> </P>
+<P> <U> PREP. </U><B> for/out of ~ </B><I>I'm asking purely out of interest. </I><B>| with ~ </B><I>They listened with interest. </I><B>| ~ among </B><I>to stimulate interest among teachers </I><B>| ~ from </B><I>growing interest from younger members </I><B>| ~ in </B><I>She took an active interest in their welfare. </I> </P>
+<P> <SUP> 2 </SUP> <TT> quality that attracts attention </TT> </P>
+<P> <U> ADJ. </U><B> great | particular </B><I>Her comments are of particular interest to me. </I><B>| broad, general, wide | architectural, artistic, historic/historical, scientific | academic </B><I>Since the championship has already been decided, this match is of purely academic interest. </I><B>| human </B><I>a plot devoid of human interest </I><B>| love </B><I>Angelina Jolie supplies the love interest in the film. </I> </P>
+<P> <U> VERB + INTEREST </U><B> be of </B><I>His books are of no interest to me at all. </I><B>| hold no </B><I>Their conversation held no interest for me. </I><B>| add </B><I>Bushes that flower in winter will add interest to your garden. </I><B>| supply </B> </P>
+<P> <U> INTEREST + VERB </U><B> lie in </B><I>The interest of the painting lies in its unusual use of colour. </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>a building of grea</I>t </B><I>architectural interes</I>t </B> </P>
+<P> <SUP> 3 </SUP> <TT> sth you enjoy doing/learning about </TT> </P>
+<P> <U> ADJ. </U><B> diverse, varied, wide, wide-ranging | private | artistic, musical, etc. </B> </P>
+<P> <U> VERB + INTEREST </U><B> have | share | pursue </B><I>He wanted time to pursue his many and varied musical interests. </I> </P>
+<P> <SUP> 4 </SUP> <TT> money earned from investments </TT> </P>
+<P> <U> ADJ. </U><B> annual, monthly, etc. | compound, simple </B> </P>
+<P> <U> VERB + INTEREST </U><B> earn, make, receive | pay | charge </B> </P>
+<P> <U> INTEREST + VERB </U><B> accrue, bear </B> </P>
+<P> <U> INTEREST + NOUN </U><B> rate | payment | charge </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>to pay interest on a loan </I> </P>
+<P> <U> PHRASES </U><B> a rate of interest </B><I>a mortgage with a fixed/flexible rate of interest </I> </P>
+<P> <SUP> 5 </SUP> <TT> benefits that sth has for sb </TT> </P>
+<P> <U> ADJ. </U><B> best </B><I>It's not in your best interests to let your boss know you're looking for a new job. </I><B>| self-, selfish | common, mutual | competing, contradictory | long-term, short-term | narrow </B><I>narrow sectional interests </I><B>| direct </B><I>Lawyers have a direct financial interest in the outcome of the debate. </I><B>| paramount, vital | vested | national, public | class, sectional | foreign, outside | economic, financial, political, strategic, etc. </B> </P>
+<P> <U> VERB + INTEREST </U><B> defend, guard, look after, protect, safeguard | act in, advance, champion, further, promote, serve </B><I>He claimed to be acting in the public interest. </I><B>| represent | act against, jeopardize, threaten </B> </P>
+<P> <U> INTEREST + VERB </U><B> lie in sth | be at stake </B> </P>
+<P> <U> INTEREST + NOUN </U><B> group </B><I>Various interest groups have expressed their opposition to the policy. </I> </P>
+<P> <U> PREP. </U><B> against sb/sth's ~(s) </B><I>The solicitor refused to act against his client's interests. </I><B>| contrary to sb/sth's ~ </B><I>The union refused to support proposals that it saw as contrary to the interests of its members. </I><B>| in sb/sth's ~(s) </B><I>New work practices were introduced in the interests of efficiency. </I><B>| of ~ </B><I>We met to discuss matters of common interest. </I><B>| out of ~ </B><I>He was obviously acting purely out of selfish interest. </I> </P>
+<P> <U> PHRASES </U><B> a conflict of interests </B><I>One member of the planning committee had a conflict of interests as he lived near the proposed motorway. </I><B>| have sb's (best) interests at heart </B><I>Although he was sometimes too strict with his children, he had their best interests at heart. </I> </P>
+<P> <SUP> 6 </SUP> <TT> legal right to share in profits </TT> </P>
+<P> <U> ADJ. </U><B> powerful | controlling, majority | minority | joint | banking, business, commercial, shipping </B> </P>
+<P> <U> VERB + INTEREST </U><B> have </B><I>He has controlling interests in several ventures. </I><B>| sell </B> </P>
+<P> <U> PREP. </U><B> ~ in</B> </P>
+</DIV><DIV class="item"><P class="word"><B>interest </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> greatly, particularly, really, very much </B><I>It is this aspect of the work that really interests me. </I> </P>
+<P> <U> VERB + INTEREST </U><B> try to </B><I>She tried to interest the director in her scheme. </I> </P>
+</DIV>

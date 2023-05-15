@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>rail </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> bar </TT> </P>
+<P> <U> ADJ. </U><B> guard, safety | curtain, picture, towel </B><I>heated towel rails </I><B>| altar, balcony, banister </B> </P>
+<P> <U> VERB + RAIL </U><B> grip, hold on to, lean on </B><I>She held tightly on to the rail. </I><B>| hang from </B><I>Lace curtains hung from the brass rails over the bed. </I><B>| fit, fix </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She sat on the rail. </I><B>| over a/the ~ </B><I>He folded the towel over the rail. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (usually <B>rails</B>) tracks </TT> </P>
+<P> <U> VERB + RAIL </U><B> run along/on ~ </B><I>Trams run alog rails. </I> </P>
+<P> <U> PREP. </U><B> along (the) ~s </B><I>The train thundered along the rails. </I><B>| between the ~ </B><I>Weeds grew between the rails. </I><B>| off the ~s </B><I>The train came off the rails. </I><B>| on (the) ~s </B><I>The gun is mounted on rails. </I> </P>
+<P> <SUP> 3 </SUP> <TT> railway system </TT> </P>
+<P> <U> RAIL + NOUN </U><B> fare, ticket | network </B><I>modernizing the rail network </I><B>| route | timetable | service | connection, line, link </B><I>the Channel Tunnel rail link </I><B>| journey | commuter, passenger, traveller, user | transport, travel | traffic | freight | bridge | accident, crash, disaster | employee, staff, worker | union | enthusiast </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>We went from London to Budapest by rail. </I> </P>
+</DIV>

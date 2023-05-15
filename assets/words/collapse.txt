@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>collapse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> building, etc. suddenly falling </TT> </P>
+<P> <U> ADJ. </U><B> sudden </B><I>the sudden collapse of the bridge </I> </P>
+<P> <U> PHRASES </U><B> be in danger of collapse </B> </P>
+<P> <SUP> 2 </SUP> <TT> medical condition </TT> </P>
+<P> <U> ADJ. </U><B> sudden | mental, nervous, physical </B> </P>
+<P> <U> VERB + COLLAPSE </U><B> be close to, be on the point/verge of </B><I>She was on the verge of nervous collapse. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>his collapse from exhaustion </I> </P>
+<P> <U> PHRASES </U><B> a state of collapse </B><I>He was in a state of mental and physical collapse. </I> </P>
+<P> <SUP> 3 </SUP> <TT> sudden/complete failure of sth </TT> </P>
+<P> <U> ADJ. </U><B> complete, total | general | virtual | sudden | economic, financial </B><I>the sudden economic collapse of 2001 </I> </P>
+<P> <U> VERB + COLLAPSE </U><B> bring about, contribute to, lead to, result in </B><I>The war has led to the collapse of agriculture in the area. </I><B>| face, be faced with | be on the brink/point/verge of | prevent </B> </P>
+<P> <U> PREP. </U><B> ~ into </B><I>a collapse into anarchy </I> </P>
+</DIV><DIV class="item"><P class="word"><B>collapse </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a building </TT> </P>
+<P> <U> ADV. </U><B> completely </B> </P>
+<P> <U> PREP. </U><B> into </B><I>Several buildings have collapsed into the sea. </I><B>| under </B><I>The roof collapsed under the weight of snow. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a sick person </TT> </P>
+<P> <U> ADV. </U><B> suddenly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The man collapsed against the wall and slid down it. </I><B>| from </B><I>She collapsed suddenly from a heart attack. </I><B>| with </B><I>He collapsed with shock. </I> </P>
+<P> <SUP> 3 </SUP> <TT> fail </TT> </P>
+<P> <U> ADV. </U><B> eventually, finally </B><I>In November the strike finally collapsed. </I><B>| quickly, rapidly | suddenly | virtually </B> </P>
+<P> <U> PHRASES </U><B> to collapse in the face of sth </B><I>The scheme collapsed in the face of determined opposition. </I> </P>
+</DIV>

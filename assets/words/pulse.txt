@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pulse </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fast, racing, rapid | slow | strong | faint, weak </B> </P>
+<P> <U> VERB + PULSE </U><B> check, feel, take </B><I>Last time I took my pulse, it was a bit fast. </I><B>| check for, feel for </B><I>She reached in through the driver's broken window and checked for a pulse. </I><B>| find | quicken </B><I>There was little to quicken the pulse in his dull routine. </I> </P>
+<P> <U> PULSE + VERB </U><B> beat | quicken, race </B><I>She felt her pulse quicken as she recognized the voice. </I><B>| slow </B> </P>
+<P> <U> PULSE + NOUN </U><B> rate </B><I>My at-rest pulse rate is usually about 80 beats per minute. </I> </P>
+</DIV>

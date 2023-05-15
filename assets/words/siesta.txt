@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>siesta </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> short | afternoon </B> </P>
+<P> <U> VERB + SIESTA </U><B> have, take </B><I>Lots of people were taking a short siesta in the shade. </I> </P>
+<P> <U> SIESTA + NOUN </U><B> time </B> </P>
+<P> <U> PREP. </U><B> for a ~ </B><I>I went upstairs for my afternoon siesta. </I> </P>
+</DIV>

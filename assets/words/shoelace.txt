@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>shoelace </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> undone | loose </B> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + SHOELACE </U><B> do up, tie | undo, untie | retie </B> </P>
+<P> <U> SHOELACE + VERB </U><B> come undone </B>  </B> </P>
+</DIV>

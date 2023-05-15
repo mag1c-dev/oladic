@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>horizon </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> line where earth and sky meet </TT> </P>
+<P> <U> ADJ. </U><B> northern, southern, etc. | distant, far </B><I>The sea stretched away to the distant horizon. </I> </P>
+<P> <U> VERB + HORIZON </U><B> scan </B><I>The captain scanned the horizon for any sign of other vessels. </I> </P>
+<P> <U> PREP. </U><B> above the ~ </B><I>I watched the pale sun climb over the horizon. </I><B>| below the ~ </B><I>The sun was sinking rapidly below the western horizon. </I><B>| beyond the ~ </B><I>Land was still out of sight beyond the horizon. </I><B>| on the ~ </B><I>A cloud of dust on the horizon announced the arrival of the cavalry. </I><B>| over the ~ </B><I>The moon was rising over the horizon. </I></P>
+<P> <SUP> 2 </SUP> <TT> horizons: limits to knowledge/experience  </TT> </P>
+<P> <U> ADJ. </U><B> limited, narrow | new | cultural, intellectual, musical </B><I>My first trip to the theatre broadened my cultural horizons. </I> </P>
+<P> <U> VERB + HORIZON </U><B> broaden, expand, open up, widen </B><I>It is hoped that the course will open up new horizons for students. </I><B>| limit, narrow, restrict </B><I>Their horizons were limited to events within the village community. </I> </P>
+<P> <U> HORIZON + VERB </U><B> stretch </B><I>His horizons didn't stretch beyond his next night out. </I> </P>
+<P> <U> PREP. </U><B> beyond your ~ </B><I>They had become aware of possibilities beyond their own limited horizons. </I> </P>
+</DIV>

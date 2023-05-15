@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>arithmetic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> basic, simple | mental </B><I>a test of mental arithmetic </I> </P>
+<P> <U> VERB + ARITHMETIC </U><B> do </B><I>By the age of ten, the children can do simple arithmetic. </I><B>| check </B><I>I've worked out the price, but I need to check the arithmetic. </I> </P>
+</DIV>

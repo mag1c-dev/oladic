@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>stamp </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on a letter/package </TT> </P>
+<P> <U> ADJ. </U><B> postage | first-class, second-class | Christmas, commemorative </B> </P>
+<P> <U> QUANT. </U><B> book, set, sheet </B><I>a book of ten first-class stamps </I> </P>
+<P> <U> VERB + STAMP </U><B> put on, stick on </B><I>She stuck a first-class stamp on the letter. </I><B>| lick, moisten | issue, launch </B><I>The Post Office has launched some new Christmas stamps. </I><B>| collect </B> </P>
+<P> <U> STAMP + NOUN </U><B> album, collecting, collector </B> </P>
+<P> <SUP> 2 </SUP> <TT> instrument for stamping a design, etc. on a surface </TT> </P>
+<P> <U> ADJ. </U><B> official | date </B> </P>
+<P> <SUP> 3 </SUP> <TT> character/quality </TT> </P>
+<P> <U> ADJ. </U><B> unmistakable </B> </P>
+<P> <U> VERB + STAMP </U><B> bear, carry </B><I>His work bears the unmistakable stamp of genius. </I><B>| leave, put </B><I>She left her stamp on the school. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the stamp of authority </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stamp </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard | impatiently </B><I>She stamped her foot impatiently. </I><B>| about, around, down, off </B><I>He stamped off in disgust. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>She stamped on my toe! </I> </P>
+</DIV>

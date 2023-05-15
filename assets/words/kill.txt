@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>kill </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> easy, quick </B> </P>
+<P> <U> VERB + KILL </U><B> make </B><I>The lion made a quick kill. </I><B>| be in at </B><I>I didn't even get to see the fox, let alone be in at the kill. </I><B>| close in for, move in for </B><I>The hunters moved in for the kill. </I> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>The meat is divided up among all those present at the kill. </I><B>| for the ~ </B><I>The animal crouched down, getting ready for the kill. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>kill </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> outright </B><I>He has fought more than fifty bulls, killing three outright. </I><B>| almost, nearly | instantly | accidentally | unlawfully </B> </P>
+<P> <U> VERB + KILL </U><B> want to | be prepared to </B><I>They are quite prepared to kill to achieve their ends. </I><B>| threaten to | be going to, intend to </B><I>(figurative) Mum's going to kill me when she finds out. </I><B>| plot to </B><I>plotting to kill the dictator </I><B>| try to | help (to) | make sb </B><I>It must have been really awful to make her kill herself. </I> </P>
+<P> <U> PHRASES </U><B> admit/deny killing sb, be accused of killing sb, be charged with killing sb, be killed in sth </B><I>soldiers killed in battle </I><B>| be tragically killed </B><I>Their daughter was tragically killed in a road accident. </I> </P>
+</DIV>

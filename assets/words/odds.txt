@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>odds </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great, high, impossible, insuperable, overwhelming, terrible </B><I>She struggled against terrible odds to overcome her illness. </I><B>| long, short </B><I>Sometimes an outsider will win at long odds, but not often. The bookmakers are offering only short odds on the favourite. </I> </P>
+<P> <U> VERB + ODDS </U><B> offer, quote | lay </B><I>I'll lay odds we never see him again. </I><B>| reduce, shorten | beat, defy, overcome </B><I>She defied the odds to beat the clear favourite. </I> </P>
+<P> <U> ODDS + VERB </U><B> shorten | lengthen </B> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>The film is a heart-warming tale of triumph against the odds. </I><B>| ~ against </B><I>The odds against their survival have lengthened. </I><B>| ~ of </B><I>They were offering odds of ten to one. </I><B>| ~ on </B><I>The odds on the outsider were 100?1. </I> </P>
+<P> <U> PHRASES </U><B> against all (the) odds </B><I>Against all the odds, we managed to get through to the final. </I> </P>
+</DIV>

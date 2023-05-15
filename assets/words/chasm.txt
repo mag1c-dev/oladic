@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>chasm </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hole in the ground </TT> </P>
+<P> <U> ADJ. </U><B> deep, gaping, great, huge, yawning </B> </P>
+<P> <U> CHASM + VERB </U><B> open (up) </B><I>Suddenly a huge chasm opened in the earth. </I> </P>
+<P> <SUP> 2 </SUP> <TT> great difference of feelings/interests </TT> </P>
+<P> <U> ADJ. </U><B> great, huge, unbridgeable, wide, yawning </B> </P>
+<P> <U> VERB + CHASM </U><B> bridge </B> </P>
+<P> <U> CHASM + VERB </U><B> separate sth </B><I>A chasm separates my generation from my parents'. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>an attempt to bridge the unbridgeable chasm between the two cultures </I><B>| ~ of </B><I>a huge chasm of hate and prejudice </I> </P>
+</DIV>

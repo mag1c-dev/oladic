@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>describe </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> accurately, exactly, in detail </B><I>Their daily lives are described in detail. </I><B>| fully </B><I>This process is fully described in section three of the book. </I><B>| adequately | briefly </B><I>He described briefly what happened. </I><B>| vividly </B> </P>
+<P> <U> VERB + DESCRIBE </U><B> cannot </B><I>Words cannot describe our feelings at that moment. </I><B>| be difficult to, be hard to, be impossible to | go on to </B><I>He goes on to describe very vividly how Caesar was stabbed to death. </I> </P>
+</DIV>

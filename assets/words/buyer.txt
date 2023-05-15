@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>buyer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> potential, prospective | first-time </B><I>The houses are small and inexpensive, ideal for first-time buyers. </I> </P>
+<P> <U> VERB + BUYER </U><B> have | find, get </B><I>They quickly found a buyer for their house. </I><B>| sell sth to </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Have you got a buyer for your house yet? </I> </P>
+<P> <U> PHRASES </U><B> buyer beware </B><I>In matters of second-hand cars, your motto should be &lsquo;buyer beware&rsquo; </I>(= the buyer is responsible for checking the quality of the goods)</B><I>. </I><B>| a buyer's market </B><I>In a buyer's market, the commodity is plentiful and so its price is not high. </I> </P>
+</DIV>

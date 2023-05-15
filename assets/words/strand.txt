@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>strand </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> single thread, hair, etc. </TT> </P>
+<P> <U> ADJ. </U><B> long | thick, thin | loose | single </B> </P>
+<P> <U> VERB + STRAND </U><B> twist (together), weave (together) </B><I>She wove the four coloured strands together into a ribbon. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a loose strand of hair </I> </P>
+<P> <SUP> 2 </SUP> <TT> one part of a story, idea, etc. </TT> </P>
+<P> <U> ADJ. </U><B> important, main | different, distinct, separate, various </B><I>At the end, all the different strands of the story are brought together. </I> </P>
+<P> <U> VERB + STRAND </U><B> bring together, draw together, pull together, weave together | disentangle, unravel </B> </P>
+<P> <U> STRAND + VERB </U><B> come together </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>There are three main strands to the policy. </I><B>| ~ in/within </B><I>There are various strands in feminist thinking. </I> </P>
+<P> <U> PHRASES </U><B> strands of opinion/thought</B> </P>
+</DIV>

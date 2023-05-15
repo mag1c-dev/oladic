@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>rethink </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete | fundamental, major, radical </B> </P>
+<P> <U> VERB + RETHINK </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>to have a fundamental rethink of policy </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rethink </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> radically </B> </P>
+<P> <U> VERB + RETHINK </U><B> be forced to, have to, need to </B><I>I think we may have to rethink our policies fairly radically. </I> </P>
+</DIV>

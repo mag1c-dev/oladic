@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>regimen </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strict | combined | dietary | treatment | drug | dosage/dose </B> </P>
+<P> <U> VERB + REGIMEN </U><B> use </B><I>We used a combined regimen of injection treatment and radiation therapy. </I> </P>
+<P> <U> REGIMEN + VERB </U><B> comprise sth </B><I>a treatment regimen comprising two antibiotics </I> </P>
+</DIV>

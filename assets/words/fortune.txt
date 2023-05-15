@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>fortune </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> luck </B> </TT> </P>
+<P> <U> ADJ. </U><B> good | ill </B> </P>
+<P> <U> QUANT. </U><B> piece, stroke </B><I>By a stroke of good fortune, Steven was still in his office. </I> </P>
+<P> <U> VERB + FORTUNE </U><B> have | bring (sb)  </B><I>A horseshoe nailed to your door is supposed to bring good fortune. </I> </P>
+<P> <U> FORTUNE + VERB </U><B> be on sb's side, favour sb </B><I>For once, fortune was on our side: the weather improved in time for the match. </I><B>| smile on sb </B><I>Fortune smiled on me that day </I> (= I had good fortune)</B><I>. </I> </P>
+<P> <U> PHRASES </U><B> as good/ill fortune would have it </B><I>As good fortune would have it, a bus came along just when I needed it. </I><B>| a change in/of fortune </B><I>All we can do is hope for a change in fortune. </I><B>| have the good fortune to do sth </B><I>I had the good fortune to work with people I liked. </I> </P>
+<P> <SUP> 2 </SUP> <TT> fortunes: what happens to sb/sth  </TT> </P>
+<P> <U> ADJ. </U><B> declining, flagging | changing, fluctuating, mixed </B><I>a year of mixed fortunes for the company </I><B>| economic, electoral </B> </P>
+<P> <U> VERB + FORTUNE </U><B> revive </B><I>The party still hopes to revive its flagging electoral fortunes. </I><B>| follow </B><I>fans who follow the fortunes of their chosen team </I> </P>
+<P> <U> FORTUNE + VERB </U><B> change, fluctuate </B><I>A company's fortunes can change overnight. </I><B>| improve, rise | decline, fall </B><I>as the country's fortunes rose and fell </I> </P>
+<P> <U> PHRASES </U><B> a reversal of fortunes </B><I>The company suffered a great reversal of fortunes when public taste changed. </I> </P>
+<P> <SUP> 3 </SUP> <TT> what is going to happen to sb in the future </TT> </P>
+<P> <U> VERB + FORTUNE </U><B> read, tell </B><I>They went to have their fortunes read. </I> </P>
+<P> <U> FORTUNE + NOUN </U><B> teller, telling </B> </P>
+<P> <SUP> 4 </SUP> <TT> very large amount of money </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, immense, large, substantial, vast | small </B>(= quite large) <I>Rebuilding the house must have cost a small fortune. </I><B>| family, personal </B> </P>
+<P> <U> VERB + FORTUNE </U><B> accumulate, acquire, amass, build (up), make, win | inherit | leave (sb) </B><I>Her aunt died and left her a fortune. </I><B>| lose, squander </B><I>He lost his fortune in the stock market crash of 1929. squandering the family fortune </I><B>| seek </B><I>They went to seek their fortune abroad. </I><B>| be worth </B><I>(informal) Some of those old toys are worth a fortune now. </I><B>| cost </B><I>(informal) </I><B>| pay, spend </B><I>(both informal) She spends a fortune on clothes! </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>He built his fortune from breeding horses. </I><B>| ~ in </B><I>She made a fortune in the property boom. </I><B>| ~ on </B><I>They sold their house at the right time and made a fortune on it. </I><B>| ~ out </B><I>He has amassed a considerable fortune out of trading shares. </I> </P>
+<P> <U> PHRASES </U><B> fame and fortune </B><I>They went to America in search of fame and fortune. </I><B>| heir/heiress to a fortune </B><I>He was sole heir to the family fortune. </I> </P>
+</DIV>

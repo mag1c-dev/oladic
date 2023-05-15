@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>cooking </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, superb, wonderful </B><I>Her cooking is wonderful. </I><B>| home </B><I>I miss my mother's good home cooking. </I><B>| traditional </B><I>traditional English cooking </I><B>| regional | Chinese, Italian, etc. </B><I>French regional cooking </I><B>| vegetarian | slow </B> </P>
+<P> <U> VERB + COOKING </U><B> do </B><I>Who does most of the cooking in your house? </I> </P>
+<P> <U> PREP. </U><B> during ~ </B><I>Stir the mixture to prevent the beans sticking to the bottom during cooking. </I><B>| in ~ </B><I>I use yogurt quite a lot in cooking. </I> </P>
+</DIV>

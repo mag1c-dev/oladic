@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>button </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for fastening clothes </TT> </P>
+<P> <U> ADJ. </U><B> bottom, top </B><I>The top button of his shirt was undone. </I><B>| coat, shirt, etc. </B> </P>
+<P> <U> VERB + BUTTON </U><B> do up, fasten | undo, unfasten | fumble with | lose </B><I>My coat has lost a button. </I><B>| rip off | sew on </B> </P>
+<P> <U> BUTTON + VERB </U><B> be missing, come off, pop (off) </B><I>There was a button missing from his shirt. </I>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> small switch </TT> </P>
+<P> <U> ADJ. </U><B> on, start/starter | off, stop | control | fast forward, pause, play, rewind | alarm, panic </B><I>She hit the alarm button as fast as she could. </I><B>| mouse | self-destruct </B><I>(often figurative) </I> </P>
+<P> <U> VERB + BUTTON </U><B> click (on) </B><I>(computing)</I>, <B>depress, hit, hold down, press, push </B><I>Click the left mouse button twice. </I><B>| keep your finger on | release, take your finger off </B> </P>
+<P> <U> PHRASES </U><B> at the touch of a button </B><I>The remote control allows you to change channel at the touch of a button. </I>&gt; Special page at COMPUTER </B> </P>
+</DIV>

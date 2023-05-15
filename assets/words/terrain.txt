@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>terrain </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> flat | hilly, mountainous, rocky, rough, rugged, uneven | difficult, harsh, inhospitable </B><I>difficult terrain for cycling </I><B>| familiar | unknown | boggy, marshy </B> </P>
+<P> <U> VERB + TERRAIN </U><B> cross, traverse </B> </P>
+<P> <U> PREP. </U><B> across/over ~ </B><I>It took us the whole day to trek across the rocky terrain. </I> </P>
+</DIV>

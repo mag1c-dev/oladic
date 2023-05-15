@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>jury </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a court of law </TT> </P>
+<P> <U> ADJ. </U><B> inquest, trial | unanimous </B>(only after <B>jury) </B><I>The jury were unanimous in their verdict. </I><B>| hung </B><I>A retrial was necessary after the original trial ended with a hung jury. </I> </P>
+<P> <U> VERB + JURY </U><B> serve on, sit on | tell </B><I>Tell the jury what happened, in your own words. </I><B>| direct </B><I>The judge directed the jury to return a verdict of not guilty. </I><B>| swear in </B><I>The new jury were sworn in. </I> </P>
+<P> <U> JURY + VERB </U><B> hear sth </B><I>The jury heard how the boy had obtained a carving knife from a friend's house. </I><B>| retire | consider its verdict </B><I>The jury has retired to consider its verdict. </I><B>| be out </B><I>The jury is still out </I>(= still deciding)</B><I>. (figurative) The jury is still out on this new policy. </I><B>| agree (on) a verdict, arrive at/reach a verdict, give its verdict, return a verdict | convict sb, find sb guilty </B><I>The jury convicted Menzies of assaulting Smith. </I><B>| acquit sb, clear sb, find sb not guilty | award sb </B><I>The jury awarded her damages of </I>&pound;</B><I>30,000. </I> </P>
+<P> <U> JURY + NOUN </U><B> service </B><I>It was the second time he had been called up for jury service. </I><B>| trial | foreman, member | system </B><I>a review of the jury system </I> </P>
+<P> <U> PREP. </U><B> before a ~ </B><I>The trial will take place before a jury. </I><B>| on a/the ~ </B><I>There were only three women on the jury. </I><B>| ~ of </B><I>the jury of seven women and five men </I> </P>
+<P> <U> PHRASES </U><B> trial by jury </B><I>You have a right to trial by jury. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a competition </TT> </P>
+<P> <U> VERB + JURY </U><B> choose, select </B><I>The jury is selected from the winners in previous years. </I> </P>
+<P> <U> JURY + VERB </U><B> judge sth | consist of sb </B><I>The jury consisted of an architect, a photographer and an artist. </I><B>| award (sb) sth, give sb sth </B><I>The jury has awarded the prize for best exhibit in the show to Harry Pearson. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>He was on a jury judging a songwriting competition. </I> </P>
+</DIV>

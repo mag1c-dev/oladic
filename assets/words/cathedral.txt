@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cathedral </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, magnificent | medieval, modern | baroque, Gothic, Romanesque | Anglican, Catholic </B> </P>
+<P> <U> VERB + CATHEDRAL </U><B> build | see, visit </B> </P>
+<P> <U> CATHEDRAL + VERB </U><B> dominate sth </B><I>The great Gothic cathedral dominates the city. </I> </P>
+<P> <U> CATHEDRAL + NOUN </U><B> city, town | church </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>We went to mass in the cathedral. </I> </P>
+</DIV>

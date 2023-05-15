@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tag </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> label </TT> </P>
+<P> <U> ADJ. </U><B> identity, name, price </B><I>The baby had a plastic name tag on its ankle. Despite a price tag of </I>&pound;</B><I>100,000, the car was sold in two days. </I><B>| security | gift, luggage | ankle, ear, wrist </B> </P>
+<P> <U> VERB + TAG </U><B> attach, put </B><I>I still have to put gift tags on all the presents. </I> </P>
+<P> <U> PHRASES </U><B> sth carries/has a price tag of </B>&pound;<B>500/$10,000, etc. </B><I>This designer suit carries a price tag of </I>&pound;</B><I>2,000. </I> </P>
+<P> <SUP> 2 </SUP> <TT> reputation </TT> </P>
+<P> <U> VERB + TAG </U><B> lose, shake off, shed </B><I>The president made several jokes in an attempt to shake off his &lsquo;humourless&rsquo; tag. </I> </P>
+</DIV>

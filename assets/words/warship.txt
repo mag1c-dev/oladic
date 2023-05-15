@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>warship </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> modern | surface | naval | nuclear </B> </P>
+<P> <U> QUANT. </U><B> fleet </B> </P>
+<P> <U> VERB + WARSHIP </U><B> build | command | lose </B><I>Germany lost two warships during this attack. </I> </P>
+<P> <U> PREP. </U><B> aboard/on/on board a ~ </B><I>He is serving on a warship in the Pacific. </I> </P>
+</DIV>

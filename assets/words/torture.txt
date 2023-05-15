@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>torture </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> brutal | systematic | mental, physical </B> </P>
+<P> <U> VERB + TORTURE </U><B> inflict | suffer </B> </P>
+<P> <U> TORTURE + NOUN </U><B> camp, chamber, room | victim</B> </P>
+</DIV><DIV class="item"><P class="word"><B>torture </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly, brutally, severely | routinely </B><I>The prisoners were routinely tortured. </I> </P>
+<P> <U> PHRASES </U><B> torture sb to death</B> </P>
+</DIV>

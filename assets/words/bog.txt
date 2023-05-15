@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>bog </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> vast | stagnant, swampy | peat </B> </P>
+<P> <U> VERB + BOG </U><B> sink into </B><I>The more she struggled the deeper she sank into the bog. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He found himself in a vast stagnant bog. </I><B>| through a/the ~ </B><I>walking through a bog </I> </P>
+</DIV>

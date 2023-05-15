@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>rebellion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> attempt to change the government </TT> </P>
+<P> <U> ADJ. </U><B> full-scale, major | minor, small | general, open | armed | military, peasant, popular </B> </P>
+<P> <U> VERB + REBELLION </U><B> rise (up) in </B><I>Simon de Montfort rose in rebellion in 1258. </I><B>| launch, raise </B><I>(literary)</I>, <B>stage </B><I>They staged a rebellion against British rule in Ireland. </I><B>| set off, spark off </B><I>The re-introduction of conscription sparked off a major rebellion. </I><B>| foment, provoke (sb/sth to) </B><I>attempts to foment rebellion in the Cabinet The new taxes provoked the population to open rebellion. </I><B>| threaten </B><I>The opposition party members threatened rebellion. </I><B>| join | take part in | lead | support | crush, put down, quell, suppress </B> </P>
+<P> <U> REBELLION + VERB </U><B> occur </B><I>Peasant rebellions occurred throughout the 16th century. </I><B>| begin, break out </B><I>Rebellion broke out in the Rhineland. </I><B>| fail </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>They are in rebellion against the conservative hierarchy of the Church. </I><B>| ~ against </B><I>a rebellion against the new king </I><B>| ~ over </B><I>a rebellion over an increase in VAT </I> </P>
+<P> <SUP> 2 </SUP> <TT> opposition to authority </TT> </P>
+<P> <U> ADJ. </U><B> adolescent, teenage, youthful </B> </P>
+<P> <U> REBELLION + VERB </U><B> stir </B><I>The band refused to go on stage and rebellion began to stir in the audience. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>rebellion against their parents </I> </P>
+<P> <U> PHRASES </U><B> an act of rebellion, a form of rebellion</B> </P>
+</DIV>

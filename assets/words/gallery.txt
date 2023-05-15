@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>gallery </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for art </TT> </P>
+<P> <U> ADJ. </U><B> art, exhibition, picture, portrait | commercial, private, public | national </B><I>He offered ten major paintings to start a national gallery of modern British art. </I> </P>
+<P> <U> VERB + GALLERY </U><B> go to, visit </B> </P>
+<P> <U> GALLERY + VERB </U><B> exhibit sth, show sth </B><I>Some of his work has been exhibited by local art galleries. </I><B>| specialize in sth </B><I>a gallery specializing in ceramics </I><B>| close, open </B> </P>
+<P> <U> GALLERY + NOUN </U><B> space </B><I>The extension will provide 600 square metres of new gallery space. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The painting is now on display at the National Gallery in London. </I><B>| in a/the ~ </B><I>There were very few people in the gallery. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in a hall </TT> </P>
+<P> <U> ADJ. </U><B> long, wide | first-floor, upper | public </B><I>The packed public gallery at Teesside Crown Court erupted in a roar of approval. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>I found myself in a wide gallery looking down on the floor below. </I> </P>
+</DIV>

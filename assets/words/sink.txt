@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>sink </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> kitchen | blocked | earthenware, enamel, porcelain, stainless steel, stone </B> </P>
+<P> <U> VERB + SINK </U><B> fill </B><I>She filled the sink with hot water. </I><B>| block | clear, unblock </B> </P>
+<P> <U> SINK + NOUN </U><B> unit | plunger </B><I>I bought a sink plunger to clear the blocked kitchen sink. </I> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>She was at the sink, washing up the dinner things. </I><B>| down the ~ </B><I>Don't pour tea leaves down the kitchen sink?it'll get blocked. </I><B>| in the ~ </B><I>Put the dishes in the sink. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sink </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> in water/mud, etc. </TT> </P>
+<P> <U> ADV. </U><B> slowly | fast </B><I>Fergus was in waist-deep and sinking fast. </I><B>| deep | down </B><I>She sank down into the soft soil. </I> </P>
+<P> <U> VERB + SINK </U><B> begin to, start to </B> </P>
+<P> <U> PREP. </U><B> below/beneath </B><I>We watched the boat sink beneath the waves. </I><B>| into </B><I>Our feet sank deep into the soft sand as we walked. </I><B>| (up) to </B><I>He sank up to his knees in the mud. </I> </P>
+<P> <U> PHRASES </U><B> sink like a stone </B><I>The box sank like a stone. </I><B>| sink without trace </B><I>It seemed as though the ship had sunk without trace. </I> </P>
+<P> <SUP> 2 </SUP> <TT> fall/sit down </TT> </P>
+<P> <U> ADV. </U><B> gratefully, happily </B><I>I sank gratefully into the warm, dry bed. </I><B>| gracefully | low | back, down </B> </P>
+<P> <U> PREP. </U><B> into </B><I>He sank lower into his chair. </I><B>| onto </B><I>She sank gracefully down onto a cushion at his feet. </I> </P>
+<P> <U> PHRASES </U><B> sink to the floor/ground </B><I>She sank to the ground, exhausted. </I><B>| sink to your knees </B><I>The old man had sunk to his knees. </I> </P>
+</DIV>

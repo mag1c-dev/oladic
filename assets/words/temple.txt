@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>temple </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> building used for worship </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>the great temples of Egypt </I><B>| ancient, classical | sacred | ruined | Buddhist, Hindu, etc. | heathen, pagan </B> </P>
+<P> <U> TEMPLE + NOUN </U><B> priest </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>They went to pray in the temple. </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of the head </TT> </P>
+<P> <U> ADJ. </U><B> left, right | throbbing </B> </P>
+<P> <U> PREP. </U><B> at sb's/the ~ s </B><I>He's greying at the temples. </I><B>| in sb's ~ s </B><I>There was a throbbing in her temples. </I> </P>
+</DIV>

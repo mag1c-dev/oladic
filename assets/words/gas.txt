@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>gas </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> substance like air </TT> </P>
+<P> <U> ADJ. </U><B> noxious, poisonous, toxic | explosive, inflammable, radioactive | inert | exhaust, greenhouse </B><I>pollution from greenhouse gases </I><B>| nerve, tear </B><I>Police used water cannon and tear gas against demonstrators. </I> </P>
+<P> <U> VERB + GAS </U><B> give off, produce </B><I>It gives off a poisonous gas as it rots down. </I> </P>
+<P> <U> GAS + VERB </U><B> build up </B><I>Noxious gases had built up in the sewer. </I><B>| escape, leak </B><I>Toxic gases can escape through one of the pipes. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for heating/cooking </TT> </P>
+<P> <U> ADJ. </U><B> butane, coal, natural, propane | bottled, Calor </B> </P>
+<P> <U> VERB + GAS </U><B> cook with </B><I>I prefer to cook with gas. </I><B>| light, turn on </B><I>I lit the gas and put the soup on to warm. </I> </P>
+<P> <U> GAS + NOUN </U><B> appliance, boiler, central heating, cooker, fire, lamp, oven | bottle, cylinder, pipeline | board | industry | field </B><I>tapping the North Sea gas fields </I><B>| supply | works </B><I>Local gas works were closed as natural gas became available. </I><B>| leak </B><I>All gas leaks should be reported as soon as possible. </I> </P>
+<P> <U> PHRASES </U><B> gas mark 2, 3, etc. </B><I>Set the oven at gas mark 4. </I> </P>
+</DIV>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>cloud </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mass of very small drops of water in the sky </TT> </P>
+<P> <U> ADJ. </U><B> dense, heavy, thick | light | fluffy | cirrus, cumulus | high, low | broken, scattered </B><I>skies of broken cloud </I><B>| fast-moving, scudding | black, dark, grey, white | rain, storm, threatening, thunder </B><I>Rain clouds were looming on the horizon. </I> </P>
+<P> <U> QUANT. </U><B> band, bank, layer, mass, wisp </B><I>a layer of high cloud </I> </P>
+<P> <U> VERB + CLOUD </U><B> seed </B>(= to place a substance in a cloud to make it produce rain)  </P>
+<P> <U> CLOUD + VERB </U><B> form, gather, mass </B><I>Dark clouds were gathering in the west. </I><B>| cover sth, envelop sth, obscure sth | break, clear, disperse, lift, part </B><I>The clouds broke a little, and the sun came out. </I><B>| drift, float, hang, hover, loom, move, pass, race, roll, scud, swirl </B><I>Thick cloud hung over the moor. A cloud passed over the sun. White clouds scudded across the sky. </I> </P>
+<P> <U> CLOUD + NOUN </U><B> bank, cover, formation </B><I>The cloud cover is quite dense today. </I> </P>
+<P> <U> PREP. </U><B> above/below the ~s </B><I>flying above the clouds </I><B>| through the ~s </B><I>She could see the sun through the clouds. </I> </P>
+<P> <U> PHRASES </U><B> a break in the cloud(s), a layer of cloud </B> </P>
+<P> <SUP> 2 </SUP> <TT> mass of smoke, dust, etc. </TT> </P>
+<P> <U> ADJ. </U><B> great, huge </B><I>a great cloud of grey smoke </I><B>| dense, thick | billowing, swirling | mushroom </B><I>the mushroom cloud from a nuclear bomb </I><B>| dust, radioactive, smoke </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a thick cloud of steam </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>build-up </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> gradual increase </TT> </P>
+<P> <U> ADJ. </U><B> gradual, slow | steady | rapid | massive </B> VERB + BUILD-UP <B>cause, lead to </B><I>The leak led to a slow build-up of carbon dioxide. </I><B>| avoid, prevent </B> </P>
+<P> <U> PREP. </U><B> during/in the ~ | ~ of </B> </P>
+<P> <SUP> 2 </SUP> <TT> period of time before an event </TT> </P>
+<P> <U> ADJ. </U><B> pre-match, pre-trial, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Tension is mounting in the build-up to the elections. </I> </P>
+</DIV>

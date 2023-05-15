@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>employ </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> pay sb to work </TT> </P>
+<P> <U> ADV. </U><B> directly, indirectly </B><I>By 1960 the arms industry in America directly employed 3.5 million people. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>A large part of the workforce is employed in agriculture. </I> </P>
+<P> <U> PHRASES </U><B> be fully employed </B><I>10% of 10?15-year-old girls were fully employed as late as 1911. </I><B>| be gainfully employed </B><I>Those not gainfully employed are dependent on their savings. </I><B>| be permanently/temporarily employed, be regularly/irregularly employed </B> </P>
+<P> <SUP> 2 </SUP> <TT> use </TT> </P>
+<P> <U> ADV. </U><B> commonly, extensively, frequently, often, widely </B><I>The safety net is an image commonly employed in everyday life. </I><B>| generally, usually | actively, deliberately </B><I>teaching that actively employs computers in innovative and fruitful ways </I><B>| successfully, usefully </B> </P>
+<P> <U> VERB + EMPLOY </U><B> can/could </B><I>The army has far more junior officers than it can usefully employ. </I></P>
+<P> <SUP> 3 </SUP> <TT> be employed: be busy doing sth  </TT> </P>
+<P> <U> ADV. </U><B> better </B><I>You'd be far better employed taking care of your own affairs. </I><B>| busily, usefully </B> </P>
+<P> <U> PREP. </U><B> in </B><I>Will and Joe were busily employed in clearing out all the furniture. </I> </P>
+</DIV>

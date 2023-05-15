@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cigarette </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> lighted, lit </B><I>carelessly throwing a lighted cigarette in the litter bin </I><B>| half-smoked | illicit </B><I>She slipped outside for an illicit cigarette. </I><B>| filter tip, hand-rolled, king size, low-tar, menthol </B> </P>
+<P> <U> QUANT. </U><B> pack, packet </B><I>She smokes a packet of cigarettes a day. </I> </P>
+<P> <U> VERB + CIGARETTE </U><B> smoke | draw on, pull on, suck on </B><I>He pulled on his cigarette and waited for the train. </I><B>| light | extinguish, put out, stub out </B><I>Please extinguish all cigarettes now. </I><B>| roll </B><I>She rolls her own cigarettes. </I><B>| flick (away) </B><I>The old man flicked his cigarette onto the roadside. </I><B>| advertise </B><I>Posters advertising cigarettes have to carry government health warnings. </I> </P>
+<P> <U> CIGARETTE + VERB </U><B> burn </B><I>The cigarette burned slowly in the ashtray. </I><B>| glow </B><I>The cigarettes glowed in the dark. </I> </P>
+<P> <U> CIGARETTE + NOUN </U><B> ash, smoke </B><I>the smell of stale cigarette smoke </I><B>| butt, end | case, packet | holder, lighter | smoker | burn | advertising</B> </P>
+</DIV>

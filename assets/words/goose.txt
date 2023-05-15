@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>goose </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> wild | roast </B> </P>
+<P> <U> QUANT. </U><B> flock, gaggle </B>(only used for geese on the ground), <B>skein (only used for geese that are flying) </B> </P>
+<P> <U> GOOSE + VERB </U><B> waddle | hiss, honk | feed, graze | migrate</B> </P>
+</DIV>

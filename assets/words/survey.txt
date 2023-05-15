@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>survey </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> study of sth </TT> </P>
+<P> <U> ADJ. </U><B> comprehensive, detailed, extensive, full, in-depth, major, systematic | brief, quick | sample </B><I>The council undertook a sample survey of primary schools in the county. </I><B>| regular | annual, monthly, etc. | local, national, nationwide, regional | independent | historical </B><I>a historical survey of children's clothing </I><B>| doorstep, postal, questionnaire, telephone | comparative | field | pilot | attitude, customer, opinion </B><I>A recent customer survey showed widespread ignorance about the availability of organic food. </I><B>| market (research), marketing </B> </P>
+<P> <U> VERB + SURVEY </U><B> carry out, conduct, do, make, undertake </B><I>The charity did a survey of people's attitudes to the disabled. </I><B>| commission | participate in, respond to, take part in </B><I>94 per cent of people who took part in the survey said they agreed. </I> </P>
+<P> <U> SURVEY + VERB </U><B> cover sth, deal with sth, examine sth </B><I>The survey covered 74 species. </I><B>| ask sth | claim sth, conclude sth, confirm sth, disclose sth, find sth, highlight sth, identify sth, indicate sth, report sth, reveal sth, say sth, show sth, suggest sth </B><I>A customer satisfaction survey highlighted the need for clearer pricing. </I> </P>
+<P> <U> SURVEY + NOUN </U><B> data, results | method, technique | respondent </B> </P>
+<P> <U> PREP. </U><B> according to a/the ~ </B><I>According to the survey, many young adults have experimented with drugs of some kind. </I><B>| in a/the ~ </B><I>the questions used in the survey </I><B>| ~ into </B><I>a survey into the state of English in universities </I><B>| ~ on </B><I>a survey on drivers' attitudes to the police </I> </P>
+<P> <U> PHRASES </U><B> the findings/results of a survey </B> </P>
+<P> <SUP> 2 </SUP> <TT> of land or a building </TT> </P>
+<P> <U> ADJ. </U><B> full | aerial | archaeological, geological, geophysical, land, seismic | structural, valuation </B><I>A structural survey of the property revealed serious defects. </I> </P>
+<P> <U> VERB + SURVEY </U><B> carry out, do, make</B> </P>
+</DIV><DIV class="item"><P class="word"><B>survey </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully | coldly, coolly, critically </B><I>Her green eyes surveyed him coolly. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>I surveyed the scene from my window. </I> </P>
+</DIV>

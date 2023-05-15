@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>rigid </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not able/willing to change </TT> </P>
+<P> <U> VERBS </U><B> appear, be, seem | become, grow </B><I>He grew even more rigid and uncompromising as he got older. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | entirely </B><I>An entirely rigid system is impractical. </I><B>| excessively | fairly, rather, relatively </B><I>We operate within fairly rigid parameters. </I> </P>
+<P> <SUP> 2 </SUP> <TT> stiff </TT> </P>
+<P> <U> VERBS </U><B> be, feel, lie, look, stand </B><I>She feigned sleep, lying rigid in bed. </I><B>| become, go | remain </B> </P>
+<P> <U> ADV. </U><B> very | absolutely, completely, quite | almost </B> </P>
+<P> <U> PREP. </U><B> with </B><I>He went absolutely rigid with shock. </I> </P>
+</DIV>

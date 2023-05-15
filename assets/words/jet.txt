@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>jet </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plane with a jet engine </TT> </P>
+<P> <U> ADJ. </U><B> jumbo | supersonic | commercial, passenger | private | business, corporate, executive | holiday | cargo | air force, fighter, military | low-flying </B> </P>
+<P> <U> VERB + JET </U><B> fly, pilot </B> </P>
+<P> <U> JET + VERB </U><B> fly | take off | land | crash, explode </B> </P>
+<P> <U> JET + NOUN </U><B> aircraft, airliner, bomber, fighter, plane | engine | fuel | pilot </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Australia was a mere couple of hours away by jet. She was flown by private jet to the capital Lusaka. </I><B>| in a/the ~ </B><I>He flew to Majorca in his private jet. </I> </P>
+<P> <SUP> 2 </SUP> <TT> stream of gas, water, etc. </TT> </P>
+<P> <U> ADJ. </U><B> little | air, gas, water </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Little jets of steam spurted from the engine. </I> </P>
+</DIV>

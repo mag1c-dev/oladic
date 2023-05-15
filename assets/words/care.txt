@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>care </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> looking after sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> good, great </B><I>He loved his books and took great care of them. </I><B>| loving, tender </B><I>She's still very frail and will need lots of tender loving care. </I><B>| private | voluntary | constant, full-time, round-the-clock | continuing, long-term | short-term, temporary | daily, day-to-day, routine | intensive </B><I>Last night she was critically ill in intensive care. an intensive care unit </I><B>| clinical, emergency, health, medical, nursing, patient | hospital, inpatient, institutional, residential | day, non-hospital, outpatient | community | domestic, domiciliary, home, home-based | primary, secondary, tertiary | antenatal, dental, psychiatric | palliative | formal, informal </B><I>The couple relied on informal care from relatives. </I><B>| foster | public </B><I>children in public care </I><B>| pastoral, spiritual | client, customer | hair, skin </B> </P>
+<P> <U> VERB + CARE </U><B> take </B><I>He left his job to take care of his sick wife. I'll take care of hiring the car. </I><B>| provide (sb with) | need, require | receive | take sb into </B><I>The boys were taken into care when their parents died. </I> </P>
+<P> <U> CARE + NOUN </U><B> services | centre, home, unit | manager, worker | management | plan, policy, programme | allowance | needs, order </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He had been in foster care since he was five. </I><B>| in sb's ~ </B><I>You won't come to any harm while you're in their care. Many historic sites are in the care of the National Trust. </I><B>| under the ~ of </B><I>He's under the care of Dr Parks. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> the quality/standard of care </B> </P>
+<P> <SUP> 2 </SUP> <TT> attention/thought given to sth </TT> </P>
+<P> <U> ADJ. </U><B> extreme, good, great </B><I>Great care should be taken to ensure that the equipment is clean. </I><B>| extra, special | infinite, the utmost | exquisite, meticulous, painstaking, scrupulous </B><I>The little girl was writing her name with painstaking care. </I><B>| exaggerated, excessive </B><I>He takes excessive care of his appearance. </I><B>| due </B><I>(formal)</I>, <B>proper, reasonable </B><I>The householder has a duty to take reasonable care for the visitor's safety. </I> </P>
+<P> <U> VERB + CARE </U><B> exercise, take </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>A label on the box read: &lsquo;Glass?handle with care&rsquo;. </I><B>| without ~ </B><I>He was found guilty of driving without due care and attention. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>care </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> deeply, genuinely, a lot, passionately, really, truly | hardly, not greatly, not much, not particularly </B><I>He hardly cares what he does any more. I don't know which she chose, nor do I greatly care. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>He really cares about the environment. </I><B>| for </B><I>You genuinely care for him, don't you? </I> </P>
+<P> <U> PHRASES </U><B> be past caring </B><I>I'm past caring what he does </I>(= I don't care any more)</B><I>. </I> </P>
+</DIV>

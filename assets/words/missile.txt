@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>missile </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> explosive weapon </TT> </P>
+<P> <U> ADJ. </U><B> long-range, medium-range, short-range | ballistic, cruise, guided, heat-seeking | land-based | mobile | intercontinental | strategic, tactical | anti-aircraft, anti-ballistic, anti-missile, anti-tank | air-to-air, air-to-surface, surface-to-air, surface-to-surface | nuclear | conventional </B> </P>
+<P> <U> VERB + MISSILE </U><B> be armed with, carry | aim | fire, launch | intercept, shoot down | deploy </B><I>strategic missiles deployed in sparsely-populated desert areas </I> </P>
+<P> <U> MISSILE + VERB </U><B> destroy sth, hit sth | miss sth </B><I>All of the missiles missed their target. </I> </P>
+<P> <U> MISSILE + NOUN </U><B> base, site | attack, strike | programme, system | warhead </B> </P>
+<P> <SUP> 2 </SUP> <TT> object fired or thrown </TT> </P>
+<P> <U> VERB + MISSILE </U><B> be armed with, carry, hold </B><I>a crowd of youths armed with missiles that included petrol bombs </I><B>| hurl, pelt sb with, throw </B><I>They pelted her with eggs and various other missiles. </I> </P>
+<P> <U> MISSILE + VERB </U><B> hit sb/sth, strike sb/sth</B> </P>
+</DIV>

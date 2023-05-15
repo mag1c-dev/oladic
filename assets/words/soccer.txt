@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>soccer </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> amateur, professional | top-class | junior, senior, youth | ladies', women's | league, non-league | premiership | first-division, etc. | international, world | competitive | five-a-side | indoor </B> </P>
+<P> <U> QUANT. </U><B> game </B> </P>
+<P> <U> VERB + SOCCER </U><B> play | watch </B> </P>
+<P> <U> SOCCER + NOUN </U><B> ball | field, ground, pitch, stadium | game, match, tournament | club, team | ace, hero, legend, player, star | boss, coach, manager, official | management | fan, spectator, supporter | season | career | skills | strip | hooligan, thug | violence | fanzine, magazine | memento, memorabilia</B> </P>
+</DIV>

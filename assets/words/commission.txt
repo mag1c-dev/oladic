@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>commission </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> asking sb to do a piece of work for you </TT> </P>
+<P> <U> ADJ. </U><B> private, public </B> </P>
+<P> <U> VERB + COMMISSION </U><B> accept, get, receive </B><I>I have received a private commission to paint the prince's family. </I><B>| give sb </B> </P>
+<P> <SUP> 2 </SUP> <TT> official group asked to report on sth </TT> </P>
+<P> <U> ADJ. </U><B> international, national | joint | independent | government, judicial, official, parliamentary, royal | permanent, standing | special | roving | working | economic, election, electoral, fact-finding, investigating, investigative, planning </B> </P>
+<P> <U> VERB + COMMISSION </U><B> appoint, establish, set up </B><I>The government has set up a joint commission to consider the problem. </I><B>| chair, head, preside over </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the commission for racial equality </I><B>| ~ on </B><I>a commission on domestic violence </I> </P>
+<P> <U> PHRASES </U><B> a commission of enquiry </B> </P>
+<P> <SUP> 3 </SUP> <TT> money for selling sth/providing a service </TT> </P>
+<P> <U> ADJ. </U><B> big, high | small | fixed </B> </P>
+<P> <U> VERB + COMMISSION </U><B> earn, get, receive | pay | charge </B><I>That bank charges a high commission for cashing traveller's cheques. </I><B>| deduct </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She earned </I>&pound;</B><I>2,000 in commission last month. </I><B>| on ~ </B><I>Most of the salespeople are on commission. </I><B>| ~ for/on </B><I>They get a 10% commission on every encyclopedia they sell. </I> </P>
+<P> <U> PHRASES </U><B> on a commission basis </B><I>to work on a commission basis </I> </P>
+</DIV><DIV class="item"><P class="word"><B>commission </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> specially </B><I>specially commissioned works </I> </P>
+<P> <U> PREP. </U><B> from </B><I>The report was commissioned from scientists in five countries. </I> </P>
+</DIV>

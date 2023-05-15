@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>suggestive </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> making you think of sth </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> highly </B><I>(medical)</I>, <B>strongly, very </B><I>The results were highly suggestive of malignancy. </I><B>| vaguely </B> </P>
+<P> <U> PREP. </U><B> of </B><I>music that is suggestive of warm summer days </I> </P>
+<P> <SUP> 2 </SUP> <TT> making people think about sex </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound | become </B> </P>
+<P> <U> ADV. </U><B> very | faintly, quite, rather | sexually</B> </P>
+</DIV>

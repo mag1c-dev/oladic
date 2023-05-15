@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>smash </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> breaking noisily into pieces </TT> </P>
+<P> <U> VERB + SMASH </U><B> hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The plate hit the floor with a smash. </I><B>| ~ of </B><I>He heard the smash of breaking glass. </I> </P>
+<P> <SUP> 2 </SUP> <TT> car, etc. crash </TT> </P>
+<P> <U> ADJ. </U><B> head-on | bus, car, train | motorway, road </B> </P>
+<P> <U> VERB + SMASH </U><B> have </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Four people were seriously injured in a head-on smash on the A45. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in tennis </TT> </P>
+<P> <U> ADJ. </U><B> powerful | overhead </B> </P>
+<P> <U> VERB + SMASH </U><B> hit </B><I>He can hit a powerful overhead smash. </I> </P>
+</DIV>

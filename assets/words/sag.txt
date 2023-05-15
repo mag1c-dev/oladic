@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>sag </b><i>verb </i> </p>
+<p> <u> ADV. </u><div class="ex"><b> slightly | wearily | back, forward </b></div><div class="excontent"><i>He sagged wearily back in his chair. Helga's body sagged forward. </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> against </b></div><div class="excontent"><i>She sagged against the door. </i></div><div class="ex"><b>| under </b></div><div class="excontent"><i>The shelf sagged under the weight of hundreds of volumes. </i> </div></p>
+<p> <u> PHRASES </u><div class="ex"><b> sag in the middle </b></div><div class="excontent"><i>a mattress that was beginning to sag in the middle </i> </div></p>
+</div>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pipeline </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gas, oil, water </B> </P>
+<P> <U> VERB + PIPELINE </U><B> build, construct, lay </B> </P>
+<P> <U> PIPELINE + VERB </U><B> supply sth </B><I>The pipeline supplies Jordan with 15 per cent of its crude oil. </I><B>| pass through sth, run through sth </B><I>The pipeline runs through central Mozambique. </I><B>| link sth </B><I>The pipeline links the refinery with the port. </I> </P>
+<P> <U> PIPELINE + NOUN </U><B> network, system </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>(figurative) </I>(= being discussed or prepared) </B><I>Important changes are already in the pipeline. </I><B>| ~ across </B><I>a pipeline across the desert </I><B>| ~ through </B><I>the construction of a gas pipeline through Morocco </I> </P>
+</DIV>

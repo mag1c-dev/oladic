@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>stall </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> market | book, cake, fish, flower, etc. </B> </P>
+<P> <U> VERB + STALL </U><B> have </B><I>He has a flower stall in Portobello Road market. </I><B>| put up, set out/up | pack up | man, run </B><I>Who's going to man the stall at lunchtime? </I> </P>
+<P> <U> STALL + VERB </U><B> sell sth </B><I>a stall selling second-hand books </I> </P>
+<P> <U> STALL + NOUN </U><B> holder (also stallholder), keeper </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>I bought this trout at the market fish stall. </I><B>| behind the ~ </B><I>the man behind the stall </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stall </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> effectively </B><I>Discussions were effectively stalled by the union's refusal to participate. </I> </P>
+<P> <U> PHRASES </U><B> stall for time </B><I>He asked them all kinds of pointless questions, stalling for time. </I> </P>
+</DIV>

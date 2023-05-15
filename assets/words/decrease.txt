@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>decrease </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dramatic, large, sharp, significant </B><I>There has been a sharp decrease in pollution since the law was introduced. </I><B>| slight, small | gradual, progressive, steady | corresponding </B><I>Fewer houses are available, but there is no corresponding decrease in demand. </I> </P>
+<P> <U> VERB + DECREASE </U><B> show </B><I>This year's figures show a decrease of 30% on last year. </I><B>| report </B><I>Half the companies in the survey reported a decrease in sales. </I><B>| cause, lead to, result in </B> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>Marriage is still on the decrease. </I><B>| ~ from &hellip; to &hellip; </B><I>a decrease from 62% to just under half </I><B>| ~ in </B><I>The new treatment led to a huge decrease in the number of deaths. </I><B>| ~ of </B><I>a decrease of 20% </I><B>| ~ to</B> </P>
+</DIV><DIV class="item"><P class="word"><B>decrease </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> considerably, dramatically, drastically, markedly, significantly | slightly </B><I>Spending has decreased slightly this year. </I><B>| rapidly | steadily | gradually </B> </P>
+<P> <U> PREP. </U><B> by </B><I>Crime has decreased by 20 per cent. </I><B>| from, to </B><I>Average family size has decreased from five to three children. </I><B>| with </B><I>The number of quarrels among children decreases with age. </I> </P>
+<P> <U> PHRASES </U><B> decrease in number/size/value </B><I>The heart gradually decreases in size. </I> </P>
+</DIV>

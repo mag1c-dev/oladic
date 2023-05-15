@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>jazz </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> live | free/free-form, modern, trad/traditional </B> </P>
+<P> <U> VERB + JAZZ </U><B> play | improvise | listen to </B> </P>
+<P> <U> JAZZ + NOUN </U><B> music | clarinettist, guitarist, musician, player, singer, etc. | clarinet, guitar, vocals, etc. | band, combo, group, quartet, trio | improvisation | chords, rhythms | club, venue | festival | scene </B><I>the rising stars of the New York jazz scene </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>harmonies and rhythms common in jazz </I> </P>
+</DIV>

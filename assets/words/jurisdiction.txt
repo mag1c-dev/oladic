@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>jurisdiction </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> limited | exclusive </B><I>The commissioners had exclusive jurisdiction to decide. </I><B>| civil, criminal, ecclesiastical </B> </P>
+<P> <U> VERB + JURISDICTION </U><B> have, retain </B><I>The court has no jurisdiction in this case. </I><B>| exercise </B><I>The court may exercise its jurisdiction to compel the husband to make a settlement upon his wife. </I><B>| claim </B><I>The offshore government claims jurisdiction over the mainland. </I><B>| be subject to, come under </B><I>He is subject to the jurisdiction of the English courts. </I> </P>
+<P> <U> PREP. </U><B> beyond your ~ </B><I>She acted beyond the jurisdiction of any teacher. </I><B>| outside your ~ </B><I>The matter is outside the jurisdiction of UK administrative agencies. </I><B>| under ~ </B><I>The territory is still under Russian jurisdiction. </I><B>| within your ~ </B><I>The matter was not within the jurisdiction of the court. </I><B>| ~ over </B><I>The senate committees have exclusive jurisdiction over the FBI. </I> </P>
+</DIV>

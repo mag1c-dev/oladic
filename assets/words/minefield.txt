@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>minefield </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> area where there are mines </TT> </P>
+<P> <U> VERB + MINEFIELD </U><B> advance into/through, enter </B> </P>
+<P> <SUP> 2 </SUP> <TT> situation full of difficulties </TT> </P>
+<P> <U> ADJ. </U><B> legal, political </B><I>Suggesting changes to the benefits system would be a political minefield. </I> </P>
+<P> <U> VERB + MINEFIELD </U><B> negotiate, pick your way through </B><I>You will first have to pick your way through the minefield of professional advice. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Tax is a minefield for the unwary. </I> </P>
+</DIV>

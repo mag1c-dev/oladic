@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>hurdle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a race </TT> </P>
+<P> <U> VERB + HURDLE </U><B> clear, jump (over) </B><I>She cleared the first few hurdles easily. </I><B>| fall at, hit </B><I>His horse fell at the final hurdle. </I> </P>
+<P> <SUP> 2 </SUP> <TT> problem/difficulty </TT> </P>
+<P> <U> ADJ. </U><B> big, difficult | main, major | final, first, last, next </B><I>The first big hurdle in putting your car on the road is getting insurance. </I> </P>
+<P> <U> VERB + HURDLE </U><B> face </B><I>This is perhaps the most difficult hurdle that we face. </I><B>| clear, jump, overcome, pass </B><I>We'll jump each hurdle as we come to it. You have already overcome the first major hurdle by passing the entrance exam. </I><B>| fall at </B><I>The plan fell at the first hurdle. </I> </P>
+</DIV>

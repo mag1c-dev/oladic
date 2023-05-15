@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>tiredness </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> desperate, extreme, overwhelming | mental, physical | chronic, constant </B> </P>
+<P> <U> QUANT. </U><B> wave </B><I>Once the last boxes were packed away, he was overtaken by a wave of tiredness. </I> </P>
+<P> <U> VERB + TIREDNESS </U><B> be overtaken by, feel, suffer from | relieve </B> </P>
+<P> <U> TIREDNESS + VERB </U><B> overcome sb </B><I>Finally tiredness overcame him, and he fell asleep on the sofa. </I><B>| set in </B><I>A desperate tiredness set in after hours of anxious waiting. </I> </P>
+<P> <U> PHRASES </U><B> a sign of tiredness </B><I>The team was in good spirits and showed no signs of tiredness. </I> </P>
+</DIV>

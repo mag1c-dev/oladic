@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>complete </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> having/including all the parts </TT> </P>
+<P> <U> VERBS </U><B> be, seem | survive </B><I>The book survives complete only in the second edition of 1533. </I><B>| make sth </B><I>You've made my life complete. </I> </P>
+<P> <U> ADV. </U><B> remarkably, unusually </B><I>a remarkably complete account of the negotiations </I><B>| far from, less than, not quite | almost, nearly, virtually | fairly, reasonably </B> </P>
+<P> <SUP> 2 </SUP> <TT> finished </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> almost, nearly, substantially, virtually </B><I>The job is almost complete. </I><B>| far from | not yet</B> </P>
+</DIV><DIV class="item"><P class="word"><B>complete </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> finish sth </TT> </P>
+<P> <U> ADV. </U><B> on schedule, on time | successfully </B><I>The project has now been successfully completed. </I> </P>
+<P> <SUP> 2 </SUP> <TT> write information </TT> </P>
+<P> <U> ADV. </U><B> accurately, correctly </B><I>Has the form been correctly completed? </I> </P>
+</DIV>

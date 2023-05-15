@@ -1,0 +1,28 @@
+
+<DIV class="item"><P class="word"><B>term </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> word or group of words </TT> </P>
+<P> <U> ADJ. </U><B> specific | blanket, broad, general, generic | clear, precise | vague | ambiguous | strong </B><I>His objection was couched in the strongest terms. </I><B>| mild | colloquial, slang | pejorative </B><I>&lsquo;Swot&rsquo; is a pejorative term for someone who studies a lot. </I><B>| technical | clinical, legal, medical, musical, etc. </B> </P>
+<P> <U> VERB + TERM </U><B> use | be couched in | define, explain | coin </B><I>The term &lsquo;acid rain&rsquo; was coined in the nineteenth century. </I> </P>
+<P> <U> TERM + VERB </U><B> connote sth, denote sth, describe sth, mean sth | apply to sth, be applied to sth, cover sth, refer to sth </B><I>The term &lsquo;renewable energy&rsquo; is applied, for example, to energy deriving from solar radiation. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>&lsquo;Old man&rsquo; is a slang term for &lsquo;father&rsquo;. </I><B>| ~ of </B><I>a term of abuse/endearment </I> </P>
+<P> <U> PHRASES </U><B> in glowing terms </B><I>The chairman spoke of the achievements of the company in glowing terms. </I><B>| in no uncertain terms </B><I>We let them know in no uncertain terms just how disappointed we were. </I><B>| in simple terms 2 in &hellip; terms </B>showing what aspect of something you are considering </B> </P>
+<P> <U> ADJ. </U><B> absolute, material, practical, real </B><I>Income has increased in real terms by 5%. </I><B>| relative </B><I>Iceland has had a mild winter, in relative terms. </I><B>| broad, general | concrete | abstract | international | cultural, economic, financial, money, political, social, etc. </B><I>In money terms, the event was a disaster. </I> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>terms</B>) of an agreement/a relationship </TT> </P>
+<P> <U> ADJ. </U><B> favourable, unfavourable | express </B><I>the breach of an express term in the contract </I><B>| implied | contract, credit, peace </B> </P>
+<P> <U> VERB + TERM </U><B> dictate, negotiate, set </B><I>Our opponents set the terms of the debate. </I><B>| agree on </B> </P>
+<P> <U> PREP. </U><B> under the ~s of </B><I>Under the terms of the alliance, Japan was not obliged to enter the war. </I> </P>
+<P> <U> PHRASES </U><B> on amicable/friendly/good terms </B><I>The dispute was resolved on amicable terms. </I><B>| on equal terms </B><I>It is a sport in which the top men and women can compete on equal terms. </I><B>| on familiar/first-name terms </B><I>I'm on first-name terms with my boss. </I><B>| on speaking terms </B><I>They haven't been on speaking terms since they had that big row. </I><B>| terms and conditions </B><I>A wide range of accounts are available, with varying terms and conditions. </I> </P>
+<P> <SUP> 4 </SUP> <TT> period of a school/university year </TT> </P>
+<P> <U> ADJ. </U><B> college, school, university | autumn, spring, etc. | teaching </B> </P>
+<P> <U> PREP. </U><B> during (the) ~ </B><I>It's hard to get away during term. </I><B>| in the ~ </B><I>We have exams in the summer term. </I> </P>
+<P> <U> PHRASES </U><B> the beginning/end of term </B><I>We have exams at the end of term. </I> </P>
+<P> <SUP> 5 </SUP> <TT> period of time </TT> </P>
+<P> <U> ADJ. </U><B> long, short </B><I>a long term of imprisonment </I><B>| full </B><I>(medical) The pregnancy went to full term </I>(= lasted the normal length of time)</B><I>. </I><B>| fixed </B><I>The contract was for a fixed term of five years. </I><B>| jail, prison | presidential </B> </P>
+<P> <U> VERB + TERM </U><B> serve </B><I>He served a five-year prison term. </I> </P>
+<P> <U> TERM + VERB </U><B> expire, run out </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>(medical) Her baby was born at term. </I> </P>
+<P> <U> PHRASES </U><B> in the long/medium/short term </B><I>In the long term, our efforts will pay off. </I><B>| a term of imprisonment, a term of office </B><I>The president was sworn in for his second term of office. </I><B>| a term of years </B><I>The lease is granted for a set term of years. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>term </B><I>verb </I><B>be termed </B> </P>
+<P> <U> ADV. </U><B> aptly | accurately | broadly, loosely | commonly, generally | variously </B><I>This material is variously termed ash, clinker, cinders or slag. </I><B>| euphemistically </B> </P>
+<P> <U> PREP. </U><B> as </B><I>His condition would be more accurately termed as &lsquo;chronic fatigue&rsquo;. </I> </P>
+</DIV>

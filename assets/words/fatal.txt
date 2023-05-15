@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>fatal </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> causing death </TT> </P>
+<P> <U> VERBS </U><B> be, prove </B> </P>
+<P> <U> ADV. </U><B> near </B><I>He has not driven since his near fatal crash earlier this year. </I><B>| always, invariably, universally | often, sometimes, usually | rarely | potentially </B><I>The disease is potentially fatal. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>This kind of accident is almost always fatal for the pilot. </I><B>| to </B><I>a chemical which is invariably fatal to small mammals </I> </P>
+<P> <SUP> 2 </SUP> <TT> causing serious trouble </TT> </P>
+<P> <U> VERBS </U><B> be, prove </B> </P>
+<P> <U> ADV. </U><B> absolutely | ultimately </B><I>Her disregard of this advice was ultimately fatal. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Tax increases have proved fatal to the nation's business community. </I> </P>
+</DIV>

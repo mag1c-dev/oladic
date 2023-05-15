@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>division </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> dividing sth into separate parts </TT> </P>
+<P> <U> ADJ. </U><B> clear, distinct, simple </B><I>Sometimes there is no simple division between good and evil. </I><B>| complex, elaborate | rigid | broad, rough | equal, fair | unequal, unfair </B><I>an unequal division of the cake an unfair division of labour </I><B>| conventional, time-honoured </B><I>the conventional division of language into grammar and vocabulary </I><B>| theoretical | hierarchical </B><I>hierarchical division between &lsquo;workers&rsquo; and &lsquo;management&rsquo; </I><B>| threefold, three-way, tripartite | cell </B> </P>
+<P> <U> VERB + DIVISION </U><B> make </B><I>You can make a rough division of his music into &lsquo;light&rsquo; and &lsquo;serious&rsquo;. </I> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>His will detailed his assets and gave instructions for their division among his children. </I><B>| ~ between </B><I>the division of the money between the members </I><B>| ~ into </B><I>In selling there is a broad division into direct and indirect methods. </I> </P>
+<P> <U> PHRASES </U><B> the division of labour, the division of wealth </B> </P>
+<P> <SUP> 2 </SUP> <TT> differences between two groups/things, etc. </TT> </P>
+<P> <U> ADJ. </U><B> bitter, deep, great, sharp </B><I>There are sharp divisions within the party over the privatization of the railways. </I><B>| fundamental | factional, internal </B><I>factional divisions within the party </I><B>| traditional | north-south | class, cultural, ethnic, gender, ideological, linguistic, political, sexual, social, societal </B> </P>
+<P> <U> VERB + DIVISION </U><B> create, provoke | exploit | heal </B><I>The prime minister's speech will attempt to heal divisions within his party. </I> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>There are reports of serious divisions among senior party members. </I><B>| ~ between, ~ within </B><I>division within the government </I> </P>
+<P> <SUP> 3 </SUP> <TT> section of an organization </TT> </P>
+<P> <U> ADJ. </U><B> regional | industrial, manufacturing, marketing, retail, sales, training, wholesale | administrative </B><I>the administrative divisions of the Roman Empire </I><B>| airborne, armoured, infantry, etc. | first, high, low, premier, second, senior, top, etc. </B><I>(sport) He's now playing football in the higher divisions. </I><B>| heavyweight, lightweight, middleweight, etc. </B>(= in boxing, etc.)  </P>
+<P> <U> PREP. </U><B> in the &hellip; ~ </B><I>They compete in the senior division of the chess league. </I> </P>
+<P> <SUP> 4 </SUP> <TT> dividing one number by another </TT> </P>
+<P> <U> ADJ. </U><B> long </B> </P>
+<P> <U> VERB + DIVISION </U><B> do </B><I>Can you do long division? </I> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>division by three </I> </P>
+</DIV>

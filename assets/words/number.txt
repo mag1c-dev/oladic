@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>number </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> symbol/word </B> </TT> </P>
+<P> <U> ADJ. </U><B> cardinal, decimal, ordinal | even, odd </B><I>Houses on this side of the road have even numbers. </I><B>| high, low | prime | random |  lucky, unlucky </B><I>Many people think 13 is an unlucky number. </I><B>| winning </B><I>the winning numbers in tonight's lottery </I> </B> </P>
+<P> <U> VERB + NUMBER </U><B> add, divide, multiply, subtract, take away </B><I>Add all the numbers together, divide by ten, and take away the number you first thought of. </I> </P>
+<P> <U> PHRASES </U><B> in round numbers </B><I>There were about 150 there, in round numbers. </I><B>| number crunching </B>(= doing calculations) <I>There's more to accountancy than just number crunching. </I> </P>
+<P> <SUP> 2 </SUP> <TT> quantity/amount </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, huge, inordinate, large, substantial, vast | record </B><I>a record number of enquiries </I><B>| disproportionate, surprising | fair, reasonable, significant </B><I>We've had a fair number of complaints about the new phone system. </I><B>| finite, infinite </B><I>There are an infinite number of solutions to the problem. </I><B>| equal </B><I>The candidates received an equal number of votes. </I><B>| maximum, minimum | average, mean, median | adequate, sufficient | limited, small | growing, increasing, rising | exact, precise </B><I>Many people have died in the epidemic?the precise number is not known. </I><B>| indefinite, unspecified | approximate | total </B> </P>
+<P> <U> VERB + NUMBER </U><B> grow in, increase in </B><I>Factories had increased in number between the wars. </I><B>| decrease in, reduce in </B> </P>
+<P> <U> NUMBER + VERB </U><B> double, grow, increase | decline, diminish, drop, dwindle, fall (off/down) </B><I>Shark numbers have dwindled as a result of hunting. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The paintings, twelve in number, are over 200 years old. </I> </P>
+<P> <U> PHRASES </U><B> a decline/drop in numbers </B><I>The decline in numbers of young people means that fewer teachers will be needed. </I><B>| a growth/an increase in numbers, few/limited/small in number </B><I>Wild dogs are now few in number. </I> </P>
+<P> <SUP> 3 </SUP> <TT> for identifying sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> account, identity, registration, serial, etc. | flat, house </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>We live at number 21. </I> </B> </P>
+<P> <SUP> 4 </SUP> <TT> telephone number </TT> </P>
+<P> <U> ADJ. </U><B> fax, phone, telephone | home, office, work | wrong </B><I>I keep getting the wrong number. </I> </P>
+<P> <U> VERB + NUMBER </U><B> call, dial, phone, ring | get </B> </P>
+</DIV><DIV class="item"><P class="word"><B>number </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> clearly | consecutively, sequentially </B> </P>
+<P> <U> PREP. </U><B> according to, by </B><I>Each pigeon hole is clearly numbered by floor and by room. </I><B>| from, to </B><I>Number the car's features from 1 to 10 according to importance. </I> </P>
+</DIV>

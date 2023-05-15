@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>language </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> system of communication </TT> </P>
+<P> <U> ADJ. </U><B> first, native </B><I>She grew up in Spain, so her first language is Spanish. </I><B>| foreign, second </B><I>How many foreign languages does she speak? the teaching of English as a second language </I><B>| original </B><I>Most local cinemas show films in the original language, with German subtitles. </I><B>| source, target </B><I>(both technical) </I><B>| ancient, classical, dead </B><I>Latin is a dead language. </I><B>| modern | common, shared | indigenous, local | official </B><I>Belgium has two official languages. </I><B>| national </B><I>Portuguese is the national language of Brazil. </I><B>| international | minority </B><I>Some minority languages are dying out. </I><B>| spoken, written </B><I>She could speak some Chinese, but never studied the written language. </I><B>| colloquial, everyday, informal | formal | flowery, literary, poetic | racist, sexist | sign </B><I>Not all deaf people use sign language. </I><B>| body, non-verbal </B><I>You could tell from his body language that he was very embarrassed. </I><B>| legal, technical, etc. | computer, programming </B> </P>
+<P> <U> VERB + LANGUAGE </U><B> speak | understand | use | learn, study | master | be couched in, be expressed in | enrich </B><I>idiomatic expressions that enrich the language </I> </P>
+<P> <U> LANGUAGE + NOUN </U><B> acquisition, learning </B><I>new methods of language learning </I><B>| course, lesson </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>His letter was couched in very formal language. </I> </P>
+<P> <U> PHRASES </U><B> command/knowledge/mastery of (a) language </B><I>Her command of language is very advanced for a six-year-old. </I><B>| use of language </B><I>The writer's use of language reflects the personality of each character. </I> </P>
+<P> <SUP> 2 </SUP> <TT> offensive words </TT> </P>
+<P> <U> ADJ. </U><B> bad, crude, foul, obscene, offensive, strong </B><I>using foul language </I> </P>
+<P> <U> VERB + LANGUAGE </U><B> use | mind, watch </B><I>The referee warned the players to mind their language. </I>
+
+   
+</P>
+<a href="/collocation-tag/language" class="tag">Learn more about LANGUAGE</a>
+</DIV>

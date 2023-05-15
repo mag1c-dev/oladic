@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>true </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> right or correct </TT> </P>
+<P> <U> VERBS </U><B> be, ring, seem, sound </B><I>Her explanation doesn't ring quite true. </I><B>| come </B><I>All her wishes came true. It was like a dream come true. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> particularly, very </B><I>This i</I>s </B><I>particularly true of older women. </I>| <B>absolutely, perfectly, quite </B><I>It'</I>s </B><I>perfectly true that I didn't hel</I>p </B><I>much, but I was busy. </I><B>| certainly </B><I>While this is certainly true fo</I>r </B><I>some, it's not true for others. </I><B>| by no means, far from, not at all </B><I>This degree of inequality was by n</I>o </B><I>means true of all Victoria</I>n </B><I>marriages. &lsquo;That's not true at all</I>, </B><I>&rsquo; he said firmly. </I><B>| hardly, not completely, not entirely, not quite, not strictly, scarcely </B><I>It'</I>s </B><I>hardly true to call cleanin</I>g </B><I>windows a &lsquo;profession&rsquo;. That'</I>s </B><I>not strictly true, I'm afraid. </I>| <B>almost, more or less, pretty well </B><I>The story is more or less true. </I>| <B>objectively </B> </P>
+<P> <SUP> 2 </SUP> <TT> faithful </TT> </P>
+<P> <U> VERBS </U><B> be | remain, stay</B> </P>
+<P> <U> ADV. </U><B> absolutely</B> </P>
+<P> <U> PREP. </U><B> to </B><I>She stayed true to he</I>r </B><I>principles. </I> </P>
+</DIV>

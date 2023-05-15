@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>trick </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> deception </TT> </P>
+<P> <U> ADJ. </U><B> cheap, dirty, knavish, mean, nasty, rotten </B><I>The party chairman accused the opposition of dirty tricks in their election campaign. </I><B>| stupid | funny | little | con/confidence </B> </P>
+<P> <U> VERB + TRICK </U><B> play, pull, try, use, work </B><I>We decided to play a little trick on the teacher. </I><B>| fall for </B><I>She won't fall for such a stupid trick. </I><B>| learn </B><I>He's learnt a trick or two in his time working in the tax office. </I> </P>
+<P> <U> TRICK + VERB </U><B> work </B> </P>
+<P> <U> TRICK + NOUN </U><B> question </B> </P>
+<P> <U> PHRASES </U><B> a trick of the light </B><I>A trick of the light made it look like she had a moustache. </I> </P>
+<P> <SUP> 2 </SUP> <TT> best way of doing sth </TT> </P>
+<P> <U> ADJ. </U><B> special | useful </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the trick of getting out red wine stains </I><B>| ~ to </B><I>There's no trick to it?you just need lots of practice. </I> </P>
+<P> <U> PHRASES </U><B> the trick is to &hellip; </B><I>The trick is to keep your body still and your arms relaxed. </I><B>| the tricks of the trade </B> </P>
+<P> <SUP> 3 </SUP> <TT> skilled act </TT> </P>
+<P> <U> ADJ. </U><B> clever, difficult | card, conjuring, disappearing, magic | party </B> </P>
+<P> <U> VERB + TRICK </U><B> do, perform | learn | teach </B> </P>
+<P> <U> TRICK + VERB </U><B> work </B> </P>
+<P> <U> TRICK + NOUN </U><B> photography | ending</B> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>manage </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> succeed in doing sth </TT> </P>
+<P> <U> ADV. </U><B> nicely, perfectly/very well </B><I>I can manage perfectly well on my own, thank you. </I><B>| successfully | eventually, finally | somehow | financially </B><I>She was finding it difficult to manage financially. </I> </P>
+<P> <U> VERB + MANAGE </U><B> be able to, can/could </B><I>Can you manage? </I><B>| have to </B><I>We'll just have to manage somehow. </I><B>| be difficult to | be easy to </B> </P>
+<P> <U> PREP. </U><B> on </B><I>I don't know how they manage on only </I>&pound;</B><I>50 a week. </I><B>| without </B><I>I can manage without a dishwasher. </I> </P>
+<P> <U> PHRASES </U><B> manage on your own </B> </P>
+<P> <SUP> 2 </SUP> <TT> control/direct sb/sth </TT> </P>
+<P> <U> ADV. </U><B> competently, effectively, efficiently, properly, successfully, well | badly | actively </B><I>We will actively manage your portfolio to maximize the return on your investment. </I><B>| sustainably </B><I>All our tropical timber products come from sustainably managed sources. </I> </P>
+<P> <U> VERB + MANAGE </U><B> be difficult to </B><I>The children were very difficult to manage. </I><B>| be easy to | learn (how) to </B><I>You need to learn how to manage your time effectively. </I> </P>
+</DIV>

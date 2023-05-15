@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>shallow </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not deep </TT> </P>
+<P> <U> VERBS </U><B> be, look | become, get </B><I>The water gets quite shallow towards the shore. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very | comparatively, fairly, quite, relatively </B><I>Don't worry, the water's quite shallow. </I><B>| enough, sufficiently </B><I>Follow the south shore, crossing the river where it is shallow enough. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not showing serious thought </TT> </P>
+<P> <U> VERBS </U><B> appear, be, seem </B><I>Tony seemed very shallow and immature. </I> </P>
+<P> <U> ADV. </U><B> exceedingly, extremely, very | quite, rather</B> </P>
+</DIV>

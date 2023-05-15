@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>useless </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> of no use </TT> </P>
+<P> <U> VERBS </U><B> be, feel, prove </B><I>Her efforts to avoid him proved useless. </I><B>| become | leave sth, make sth, render sth </B><I>The condition rendered her legs virtually useless. </I><B>| reject sth as </B><I>They rejected the designs as useless. </I> </P>
+<P> <U> ADV. </U><B> bloody </B><I>(taboo) </I><B>| absolutely, completely, entirely, quite, totally, utterly, wholly | worse than </B><I>A computer program with too many icons is worse than useless. </I><B>| all but, almost, practically, virtually | largely | fairly, pretty | equally </B><I>There are two manuals, both of them equally useless. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>A candle is practically useless as a light source. </I><B>| for </B><I>The land is useless for cattle. </I><B>| in </B><I>This drug is useless in the treatment of patients with Aids. </I><B>| to </B><I>The information was useless to him. </I> </P>
+<P> <SUP> 2 </SUP> <TT> weak/not successful </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> bloody </B><I>(taboo) </I><B>| completely | pretty </B> </P>
+<P> <U> PREP. </U><B> at </B><I>I'm pretty useless at this job. </I> </P>
+</DIV>

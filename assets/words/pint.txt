@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pint </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> measure of liquid </TT> </P>
+<a href="/collocation-tag/measure" class="tag">Learn more about MEASURE</a>
+<P> <SUP> 2 </SUP> <TT> pint of beer </TT> </P>
+<P> <U> VERB + PINT </U><B> consume, drink, have | sip | down, drain, finish, knock back, sink </B><I>He could sink a pint faster than anyone else I knew. </I><B>| draw (sb), draw off, pull (sb) </B><I>I got the barman to pull me another pint. </I><B>| buy (sb), order, stand sb </B><I>He stood me a pint in the pub after work. </I> </P>
+<P> <U> PINT + NOUN </U><B> glass</B> </P>
+</DIV>

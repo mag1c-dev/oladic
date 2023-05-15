@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>machine </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of equipment </TT> </P>
+<P> <U> ADJ. </U><B> great, huge, large, powerful | automatic, electronic | labour-saving | ingenious, versatile | sophisticated | reliable | defective | cash, coffee, exercise, fax, sewing, (telephone) answering, vending, video, washing | kidney, life-support </B><I>The crash victim is now on a life-support machine. </I> </P>
+<P> <U> VERB + MACHINE </U><B> operate, use, work | install </B><I>We've had a new washing machine installed. </I><B>| start, stop | plug in, unplug | build, make | service | design </B><I>The machine is designed to fit under a counter. </I> </P>
+<P> <U> MACHINE + VERB </U><B> go, work </B><I>Have you got the machine working again? </I><B>| break down | run </B><I>The machine runs on solar power. </I> </P>
+<P> <U> MACHINE + NOUN </U><B> operator | parts | tool </B><I>machine tools for making weapons </I> </P>
+<P> <U> PREP. </U><B> by </B><I>The potatoes are planted by machine. </I><B>| in a/the ~ </B><I>Just put those clothes in the machine </I>(= the washing machine)</B><I>. </I><B>| on a/the ~ </B><I>I make my own dresses on my sewing machine. </I><B>| ~ for </B><I>a machine for making coffee </I> </P>
+<P> <U> PHRASES </U><B> a make of machine </B><I>What make of machine are they using? </I> </P>
+<P> <SUP> 2 </SUP> <TT> system/organization </TT> </P>
+<P> <U> ADJ. </U><B> party, political </B><I>The independent candidates did not have the support of a party machine. </I><B>| administrative, government, state | propaganda, publicity | military, war </B><I>the president's propaganda machine </I> </P>
+<P> <U> PHRASES </U><B> a cog in the machine </B><I>(figurative) Tired of being a tiny cog in a vast machine, he handed in his resignation. </I><B>| a well-oiled machine </B><I>(figurative) The department ran like a well-oiled machine since the reorganization. </I> </P>
+</DIV>

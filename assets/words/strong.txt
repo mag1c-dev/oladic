@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>strong </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> physically powerful </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look | become, grow | make sb </B><I>All that outdoor work has made him very strong. </I> </P>
+<P> <U> ADV. </U><B> extremely, immensely, really, very | pretty, quite | enough </B><I>Don't try to go back to work before you are physically strong enough. </I><B>| physically </B> </P>
+<P> <SUP> 2 </SUP> <TT> not easily damaged </TT> </P>
+<P> <U> VERBS </U><B> be, look </B> </P>
+<P> <U> ADV. </U><B> extremely, really, very | fairly, pretty, quite | enough </B><I>The box looks strong enough. </I> </P>
+<P> <SUP> 3 </SUP> <TT> powerful </TT> </P>
+<P> <U> VERBS </U><B> be, look, prove, seem, smell, taste | become, get, grow | remain | make sth | keep sth </B><I>This news helped keep the dollar relatively strong today. </I> </P>
+<P> <U> ADV. </U><B> extremely, immensely, particularly, really, very </B><I>He exerts an extremely strong influence on his classmates. </I><B>| fairly, pretty, quite, rather | enough </B><I>The party lacks a strong enough local base. </I> </P>
+</DIV>

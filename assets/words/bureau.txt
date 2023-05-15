@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>bureau </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> citizen's advice, employment, information, missing persons | government, press </B> </P>
+<P> <U> VERB + BUREAU </U><B> contact, go to </B> </P>
+<P> <U> BUREAU + VERB </U><B> deal with sth, handle sth </B><I>The information bureau handles millions of enquiries each year. </I> </P>
+<P> <U> BUREAU + NOUN </U><B> staff </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>You can get more information at your local citizen's advice bureau. </I><B>| in a/the ~ </B><I>She had a friend in the press bureau. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>graffiti </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> political, racist </B> </P>
+<P> <U> QUANT. </U><B> piece </B> </P>
+<P> <U> VERB + GRAFFITI </U><B> daub, draw, scrawl, scribble, spray, write </B><I>Graffiti was scribbled all over the walls. </I><B>| be covered with, be daubed with, be sprayed with </B><I>The buildings were covered with racist graffiti. </I> </P>
+<P> <U> GRAFFITI + NOUN </U><B> artist </B><I>a fashionable graffiti artist </I> </P>
+</DIV>

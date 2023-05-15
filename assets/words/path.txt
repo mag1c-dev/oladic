@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>path </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way across land </B> </TT> </P>
+<P> <U> ADJ. </U><B> long | narrow | steep | winding | cliff, coast, coastal,  forest, garden, woodland | pedestrian, public | cycle | bridle </B> </P>
+<P> <U> VERB + PATH </U><B> follow, go along/down/up, take </B><I>Follow this path for about 100 metres, and it's on your right. </I><B>| climb | keep on/to, stay on | leave, stray off | clear, make </B><I>A path was cleared through the jungle. </I> </B> </P>
+<P> <U> PATH + VERB </U><B> go, run </B><I>That path goes down to the sea. </I><B>| descend | follow sth </B><I>The path follows the stream for quite a way. </I><B>| branch off, leave sth </B><I>The path left the river bank and wound its way into the woods. </I><B>| divide, fork | go to sth, lead (to) sth </B><I>Where does this path lead? </I><B>| bear left/right | wind, zig-zag </B><I>Then the path zig-zags steeply uphill for a while. </I><B>| be marked (sth), be signposted (sth) </B><I>The path is clearly marked. </I><B>| narrow, widen </B> </P>
+<P> <U> PREP. </U><B> along/down/up a/the ~ </B><I>children running along the path </I><B>| on a/the ~ </B><I>I think we're on the path we used yesterday. </I><B>| ~ along/beside/by </B><I>the path along the canal </I><B>| ~ for </B><I>a path for cyclists </I><B>| ~ from </B><I>the path from the hotel to the beach </I><B>| ~ through </B><I>I took the path through the park. </I><B>| ~ to </B> </P>
+<P> <SUP> 2 </SUP> <TT> line of movement </TT> </P>
+<P> <U> ADJ. </U><B> correct | flight </B><I>The pilot was instructed to change his flight path. </I> </P>
+<P> <U> VERB + PATH </U><B> steer </B><I>He steered a path through the crowd. </I><B>| trace </B><I>Scientists can trace the path of the tornado. </I><B>| block, stand in </B><I>You're standing in my path! </I> </P>
+<P> <U> PREP. </U><B> across sth's ~ </B><I>The car pulled right across the path of another vehicle. </I><B>| in/into the sth's ~ </B><I>She stepped into the path of an oncoming lorry. </I><B>| out of sth's ~ </B><I>I managed to jump out of the path of the bike just in time. </I><B>| ~ through </B><I>Footsteps had scored a diagonal path through the snow. </I><B>| ~ to </B><I>He moved quickly to block her path to the door. </I> </P>
+<P> <U> PHRASES </U><B> everything in sb/sth's path </B><I>The tornado destroyed everything in its path. </I> </P>
+<P> <SUP> 3 </SUP> <TT> way of achieving sth </TT> </P>
+<P> <U> ADJ. </U><B> well-trodden, well-worn </B><I>Her education followed the usual well-worn path of rich youngsters in the 1930s. </I><B>| chosen | career </B> </P>
+<P> <U> VERB + PATH </U><B> choose, find </B><I>Everyone has to find their own path in life. </I><B>| follow, pursue, tread | deviate from </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>His feet were now firmly on the path to success. </I> <B>| ~ of </B><I>The path of true love is never easy. </I><B>| ~ to </B><I>the path to happiness </I> </P>
+<P> <U> PHRASES </U><B> obstacles in sb/sth's <B>path </B> </P>
+</DIV>

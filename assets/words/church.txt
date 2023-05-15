@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>church </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> building where Christians go to worship </TT> </P>
+<P> <U> ADJ. </U><B> local, parish, village </B> </P>
+<P> <U> VERB + CHURCH </U><B> build | consecrate, found </B><I>The church was consecrated in 1250. </I><B>| dedicate </B><I>The church is dedicated to St Paul. </I> </P>
+<P> <U> CHURCH + NOUN </U><B> bells, clock, steeple, tower | hall | f</B>e<B>te </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>a chamber concert at our local church </I><B>| in a/the ~ </B><I>There's an interesting organ in the village church. </I> </P>
+<P> <SUP> 2 </SUP> <TT> meeting for public worship in a church </TT> </P>
+<P> <U> VERB + CHURCH </U><B> attend, go to </B><I>Do you go to church? </I> </P>
+<P> <U> CHURCH + NOUN </U><B> service | music </B> </P>
+<P> <U> PREP. </U><B> after/before ~ </B><I>Come to our place for lunch after church. </I><B>| at/in ~ </B><I>Mrs Parsons wasn't at church this Sunday. </I> </P>
+<P> <SUP> 3 </SUP> <TT> the Church: all Christians regarded as a group  </TT> </P>
+<P> <U> ADJ. </U><B> early </B><I>The early Church believed miracles were proof of who Jesus was. </I> </P>
+<P> <U> VERB + CHURCH </U><B> enter, go into </B><I>He went into the Church </I>(= became a priest) </B><I>when he was 23. </I><B>| leave </B><I>He left the Church after a loss of faith. </I> </P>
+<P> <U> CHURCH + NOUN </U><B> authorities, leaders, member4 </B>particular group of Christians </B> </P>
+<P> <U> ADJ. </U><B> high, low </B><I>He loves all the high church traditions?incense and processions and vestments. </I><B>| evangelical, fundamentalist | established </B>(= official), <B>free </B>(= nonconformist) <B>| Christian, etc. </B> </P>
+<P> <U> CHURCH + NOUN </U><B> authorities, elder, leader, member </B> </P>
+<P> <U> PHRASES </U><B> a member of a church</B> </P>
+</DIV>

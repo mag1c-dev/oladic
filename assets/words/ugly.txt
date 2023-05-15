@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ugly </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> unattractive </TT> </P>
+<P> <U> VERBS </U><B> be, look </B> </P>
+<P> <U> ADV. </U><B> extremely, hideously, incredibly, really, very </B><I>The witch was hideously ugly. </I><B>| almost | pretty, quite, rather </B> </P>
+<P> <SUP> 2 </SUP> <TT> dangerous/threatening </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound | get, turn </B> </P>
+<P> <U> ADV. </U><B> really, very | pretty, quite </B><I>A fight started and things got pretty ugly. </I><B>| potentially</B> </P>
+</DIV>

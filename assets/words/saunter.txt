@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>saunter </b><i>verb </i> </p>
+<p> <u> ADV. </u><div class="ex"><b> casually, slowly | along, back, in, out, over </b></div><div class="excontent"><i>She sauntered in fifteen minutes late. </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> along, into, out of, through, etc. </b></div><div class="excontent"><i>He sauntered casually through the door. </i> </div></p>
+<p> <u> PHRASES </u><div class="ex"><b> come sauntering </b></div><div class="excontent"><i>He came sauntering over to meet us. </i> </div></p>
+</div>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tame </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not afraid of people </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become </B> </P>
+<P> <U> ADV. </U><B> extremely, very | almost | quite </B> </P>
+<P> <SUP> 2 </SUP> <TT> boring </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem, sound | become | find sth </B><I>I found office work very tame after army life. </I> </P>
+<P> <U> ADV. </U><B> positively, very </B><I>living a life that makes Wild West movies look positively tame </I><B>| a bit, a little, pretty, rather, somewhat </B><I>To us it was all pretty tame stuff. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>workload </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> enormous, heavy, huge | excessive | additional, extra, increased | lighter, reduced | administrative </B> </P>
+<P> <U> VERB + WORKLOAD </U><B> have </B><I>She's got an increased workload this year. </I><B>| expand, increase | ease, lighten, reduce </B><I>An assistant one day a week would ease my workload. </I><B>| distribute, share, spread </B><I>We want to try and distribute the workload more evenly. </I><B>| cope with </B> </P>
+<P> <U> WORKLOAD + VERB </U><B> expand, increase </B><I>Doctors are having to cope with an ever-expanding workload. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>claw </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sharp </B><I>a cat with sharp claws </I><B>| powerful, strong </B> </P>
+<P> <U> VERB + CLAW </U><B> sharpen | dig, sink </B><I>The tiger dug its claws into his leg. </I><B>| show </B><I>The lion growled and showed its claws. </I><B>| retract </B> </P>
+<P> <U> CLAW + NOUN </U><B> mark </B> </P>
+<P> <U> PREP. </U><B> in sb's ~s </B><I>The cat held a bird in its claws. </I> </P>
+</DIV>

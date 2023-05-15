@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>connect </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> join </TT> </P>
+<P> <U> ADV. </U><B> directly </B><I>Downstairs toilets were connected directly to the drains. </I><B>| up </B><I>We need to connect all the pipes up to the water tank. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Connect the machine to the power supply. </I><B>| with </B><I>A corridor connects his office with the main building. </I> </P>
+<P> <SUP> 2 </SUP> <TT> link </TT> </P>
+<P> <U> ADV. </U><B> closely, intimately </B><I>Bad diet is closely connected with many common illnesses. </I><B>| directly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The police were looking for evidence to connect him with the crime. </I> </P>
+</DIV>

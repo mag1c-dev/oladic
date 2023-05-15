@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>medal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bronze, gold, silver </B><I>He won a gold medal in the 100 metres. </I><B>| championship, Olympic | commemorative </B><I>A commemorative medal was struck in honour of the event. </I> </P>
+<P> <U> VERB + MEDAL </U><B> be awarded, collect, get, receive, win | award (sb), give sb, present (sb with) | strike </B> </P>
+<P> <U> MEDAL + NOUN </U><B> winner | hope, hopes </B><I>He is a major medal hope for Britain. Her medal hopes were dashed by injury. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a medal for bravery </I> </P>
+</DIV>

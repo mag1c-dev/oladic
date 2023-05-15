@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>bike </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> mountain, racing, touring, trail | exercise </B> </P>
+<P> <U> VERB + BIKE </U><B> ride | get on </B><I>He got on his bike and rode off. </I><B>| get off | come off, fall off </B><I>She came off her bike when it skidded on some wet leaves. </I><B>| knock sb off | pedal </B><I>She pedalled her bike up the track. </I><B>| push, wheel </B><I>We had to push our bikes up the hill. </I><B>| park | hire </B> </P>
+<P> <U> BIKE + VERB </U><B> get/have a puncture </B> </P>
+<P> <U> BIKE + NOUN </U><B> ride | shed </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Did you come by bike? </I><B>| on a/the ~ </B><I>watching the boys on their bikes </I> </P>
+<P> <U> PHRASES </U><B> lean/prop a bike against sth</B> </P>
+</DIV>

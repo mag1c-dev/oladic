@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>poisoning </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acute, chronic | blood | food </B><I>a bad case of food poisoning </I><B>| alcohol, arsenic, carbon monoxide, lead, mercury, pesticide, radiation, etc. </B> </P>
+<P> <U> QUANT. </U><B> case </B> </P>
+<P> <U> VERB + POISONING </U><B> die from/of</B> </P>
+</DIV>

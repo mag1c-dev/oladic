@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>gem </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> jewel </TT> </P>
+<P> <U> ADJ. </U><B> precious, priceless </B> </P>
+<P> <U> PHRASES </U><B> dripping with gems </B><I>a millionairess dripping with gems and pearls </I><B>| encrusted/studded with gems </B><I>a belt studded with priceless gems </I> </P>
+<P> <SUP> 2 </SUP> <TT> person/thing </TT> </P>
+<P> <U> ADJ. </U><B> little | absolute, real </B><I>The second side of their new album contains some real gems. </I><B>| hidden </B><I>She worked in the antiques trade, searching out hidden gems in the most unlikely places. </I><B>| architectural </B><I>architectural gems like York Minster </I> </P>
+<P> <U> PHRASES </U><B> a gem of a sth </B><I>This is a little gem of a flower. </I> </P>
+</DIV>

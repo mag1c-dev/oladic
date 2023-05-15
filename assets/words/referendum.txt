@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>referendum </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> planned, proposed | popular | national, nationwide | constitutional, independence </B> </P>
+<P> <U> VERB + REFERENDUM </U><B> conduct, hold </B><I>The referendum will be held on July 14th. </I><B>| put sth to </B><I>The proposals were put to a referendum. </I><B>| call </B><I>The president called a referendum that he hoped would confirm him in power. </I><B>| call for, demand, propose </B><I>The group called for a referendum on the death penalty. </I><B>| oppose | boycott </B><I>The unions urged people to boycott the referendum. </I><B>| declare, organize | be adopted by, be approved by, be confirmed by, be endorsed by </B><I>a new constitution adopted by referendum </I> </P>
+<P> <U> REFERENDUM + VERB </U><B> show sth </B><I>A popular referendum showed that the majority of people want reform. </I> </P>
+<P> <U> REFERENDUM + NOUN </U><B> proposal </B><I>The Democrats rejected the referendum proposal. </I><B>| campaign | result </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The issue will be decided in a national referendum. </I><B>| ~ on </B><I>a referendum on a new constitution </I> </P>
+<P> <U> PHRASES </U><B> declare a referendum fair/illegal </B><I>UN monitors declared the referendum fair. </I><B>| the result/results of a referendum</B> </P>
+</DIV>

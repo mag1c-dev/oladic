@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>commentary </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on the radio/television </TT> </P>
+<P> <U> ADJ. </U><B> brief | live | running </B>(= continuous) <I>She kept up a running commentary on the festivities. </I><B>| radio, television </B><I>listening to the radio commentary on the match </I> </P>
+<P> <U> VERB + COMMENTARY </U><B> give, keep up, provide | listen to </B> </P>
+<P> <U> COMMENTARY + NOUN </U><B> box </B><I>the reporters in the commentary box </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>BBC1 will give a live commentary on the election results. </I> </P>
+<P> <SUP> 2 </SUP> <TT> criticism/discussion of sth </TT> </P>
+<P> <U> ADJ. </U><B> detailed | critical | political, social </B> </P>
+<P> <U> VERB + COMMENTARY </U><B> provide </B><I>The novel provides a powerful social commentary on post-war Germany. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B> </P>
+<P> <U> PHRASES </U><B> be a sad commentary (on sth) </B>(= to reflect badly on sth) <I>The petty quarrels were a sad commentary on the state of the government. </I> </P>
+</DIV>

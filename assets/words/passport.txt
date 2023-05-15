@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>passport </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> valid | false, forged | EU, Mexican, French, etc. | visitor's </B> </P>
+<P> <U> VERB + PASSPORT </U><B> apply for | renew | get, obtain | be in possession of, carry, have, hold, travel on </B><I>The police think the smugglers are travelling on Irish passports. </I><B>| give sb, issue sb (with) | hand sb, produce, show (sb) </B><I>You have to show your passport at the border. </I><B>| surrender </B><I>The Embassy made him surrender his passport. </I><B>| ask for | check | stamp | hand back/over </B><I>He examined my face carefully before handing back my passport. </I><B>| confiscate, seize </B> </P>
+<P> <U> PASSPORT + VERB </U><B> be valid | expire </B> </P>
+<P> <U> PASSPORT + NOUN </U><B> number, photo, photograph | holder | Agency, Office | control </B><I>We had to queue for ages at passport control. </I> </P>
+<P> <U> PREP. </U><B> ~ into </B><I>(figurative) The gold medal is his passport into professional boxing. </I><B>| ~ to </B><I>(figurative) Good qualifications are a passport to success. </I> </P>
+<P> <U> PHRASES </U><B> a full British/French, etc. passport </B>(= one showing that sb has all the rights of British/French, etc. citizenship)  </P>
+</DIV>

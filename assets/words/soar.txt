@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>soar </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> increase very fast </TT> </P>
+<P> <U> ADV. </U><B> dramatically </B><I>Profits have soared dramatically in recent months. </I> </P>
+<P> <U> VERB + SOAR </U><B> be expected to, be set to </B><I>Borrowing is set to soar to an astonishing </I>&pound;</B><I>60 billion. </I> </P>
+<P> <U> PREP. </U><B> by </B><I>Retail sales soared by 10% in the twelve months to November. </I><B>| from, to </B><I>Inflation has soared from 5% to 15%. </I> </P>
+<P> <U> PHRASES </U><B> send sth soaring </B><I>The fuel shortage sent prices soaring. </I> </P>
+<P> <SUP> 2 </SUP> <TT> fly high in the air </TT> </P>
+<P> <U> ADV. </U><B> high | overhead </B><I>A buzzard soared high overhead. </I> </P>
+<P> <U> PREP. </U><B> above, over </B><I>an eagle soaring high above them </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>incentive </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, considerable, great, massive | powerful, strong | adequate, sufficient | main, major | added, additional, extra, more | less | real | direct </B><I>The most direct financial incentive to prevent rubbish is to charge people by the amount of rubbish they put out. </I><B>| important | positive | special | commercial, economic, financial, fiscal, monetary | cash | price, tax | sales | work | government </B> </P>
+<P> <U> VERB + INCENTIVE </U><B> act as, be </B><I>He argues that the free supply of skilled labour will act as an incentive for employees to be more diligent. </I><B>| have </B><I>She had the added incentive of being within reach of the world record. </I><B>| need | give (sb/sth), offer (sb/sth), provide (sb/sth with) | create </B><I>The government has created tax incentives to encourage investment. </I><B>| increase | reduce | undermine </B><I>High taxation rates have undermined work incentives. </I><B>| remove </B> </P>
+<P> <U> INCENTIVE + NOUN </U><B> programme, scheme, system </B><I>The company operates a share incentive scheme for its workers. </I><B>| payment </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>an incentive to investment </I> </P>
+<P> <U> PHRASES </U><B> have every incentive </B><I>The absence of penalties for anti-competitive behaviour means that firms have every incentive to engage in price-fixing. </I><B>| a lack of incentive </B><I>Low levels of profitability mean there is a lack of incentive to undertake new investment. </I> </P>
+</DIV>

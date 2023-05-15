@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>alert </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem | become | remain, stay | keep sb </B><I>The machine should help to keep the pilot alert. </I> </P>
+<P> <U> ADV. </U><B> very | fully | immediately, instantly, suddenly </B><I>There was a noise outside and he was suddenly alert. </I><B>| always, constantly | mentally </B><I>He was as mentally alert as a man half his age. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Climbers need to be alert to possible dangers. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>alert </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> red </B><I>His sudden disappearance triggered a red alert among his friends. </I><B>| nationwide | bomb, fire, flood, pollution, security </B><I>A security alert was issued after four men escaped from the prison. </I> </P>
+<P> <U> VERB + ALERT </U><B> issue, put out, raise, sound </B><I>They rang the church bells to sound the alert and the villagers then fled. </I><B>| spark, trigger | call off </B><I>The alert was called off when it was found that the bomb was not live. </I> </P>
+<P> <U> ALERT + VERB </U><B> go out </B><I>A nationwide alert went out for three escaped prisoners. </I> </P>
+<P> <U> PREP. </U><B> on the ~ | ~ for </B><I>You should always be on the alert for anyone who looks suspicious. </I> </P>
+<P> <U> PHRASES </U><B> be on full alert </B><I>The security forces are now on full alert. </I><B>| keep/put/place sb on full alert </B><I>Thousands of police were put on full alert at all main roads leading to the city. </I><B>| a state of alert </B><I>The army was yesterday placed on a state of alert in case of more riots. </I> </P>
+</DIV>

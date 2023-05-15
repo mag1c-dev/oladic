@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>seed </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> from which a plant grows </TT> </P>
+<P> <U> ADJ. </U><B> grass, poppy, etc. | bird </B> </P>
+<P> <U> QUANT. </U><B> packet </B> </P>
+<P> <U> VERB + SEED </U><B> plant, sow | produce, set </B><I>This tree produces very hard seeds. The plant will set seed in June. </I><B>| grow/raise sth from </B><I>She grew all the broccoli plants from seed. </I><B>| spread </B><I>Most seeds are spread by the wind. </I><B>| go/run to </B><I>Allow some of the plants to run to seed, and save the seed for next year. </I> </P>
+<P> <U> SEED + VERB </U><B> germinate, grow, sprout </B> </P>
+<P> <U> SEED + NOUN </U><B> head, pod | packet, tray | bank, catalogue, merchant | cake | corn, potato </B> </P>
+<P> <U> PHRASES </U><B> a variety of seeds </B><I>The catalogue has hundreds of different varieties of seeds. </I> </P>
+<P> <SUP> 2 </SUP> <TT> player in a sports competition </TT> </P>
+<P> <U> ADJ. </U><B> first, second, etc. | number one, number two, etc. | top </B><I>Venus Williams was the top seed at Wimbledon this year. </I> </P>
+</DIV>

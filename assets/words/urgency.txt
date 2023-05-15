@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>urgency </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> desperate, extreme, great, utmost </B><I>a matter of the utmost urgency </I><B>| added, new </B><I>The murders have given added urgency to the debate about inner-city crime. </I> </P>
+<P> <U> QUANT. </U><B> note </B><I>There was a note of urgency in her voice. </I> </P>
+<P> <U> VERB + URGENCY </U><B> give sth, lend sth </B><I>The bomb attack lent a new urgency to the peace talks. </I><B>| increase | stress </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>We need to act with urgency to ensure his safety. </I><B>| ~ about </B><I>Is there any urgency about this? </I><B>| ~ in </B><I>There was an urgency in her movements. </I> </P>
+<P> <U> PHRASES </U><B> a lack of urgency </B><I>We waited in the car while he checked his tyres with an irritating lack of urgency. </I><B>| a matter of urgency </B><I>The refugee situation must now be addressed as a matter of urgency. </I><B>| a sense of urgency</B> </P>
+</DIV>

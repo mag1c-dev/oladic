@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>proof </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute, clear, conclusive, concrete, convincing, direct, good, incontrovertible, irrefutable, positive, real, tangible </B><I>Have you got any positive proof that she took the money? We have proof positive that he is in hiding. I have no real proof that he was at the flat. </I><B>| ample, sufficient | further | final, ultimate </B><I>The photo was final proof of her husband's infidelity. </I><B>| documentary, written | legal | scientific | living </B><I>The lungfish is living proof that fish could evolve to breathe on land. </I> </P>
+<P> <U> VERB + PROOF </U><B> have | give sb, offer (sb), produce, provide (sb with) | get, obtain | need, require </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>He is unlikely to make wild accusations without proof. </I><B>| ~ of </B><I>Her account gives us no concrete proof of his guilt. </I> </P>
+<P> <U> PHRASES </U><B> the burden/onus of proof </B><I>The burden of proof lay on the plaintiff to prove negligence. </I><B>| a lack of proof </B><I>The men were acquitted for lack of proof. </I><B>| proof of identity, proof of purchase </B><I>Proof of purchase must be provided before a refund can be made. </I><B>| a standard of proof </B><I>Civil proceedings require a lower standard of proof than criminal cases. </I> </P>
+</DIV>

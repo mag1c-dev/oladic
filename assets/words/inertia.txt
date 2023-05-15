@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>inertia </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sheer | bureaucratic, institutional, organizational, political </B> </P>
+<P> <U> VERB + INERTIA </U><B> lapse into </B><I>She lapsed into inertia and lay there as if asleep. </I><B>| overcome </B><I>The forces for change in the government are not sufficient to overcome bureaucratic inertia. </I> </P>
+<P> <U> PREP. </U><B> out of ~ </B><I>He stayed where he was, not because he really wanted to, but out of inertia. </I><B>| through ~ </B><I>Projects were frequently abandoned through sheer inertia. </I> </P>
+<P> <U> PHRASES </U><B> a state of inertia</B> </P>
+</DIV>

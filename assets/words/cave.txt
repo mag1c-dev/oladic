@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cave </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, large | shallow, small | dark | damp, dank | rocky, mountain, underground </B><I>We explored the rocky caves along the beach. </I><B>| crystal, limestone </B> </P>
+<P> <U> VERB + CAVE </U><B> explore </B> </P>
+<P> <U> CAVE + VERB </U><B> collapse </B><I>a collapsed limestone cave </I> </P>
+<P> <U> CAVE + NOUN </U><B> ceiling, entrance, floor, mouth, roof, wall | system | art, drawing, painting | dweller </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>We took shelter in a dark, dank cave. </I> </P>
+<P> <U> PHRASES </U><B> the ceiling/floor/roof/wall of a cave, the entrance to/mouth of a cave</B> </P>
+</DIV>

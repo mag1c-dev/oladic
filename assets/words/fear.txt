@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>fear </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, great, real, terrible </B><I>It was the first time she had experienced real fear. </I><B>| growing | irrational | unfounded, well-founded </B><I>Our fears proved unfounded. </I> </P>
+<P> <U> VERB + FEAR </U><B> experience, feel, have </B><I>She did not know why she should feel such fear. </I><B>| be filled with, be gripped by, be paralysed by/with, be trembling with | express, show, voice </B><I>The boy showed no fear. Doctors have voiced fears that we may be facing an epidemic. </I><B>| cause, fuel, instil </B><I>This incident has fuelled fears of a full-scale war. the fear that her mother had instilled in her </I><B>| allay, dispel, overcome </B><I>The government is keen to allay the public's fears. She managed to overcome her fear. </I><B>| live in </B><I>The people live in fear of attack by the bandits. </I> </P>
+<P> <U> FEAR + VERB </U><B> abate, subside </B><I>When she heard the news, some of her fear subsided. </I><B>| grip sb, haunt sb </B><I>A sudden fear gripped him. </I> </P>
+<P> <U> PREP. </U><B> for ~ of </B><I>Nobody refused for fear of losing their job. </I><B>| in ~ </B><I>He ran away in fear. </I><B>| out of ~ </B><I>He lied out of fear. </I><B>| through ~ </B><I>The pupils obeyed through fear of punishment. </I><B>| without ~ </B><I>She stared at him without fear. </I><B>| with ~ </B><I>His face was white with fear. </I><B>| ~ about </B><I>his fear about what might happen </I><B>| ~ for </B><I>my fear for her safety </I><B>| ~ of </B><I>They have a terrible fear of failure. </I> </P>
+<P> <U> PHRASES </U><B> fear and trepidation </B><I>The men set off in fear and trepidation. </I><B>| strike fear into (the heart of) sb </B><I>The sound of gunfire struck fear into the hearts of the villagers. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>fear </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> genuinely, greatly, really, seriously </B><I>This disease is greatly feared. I really feared that this might be the end. </I><B>| rightly </B><I>Everyone rightly feared the coming war. </I> </P>
+<P> <U> VERB + FEAR </U><B> seem to | begin to | have little/nothing to </B><I>You have nothing to fear from him. </I><B>| have reason to </B><I>I have reason to fear that you might abuse your power. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>We feared for their safety. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>alley </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dark | little, narrow </B><I>a maze of narrow alleys </I><B>| stinking </B><I>I don't want to be left for dead in some stinking alley. </I><B>| cobbled | back, side </B> </P>
+<P> <U> ALLEY + VERB </U><B> lead onto sth, lead to sth </B><I>The alley leads to the village square. </I> </P>
+<P> <U> ALLEY + NOUN </U><B> cat </B> </P>
+<P> <U> PREP. </U><B> along an/the ~ </B><I>I walked back along a side alley. </I><B>| down an/the ~ </B><I>a bookshop down a little alley </I><B>| in an/the ~ </B><I>They had cornered him in an alley. </I><B>| through an/the ~ </B><I>She wandered through the back alleys. </I><B>| up an/the ~</B> </P>
+</DIV>

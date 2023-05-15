@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>cease </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> altogether, completely, entirely </B><I>The flow slowed, then ceased altogether. </I><B>| all but, almost, virtually | largely | effectively </B><I>My job had effectively ceased to exist. </I><B>| forthwith, immediately </B><I>These violations of the code must cease forthwith. </I><B>| soon | abruptly, suddenly </B><I>The bird's song ceased abruptly. </I><B>| rapidly | gradually | momentarily | eventually, finally | long (since) </B><I>The conversation had long ceased to interest me. </I><B>| automatically </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The matches ceased with the outbreak of war. </I> </P>
+<P> <U> PHRASES </U><B> without ceasing </B><I>Prayer was made without ceasing. </I> </P>
+</DIV>

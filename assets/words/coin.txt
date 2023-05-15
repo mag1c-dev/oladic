@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>coin </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> copper, gold, silver | antique, rare | commemorative | counterfeit, fake | penny, pound, etc. </B> </P>
+<P> <U> VERB + COIN </U><B> issue | mint, strike </B><I>The first English gold coin was struck in 1255. </I><B>| flip, spin, toss </B><I>They tossed a coin to see who should go first. </I><B>| collect </B> </P>
+<P> <U> COIN + VERB </U><B> be in circulation, circulate </B><I>Very few old 5p coins are still in circulation. </I><B>| clink, jingle </B><I>coins jingling in his pockets </I> </P>
+<P> <U> COIN + NOUN </U><B> collector</B> </P>
+</DIV>

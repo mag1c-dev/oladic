@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>memorial </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> lasting, permanent </B><I>The statue is a lasting memorial to those who died in the war. </I><B>| fitting | war </B> </P>
+<P> <U> VERB + MEMORIAL </U><B> build, erect, put up | unveil </B> </P>
+<P> <U> MEMORIAL + VERB </U><B> commemorate sb/sth | stand </B><I>The memorial stands on the village green. </I> </P>
+<P> <U> MEMORIAL + NOUN </U><B> ceremony, service </B><I>a memorial service for sailors drowned at sea </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a memorial for victims of the air crash </I><B>| ~ to </B><I>The prime minister today unveiled a memorial to those who died in the disaster. </I> </P>
+</DIV>

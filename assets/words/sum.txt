@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>sum </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount of money </TT> </P>
+<P> <U> ADJ. </U><B> considerable, generous, good, handsome, hefty, high, large, not inconsiderable, princely </B><I>(ironic)</I>, <B>significant, substantial, tidy </B><I>(informal) It seemed an absurdly high sum to pay for a coat. For his first book he received the princely sum of $400. The team has raised substantial sums for local charities. </I><B>| astronomical, colossal, enormous, exorbitant, huge, magnificent, massive, record, staggering, vast </B>&pound;</B><I>200 was an astronomical sum of money in 1547. He joined the club two years ago for a record sum. </I><B>| five-figure, six-figure, etc. | small, modest, nominal, reasonable, token, trifling </B><I>The charity pays a nominal sum to lease the premises. </I><B>| derisory, paltry | average | net | round </B><I>$10,000 is a good round sum. </I><B>| full, overall, total | agreed, fixed | undisclosed, unspecified | annual, monthly, etc. | regular | guaranteed | capital, cash, lump </B><I>My wife would receive a guaranteed lump sum in the event of my death. </I><B>| tax-free </B> </P>
+<P> <U> VERB + SUM </U><B> borrow, earn, fetch, raise, recover </B><I>Some of the paintings should fetch a tidy sum at today's auction. You will have to go to court to recover these sums. </I><B>| get, receive | award sb, contribute, give sb, grant sb, lend sb, offer sb, pay (sb), repay </B><I>The judge awarded them an undisclosed six-figure sum in damages. </I><B>| invest, spend | cost </B><I>a project that cost vast sums of public money </I><B>| charge (sb), fine sb | agree (on) </B><I>We eventually agreed a sum and I gave him a cheque. </I> </P>
+<P> <U> SUM + VERB </U><B> be due, be payable </B><I>The landlord has the right to recover any sums payable under this lease </I><B>| be equal/equivalent to sth </B><I>The gangsters offered him a sum equivalent to a whole year's earnings. </I><B>| exceed sth </B> </P>
+<P> <U> PHRASES </U><B> a sum of money </B> </P>
+<P> <SUP> 2 </SUP> <TT> calculation </TT> </P>
+<P> <U> ADJ. </U><B> difficult, easy </B> </P>
+<P> <U> VERB + SUM </U><B> do, find the answer to </B><I>I did a quick sum to work out how much it would cost. </I> </P>
+<P> <U> PHRASES </U><B> get your sums right/wrong </B><I>The company got its sums wrong when estimating how many customers it would attract. </I> </P>
+<P> <SUP> 3 </SUP> <TT> amount got by adding numbers </TT> </P>
+<P> <U> VERB + SUM </U><B> calculate, find, work out </B><I>Calculate the sum of the following figures. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The sum of two and five is seven. </I> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>sum </B><I>verb </I></P>
+<P><U>PHRASAL VERBS </U><B>sum sth up </B> </P>
+<P> <U> ADV. </U><B> aptly, neatly, nicely, succinctly, well | perfectly | just about </B><I>&lsquo;So we're stuck in this place, with no food, no heat, no light and no prospect of anyone coming to rescue us?&rsquo; &lsquo;That just about sums it up.&rsquo; </I> </P>
+<P> <U> VERB + SUM </U><B> seem to | attempt to, try to </B><I>attempting to sum up recent economic trends </I><B>| be difficult to, be hard to </B><I>The appeal of this charming little town is hard to sum up. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>She summed it up as &lsquo;the most brilliant lecture I've ever attended&rsquo;. </I> </P>
+</DIV>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>dividend </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> payment on a company share </TT> </P>
+<P> <U> ADJ. </U><B> high | 10%, etc. | fixed | increased | gross, total | net | expected </B><I>a method of valuing shares based on expected dividends </I><B>| annual, quarterly | interim | final | company | share </B><I>Investors will still pay tax on their foreign share dividends. </I><B>| cash </B> </P>
+<P> <U> VERB + DIVIDEND </U><B> pay | receive | announce, declare </B><I>The company has not yet declared its dividends for this year. </I><B>| recommend </B><I>The board has recommended a final dividend of 6 pence per share. </I><B>| boost, increase, lift, raise | hold, maintain </B><I>The interim dividend is maintained at 2.5 cents per share. </I><B>| cut, reduce, slash | pass </B><I>During that time, dividends were cut or passed </I>(= not paid) </B><I>and there were plenty of closures. </I> </P>
+<P> <U> DIVIDEND + VERB </U><B> be up </B><I>The dividend is up 10.6% to 11.3p. </I><B>| go up, grow, jump, rise </B><I>The dividend should jump to 5p. </I><B>| stay </B><I>The dividend stays at 0.5p. </I><B>| be payable </B><I>The final dividend, payable on July 1, is reduced to 1p. </I> </P>
+<P> <U> DIVIDEND + NOUN </U><B> payment, payout | growth, increase | cut | income, total, yield | policy </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>They have announced the quarterly dividend on the shares. </I> </P>
+<P> <U> PHRASES </U><B> an increase in a dividend </B> </P>
+<P> <SUP> 2 </SUP> <TT> benefit/reward </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, handsome, rich | economic </B> </P>
+<P> <U> VERB + DIVIDEND </U><B> bring, pay, produce, reap, yield </B><I>Her hard work paid dividends when she won the school dancing competition. The company reaped rich dividends with its new strategy for packaging holidays. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>The chain's investment in new stores is bringing dividends in new customers. </I> </P>
+</DIV>

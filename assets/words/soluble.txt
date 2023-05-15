@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>soluble </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> highly, very </B><I>It is a highly soluble gas. </I><B>| easily, freely | completely, totally | partially, partly, slightly </B> </P>
+<P> <U> PREP. </U><B> in </B><I>The disulphate was easily soluble in water. </I> </P>
+</DIV>

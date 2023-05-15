@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>epidemic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> major | widespread, worldwide | cholera, flu, typhoid, etc. </B> </P>
+<P> <U> EPIDEMIC + VERB </U><B> break out, strike (sth) </B><I>A typhus epidemic struck in the winter of 1919?20. </I><B>| spread, sweep (sth) </B><I>the flu epidemic sweeping the country </I> </P>
+<P> <U> PREP. </U><B> during/in an/the ~ </B><I>Over fifty people died during the flu epidemic last winter. </I><B>| ~ of </B><I>an epidemic of cholera </I> </P>
+<P> <U> PHRASES </U><B> reach epidemic proportions </B><I>Marriage breakdown in the West has reached epidemic proportions. </I> </P>
+</DIV>

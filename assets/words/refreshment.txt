@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>refreshment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> light | liquid </B><I>(humorous) </I> </P>
+<P> <U> VERB + REFRESHMENT </U><B> need | take | pause for, stop for </B><I>We stopped for refreshment halfway through the journey. </I><B>| provide (sb with), serve </B><I>Light refreshments will be served in the interval. </I> </P>
+<P> <U> REFRESHMENT + VERB </U><B> be available </B> </P>
+<P> <U> REFRESHMENT + NOUN </U><B> area, hut, kiosk, room | facilities, service </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>We're allowed twenty minutes for refreshment. </I><B>| for ~s </B><I>What are we going to have for refreshments? </I> </P>
+<P> <U> PHRASES </U><B> a place of refreshment, rest and refreshment </B><I>rest and refreshment for the mind and body </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>isolation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, total | enforced </B><I>the enforced isolation of life in an Arctic weather station </I><B>| diplomatic, geographical, political | international </B><I>The country could face international isolation if it does not withdraw its troops. </I><B>| emotional, social </B><I>the social isolation of single mothers at home with their babies </I> </P>
+<P> <U> VERB + ISOLATION </U><B> experience, suffer (from) </B><I>Many immigrants experience isolation. </I> </P>
+<P> <U> ISOLATION + NOUN </U><B> hospital, ward </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The figures should not be looked at in isolation but as part of a pattern. </I> </P>
+<P> <U> PHRASES </U><B> in splendid isolation </B><I>The tower stands in splendid isolation on the cliff edge. </I> </P>
+</DIV>

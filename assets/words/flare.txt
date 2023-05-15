@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>flare </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> bright unsteady light/flame; sudden feeling </TT> </P>
+<P> <U> ADJ. </U><B> brief, sudden </B><I>There was a sudden flare as a fuel tank exploded. </I><B>| bright | solar </B><I>Radiation comes from the sun during solar flares. </I> </P>
+<P> <U> VERB + FLARE </U><B> see | feel </B><I>She felt a sudden flare of anger. </I> </P>
+<P> <SUP> 2 </SUP> <TT> device producing a bright flame </TT> </P>
+<P> <U> ADJ. </U><B> distress </B> </P>
+<P> <U> VERB + FLARE </U><B> see </B><I>If they did not see a green flare in ten minutes, they were to launch the attack. </I><B>| fire, send up, set off </B><I>The ship's crew sent up a distress flare. </I><B>| drop </B><I>The bomber dropped a flare to illuminate the target. </I> </P>
+<P> <U> FLARE + VERB </U><B> go up </B><I>The flare to mark the start of the attack went up at 0440. </I><B>| burn </B><I>They could see orange flares burning in the distance. </I><B>| explode | hit sb/sth </B><I>A flare fired by a supporter hit the referee in the face. </I><B>| illuminate sth, light sth (up) </B><I>Flares lit up the night sky. </I> </P>
+<P> <U> FLARE + NOUN </U><B> gun</B> </P>
+</DIV><DIV class="item"><P class="word"><B>flare </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> suddenly </B><I>Anger suddenly flared in his eyes. </I><B>| briefly </B><I>A light flared briefly, then went out. </I><B>| up </B><I>Violence flared up in the capital last night. </I> </P>
+<P> <U> PHRASES </U><B> flare into life </B><I>The fire flared into life again. </I> </P>
+</DIV>

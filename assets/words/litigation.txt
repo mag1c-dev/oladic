@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>litigation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> costly, expensive | endless, lengthy, protracted | threatened | pending | ensuing, subsequent | civil, commercial, criminal </B> </P>
+<P> <U> VERB + LITIGATION </U><B> be/become/get involved in, be engaged in, conduct, engage in | threaten | avoid </B><I>The payment was made to avoid threatened litigation. </I> </P>
+<P> <U> LITIGATION + NOUN </U><B> costs </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>He engaged in endless litigation against the media. </I><B>| ~ between </B><I>litigation between private parties </I> </P>
+<P> <U> PHRASES </U><B> the cost of litigation, the risk/threat of litigation</B> </P>
+</DIV>

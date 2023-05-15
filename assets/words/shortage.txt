@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>shortage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acute, desperate, dire, serious, severe </B><I>the current acute shortage of teachers </I><B>| growing, increasing | chronic | general | national, world </B><I>the world shortage of coffee </I><B>| current | wartime | cash, energy, food, fuel, housing, labour, manpower, skill/skills, staff, water </B> </P>
+<P> <U> VERB + SHORTAGE </U><B> cause, create, lead to, result in | be affected by, be hampered by, face, have, suffer (from) </B><I>Industry is facing a serious labour shortage. </I><B>| alleviate, deal with, ease, meet, overcome, solve, tackle </B><I>The recent heavy rains have helped to ease the water shortage. </I><B>| exacerbate </B><I>The energy shortages were exacerbated by the severe winter. </I> </P>
+<P> <U> SHORTAGE + VERB </U><B> occur | cause sth, lead to sth </B><I>A shortage of resources has led to a cutback. </I> </P>
+<P> <U> PREP. </U><B> because of/due to a/the ~ </B><I>Lives are being put at risk because of staff shortages. </I><B>| ~ in </B><I>Their economy continued to suffer shortages in raw materials. </I><B>| ~ of </B><I>a desperate shortage of food </I> </P>
+</DIV>

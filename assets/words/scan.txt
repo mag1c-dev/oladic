@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>scan </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> quick look </TT> </P>
+<P> <U> ADJ. </U><B> quick, rapid </B><I>A quick scan of the local paper revealed nothing. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B> </P>
+<P> <SUP> 2 </SUP> <TT> examination by a machine </TT> </P>
+<P> <U> ADJ. </U><B> body, bone, brain | ultrasound | routine </B> </P>
+<P> <U> VERB + SCAN </U><B> have | give sb | take </B> </P>
+<P> <U> SCAN + VERB </U><B> reveal sth </B><I>A routine scan revealed abnormalities in the foetus. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The doctors took a scan of his thigh bone. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>scan </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully | quickly, rapidly | anxiously, nervously </B><I>She scanned the street nervously, looking for the two men. </I><B>| eagerly </B> </P>
+<P> <U> PREP. </U><B> for </B><I>I scanned the paper for news. </I> </P>
+</DIV>

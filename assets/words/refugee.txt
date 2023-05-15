@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>refugee </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> genuine, real | would-be | returning | economic, environmental, political, war </B><I>Many claimed to be environmental refugees, leaving for the sake of their health. </I><B>| civilian | child </B> </P>
+<P> <U> VERB + REFUGEE </U><B> qualify as </B><I>Those who did not qualify as refugees were returned to their home countries. </I><B>| be considered, be found to be, be recognized as </B><I>Only nine per cent were found to be genuine political refugees. </I><B>| accept, resettle, take (back/in) </B><I>The government has agreed to take only 150 refugees plus their dependants. </I><B>| expel, return | house | help </B> </P>
+<P> <U> REFUGEE + VERB </U><B> flee sth </B><I>refugees fleeing political persecution </I><B>| be displaced </B><I>refugees displaced by the civil war </I><B>| arrive | pour </B><I>Hundreds of refugees are pouring over the border. </I><B>| live </B><I>refugees living in camps along the border </I><B>| return </B> </P>
+<P> <U> REFUGEE + NOUN </U><B> crisis, issue, problem, question, situation | exodus | resettlement | status </B><I>The Home Office has refused him refugee status. </I><B>| group, organization, worker | camp, centre, hostel | children, community, family, population </B> </P>
+<P> <U> PREP. </U><B> among ~ </B><I>Unemployment among the refugees has risen sharply. </I><B>| ~ from </B><I>refugees from civil wars </I> </P>
+<P> <U> PHRASES </U><B> a flood/influx of refugees </B><I>a new influx of refugees from the combat zone </I><B>| the flow of refugees, the plight of refugees, the return of refugees</B> </P>
+</DIV>

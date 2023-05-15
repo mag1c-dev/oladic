@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>magistrate </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> examining, investigating, licensing | chief, senior | city, local, town </B> </P>
+<P> <U> VERB + MAGISTRATE </U><B> appoint (sb), appoint sb as | appear before, come up before </B><I>He is due to appear before magistrates in connection with a public order offence. </I> </P>
+<P> <U> MAGISTRATE + VERB </U><B> hear sth </B><I>A thief who stole power tools from a store later sold them in a pub, Whitby magistrates heard yesterday. </I><B>| fine sb | remand sb in custody | sentence sb | adjourn sth </B><I>Magistrates adjourned the case until June 9. </I> </P>
+<P> <U> PHRASES </U><B> magistrates' court</B> </P>
+</DIV>

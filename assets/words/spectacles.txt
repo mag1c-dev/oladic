@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>spectacles </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | gold-rimmed, horn-rimmed, metal-framed, rimless, steel-rimmed, wide-framed | pebble, thick, thick-lensed | bifocal, half-moon, tinted | dark | safety </B> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + SPECTACLES </U><B> have on, wear | put on | take off | push up </B><I>She pushed her spectacles up her nose and sighed. </I><B>| adjust | polish | look through/over, peer through/over </B><I>He peered at the waiter over his spectacles. </I> </P>
+<P> <U> SPECTACLES + VERB </U><B> be perched on sth, perch on sth </B><I>Her wire-framed spectacles were perched on the end of her nose. </I><B>| glint </B><I>Her spectacles glinted in the moonlight. </I><B>| steam up </B><I>His spectacles steamed up in the hot room. </I> </P>
+<P> <U> PREP. </U><B> behind your ~, through your ~</B> </P>
+</DIV>

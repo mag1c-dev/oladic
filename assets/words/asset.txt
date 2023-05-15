@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>asset </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> useful person/thing </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, great, important, invaluable, precious, priceless, real, tremendous, useful, valuable </B><I>The teachers are the school's biggest asset. </I><B>| best, main, major, principal, prize | cultural </B><I>The tourist industry requires that the country's cultural assets be made more accessible. </I><B>| natural </B><I>Bow windows are a natural asset to any room and should be highlighted. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>She will be an asset to any school she attends. </I> </P>
+<P> <SUP> 2 </SUP> <TT> what a company owns </TT> </P>
+<P> <U> ADJ. </U><B> combined, total | gross | net </B><I>The company's net assets are worth millions. </I><B>| business, company, corporate | commercial, financial | current, disposable, liquid </B><I>Liquid assets can be sold more quickly. </I><B>| capital, fixed, non-cash, non-monetary, physical, property | tangible | intangible | depreciable, wasting | hidden </B><I>They have hidden assets in banks around the world. </I><B>| foreign, overseas | personal | national, public, state </B> </P>
+<P> <U> VERB + ASSET </U><B> have, hold, own, possess </B><I>assets held by the company in Asia </I><B>| transfer </B><I>He transferred all his assets into his wife's name. </I><B>| accumulate, acquire, buy | dispose of, realize, sell </B><I>The business disposed of all its capital assets. </I><B>| increase, reduce </B><I>The company has increased its UK assets. </I><B>| freeze </B><I>The courts can order a company's assets to be frozen. </I><B>| release, unfreeze </B> </P>
+<P> <U> ASSET + VERB </U><B> appreciate, grow </B><I>Net assets have grown to $169 million. </I><B>| decline, depreciate, dwindle </B> </P>
+<P> <U> ASSET + NOUN </U><B> value | management | sale | stripping </B><I>measures to prevent asset stripping </I> </P>
+<P> <U> PHRASES </U><B> assets and liabilities</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>prototype </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pre-production | working </B> </P>
+<P> <U> VERB + PROTOTYPE </U><B> build, develop | test </B> </P>
+<P> <U> PROTOTYPE + NOUN </U><B> stage </B><I>The car is presently at the prototype stage. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The team is developing a prototype for a digital compact camera. </I><B>| ~ of </B><I>He is working on the prototype of a new type of ventilator. </I> </P>
+</DIV>

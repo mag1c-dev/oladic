@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>acquaintance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person you know </TT> </P>
+<P> <U> ADJ. </U><B> casual </B><I>I bumped into a casual acquaintance in town. </I><B>| casual, new | close, old | business, mutual, personal, social </B> </P>
+<P> <U> VERB + ACQUAINTANCE </U><B> bump into, meet | greet (sb as) </B><I>He was greeted as an old acquaintance. </I> </P>
+<P> <U> PHRASES </U><B> friends and acquaintances </B> </P>
+<P> <SUP> 2 </SUP> <TT> knowledge of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> nodding, passing, slight </B><I>a man with whom I had a passing acquaintance </I><B>| brief, short | close, intimate </B> </P>
+<P> <U> VERB + ACQUAINTANCE </U><B> make sb/sth's </B>(= become acquainted with sb/sth) <I>I first made his acquaintance in 1992. </I><B>| strike up </B><I>I first met Simon in 1998 and struck up an acquaintance with him. </I><B>| renew </B> </P>
+<P> <U> PREP. </U><B> of sb's ~ </B><I>He introduced me to a lady of his acquaintance. </I><B>| ~ with </B><I>her acquaintance with modern French philosophy </I> </P>
+<P> <U> PHRASES </U><B> have an acquaintance with </B><I>They have little acquaintance with colloquial English. </I><B>| on close/closer acquaintance, on first acquaintance </B><I>On first acquaintance she seemed a little odd </I> </P>
+</DIV>

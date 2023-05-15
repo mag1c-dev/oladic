@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>contact lens </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> gas-permeable, hard, soft | daily-wear | tinted </B> </P>
+<P> <U> VERB + CONTACT LENS </U><B> have in, wear | put in | remove, take out | clean, disinfect | rinse, soak</B> </P>
+</DIV><DIV class="item"><P class="word"><B>contact </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> meeting/talking/writing to sb </TT> </P>
+<P> <U> ADJ. </U><B> close </B><I>She is still in close contact with Sarah. </I><B>| regular | direct </B><I>Have you had any direct contact with the director of the company? </I><B>| face-to-face </B> </P>
+<P> <U> VERB + CONTACT </U><B> be in, have | come into, establish, get in, make </B><I>In his job, he comes into contact with many different people. We first established contact with the organization in 1999. When I arrive in New York, I'll get in contact with him. </I><B>| put sb in </B><I>I put my cousin in contact with a friend who works at the company. </I><B>| keep, maintain, stay in </B><I>Maintaining contact after many years can be difficult. </I><B>| break off | lose </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>There has been no contact between them for several years. </I><B>| ~ with </B><I>I have very little contact with Simon now. </I> </P>
+<P> <SUP> 2 </SUP> <TT> person you know who can help you </TT> </P>
+<P> <U> ADJ. </U><B> good, useful, valuable | business, personal </B> </P>
+<P> <U> VERB + CONTACT </U><B> have </B><I>He has a lot of good contacts in the music industry. </I><B>| build up, make </B><I>It takes time to build up contacts. I made a lot of useful business contacts at the conference. </I> </P>
+<P> <SUP> 3 </SUP> <TT> when people/things touch each other </TT> </P>
+<P> <U> ADJ. </U><B> physical, sexual </B><I>The disease is transmitted through physical contact. </I> </P>
+<P> <U> VERB + CONTACT </U><B> come into </B><I>Do not let the glue come into contact with water. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>For a brief moment their lips were in contact. </I><B>| on ~ </B><I>The light will go out on contact with water. </I><B>| ~ between </B><I>There should be no contact between the separate samples. </I><B>| ~ with</B> </P>
+</DIV><DIV class="item"><P class="word"><B>contact </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> immediately | directly | personally | by email, by phone/telephone </B><I>He can be contacted by phone on the telephone number given below. </I> </P>
+<P> <U> PHRASES </U><B> do not hesitate to contact sb </B><I>Please do not hesitate to contact me if you have any questions. </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>sentence </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of words </TT> </P>
+<P> <U> ADJ. </U><B> long, short </B><I>Try to keep your sentences short. </I><B>| complete, whole | broken, incomplete | grammatical, grammatically correct | grammatically incorrect, ungrammatical | coherent | affirmative, negative | complex, simple | compound </B> </P>
+<P> <U> VERB + SENTENCE </U><B> begin | finish </B><I>Peter finished Jane's sentence for her. </I><B>| construct, form, formulate, generate, write </B><I>He can barely form a grammatical sentence. </I><B>| parse </B> </P>
+<P> <U> SENTENCE + VERB </U><B> contain sth, have sth </B><I>Does the sentence contain an adverb? </I> </P>
+<P> <U> SENTENCE + NOUN </U><B> structure </B> </P>
+<P> <SUP> 2 </SUP> <TT> punishment given by a judge </TT> </P>
+<P> <U> ADJ. </U><B> maximum, minimum | long, short | harsh, heavy, severe, stiff | lenient, light | indefinite, indeterminate | appropriate | mandatory </B><I>The judge imposed the mandatory sentence for murder. </I><B>| suspended | custodial, jail, prison | non-custodial | death | life </B> </P>
+<P> <U> VERB + SENTENCE </U><B> hand down, impose, pass, pronounce </B><I>The judge will pass sentence on the accused this afternoon. </I><B>| be given, get, receive | serve </B><I>He will have to serve a life sentence. </I><B>| carry out | await </B><I>He spent a week in custody on remand awaiting sentence. </I><B>| face </B><I>She could face a long prison sentence. </I><B>| commute, reduce </B><I>The death sentence may be commuted to life imprisonment. </I><B>| suspend | appeal against | review | quash | carry </B><I>The offence carries a maximum sentence of two years in prison. </I> </P>
+<P> <U> PREP. </U><B> under ~ (of) </B><I>He has been in prison for two months under sentence of death. </I><B>| ~ for </B><I>an eight-year sentence for burglary </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sentence </B><I>verb </I> </P>
+<P> <U> PREP. </U><B> for </B><I>They had been sentenced for murder. </I><B>| to </B><I>He was sentenced to two years in prison. </I> </P>
+<P> <U> PHRASES </U><B> sentence sb to death, sentence sb to imprisonment </B><I>The judge sentenced her to life imprisonment. </I> </P>
+</DIV>

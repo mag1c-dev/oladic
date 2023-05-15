@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>attendance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, large, record </B><I>It was a record attendance for a midweek game. </I><B>| low, poor | falling </B><I>Despite falling attendances, the zoo will stay open. </I><B>| average, daily </B><I>The average attendance at matches increased last year. </I><B>| total | constant, regular </B><I>Regular attendance at lectures is important. </I><B>| compulsory | church, cinema, school, etc. </B> </P>
+<P> <U> VERB + ATTENDANCE </U><B> boost, improve, increase </B><I>Building a new stadium has boosted attendances by 40%. </I> </P>
+<P> <U> ATTENDANCE + VERB </U><B> drop, fall, go down </B><I>Attendances at the pool always fall in winter. </I><B>| go up, increase </B> </P>
+<P> <U> ATTENDANCE + NOUN </U><B> figures, rate, record </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The emergency services were in attendance within 22 minutes. </I><B>| ~ at </B><I>attendance at the meetings </I> </P>
+</DIV>

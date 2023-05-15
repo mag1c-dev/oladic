@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>majority </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> most </TT> </P>
+<P> <U> ADJ. </U><B> big, great, huge, overwhelming, substantial, vast | silent </B><I>The march was by the silent majority who oppose terrorism. </I> </P>
+<P> <U> VERB + MAJORITY </U><B> comprise, constitute, form, make up </B><I>English speakers form the majority of the population. </I> </P>
+<P> <U> MAJORITY + NOUN </U><B> culture, group, population | opinion, view | shareholder | stake </B><I>The French company holds a majority stake in the retail chain. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>In the general population, right-handed people are in the majority. </I> </P>
+<P> <U> PHRASES </U><B> in the majority of cases </B><I>In the vast majority of cases, customers get their money back. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in an election </TT> </P>
+<P> <U> ADJ. </U><B> handsome, huge, large, massive, overwhelming, substantial | clear, comfortable, decisive | bare, narrow, slender, slight, slim, small, tiny, wafer-thin | ten-seat, three-to-one, two-thirds, etc. | absolute, outright, overall </B><I>Although they are the biggest single party, they don't have an outright majority. </I><B>| simple | decreased, increased | working </B><I>the first Labour government with a clear working majority in the House </I><B>| parliamentary | government | Conservative, Labour, etc. | necessary, requisite </B> </P>
+<P> <U> VERB + MAJORITY </U><B> command, have | achieve, gain, get, secure, win </B><I>They failed to win the requisite two-thirds majority. </I><B>| defend, maintain, retain | lose | overturn | indicate, show </B> </P>
+<P> <U> MAJORITY + NOUN </U><B> government, rule | party | decision | vote, voting | support </B> </P>
+<P> <U> PREP. </U><B> by a ~ </B><I>They won by a huge majority. </I><B>| ~ against </B><I>Latest opinion polls have a comfortable majority against the reform. </I><B>| ~ in </B><I>a majority in Parliament </I><B>| ~ in favour of </B><I>Opinion polls indicated a two-thirds majority in favour of ratification of the treaty. </I><B>| ~ over </B><I>He has a decisive majority over his main rivals. </I> </P>
+</DIV>

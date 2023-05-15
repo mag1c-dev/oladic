@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>taxi </B><I>noun </I> </P>
+<P> <U> VERB + TAXI </U><B> go by, take </B><I>I took a taxi back home. </I><B>| call (sb), get (sb), order (sb), phone for </B><I>I'll get my secretary to call you a taxi. </I><B>| find </B><I>We had some difficulty finding a taxi. </I><B>| catch, hail </B><I>We caught a taxi to the airport. </I><B>| get into/out of | drive | pay for/off | share </B> </P>
+<P> <U> TAXI + NOUN </U><B> cab | firm | ride | service | fare | driver | rank </B> </P>
+<P> <U> PHRASES </U><B> by ~ </B><I>a five-minute trip by taxi </I> </P>
+</DIV>

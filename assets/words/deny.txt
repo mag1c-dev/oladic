@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>deny </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> say sth is not true </TT> </P>
+<P> <U> ADV. </U><B> emphatically, fiercely, firmly, hotly, strenuously, strongly, vehemently, vigorously </B><I>Both women vehemently deny the charges against them. </I><B>| angrily, indignantly | categorically, flatly </B><I>He has categorically denied being involved in the fraud. </I><B>| explicitly, expressly | implicitly | formally | publicly | immediately, promptly | simply </B><I>If anyone accuses me I shall simply deny it. </I><B>| consistently, repeatedly </B><I>He has consistently denied murdering his estranged wife. </I> </P>
+<P> <U> VERB + DENY </U><B> cannot </B><I>You can't deny that it seems a very attractive idea. </I><B>| try to </B><I>I know it was you I saw, so there's no use trying to deny it. </I> </P>
+<P> <U> PHRASES </U><B> no one could/would deny that </B><I>No one would deny that there is a very great need for change. </I><B>| there is no denying sth </B><I>There is no denying the fact that she is an excellent scholar. </I> </P>
+<P> <SUP> 2 </SUP> <TT> refuse sb sth </TT> </P>
+<P> <U> ADV. </U><B> cruelly </B><I>They were cruelly denied victory by an injury-time strike from Owen. </I><B>| effectively </B><I>Children could be compelled to work on the farm, effectively denying them schooling. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>You cannot deny this opportunity to me. </I> </P>
+</DIV>

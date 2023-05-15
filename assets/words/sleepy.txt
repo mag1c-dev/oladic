@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>sleepy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> ready to go to sleep </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, sound | become, get, grow | make sb </B><I>The alcohol was making him sleepy. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | a bit, a little, quite, rather </B><I>She was beginning to get a bit sleepy. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very quiet </TT> </P>
+<P> <U> VERBS </U><B> be, seem | remain </B><I>The town remains sleepy despite the activity all around it. </I> </P>
+<P> <U> PHRASES </U><B> sleepy little </B><I>a sleepy little fishing village </I> </P>
+</DIV>

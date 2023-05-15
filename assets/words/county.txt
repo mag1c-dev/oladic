@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>county </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> border, coastal, rural </B><I>the Welsh border counties </I><B>| eastern, western, etc. | historic/historical </B><I>the historic county of Westmorland </I>(= that no longer exists) <B>| home </B><I>London and the home counties </I>(= the counties around London) <B>| native </B><I>He was elected MP for his native county of Merioneth. </I><B>| neighbouring | dry </B>(= where it is illegal to sell alcohol)  </P>
+<P> <U> VERB + COUNTY </U><B> represent </B><I>She represents the county in Parliament. </I> </P>
+<P> <U> COUNTY + NOUN </U><B> boundary </B><I>The river forms the county boundary. </I><B>| town </B><I>Trowbridge is the county town of Wiltshire </I>(= the town where the local government offices are)</B><I>. </I><B>| council, councillor | court | library | cricket | championship, match </B>(= in cricket)  </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>people who live in this county </I> </P>
+</DIV>

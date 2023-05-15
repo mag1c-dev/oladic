@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>main </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gas, water | burst, leaking </B><I>There's a burst water main in Quarry Road. </I> </P>
+<P> <U> VERB + MAIN </U><B> lay </B><I>They're laying a new gas main through the town. </I> </P>
+<P> <U> MAIN + VERB </U><B> serve sth </B><I>The main serves four villages. </I><B>| explode, leak </B> </P>
+<P> <U> MAIN + NOUN </U><B> electricity, gas, water </B><I>an island without mains electricity </I> </P>
+<P> <U> PREP. </U><B> at the ~s </B><I>Turn the water off at the mains. </I><B>| on the ~s </B><I>Some of the remoter houses in the village are not on the mains. </I> </P>
+</DIV>

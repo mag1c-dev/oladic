@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>perfume </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> liquid with a sweet smell that you put on your body </TT> </P>
+<P> <U> ADJ. </U><B> expensive | cheap | strong | subtle | fragrant, sweet | exotic | musky | stale </B> </P>
+<P> <U> QUANT. </U><B> bottle </B> </P>
+<P> <U> VERB + PERFUME </U><B> use, wear | dab on, put on, spray on </B><I>She dabbed some perfume on her wrists. </I><B>| smell | reek of, smell of </B><I>She reeked of cheap perfume. </I> </P>
+<P> <U> PERFUME + NOUN </U><B> bottle | company, house </B> </P>
+<P> <U> PHRASES </U><B> a waft/whiff of perfume </B><I>He caught a faint whiff of her expensive French perfume. </I> </P>
+<P> <SUP> 2 </SUP> <TT> pleasant smell </TT> </P>
+<P> <U> ADJ. </U><B> sweet | heady, strong | delicate, faint | exotic, strange </B> </P>
+<P> <U> VERB + PERFUME </U><B> smell | give off, release </B><I>The lilies release their heady perfume in the evening. </I> </P>
+<P> <U> PERFUME + VERB </U><B> fill sth </B><I>The perfume of the roses filled the room. </I> </P>
+</DIV>

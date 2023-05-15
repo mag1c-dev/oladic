@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>remedy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> treatment/medicine </TT> </P>
+<P> <U> ADJ. </U><B> effective, good | correct | wrong | common | traditional | ancient, old | folk | home | herbal, homoeopathic, natural | cold </B><I>The player insists that he merely took a cold remedy and not a banned substance. </I> </P>
+<P> <U> QUANT. </U><B> dose </B><I>One dose of the remedy is sufficient. </I> </P>
+<P> <U> VERB + REMEDY </U><B> take, use | need | try | give sb </B><I>The remedy was given in different strengths to a group of volunteers. </I><B>| prescribe (sb) | prepare </B><I>The remedies are all prepared from wild flowers. </I><B>| find </B><I>They're hoping to find a remedy for the condition. </I> </P>
+<P> <U> REMEDY + VERB </U><B> be available | work </B><I>She tried various remedies, but none of them worked. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>He took a herbal remedy for his hay fever. </I> </P>
+<P> <SUP> 2 </SUP> <TT> way of dealing with a problem </TT> </P>
+<P> <U> ADJ. </U><B> adequate, effective, good </B><I>Your best remedy is to go to the small claims court. </I><B>| appropriate, suitable | easy, simple </B><I>There's no easy remedy for unemployment. </I><B>| common, usual | alternative | desperate, drastic | proposed | civil (law), common/private/public law, contractual, judicial, legal, statutory </B> </P>
+<P> <U> VERB + REMEDY </U><B> have | pursue, seek </B><I>They will have to seek a judicial remedy for breach of contract. </I><B>| resort to </B><I>Desperate remedies were resorted to in the search for food. </I><B>| exhaust </B><I>They advised him to exhaust all other remedies before applying to court. </I><B>| create | offer | afford (sb), grant sb, provide (sb with) </B><I>remedies afforded to creditors by a bankruptcy order </I> </P>
+<P> <U> REMEDY + VERB </U><B> be available | lie in sth </B><I>When the reservoir becomes blocked, the only remedy lies in cleaning the entire system. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The agreement states that he has a remedy against the subcontractor. </I><B>| ~ for </B><I>remedies for breach of contract </I><B>| ~ in </B><I>You have a remedy in civil law. </I> </P>
+<P> <U> PHRASES </U><B> rights and remedies </B><I>The Act created rights and remedies for consumers. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>remedy </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> easily </B><I>This could easily be remedied if the authorities were willing. </I> </P>
+<P> <U> VERB + REMEDY </U><B> attempt to, seek to, take steps to, try to </B><I>The government should have taken steps to remedy the situation. </I> </P>
+</DIV>

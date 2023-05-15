@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>inefficiency </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gross | inherent | bureaucratic, economic, managerial </B> </P>
+<P> <U> VERB + INEFFICIENCY </U><B> cause, create, lead to, make for </B><I>Conflict between management and workers makes for inefficiency in the workplace. </I><B>| minimize, reduce | overcome, root out </B><I>We need to root out inefficiencies in the production process. </I> </P>
+<P> <U> INEFFICIENCY + VERB </U><B> arise </B><I>This type of inefficiency arises because workers and management are ill-equipped. </I> </P>
+</DIV>

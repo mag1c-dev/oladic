@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>applaud </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> clap your hands </TT> </P>
+<P> <U> ADV. </U><B> loudly </B><I>The audience applauded loudly. </I> </P>
+<P> <SUP> 2 </SUP> <TT> praise sb/sth </TT> </P>
+<P> <U> ADV. </U><B> strongly, warmly </B><I>The decision to save the company has been warmly applauded. </I> </P>
+<P> <U> PHRASES </U><B> is to be applauded, should be applauded </B><I>His efforts to help people should be applauded. </I> </P>
+</DIV>

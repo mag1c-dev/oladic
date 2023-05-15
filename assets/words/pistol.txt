@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pistol </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> automatic, machine, semi-automatic | unlicensed | loaded | air, water | duelling, starting </B><I>runners waiting for the starting pistol </I> </P>
+<P> <U> VERB + PISTOL </U><B> load | draw, produce </B><I>He drew his pistol, aimed and fired. </I><B>| cock | aim, level, point, raise | fire | carry </B><I>There were two of them, both carrying pistols. </I> </P>
+<P> <U> PISTOL + NOUN </U><B> shot </B> </P>
+<P> <U> PHRASES </U><B> at pistol point </B><I>He was robbed in his hotel at pistol point. </I> </P>
+</DIV>

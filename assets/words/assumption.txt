@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>assumption </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> basic, fundamental, hidden, implicit, tacit, underlying, unspoken | common, conventional, general, shared, widespread </B><I>shared assumptions between teachers and parents </I><B>| correct, reasonable, valid | erroneous, false, flawed, incorrect, mistaken, questionable, wrong </B> </P>
+<P> <U> QUANT. </U><B> number, series, set </B><I>Your argument is based on a set of questionable assumptions. </I> </P>
+<P> <U> VERB + ASSUMPTION </U><B> make </B><I>She's always making assumptions about how much money people have. </I><B>| base sth on, start from, work on </B><I>We are working on the assumption that the techniques are safe. </I><B>| accept | challenge, disprove, question, test </B> </P>
+<P> <U> ASSUMPTION + VERB </U><B> underly sth, underpin sth </B><I>the assumptions underlying their beliefs </I> </P>
+<P> <U> PREP. </U><B> on the ~ that </B><I>I set the table for eight people, on the assumption that Jo would come. </I><B>| ~ about </B><I>assumptions about how women should behave </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>promotion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> to a higher position </TT> </P>
+<P> <U> ADJ. </U><B> rapid | internal </B><I>The company encourages internal promotion. </I> </P>
+<P> <U> VERB + PROMOTION </U><B> gain, get, win </B><I>If I can't get promotion soon, I'll look for another job. </I><B>| deserve </B><I>We congratulate James on his well-deserved promotion to Chief Executive. </I><B>| recommend sb for </B> </P>
+<P> <U> PROMOTION + NOUN </U><B> opportunities, prospects | race </B><I>With three matches remaining, there are six teams in the promotion race. </I> </P>
+<P> <U> PREP. </U><B> ~ from, ~ to </B><I>his promotion from lecturer to senior lecturer </I> </P>
+<P> <U> PHRASES </U><B> chance/chances of promotion </B><I>The team's chances of promotion took a knock when they lost at home. </I> </P>
+<P> <SUP> 2 </SUP> <TT> advertising </TT> </P>
+<P> <U> ADJ. </U><B> special | sales, trade | book, tobacco, etc. | health </B><I>The new health promotion clinic will provide free check-ups. </I> </P>
+<P> <U> VERB + PROMOTION </U><B> do </B><I>We're doing a special book promotion at key bookshops this week. </I> </P>
+</DIV>

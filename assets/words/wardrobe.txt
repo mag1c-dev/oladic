@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>wardrobe </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large cupboard for clothes </TT> </P>
+<P> <U> ADJ. </U><B> built-in, fitted | double | walk-in </B> </P>
+<P> <U> VERB + WARDROBE </U><B> open | close </B> </P>
+<P> <U> WARDROBE + NOUN </U><B> door </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She hung the dress up in the wardrobe. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb's collection of clothes </TT> </P>
+<P> <U> ADJ. </U><B> new | extensive | autumn, spring, etc. </B> </P>
+<P> <U> VERB + WARDROBE </U><B> have | buy </B><I>I want to buy a whole new summer wardrobe. </I> </P>
+</DIV>

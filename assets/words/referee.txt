@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>referee </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> controls a sports match </TT> </P>
+<P> <U> ADJ. </U><B> boxing, football | match, tournament </B><I>decisions taken by the match referee </I><B>| international </B> </P>
+<P> <U> REFEREE + VERB </U><B> award sb sth </B><I>The referee awarded a free kick to the home team. </I><B>| book sb, send sb off </B><I>The referee booked three players for offensive behaviour. </I> </P>
+<P> <U> PHRASES </U><B> the referee's decision </B> </P>
+<P> <SUP> 2 </SUP> <TT> recommends sb for a job </TT> </P>
+<P> <U> ADJ. </U><B> academic, professional </B> </P>
+<P> <U> VERB + REFEREE </U><B> act as, be </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>His former employer agreed to act as a referee for him. </I> </P>
+<P> <SUP> 3 </SUP> <TT> settles a dispute between people </TT> </P>
+<P> <U> ADJ. </U><B> official </B> </P>
+<P> <U> VERB + REFEREE </U><B> act as </B><I>to act as referee between the parties involved </I> </P>
+<P> <U> PREP. </U><B> ~ between</B> </P>
+</DIV>

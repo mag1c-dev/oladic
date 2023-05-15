@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>procedure </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complex, complicated | simple, straightforward | correct, normal, proper, standard, usual </B><I>There are standard procedures for dismissing staff. </I><B>| agreed, established | special | administrative, appeals, application, assessment, complaints, court, criminal, disciplinary, emergency, parliamentary, safety, scientific, selection, surgical </B><I>a minor surgical procedure </I> </P>
+<P> <U> PROCEDURE + NOUN </U><B> adopt, follow, use </B><I>Did you follow the emergency procedure when you heard the alarm? </I><B>| establish </B><I>A straightforward complaints procedure must be established from the outset. </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>under a procedure established by legislation </I><B>| ~ for </B><I>the correct procedure for hiring staff </I> </P>
+</DIV>

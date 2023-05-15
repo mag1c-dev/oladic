@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>discipline </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> controlling behaviour </TT> </P>
+<P> <U> ADJ. </U><B> effective, firm, good, strong  </B><I>We need better discipline in our schools. </I><B>| harsh, iron, rigid, strict </B><I>strict military discipline </I><B>| lax, poor </B><I>Discipline was too lax. </I><B>| staff, team | military, naval, party, prison, school, work </B> </P>
+<P> <U> VERB + DISCIPLINE </U><B> enforce, exercise, exert, impose </B><I>the discipline that the party exercises over its members </I><B>| keep, maintain </B><I>The teacher was unable to maintain discipline. </I><B>| accept, submit to </B><I>They submitted to the discipline imposed by their leaders. </I> <B>| have </B><I>The school was criticized for having very poor discipline. </I><B>| lack </B><I>Modern schools lack discipline. </I><B>| tighten </B><I>The new headmaster tightened discipline in the school. </I><B>| relax | restore </B> </P>
+<P> <U> PHRASES </U><B> a breach of discipline </B><I>It's unfair to dismiss somebody for a single breach of discipline. </I><B>| a breakdown of discipline </B><I>a breakdown of discipline in the classroom </I><B>| a lack of discipline </B> </P>
+<P> <SUP> 2 </SUP> <TT> controlling yourself </TT> </P>
+<P> <U> ADJ. </U><B> good, great, useful, valuable </B><I>It is good discipline to learn to delegate. </I><B>| strict | personal | mental, spiritual | business, commercial, financial, fiscal, industrial, market, monetary </B><I>The chancellor has stabilized the economy through strict fiscal discipline. </I> </P>
+<P> <U> VERB + DISCIPLINE </U><B> have </B><I>He'll never get anywhere working for himself?he's got no discipline. </I><B>| show | lack | demand, require, take </B><I>It takes great discipline to learn a musical instrument. </I> </P>
+<P> <U> PHRASES </U><B> a lack of discipline </B> </P>
+<P> <SUP> 3 </SUP> <TT> subject of study </TT> </P>
+<P> <U> ADJ. </U><B> core, main, major </B><I>Students are to be tested on the three core disciplines: maths, English and science. </I><B>| distinct, independent </B><I>When did sociology emerge as a distinct discipline? </I><B>| established, traditional | subject | academic, intellectual </B><I>They established psychology as an academic discipline. </I><B>| professional | humanities, science/scientific </B> </P>
+<P> <U> PREP. </U><B> across ~s </B><I>There is a lack of communication across disciplines </I> (= between teachers and students of different subjects)</B><I>. </I><B>| within a/the ~ </B><I>Within a discipline there may be more than one school of thought. </I> </P>
+<P> <U> PHRASES </U><B> a range of disciplines </B><I>The university offers a wide range of disciplines. </I> </P>
+</DIV>

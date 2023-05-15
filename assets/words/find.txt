@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>find </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> exciting, good, great, important, interesting, real, remarkable, significant, spectacular, startling </B><I>The letters were a real find and James went on to publish two volumes of them. </I><B>| small | lucky </B><I>A lucky find in the Cotswolds is helping archaeologists discover what life was like in Roman Britain. </I><B>| unexpected | stray </B><I>Stray finds are more commonly discovered than whole new sites. </I><B>| archaeological | medieval, prehistoric </B> </P>
+<P> <U> VERB + FIND </U><B> discover, make, unearth </B><I>prehistoric finds made in an unexplored cave </I><B>| yield </B><I>To date the site has yielded many interesting finds. </I><B>| report </B><I>I reported my find to the landowner. </I> </P>
+</DIV>

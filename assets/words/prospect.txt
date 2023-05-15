@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>prospect </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> chance/hope that sth will happen </TT> </P>
+<P> <U> ADJ. </U><B> reasonable | immediate </B> </P>
+<P> <U> VERB + PROSPECT </U><B> have | offer </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Major developments are in prospect for the company. </I><B>| ~ of sth </B><I>There is little prospect of any improvement in the weather. </I> </P>
+<P> <SUP> 2 </SUP> <TT> idea of what may/will happen </TT> </P>
+<P> <U> ADJ. </U><B> attractive, exciting, inviting | bleak, daunting </B> </P>
+<P> <U> VERB + PROSPECT </U><B> be excited at, relish, welcome </B><I>I don't relish the prospect of having to share an office. </I><B>| be faced with, face 3 prospects </B>chances of being successful </B> </P>
+<P> <U> ADJ. </U><B> bright, excellent, exciting, good | limited, poor | future, long-term | development, economic, growth | career, employment, job, promotion | election, electoral, re-election </B> </P>
+<P> <U> VERB + PROSPECT </U><B> have | offer (sb) </B><I>This position offers a good starting salary and excellent promotion prospects. </I><B>| boost, enhance, improve </B><I>Getting the right qualifications will enhance your employment prospects. </I><B>| blight, damage, diminish, ruin, wreck | assess, examine, review </B> </P>
+<P> <U> PROSPECT + VERB </U><B> improve </B> </P>
+<P> <U> PREP. </U><B> with/without ~ </B><I>At 25 he was an unemployed musician with no prospects. </I><B>| ~ for </B><I>Long-term prospects for the economy have improved. </I><B>| ~ of </B><I>Their prospects of employment look better than last year. </I> </P>
+</DIV>

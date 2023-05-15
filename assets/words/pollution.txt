@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pollution </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> air, atmospheric, environmental, marine, river, water | chemical, industrial, nuclear | lead, nitrate, noise, oil, ozone, sewage, vehicle, etc. | airborne </B> </P>
+<P> <U> VERB + POLLUTION </U><B> cause | avoid, prevent | combat, control, fight, tackle </B><I>a convention on combating atmospheric pollution </I><B>| cut, limit, minimize, reduce </B><I>The summit ended with a joint pledge to limit pollution. </I><B>| monitor </B> </P>
+<P> <U> POLLUTION + NOUN </U><B> level | abatement, control, prevention, reduction | limits | standards </B><I>a tightening of water pollution standards </I><B>| monitoring | inspectorate, watchdog </B><I>a survey by the government's water pollution watchdog </I><B>| incident, problem | laws, legislation, regulations | offence | sources </B><I>The computer model assesses the likely impact of new pollution sources. </I> </P>
+<P> <U> PHRASES </U><B> the cost of pollution </B><I>the cost of air pollution in health and other terms </I><B>| a risk of pollution </B><I>Environmentalists say there is a high risk of pollution from the landfill site. </I><B>| a source of pollution</B> </P>
+</DIV>

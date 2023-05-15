@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>purchase </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> buying sth </TT> </P>
+<P> <U> ADJ. </U><B> cash | credit | online | bulk </B><I>the bulk purchase of paper </I><B>| outright </B><I>Companies are moving away from outright purchase of company cars to contract hire. </I><B>| compulsory </B><I>The council applied for a compulsory purchase order on the the tennis courts. </I><B>| arms, house, land, share </B> </P>
+<P> <U> PURCHASE + NOUN </U><B> price | tax | order </B> </P>
+<P> <U> PHRASES </U><B> the cost of purchase </B><I>You can resell books and cut the original cost of purchase. </I><B>| the date/time of purchase </B><I>I did not notice the defects at the time of purchase. </I><B>| the place/point of purchase </B><I>Ticket holders should return to the point of purchase for a refund. </I><B>| proof of purchase </B><I>Keep your receipt as proof of purchase. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth bought </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good | expensive </B> </P>
+<P> <U> VERB + PURCHASE </U><B> make </B><I>some ways to encourage customers to make a purchase </I><B>| pay for</B> </P>
+</DIV><DIV class="item"><P class="word"><B>purchase </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> compulsorily </B><I>The land was compulsorily purchased from the owner to make way for the new road. </I> </P>
+<P> <U> VERB + PURCHASE </U><B> agree to, be willing to | wish to | can/cannot afford to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>They purchased the land for $1 million. </I><B>| from </B><I>They purchased the house from an elderly couple. </I> </P>
+</DIV>

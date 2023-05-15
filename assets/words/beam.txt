@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>beam </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> ray of light </TT> </P>
+<P> <U> ADJ. </U><B> bright, intense, piercing, powerful | narrow, thin | electron, laser, searchlight, torch </B> </P>
+<P> <U> VERB + BEAM </U><B> direct, point, send, shine | play </B><I>He played the beam of his torch over the wall of the cave. </I><B>| catch sb/sth in </B><I>He was suddenly caught in the full beam of a searchlight. </I> </P>
+<P> <U> BEAM + VERB </U><B> shine | illuminate sth, light sth up </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>the beam from the lighthouse </I><B>| ~ of </B><I>A beam of sunlight shone in through the window. </I> </P>
+<P> <U> PHRASES </U><B> on full beam </B><I>car headlights on full beam </I> </P>
+<P> <SUP> 2 </SUP> <TT> long piece of wood/metal </TT> </P>
+<P> <U> ADJ. </U><B> timber, wooden | oak | iron, metal, steel | old, original </B><I>a cottage with original beams and a thatched roof </I><B>| exposed </B><I>a cosy pub with exposed oak beams </I><B>| horizontal, vertical </B> </P>
+<P> <U> BEAM + VERB </U><B> support sth</B> </P>
+</DIV><DIV class="item"><P class="word"><B>beam </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> broadly </B><I>He beamed broadly at them, clearly very pleased to see them. </I><B>| positively </B><I>She positively beamed with satisfaction. </I><B>| cheerfully, happily, proudly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>She beamed happily at Maxim. </I><B>| with </B><I>His face beamed with pleasure. </I> </P>
+</DIV>

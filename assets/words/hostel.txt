@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hostel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> refugee, student, youth | bed and breakfast | bail, probation </B><I>a probation hostel for young offenders </I> </P>
+<P> <U> VERB + HOSTEL </U><B> stay at/in </B><I>homeless families staying in bed and breakfast hostels </I> </P>
+<P> <U> HOSTEL + NOUN </U><B> accommodation </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We stayed at a student hostel during the conference. </I><B>| in a/the ~ </B><I>He lives in a hostel for the homeless. </I> </P>
+</DIV>

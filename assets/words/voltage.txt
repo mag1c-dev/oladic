@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>voltage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | constant | changing, varying | mains, supply </B><I>Most house lighting runs at the full mains voltage of 240 volts. </I><B>| input, output </B> </P>
+<P> <U> VERB + VOLTAGE </U><B> increase, step up, turn up | decrease, step down, turn down | produce | apply </B><I>A voltage is then applied across the cell electrodes. </I> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>The motor operates at low voltages. </I> </P>
+</DIV>

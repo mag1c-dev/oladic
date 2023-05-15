@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>awake </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, lie </B><I>At night, he lay awake beside her. </I><B>| come, jerk </B><I>Claudia came awake slowly. Stephen jerked awake from a nightmare. </I><B>| keep, remain, stay </B><I>He was struggling to stay awake. </I><B>| jerk sb, jolt sb, nudge sb, shake sb </B><I>A few hours later Benjamin shook me awake. </I><B>| keep sb </B><I>The noise had kept her awake. </I> </P>
+<P> <U> ADV. </U><B> fully, wide </B><I>By now, the baby was wide awake. </I><B>| hardly, only half </B><I>It was very early and I was only half awake. </I><B>| still </B><I>The children were still awake when we went out. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>awake </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> early, late </B><I>She awoke early the next morning. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>I awoke from a deep sleep at six o'clock. </I> </P>
+</DIV>

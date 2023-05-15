@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>plantation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for growing a crop </TT> </P>
+<P> <U> ADJ. </U><B> coconut, coffee, cotton, rubber, sugar, tea, etc. </B> </P>
+<P> <U> VERB + PLANTATION </U><B> work (on) </B><I>Hundreds of slaves worked on the plantations. </I> </P>
+<P> <U> PLANTATION + NOUN </U><B> owner, worker | economy | house </B> </P>
+<P> <SUP> 2 </SUP> <TT> land planted with trees </TT> </P>
+<P> <U> ADJ. </U><B> conifer, eucalyptus, etc. | forestry </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a plantation of oaks </I> </P>
+</DIV>

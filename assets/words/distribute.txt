@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>distribute </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> give sth out </TT> </P>
+<P> <U> ADV. </U><B> equally, fairly | unequally | widely </B><I>The leaflets have been widely distributed. </I><B>| free </B><I>Copies of the book were distributed free to each school in the district. </I> </P>
+<P> <U> PREP. </U><B> among </B><I>We distributed the money equally among the team members. </I><B>| between, to </B><I>distributing aid to people in need </I> </P>
+<P> <SUP> 2 </SUP> <TT> spread sth </TT> </P>
+<P> <U> ADV. </U><B> evenly, uniformly </B><I>Wealth is not evenly distributed between age groups. </I><B>| unevenly | randomly </B><I>Smokers were randomly distributed in the sample interviewed. </I><B>| patchily, sparsely </B> </P>
+<P> <U> PREP. </U><B> among, between, throughout </B><I>There are over 35,000 species of orchid distributed throughout the world. </I> </P>
+</DIV>

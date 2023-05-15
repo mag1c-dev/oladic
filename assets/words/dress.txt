@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>dress </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of clothing </TT> </P>
+<P> <U> ADJ. </U><B> ankle-length, full-length, long | short | skimpy | clinging, figure-hugging, tight, tight-fitting | loose-fitting, shapeless | full-skirted | backless, high-necked, low-cut, off-the-shoulder, revealing, sleeveless, strapless | slinky | cotton, silk, etc. | day, evening, Sunday | ball, cocktail, dinner, maternity, party, wedding </B> </P>
+<P> <U> VERB + DRESS </U><B> zip (up) | unzip | hitch up, lift, pull up </B><I>She hitched up her long dress so it wouldn't drag in the mud. </I><B>| pull down | smooth </B><I>She sat down and smoothed her dress over her legs. </I> </P>
+<P> <U> DRESS + NOUN </U><B> material | shop | designer | size </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She appeared in a slinky satin dress. </I>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> clothes for either men or women </TT> </P>
+<P> <U> ADJ. </U><B> ceremonial, formal | casual, informal | correct | evening | modern | period | national, traditional </B><I>He was wearing traditional Scottish dress. </I><B>| fancy | battle, military | civilian </B> </P>
+<P> <U> DRESS + NOUN </U><B> code </B><I>The club has a strict dress code. </I><B>| sense </B><I>He's got poor dress sense. </I><B>| shirt | uniform </B><I>in full dress uniform </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>a performance of &lsquo;Hamlet&rsquo; in modern dress </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dress </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put on clothes </TT> </P>
+<P> <U> ADV. </U><B> hurriedly, quickly | slowly | carefully </B> </P>
+<P> <U> PREP. </U><B> in </B><I>He dressed carefully in the brown suit he had been married in. </I> </P>
+<P> <U> PHRASES </U><B> be fully dressed </B><I>She lay down on her bed, fully dressed. </I><B>| get dressed </B><I>She got dressed quickly. </I> </P>
+<P> <SUP> 2 </SUP> <TT> wear clothes </TT> </P>
+<P> <U> ADV. </U><B> beautifully, elegantly, fashionably, immaculately, impeccably, neatly, nicely, smartly, well </B><I>Susan always dresses very elegantly. She was determined to be the best dressed woman at the wedding. </I><B>| badly, poorly, shabbily | appropriately, suitably | unsuitably | decently, properly, respectably | improperly | plainly, simply, soberly | ostentatiously, nattily, richly | casually | formally | expensively | warmly | scantily | identically </B><I>The twins were dressed identically. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>I have to dress smartly for work. </I><B>| in </B><I>The women were all dressed in blue skirts and white blouses. </I> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>snowfall </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | light | annual | average </B><I>What's the average snowfall for this region? </I> </P>
+<P> <U> VERB + SNOWFALL </U><B> have </B><I>We had a light snowfall last night. </I> </P>
+</DIV>

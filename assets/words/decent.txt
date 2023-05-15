@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>decent </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> good/acceptable </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>The pub looked decent enough. </I> </P>
+<P> <U> ADV. </U><B> really, very | perfectly | half/halfway, pretty, quite </B><I>We had trouble finding a hotel that was halfway decent. </I><B>| enough </B> </P>
+<P> <U> PREP. </U><B> to </B><I>My uncle has been pretty decent to me. </I> </P>
+<P> <SUP> 2 </SUP> <TT> honest/respectable </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> very | perfectly, thoroughly </B> </P>
+<P> <U> PHRASES </U><B> do the decent thing </B><I>I think the minister should do the decent thing and resign. </I> </P>
+</DIV>

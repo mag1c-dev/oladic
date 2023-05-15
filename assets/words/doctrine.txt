@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>doctrine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> Catholic, Islamic, etc. | economic, legal, political, religious | revolutionary | classical, conventional, established, orthodox, traditional | high </B><I>He expounded traditional Calvinism with its high doctrine of church order </I>(= its doctrine that church order is very important)</B><I>. </I><B>| old | prevailing | central, essential | general | false, untenable | influential </B> </P>
+<P> <U> QUANT. </U><B> point </B><I>communities divided on points of doctrine </I><B>| body </B><I>an influential body of doctrine </I> </P>
+<P> <U> VERB + DOCTRINE </U><B> advocate, expound, preach, proclaim, teach | defend | develop, establish, formulate, produce | accept, adhere to, adopt, be committed to, believe (in), embrace, subscribe to, support, uphold </B><I>They were all committed to the doctrine of social equality. </I><B>| abandon, condemn, oppose, reject, undermine </B><I>She rejected the traditional Christian doctrines. </I><B>| apply, invoke | reconcile </B><I>Thompson reconciled the doctrine of heat with that of mechanics in 1851. </I> </P>
+<P> <U> DOCTRINE + VERB </U><B> advocate sth | allow sth </B><I>Their doctrine allows the use of violence. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The Church welcomed all who were considered sound in doctrine. </I> </P>
+</DIV>

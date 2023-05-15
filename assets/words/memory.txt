@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>memory </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> ability to remember </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good, long, prodigious, retentive | bad, poor, short | long-term, short-term </B><I>His short-term memory was damaged in the accident. </I><B>| visual </B><I>Bad spellers have a weak visual memory. </I><B>| photographic </B> </P>
+<P> <U> VERB + MEMORY </U><B> jog, refresh </B><I>Seeing your name in the paper jogged my memory. </I><B>| lose </B><I>Most people start to lose their memory as they get older. </I><B>| commit sth to </B><I>I committed the number to memory and threw the letter away. </I> </P>
+<P> <U> PREP. </U><B> from ~ </B><I>He recited the whole poem from memory. </I><B>| ~ for </B><I>I have a good memory for faces. </I> </P>
+<P> <U> PHRASES </U><B> in living/recent memory </B><I>the coldest winter in living memory </I> </P>
+<P> <SUP> 2 </SUP> <TT> thought of the past </TT> </P>
+<P> <U> ADJ. </U><B> childhood, early </B><I>My earliest childhood memory is of falling in a pond in winter. </I><B>| dim, distant, fading, hazy, vague | clear, vivid | affectionate, fond, good, happy, lovely, nostalgic, pleasant, positive, precious, sweet, warm, wonderful | bitter-sweet | bad, bitter, disturbing, embarrassing, horrific, painful, sad, traumatic, unhappy, unpleasant | abiding, enduring, lasting, lingering </B><I>My abiding memory of our first meeting is of a girl too shy to talk. </I> </P>
+<P> <U> VERB + MEMORY </U><B> bring back, evoke, rekindle, revive, stir (up) | blot out </B><I>He tried to blot out his memories of the ordeal. </I> </P>
+<P> <U> MEMORY + VERB </U><B> come flooding back, flood back </B><I>When we visited my old family home, memories came flooding back. </I><B>| fade </B> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>He planted some apple trees in memory of his wife. </I><B>| ~ from </B><I>Smells and tastes often evoke memories from the past. </I><B>| ~ of </B><I>fond memories of her childhood </I> </P>
+</DIV>

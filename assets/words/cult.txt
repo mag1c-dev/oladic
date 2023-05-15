@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>cult </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> worship of a person/thing </TT> </P>
+<P> <U> ADJ. </U><B> personality </B><I>the personality cult of the president </I> </P>
+<P> <U> CULT + NOUN </U><B> figure, hero </B><I>He became a cult figure during the 1960s. </I><B>| status </B><I>The book achieved cult status as soon as it was published. </I><B>| following </B><I>The show has built up a cult following. </I><B>| band, book, film </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the cult of youth </I> </P>
+<P> <SUP> 2 </SUP> <TT> religious group </TT> </P>
+<P> <U> ADJ. </U><B> religious </B><I>the members of a religious cult </I> </P>
+<P> <U> CULT + NOUN </U><B> leader, member | image, object, statue | practice</B> </P>
+</DIV>

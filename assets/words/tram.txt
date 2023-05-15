@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>tram </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> modern | electric, horse/horse-drawn, steam </B> </P>
+<P> <U> VERB + TRAM </U><B> catch, go on, take | miss | board, get on | get off </B> </P>
+<P> <U> TRAM + VERB </U><B> run </B><I>The last tram ran through Glasgow in September 1962. </I><B>| rattle | stop </B> </P>
+<P> <U> TRAM + NOUN </U><B> service, system | route | stop | ride | driver | car </B><I>a conducted tour in an old tram car </I><B>| shed | line, rail, track | ticket </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>There is easy access to the centre of the city by tram. </I><B>| on a/the ~ </B><I>They sat together on the rattling tram. </I><B>| ~ from, ~ to</B> </P>
+</DIV>

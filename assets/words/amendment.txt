@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>amendment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> important, major, significant </B><I>A major amendment was introduced into the legislation. </I><B>| minor, slight, small | draft, proposed | detailed | constitutional </B> </P>
+<P> <U> VERB + AMENDMENT </U><B> introduce, make | draft </B><I>The committee does not adequately consult others when drafting amendments. </I><B>| move, propose, put forward, suggest, table </B><I>He moved an amendment limiting capital punishment to certain very serious crimes. </I><B>| withdraw </B><I>She withdrew her amendment and left the meeting. </I><B>| accept, adopt, approve, carry, pass, ratify, support, vote for </B><I>Parliament accepted the amendment and the bill was passed. On a free vote, the amendment was carried by 292 votes to 246. </I><B>| oppose, reject | be subject to </B><I>The programme is subject to amendment. </I> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>The new clause was accepted without amendment. </I><B>| ~ to </B><I>an amendment to the Clean Water Act </I> </P>
+</DIV>

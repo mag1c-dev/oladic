@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>assume </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> automatically, naturally </B><I>I automatically assumed that you knew about this. </I><B>| reasonably, safely </B><I>I think we can safely assume that this situation will continue. </I> </P>
+<P> <U> VERB + ASSUME </U><B> can, might | tend to | be fair to, be reasonable to, be safe to </B><I>It is reasonable to assume that the economy will continue to improve. </I><B>| be a mistake to, be wrong to | be easy to </B><I>It's all too easy to assume that people know what they are doing. </I> </P>
+<P> <U> PHRASES </U><B> let us assume </B><I>Let us assume for a moment that the plan succeeds. </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>carriage </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> vehicle pulled by horses </TT> </P>
+<P> <U> ADJ. </U><B> horse-drawn, open </B> </P>
+<P> <U> VERB + CARRIAGE </U><B> ride in | drive | climb into, get into | alight from, get out of, step out of </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> part of a train </TT> </P>
+<P> <U> ADJ. </U><B> railway | full | empty | first-class, second-class | no-smoking/non-smoking, smoking </B> </P>
+<P> <U> VERB + CARRIAGE </U><B> get in/into | get out of | pull </B> </P>
+<P> <U> CARRIAGE + NOUN </U><B> door, window </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There's a seat in the next carriage. </I> </P>
+</DIV>

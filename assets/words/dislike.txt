@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>dislike </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling of not liking sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> acute, deep, great, hearty, intense, real, strong, violent </B><I>Several committee members expressed their intense dislike of the chairman. </I><B>| growing | particular | obvious, marked | instant | instinctive | open | active </B><I>She threw him a look of active dislike. </I><B>| cold </B><I>He glanced at her with cold dislike. </I><B>| pathological | personal | mutual </B><I>In spite of their mutual dislike and hostility, they quite often worked together. </I> </P>
+<P> <U> VERB + DISLIKE </U><B> feel, have </B><I>She felt dislike rather than sympathy as he told his story. My grandfather has a great dislike of long hair on boys. </I><B>| express, show | take </B><I>I took an instant dislike to my new colleague. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>Sonia stared at me with dislike and distrust. </I><B>| ~ for </B><I>She had a deep dislike for Robert's wife. </I> </P>
+<P> <U> PHRASES </U><B> a feeling/look of dislike </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth you do not like </TT> </P>
+<P> <U> PHRASES </U><B> your likes and dislikes </B><I>I've told you all my likes and dislikes. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dislike </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> cordially, greatly, heartily, intensely, positively, really, strongly </B><I>She disliked her boss intensely. </I><B>| particularly | simply </B><I>He simply disliked working with committees and avoided it whenever possible. </I><B>| instinctively | actively </B><I>There are very few foods that I actively dislike. </I><B>| clearly, obviously </B> </P>
+<P> <U> PHRASES </U><B> be universally/widely disliked </B><I>The new teacher was universally disliked. </I> </P>
+</DIV>

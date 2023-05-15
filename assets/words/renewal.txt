@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>renewal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> annual | cultural, economic, national, physical, religious, spiritual, urban </B><I>an urban renewal programme in the city centre </I> </P>
+<P> <U> VERB + RENEWAL </U><B> seek </B><I>He sought renewal of the grant. to seek spiritual renewal </I><B>| apply for | obtain </B><I>to obtain a renewal of the certificate </I><B>| bring (about) </B><I>They felt the need to bring about a renewal of society. </I><B>| be/fall due for, come up for </B><I>Her contract is coming up for renewal in the autumn. </I> </P>
+<P> <U> RENEWAL + NOUN </U><B> programme, project | date | notice </B><I>If you have any queries, please contact us on the number shown on your policy or last renewal notice. </I><B>| fee</B> </P>
+</DIV>

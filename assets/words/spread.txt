@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>spread </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, great, wide | rapid | gradual, slow | geographical, global </B><I>The current survey will have a wider geographical spread. </I> </P>
+<P> <U> VERB + SPREAD </U><B> encourage </B><I>Such unhygienic conditions encourage the spread of disease. </I><B>| halt, prevent, stop | control, limit, reduce </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the spread of fire </I> </P>
+</DIV><DIV class="item"><P class="word"><B>spread </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> open sth so that you can see all of it </TT> </P>
+<P> <U> ADV. </U><B> carefully | out </B><I>We spread the rug out on the floor. </I> </P>
+<P> <U> PREP. </U><B> across, on, over </B> </P>
+<P> <U> PHRASES </U><B> spread sth open </B><I>He had a newspaper spread open on his knee. </I> </P>
+<P> <SUP> 2 </SUP> <TT> reach more people/wider area </TT> </P>
+<P> <U> ADV. </U><B> fast, like wildfire, quickly, rapidly, soon </B><I>The news spread like wildfire. </I><B>| gradually, slowly | easily </B><I>The disease spreads easily. </I><B>| widely </B><I>Allow plenty of space for this plant as its roots spread widely. </I><B>| far and wide </B><I>His fame had spread far and wide. </I><B>| geographically </B><I>Friends may be spread geographically. Neighbours, by definition, are nearby. </I><B>| outwards </B> </P>
+<P> <U> PREP. </U><B> across, among, around/round, beyond, from, into, over, through, throughout, to </B><I>The effects of this policy spread far beyond children now at school. The fire rapidly spread to adjoining buildings. </I> </P>
+<P> <U> PHRASES </U><B> thinly spread </B><I>Expertise in this field is very thinly spread across the country. </I> </P>
+<P> <SUP> 3 </SUP> <TT> cover a surface with a soft substance </TT> </P>
+<P> <U> ADV. </U><B> generously, liberally, thickly | lightly, thinly | evenly </B><I>Don't make the paste too thick, or it will not spread evenly. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>He spread jam on the toast. </I><B>| with </B><I>Spread each slice generously with butter. </I> </P>
+<P> <SUP> 4 </SUP> <TT> divide/share sth </TT> </P>
+<P> <U> ADV. </U><B> equally, evenly, uniformly | unevenly </B> </P>
+<P> <U> VERB + SPREAD </U><B> try to </B> </P>
+<P> <U> PREP. </U><B> among, between </B><I>We tried to spread the workload evenly between the departments. </I><B>| over </B><I>The course takes forty hours, spread over twenty weeks. </I> </P>
+</DIV>

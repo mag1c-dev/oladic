@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>feud </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, long-running, long-standing, old | bitter | petty | blood </B><I>Blood feuds and general gangsterism added to the local crime rate. </I><B>| family, internecine, personal, private </B><I>a long-standing family feud </I> </P>
+<P> <U> VERB + FEUD </U><B> have | start </B><I>The incident started a family feud. </I><B>| settle </B><I>a time to settle old feuds </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the feuds between rival companies </I><B>| ~ over </B><I>They had a long-running feud over money. </I><B>| ~ with </B><I>his personal feud with the city authorities </I> </P>
+</DIV>

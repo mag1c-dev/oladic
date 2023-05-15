@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>sterile </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> completely clean </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain | make sth | keep sth </B><I>This top fits over the bottle and keeps the teat sterile. </I> </P>
+<P> <U> ADV. </U><B> completely | virtually </B> </P>
+<P> <SUP> 2 </SUP> <TT> not able to produce young animals/babies </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain | leave sb, make sb </B> </P>
+<P> <U> ADV. </U><B> permanently </B><I>Male workers were made permanently sterile by this pesticide. </I> </P>
+<P> <SUP> 3 </SUP> <TT> with no interest or life </TT> </P>
+<P> <U> VERBS </U><B> be | become, grow </B><I>Their relationship had grown sterile over the years. </I> </P>
+<P> <U> ADV. </U><B> very | increasingly </B><I>the increasingly sterile debate on constitutional reform </I><B>| largely | rather, somewhat</B> </P>
+</DIV>

@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>wish </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling that you want sth </TT> </P>
+<P> <U> ADJ. </U><B> dearest, deepest, fervent, greatest, strong | conscious,  unconscious | secret | dying, last </B><I>He was denied his dying wish to be reconciled with his son. </I><B>| death </B><I>Freud's theory of the death wish </I><B>| personal | parental </B><I>the child's detention against parental wishes </I> </P>
+<P> <U> VERB + WISH </U><B> have | express, make known </B><I>She has expressed a wish to visit the Houses of Parliament. </I><B>| fulfill </B><I>She fulfilled her deepest wish when she flew solo for the first time. </I><B>| get </B><I>She's always wanted to be an actress, and I'm sure she'll get her wish. </I><B>| grant sb | be responsive to, consider, honour, respect, take into account </B><I>It is vital for schools to respect the wishes of parents. </I><B>| carry out, comply with, implement, meet </B><I>We need to update our equipment if we are to meet customers' wishes. </I><B>| obey </B><I>She flew into a rage if the staff didn't obey her wishes. </I><B>| deny sb | disregard, flout, go against, ignore, override, ride roughshod over </B><I>The committee rode roughshod over the wishes of union members. </I> <B>| reflect </B><I>The change to the constitution reflects the wishes of the people who voted in the referendum. </I> </P>
+<P> <U> WISH + NOUN </U><B> fulfilment | list </B><I>Draw up a wish list, defining the requirements for your ideal home. </I> </P>
+<P> <U> PREP. </U><B> against sb's ~s </B><I>Her father will not speak to her, because she married against his wishes. </I><B>| in sb's ~ </B><I>In his wish to be as helpful as possible, he was forever asking her what she wanted. </I><B>| in accordance with sb's ~s </B><I>In accordance with his wishes, his ashes were scattered at sea. </I><B>| ~ for </B><I>a wish for peace </I> </P>
+<P> <SUP> 2 </SUP> <TT> saying secretly to yourself what you want to happen </TT> </P>
+<P> <U> VERB + WISH </U><B> have, make </B><I>When you see a black cat, you have to make a wish. </I><B>| be allowed, get </B><I>If you're the one who finds the hidden box, you get a wish. </I><B>| grant </B><I>The good fairy granted her three wishes. </I> </P>
+<P> <U> WISH + VERB </U><B> come true </B><I>Lo and behold, on Christmas Day their wishes came true. </I>  </B> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>wishes</B>) hope that sb will be happy </TT> </P>
+<P> <U> ADJ. </U><B> best, good </B><I>Give my best wishes to Alison. </I> </P>
+<P> <U> VERB + WISH </U><B> give sb, send (sb) </B> </P>
+<P> <U> PREP. </U><B> with ~ (at the end of a letter) </B><I>With best wishes for a happy birthday. </I><B>| ~ for </B><I>Every good wish for your future happiness together. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wish </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> dearly, desperately, devoutly, fervently, heartily, really, sincerely </B><I>I heartily wished that I had stayed at home. I really wish I could go to America. </I><B>| hard </B><I>If you wish really hard, maybe you'll get what you want. </I><B>| secretly | merely, only, simply </B><I>&lsquo;Where is he now?&rsquo; &lsquo;I only wish I knew.&rsquo; </I> </P>
+<P> <U> PREP. </U><B> for </B><I>It's no use wishing for the impossible. </I> </P>
+</DIV>

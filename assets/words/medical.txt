@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>medical </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full, regular </B><I>Pilots undergo regular medicals. </I> </P>
+<P> <U> VERB + MEDICAL </U><B> have, undergo | pass </B><I>He was accepted onto the course after passing the medical. </I> </P>
+</DIV>

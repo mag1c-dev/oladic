@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>top </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | come </B><I>She came top in the exams. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>She was top in maths. </I><B>| of </B><I>He was top of his class. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>top </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> highest part/surface of sth </TT> </P>
+<P> <U> ADJ. </U><B> extreme, very </B><I>We didn't climb to the very top of the mountain, but close enough. </I><B>| cliff (also clifftop), hill (also hilltop), mountain (also mountaintop), roof (also rooftop), table, tree (also treetop) </B> </P>
+<P> <U> PREP. </U><B> at the ~, on ~ </B><I>Each cake had a cherry on top. There was a vase on top of the bookcase. </I><B>| to the ~ </B> </P>
+<P> <U> PHRASES </U><B> from top to bottom </B><I>I'm going to clean the house from top to bottom this weekend. </I> </P>
+<P> <SUP> 2 </SUP> <TT> highest/most important rank/position </TT> </P>
+<P> <U> VERB + TOP </U><B> get to, make it to, reach, rise to </B><I>Few of the trainee footballers make it to the top. She rose to the top of her profession within ten years. </I> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>The company has an unusually high proportion of young people at the top. </I><B>| on ~, to the ~ </B> </P>
+<P> <U> PHRASES </U><B> top of the agenda </B><I>Pay was now (at the) top of the employees' agenda. </I><B>| top of the class </B><I>She was top of the class in maths. </I> </P>
+<P> <SUP> 3 </SUP> <TT> cover that you put on sth in order to close it </TT> </P>
+<P> <U> ADJ. </U><B> bottle </B> </P>
+<P> <U> VERB + TOP </U><B> lever off, prise off, remove, take off, unscrew | put on, screw on </B> </P>
+<P> <SUP> 4 </SUP> <TT> piece of clothing </TT> </P>
+<P> <U> ADJ. </U><B> hooded, long-sleeved, sleeveless | baggy, loose | bikini, pyjama, tracksuit </B>  </B> </P>
+</DIV>

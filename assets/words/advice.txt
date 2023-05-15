@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>advice </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> constructive, excellent, good, helpful, practical, sensible, sound, useful, valuable </B><I>That's very sound advice. </I><B>| bad, wrong </B><I>I think my solicitor gave me the wrong advice. </I><B>| clear | general | detailed | conflicting | confidential | impartial, independent | free | expert, professional, specialist | financial, legal, medical </B> </P>
+<P> <U> QUANT. </U><B> bit, piece, word </B><I>Can I give you a friendly word of advice? </I> </P>
+<P> <U> VERB + ADVICE </U><B> give (sb), offer (sb), pass on, provide (sb with) </B><I>I hope I can pass on some useful advice. </I><B>| get, obtain, receive, take </B><I>I think you need to take legal advice. </I><B>| ask (for), go to sb for, seek, turn to sb for </B><I>Go to your doctor and ask for advice. She asked her mother's advice. </I><B>| accept, act on, follow, heed, listen to, take </B><I>I wished that I had followed her advice. </I><B>| ignore, reject </B> </P>
+<P> <U> ADVICE + NOUN </U><B> centre </B><I>The Local Authority runs an advice centre in the town. </I> </P>
+<P> <U> PREP. </U><B> against sb's ~ </B><I>Permission was given against the advice of the planning officers. </I><B>| on sb's ~ </B><I>On the advice of his experts he bought another company. </I><B>| ~ about </B><I>advice about bringing up children </I><B>| ~ for </B><I>Here is some advice for pregnant women. </I><B>| ~ on </B><I>Can you give me some advice on where to buy good maps? </I><B>| ~ to </B><I>My advice to you would be to wait a few months. </I> </P>
+</DIV>

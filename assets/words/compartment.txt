@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>compartment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> section of a railway carriage </TT> </P>
+<P> <U> ADJ. </U><B> first-class, second-class | non-smoking, smoking | passenger, sleeping, luggage </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> section of a container, etc. </TT> </P>
+<P> <U> ADJ. </U><B> separate | secret | battery, freezer, glove, storage </B><I>Your sunglasses are in the glove compartment. </I> </P>
+<P> <U> VERB + COMPARTMENT </U><B> be divided into </B><I>The case is divided into four separate compartments. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~</B> </P>
+</DIV>

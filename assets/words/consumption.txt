@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>consumption </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy, high </B><I>the country with the highest fuel consumption in the world </I><B>| low | average | overall, total | excessive | conspicuous </B>(= buying expensive goods in order to impress people and show how rich you are) <B>| annual, daily </B><I>Annual consumption of wine has risen from five to eleven litres per head. </I><B>| per capita | domestic, local, home </B><I>It is important that the recovery be export-led rather than led by domestic consumption. Half the small crop was kept for home consumption. </I><B>| foreign, world | household | individual, personal | mass | public | private | future </B><I>households that save for future consumption </I><B>| alcohol, beer, cigarette, food, meat, tobacco, water | electricity, energy, fuel, gas, oil, petrol, power </B> </P>
+<P> <U> QUANT. </U><B> level </B> </P>
+<P> <U> VERB + CONSUMPTION </U><B> boost, encourage, increase, stimulate </B><I>Doctors say that children need to increase their consumption of fruit and vegetables. The industry faced a serious challenge in trying to stimulate consumption. </I><B>| cut down, reduce </B><I>You need to reduce your alcohol consumption. </I> </P>
+<P> <U> CONSUMPTION + VERB </U><B> go up, increase, rise | decline, decrease, fall, go down </B> </P>
+<P> <U> CONSUMPTION + NOUN </U><B> expenditure, spending | figures, levels | habits, patterns </B> </P>
+<P> <U> PREP. </U><B> for sb's ~ </B>(= intended to be read or heard by sb) <I>The documents were for the committee rather than for public consumption. </I> </P>
+<P> <U> PHRASES </U><B> fit/unfit for human consumption </B>(= safe/not safe to be eaten) <I>meat that is unfit for human consumption </I> </P>
+</DIV>

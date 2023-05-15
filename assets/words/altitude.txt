@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>altitude </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, high | low | cruising </B><I>The plane took off and climbed to cruising altitude. </I> </P>
+<P> <U> VERB + ALTITUDE </U><B> cruise at, fly at, maintain </B><I>The aircraft maintained an altitude of 28,000 feet. </I><B>| reach, rise to </B><I>The aviators reported the columns of smoke rising to an altitude of 2,000 feet. </I><B>| gain | lose </B><I>The plane suddenly started to lose altitude. </I> </P>
+<P> <U> ALTITUDE + NOUN </U><B> sickness </B> </P>
+<P> <U> PREP. </U><B> at an/the ~ </B><I>No trees will grow at that altitude. </I> </P>
+</DIV>

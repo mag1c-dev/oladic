@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>moral </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> practical lesson </TT> </P>
+<P> <U> ADJ. </U><B> clear </B> </P>
+<P> <U> VERB + MORAL </U><B> draw </B><I>There are clear morals to be drawn from the failure of these companies. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>There is a clear moral to all this. </I></P>
+<P> <SUP> 2 </SUP> <TT> morals: principles  </TT> </P>
+<P> <U> ADJ. </U><B> good, strict | doubtful, loose </B><I>Women who went to pubs alone would sometimes be assumed to have loose morals. </I><B>| sexual | public | Christian </B> </P>
+<P> <U> VERB + MORAL </U><B> have </B><I>He has absolutely no morals, that man! </I><B>| instil </B><I>She had tried her best to instil morals into her daughters. </I><B>| protect | corrupt </B> </P>
+<P> <U> PHRASES </U><B> a decline in morals</B> </P>
+</DIV>

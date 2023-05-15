@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>bar </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for drinks/food </TT> </P>
+<P> <U> ADJ. </U><B> licensed | crowded | lounge, public, saloon | gay, singles | cocktail, wine | breakfast, coffee, salad, sandwich, snack </B> </P>
+<P> <U> VERB + BAR </U><B> drop into, go to, stop at </B><I>He often drops into a bar on the way home from work. </I><B>| manage, run </B> </P>
+<P> <U> BAR + NOUN </U><B> food, menu, snacks | stool </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There were not many people in the bar. </I> </P>
+<P> <SUP> 2 </SUP> <TT> counter </TT> </P>
+<P> <U> VERB + BAR </U><B> be propping up </B><I>(humorous)</I>, <B>drink at, lean on, sit at, stand at </B><I>You can usually find him propping up the bar of the Red Lion. </I><B>| serve behind </B><I>I didn't recognize the man who was serving behind the bar. </I> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>They were chatting at the bar. </I><B>| behind the ~ </B><I>The barmaid stood behind the bar. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in music </TT> </P>
+<P> <U> VERB + BAR </U><B> hum, play, sing </B><I>She played a few bars on the piano. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the notes in the first bar </I> </P>
+<P> <U> PHRASES </U><B> two, four, etc. beats to the bar</B> </P>
+</DIV><DIV class="item"><P class="word"><B>bar </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> effectively </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The curfew has effectively barred migrant workers from their jobs. </I> </P>
+</DIV>

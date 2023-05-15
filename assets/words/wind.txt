@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>wind </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fierce, gale-force, high, stiff, strong, terrible </B><I>Rain and high winds are forecast. There was a stiff wind blowing. </I><B>| light, moderate, slight | blustery, gusty | warm | biting, bitter, brisk, chill, cold, icy </B><I>The icy wind cut right through us. </I><B>| howling | fair, favourable, good </B><I>They set sail the next morning with a fair wind. </I><B>| adverse </B><I>Adverse winds swept the boat off course. </I><B>| head, tail </B><I>A tail wind made the ride home very relaxing. </I><B>| east, north, etc. </B> </P>
+<P> <U> QUANT. </U><B> blast, gust | breath </B><I>There wasn't a breath of wind in the still air. </I> </P>
+<P> <U> WIND + VERB </U><B> blow, blow up, come, cut through sb/sth, sweep (through) sth </B><I>The wind came from the west. A fierce wind swept through the countryside. </I><B>| howl, moan, roar, whistle </B><I>The wind roared through the tunnel. </I><B>| buffet sth, rattle sth, whip sth (up) </B><I>The wind whipped up the surface of the lake. </I><B>| increase, pick up, rise | abate, die down, drop </B><I>Let's wait until the wind drops before setting sail. </I><B>| change </B><I>The wind suddenly changed and began blowing from the north. </I> </P>
+<P> <U> WIND + NOUN </U><B> conditions, direction, power, pressure, speed </B> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>We were rowing against the wind. </I><B>| in the ~ </B><I>a flag flapping in the wind </I><B>| into the ~ </B><I>We were sailing into the wind. </I><B>| out of ~ </B><I>Let's shelter out of the wind. </I> </P>
+<P> <U> PHRASES </U><B> the roar/sound of the wind</B> </P>
+</DIV><DIV class="item"><P class="word"><B>wind </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> tight/tightly | carefully, neatly </B> </P>
+<P> <U> PREP. </U><B> around/round </B><I>He wound the bandage tightly round his ankle. </I><B>| into </B><I>She wound the wool into a ball. </I> </P>
+</DIV>

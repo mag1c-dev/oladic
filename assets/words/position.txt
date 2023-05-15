@@ -1,0 +1,30 @@
+
+<DIV class="item"><P class="word"><B>position </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> place </TT> </P>
+<P> <U> ADJ. </U><B> correct, exact | central |  geographical | military, strategic | defensive </B> </P>
+<P> <U> VERB + POSITION </U><B> take (up) </B><I>The guards took up their positions on either side of the door. </I><B>| jostle for </B><I>Hordes of journalists jostled for position outside the conference hall.</I> <B>| play </B><I>(sport) What position does he play? </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Fix the pieces in position before gluing them together </I><B>| into ~ </B><I>Please get into position. </I><B>| out of  ~ </B><I>Nakata had to play out of position when the defender was injured. </I> </B> </P>
+<P> <SUP> 2 </SUP> <TT> way of sitting, standing, etc. </B> </TT> </P>
+<P> <U> ADJ. </U><B> comfortable, uncomfortable | crouched, kneeling, sitting | sleeping | horizontal, vertical | foetal  </B> </P>
+<P> <U> VERB + POSITION </U><B> change </B> </P>
+<P> <SUP> 3 </SUP> <TT> situation </B> </TT> </P>
+<P> <U> ADJ. </U><B> business, economic, financial, legal | dominant, impregnable, strong | favourable, good, ideal, perfect | envious, invidious | competitive | precarious, vulnerable, weak | awkward, difficult, embarrassing, impossible | current, present | bargaining, negotiating | trading </B><I>the trading position of the British economy </I> </P>
+<P> <U> VERB + POSITION </U><B> achieve, attain, reach </B><I>It has taken years to achieve the position we are now in. </I> <B>| put sb in </B><I>It put me in an awkward position when he asked me to keep a secret. </I><B>| strengthen </B><I>Their obvious desperation strengthens our bargaining position. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>We may be in a position to help you. I was in the embarrassing position of having completely forgotten her name. </I><B>| ~ of </B> </P>
+<P> <SUP> 4 </SUP> <TT> opinion </TT> </P>
+<P> <U> ADJ. </U><B> extreme | ideological, philosophical, political, theoretical | official </B><I>The country's official position is that there is no famine in the area. </I> </P>
+<P> <U> VERB + POSITION </U><B> adopt, take | defend </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He took an extreme position on religious matters. </I> </P>
+<P> <SUP> 5 </SUP> <TT> rank </TT> </P>
+<P> <U> ADJ. </U><B> first, second, etc. | dominant, high, important, influential, pre-eminent | inferior, lowly </B><I>They occupy a lowly position in society. </I><B>| privileged, secure | social </B> </P>
+<P> <U> VERB + POSITION </U><B> establish, gain, secure | hold, occupy </B> </P>
+<P> <U> PREP. </U><B> ~ among/amongst </B><I>This latest novel confirms herpre-eminent position amongst today's writers. </I><B>| ~ in </B><I>The firm gained a dominant position in the market. </I> </P>
+<P> <U> PHRASES </U><B> a position of authority/influence/power </B> </P>
+<P> <SUP> 6 </SUP> <TT> job </TT> </P>
+<P> <U> ADJ. </U><B> full-time, part-time | key, responsible, senior | junior, menial | official | skilled | administrative, management, managerial </B> </P>
+<P> <U> VERB + POSITION </U><B> have, hold, occupy | apply for | obtain | fill | offer sb | resign </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>How long were you in your previous position? </I><B>| ~ in/within </B><I>his new position in the firm </I><B>| ~ of </B><I>She was offered the position of sales manager. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>position </B><I>verb </I><B>(</B>often <B>be positioned) </B> </P>
+<P> <U> ADV. </U><B> firmly </B><I>The radiologist firmly positioned Phoebe in front of a ferocious-looking machine. </I><B>| centrally </B><I>The markers were not positioned centrally. </I><B>| carefully | correctly | wrongly | favourably, well | ideally, perfectly, uniquely </B><I>The company is uniquely positioned to compete in foreign markets. </I><B>| strategically </B> </P>
+<P> <U> PREP. </U><B> at, behind, between, in, in front of, near, on, etc. </B><I>Police marksmen were positioned on the roof. </I> </P>
+</DIV>

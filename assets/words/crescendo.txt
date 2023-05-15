@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>crescendo </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deafening </B> </P>
+<P> <U> VERB + CRESCENDO </U><B> reach, rise to </B><I>The music reached a deafening crescendo. </I> </P>
+</DIV>

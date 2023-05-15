@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>vitamin </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> take </B><I>The doctor told me to take vitamins regularly. </I> </P>
+<P> <U> VERB + VITAMIN </U><B> contain </B><I>Most foods contain vitamin E. </I><B>| be rich in </B><I>Fish is rich in vitamins and minerals. </I><B>| enrich sth with, fortify sth with </B><I>breakfast cereals enriched with vitamins </I> </P>
+<P> <U> VITAMIN + NOUN </U><B> drops, injections, pills, supplements, tablets | requirements | deficiency </B><I>Vitamin C deficiency can ultimately lead to scurvy. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>sickness </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> state of being ill </TT> </P>
+<P> <U> ADJ. </U><B> chronic, long, long-term </B> </P>
+<P> <U> SICKNESS + NOUN </U><B> absence | allowance, benefit | insurance | rate </B> </P>
+<P> <U> PREP. </U><B> due to/owing to/through ~ </B><I>The Personnel Department keeps a record of employees absent through sickness. </I> </P>
+<P> <SUP> 2 </SUP> <TT> nausea </TT> </P>
+<P> <U> VERB + SICKNESS </U><B> suffer (from) </B> </P>
+<P> <U> SICKNESS + VERB </U><B> rise </B><I>The sickness rose inside him. </I> </P>
+<P> <U> PHRASES </U><B> a feeling of sickness </B><I>Several workers complained of feelings of sickness and headaches. </I> </P>
+<P> <SUP> 3 </SUP> <TT> particular type of illness </TT> </P>
+<P> <U> ADJ. </U><B> acute, chronic | air, car, motion, travel | altitude/mountain, decompression, radiation, sleeping </B>&gt; Special page at ILLNESS </B> </P>
+</DIV>

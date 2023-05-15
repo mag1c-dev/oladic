@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>tremor </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small earthquake </TT> </P>
+<P> <U> ADJ. </U><B> minor, slight | severe | earth </B> </P>
+<P> <SUP> 2 </SUP> <TT> shaking movement </TT> </P>
+<P> <U> ADJ. </U><B> faint, slight, small, tiny </B><I>He felt a tiny tremor of excitement as he glimpsed the city lights. </I><B>| violent | uncontrollable | nervous | icy </B> </P>
+<P> <U> VERB + TREMOR </U><B> send </B><I>Her expression sent an icy tremor through him. </I><B>| feel </B><I>She felt a tremor run down her back when she saw him. </I><B>| control </B><I>He couldn't control the tremor in his voice. </I> </P>
+<P> <U> TREMOR + VERB </U><B> run </B><I>A tremor ran through the audience. </I><B>| shake sb/sth </B><I>An uncontrollable tremor shook his mouth. </I> </P>
+<P> <U> PREP. </U><B> with/without a ~ </B><I>He managed to make his short speech without a tremor. </I><B>| ~ of </B><I>a tremor of fear </I> </P>
+</DIV>

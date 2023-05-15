@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>will </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> power to choose; desire </TT> </P>
+<P> <U> ADJ. </U><B> indomitable, iron, strong </B><I>her indomitable will to win His unassuming matter concealed an iron will. </I><B>| weak | free | conscious | collective, general, majority, national, popular, public </B><I>Is that the general will, that we keep the present voting arrangements? </I><B>| individual | human | divine, God's | royal | political </B><I>The government lacked the political will to reform the tax system. </I>(see also <B>goodwill) </B> </P>
+<P> <U> VERB + WILL </U><B> have </B><I>She's got a very strong will. </I><B>| lack | exercise, exert | lose </B><I>She's lost the will to try and change things. </I><B>| break, drain, sap </B><I>Constant rejection has sapped her will. </I><B>| regain | impose </B><I>She usually manages to impose her will on the rest of the group. </I><B>| bend to, obey </B><I>They were taught to obey their father's will without question. </I><B>| go against </B><I>My father didn't want me to leave home, and I didn't like to go against his will. </I> </P>
+<P> <U> PREP. </U><B> against your ~ </B><I>Much against my will, I let him go. </I><B>| at ~ </B><I>She believes employers should have the right to hire and fire at will. </I> </P>
+<P> <U> PHRASES </U><B> an act of will </B><I>It requires an act of will to make myself go running in the morning. </I><B>| a battle/clash of wills </B><I>The meeting turned out to be a clash of wills. </I><B>| an effort of will </B><I>With a great effort of will he resisted her pleas. </I><B>| of your own free will </B><I>She left of her own free will. </I><B>| the will of God, the will to live </B><I>She gradually regained the will to live. </I> </P>
+<P> <SUP> 2 </SUP> <TT> legal document </TT> </P>
+<P> <U> ADJ. </U><B> valid </B><I>Two people must witness your signature or your will will not be valid. </I><B>| living </B>(= a record of your wishes regarding medical treatment at the end of your life)  </P>
+<P> <U> VERB + WILL </U><B> draw up, make </B><I>His solicitor drew up the will. Have you made your will? </I><B>| sign | leave </B><I>She left no will and was unmarried. </I><B>| read | alter, change | revoke </B><I>Remarriage would revoke all previous wills. </I><B>| forge | remember sb in </B><I>She was moved when her neighbour remembered her in his will. </I><B>| administer, execute | challenge, contest </B><I>The family decided to contest the will in court. </I><B>| break, overturn, set aside </B><I>They succeeded in getting the will overturned. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Some things cannot be given away by will. </I><B>| in a/the ~ </B><I>She left me some money in her will. </I><B>| under a/the ~ </B><I>Under her father's will, she gets </I>&pound;</B><I>5,000 a year. </I> </P>
+<P> <U> PHRASES </U><B> sb's last will and testament</B> </P>
+</DIV><DIV class="item"><P class="word"><B>will power </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sheer | strong </B> </P>
+<P> <U> VERB + WILL POWER </U><B> have </B><I>I'm no good at slimming. The trouble is, I've got no will power. </I><B>| take </B><I>It took all his will power to stay in and study. </I><B>| summon </B><I>He tried to summon the will power to get out of bed. </I><B>| need </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>She managed to finish the race by sheer will power. </I> </P>
+</DIV>

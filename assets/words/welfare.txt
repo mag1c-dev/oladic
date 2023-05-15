@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>welfare </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> good health and happiness </TT> </P>
+<P> <U> ADJ. </U><B> animal, child, community, employee, family, personal, student </B><I>people concerned about child welfare </I> </P>
+<P> <U> VERB + WELFARE </U><B> improve, promote </B><I>The government's policies will promote the welfare of all citizens. </I> </P>
+<P> <SUP> 2 </SUP> <TT> money, etc. from the government </TT> </P>
+<P> <U> ADJ. </U><B> state </B> </P>
+<P> <U> WELFARE + NOUN </U><B> state </B><I>the provision of services such as health through the welfare state </I><B>| agency, authorities, department, programme, provision, services, system | officer, worker | clinic, facilities | benefits, payments </B><I>lone parents living on welfare benefits </I><B>| budget, costs, spending | cuts | fraud, scrounger </B><I>The new government promised to clamp down on welfare scroungers. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>the number of families on welfare </I> </P>
+</DIV>

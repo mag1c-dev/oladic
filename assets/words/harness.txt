@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>harness </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for a horse </TT> </P>
+<P> <U> ADJ. </U><B> leather </B> </P>
+<P> <U> VERB + HARNESS </U><B> put on | remove, take off </B> </P>
+<P> <U> PREP. </U><B> in (a) ~ </B><I>a horse in harness </I> </P>
+<P> <SUP> 2 </SUP> <TT> for a person </TT> </P>
+<P> <U> ADJ. </U><B> child | safety | climbing, parachute </B> </P>
+<P> <U> VERB + HARNESS </U><B> have on, wear | do up, fasten </B><I>She fastened the safety harness tightly round her waist before starting the descent. </I><B>| undo, unfasten </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Another man in a harness was being lowered from the helicopter. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>harness </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> effectively, successfully | fully </B> </P>
+<P> <U> VERB + HARNESS </U><B> attempt to, seek to, try to </B><I>attempting to harness the power of the sun </I><B>| manage to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>How can this energy be harnessed effectively for the good of humankind? </I> </P>
+</DIV>

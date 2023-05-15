@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>hire </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bicycle, car, equipment, etc. </B> </P>
+<P> <U> HIRE + NOUN </U><B> car </B><I>Our hire car broke down after only an hour. </I><B>| charge, cost | company, firm, shop </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>There are boats for hire on the lake. </I><B>| on ~ (from/to) </B><I>The equipment is on hire from a local company. </I><B>| ~ of </B><I>The main expense was the hire of a car. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>hire </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> promptly </B><I>The entire workforce was laid off and a fresh one promptly hired. </I><B>| by the day, week, etc. </B><I>What's the cost of hiring by the day? </I><B>| locally </B><I>Ski equipment can be hired locally. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>Bicycles can be hired from several local shops. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>park </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> local | city | public | country | national </B><I>The mountain has been designated as a national park. </I><B>| safari, wildlife | amusement, leisure, theme </B> </P>
+<P> <U> VERB + PARK </U><B> go to </B><I>They go to the park most Sunday afternoons. </I><B>| landscape, lay out </B><I>a beautifully landscaped park </I> </P>
+<P> <U> PARK + NOUN </U><B> bench | ranger </B><I>The lion was shot dead by a park ranger. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We met at Hyde Park. </I><B>| in a/the ~ </B><I>They went for a walk in the park. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>park </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, neatly, well | badly | illegally | discreetly </B><I>The police car was discreetly parked in the furthest corner of the courtyard. </I> </P>
+</DIV>

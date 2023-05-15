@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>transmission </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sending out/passing on </TT> </P>
+<P> <U> ADJ. </U><B> direct, indirect | one-way </B><I>Classes are based on discussion rather than on the one-way transmission of knowledge. </I><B>| onward, outward </B><I>An extra copy of each document was supplied for onward transmission to head office. </I><B>| data, information, voice | facsimile/fax | light, power | money | gas | cable, radio, satellite, television | analogue, digital | live, simultaneous </B><I>There will be simultaneous transmission of the concert on TV and radio. </I><B>| genetic, oral, person-to-person, sexual | herpes, HIV, malaria | cultural </B> </P>
+<P> <U> VERB + TRANSMISSION </U><B> prevent </B> </P>
+<P> <U> TRANSMISSION + NOUN </U><B> equipment, line, technology | mechanism, network, system | route </B><I>The virus's usual transmission route is by sneezing. </I> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>HIV transmission among homosexual men </I><B>| ~ between </B><I>transmission between patients </I><B>| ~ by </B><I>transmission by satellite </I><B>| ~ from, ~ to </B><I>transmission from one aircraft to another </I><B>| ~ through </B><I>HIV transmission through blood transfusion </I> </P>
+<P> <U> PHRASES </U><B> a mode of transmission, a risk of transmission </B><I>There is a risk of transmission of the virus between hypodermic users. </I> </P>
+<P> <SUP> 2 </SUP> <TT> TV/radio programme </TT> </P>
+<P> <U> ADJ. </U><B> radio, television/TV | FM, long-wave, medium-wave, short-wave, UHF, VHF | live, satellite, stereo | test </B> </P>
+<P> <U> VERB + TRANSMISSION </U><B> receive </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a live transmission from Sydney </I> </P>
+<P> <SUP> 3 </SUP> <TT> in a car, etc. </TT> </P>
+<P> <U> ADJ. </U><B> automatic, manual | 4-speed, 5-speed </B> </P>
+<P> <U> TRANSMISSION + NOUN </U><B> system</B> </P>
+</DIV>

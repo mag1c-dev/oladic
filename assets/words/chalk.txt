@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>chalk </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> white rock </TT> </P>
+<P> <U> VERB + CHALK </U><B> quarry </B> </P>
+<P> <U> CHALK + NOUN </U><B> cliff, downs, hill | pit, quarry </B> </P>
+<P> <SUP> 2 </SUP> <TT> small stick of chalk </TT> </P>
+<P> <U> ADJ. </U><B> coloured </B><I>a box of coloured chalks </I> </P>
+<P> <U> QUANT. </U><B> piece, stick </B> </P>
+<P> <U> CHALK + NOUN </U><B> drawing | dust </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She had scrawled a note in chalk across the blackboard. </I><B>| with ~ </B><I>to write with chalk </I> </P>
+</DIV>

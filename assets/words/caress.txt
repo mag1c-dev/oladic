@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>caress </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gentle, light </B><I>the gentle caress of his fingers </I><B>| warm</B> </P>
+</DIV><DIV class="item"><P class="word"><B>caress </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, lightly </B><I>His fingers gently caressed her cheek. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>deep </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> a long way from top to bottom/front to back </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>The water looks quite deep there. </I> </P>
+<P> <U> ADV. </U><B> really, very | fairly, pretty, quite </B> </P>
+<P> <U> PHRASES </U><B> ankle/knee/waist deep </B><I>She stood knee deep in the water. </I> </P>
+<P> <SUP> 2 </SUP> <TT> low in tone </TT> </P>
+<P> <U> VERBS </U><B> be, sound </B><I>Her voice sounded very deep on the telephone. </I><B>| become </B> </P>
+<P> <U> ADV. </U><B> very | fairly, quite </B> </P>
+<P> <SUP> 3 </SUP> <TT> strongly felt </TT> </P>
+<P> <U> VERBS </U><B> be, go, run </B><I>This suspicion runs very deep among some government members. </I><B>| become </B> </P>
+<P> <U> ADV. </U><B> very </B><I>a very deep feeling of love </I><B>| fairly, quite</B> </P>
+</DIV>

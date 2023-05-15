@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>eloquent </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become, grow, wax </B><I>He waxed eloquent about her talents as an actress. </I> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>a very eloquent speaker </I><B>| quite </B> </P>
+<P> <U> PREP. </U><B> about, on </B><I>He grew quite eloquent on the subject. </I> </P>
+</DIV>

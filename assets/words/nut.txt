@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>nut </B><I>noun</I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> food </TT> </P>
+<P> <U> ADJ. </U><B> cashew, pistachio, etc. | chopped, salted </B> </P>
+<P> <U> VERB + NUT </U><B> crack, shell </B> </P>
+<P> <U> NUT + NOUN </U><B> oil </B> </P>
+<P> <SUP> 2 </SUP> <TT> for screwing onto a bolt </TT> </P>
+<P> <U> VERB + NUT </U><B> put on, screw on, tighten | loosen, remove, unscrew</B> </P>
+</DIV>

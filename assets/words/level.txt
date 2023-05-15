@@ -1,0 +1,35 @@
+
+<DIV class="item"><P class="word"><B>level </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> with no part higher than any other </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | get sth, keep sth </B><I>Make sure you get the shelf level before screwing it in. Keep the pot level, or you'll spill the coffee. </I> </P>
+<P> <U> ADV. </U><B> absolutely, completely </B><I>The floor has got to be absolutely level. </I><B>| approximately, more or less </B> </P>
+<P> <SUP> 2 </SUP> <TT> at the same height/position as sth </TT> </P>
+<P> <U> VERBS </U><B> be | come, draw </B><I>As they reached the final bend, Graham drew level and threatened too overtake him. </I> </P>
+<P> <U> ADV. </U><B> almost </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The top of the water came level with her chin. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>level </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount/size/number </TT> </P>
+<P> <U> ADJ. </U><B> high, record, significant, substantial </B><I>Industrial output has reached record levels. </I><B>| increasing, rising | excessive </B><I>Excessive levels of lead were found in the water. </I><B>| low | decreasing, falling | varying </B><I>keen amateurs who work hard, with varying levels of success </I><B>| generous </B><I>a generous level of financial support for the arts </I><B>| permitted, recommended, required </B><I>permitted levels of chemical pollutants </I><B>| acceptable, adequate, necessary, normal, realistic, reasonable, safe </B><I>an acceptable level of risk Her blood pressure has returned to its normal level. </I><B>| dangerous, unacceptable | worst </B><I>the worst level of business failure since 1997 </I><B>| noise, pollution, radiation | crime | blood-sugar, cholesterol, hormone, etc. | stress </B> </P>
+<P> <U> VERB + LEVEL </U><B> achieve, reach </B><I>They have achieved higher levels of efficiency. Crime has reached its highest level ever. </I><B>| remain at </B><I>She predicts that fuel prices will remain at current levels. </I><B>| improve, increase, raise | maintain | bring down, control, decrease, keep down, lower, reduce | change | set </B><I>Emissions are well below the levels set by the World Health Authority. </I><B>| exceed </B><I>There will be stiff penalties if companies exceed these levels of pollution. </I> </P>
+<P> <U> LEVEL + VERB </U><B> go up, rise, soar | fall, go down, plummet | change, vary </B> </P>
+<P> <U> PREP. </U><B> above a/the ~ </B><I>Mortgage rates were 10% above their current level. </I><B>| at a/the ~ </B><I>Rents will be kept at this level for another year. </I><B>| below a/the ~ </B><I>Radiation is well below the permitted level. </I> </P>
+<P> <SUP> 2 </SUP> <TT> stage of progress/standard </TT> </P>
+<P> <U> ADJ. </U><B> basic, elementary, low </B><I>The teaching is at quite a basic level. </I><B>| entry </B><I>They have a good range of entry-level computers for beginners. </I><B>| intermediate | advanced, high </B><I>Her illness has reached an advanced level. </I><B>| degree | difficulty </B><I>The difficulty level of the exercises in the book varies widely. </I><B>| fitness </B><I>a sport suitable for people of all fitness levels </I> </P>
+<P> <U> VERB + LEVEL </U><B> attain, reach </B><I>students who have reached the intermediate level </I><B>| complete, do, take </B><I>You need to do all three levels to qualify as a canteen supervisor. </I> </P>
+<P> <U> PREP. </U><B> above a/the ~ </B><I>His English is way above the level of the other students. </I><B>| at a/the ~ </B><I>students at intermediate level She has played tennis at a high level. </I><B>| below a/the ~ </B><I>The book is not suitable for students below degree level. </I> </P>
+<P> <SUP> 3 </SUP> <TT> grade in an organization or structure </TT> </P>
+<P> <U> ADJ. </U><B> high, upper </B><I>the upper levels of the civil service </I><B>| low | senior | global, international, local, national, regional | grass-roots </B><I>The party needs to win support at grass-roots level. </I><B>| ministerial | board </B><I>These decisions are made at board level. </I> </P>
+<P> <U> VERB + LEVEL </U><B> reach, rise to </B><I>He rose to the level of general manager. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>At the local level there's a lot to be said for the plan. </I><B>| on a/the ~ </B><I>The thing has got to be organized on an international level. </I> </P>
+<P> <SUP> 4 </SUP> <TT> way of considering sth </TT> </P>
+<P> <U> ADJ. </U><B> conscious, unconscious </B><I>At a conscious level, I was quite satisfied with my life. </I><B>| deep | superficial | detailed </B><I>We probably need to look at this problem at a more detailed level. </I><B>| general | practical | theoretical | political </B> </P>
+<P> <U> PREP. </U><B> at a/the ~, on a/the ~ </B><I>On a superficial level everything appears to be in order, but at a deeper level you an see that there's a lot wrong. </I> </P>
+<P> <SUP> 5 </SUP> <TT> height </TT> </P>
+<P> <U> ADJ. </U><B> high, low | ground, sea, water </B><I>the problem of rising sea levels </I><B>| eye </B><I>a shelf at eye level </I> </P>
+<P> <U> VERB + LEVEL </U><B> adjust, change, lower, raise </B><I>They are going to raise the level of the banks to prevent flooding. </I> </P>
+<P> <U> PREP. </U><B> above a/the ~ </B><I>200m above sea level </I><B>| at a/the ~ </B><I>The plane was flying at a very low level. </I><B>| below a/the ~ </B><I>below the level of the cloud </I><B>| on a ~ with </B><I>On the second floor you are on a level with the treetops. </I><B>| to a/the ~ </B><I>The water rose to the level of the ground floor windows. </I> </P>
+<P> <U> PHRASES </U><B> a change in/of level </B> </P>
+<P> <SUP> 6 </SUP> <TT> floor in a building </TT> </P>
+<P> <U> ADJ. </U><B> ground, lower | higher, top, upper </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Are we on the right level for the restaurant? </I><B>| to a/the ~ </B><I>Take the lift to Level Four. </I> </P>
+</DIV>

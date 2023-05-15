@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>relevant </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, seem | become | consider sth, deem sth, regard sth as, see sth as </B> </P>
+<P> <U> ADV. </U><B> especially, extremely, highly, particularly, specially, very | barely, hardly, not really, scarcely </B><I>Past imperial glories are hardly relevant to the present day. </I><B>| (only) marginally, partially | not necessarily, not strictly </B><I>Resist the temptation to discuss topics that are not strictly relevant to the essay question. </I><B>| directly | only indirectly | immediately | no longer | potentially | apparently | clearly, obviously | universally | morally, politically, socially </B><I>Is there a morally relevant difference between human life and animal life? </I><B>| vocationally </B><I>vocationally relevant qualifications </I> </P>
+<P> <U> PREP. </U><B> to </B><I>information relevant to this case </I> </P>
+</DIV>

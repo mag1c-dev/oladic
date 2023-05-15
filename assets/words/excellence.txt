@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>excellence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> all-round | academic, artistic, culinary, educational, manufacturing, scientific, sporting, technical </B> </P>
+<P> <U> VERB + EXCELLENCE </U><B> pursue, strive for </B><I>The school strives for academic excellence. </I><B>| achieve </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>The Business School has a reputation for excellence in research. </I> </P>
+<P> <U> PHRASES </U><B> a centre of excellence </B><I>The college aims to be a world centre of excellence in the field of marine biology. </I><B>| levels/standards of excellence </B><I>The restaurant's standards of excellence have won it several awards. </I><B>| the pursuit of excellence </B><I>her relentless pursuit of sporting excellence </I> </P>
+</DIV>

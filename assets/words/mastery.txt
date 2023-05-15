@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>mastery </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute, complete, total | gradual </B><I>Children show gradual mastery of reading in the first years at school. </I><B>| practical, technical </B><I>He plays the violin with technical mastery, but no feeling. </I> </P>
+<P> <U> VERB + MASTERY </U><B> have </B><I>The allied bombers had total mastery of the skies. </I><B>| demonstrate, display, show </B><I>He shows complete mastery of the instrument. </I><B>| achieve, acquire, attain, gain </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He acquired mastery of four languages. </I><B>| ~ over </B><I>The king had absolute mastery over the country. </I> </P>
+</DIV>

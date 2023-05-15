@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>evade </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> escape </TT> </P>
+<P> <U> ADV. </U><B> narrowly </B><I>They narrowly evaded a police car which was approaching. </I><B>| successfully </B> </P>
+<P> <U> VERB + EVADE </U><B> attempt to, try to | manage to </B><I>He managed to evade capture and escaped over the border. </I> </P>
+<P> <SUP> 2 </SUP> <TT> avoid dealing with sth </TT> </P>
+<P> <U> ADV. </U><B> simply </B><I>Her response was simply to evade the problem altogether. </I><B>| carefully, skilfully | easily </B><I>Responsibility could not be so easily evaded. </I><B>| altogether </B> </P>
+<P> <U> VERB + EVADE </U><B> attempt to, try to</B> </P>
+</DIV>

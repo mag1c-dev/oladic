@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>articulate </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> highly, very </B><I>a highly articulate woman </I> </P>
+<P> <U> PREP. </U><B> about </B><I>The teachers help the children to be more articulate about their strengths and weaknesses. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>articulate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> pronounce sth carefully </TT> </P>
+<P> <U> ADV. </U><B> carefully, clearly, well </B><I>She spoke slowly, articulating each word clearly. </I><B>| poorly </B> </P>
+<P> <SUP> 2 </SUP> <TT> express sth </TT> </P>
+<P> <U> ADV. </U><B> clearly, well </B><I>She cannot articulate her feelings very well. </I><B>| fully | poorly</B> </P>
+</DIV>

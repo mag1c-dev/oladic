@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>sanction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> official permission </TT> </P>
+<P> <U> ADJ. </U><B> official | divine, religious </B> </P>
+<P> <U> VERB + SANCTION </U><B> give sb/sth </B><I>The conference gave its official sanction to the change of policy. </I> </P>
+<P> <U> PREP. </U><B> with/without sb/sth's ~ </B><I>No decision can be taken without the sanction of the complete committee. </I> </P>
+<P> <SUP> 2 </SUP> <TT> punishment </TT> </P>
+<P> <U> ADJ. </U><B> heavy, severe, strict | final, ultimate | effective | limited | available </B><I>The school will use all available sanctions to maintain discipline. </I><B>| civil, criminal, disciplinary | legal, penal, social </B> </P>
+<P> <U> VERB + SANCTION </U><B> impose | use </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>There were strict sanctions against absenteeism. </I><B>| ~ for </B><I>Employers imposed heavy sanctions for union activity. </I> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>sanctions</B>) against a country </TT> </P>
+<P> <U> ADJ. </U><B> punitive | international, UN | economic, financial, military, trade </B> </P>
+<P> <U> VERB + SANCTION </U><B> impose | lift | break </B><I>Some companies have broken sanctions by supplying arms to the warring states. </I><B>| call for </B> </P>
+<P> <U> SANCTION + NOUN </U><B> order </B><I>The company is in breach of a sanctions order. </I><B>| busting </B><I>Several firms were under investigation for sanctions busting. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The UN called for sanctions against the invading country. </I> </P>
+<P> <U> PHRASES </U><B> the imposition of sanctions, the lifting of sanctions, a threat of sanctions</B> </P>
+</DIV><DIV class="item"><P class="word"><B>sanction </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> officially | legally, socially </B><I>Slavery was once socially sanctioned. </I><B>| tacitly </B><I>He had tacitly sanctioned repression against the opposition parties. </I> </P>
+<P> <U> VERB + SANCTION </U><B> refuse to</B> </P>
+</DIV>

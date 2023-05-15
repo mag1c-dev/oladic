@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>contrast </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear, marked, sharp, stark, startling, striking, strong </B><I>There is a stark contrast between the lives of the rich and those of the poor. </I><B>| complete, direct </B> </P>
+<P> <U> VERB + CONTRAST </U><B> make, offer, provide </B><I>The fresh fruit provides a contrast to the rich chocolate pudding. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>When you look at their new system, ours seems very old-fashioned by contrast. </I><B>| in ~ (to/with) </B><I>The company lost $13 million this year, in contrast with a profit of $15 million last year. </I><B>| ~ between, ~ in </B><I>The contrast in appearance between the sisters was striking. </I><B>| ~ to </B><I>This busy social life was a complete contrast to his old quiet life. </I> </P>
+<P> <U> PHRASES </U><B> stand in &hellip; contrast to sb/sth </B><I>Their attitudes towards love and marriage stand in stark contrast to those of their parents. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>contrast </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> compare things in order to show differences </TT> </P>
+<P> <U> ADV. </U><B> favourably, unfavourably </B><I>He contrasted her brashness unfavourably with his mother's gentleness. </I> </P>
+<P> <U> PREP. </U><B> with </B> </P>
+<P> <U> PHRASES </U><B> compare and contrast </B><I>Compare and contrast the two main characters in the play. </I> </P>
+<P> <SUP> 2 </SUP> <TT> be clearly different </TT> </P>
+<P> <U> ADV. </U><B> markedly, sharply, starkly, strikingly, strongly, vividly | nicely | oddly | favourably, unfavourably </B><I>The open approach contrasts favourably with the exclusivity of some universities. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>This statement contrasts starkly with his previous statements. </I> </P>
+</DIV>

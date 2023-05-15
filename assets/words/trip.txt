@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>trip </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> extended, long | brief, little, quick, short | day, overnight, weekend </B><I>We went on a day trip to the seaside. </I><B>| frequent, occasional, rare, regular </B><I>He makes frequent trips to Poland. </I><B>| annual, weekly, etc. | forthcoming | fantastic, good, great, nice, pleasant, successful | memorable | abortive, fruitless | successful | return, round </B><I>From London to Oxford and back is a round trip of over a hundred miles. </I><B>| foreign, overseas | round-the-world, world | European, Japan, etc. | boat, coach, cycle, etc. | business, fishing, pleasure, shopping, sightseeing | school </B><I>a school trip to the Science Museum </I><B>| field </B><I>a geography field trip to study a limestone landscape </I><B>| study </B> </P>
+<P> <U> VERB + TRIP </U><B> be (away) on, go on, make, take </B><I>She's away on a business trip. From here visitors can take a boat trip along the coast to Lundy Island. </I><B>| have </B><I>Did you have a good trip? </I><B>| come back from, return from | be back from </B><I>He's just back from a trip to New York. </I><B>| arrange, organize, plan | book | cancel | extend | cut short </B><I>I had to cut short my trip when my wallet was stolen. </I><B>| enjoy </B><I>Enjoy your trip! </I> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>a five-minute trip by taxi </I><B>| ~ to </B><I>a trip to Tokyo </I> </P>
+<P> <U> PHRASES </U><B> a trip abroad </B><I>My last trip abroad was two years ago. </I><B>| the trip home </B><I>The trip home took us five hours! </I><B>| the trip of a lifetime </B><I>They saved for years for their trip of a lifetime to Hawaii. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>trip </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> knock your foot on sth and fall </TT> </P>
+<P> <U> ADV. </U><B> almost, nearly | over, up </B><I>One of the boys tripped over and crashed into a tree. Be careful or you'll trip up. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>She tripped on the loose stones. </I><B>| over </B><I>I nearly tripped over the cat. </I> </P>
+<P> <U> PHRASES </U><B> trip and fall </B><I>Don't leave toys on stairs where someone could trip and fall. </I> </P>
+<P> <SUP> 2 </SUP> <TT> walk lightly </TT> </P>
+<P> <U> ADV. </U><B> lightly | out </B> </P>
+<P> <U> PREP. </U><B> along </B><I>tripping along the path </I><B>| down </B><I>She came tripping lightly down the stairs. </I><B>| up </B> </P>
+<P> <U> PHRASES </U><B> come tripping</B> </P>
+</DIV>

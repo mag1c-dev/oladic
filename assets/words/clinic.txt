@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>clinic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hospital | health | special | private | outpatient | abortion, antenatal, birth control, family planning, fertility/infertility, maternity | breast, eye, etc. | diabetic, psychiatric, etc. </B> </P>
+<P> <U> VERB + CLINIC </U><B> attend, go to | hold </B><I>The surgery holds a baby clinic every Wednesday afternoon. </I><B>| be treated at </B><I>She is being treated at a special diabetic clinic. </I> </P>
+<P> <U> PREP. </U><B> at a/the~ </B><I>He was treated at the hospital's eye clinic. </I><B>| in a/the~ </B><I>She works in a birth control clinic. </I><B>| ~ for </B><I>a clinic for asthma sufferers </I> </P>
+</DIV>

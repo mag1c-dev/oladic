@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pavement </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> wide | narrow | hard </B><I>She had sore feet from walking on hard pavements all day. </I><B>| broken, uneven | crowded | empty </B> </P>
+<P> <U> VERB + PAVEMENT </U><B> step off, step onto | keep to | mount </B><I>The car mounted the pavement and crashed into a lamp post. </I> </P>
+<P> <U> PAVEMENT + NOUN </U><B> cafe, table, terrace </B> </P>
+<P> <U> PREP. </U><B> along the ~, down the ~, on the ~ </B><I>There was a car parked on the pavement and we couldn't get by. </I><B>| up the ~ </B> </P>
+<P> <U> PHRASES </U><B> the edge of the pavement</B> </P>
+</DIV>

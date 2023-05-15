@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>encounter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief </B><I>I did not see him again, except for a brief encounter on a train. </I><B>| casual, chance, unexpected </B><I>It was a chance encounter that led to the setting up of the new political party. </I><B>| close </B><I>I decided not to risk a second close encounter with the snakes. </I><B>| face-to-face | direct </B><I>The press conference was her first direct encounter with the media. </I><B>| unpleasant, violent | social </B><I>the language we use in everyday social encounters </I><B>| sexual </B> </P>
+<P> <U> VERB + ENCOUNTER </U><B> have </B><I>I had my first encounter with the president two years ago. </I> </P>
+<P> <U> ENCOUNTER + VERB </U><B> take place </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>violent encounters between police and protesters </I><B>| ~ with </B><I>my first encounter with my new boss </I> </P>
+</DIV><DIV class="item"><P class="word"><B>encounter </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> commonly, frequently, often, regularly </B><I>Walruses were commonly encountered in the Shetland Islands until quite recently. </I><B>| rarely | inevitably </B> </P>
+<P> <U> VERB + ENCOUNTER </U><B> be likely to </B><I>What are the difficulties you are most likely to encounter? </I> </P>
+</DIV>

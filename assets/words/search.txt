@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>search </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, exhaustive, extensive, painstaking, systematic, thorough | major, massive, nationwide | desperate, frantic | constant | police | routine </B><I>Police conducted a routine search of all the houses in the area. </I><B>| house-to-house | fingertip </B><I>A team of police officers did a fingertip search of the area. </I><B>| body, strip </B><I>I was subjected to a body search by customs officials. </I><B>| computer, Internet </B> </P>
+<P> <U> VERB + SEARCH </U><B> begin, launch, mount, start </B><I>The police immediately launched a nationwide search for the killer. </I><B>| carry out, conduct, do, make </B><I>The search for the missing men was conducted in poor weather conditions. </I><B>| abandon, call off </B><I>The search was called off when it began to get dark. </I> </P>
+<P> <U> SEARCH + NOUN </U><B> operation </B><I>The police mounted an extensive search operation. </I><B>| party, team | warrant | engine </B><I>This is one of the fastest Internet search engines. </I> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>We're constantly in search of new talent. </I><B>| ~ for </B><I>the search for oil off the coast </I> </P>
+</DIV><DIV class="item"><P class="word"><B>search </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> thoroughly </B><I>The area has been thoroughly searched. </I><B>| carefully, diligently, painstakingly | systematically | actively </B><I>actively searching for something to keep the conversation going </I><B>| eagerly | desperately, frantically | in vain | aimlessly </B><I>For the rest of the morning he searched aimlessly through the town. </I><B>| constantly | around/round </B><I>I searched around for a thick stick. </I> </P>
+<P> <U> PREP. </U><B> among </B><I>We searched among the rocks for crabs. </I><B>| for </B><I>Police are still searching for the missing child. </I><B>| in </B><I>He searched in his pocket and found a few coins. </I><B>| through </B><I>searching through a drawer </I> </P>
+<P> <U> PHRASES </U><B> search far and wide, search sth from top to bottom </B><I>We searched the house from top to bottom. </I><B>| search high and low </B><I>I have searched high and low and cannot find them. </I> </P>
+</DIV>

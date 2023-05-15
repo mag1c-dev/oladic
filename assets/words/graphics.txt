@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>graphics </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> computer | basic, simple </B><I>The screen can display simple graphics as well as text. </I><B>| colour | high-resolution | three-dimensional, two-dimensional </B> </P>
+<P> <U> VERB + GRAPHICS </U><B> produce | display | manipulate </B><I>The program can produce and manipulate text and graphics. </I><B>| support </B><I>The editor's PC should support desktop publishing and graphics. </I> </P>
+<P> <U> GRAPHICS + NOUN </U><B> application, package, program, software, system | capability, performance | card, file, tablet, workstation | design, designer </B>&gt; Special page at COMPUTER </B> </P>
+</DIV>

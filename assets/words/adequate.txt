@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>adequate </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, prove, seem | remain | consider sth, think sth </B><I>The trains were not considered adequate for use on the modern railways. </I> </P>
+<P> <U> ADV. </U><B> really, very | perfectly, quite, totally | more than </B><I>The system is more than adequate to deal with any problems. </I><B>| barely, hardly, less than, not entirely, not wholly </B><I>The grants given to students are less than adequate. </I><B>| more or less </B><I>The amount of money we have been given is more or less adequate. </I><B>| still | no longer </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The old computer is still perfectly adequate for most tasks. </I> </P>
+</DIV>

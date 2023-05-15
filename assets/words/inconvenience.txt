@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>inconvenience </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great, serious | minor | public </B><I>The rail strike is likely to cause considerable public inconvenience. </I><B>| administrative </B> </P>
+<P> <U> VERB + INCONVENIENCE </U><B> have, suffer | avoid </B><I>I chose a different route to avoid the inconvenience of going through the town centre. </I><B>| cause (sb), put sb to </B><I>I don't want to put you to any inconvenience. </I><B>| minimize, save (sb) </B><I>You could have fetched me from the airport and saved me the inconvenience of having to take the bus! </I><B>| apologize for, regret </B><I>This shop is closed today for staff training. We regret any inconvenience caused. </I> </P>
+<P> <U> INCONVENIENCE + VERB </U><B> arise from sth </B><I>inconvenience arising from errors in the timetable </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Every effort will be made to minimize inconvenience to customers while work is in progress. </I> </P>
+<P> <U> PHRASES </U><B> with a minimum of inconvenience </B><I>The club management will try to ensure that the building work is carried out with the minimum of inconvenience to guests. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>inconvenience </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> greatly </B><I>The general public has been greatly inconvenienced by this strike. </I> </P>
+</DIV>

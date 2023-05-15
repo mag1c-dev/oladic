@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fumes </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acrid, choking, dangerous, noxious, poisonous, toxic | diesel, exhaust, petrol, traffic | cooking | petrol, solvent | carbon monoxide, sulphurous, etc. </B> </P>
+<P> <U> QUANT. </U><B> cloud </B><I>Clouds of toxic fumes escaped from the chemical plant. </I> </P>
+<P> <U> VERB + FUMES </U><B> give off, produce </B><I>The fire gave off choking fumes. an industrial process which produces toxic fumes </I><B>| breathe (in), inhale </B> </P>
+<P> <U> FUMES + VERB </U><B> kill sb, overcome sb </B><I>A firefighter was overcome by fumes at a blaze in a plastics factory. </I><B>| escape </B><I>Sometimes exhaust fumes escape into the vehicle. </I> </P>
+</DIV>

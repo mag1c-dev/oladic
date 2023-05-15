@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>sail </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> main | canvas </B> </P>
+<P> <U> VERB + SAIL </U><B> hoist, raise | drop, lower | adjust, trim | fill </B><I>The dinghy gathered speed as the wind filled her sails. </I><B>| reef, shorten | furl </B> </P>
+<P> <U> SAIL + VERB </U><B> billow, flap </B><I>The bay was full of yachts with billowing sails. </I><B>| fill </B> </P>
+<P> <U> SAIL + NOUN </U><B> area, shape, size | canvas </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The yacht came in under sail and anchored near us. </I> </P>
+<P> <U> PHRASES </U><B> the days of sail </B><I>The boat is preserved as a monument to the days of sail. </I><B>| in/under full sail </B><I>She advanced towards us like a galleon in full sail. </I><B>| set sail (for) </B><I>We set sail for France at first light. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sail </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> serenely | single-handed </B><I>to sail single-handed around the world </I><B>| away, back, on, out, past </B><I>The boat sailed serenely on towards the horizon. </I> </P>
+<P> <U> VERB + SAIL </U><B> learn to | teach sb to </B> </P>
+<P> <U> PREP. </U><B> across </B><I>sailing across th</I>e </B><I>English Channel </I><B>| down, for </B><I>Th</I>e </B><I>ferry sails for Southampton a</I>t </B><I>5.30. </I><B>| from, into </B><I>We sailed th</I>e </B><I>boat out into the middle of th</I>e </B><I>lake. </I><B>| on </B><I>We sailed on a larg</I>e </B><I>ocean liner. sailing on the sea </I>| <B>out of </B><I>sailing out of the harbour </I>| <B>to </B><I>sailing from Dover to Calais. </I>| <B>up, etc.</B> </P>
+</DIV>

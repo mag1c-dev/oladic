@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>anxiety </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acute, considerable, deep, great | chronic, constant, nagging | growing, increasing, mounting | natural, understandable | needless, unnecessary | public </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>the high level of anxiety created by entering a new environment </I> </P>
+<P> <U> VERB + ANXIETY </U><B> arouse, bring, cause, create, provoke | lead to | experience, feel, suffer from </B><I>She felt a nagging anxiety that could not be relieved. </I><B>| express, share </B><I>The mothers were able to share their anxieties with each other. </I><B>| cope with, deal with </B><I>skills to cope with anxiety </I><B>| allay, alleviate, dispel, reduce, relieve </B><I>The aim is to reduce anxiety and help the patients relax. </I><B>| aggravate, increase </B> </P>
+<P> <U> ANXIETY + VERB </U><B> grow </B><I>The more reports I study the more my anxiety grows. </I><B>| arise (from/out of sth), surface </B><I>A few anxieties surfaced during the meeting. </I> </P>
+<P> <U> ANXIETY + NOUN </U><B> attack | level </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>her growing anxiety about her health </I><B>| ~ at </B><I>anxiety at the deterioration of relations between the powers </I><B>| ~ for </B><I>deep anxiety for the whole family </I><B>| ~ over </B><I>There are anxieties over the effects of unemployment. </I> </P>
+<P> <U> PHRASES </U><B> fear and anxiety </B><I>They were encouraged to express their fears and anxieties. </I> </P>
+</DIV>

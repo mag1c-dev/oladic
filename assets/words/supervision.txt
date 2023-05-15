@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>supervision </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, close, strict | adequate, effective, proper | inadequate | constant, daily, day-to-day, regular | minimal | direct </B><I>New staff are trained to work without direct supervision. </I><B>| general, overall | adult, clinical, expert, medical, parental, personal </B> </P>
+<P> <U> VERB + SUPERVISION </U><B> need, require | get, have, receive | exercise, give sb, offer (sb), provide (sb with) </B><I>The scheme offers only minimal supervision for young offenders. </I><B>| be responsible for </B><I>The head porter is responsible for the supervision and allocation of duties. </I><B>| keep sb/sth under </B><I>He needs to be kept under strict supervision. </I><B>| improve, tighten | relax | escape (from), evade </B><I>She managed to escape her boss's constant supervision. </I> </P>
+<P> <U> SUPERVISION + NOUN </U><B> order </B><I>The local authority can apply for a supervision order for the child. </I> </P>
+<P> <U> PREP. </U><B> under (sb's) ~ </B><I>under the close supervision of her teachers </I><B>| with/without ~ </B><I>Children are not allowed to swim without adequate supervision. </I><B>| ~ by </B><I>They still require supervision by skilled colleagues. </I><B>| ~ from </B><I>Trainees will receive personal supervision from experienced staff. </I> </P>
+<P> <U> PHRASES </U><B> a lack of supervision</B> </P>
+</DIV>

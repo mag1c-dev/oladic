@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>artillery </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> field | heavy </B><I>The enemy has enough heavy artillery to win the war. </I> </P>
+<P> <U> ARTILLERY + NOUN </U><B> attack, barrage, bombardment, fire | piece, shell | train, unit </B><I>The soldiers of the artillery train had panicked and cut the traces of their horses. nuclear artillery units </I> </P>
+</DIV>

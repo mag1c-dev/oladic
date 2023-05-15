@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>guilty </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling/showing guilt </TT> </P>
+<P> <U> VERBS </U><B> feel, look </B> </P>
+<P> <U> ADV. </U><B> extremely, incredibly, really, terribly, very </B><I>She's got a terribly guilty conscience about it. </I><B>| almost </B><I>I feel almost guilty that so many good things are happening to us. </I><B>| a bit, faintly, a little, rather, slightly, somewhat, vaguely </B><I>She was looking rather guilty when I came into the room. </I><B>| oddly, ridiculously </B> </P>
+<P> <U> PREP. </U><B> about </B><I>I feel very guilty about leaving her. </I> </P>
+<P> <SUP> 2 </SUP> <TT> having broken the law/done sth wrong </TT> </P>
+<P> <U> VERBS </U><B> be, plead </B><I>He pleaded guilty to starting the fire. </I><B>| believe sb, presume sb </B><I>No one believed him guilty of this terrible crime. A person should never be presumed guilty. </I><B>| deem sb, find sb, hold sb, prove sb </B><I>Company directors may be deemed guilty of an offence if their company causes pollution. He was found guilty of murder. </I> </P>
+<P> <U> ADV. </U><B> certainly, clearly </B><I>She was certainly guilty, but the police couldn't prove it. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>She was guilty of fraud. </I> </P>
+</DIV>

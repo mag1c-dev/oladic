@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>guideline </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear, good, helpful, practical, reliable, useful | broad, general, simple | detailed, explicit | strict, tight | EU, government | planning, safety | ethical, financial, legal </B> </P>
+<P> <U> QUANT. </U><B> set </B><I>The organization has issued a set of guidelines for builders to follow. </I> </P>
+<P> <U> VERB + GUIDELINE </U><B> develop, draw up, lay down, set out | give (sb), issue, offer (sb), provide (sb with), suggest </B><I>The document gives clear guidelines on the use of pesticides. </I><B>| adhere to, apply, follow, stick to </B><I>We have to follow the safety guidelines laid down by the government. </I><B>| breach, ignore </B><I>The minister is accused of allowing the company to breach guidelines on arms sales. </I> </P>
+<P> <U> GUIDELINE + VERB </U><B> apply </B><I>The same general guidelines on when to dress formally apply to both men and women. </I> </P>
+<P> <U> PREP. </U><B> within ~ </B><I>Within clear guidelines, managers can use their budget to entertain clients. </I><B>| ~ about </B><I>detailed guidelines for doctors about how to deal with difficult patients </I><B>| ~ for </B><I>The article suggests some guidelines for healthy eating. </I><B>| ~ from </B><I>guidelines from the Department of Health </I><B>| ~ on </B><I>new EU guidelines on food hygiene </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<div class="item"><p class="word first"><b>sadness </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> deep, great, real, unutterable </b></div></p>
+<p> <u> QUANT. </u><div class="ex"><b> hint </b></div></p>
+<p> <u> VERB + SADNESS </u><div class="ex"><b> be filled with, be full of, feel </b></div><div class="excontent"><i>Claudia felt a deep sadness. </i></div><div class="ex"><b>| express, show | hide | bring (sb) </b></div><div class="excontent"><i>I had brought nothing but sadness to my family. </i></div><div class="ex"><b>| be tinged with </b></div><div class="excontent"><i>Our joy was tinged with sadness. </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> with ~ </b></div><div class="excontent"><i>It was with great sadness that we learned of the death of William Hales. </i></div><div class="ex"><b>| ~ about/at/over </b></div><div class="excontent"><i>He expressed his sadness about what had happened. </i></div><div class="ex"><b>| ~ for </b></div><div class="excontent"><i>Kate felt a great sadness for him. </i> </div></p>
+<p> <u> PHRASES </u><div class="ex"><b> an air/aura of sadness </b></div><div class="excontent"><i>a lonely place with an aura of sadness </i></div><div class="ex"><b>| a feeling/sense of sadness</b></div></p>
+</div>

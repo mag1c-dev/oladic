@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>collision </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> serious | near | multiple | head-on, mid-air </B> </P>
+<P> <U> VERB + COLLISION </U><B> be involved in, have </B><I>I had a near collision with a lorry. </I><B>| avoid | cause </B> </P>
+<P> <U> COLLISION + VERB </U><B> happen, occur </B><I>The collision occurred near the hospital. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She was injured in a collision. </I><B>| in ~ with </B><I>The car was in collision with a lorry. </I><B>| ~ between </B><I>a head-on collision between two cars </I><B>| ~ with </B><I>a collision with a train </I> </P>
+<P> <U> PHRASES </U><B> be on a collision course with sth </B><I>An iceberg was on a collision course with the ship. </I> </P>
+</DIV>

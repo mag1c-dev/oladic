@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>peril </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> great danger </TT> </P>
+<P> <U> ADJ. </U><B> deadly, dire, grave, great </B> </P>
+<P> <U> VERB + PERIL </U><B> be at/in | put sth in </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>All aboard were in grave peril of drowning. </I> </P>
+<P> <U> PHRASES </U><B> at your ~ </B><I>Ignore these warnings at your peril. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth dangerous </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>the great perils facing the environment </I><B>| immediate | hidden </B> </P>
+<P> <U> VERB + PERIL </U><B> face </B><I>We face the immediate peril of being bought out by another company. </I><B>| avoid </B> </P>
+<P> <U> PERIL + VERB </U><B> face sth</B> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>compound </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> chemical </TT> </P>
+<P> <U> ADJ. </U><B> chemical </B><I>Scientists have produced a new chemical compound. </I><B>| inorganic, organic | synthetic | molecular, simple </B><I>Dalton believed that the simplest compound of two elements must have one atom of each. </I><B>| active, dangerous, potent, toxic, volatile | carbon, iron, etc. </B> </P>
+<P> <U> VERB + COMPOUND </U><B> form, produce </B><I>At the right temperature, the chemicals will form a compound. </I> </P>
+<P> <U> COMPOUND + VERB </U><B> contain sth | be derived from sth, derive from sth, be found in sth, occur </B><I>compounds derived from rainforest plants </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a compound of oxygen and hydrogen </I> </P>
+<P> <SUP> 2 </SUP> <TT> area of land and buildings </TT> </P>
+<P> <U> ADJ. </U><B> palace, prison, military | walled, secure </B><I>Police are investigating a raid on a secure compound. </I> </P>
+<P> <U> PREP. </U><B> in/inside a/the ~ </B><I>life inside the prison compound </I> </P>
+</DIV>

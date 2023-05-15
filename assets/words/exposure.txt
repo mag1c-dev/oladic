@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>exposure </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> to sth harmful </TT> </P>
+<P> <U> ADJ. </U><B> high, massive | maximum | excessive | low-level | long, long-term, prolonged | brief | constant, continued, continuous, repeated | chemical, radiation, sun | human </B><I>human exposure to asbestos </I> </P>
+<P> <U> VERB + EXPOSURE </U><B> receive, suffer </B><I>She suffered a massive exposure to toxic chemicals. </I><B>| increase | limit, minimize, reduce </B><I>Banks will seek to minimize their exposure to risk. </I><B>| avoid </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The report recommends people to avoid prolonged exposure to sunlight. </I> </P>
+<P> <SUP> 2 </SUP> <TT> to experience </TT> </P>
+<P> <U> ADJ. </U><B> brief | greater | limited </B> </P>
+<P> <U> VERB + EXPOSURE </U><B> give sb | get, have | increase </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>giving children greater exposure to other cultures </I> </P>
+<P> <SUP> 3 </SUP> <TT> showing the truth </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>full exposure of the links between government officials and the arms trade </I><B>| public </B> </P>
+<P> <SUP> 4 </SUP> <TT> on TV/in newspapers, etc. </TT> </P>
+<P> <U> ADJ. </U><B> regular | media, press, television </B> </P>
+<P> <U> VERB + EXPOSURE </U><B> give sb/sth </B><I>The magazine aims to give exposure to the work of women artists. </I><B>| gain, get, have, receive </B><I>a would-be television personality who is constantly trying to get media exposure </I> </P>
+</DIV>

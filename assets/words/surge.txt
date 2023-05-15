@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>surge </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of feeling </TT> </P>
+<P> <U> ADJ. </U><B> great, huge | wild | abrupt, sudden, swift | initial </B><I>His initial surge of euphoria was quickly followed by dismay. </I><B>| fresh, new, renewed </B><I>She felt a fresh surge of anger when he denied lying. </I><B>| familiar | adrenalin </B> </P>
+<P> <U> VERB + SURGE </U><B> experience, feel </B><I>He experienced that familiar surge of excitement. </I> </P>
+<P> <U> SURGE + VERB </U><B> sweep (over/through) sb/sth </B><I>A great surge of emotion swept through him. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He thought of his old teacher with a surge of affection. </I><B>| ~ of </B><I>a sudden surge of adrenalin </I> </P>
+<P> <SUP> 2 </SUP> <TT> movement/increase </TT> </P>
+<P> <U> ADJ. </U><B> dramatic, extraordinary, great, huge, massive | growing | sudden, unexpected | temporary | last-minute, overnight, recent </B><I>A last-minute surge in ticket sales saved the show from closure. </I><B>| storm, tidal </B><I>The storm surge caused widespread flooding. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a dramatic surge in the demand </I> </P>
+<P> <U> PHRASES </U><B> a surge forward </B><I>Police struggled to control the sudden surge forward by the demonstrators. </I> </P>
+</DIV>

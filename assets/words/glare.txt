@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>glare </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> strong light </TT> </P>
+<P> <U> ADJ. </U><B> blinding, full, harsh, hot | sudden </B><I>A sudden glare of headlights lit the driveway. </I> </P>
+<P> <U> VERB + GLARE </U><B> reflect </B><I>The walls were whitewashed to reflect the glare of the sun. </I><B>| reduce </B><I>We wore sunglasses to reduce the glare from the road. </I><B>| be blinded by, be dazzled by </B><I>For a moment she was blinded by the harsh glare of the sun. </I><B>| be caught in </B><I>The rabbit was caught in the glare of the car's headlights. </I> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>We screwed up our eyes against the blinding glare from the searchlights. </I><B>| in/under the ~ of </B><I>Under the glare of the street lamps, visibility was good. </I><B>| ~ from </B> </P>
+<P> <U> PHRASES </U><B> the glare of publicity </B><I>(figurative) The divorce was conducted in the full glare of media publicity. </I> </P>
+<P> <SUP> 2 </SUP> <TT> angry look </TT> </P>
+<P> <U> ADJ. </U><B> angry, baleful, defiant, furious, hostile, malevolent, menacing, withering | icy, steely, stony | warning </B> </P>
+<P> <U> VERB + GLARE </U><B> fix sb with, give sb, send sb, shoot (sb), turn on sb </B><I>She fixed her questioner with an icy glare. He sent her a glare that was full of suspicion. She shot a warning glare at her companion. He turned his baleful glare on the cowering suspect. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>glare </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> angrily, balefully, fiercely, furiously | back </B><I>I looked at her and she glared angrily back. </I> </P>
+<P> <U> PREP. </U><B> (down/up) at </B><I>He stood at the bottom of the stairs, glaring up at us. </I> </P>
+</DIV>

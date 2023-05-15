@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>switchboard </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> busy | telephone </B> </P>
+<P> <U> VERB + SWITCHBOARD </U><B> call, ring | jam, swamp </B><I>The BBC switchboard was jammed with furious calls. </I><B>| be/work on, operate </B> </P>
+<P> <U> SWITCHBOARD + NOUN </U><B> operator </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>the girl on the switchboard </I><B>| through a/the ~ </B><I>All calls must pass through the switchboard. </I> </P>
+</DIV>

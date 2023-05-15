@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>pig </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> animal </TT> </P>
+<P> <U> ADJ. </U><B> domestic | feral, wild | sucking/suckling </B> </P>
+<P> <U> VERB + PIG </U><B> breed | keep | feed | fatten </B><I>pigs being fattened for slaughter </I><B>| slaughter </B> </P>
+<P> <U> PIG + VERB </U><B> grunt, oink, squeal | browse, root </B><I>A pig rooted in the orchard. </I> </P>
+<P> <U> PIG + NOUN </U><B> farm, farmer </B> </P>
+<P> <SUP> 2 </SUP> <TT> person </TT> </P>
+<P> <U> ADJ. </U><B> fat | greedy | male chauvinist </B> </P>
+<P> <U> PHRASES </U><B> make a pig of yourself </B><I>We cooked up a load of pasta and all made pigs of ourselves. </I> </P>
+</DIV>

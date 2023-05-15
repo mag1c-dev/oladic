@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>rust </B><I>noun </I> </P>
+<P> <U> VERB + RUST </U><B> clean off, get off, remove, scrape off </B> </P>
+<P> <U> RUST + NOUN </U><B> spot, stain | protection </B><I>A zinc coating is applied to the steel for rust protection. </I> </P>
+<P> <U> PHRASES </U><B> covered/flecked/red/spotted with rust </B><I>The old padlock was red with rust. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rust </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly | away, through </B><I>The car had been rusting away in his garage for years. </I> </P>
+</DIV>

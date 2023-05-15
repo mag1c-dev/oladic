@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>defeat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bitter, catastrophic, complete, comprehensive, crushing, decisive, devastating, disastrous, heavy, humiliating, ignominious, overwhelming, resounding, serious, stunning </B><I>Their party suffered a heavy defeat in the election. The battle ended in a humiliating defeat. </I><B>| narrow </B><I>They lost 4?3 in their second narrow defeat of the week. </I><B>| consecutive, successive | election, electoral, political | military </B> </P>
+<P> <U> VERB + DEFEAT </U><B> accept, admit, concede </B><I>She is very determined, and will never admit defeat. The prime minister conceded defeat and resigned. </I><B>| face | go down to, slump to, to suffer </B><I>The team went down to their fifth consecutive defeat. </I><B>| reverse </B><I>A skilful politician can always reverse any defeats. </I><B>| avoid </B><I>We just need to avoid defeat in our last two matches. </I><B>| inflict </B><I>The army inflicted a heavy defeat on rebel forces. </I><B>| end in | lead to </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>last week's crushing defeat against Manchester United </I><B>| ~ by </B><I>their defeat by the French </I> </P>
+<P> <U> PHRASES </U><B> defeat at the hands of sb </B><I>The team suffered defeat at the hands of their oldest rivals. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>defeat </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> comprehensively, convincingly, decisively, easily, heavily, soundly, totally </B><I>The English were heavily defeated by the Scots in the battle that followed. The proposed bill was decisively defeated in Parliament. </I><B>| narrowly </B><I>Our team was narrowly defeated in the final. </I><B>| eventually, finally, ultimately </B> </P>
+<P> <U> PREP. </U><B> by </B><I>The motion was defeated by 20 votes to 18. </I> </P>
+</DIV>

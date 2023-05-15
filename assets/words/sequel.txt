@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>sequel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> to a book, film, etc. </TT> </P>
+<P> <U> VERB + SEQUEL </U><B> do, make, write </B><I>He's been asked to make a sequel to &lsquo;Peter Pan&rsquo;. </I> </P>
+<P> <U> PREP. </U><B> in a/the~ </B><I>Some important new characters appear in the sequel. </I><B>| ~ to </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth that happens after sth else </TT> </P>
+<P> <U> ADJ. </U><B> immediate | strange, unexpected </B> </P>
+<P> <U> VERB + SEQUEL </U><B> have </B><I>The affair had a strange sequel. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The immediate sequel to the price rises was uprisings across the country. </I> </P>
+</DIV>

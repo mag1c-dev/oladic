@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>immerse </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put sth in liquid </TT> </P>
+<P> <U> ADV. </U><B> completely, fully, totally | partially </B> </P>
+<P> <U> PREP. </U><B> in </B><I>The seeds need to be completely immersed in water. </I> </P>
+<P> <SUP> 2 </SUP> <TT> concentrate completely on sth </TT> </P>
+<P> <U> ADV. </U><B> deeply </B><I>Clare and Phil were deeply immersed in conversation. </I><B>| completely, totally | in </B><I>For six months I totally immersed myself in my work. </I> </P>
+</DIV>

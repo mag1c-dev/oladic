@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>width </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great </B><I>the great width of his shoulders </I><B>| full, overall, total, whole | narrow </B><I>The fabric is only available in a narrow width. </I><B>| maximum, minimum </B> </P>
+<P> <U> VERB + WIDTH </U><B> have </B><I>The windows have a width of six feet. </I><B>| measure </B><I>Measure the width of each side. </I><B>| increase | decrease, narrow (to), reduce </B><I>The snow had narrowed the width of the road to a single track. The road narrows to a width of just four metres. </I><B>| vary in </B> </P>
+<P> <U> WIDTH + VERB </U><B> grow, increase | decrease | vary </B> </P>
+<P> <U> WIDTH + NOUN </U><B> measurement | fitting </B><I>The boots are available in a choice of width fittings. </I> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>The pattern goes across the full width of the material. </I><B>| in ~ </B><I>The car is 1.775m in width. </I> </P>
+</DIV>

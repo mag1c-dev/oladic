@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>disturbed </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> mentally ill </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> acutely, deeply, highly, seriously, severely, very </B><I>Many of our patients are severely disturbed. </I><B>| behaviourally, emotionally, mentally, psychiatrically, psychologically </B><I>emotionally disturbed children </I> </P>
+<P> <SUP> 2 </SUP> <TT> very anxious </TT> </P>
+<P> <U> VERBS </U><B> be, feel | become </B> </P>
+<P> <U> ADV. </U><B> deeply, greatly, profoundly, very | a little, slightly, vaguely | oddly </B> </P>
+<P> <U> PREP. </U><B> by </B><I>I felt oddly disturbed by the incident. </I> </P>
+</DIV>

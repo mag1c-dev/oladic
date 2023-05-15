@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>dawn </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> early morning </TT> </P>
+<P> <U> ADJ. </U><B> grey </B> </P>
+<P> <U> VERB + DAWN </U><B> greet </B><I>(literary) He always got up to greet the dawn. </I> </P>
+<P> <U> DAWN + VERB </U><B> break, come (up) </B><I>Dawn was breaking over the valley. </I> </P>
+<P> <U> DAWN + NOUN </U><B> light, sky | chorus </B><I>The dawn chorus </I>(= birds singing) </B><I>woke Robyn at five. </I><B>| patrol, raid </B><I>Ammunition was seized during a dawn raid on the flat. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>That morning, she rose at dawn. </I><B>| before ~, by ~, till/until ~, towards ~ </B> </P>
+<P> <U> PHRASES </U><B> (at) the crack of dawn </B>(= as soon as it begins to be light), <B>from dawn to dusk </B><I>He works from dawn to dusk, and often well into the night. </I> </P>
+<P> <SUP> 2 </SUP> <TT> beginning </TT> </P>
+<P> <U> ADJ. </U><B> false </B><I>This sudden success may prove to be a false dawn </I>(= not the beginning of continued success)</B><I>. </I><B>| new </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the dawn of civilization/history/a new era Let's think back to the dawn of time. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dawn </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> begin </TT> </P>
+<P> <U> PHRASES </U><B> dawn bright, sunny, clear, cold, etc. </B><I>The day dawned bright and sunny. </I> </P>
+<P> <SUP> 2 </SUP> <TT> become clear </TT> </P>
+<P> <U> ADV. </U><B> suddenly | gradually, slowly </B><I>It slowly dawned on me that he might have been mistaken. </I><B>| eventually, finally </B> </P>
+<P> <U> VERB + DAWN </U><B> begin to </B><I>It was beginning to dawn on her that she had been fooled. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>The dreadful truth finally dawned on me. </I> </P>
+</DIV>

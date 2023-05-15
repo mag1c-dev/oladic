@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>robbery </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> attempted, bungled, failed | armed | bank, highway, street </B> </P>
+<P> <U> VERB + ROBBERY </U><B> commit, take part in </B> </P>
+<P> <U> ROBBERY + NOUN </U><B> attempt </B> </P>
+<P> <U> PHRASES </U><B> robbery with violence </B><I>He was sentenced to four years in prison for robbery with violence. </I></P>
+<a href="/collocation-tag/crimes" class="tag">Learn more about CRIMES</a>
+</DIV>

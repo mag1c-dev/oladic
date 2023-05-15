@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>bomb </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, huge, large, massive | small | cluster, fire, high explosive, incendiary, mortar, nail, petrol, smoke | atom/atomic, hydrogen, neutron, nuclear | bouncing, flying | terrorist | home-made | unexploded | stray </B><I>Their truck was hit by a stray bomb. </I><B>| dummy, fake </B><I>a practice flight with dummy bombs </I><B>| car | letter, parcel | time </B><I>(figurative) He described global warming as &lsquo;an environmental time bomb ticking away&rsquo;. </I> </P>
+<P> <U> VERB + BOMB </U><B> place, plant, put </B><I>Police suspect terrorists planted the bomb. </I><B>| carry </B><I>The plane had been adapted to carry bombs. </I><B>| drop, release </B><I>Enemy planes dropped bombs along the railway line. </I><B>| defuse | detonate, explode, set off | build, construct, develop (These verbs are only used about countries.) </B><I>India started to build a nuclear bomb. </I><B>| make </B><I>He used a clock to make a home-made bomb. </I> </P>
+<P> <U> BOMB + VERB </U><B> fall, rain (down) </B><I>Eighty people died when bombs rained down on the city's crowded streets. </I><B>| hit sth | detonate, explode, go off | blow sb/sth to pieces, blow sth up, destroy sth, kill sb, rip through sth </B><I>Fifteen people were blown to pieces by the car bomb. A terrorist bomb ripped through the town's packed shopping centre. </I><B>| be ticking away </B> </P>
+<P> <U> BOMB + NOUN </U><B> attack, blast, explosion | alert, scare, threat, warning | hoax | disposal, squad | shelter | crater </B><I>The land was scarred with bomb craters. </I><B>| damage | site | victim | suspect | test </B><I>the fallout from atomic bomb tests </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bomb </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> heavily </B><I>The city had been very heavily bombed. </I> </P>
+</DIV>

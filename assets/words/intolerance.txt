@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>intolerance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lack of tolerance </TT> </P>
+<P> <U> ADJ. </U><B> racial, religious </B> </P>
+<P> <U> VERB + INTOLERANCE </U><B> display, show </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The town began to show increasing intolerance of immigrants. </I><B>| ~ to </B><I>the professor's intolerance to any views other than his own </I><B>| ~ towards </B><I>the intolerance of local residents towards refugees </I> </P>
+<P> <SUP> 2 </SUP> <TT> inability to digest certain substances </TT> </P>
+<P> <U> ADJ. </U><B> food | glucose, lactose, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>intolerance of potatoes </I><B>| ~ to </B><I>an intolerance to milk products </I> </P>
+</DIV>

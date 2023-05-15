@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>applause </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deafening, loud, thunderous, tumultuous | enthusiastic, rapturous, warm, wild | prolonged, sustained | spontaneous </B><I>a little burst of spontaneous applause </I><B>| gentle, muted, polite </B><I>To muted applause a small flag was raised over the building. </I> </P>
+<P> <U> QUANT. </U><B> burst, ripple, roar, round </B><I>The crowd gave them a round of applause. </I> </P>
+<P> <U> VERB + APPLAUSE </U><B> be greeted with, draw, earn, get, receive, win </B><I>The speech drew loud applause. </I><B>| break into, burst into </B><I>The audience broke into applause. </I><B>| acknowledge </B><I>She stood back and acknowledged the applause of the crowd. </I><B>| deserve </B><I>He deserves the respect and applause of his colleagues. </I> </P>
+<P> <U> APPLAUSE + VERB </U><B> break out, greet sb/sth </B><I>A great roar of applause broke out. Wild applause greeted this remark. </I><B>| grow | die away/down, subside </B><I>The applause died down as the curtain closed. </I> </P>
+<P> <U> PREP. </U><B> to ~ </B><I>He left the stage to thunderous applause. </I><B>| ~ for </B><I>There was a ripple of applause for the speaker. </I> </P>
+</DIV>

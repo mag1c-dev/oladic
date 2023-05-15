@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>generalization </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad, sweeping | abstract | useful, valid </B> </P>
+<P> <U> VERB + GENERALIZATION </U><B> make </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>The author makes several sweeping generalizations about the causes of the crisis. </I> </P>
+</DIV>

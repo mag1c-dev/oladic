@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>phone </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cellular, cordless, mobile, portable | car | pay (also payphone) | public </B><I>There's a public payphone in reception. </I><B>| office, private </B> </P>
+<P> <U> VERB + PHONE </U><B> be on </B><I>She's on the phone at the moment. </I><B>| use </B><I>Can I use your phone? </I><B>| answer, get </B><I>(informal)</I>, <B>lift, pick up </B><I>If the phone rings, don't answer it. Can you get the phone? </I><B>| hang up, put down, replace </B><I>I hung up the phone when he started shouting at me. </I><B>| slam down </B><I>She slammed the phone down in a rage. </I><B>| be wanted on </B><I>Mum, you're wanted on the phone. </I><B>| call sb to </B><I>He was called to the phone just as he was leaving. </I><B>| connect | disconnect | bug, tap </B><I>I think our phone is being tapped. </I><B>| wait by </B><I>She waits by the phone all day but he doesn't ring. </I><B>| leave/take off the hook </B><I>I couldn't get through because you'd left the phone off the hook. </I> </P>
+<P> <U> PHONE + VERB </U><B> ring | be engaged </B><I>His phone is engaged. </I><B>| be off the hook | go dead </B><I>The phone suddenly went dead in the middle of our conversation. </I> </P>
+<P> <U> PHONE + NOUN </U><B> number | book | bill | call, conversation, message | card (also phonecard) | company, network, service | booth, box | line </B><I>The modem links the computer to a phone line. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>We keep in contact by phone but we rarely see each other. </I><B>| on the ~ </B><I>We spoke on the phone the other day. </I><B>| over the ~ </B><I>I haven't seen her but we spoke over the phone. </I> </P>
+</DIV>

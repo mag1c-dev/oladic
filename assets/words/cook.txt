@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cook </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> thoroughly, well </B><I>Make sure you cook the meat well. </I><B>| evenly, gently, slowly </B><I>Turn the fish over so that it cooks evenly. </I><B>| quickly </B> </P>
+<P> <U> PHRASES </U><B> be cooked through </B><I>Ensure that the meat is cooked through. </I> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>cook </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excellent, good </B><I>He's a very good cook </I><B>| amateur, professional </B><I>She wants to become a professional cook. </I></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

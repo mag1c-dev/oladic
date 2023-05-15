@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>resolution </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> formal decision taken after a vote </TT> </P>
+<P> <U> ADJ. </U><B> draft | formal | joint </B><I>a joint US-British resolution </I><B>| unanimous | ordinary | emergency, special | compromise | affirmative, negative </B><I>(both law) An affirmative resolution of both Houses of Parliament is needed. </I><B>| Security Council, UN, etc. </B> </P>
+<P> <U> VERB + RESOLUTION </U><B> draft | propose, put forward, table | vote on | adopt, agree, approve, carry, pass </B><I>The resolution was carried unanimously. </I><B>| block, reject </B> </P>
+<P> <U> RESOLUTION + VERB </U><B> be aimed at sth, call for sth </B><I>The resolution called for the resumption of negotiations. </I><B>| declare sth, proclaim sth </B><I>a resolution declaring independence </I><B>| approve sth, authorize sth </B><I>The assembly adopted a resolution approving the scheme. </I><B>| condemn sth </B><I>a resolution condemning the invasion </I> </P>
+<P> <U> PREP. </U><B> under (a/the) ~ </B><I>weapons banned under Resolution 687 </I><B>| ~ on </B><I>The General Assembly rejected the resolution on the subject of arms control. </I>&gt; Special page at MEETING </B> </P>
+<P> <SUP> 2 </SUP> <TT> settling a dispute </TT> </P>
+<P> <U> ADJ. </U><B> early, quick, rapid | final, ultimate | peaceful </B><I>Hopes of a peaceful resolution to the conflict were fading. </I><B>| satisfactory, successful | conflict, dispute </B><I>methods of conflict resolution </I> </P>
+<P> <U> VERB + RESOLUTION </U><B> require | press for </B><I>The government is pressing for an early resolution of the hostage crisis. </I><B>| achieve, reach </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>the likelihood of achieving a satisfactory resolution to the problem </I> </P>
+<P> <SUP> 3 </SUP> <TT> being firm and determined </TT> </P>
+<P> <U> ADJ. </U><B> great </B> </P>
+<P> <U> VERB + RESOLUTION </U><B> have | show </B><I>She showed great resolution in her dealings with management. </I><B>| lack </B> </P>
+<P> <SUP> 4 </SUP> <TT> firm decision to do/not to do sth </TT> </P>
+<P> <U> ADJ. </U><B> firm, good | New Year/New Year's </B> </P>
+<P> <U> VERB + RESOLUTION </U><B> make </B><I>I made a New Year resolution to give up smoking. </I><B>| keep </B> </P>
+<P> <SUP> 5 </SUP> <TT> power to give a clear image </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>high-resolution graphics </I><B>| low | maximum | screen | pixel </B><I>a monitor capable of a 1,024 by 768 pixel resolution </I> </P>
+</DIV>

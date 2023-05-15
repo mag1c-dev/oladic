@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>reproduction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> producing babies/animals/plants </TT> </P>
+<P> <U> ADJ. </U><B> human | biological | asexual, sexual </B> </P>
+<P> <U> REPRODUCTION + VERB </U><B> take place </B> </P>
+<P> <U> PHRASES </U><B> a method of reproduction </B> </P>
+<P> <SUP> 2 </SUP> <TT> act/process of producing a copy/recording </TT> </P>
+<P> <U> ADJ. </U><B> accurate, faithful, (good/high) quality | colour, graphic, photographic, sound </B><I>Using a wide tape gives better quality sound reproduction. </I> </P>
+<P> <U> VERB + REPRODUCTION </U><B> give, provide | ensure </B><I>The craftsmen have ensured faithful reproduction of the original painting. </I> </P>
+<P> <SUP> 3 </SUP> <TT> sth that has been reproduced </TT> </P>
+<P> <U> ADJ. </U><B> exact, faithful </B><I>an exact reproduction of an ancient building </I><B>| large | black and white, colour | photographic </B><I>The quality of a photographic reproduction decreases with time. </I> </P>
+<P> <U> REPRODUCTION + NOUN </U><B> furniture </B>(= furniture made as a copy of an earlier style)  </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a reproduction from an old book </I> </P>
+</DIV>

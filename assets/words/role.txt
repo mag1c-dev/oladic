@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>role </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a play, film, etc. </TT> </P>
+<P> <U> ADJ. </U><B> lead, leading, starring, title | supporting | comic, tragic | cameo | film, television | TV </B> </P>
+<P> <U> VERB + ROLE </U><B> perform, play, take </B><I>John's playing the leading role in this year's play. </I><B>| cast sb in | interpret </B><I>She interprets the role as more tragic than I expected. </I> </P>
+<P> <U> PREP. </U><B> in the ~ (of) </B><I>He was very good in the role. </I> </P>
+<P> <SUP> 2 </SUP> <TT> position and importance </TT> </P>
+<P> <U> ADJ. </U><B> central, crucial, decisive, dominant, essential, fundamental, important, key, leading, major, pivotal, primary, prominent, significant, vital | minor, secondary, subordinate | constructive, full, positive, useful, valuable | active | passive | direct | clear </B><I>Every member of staff must have a clear role. </I><B>| traditional | changing | dual, twin </B><I>She has a dual role as principal and French teacher. </I><B>| conflicting </B><I>her conflicting roles as mother and manager of a large company </I><B>| advisory, consultative, managerial, supervisory | maternal, parental | economic, educational, military, political, social, strategic </B><I>the economic role of small towns A cup of tea often serves an important social role. </I><B>| symbolic </B> </P>
+<P> <U> VERB + ROLE </U><B> have, occupy, perform, play, serve </B><I>Regional managers occupy a crucial role in developing a strategic framework. </I><B>| provide (sb/sth with) | adopt, assume, take (on) </B><I>I've had to take on the role of mother in her absence. </I><B>| fulfil </B><I>He really wants to fulfil his role as godfather properly. </I><B>| cast sb in </B><I>He has been cast in the role of chief apologist for the government. </I><B>| find </B><I>We need to find a useful role for the volunteers in the campaign. </I><B>| define, redefine </B><I>a clearly defined role within the group </I><B>| swap </B> </P>
+<P> <U> ROLE + NOUN </U><B> model | reversal </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She has joined the team in a consultative role. </I><B>| ~ as </B><I>the teacher's role as instructor </I><B>| ~ for </B><I>The new prime minister promised a greater role for women in government. </I><B>| ~ in </B><I>Pressure groups played a major role in bringing about the reforms. </I> </P>
+</DIV>

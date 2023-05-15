@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>delicacy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> rare and expensive type of food </TT> </P>
+<P> <U> ADJ. </U><B> great | exotic, rare | local </B><I>Have you tried any of the local delicacies? </I> </P>
+<P> <U> VERB + DELICACY </U><B> be considered </B><I>The eggs of this bird are considered a great delicacy. </I><B>| sample, try </B> </P>
+<P> <SUP> 2 </SUP> <TT> care and sensitivity/requiring care and sensitivity </TT> </P>
+<P> <U> ADJ. </U><B> extreme, great, utmost </B><I>He handled the situation with extreme delicacy. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>These objects are very old and should be treated with great delicacy. </I> </P>
+<P> <U> PHRASES </U><B> a matter of (some) delicacy </B> </P>
+<P> <SUP> 3 </SUP> <TT> lightness and gentleness </TT> </P>
+<P> <U> ADJ. </U><B> exquisite </B><I>the exquisite delicacy of the embroidery </I> </P>
+</DIV>

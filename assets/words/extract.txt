@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>extract </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> passage from a book/piece of music </TT> </P>
+<P> <U> ADJ. </U><B> brief, short | long | literary </B> </P>
+<P> <U> VERB + EXTRACT </U><B> read | publish </B> </P>
+<P> <U> EXTRACT + VERB </U><B> be from, be taken from </B><I>The extract is taken from a long essay. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>He read out a brief extract from his book. </I> </P>
+<P> <SUP> 2 </SUP> <TT> substance taken from another substance </TT> </P>
+<P> <U> ADJ. </U><B> natural </B><I>conditioners made from natural plant extracts </I><B>| herbal, malt, meat, plant, vanilla, yeast </B><I>Add a few drops of vanilla extract. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>extract of apricot </I> </P>
+</DIV>

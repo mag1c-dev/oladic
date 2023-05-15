@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>adapt </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> change your behaviour </TT> </P>
+<P> <U> ADV. </U><B> successfully, well </B><I>The children have adapted well to the heat. </I><B>| quickly | easily, readily </B><I>The company can easily adapt to changing demand. </I><B>| accordingly </B><I>We need to assess the new situation and adapt accordingly. </I> </P>
+<P> <U> VERB + ADAPT </U><B> be able/unable to, can/cannot | have to, must | need to </B> </P>
+<P> <U> PREP. </U><B> to </B> </P>
+<P> <U> PHRASES </U><B> the ability to adapt </B><I>Some animals have a remarkable ability to adapt to changing environments. </I><B>| find it difficult/hard to adapt </B><I>A lot of companies have found it hard to adapt to the new system. </I> </P>
+<P> <SUP> 2 </SUP> <TT> change a thing </TT> </P>
+<P> <U> PREP. </U><B> for </B><I>to adapt a book for television. </I><B>| from </B><I>The radio play had been adapted from a novel. </I> </P>
+<P> <U> PHRASES </U><B> specially adapted </B><I>The classroom has been specially adapted to take wheelchairs. </I> </P>
+</DIV>

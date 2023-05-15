@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>footprint </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear | fresh | muddy, wet </B> </P>
+<P> <U> VERB + FOOTPRINT </U><B> leave, make </B><I>The intruder had left some clear footprints in the flower beds. Her wet boots made footprints on the dusty floor. </I><B>| find </B><I>The detective found fresh footprints in the mud next to the victim. </I><B>| follow </B><I>They had fled through the snow, and police had followed their footprints. </I> </P>
+</DIV>

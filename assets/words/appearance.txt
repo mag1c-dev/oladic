@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>appearance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way that sb/sth looks </TT> </P>
+<P> <U> ADJ. </U><B> attractive, handsome, youthful | distinctive, odd, strange, striking | dishevelled, scruffy, unkempt, unprepossessing | external, general, outward, overall, personal, physical, visual </B><I>attempts to improve the general appearance of the town centre attention to personal appearance and hygiene </I> </P>
+<P> <U> VERB + APPEARANCE </U><B> have </B><I>Inside, the house had the appearance of a temple. </I><B>| take on </B><I>Towns merged to take on the appearance of a city. </I><B>| give </B><I>The report gives an appearance of scientific credibility. </I><B>| alter, change </B><I>Shaving off his beard changed his appearance dramatically. </I><B>| enhance, improve | keep up </B><I>When she lost all her money, she was determined to keep up appearances </I>(= hide the true situation and pretend that everything was going well)</B><I>. </I><B>| judge (sb/sth) by </B><I>To judge by appearances, Roger was rather embarrassed. </I> </P>
+<P> <U> PREP. </U><B> contrary to ~s, despite ~s </B><I>The American president, despite appearances, has only limited power. </I><B>| in ~ </B><I>rather bird-like in appearance </I> </P>
+<P> <SUP> 2 </SUP> <TT> arrival of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> dramatic, sudden, surprise, unexpected | brief </B> </P>
+<P> <U> VERB + APPEARANCE </U><B> make, put in </B><I>She made a sudden appearance just as we were about to leave. I feel I must put in at least a brief appearance at the party. </I> </P>
+<P> <SUP> 3 </SUP> <TT> act of appearing in public </TT> </P>
+<P> <U> ADJ. </U><B> first, second, etc. </B><I>her first appearance on the stage </I><B>| final, last | frequent, occasional, rare, regular | live, personal | public | cameo, guest | court, radio, stage, television/TV </B><I>one of the actor's rare television appearances </I> </P>
+<P> <U> VERB + APPEARANCE </U><B> make </B><I>She made a cameo appearance in the film. </I> </P>
+<P> <U> APPEARANCE + NOUN </U><B> money </B><I>(sport) </I> </P>
+</DIV>

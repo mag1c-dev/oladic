@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>acclaim </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great | general, public, universal, wide, widespread | popular | critical </B><I>Her latest novel has won great critical acclaim. </I><B>| international, national, worldwide </B> </P>
+<P> <U> VERB + ACCLAIM </U><B> earn (sb), gain (sb), meet with, receive, win </B><I>His discoveries earned him wide acclaim. </I> </P>
+<P> <U> PREP. </U><B> to &hellip; ~ </B><I>The play opened last week to universal acclaim. </I><B>| ~ for </B><I>She received international acclaim for her interpretation of Chopin. </I><B>| ~ from </B><I>acclaim from the critics </I> </P>
+</DIV><DIV class="item"><P class="word"><B>acclaim </B><I>verb </I> </P>
+<P> <U> PHRASES </U><B> be critically acclaimed, be highly/internationally/widely acclaimed </B><I>This book has been widely acclaimed as a modern classic. </I> </P>
+</DIV>

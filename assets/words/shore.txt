@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>shore </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> land along the edge of a sea/lake </TT> </P>
+<P> <U> ADJ. </U><B> golden, sandy </B><I>on the golden shores of beautiful Bali </I><B>| rocky, wooded | barren, bleak, desert, deserted, exposed, lonely, wilder </B><I>(figurative) a Belgian from the wilder shores of Flemish nationalism </I><B>| lee, sheltered | distant, far, farther, opposite, other </B><I>Meg was pointing towards the far shore. </I><B>| north/northern, etc. </B><I>The path ran along the southern shore of the lake. </I><B>| lake </B> </P>
+<P> <U> VERB + SHORE </U><B> approach, reach | leave | follow, hug </B><I>We sailed until midnight, hugging the shore. </I><B>| be found on, be washed up on </B><I>A dying dolphin was found washed up on the shore. </I> </P>
+<P> <U> SHORE + NOUN </U><B> bird | road | leave </B> </P>
+<P> <U> PREP. </U><B> along the ~ </B><I>walking along the wooded shores of the lake </I><B>| around the ~ of </B><I>The route goes around the shore of Derwent Water. </I><B>| by the ~ </B><I>strolling by the shore </I><B>| close to/near the ~ </B><I>The sea appears calm near the shore. </I><B>| from (a/the) ~ </B><I>just a few miles from shore watching from the shore </I><B>| on (a/the) ~ </B><I>The others were now safely on shore. There are a lot of rocks on that shore. </I><B>| on the ~s of </B><I>The hotel is situated on the sheltered shores of the Moray Firth. </I><B>| (down/back) to/towards the ~ </B><I>The hotel's gardens stretch down to the lake shore. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (</B><I>also </I><B>shores</B>) particular country </TT> </P>
+<P> <U> ADJ. </U><B> American, British, etc. </B><I>the ship in which Columbus first sailed to American shores </I><B>| foreign, native | our, these </B> </P>
+<P> <U> VERB + SHORE </U><B> arrive on, come to, reach, return to </B><I>He was glad to return to his native shores. </I><B>| leave | defend </B><I>We will fight to the death to defend our shores. </I> </P>
+<P> <U> PREP. </U><B> beyond/outside the ~ </B><I>The decisions will be taken beyond these shores. </I> </P>
+</DIV>

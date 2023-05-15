@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>craft </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> activity needing skill with your hands </TT> </P>
+<P> <U> ADJ. </U><B> skilled </B><I>Sheep shearing is a highly skilled craft. </I><B>| ancient, traditional | country, local, rural </B> </P>
+<P> <U> VERB + CRAFT </U><B> practise </B><I>The men practised various traditional crafts, such as carving toys out of bone. </I> </P>
+<P> <U> CRAFT + NOUN </U><B> activity, work | industry | worker | centre, exhibition, fair, shop, workshop | skill </B> </P>
+<P> <U> PHRASES </U><B> art and craft </B><I>Subjects taught include art and craft, drama, languages and maths. </I><B>| arts and crafts </B><I>The gallery has major exhibitions of arts and crafts. </I> </P>
+<P> <SUP> 2 </SUP> <TT> all the skills needed for an activity </TT> </P>
+<P> <U> VERB + CRAFT </U><B> learn, master, perfect </B><I>It took her years to perfect her craft. </I> </P>
+<P> <U> PHRASES </U><B> a master of your craft </B><I>a carpenter who is a real master of his craft </I> </P>
+<P> <SUP> 3 </SUP> <TT> boat </TT> </P>
+<P> <U> ADJ. </U><B> small | assault, fishing, landing, patrol, pleasure, river, sailing</B> </P>
+</DIV>

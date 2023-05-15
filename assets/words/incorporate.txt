@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>incorporate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully | largely | clearly | expressly </B><I>These conditions must be expressly incorporated into the contract of employment. </I><B>| properly | gradually | quickly | eventually, finally | easily, readily </B><I>These new features can easily be incorporated. </I><B>| neatly | effectively | satisfactorily, successfully | necessarily | forcibly </B><I>the countries which Stalin forcibly incorporated into the Soviet empire </I> </P>
+<P> <U> PREP. </U><B> as </B><I>In 1940 the area was incorporated as part of the city of London. </I><B>| in </B><I>The data is now incorporated in the total figures. </I><B>| into </B><I>We can incorporate this information into our report. </I><B>| within </B><I>Results are incorporated within personalized medical records. </I> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>satire </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> biting, brilliant | political, social </b></div><div class="excontent"><i>the recent boom in political satire </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> ~ on </b></div><div class="excontent"><i>The film is a brilliant satire on Hollywood. </i> </div></p>
+</div>

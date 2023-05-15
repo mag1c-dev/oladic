@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>bond </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling of friendship </TT> </P>
+<P> <U> ADJ. </U><B> close, strong | common | natural | emotional, spiritual </B><I>A strong spiritual bond exists between them. </I> </P>
+<P> <U> VERB + BOND </U><B> be linked by, feel, have </B><I>She felt a bond of affection for the other girls. </I><B>| create, develop, forge, form | strengthen | break, destroy </B> </P>
+<P> <U> BOND + VERB </U><B> exist | link sb </B><I>the bond that links us </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>trying to forge bonds between the different communities </I><B>| ~ of </B><I>bonds of friendship </I> </P>
+<P> <SUP> 2 </SUP> <TT> certificate for money you have lent </TT> </P>
+<P> <U> ADJ. </U><B> long-term | government, savings, treasury | junk </B><I>the high yield on junk bonds </I> </P>
+<P> <U> VERB + BOND </U><B> buy, invest in, purchase, put money into </B><I>I decided to invest in some government bonds. </I><B>| cash in, redeem </B><I>The bonds were redeemed in 2002. </I><B>| issue, sell </B> </P>
+<P> <U> BOND + NOUN </U><B> market</B> </P>
+</DIV>

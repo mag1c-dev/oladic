@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>relation </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> connection between two or more </B>things </B> </TT> </P>
+<P> <U> ADJ. </U><B> causal | direct </B><I>The energy an animal uses is in direct relation to speed and body mass. </I><B>| close </B><I>The study shows the close relation between poverty and ill health. </I><B>| significant </B> </P>
+<P> <U> VERB + RELATION </U><B> bear, have </B><I>The film bore no relation to </I>(= was very different from) </B><I>the book. The fee bears little relation to the service provided. </I><B>| show </B> </P>
+<P> <U> PREP. </U><B> in ~ to </B><I>Similar policies were pursued in the 1970s, particularly in relation to health services. </I><B>| ~ between, ~ to </B><I>the relation of the subject to the object </I> </P>
+<P> <SUP> 2 </SUP> <TT> member of sb's family </TT> </P>
+<P> <U> ADJ. </U><B> close, near | distant | blood | poor </B><I>(often figurative) Other sparkling wines are often considered the poor relations of champagne. </I> </P>
+<P> <U> VERB + RELATION </U><B> visit </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>What relation is Rita to you? </I> </P>
+<P> <U> PHRASES </U><B> friends and relations 3 relations </B>between people/groups/countries </B> </P>
+<P> <U> ADJ. </U><B> close, cordial, friendly, good, harmonious | improved | difficult, poor, strained | class, diplomatic, economic, foreign, gender, human, industrial, international, labour, personal, political, power, public, race, sexual, social, trade </B><I>The change of government led to improved industrial relations. a public relations exercise </I><B>| Anglo-American, East-West, etc. </B> </P>
+<P> <U> VERB + RELATION </U><B> cultivate, develop, establish, foster </B><I>the need to establish good relations with our European partners </I><B>| break off, damage, sever, suspend </B><I>Diplomatic relations have been broken off between the two countries. </I><B>| improve, strengthen </B><I>Renewed efforts are being made to improve the strained relations between the two countries. </I><B>| restore, resume | regulate </B><I>the mechanisms that regulate the relations between labour and capital </I> </P>
+<P> <U> RELATION + VERB </U><B> improve </B><I>Relations between the two states have improved. </I><B>| deteriorate, sour, worsen </B> </P>
+<P> <U> PREP. </U><B> ~ among, ~ between, ~ with </B> </P>
+<P> <U> PHRASES </U><B> an improvement in relations</B> </P>
+</DIV>

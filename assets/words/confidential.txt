@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>confidential </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | remain | keep sth, treat sth as </B><I>The affair must be kept confidential. Information about prices is to be treated as confidential. </I> </P>
+<P> <U> ADV. </U><B> extremely, highly | absolutely, completely, strictly, totally </B><I>The findings are strictly confidential. </I><B>| commercially </B><I>commercially confidential data </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>blitz </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden military attack, often by air </TT> </P>
+<P> <U> ADJ. </U><B> bombing | wartime </B> </P>
+<P> <U> VERB + BLITZ </U><B> carry out </B> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>Many people died in the London blitz. </I><B>| ~ on </B><I>Enemy bombers carried out a blitz on the city. </I> </P>
+<P> <SUP> 2 </SUP> <TT> campaign; sudden, great effort </TT> </P>
+<P> <U> ADJ. </U><B> marketing, media, sales </B> </P>
+<P> <U> VERB + BLITZ </U><B> have, launch, mount </B><I>We decided to have a blitz on the kitchen </I>(= to clean the kitchen thoroughly)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a blitz on illegal parking </I> </P>
+</DIV>

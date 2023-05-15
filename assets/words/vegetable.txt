@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>vegetable </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> green, leafy, root, salad </B><I>The children don't eat enough green vegetables. </I><B>| crisp </B><I>a salad of crisp, raw vegetables </I><B>| cooked, raw | fresh, frozen, tinned | organic | early, seasonal, spring, summer, winter | rotten </B> </P>
+<P> <U> VERB + VEGETABLE </U><B> grow </B><I>They grow all their own vegetables. </I><B>| eat, have | boil, cook, overcook, parboil, steam, stir-fry | chop, peel, puree </B> </P>
+<P> <U> VEGETABLE + NOUN </U><B> garden, patch, plot | market, stall | rack | crop | produce | dish, soup, stew, stock, terrine | fat, oil | protein | dye | fibre, matter </B>&gt; Special page at FOOD </B> </P>
+</DIV>

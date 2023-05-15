@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>itch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> irritating </B> </P>
+<P> <U> VERB + ITCH </U><B> relieve, scratch (at) </B><I>The dog was scratching at an itch behind its left ear. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>itch </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> positively </B> </P>
+<P> <U> VERB + ITCH </U><B> make sb </B><I>The heat made me itch all over. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>He was itching for a chance to show how good he was. </I><B>| with </B><I>Her fingers positively itched with the desire to slap his face. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>ventilation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> adequate, good </B><I>Inspectors checked that there was adequate ventilation. </I><B>| inadequate, poor | artificial, mechanical | natural | through </B><I>The windows at the back are blocked up, so there is no through ventilation. </I> </P>
+<P> <U> VERB + VENTILATION </U><B> give, provide </B><I>Zips up the sides of the jacket give good ventilation. </I> </P>
+<P> <U> VENTILATION + NOUN </U><B> system | brick, duct, grille, hole, opening, pipe, shaft, slit, tube</B> </P>
+</DIV>

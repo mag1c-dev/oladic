@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>still </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not moving </TT> </P>
+<P> <U> VERBS </U><B> be, hold, keep, lie, sit, stand, stay </B><I>Hold still a minute while I pin your dress up. For goodness' sake, sit still! </I><B>| hold sb/sth, keep sb/sth </B><I>I held the cat still while the vet gave the injection. </I> </P>
+<P> <U> ADV. </U><B> very | absolutely, quite, stock-</B><I>He stood stock-still, hardly daring to breathe. </I> </P>
+<P> <SUP> 2 </SUP> <TT> calm and quiet </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become, go </B><I>Suddenly everything went still. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> very | completely </B><I>It was a completely still, warm evening. </I><B>| strangely </B><I>The air was strangely still and silent. </I> </P>
+</DIV>

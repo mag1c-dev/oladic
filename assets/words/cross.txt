@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>cross </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound | become, get </B><I>I'm going to get very cross before long. </I><B>| make sb </B><I>It really makes me cross to see people dropping litter in the street. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | a bit, quite, rather, slightly </B> </P>
+<P> <U> PREP. </U><B> about </B><I>Are you still cross about me forgetting the flowers? </I><B>| at </B><I>She was very cross at the way she'd been treated. </I><B>| for, with </B><I>She was quite cross with him for being late. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>cross </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mark made by drawing one line across another </TT> </P>
+<P> <U> VERB + CROSS </U><B> draw, put </B><I>I've put a cross on the map to show where the hotel is. </I> </P>
+<P> <SUP> 2 </SUP> <TT> Christian symbol </TT> </P>
+<P> <U> ADJ. </U><B> gold, silver, stone, wooden </B><I>She wore a gold cross on a chain around her neck. The grave was marked with a stone cross. </I><B>| market, village, wayside </B> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>a painting of Jesus Christ on the cross </I> </P>
+<P> <U> PHRASES </U><B> (make) the sign of the cross </B><I>The priest blessed her, and made the sign of the cross over her. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in football or hockey </TT> </P>
+<P> <U> ADJ. </U><B> deep, low, perfect </B> </P>
+<P> <U> PREP. </U><B> ~ by/from </B><I>a deep cross from Beckham </I> </P>
+</DIV><DIV class="item"><P class="word"><B>cross section </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad, fair, good, large, representative, wide </B> </P>
+<P> <U> VERB + CROSS SECTION </U><B> be drawn from </B><I>The contestants are drawn from a cross section of society. </I><B>| represent </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>We interviewed a wide cross section of people. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>cross </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> quickly, slowly | safely, successfully </B><I>teaching children to cross the road safely </I><B>| back, over </B><I>Let's cross over now while the road is clear. </I> </P>
+<P> <U> VERB + CROSS </U><B> try to </B><I>They were arrested trying to cross the border. </I> </P>
+<P> <U> PREP. </U><B> from, into </B><I>They crossed from the States into Canada. </I><B>| over </B><I>We crossed over the river into Sweden. </I><B>| to </B><I>She crossed to the door. </I> </P>
+</DIV>

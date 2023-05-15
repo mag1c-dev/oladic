@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>breadth </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> distance between two sides of sth </TT> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The pool is 5 metres in breadth. </I> </P>
+<P> <U> PHRASES </U><B> the length and breadth of sth </B><I>He travels the length and breadth of </I>(= all over) </B><I>the country. </I> </P>
+<P> <SUP> 2 </SUP> <TT> great extent or variety </TT> </P>
+<P> <U> ADJ. </U><B> full, great, sheer </B> </P>
+<P> <U> PHRASES </U><B> breadth of experience </B><I>I need a greater breadth of experience. </I><B>| breadth of interest/knowledge/understanding, breadth of mind, breadth of vision</B> </P>
+</DIV>

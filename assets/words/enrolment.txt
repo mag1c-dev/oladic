@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>enrolment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | total </B><I>Total enrolment fell between 1991 and 1997. </I><B>| open </B>(= not restricted) <B>| school | candidate, student </B> </P>
+<P> <U> ENROLMENT + VERB </U><B> take place </B><I>Enrolment will take place in the main hall. </I><B>| be/go up, rise | be/go down, fall </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>You will be given a reading list at enrolment. </I><B>| on ~ </B><I>The full fee is payable on enrolment. </I><B>| ~ for </B><I>Enrolment for engineering courses is low this year. </I><B>| ~ in </B><I>enrolments in evening classes </I><B>| ~ on </B><I>enrolment on a computer course </I> </P>
+</DIV>

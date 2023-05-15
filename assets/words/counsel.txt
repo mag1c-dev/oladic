@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>counsel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> advice </TT> </P>
+<P> <U> ADJ. </U><B> good, wise </B> </P>
+<P> <U> VERB + COUNSEL </U><B> give (sb), offer (sb) | accept, follow, get, listen to, take </B><I>Listen to the counsel of your elders. </I> </P>
+<P> <U> COUNSEL + VERB </U><B> prevail </B><I>In the end, wiser counsels prevailed. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He is there to give you counsel on all matters. </I> </P>
+<P> <U> PHRASES </U><B> a counsel of despair </B>(= advice not to try to do sth because it is too difficult), <B>a counsel of perfection </B>(= advice that is good but difficult or impossible to follow)  </P>
+<P> <SUP> 2 </SUP> <TT> lawyer </TT> </P>
+<P> <U> ADJ. </U><B> legal </B><I>They were denied legal counsel or the right to call witnesses in their defence. </I><B>| chief, senior | junior | leading </B><I>The accused was represented by a leading counsel. </I><B>| Crown, prosecuting/prosecution </B><I>The witness was cross-examined by the prosecuting counsel. </I><B>| defence/defending | King's/Queen's </B> </P>
+<P> <U> VERB + COUNSEL </U><B> appoint | brief, instruct </B><I>My solicitor will brief the senior counsel. </I> </P>
+<P> <U> COUNSEL + VERB </U><B> represent sb | cross-examine sb, question sb | argue sth, claim sth, say sth, state sth, submit sth </B><I>His counsel argued that he had not intended to harm the women. </I> </P>
+<P> <U> PHRASES </U><B> counsel for the appellant/defendant/plaintiff/respondent, counsel for the defence/prosecution </B><I>to be questioned by the counsel for the prosecution </I> </P>
+</DIV>

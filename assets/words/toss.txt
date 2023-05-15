@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>toss </B><I>noun </I> </P>
+<P> <U> VERB + TOSS </U><B> lose, win </B><I>England won the toss and chose to kick off. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B> </P>
+<P> <U> PHRASES </U><B> (by/on) the toss of a coin </B><I>The order of play was decided by the toss of a coin. </I><B>| a toss of sb's/the head </B><I>&lsquo;Of course not, &rsquo; she said with a toss of her head. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>toss </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> throw sth carelessly </TT> </P>
+<P> <U> ADV. </U><B> carelessly, casually </B><I>She picked up the package and casually tossed it into her bag. </I><B>| aside, away, back, over </B><I>She tossed back her blonde hair. </I> </P>
+<P> <U> PREP. </U><B> into, out of, to </B><I>He tossed the letter over to me. </I> </P>
+<P> <SUP> 2 </SUP> <TT> keep moving up and down/from side to side </TT> </P>
+<P> <U> ADV. </U><B> restlessly </B><I>She tossed about restlessly all night with a high fever. </I><B>| about </B><I>He was tossed about in his boat. </I> </P>
+<P> <U> PHRASES </U><B> toss and turn </B><I>He tossed and turned all night, unable to sleep. </I> </P>
+<P> <SUP> 3 </SUP> <TT> cover food in a sauce </TT> </P>
+<P> <U> ADV. </U><B> gently, lightly | well | together </B> </P>
+<P> <U> PREP. </U><B> in </B><I>Toss the vegetables lightly in olive oil. </I> </P>
+</DIV>

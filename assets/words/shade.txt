@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>shade </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> area out of the sunlight </TT> </P>
+<P> <U> ADJ. </U><B> cool | deep | welcome | dappled | leafy </B><I>in the leafy shade of a fig tree </I> </P>
+<P> <U> QUANT. </U><B> patch </B><I>searching for a patch of shade to rest in </I> </P>
+<P> <U> VERB + SHADE </U><B> give (sb), offer (sb), provide (sb with) </B> </P>
+<P> <U> PREP. </U><B> in (the) ~ </B><I>a plant that grows well in shade sitting in the shade </I><B>| into the ~ </B><I>Let's move into the shade. </I><B>| under the ~ of </B><I>sitting under the shade of an umbrella </I><B>| ~ for </B><I>giving shade for cattle </I><B>| ~ from </B><I>The huge trees offered shade from the sun. </I> </P>
+<P> <U> PHRASES </U><B> light and shade </B> </P>
+<P> <SUP> 2 </SUP> <TT> type of colour </TT> </P>
+<P> <U> ADJ. </U><B> delicate, light, muted, pale, pastel, soft, subtle, translucent </B><I>The rooms were decorated in delicate pastel shades. </I><B>| dark, deep, rich, strong </B><I>His face turned an even deeper shade of red. </I><B>| bright, vivid | attractive, beautiful | startling, stunning </B><I>painted in startling shades of pink and orange </I><B>| autumnal, natural, neutral, warm </B><I>Towels in warm shades can soften the room. </I> </P>
+<P> <U> VERB + SHADE </U><B> be available in, come in </B><I>This wool is available in 18 stunning shades. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>The sea glistened in shades of blue and emerald. </I><B>| ~ for </B><I>our new range of shades for lips and eyes </I><B>| ~ of </B><I>He threw out his old suits, all in shades of grey and brown. </I> </P>
+<P> <SUP> 3 </SUP> <TT> small difference </TT> </P>
+<P> <U> ADJ. </U><B> political </B><I>reformers of all political shades </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a word with various shades of meaning </I> </P>
+<P> <U> PHRASES </U><B> shades of opinion</B> </P>
+</DIV><DIV class="item"><P class="word"><B>shade </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely | lightly, partially </B><I>This plant prefers a lightly shaded position. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>She shaded her eyes against the fierce sun. </I><B>| from </B><I>We were completely shaded from the sun by the poplar trees. </I><B>| with </B><I>a small town square shaded with trees </I> </P>
+</DIV>

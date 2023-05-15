@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>occurrence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> common, everyday, widespread | daily, frequent, regular | rare, uncommon | isolated | strange, unexpected, unusual </B> </P>
+<P> <U> VERB + OCCURRENCE </U><B> prevent | predict </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>These mild fits are quite a common occurrence in babies. </I> </P>
+<P> <U> PHRASES </U><B> frequency of occurrence </B><I>words with a high frequency of occurrence in language </I> </P>
+</DIV>

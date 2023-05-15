@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>boundary </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> line that marks the limits of a place </TT> </P>
+<P> <U> ADJ. </U><B> common | northern, southern, etc. | national, state | district, parish </B> </P>
+<P> <U> VERB + BOUNDARY </U><B> have | form, mark </B><I>The river forms the boundary. </I><B>| share | draw, establish, fix, set </B><I>The boundary was fixed just south of the farm. </I><B>| redraw | cross </B><I>We've just crossed the boundary into Sussex. </I><B>| extend </B> </P>
+<P> <U> BOUNDARY + NOUN </U><B> fence, hedge, line, wall | dispute </B><I>a boundary dispute with their neighbours </I> </P>
+<P> <U> PREP. </U><B> across/over the ~ </B><I>They drove across the boundary. </I><B>| along the ~ </B><I>We continued along the southern boundary of the county. </I><B>| at/on the ~ </B><I>We had to stop at the boundary. on the boundary of the two countries </I><B>| beyond the ~ </B><I>She had never strayed beyond the city boundaries. </I><B>| within the ~s </B><I>within the boundaries of the old city walls </I><B>| ~ between </B><I>the boundary between Sussex and Surrey </I><B>| ~ with </B><I>The state has a boundary with Ontario. </I> </P>
+<P> <SUP> 2 </SUP> <TT> limit </TT> </P>
+<P> <U> ADJ. </U><B> traditional </B> </P>
+<P> <U> VERB + BOUNDARY </U><B> cross </B><I>This job crosses the traditional boundary between social work and health care. </I><B>| extend, push back </B><I>research which extends the boundaries of human knowledge </I><B>| overstep </B> </P>
+<P> <U> PREP. </U><B> across ~s </B><I>His policies appeal across party political boundaries. </I><B>| beyond the ~s </B><I>going beyond the boundaries of accepted behaviour </I><B>| on the ~ </B><I>on the boundary of physics and chemistry </I><B>| within the ~s </B><I>keeping within the boundaries of the law </I><B>| ~ between </B><I>the boundary between sanity and insanity </I> </P>
+<P> <U> PHRASES </U><B> the boundaries of taste </B><I>In her performance she had clearly overstepped the boundaries of good taste. </I> </P>
+</DIV>

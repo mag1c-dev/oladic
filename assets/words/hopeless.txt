@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>hopeless </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> giving no hope </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem </B> </P>
+<P> <U> ADV. </U><B> completely, quite, utterly </B><I>The situation seemed completely hopeless. </I><B>| apparently, seemingly </B> </P>
+<P> <SUP> 2 </SUP> <TT> feeling no hope </TT> </P>
+<P> <U> VERBS </U><B> feel </B><I>She felt lonely and completely hopeless. </I> </P>
+<P> <U> ADV. </U><B> completely | rather </B> </P>
+<P> <SUP> 3 </SUP> <TT> very bad </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> absolutely | pretty </B><I>He's a pretty hopeless dancer. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>I'm absolutely hopeless at languages. </I><B>| with </B><I>I've always been hopeless with machinery. </I> </P>
+</DIV>

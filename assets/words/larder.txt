@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>larder </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full, well-stocked | bare, empty | walk-in </B> </P>
+<P> <U> VERB + LARDER </U><B> fill, stock | empty, raid </B><I>He comes home from school and raids the larder. </I> </P>
+<P> <U> LARDER + NOUN </U><B> door, shelf </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>There wasn't much food left in the larder. </I> </P>
+</DIV>

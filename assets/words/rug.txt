@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>rug </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> threadbare | bedside, fireside, hearth, picnic | oriental, Persian </B> </P>
+<P> <U> VERB + RUG </U><B> make, weave | scatter, spread </B><I>There were several brightly coloured rugs scattered around. </I> </P>
+<P> <U> RUG + VERB </U><B> cover sth </B><I>A Persian rug covered the polished floor. </I> </P>
+</DIV>

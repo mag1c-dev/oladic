@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>congress </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large formal meeting/series of meetings </TT> </P>
+<P> <U> ADJ. </U><B> international, national, world | annual | party | all-party | founding, inaugural | emergency | extraordinary | full </B> </P>
+<P> <U> VERB + CONGRESS </U><B> attend, go to </B><I>Three hundred delegates attended the Liberal party congress. </I><B>| address | convene, hold | organize, schedule | open </B><I>The general secretary opened the congress on global warming. </I><B>| close </B> </P>
+<P> <U> CONGRESS + VERB </U><B> take place | agree to sth, approve sth, adopt sth </B><I>The congress agreed to the tax-cutting package. </I><B>| call for sth | elect sb | vote </B> </P>
+<P> <U> CONGRESS + NOUN </U><B> delegate, leader | debate </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We met again at the annual congress. </I><B>| in ~ </B><I>It was a year before the association met again in congress. </I><B>| ~ on </B><I>a congress on language in education </I></P>
+<P> <SUP> 2 </SUP> <TT> Congress: group of people elected to make laws  </TT> </P>
+<P> <U> CONGRESS + VERB </U><B> approve sth </B><I>Congress approved most of the new powers. </I><B>| pass sth </B><I>Congress passed a series of important measures. </I><B>| vote </B><I>Congress voted to delay a decision. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The Liberals in Congress felt the reforms did not go far enough. </I> </P>
+<P> <U> PHRASES </U><B> a member of Congress, a session of Congress </B><I>legislation for the next session of Congress </I> </P>
+</DIV>

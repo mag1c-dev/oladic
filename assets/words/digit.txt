@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>digit </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> binary, decimal </B><I>the decimal digits 0 to 9 </I> </P>
+<P> <U> QUANT. </U><B> sequence, series, set, string </B><I>a sequence of binary digits </I> </P>
+<P> <U> PHRASES </U><B> three, four, etc. digits long </B><I>The number can be up to eight digits long. </I> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>standard </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, be fitted as, come as </B><I>Anti-lock brakes are fitted as standard. </I><B>| become </B> </P>
+<P> <U> ADV. </U><B> almost </B><I>The stations were built to a simple, almost standard design. </I><B>| fairly, pretty </B><I>a fairly standard method of assessing employees </I> </P>
+</DIV><DIV class="item"><P class="word"><B>standard </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> level of quality </TT> </P>
+<P> <U> ADJ. </U><B> high | low, poor | minimum | acceptable, adequate, decent, proper, reasonable </B><I>We must ensure proper standards of care for the elderly. </I><B>| improved, rising | clear | objective </B><I>Judged by any objective standards, the campaign was a disaster. </I><B>| official, required | conventional, usual | consistent, uniform, universal | exacting, rigorous, strict, stringent | professional </B><I>The work has been done to a professional standard. </I><B>| international, national | quality </B><I>We have to try and achieve the quality standards set by the project. </I><B>| qualifying </B><I>The Olympic qualifying standard has been set at 64.50m. </I><B>| living </B><I>The region enjoys the highest living standards in Europe. </I><B>| accounting, advertising, safety, trading, etc. | academic, educational, environmental, health, intellectual, technical, etc. </B> </P>
+<P> <U> VERB + STANDARD </U><B> have </B><I>The agency has very high standards. </I><B>| boast, enjoy | define, establish, set | achieve, meet, reach </B><I>The factory is struggling to meet national environmental standards. She has reached an acceptable standard of English. </I><B>| fall short of </B><I>The hotel service fell short of the usual standard. </I><B>| apply, enforce, provide </B><I>It's impossible to apply the same academic standards across the country. </I><B>| judge sb/sth by | improve, raise | lower | maintain, sustain </B> </P>
+<P> <U> PREP. </U><B> above/below (the) ~ </B><I>Your work is below standard. </I><B>| by &hellip; standards </B><I>By modern standards, he isn't a particularly fast runner. </I><B>| to a &hellip; ~ </B><I>The building work had not been completed to a satisfactory standard. </I><B>| up to ~ </B><I>We need to bring our computer system up to standard. </I><B>| ~ in </B><I>standards in safety </I> </P>
+<P> <U> PHRASES </U><B> by any standard </B><I>She's a great violinist by any standard. </I><B>| a drop/fall in the standard, an increase/a rise in the standard </B><I>There has been an increase in the standard of service provided. </I><B>| a standard of living </B><I>the fall in their standard of living caused by redundancy </I>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> (usually <B>standards</B>) acceptable level of behaviour </TT> </P>
+<P> <U> ADJ. </U><B> declining, falling </B><I>My grandparents are always complaining about falling moral standards. </I><B>| double </B><I>the double standard frequently encountered in nineteenth-century attitudes to sex </I><B>| ethical, moral </B> </P>
+<P> <U> VERB + STANDARD </U><B> prescribe | keep up, maintain | improve, raise </B> </P>
+<P> <U> STANDARD + VERB </U><B> drop, fall </B> </P>
+<P> <U> PHRASES </U><B> standards of behaviour/conduct</B> </P>
+</DIV>

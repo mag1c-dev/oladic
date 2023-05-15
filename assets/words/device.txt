@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>device </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clever, ingenious | labour-saving, useful | complex, sophisticated | simple | hi-tech | hand-held | automatic, electrical, electronic, mechanical | bugging, contraceptive, measuring, safety, timing, warning </B><I>Police found several bugging devices in the room. </I><B>| explosive, incendiary </B><I>An incendiary device exploded in the store, setting fire to furniture. </I> </P>
+<P> <U> VERB + DEVICE </U><B> be fitted with, have </B><I>All new cars are now fitted with these safety devices. </I><B>| design, develop, make | use </B><I>He measured the room using an ingenious new electronic device. </I> </P>
+<P> <U> DEVICE + VERB </U><B> consist of sth </B><I>The device consists of a large wheel mounted on a metal post. </I><B>| be designed to </B><I>a tiny device designed to trace telephone calls </I><B>| work </B><I>The device worked exactly as I'd hoped. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a useful device for checking electrical circuits </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>arrow </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> weapon </TT> </P>
+<P> <U> ADJ. </U><B> poison/poisoned </B> </P>
+<P> <U> QUANT. </U><B> hail, volley </B><I>A hail of arrows descended from the tower. </I> </P>
+<P> <U> VERB + ARROW </U><B> fire, shoot </B> </P>
+<P> <U> ARROW + VERB </U><B> hit sb/sth </B><I>The arrow hit its target. </I><B>| miss (sb/sth) </B><I>She aimed carefully at the tree but the arrow missed. </I> </P>
+<P> <U> ARROW + NOUN </U><B> head arrowhead | slit </B><I>the arrow slits in the castle's battlements </I> </P>
+<P> <U> PHRASES </U><B> a bow and arrow </B><I>The people used bows and arrows for hunting. </I> </P>
+<P> <SUP> 2 </SUP> <TT> symbol </TT> </P>
+<P> <U> ADJ. </U><B> left, right | down, up </B><I>The down arrow indicates rain. </I><B>| broken, curved </B><I>The old road is shown on the map by broken arrows. </I> </P>
+<P> <U> VERB + ARROW </U><B> follow </B><I>Follow the red arrows to get to the camp reception. </I> </P>
+<P> <U> ARROW + VERB </U><B> denote sth, indicate sth, mark sth, point, show sth </B><I>You will see an arrow pointing to the left. </I> </P>
+<P> <U> ARROW + NOUN </U><B> key </B><I>You can scroll through the text using the up and down arrow keys. </I> </P>
+</DIV>

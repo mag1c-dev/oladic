@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>coastline </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long | beautiful, spectacular | rocky, rugged | wild | unspoilt | indented </B> </P>
+<P> <U> QUANT. </U><B> stretch </B><I>long stretches of unspoilt coastline </I> </P>
+<P> <U> VERB + COASTLINE </U><B> follow </B><I>The road follows the Pacific coastline. </I><B>| erode </B> </P>
+<P> <U> COASTLINE + VERB </U><B> stretch </B><I>The coastline stretches for miles. </I> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>They sailed along the rugged coastline. </I><B>| around/round a/the ~ </B><I>sailing around the Atlantic coastline of France </I><B>| off a/the ~ </B><I>the search for oil off the Welsh coastline </I> </P>
+</DIV>

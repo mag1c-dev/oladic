@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>escape </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> getting away from a place </TT> </P>
+<P> <U> ADJ. </U><B> attempted | successful | great </B><I>one of the greatest escapes of all time </I> </P>
+<P> <U> VERB + ESCAPE </U><B> effect, make, make good </B><I>He made his escape through the window. I found an open door and made good my escape. </I><B>| plan | foil, prevent </B> </P>
+<P> <U> ESCAPE + NOUN </U><B> attempt, bid | route </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>his escape from the prison camp </I> </P>
+<P> <U> PHRASES </U><B> a means/way of escape </B><I>She looked round for a means of escape. </I><B>| a possibility of escape </B><I>There was clearly no possibility of escape. </I> </P>
+<P> <SUP> 2 </SUP> <TT> avoiding sth unpleasant or boring </TT> </P>
+<P> <U> ADJ. </U><B> close, narrow, near | lucky, miraculous, remarkable </B><I>A driver had a lucky escape after a brick was dropped on his car from an overhead bridge. </I> </P>
+<P> <U> VERB + ESCAPE </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>He had a narrow escape from gunfire. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>escape </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> narrowly </B><I>They narrowly escaped being killed in the fire. </I><B>| not entirely </B><I>The head of department cannot entirely escape responsibility for this situation. </I> </P>
+<P> <U> VERB + ESCAPE </U><B> cannot/could not | be impossible to | attempt to, try to | manage to | let sb </B><I>It was stupid of Lee to let them escape. </I><B>| help sb (to) </B> </P>
+<P> <U> PREP. </U><B> from </B><I>to escape from prison </I><B>| into </B><I>They escaped into the forest. </I><B>| to </B><I>The family escaped to England. </I><B>| with </B><I>Thieves escaped with property worth over </I>&pound;</B><I>5,000. </I> </P>
+<P> <U> PHRASES </U><B> escape alive </B><I>Only two of the men escaped alive. </I><B>| escape sb's clutches </B><I>He had managed to escape the clutches of the police yet again. </I><B>| escape unharmed/unhurt/uninjured/unscathed, escape with your life </B><I>She was very lucky to escape with her life. </I> </P>
+</DIV>

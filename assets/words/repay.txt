@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>repay </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> pay back money </TT> </P>
+<P> <U> ADV. </U><B> fully, in full </B><I>The loan must be repaid in full by December 31. </I> </P>
+<P> <U> VERB + REPAY </U><B> be able/unable to, can/could (afford to) | use sth to </B><I>The proceeds from the sale will be used to repay the loan. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>This money must be repaid to the bank. </I> </P>
+<P> <SUP> 2 </SUP> <TT> bring you sth in return for your efforts </TT> </P>
+<P> <U> ADV. </U><B> amply, more than, well </B><I>The charter can be seen in the town museum, which more than repays a visit. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>I felt that I had been amply repaid for my exertions. </I> </P>
+</DIV>

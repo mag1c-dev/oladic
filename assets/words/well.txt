@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>well </B><I>noun</I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> for water </TT> </P>
+<P> <U> ADJ. </U><B> deep, shallow | artesian | holy | wishing </B> </P>
+<P> <U> VERB + WELL </U><B> dig, sink </B> </P>
+<P> <U> WELL + VERB </U><B> run dry </B> </P>
+<P> <SUP> 2 </SUP> <TT> for oil </TT> </P>
+<P> <U> ADJ. </U><B> oil </B> </P>
+<P> <U> VERB + WELL </U><B> drill</B> </P>
+</DIV>

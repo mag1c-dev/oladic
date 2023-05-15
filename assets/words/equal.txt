@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>equal </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> same in size/quantity/value, etc. </TT> </P>
+<P> <U> VERBS </U><B> be | become | make sth </B><I>We moved some of the better players to make the two sides equal. </I> </P>
+<P> <U> ADV. </U><B> absolutely, exactly, in every way, precisely </B><I>Their test results were equal in every way. </I><B>| almost, nearly, virtually | about, approximately, more or less, roughly </B><I>The EU nations together have an economy about equal in size to that of the US. </I><B>| just | at least </B><I>Fitness is important in sport, but of at least equal importance are skills. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>The two books are more or less equal in length. </I><B>| to </B><I>Three feet is roughly equal to one metre. </I> </P>
+<P> <SUP> 2 </SUP> <TT> having the same rights </TT> </P>
+<P> <U> VERBS </U><B> be | be born </B><I>I believe everyone is born equal. </I> </P>
+<P> <U> ADV. </U><B> genuinely, truly 3 equal to sth </B>able to do sth </B> </P>
+<P> <U> VERBS </U><B> be, feel, prove, seem </B><I>I hope that he proves equal to the challenge. </I><B>| become | make sb </B><I>I felt that nothing could make me equal to the demands being made of me. </I> </P>
+<P> <U> ADV. </U><B> more than </B><I>I felt more than equal to the task. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>equal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> intellectual, social </B> </P>
+<P> <U> VERB + EQUAL </U><B> regard sb as, treat sb as </B><I>He did not regard himself as her intellectual equal. </I> </P>
+<P> <U> PREP. </U><B> as an ~ </B><I>He talks even to small children as equals. </I><B>| between ~s </B><I>An interview should be a conversation between equals. </I><B>| without ~ </B><I>His guitar playing is without equal. </I> </P>
+<P> <U> PHRASES </U><B> be sb's equal </B><I>I shall never be his equal at chess. </I><B>| first among equals </B><I>He was regarded as the &lsquo;first among equals&rsquo; by the other office clerks. </I><B>| have few equals </B><I>When it comes to plain speaking, she has few equals. </I><B>| have no equal </B><I>In fighting, they had no equals. </I> </P>
+</DIV>

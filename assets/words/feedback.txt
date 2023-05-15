@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>feedback </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> constructive, favourable, good, positive, useful, valuable | negative | appropriate, relevant | direct | immediate, instant </B><I>The writer gets no immediate feedback and simply has to imagine the reader's reaction. </I> </P>
+<P> <U> VERB + FEEDBACK </U><B> give sb, provide (sb with) | get, have, obtain, receive | collect </B> </P>
+<P> <U> PREP. </U><B> ~ about/on </B><I>They will be given feedback on their performance. </I><B>| ~ from </B><I>I've had a lot of very constructive feedback from the students about this. </I> </P>
+</DIV>

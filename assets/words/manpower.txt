@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>manpower </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> qualified, skilled, trained </B><I>a shortage of skilled manpower </I><B>| medical, military, police, etc. </B> </P>
+<P> <U> VERB + MANPOWER </U><B> need, require | provide | cut, reduce </B><I>Manpower will be reduced by an average of 20 per cent. </I><B>| increase </B> </P>
+<P> <U> MANPOWER + NOUN </U><B> shortage | allocations, levels, requirements, resources </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>a reduction in manpower </I><B>| ~ for </B><I>a pool of manpower for the new industries </I> </P>
+<P> <U> PHRASES </U><B> the availability of manpower </B><I>The factory's opening hours over the holiday period will depend on the availability of manpower. </I><B>| a reduction in manpower, a shortage of manpower</B> </P>
+</DIV>

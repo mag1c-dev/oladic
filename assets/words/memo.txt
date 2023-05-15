@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>memo </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> internal </B> </P>
+<P> <U> QUANT. </U><B> copy </B> </P>
+<P> <U> VERB + MEMO </U><B> draft, write | circulate, send (out) | receive | sign | leak </B> </P>
+<P> <U> MEMO + NOUN </U><B> pad </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ | ~ from, ~ of </B><I>my memo of 28 June, 2001 </I><B>| ~ on </B><I>A memo on the curriculum changes from the Head of Education. </I><B>| ~ to </B><I>She ciurculated a memo to the staff. </I> </P>
+</DIV>

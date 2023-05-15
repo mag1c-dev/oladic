@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>question mark </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, huge, serious </B> </P>
+<P> <U> VERB + QUESTION MARK </U><B> put </B><I>His arrival clearly puts a huge question mark against the future of the present team captain. </I> </P>
+<P> <U> QUESTION MARK + VERB </U><B> hang over sth, remain </B><I>A big question mark hangs over the wisdom of the move. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>A slight question mark against her character remains. </I><B>| ~ over </B><I>There is now a serious question mark over his leadership ability. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>question </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sentence, etc. that asks sth </TT> </P>
+<P> <U> ADJ. </U><B> pointed, probing, searching </B><I>He became embarrassed when a journalist asked him pointed questions about his finances. </I><B>| awkward, difficult, embarrassing, tricky | personal | academic, hypothetical, rhetorical | leading, loaded </B><I>The judge told him not to ask the witness leading questions. </I><B>| good, pertinent, relevant | simple | daft, inane, silly, stupid | direct, straight </B><I>I wanted to find out how old he was without asking him a direct question. </I><B>| exam, multiple choice, quiz, test </B> </P>
+<P> <U> VERB + QUESTION </U><B> ask (sb) | have </B><I>Have any of the audience got questions for our speaker? </I><B>| address, put </B><I>I'd like to put a question to the first speaker. </I><B>| bombard sb with, fire </B><I>The children bombarded us with questions. The interview panel fired questions at me from all angles. </I><B>| frame, phrase </B><I>I need to phrase my question rather carefully. </I><B>| face | answer, reply to, respond to | do (used only about written questions) </B><I>I couldn't do Question 6. </I><B>| field </B><I>The chairperson fielded technical questions that she could not answer herself. </I><B>| evade, parry </B><I>He skilfully parried all the interviewer's most probing questions. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>She refused to answer questions about her private life. </I><B>| ~ as to </B><I>Don't be afraid to ask questions as to why things are done in the way they are. </I><B>| ~ concerning/regarding/relating to </B><I>The former minister faced questions concerning his role in the affair. </I> </P>
+<P> <SUP> 2 </SUP> <TT> issue </TT> </P>
+<P> <U> ADJ. </U><B> burning, challenging, controversial, difficult, unanswerable, vexed </B><I>We come now to the vexed question of pension rights. </I><B>| crucial, fundamental, important, key | delicate, sensitive | economic, ethical, political, etc. </B> </P>
+<P> <U> VERB + QUESTION </U><B> bring up, pose, raise </B><I>The new play poses some challenging questions. </I><B>| consider, discuss, examine | address, deal with, face, tackle | answer, decide, find a solution to | come to </B> </P>
+<P> <U> QUESTION + VERB </U><B> arise | remain unanswered </B><I>Only one question remains unanswered. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>fundamental questions about the nature of our society </I><B>| ~ for </B><I>one of the crucial questions for the jury </I><B>| ~ of </B><I>questions of national security Now it's just a question of getting the wording of the statement right. </I> </P>
+<P> <SUP> 3 </SUP> <TT> doubt </TT> </P>
+<P> <U> VERB + QUESTION </U><B> come into | call into </B><I>It does call into question the decision to send troops into the area. </I><B>| be open to </B><I>The government's handling of the whole affair remains open to question. </I> </P>
+<P> <U> PREP. </U><B> beyond ~ </B><I>Her loyalty is beyond question. </I><B>| in ~ </B><I>His sincerity is not in question. </I><B>| without ~ </B><I>It was, without question, the worst day of my life. </I><B>| ~ about </B><I>There is no question about her enthusiasm for the job. </I><B>| ~ as to </B><I>I did have some questions as to his motive in coming. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>question </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> closely, further </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She was closely questioned about her whereabouts on the night of the murder. </I><B>| in connection with </B><I>A man is being questioned in connection with the robbery. </I><B>| on </B><I>He was questioned on his role in the affair. </I> </P>
+</DIV>

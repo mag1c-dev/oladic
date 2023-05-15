@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>poll </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> survey of opinion </TT> </P>
+<P> <U> ADJ. </U><B> local, national | opinion | political, popularity | exit </B><I>Exit polls suggest a big Labour majority, but the true picture will only be known after the count. </I><B>| straw </B><I>I took a straw poll among my colleagues to find out how many can use chopsticks. </I><B>| latest, recent </B> </P>
+<P> <U> VERB + POLL </U><B> carry out, conduct, take | lead (in) | publish </B> </P>
+<P> <U> POLL + VERB </U><B> indicate sth, reveal sth, show sth, suggest sth </B> </P>
+<P> <U> POLL + NOUN </U><B> rating, results </B> </P>
+<P> <U> PREP. </U><B> in the ~s </B><I>success in the polls </I> </P>
+<P> <U> PHRASES </U><B> be ahead/behind in the polls </B><I>With a week to go until polling day, the Conservatives are still behind in the polls. </I><B>| a lead in the polls </B><I>A tougher budget might have widened Labour's lead in the polls. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (usually <B>the polls</B>) voting in an election </TT> </P>
+<P> <U> ADJ. </U><B> presidential </B> </P>
+<P> <U> VERB + POLL </U><B> go to </B><I>The country goes to the polls on May 7th to elect local councillors. </I> </P>
+<P> <U> POLL + VERB </U><B> open | close </B><I>Counting will begin as soon as the polls close. </I> </P>
+<P> <U> PREP. </U><B> at the ~s </B><I>She was defeated at the polls. </I> </P>
+</DIV>

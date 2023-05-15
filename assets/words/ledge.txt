@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ledge </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high | narrow, wide | cliff, mountain, window </B> </P>
+<P> <U> VERB + LEDGE </U><B> cling to </B><I>The climbers were clinging to a ledge hundreds of feet above the sea. </I><B>| be perched on </B> </P>
+<P> <U> LEDGE + VERB </U><B> go, run </B><I>A narrow ledge runs across the northern face of the cliff. </I> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>I felt along the ledge at the top of the door. </I><B>| on a/the ~ </B><I>The phone was perched precariously on the window ledge. </I> </P>
+</DIV>

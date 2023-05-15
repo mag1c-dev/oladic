@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>spur </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on horse rider's boots </TT> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + SPUR </U><B> dig in/into, put/set to </B><I>He dug his spurs into the horse's flank and cantered off. </I> </P>
+<P> <SUP> 2 </SUP> <TT> encouragement </TT> </P>
+<P> <U> ADJ. </U><B> great, powerful, strong </B> </P>
+<P> <U> VERB + SPUR </U><B> act as, be | give (sb), provide (sb with) </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The research provided a spur for reform. </I><B>| ~ to </B><I>a spur to action </I> </P>
+</DIV>

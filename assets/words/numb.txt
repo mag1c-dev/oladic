@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>numb </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> unable to feel pain </TT> </P>
+<P> <U> VERBS </U><B> be, feel </B><I>Robin's hand felt numb with cold. </I><B>| become, go, turn </B><I>His fingers were beginning to turn numb. </I> </P>
+<P> <U> ADV. </U><B> completely | almost | slightly </B> </P>
+<P> <U> PREP. </U><B> from </B><I>My legs were numb from kneeling. </I> </P>
+<P> <U> PHRASES </U><B> numb with (the) cold </B><I>Their fingers were going numb with cold. </I> </P>
+<P> <SUP> 2 </SUP> <TT> unable to feel/think/react </TT> </P>
+<P> <U> VERBS </U><B> be, feel, sound </B><I>Her voice sounded numb. </I><B>| leave sb </B><I>The news left us numb and confused. </I> </P>
+<P> <U> ADV. </U><B> totally </B><I>Laura felt totally numb. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>He felt numb with weariness and grief. </I> </P>
+</DIV>

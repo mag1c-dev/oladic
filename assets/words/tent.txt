@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>tent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dome, ridge | lightweight | three-person, two-person, etc. | makeshift </B><I>The refugees had been living in makeshift tents for a year. </I><B>| leaking, leaky | circus | beer, dining, luncheon, hospitality, mess, refreshment, tea | cook, cookhouse, cooking </B><I>There was a long queue of troops outside the cookhouse tent. </I><B>| hospital | press | oxygen </B> </P>
+<P> <U> QUANT. </U><B> row </B> </P>
+<P> <U> VERB + TENT </U><B> erect, pitch, put up, set up </B><I>They pitched their tent in a little clearing in the wood. </I><B>| unzip, zip shut/up | dismantle, take down | pack away/up | share </B> </P>
+<P> <U> TENT + VERB </U><B> blow down, collapse </B> </P>
+<P> <U> TENT + NOUN </U><B> camp, city </B><I>a tent city housing refugees from the war </I><B>| door, flap, frame, opening, peg, pole, rope, wall </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B> </P>
+<P> <U> PHRASES </U><B> the door/flap/roof of a tent</B> </P>
+</DIV>

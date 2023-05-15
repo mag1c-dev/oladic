@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>dew </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy </B><I>There was a heavy dew this morning. </I><B>| morning </B><I>The sun had dried the early morning dew. </I> </P>
+<P> <U> QUANT. </U><B> drop </B><I>Drops of dew shone on the grass. </I> </P>
+<P> <U> DEW + VERB </U><B> fall, form </B> </P>
+<P> <U> DEW + NOUN </U><B> drop (also dewdrop) </B> </P>
+<P> <U> PHRASES </U><B> damp/heavy/wet with dew </B><I>The grass was still wet with dew. </I> </P>
+</DIV>

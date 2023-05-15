@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>remark </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, passing | occasional | casual, chance, off-the-cuff, throwaway | careless, tactless | barbed, cutting, derogatory, dismissive, disparaging, insulting, nasty, offensive, pointed, scathing, snide, uncomplimentary | complimentary, encouraging, kind | innocent | critical | cynical | controversial | provocative | famous | enigmatic | odd, strange | silly | funny, witty | racist, sexist | obscene, rude | defamatory | personal </B><I>How dare you make personal remarks! </I><B>| general | introductory, opening, preliminary | closing, concluding </B><I>I agreed with most of what he said at the beginning of the speech b </I> </P>
+<P> <U> VERB + REMARK </U><B> make, pass, utter | withdraw </B><I>He was expelled fro</I>m </B><I>the party for failing to withdraw hi</I>s </B><I>controversial remarks. </I><B>| address </B><I>Who were those rude remark</I>s </B><I>addressed to? </I><B>| ignore, take no notice of </B><I>I just ignored her las</I>t </B><I>remark</I>. </B> </P>
+<P> <U> REMARK + VERB </U><B> apply to sb/sth </B><I>These remarks apply equally t</I>o </B><I>doctors. </I><B>| be directed at/to sb </B><I>The remark was directed at him. </I>| <B>suggest sth </B><I>Her remarks sugges</I>t </B><I>that the negotiations may b</I>e </B><I>successful. </I><B>| provoke sth </B><I>Th</I>e </B><I>remark provoked an angr</I>y </B><I>response from the crowd</I>. </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He made a fe</I>w </B><I>factual errors in his remarks o</I>n </B><I>Rembrandt. </I><B>| ~ about/concerning/on </B><I>I shal</I>l </B><I>keep my remarks on the subjec</I>t </B><I>brief. </I><B>| ~ by/from </B><I>remarks b</I>y </B><I>officials </I><B>| ~ to </B><I>a casual remark t</I>o </B><I>his fathe</I>r </B> </P>
+</DIV><DIV class="item"><P class="word"><B>remark </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> casually, idly </B><I>She remarked casually that she was changing her job. </I><B>| pointedly | lightly, mildly | drily, wryly | ruefully | jokingly | cheerfully | coolly | acidly, tartly </B> </P>
+<P> <U> VERB + REMARK </U><B> be heard to </B> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>Several people remarked on her outfit. </I><B>| to </B><I>He remarked to Jane that he had not heard from Sally for a long time. </I> </P>
+</DIV>

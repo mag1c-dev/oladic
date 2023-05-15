@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>sour </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> having a sharp taste </TT> </P>
+<P> <U> VERBS </U><B> be, taste </B><I>The sauce tasted very sour. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | a bit, quite, rather, slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> not fresh </TT> </P>
+<P> <U> VERBS </U><B> be, smell, taste </B><I>The milk smelled sour. </I><B>| go, turn </B><I>By the next day the wine had turned sour. </I> </P>
+<P> <U> ADV. </U><B> very | a bit, rather, slightly </B> </P>
+<P> <SUP> 3 </SUP> <TT> bad-tempered </TT> </P>
+<P> <U> VERBS </U><B> be | go, grow, turn | a bit, a little, rather, slightly, somewhat </B><I>Their friendship has turned a little sour. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very</B> </P>
+</DIV>

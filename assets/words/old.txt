@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>old </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> age </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem </B><I>You are as old as you feel. </I> </P>
+<P> <U> ADV. </U><B> enough </B><I>He's old enough by now to manage his own affairs. </I> </P>
+<P> <U> PHRASES </U><B> six months, ten years, etc. old </B> </P>
+<P> <SUP> 2 </SUP> <TT> not young </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound </B><I>The way the young people rushed about made her feel old. He was beginning to look old. </I><B>| become, get, grow </B><I>We're all getting older. As they grow older, they develop new interests. </I> </P>
+<P> <U> ADV. </U><B> extremely, terribly, very | fairly, quite </B><I>She was quite old when she got married. </I> </P>
+<P> <SUP> 3 </SUP> <TT> not new </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> extremely, really, terribly, very </B><I>It's a very old tradition. </I><B>| fairly, quite </B> </P>
+<P> <U> PHRASES </U><B> oldest known </B><I>These are some of the oldest known fossil remains. </I><B>| oldest remaining </B><I>It's one of the oldest remaining parts of the church. </I><B>| oldest surviving </B><I>It's the world's oldest surviving ship. </I> </P>
+<P> <SUP> 4 </SUP> <TT> shows affection/lack of respect </TT> </P>
+<P> <U> PHRASES </U><B> boring/silly old </B><I>boring old history books She's a silly old cow! </I><B>| dear/good old </B><I>Good old Dad! </I><B>| funny old </B><I>It's a funny old world. </I><B>| poor old </B><I>You poor old thing! </I><B>| same old </B><I>always the same old faces </I> </P>
+</DIV><DIV class="item"><P class="word"><B>old age </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> advanced, extreme | good </B><I>He attained a good old age and died content. </I><B>| happy </B><I>She can look forward to a happy old age. </I><B>| lonely </B><I>fears about a lonely old age </I> </P>
+<P> <U> VERB + OLD AGE </U><B> attain, live to, reach, survive into </B><I>All my grandparents survived into advanced old age. </I><B>| approach | look forward to | dread </B> </P>
+<P> <U> OLD AGE + NOUN </U><B> pension, pensioner </B> </P>
+<P> <U> PREP. </U><B> in (your) ~ </B><I>Loss of hearing often occurs in old age. He took up golf in his old age. </I><B>| into ~ </B><I>She was now well into old age. </I> </P>
+<P> <U> PHRASES </U><B> the grand/ripe old age of sth </B><I>She lived to the ripe old age of 98. </I> </P>
+</DIV>

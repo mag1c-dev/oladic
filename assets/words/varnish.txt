@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>varnish </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear, colourless, transparent | gloss, glossy | matt </B>(see also <B>nail varnish) </B> </P>
+<P> <U> QUANT. </U><B> coat </B><I>The table needed two coats of varnish. </I> </P>
+<P> <U> VERB + VARNISH </U><B> apply </B><I>Apply the varnish evenly over the whole surface. </I><B>| remove, scrape off, strip off </B> </P>
+<P> <U> VARNISH + VERB </U><B> dry | protect sth </B><I>You need a good quality varnish to protect the timber. </I> </P>
+<P> <U> VARNISH + NOUN </U><B> remover</B> </P>
+</DIV>

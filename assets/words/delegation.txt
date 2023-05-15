@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>delegation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> people who represent a company, country, etc. </TT> </P>
+<P> <U> ADJ. </U><B> large, small | high-level, high-powered, high-ranking, important | international | all-party, joint </B><I>The prime minister met with an all-party delegation from the city council. </I><B>| government, military, official, parliamentary, trade union | business, peace, trade </B> </P>
+<P> <U> VERB + DELEGATION </U><B> send | head, lead </B><I>A well-known academic will head the delegation. </I><B>| form | invite </B><I>The government invited an international delegation to inspect the plant. </I><B>| meet </B> </P>
+<P> <U> DELEGATION + VERB </U><B> represent sth </B><I>a delegation representing the new regime </I><B>| include sth </B><I>The delegation included representatives from nine nations. </I><B>| visit sb/sth </B><I>The delegation will visit several Middle Eastern countries for talks </I><B>| meet sb | walk out </B><I>The British delegation walked out of the discussions in protest. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>all the ministers in the delegation </I><B>| ~ from </B><I>an official delegation from Austria </I><B>| ~ of </B><I>a high-powered delegation of Asian businessmen </I> </P>
+<P> <U> PHRASES </U><B> the chairman/head/leader of a delegation, a member of a delegation </B> </P>
+<P> <SUP> 2 </SUP> <TT> giving a job to sb with a lower rank </TT> </P>
+<P> <U> ADJ. </U><B> effective, successful </B><I>All managers should learn effective delegation. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Many of these tasks can be dealt with by delegation. </I><B>| ~ of </B><I>delegation of responsibility </I> </P>
+</DIV>

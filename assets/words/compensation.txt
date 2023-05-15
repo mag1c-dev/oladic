@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>compensation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | partial, small | adequate, appropriate, sufficient | financial, monetary </B> </P>
+<P> <U> QUANT. </U><B> amount </B> </P>
+<P> <U> VERB + COMPENSATION </U><B> award (sb), give (sb), grant (sb), offer (sb), pay (sb), provide (sb with) | accept, gain, get, obtain, receive </B><I>She got some compensation for damages. </I><B>| deny sb, refuse sb | claim, demand, fight for, seek | be eligible for, be entitled to </B> </P>
+<P> <U> COMPENSATION + VERB </U><B> be payable </B><I>If the government is proved negligent, compensation will be payable. </I> </P>
+<P> <U> COMPENSATION + NOUN </U><B> claim | fund | order | payment | scheme </B> </P>
+<P> <U> PREP. </U><B> as ~ (for) </B><I>She received </I>&pound;</B><I>7,000 as compensation for her injuries. </I><B>| in ~ (for) </B><I>They will have to pay </I>&pound;</B><I>5,000 in compensation. </I><B>| ~ for </B><I>The money was small compensation for unfair dismissal. </I><B>| ~ from </B><I>compensation from the government </I><B>| ~ to </B><I>compensation to Mrs Parker </I> </P>
+<P> <U> PHRASES </U><B> compensation in money</B> </P>
+</DIV>

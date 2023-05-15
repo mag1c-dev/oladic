@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>axis </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> horizontal, vertical | x, y, z </B> </P>
+<P> <U> PREP. </U><B> along an/the ~ </B><I>the wage is measured along the horizontal axis </I><B>| on an/the ~ </B><I>The earth spins on its axis. </I> </P>
+<P> <U> PHRASES </U><B> an axis of rotation </B><I>the earth's axis of rotation </I><B>| an axis of symmetry</B> </P>
+</DIV>

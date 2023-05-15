@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>pointer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> advice/indications </TT> </P>
+<P> <U> ADJ. </U><B> good, important | clear, obvious | practical, useful </B> </P>
+<P> <U> VERB + POINTER </U><B> give (sb), provide (sb with) </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The examiners comments include pointers for future study. </I><B>| ~ to </B><I>His symptoms gave no obvious pointer to a possible diagnosis. </I><B>| ~ towards </B><I>pointers towards a new political agenda </I> </P>
+<P> <U> PHRASES </U><B> a pointer to the future </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth used for pointing </TT> </P>
+<P> <U> ADJ. </U><B> mouse </B><I>Move the mouse pointer to the menu bar. </I><B>| light </B><I>A light pointer is often useful with a slide projector. </I> </P>
+</DIV>

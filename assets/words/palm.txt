@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>palm </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> flat part of the front of your hand </TT> </P>
+<P> <U> ADJ. </U><B> soft | horny | sweaty | open | outstretched </B> </P>
+<P> <U> VERB + PALM </U><B> hold up, raise </B><I>He held up a palm for silence. </I><B>| spread </B><I>He spread his palms in a gesture of openness. </I><B>| press </B><I>I pressed my palm to the wound to stop the bleeding. </I><B>| slap </B><I>She slapped her palm against the desk in anger. </I> </P>
+<P> <U> PALM + VERB </U><B> sweat | face </B><I>Hold out your arms with the palms facing downwards. </I> </P>
+<P> <U> PALM + NOUN </U><B> reading | print </B> </P>
+<P> <U> PREP. </U><B> against your ~s </B><I>The metal felt hot against my palms. </I><B>| between your ~s </B><I>He took her hand between his palms and squeezed it. </I><B>| in your ~ </B><I>He showed me the coins in his palm. </I> </P>
+<P> <U> PHRASES </U><B> palm/palms up/upwards </B><I>She held out her hand to me, palm up. </I> </P>
+<P> <SUP> 2 </SUP> <TT> tree </TT> </P>
+<P> <U> ADJ. </U><B> coconut, date, oil </B> </P>
+<P> <U> PALM + NOUN </U><B> tree | branch, frond, leaf | grove | oil</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>bruise </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> black, dark, livid, purple | swollen </B> </P>
+<P> <U> VERB + BRUISE </U><B> suffer </B><I>She suffered only minor cuts and bruises. </I> </P>
+<P> <U> BRUISE + VERB </U><B> form </B><I>A bruise had formed below his left eye. </I><B>| fade</B> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>outsider </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> not a member of a group </TT> </P>
+<P> <U> ADJ. </U><B> complete | political, social </B> </P>
+<P> <U> VERB + OUTSIDER </U><B> feel </B><I>I felt a complete outsider. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>an outsider to the group </I> </P>
+<P> <SUP> 2 </SUP> <TT> competitor who will probably not win </TT> </P>
+<P> <U> ADJ. </U><B> complete, rank </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>The firm has gone from being an outsider in the market to being a market leader. </I> </P>
+</DIV>

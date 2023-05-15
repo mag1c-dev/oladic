@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>raft </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> life </B> </P>
+<P> <U> VERB + RAFT </U><B> build, make </B><I>They built a raft of logs. </I> </P>
+<P> <U> RAFT + VERB </U><B> bob, float, sail </B><I>The raft floated away down the river. </I><B>| capsize, overturn </B> </P>
+<P> <U> RAFT + NOUN </U><B> race, racing </B> </P>
+<P> <U> PREP. </U><B> on/onto a/the ~ </B><I>floating on a raft </I> </P>
+</DIV>

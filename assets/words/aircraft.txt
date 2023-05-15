@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>aircraft </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fixed-wing, jet, light, low-flying, microlight, supersonic </B><I>attacks by helicopters and fixed-wing aircraft </I><B>| cargo, civil/civilian, commercial, passenger, private | combat, fighter, military, reconnaissance, surveillance, transport | enemy | burning, crashed, damaged, stricken | model </B><I>His passion is making model aircraft. </I> </P>
+<P> <U> VERB + AIRCRAFT </U><B> fly, pilot </B><I>The aircraft was flown by a young American pilot. </I><B>| land | crash </B><I>The pilot overshot the runway and crashed his aircraft. </I><B>| shoot down </B><I>To be an ace you had to shoot down five enemy aircraft. </I> </P>
+<P> <U> AIRCRAFT + VERB </U><B> fly | take off </B><I>The aircraft is due to take off at midnight. </I><B>| land | taxi </B><I>The aircraft taxied along the runway. </I><B>| crash | carry sth | attack sth, bomb sth </B> </P>
+<P> <U> AIRCRAFT + NOUN </U><B> industry | production | manufacturer | engine, parts | engineer | hangar | noise </B><I>He claimed that aircraft noise was the worst form of air pollution in London. </I><B>| wreckage</B> </P>
+</DIV>

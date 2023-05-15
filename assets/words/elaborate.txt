@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>elaborate </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem, sound </B><I>The plans looked very elaborate. </I><B>| become </B> </P>
+<P> <U> ADV. </U><B> exceptionally, extremely, highly, very </B><I>highly elaborate carvings </I><B>| increasingly | fairly, quite, rather</B> </P>
+</DIV><DIV class="item"><P class="word"><B>elaborate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> further </B><I>This point will be elaborated further in the next chapter. </I><B>| at length </B> </P>
+<P> <U> VERB + ELABORATE </U><B> attempt to, try to | refuse to </B> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>They refused to elaborate on the reasons for their decision. </I> </P>
+</DIV>

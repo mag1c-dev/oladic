@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>scent </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> pleasant smell </TT> </P>
+<P> <U> ADJ. </U><B> heady, heavy, pungent, rich, sharp, strong </B><I>the heavy scent of Indian cooking </I><B>| delicate, faint | sweet | beautiful, lovely | fresh </B><I>the fresh scent of flowers </I><B>| warm | musky | exotic </B> </P>
+<P> <U> VERB + SCENT </U><B> have </B><I>This flower has no scent. </I><B>| be filled with </B><I>The air was filled with the scent of lilac. </I><B>| give off, release </B><I>The flowers give off a heady scent at night. </I><B>| smell </B> </P>
+<P> <U> SCENT + VERB </U><B> come, drift </B><I>From the vine outside came the scent of honey. </I><B>| fill sth </B><I>The scent of pine filled the room. </I><B>| linger </B><I>The scent of incense lingered in the air. </I> </P>
+<P> <SUP> 2 </SUP> <TT> smell that an animal/a person leaves behind </TT> </P>
+<P> <U> ADJ. </U><B> body, human, masculine, personal, sexual </B> </P>
+<P> <U> VERB + SCENT </U><B> be on, have </B><I>The dog was on the scent of a rabbit. The hounds have the scent. </I><B>| leave </B><I>The cat had left its scent on the sofa. </I><B>| catch, pick up </B><I>One of the hounds had picked up the scent of a fox. </I><B>| lose | follow </B> </P>
+<P> <U> SCENT + NOUN </U><B> gland | trail </B> </P>
+<P> <SUP> 3 </SUP> <TT> liquid with a sweet smell that you put on your body </TT> </P>
+<P> <U> ADJ. </U><B> expensive | cheap </B> </P>
+<P> <U> QUANT. </U><B> bottle </B> </P>
+<P> <U> VERB + SCENT </U><B> use, wear | dab on, put on, spray on </B><I>She dabbed some scent on her wrists. </I><B>| smell | reek of, smell of </B><I>She reeked of cheap scent. </I> </P>
+<P> <U> SCENT + NOUN </U><B> bottle</B> </P>
+</DIV>

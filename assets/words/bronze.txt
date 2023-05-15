@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>bronze </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> metal </TT> </P>
+<P> <U> VERB + BRONZE </U><B> be cast in, be made from/in/(out) of </B><I>The figure was cast in bronze. </I> </P>
+<P> <U> BRONZE + NOUN </U><B> ingot </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She works mainly in bronze. </I>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> (</B><I>also </I><B>bronze medal</B>) in sports </TT> </P>
+<P> <U> ADJ. </U><B> Olympic </B> </P>
+<P> <U> VERB + BRONZE </U><B> get, take, win </B><I>She got a bronze in the long jump. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>stalemate </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> political </B> </P>
+<P> <U> VERB + STALEMATE </U><B> end in, reach, result in </B><I>The talks reached (a) stalemate. </I><B>| break </B><I>Efforts to break the stalemate in the peace talks continue. </I><B>| be locked in </B><I>Discussions are locked in stalemate. </I> </P>
+<P> <U> STALEMATE + VERB </U><B> continue </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>a stalemate between management and unions </I><B>| ~ in </B><I>The stalemate in the trade talks continues. </I><B>| ~ on/over </B><I>a stalemate over economic union </I> </P>
+</DIV>

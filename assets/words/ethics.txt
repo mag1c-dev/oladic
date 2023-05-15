@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>ethics </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> personal </B><I>She resigned over an issue of personal ethics. </I><B>| Christian | business, medical, professional </B><I>The study was approved by the medical ethics committee. </I> </P>
+<P> <U> PHRASES </U><B> a code of ethics </B><I>There should be a code of business ethics which indicates how clients are to be served. </I><B>| a matter/question of ethics. </B><I>It's the committee's job to decide on matters of ethics. </I> </P>
+</DIV>

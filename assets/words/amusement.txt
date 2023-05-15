@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>amusement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling of wanting to laugh </TT> </P>
+<P> <U> ADJ. </U><B> great, much | faint, mild | quiet | ironic, sardonic, wry | genuine, real </B> </P>
+<P> <U> QUANT. </U><B> gleam, glimmer | hint, note, trace </B><I>There was a note of amusement in her voice. </I> </P>
+<P> <U> VERB + AMUSEMENT </U><B> afford sb, cause, provide </B><I>I am happy to have afforded you amusement. </I><B>| derive, find, get </B><I>He seemed to be deriving amusement from her discomfort. </I><B>| show | conceal, hide </B> </P>
+<P> <U> AMUSEMENT + VERB </U><B> show </B><I>A glimmer of amusement showed in her eyes. </I> </P>
+<P> <U> PREP. </U><B> for (sb's) ~ </B><I>What do you do for amusement round here? The play was written for the amusement of the other students. </I><B>| in ~ </B><I>Her wide mouth twitched in amusement. </I><B>| to sb's ~ </B><I>Much to their amusement, I couldn't get the door open. </I><B>| with ~ </B><I>She chuckled with amusement. </I> </P>
+<P> <U> PHRASES </U><B> a source of amusement </B><I>His son was a constant source of amusement to him. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that makes time pass pleasantly </TT> </P>
+<P> <U> ADJ. </U><B> popular </B><I>She disapproved of popular amusements such as fairs. </I> </P>
+<P> <U> AMUSEMENT + NOUN </U><B> arcade, park | machine</B> </P>
+</DIV>

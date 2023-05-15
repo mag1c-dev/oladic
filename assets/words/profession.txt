@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>profession </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chosen | legal, medical, teaching, etc. </B> </P>
+<P> <U> VERB + PROFESSION </U><B> practise </B><I>In the 1930s he was forbidden to practise his profession. </I><B>| enter, go into, join </B><I>She entered the legal profession after university. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>He was a consultant physician by profession. </I><B>| in a/sb's/the ~ </B><I>making an impact in her chosen profession </I> </P>
+<P> <U> PHRASES </U><B> a choice of profession </B><I>She was shocked at her daughter's choice of profession. </I><B>| the top of sb's profession </B><I>He reached the top of his profession in very little time. </I> </P>
+</DIV>

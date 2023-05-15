@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>gut </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> tube in the lower part of the body </TT> </P>
+<P> <U> ADJ. </U><B> healthy </B> </P>
+<P> <U> VERB + GUT </U><B> pass through </B> </P>
+<P> <U> GUT + NOUN </U><B> flora, wall </B> </P>
+<P> <U> PREP. </U><B> in the/your ~ 2 guts </B>organs inside the body </B> </P>
+<P> <U> PHRASES </U><B> blood and guts </B><I>(figurative) I don't like films that are full of blood and guts. </I><B>| a pain in your guts </B><I>I had a terrible pain in my guts after eating too many plums. </I></P>
+<P> <SUP> 3 </SUP> <TT> guts: courage/determination  </TT> </P>
+<P> <U> VERB + GUT </U><B> have </B><I>She had the guts to stand up to the school bully. </I><B>| take </B><I>It takes guts to keep on running even though you have blistered feet. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>gut </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely </B><I>The hotel was completely gutted by fire last year. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>border </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> line that divides two countries </TT> </P>
+<P> <U> ADJ. </U><B> open | closed | common </B><I>Poland has a common border with Germany. </I><B>| disputed </B> </P>
+<P> <U> VERB + BORDER </U><B> arrive at, reach, stop at | cross, drive across/over, slip across/over </B><I>They slipped across the border at nightfall. </I><B>| escape across/over, flee across/over | form, mark </B><I>A river forms the border. </I><B>| draw (up), establish, fix | guard, patrol | open | close, seal </B> </P>
+<P> <U> BORDER + NOUN </U><B> crossing, post | region, town | control, guard, troops | clash, dispute, war | raid | clash, incident, skirmish </B> </P>
+<P> <U> PREP. </U><B> across/over a/the ~ </B><I>to smuggle goods across the border </I><B>| along a/the ~ </B><I>There has been fighting along the border. </I><B>| at/on a/the ~ </B><I>We were stopped on the border. </I><B>| on the ~ of </B><I>a farm on the border of Oxfordshire and Buckinghamshire </I><B>| up to the ~ </B><I>He drove us right up to the Russian border. </I><B>| ~ between/of </B><I>the border between Austria and Switzerland </I><B>| ~ with </B><I>the border with Mexico </I> </P>
+<P> <U> PHRASES </U><B> north/south of the border, one side/both sides of the border </B><I>There has been fighting on both sides of the border. </I> </P>
+<P> <SUP> 2 </SUP> <TT> decorative band/strip round the edge of sth </TT> </P>
+<P> <U> ADJ. </U><B> wide | narrow | decorative </B> </P>
+<P> <U> VERB + BORDER </U><B> have </B><I>The tablecloth has a narrow lace border. </I><B>| draw </B> </P>
+<P> <U> PREP. </U><B> with a/the ~ </B><I>a white handkerchief with a blue border </I><B>| ~ around/round </B><I>She drew a decorative border around the picture. </I> </P>
+</DIV>

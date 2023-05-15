@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>kite </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> stunt </B><I>John wants to fly his new stunt kite. </I> </P>
+<P> <U> VERB + KITE </U><B> fly </B> </P>
+<P> <U> KITE + NOUN </U><B> flying </B><I>the joys of kite flying </I> </P>
+</DIV>

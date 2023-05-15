@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>dominance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear, complete, overwhelming, total | growing, increasing | cultural, economic, military, political, territorial | market | male </B> </P>
+<P> <U> VERB + DOMINANCE </U><B> achieve, assert, assume, establish, exert, gain </B><I>The firm soon achieved complete dominance in the marketplace. </I><B>| have, maintain, retain </B><I>The firm is determined to maintain dominance in the market. </I><B>| challenge, undermine </B><I>Ex-colonial countries began to challenge the cultural dominance of Europe. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>black American dominance in heavyweight boxing </I><B>| ~ over </B><I>He asserted his dominance over the other party members. </I> </P>
+</DIV>

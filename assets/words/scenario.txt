@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>scenario </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> future, likely, possible </B><I>The more likely scenario is that the president will resign and an election will be held. </I><B>| unlikely | optimistic | doomsday, nightmare, pessimistic, worst, worst-case | dramatic | alternative </B> </P>
+<P> <U> VERB + SCENARIO </U><B> consider, construct, imagine | describe, paint </B><I>the scenario painted by some sections of the Western press </I><B>| enact, play out </B><I>He enjoyed playing out the various scenarios in his own mind. </I> </P>
+<P> <U> SCENARIO + VERB </U><B> unfold </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In a worst-case scenario, the disease will reach epidemic proportions. </I><B>| under a/the ~ </B><I>Under any of these scenarios, the company will run into debt. </I> </P>
+</DIV>

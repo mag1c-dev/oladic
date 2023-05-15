@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>feature </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> important part of sth </TT> </P>
+<P> <U> ADJ. </U><B> basic, central, essential, important, key, main, major, significant | conspicuous, distinctive, distinguishing, dominant, notable, noteworthy, noticeable, predominant, prominent </B><I>a distinctive feature of his poems </I><B>| outstanding, remarkable, striking | attractive, endearing, eye-catching | interesting, special, unusual | salient </B><I>He took me around our new offices, pointing out all the salient features. </I><B>| useful | characteristic, typical | unique | common </B><I>the common feature in all these cases </I><B>| permanent, regular </B><I>These walks became a regular feature of his day. </I><B>| recurring </B><I>Self-deprecation is a recurring feature as Stevenson talks. </I><B>| redeeming </B><I>The one redeeming feature of the scheme was its low cost to the council. </I><B>| original </B><I>The house retains most of its original features. </I><B>| built-in | additional | constructional, design, physical, structural | energy-saving, safety </B><I>a car with new built-in safety features </I> </P>
+<P> <U> VERB + FEATURE </U><B> have </B><I>The site had a number of interesting features. </I><B>| retain | point out </B> </P>
+<P> <U> FEATURE + VERB </U><B> distinguish sth </B><I>the essential feature that distinguishes anorexia nervosa from other eating disorders </I><B>| characterize sth </B><I>A feature that characterizes all anteaters is an extremely slow metabolic rate. </I><B>| include sth </B><I>Special features include passenger airbags and an electric sunroof. </I> </P>
+<P> <SUP> 2 </SUP> <TT> features: sb's face  </TT> </P>
+<P> <U> ADJ. </U><B> handsome | delicate, fine | rugged </B><I>admiring his rugged features </I><B>| chiselled </B><I>a slim figure with strongly chiselled features </I><B>| aquiline, hawk-like | facial </B> </P>
+<P> <U> VERB + FEATURE </U><B> have </B><I>She's got very delicate features. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>a young woman with fine features </I> </P>
+<P> <SUP> 3 </SUP> <TT> newspaper article/television item </TT> </P>
+<P> <U> ADJ. </U><B> big, major, special | regular </B><I>The magazine runs a regular feature on ethnic cooking. </I><B>| in-depth </B> </P>
+<P> <U> VERB + FEATURE </U><B> do, have, publish, run </B><I>Next month they will publish a special feature on computer books. </I> </P>
+<P> <U> FEATURE + NOUN </U><B> writer </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>an in-depth feature on the Italian fashion scene </I> </P>
+</DIV><DIV class="item"><P class="word"><B>feature </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> include sth as an important part </TT> </P>
+<P> <U> ADV. </U><B> regularly </B><I>Women's magazines regularly feature diets and exercise regimes. </I><B>| rarely </B> </P>
+<P> <U> PHRASES </U><B> be featured in/on sth </B><I>His work is featured in a special documentary tonight. The school has been featured on television. </I> </P>
+<P> <SUP> 2 </SUP> <TT> have a part in sth </TT> </P>
+<P> <U> ADV. </U><B> heavily, highly, largely, prominently, significantly, strongly </B><I>Reading over his past speeches, you'll see that housing, public health and education feature strongly. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>Garlic features prominently in her recipes. </I> </P>
+</DIV>

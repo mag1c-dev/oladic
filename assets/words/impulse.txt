@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>impulse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden strong wish </TT> </P>
+<P> <U> ADJ. </U><B> strong | irresistible | first, original </B><I>My first impulse was to run away. </I><B>| sudden | basic | instinctual, natural | repressed | conflicting, contradictory, contrary | aggressive, violent | creative | sexual </B> </P>
+<P> <U> VERB + IMPULSE </U><B> feel, have </B><I>She felt a sudden impulse to look to her left. </I><B>| be subject to </B><I>We are all subject to aggressive impulses. </I><B>| be driven by | check, control, deny, fight (back/down), resist, restrain, stifle, suppress </B><I>He fought down an impulse to scream. </I><B>| give in to, obey, yield to </B><I>She gave in to an impulse and took the money. </I><B>| act on </B><I>Acting on impulse, he picked up the keys and slipped them into his pocket. </I><B>| buy sth on </B><I>Some people will buy a puppy on impulse without any idea of what is involved. </I> </P>
+<P> <U> IMPULSE + VERB </U><B> arise </B><I>Impulses that are repeatedly denied can arise in other forms. </I> </P>
+<P> <U> IMPULSE + NOUN </U><B> buy, purchase </B><I>The little black designer dress had been an impulse buy. </I><B>| buying | buyer </B> </P>
+<P> <U> PREP. </U><B> on (an) ~ </B><I>On an impulse, I went into the shop and bought a box of chocolates. </I><B>| ~ towards </B><I>basic impulses towards things such as food and drink </I> </P>
+<P> <SUP> 2 </SUP> <TT> movement of energy </TT> </P>
+<P> <U> ADJ. </U><B> electrical, nerve/nervous </B> </P>
+<P> <U> VERB + IMPULSE </U><B> transmit </B><I>Nerve impulses are transmitted to the brain. </I><B>| convert sth into, transform sth into </B><I>Radio waves are converted into electrical impulses. </I> </P>
+<P> <SUP> 3 </SUP> <TT> sth that causes sb/sth to do sth </TT> </P>
+<P> <U> ADJ. </U><B> positive | political, social </B> </P>
+<P> <U> IMPULSE + VERB </U><B> lead (sb/sth) to sth, prompt (sb/sth to sth) </B><I>the impulse that prompted economic change </I> </P>
+<P> <U> PREP. </U><B> ~ behind </B><I>the impulse behind a concept </I><B>| ~ for </B><I>the impulse for social reform </I><B>| ~ toward </B><I>the political impulses towards joining a trade union </I> </P>
+</DIV>

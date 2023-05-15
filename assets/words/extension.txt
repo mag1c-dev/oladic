@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>extension </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part added to a building </TT> </P>
+<P> <U> ADJ. </U><B> planned, proposed | home, kitchen | one-storey, two-storey, etc. </B> </P>
+<P> <U> VERB + EXTENSION </U><B> add, build </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>They're building an extension to their house. </I> </P>
+<P> <SUP> 2 </SUP> <TT> extra time </TT> </P>
+<P> <U> ADJ. </U><B> one-week, two-year, etc. </B> </P>
+<P> <U> VERB + EXTENSION </U><B> apply for, ask for, request </B><I>He's applied for an extension of his visa. </I><B>| get, receive </B><I>She got an extension for writing her essay. </I><B>| give sb, grant sb </B> </P>
+<P> <SUP> 3 </SUP> <TT> making sth larger/taking sth further </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, major, massive, significant | modest | further </B><I>This new job is a further extension of his role as a manager. </I><B>| general | gradual </B><I>a gradual extension of the powers of central government </I><B>| hair </B><I>Hair extensions are pieces of artificial hair that are added to your hair to make it longer. </I> </P>
+<P> <SUP> 4 </SUP> <TT> taking an argument/a situation further </TT> </P>
+<P> <U> ADJ. </U><B> logical, natural, obvious </B><I>The team appraisal is a logical extension of the individual appraisal interview. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The blame lies with the teachers and, by extension, with the Education Service. </I> </P>
+</DIV>

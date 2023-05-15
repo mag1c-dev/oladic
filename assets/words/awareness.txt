@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>awareness </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | greater, heightened, increased | dawning, growing, increasing </B><I>a growing awareness of healthy living </I><B>| acute, deep, intense, keen, strong | conscious, direct | intuitive | sudden | general, public | cultural, environmental, moral, political, religious, sexual, social, spatial, spiritual </B> </P>
+<P> <U> VERB + AWARENESS </U><B> have </B><I>Politicians now have much greater awareness of these problems. </I><B>| build, develop, encourage, foster, heighten, increase, raise </B><I>The group is trying to raise public awareness about homelessness. </I> </P>
+<P> <U> AWARENESS + VERB </U><B> increase, spread </B><I>Environmental awareness has increased over the years. </I> </P>
+<P> <U> PREP. </U><B> ~ among/amongst </B><I>building awareness among the target audience </I><B>| ~ of </B><I>an increased awareness of the risks </I> </P>
+<P> <U> PHRASES </U><B> a lack of awareness</B> </P>
+</DIV>

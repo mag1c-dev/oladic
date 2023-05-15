@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fox </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> urban | rural </B> </P>
+<P> <U> VERB + FOX </U><B> hunt </B> </P>
+<P> <U> FOX + VERB </U><B> bark </B><I>I heard a fox bark in the dark. </I> </P>
+<P> <U> FOX + NOUN </U><B> cub | hunt, hunting</B> </P>
+</DIV>

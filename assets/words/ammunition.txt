@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ammunition </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> live | blank </B> </P>
+<P> <U> QUANT. </U><B> round </B> </P>
+<P> <U> VERB + AMMUNITION </U><B> carry, have | issue </B><I>They issued live ammunition to the troops. </I><B>| fire, use | run out of </B><I>A few of the jeeps had run out of ammunition. </I> </P>
+<P> <U> AMMUNITION + NOUN </U><B> dump, store</B> </P>
+</DIV>

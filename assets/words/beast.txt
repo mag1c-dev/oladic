@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>beast </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> animal </TT> </P>
+<P> <U> ADJ. </U><B> ferocious, savage, snarling, wild </B><I>Savage beasts once roamed these forests. </I><B>| exotic, fabled, fantastic, legendary, mythical, rare, strange </B><I>paintings of mythical beasts </I><B>| great, huge, magnificent, mighty </B> </P>
+<P> <U> PHRASES </U><B> a beast of burden, a beast of prey </B> </P>
+<P> <SUP> 2 </SUP> <TT> unpleasant/cruel person </TT> </P>
+<P> <U> ADJ. </U><B> filthy </B><I>You filthy beast! </I><B>| sex </B><I>Local people live in fear of this unknown sex beast. </I> </P>
+<P> <U> PHRASES </U><B> the beast in sb </B>(= the violent or sexual part of sb's character) <I>The beast in her wanted to destroy his house. </I><B>| bring out the beast in sb </B><I>Somehow she brought out the beast in him. </I> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>close </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> near </TT> </P>
+<P> <U> VERBS </U><B> be | draw, get </B><I>She grew increasingly nervous as the date of the audition drew closer. </I><B>| keep, stay </B><I>Keep close to me. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | fairly, quite | together </B><I>Their birthdays are very close together. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Get close to the microphone. </I> </P>
+<P> <SUP> 2 </SUP> <TT> friendly and loving </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem </B><I>The two sisters seemed very close. </I><B>| become, grow </B><I>After the death of their parents the two children grew very close. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> very | quite </B> </P>
+<P> <U> PREP. </U><B> to </B><I>He was quite close to his older brother. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>close </B><I>noun </I> </P>
+<P> <U> VERB + CLOSE </U><B> bring sth to </B><I>The chairperson brought the meeting to a close. </I><B>| come to, draw to </B><I>The decade drew to a close with the threat of war hanging over Europe. </I> </P>
+<P> <U> PREP. </U><B> at/by/towards the ~ of </B><I>At the close of trading, he had lost thousands of pounds on the stock market. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>close </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> door, book, eyes, etc. </TT> </P>
+<P> <U> ADV. </U><B> firmly, tightly </B><I>He closed the door firmly. </I> </P>
+<P> <SUP> 2 </SUP> <TT> shop, business, road, etc. </TT> </P>
+<P> <U> ADV. </U><B> permanently, temporarily | down, off, up </B><I>That factory's been closed down now. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The museum has been temporarily closed to the public. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>magic </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> secret power </TT> </P>
+<P> <U> ADJ. </U><B> black </B> </P>
+<P> <U> VERB + MAGIC </U><B> do, practise </B><I>He earns extra money doing magic at children's parties. People found guilty of practising black magic were hanged. </I><B>| believe in </B><I>I don't believe in magic. </I><B>| work </B> </P>
+<P> <U> MAGIC + VERB </U><B> work </B><I>The magic slowly begins to work, and the princess starts to come to life again. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The rabbit disappeared by magic. </I> </P>
+<P> <U> PHRASES </U><B> as if by magic </B><I>The money had reappeared as if by magic. </I> </P>
+<P> <SUP> 2 </SUP> <TT> special quality </TT> </P>
+<P> <U> ADJ. </U><B> absolute, pure, sheer </B><I>The show is three hours of pure magic. </I> </P>
+<P> <U> QUANT. </U><B> touch </B><I>The fireworks brought a touch of magic to the occasion. </I> </P>
+<P> <U> VERB + MAGIC </U><B> work </B><I>A hot bath and a good night's sleep worked their usual magic. </I> </P>
+</DIV>

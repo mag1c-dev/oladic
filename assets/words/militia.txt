@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>militia </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> armed </B><I>a highly armed militia </I><B>| voluntary, volunteer | local | government </B> </P>
+<P> <U> VERB + MILITIA </U><B> join, serve in | raise, recruit | create, form, set up </B><I>The anarchists started to form volunteer militias. </I><B>| train | disarm, disband </B> </P>
+<P> <U> MILITIA + NOUN </U><B> forces, group, unit | commander, leader</B> </P>
+</DIV>

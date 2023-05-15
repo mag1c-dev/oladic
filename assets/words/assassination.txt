@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>assassination </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> attempted | failed | political </B><I>Three local leaders have been killed in political assassinations. </I><B>| character </B><I>a vicious campaign of character assassination </I> </P>
+<P> <U> VERB + ASSASSINATION </U><B> carry out | plan, plot </B><I>It is believed that they plotted the assassination of the king. </I><B>| escape, survive </B><I>The judge escaped assassination by drug dealers. </I> </P>
+<P> <U> ASSASSINATION + NOUN </U><B> attempt, plot </B><I>He has survived several assassination attempts. </I><B>| squad</B> </P>
+</DIV>

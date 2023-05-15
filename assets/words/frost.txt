@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>frost </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> weather condition </TT> </P>
+<P> <U> ADJ. </U><B> bitter, great, hard, heavy, severe, sharp | light | early, first, late </B><I>The young plants all died in the late frost. </I><B>| autumn, spring, winter | ground </B><I>a heavy ground frost </I><B>| night </B> </P>
+<P> <U> QUANT. </U><B> touch </B><I>There was just a touch of frost in the air. </I><B>| degree </B><I>There were ten degrees of frost last night. </I> </P>
+<P> <U> FROST + VERB </U><B> set in </B><I>The winter frosts have set in up north. </I><B>| nip at sth </B><I>The sharp frost nipped at our noses. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very thin layer of little pieces of ice </TT> </P>
+<P> <U> ADJ. </U><B> white </B> </P>
+<P> <U> VERB + FROST </U><B> be covered in/with </B><I>The windows were covered in frost. </I> </P>
+<P> <U> VERB + FROST </U><B> melt </B><I>The car was wet with melting frost. </I> </P>
+</DIV>

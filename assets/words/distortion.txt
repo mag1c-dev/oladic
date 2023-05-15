@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>distortion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> change in shape/sound </TT> </P>
+<P> <U> ADJ. </U><B> severe | slight | inevitable </B> </P>
+<P> <U> VERB + DISTORTION </U><B> cause, create, lead to </B><I>The wrong chemical balance can cause severe distortion of the photographic image. </I><B>| avoid </B> </P>
+<P> <SUP> 2 </SUP> <TT> changing sth so that it is shown falsely </TT> </P>
+<P> <U> ADJ. </U><B> gross, serious </B><I>His report was attacked as a gross distortion of the truth. </I><B>| deliberate</B> </P>
+</DIV>

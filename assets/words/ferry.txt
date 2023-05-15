@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>ferry </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cross-channel | night | car, passenger </B> </P>
+<P> <U> VERB + FERRY </U><B> get, go on, take, travel on, use | wait for | catch | board, drive onto | drive off, get off </B> </P>
+<P> <U> FERRY + VERB </U><B> carry sb, take sb </B><I>a ferry carrying more than a thousand people </I><B>| arrive, come in, dock </B><I>We watched the ferry dock. </I><B>| depart, go, leave, sail </B><I>The last ferry sails at 4 p.m. </I><B>| cross sth </B><I>the ferries that cross the River Mersey </I><B>| run </B><I>Ferries run every hour or so. </I> </P>
+<P> <U> FERRY + NOUN </U><B> crossing, journey | route | boat | passenger | port, terminal | line, operator, service </B> </P>
+<P> <U> PREP. </U><B> aboard/on/on board a/the ~ </B><I>the people on the ferry </I><B>| by ~ </B><I>We went by night ferry. </I><B>| ~ across/over </B><I>We caught the ferry across the river. </I><B>| ~ between </B><I>the ferry between Dundee and Tayport </I><B>| ~ for/to </B><I>the ferry for Italy </I><B>| ~ from </B><I>the ferry from Ramsgate to Dunkirk </I> </P>
+</DIV>

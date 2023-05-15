@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>uranium </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> natural | enriched </B><I>a tonne of highly enriched uranium </I><B>| depleted | weapons-grade </B> </P>
+<P> <U> VERB + URANIUM </U><B> mine | recover </B> </P>
+<P> <U> URANIUM + NOUN </U><B> ore, reserves | fuel | mine, miner, mining | enrichment</B> </P>
+</DIV>

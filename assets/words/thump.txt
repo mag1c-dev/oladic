@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>thump </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, heavy, loud | muffled </B> </P>
+<P> <U> VERB + THUMP </U><B> give sb/sth </B><I>She gave the television a good thump, and the picture came back. </I><B>| hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The sack of wheat hit the ground with a loud thump. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>thump </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> hit sb/sth with your fist </TT> </P>
+<P> <U> ADV. </U><B> hard </B><I>He thumped Jack hard in the face. </I><B>| down </B><I>He thumped his fist down onto the table. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She thumped the desk with her fist. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of the heart </TT> </P>
+<P> <U> ADV. </U><B> hard, heavily, loudly, painfully, wildly </B> </P>
+<P> <U> VERB + THUMP </U><B> begin to </B><I>Her heart began to thump wildly in her chest. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>He spun round, his heart thumping against his ribs. </I> </P>
+</DIV>

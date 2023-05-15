@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>windscreen </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> front, rear | car </B> </P>
+<P> <U> VERB + WINDSCREEN </U><B> clean, scrape, wipe </B><I>She scraped the windscreen free of ice. </I><B>| break, chip, crack, shatter, smash | fit, put in, replace, take out | clear, demist </B><I>She switched the wipers on to clear the windscreen. </I> </P>
+<P> <U> WINDSCREEN + VERB </U><B> mist up | crack, shatter </B> </P>
+<P> <U> WINDSCREEN + NOUN </U><B> wiper </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>I came back to find a parking ticket on the windscreen. </I><B>| through a/the ~ </B><I>Bright evening sunlight glared through the windscreen. </I> </P>
+</DIV>

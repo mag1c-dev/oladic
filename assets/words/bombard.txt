@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>bombard </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> attack with bombs </TT> </P>
+<P> <U> ADV. </U><B> heavily </B><I>The city has been heavily bombarded for the last three days. </I> </P>
+<P> <SUP> 2 </SUP> <TT> direct a lot of things at sb </TT> </P>
+<P> <U> ADV. </U><B> constantly, continually </B> </P>
+<P> <U> PREP. </U><B> with </B><I>We're all constantly bombarded with television advertisements. </I> </P>
+</DIV>

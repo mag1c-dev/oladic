@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>parole </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> early </B> </P>
+<P> <U> VERB + PAROLE </U><B> be on | give sb, grant sb | get </B><I>She's got (her) parole. </I><B>| let sb out on, release sb on </B><I>She was released on parole after serving just half of her sentence. </I><B>| break </B><I>He broke (his) parole. </I><B>| be eligible for, be/come up for </B><I>Her case comes up for parole in September. </I> </P>
+<P> <U> PAROLE + NOUN </U><B> board, system </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>He committed a burglary while on parole. </I><B>| with ~ </B><I>With parole, he could be out in two years. </I><B>| without ~ </B><I>sentenced to life imprisonment without parole </I> </P>
+</DIV>

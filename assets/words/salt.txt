@@ -1,0 +1,8 @@
+
+<div class="item"><p class="word first"><b>salt </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> soluble | potassium, sodium, etc. | mineral, rock, sea | common, cooking, table | celery, garlic </b></div></p>
+<p> <u> QUANT. </u><div class="ex"><b> grain | pinch </b></div></p>
+<p> <u> VERB + SALT </u><div class="ex"><b> add, put in/on, season sth with, sprinkle (sth with) </b></div><div class="excontent"><i>Don't put so much salt on your chips! </i> </div></p>
+<p> <u> SALT + NOUN </u><div class="ex"><b> crystal | solution | content </b></div><div class="excontent"><i>foods with a high salt content </i></div><div class="ex"><b>| intake </b></div><div class="excontent"><i>He wants to reduce his salt intake. </i></div><div class="ex"><b>| cellar, pot, shaker | air, spray, water | marsh | mine </b></div></p>
+<p> <u> PHRASES </u><div class="ex"><b> high/low in salt, salt and pepper </b></div><div class="excontent"><i>Add salt and pepper to taste </i>(= in the quantity preferred)<i>. </i>&gt; Special page at FOOD  </div></p>
+</div>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>basket </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> container </TT> </P>
+<P> <U> ADJ. </U><B> cane, straw, wicker/wickerwork, wire, woven | laundry, sewing | bread, food, fruit, shopping | waste/waste-paper | cat, dog | bicycle </B><I>She was cycling along with her bicycle basket full of shopping. </I><B>| picnic | flower, hanging </B><I>hanging baskets full of summer flowers </I> </P>
+<P> <U> VERB + BASKET </U><B> make, weave | fill, load (sth into), pack (sth into), put sth in | take sth from/out of, unpack | carry, heave, pick up </B><I>She heaved the huge basket onto the table. </I><B>| swing | put down, set down </B> </P>
+<P> <U> BASKET + VERB </U><B> be filled with sth, be full of sth, contain sth </B><I>a basket filled with delicious fruit </I> </P>
+<P> <U> PHRASES </U><B> in/into a/the ~ </B><I>The cat lay curled in its basket. </I><B>| ~ of </B><I>a basket of flowers/fruit </I> </P>
+<P> <SUP> 2 </SUP> <TT> in basketball </TT> </P>
+<P> <U> VERB + BASKET </U><B> shoot | make, score, sink</B> </P>
+</DIV>

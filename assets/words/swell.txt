@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>swell </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> movement of the surface of the sea </TT> </P>
+<P> <U> ADJ. </U><B> heavy | gentle, slight | 10-foot, 20-foot, etc. | Atlantic, ocean </B><I>bobbing up and down like a small boat in a heavy ocean swell </I> </P>
+<P> <U> SWELL + VERB </U><B> break, come/roll in, lift sb/sth, surge up </B><I>The Atlantic swell surged up under them. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The trawler rolled wildly in the heavy swell. </I><B>| on/with the ~ </B><I>The boat rose and fell with the swell. </I> </P>
+<P> <SUP> 2 </SUP> <TT> curve in sth </TT> </P>
+<P> <U> ADJ. </U><B> firm, gentle, soft, warm </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the gentle swell of her breasts </I> </P>
+</DIV><DIV class="item"><P class="word"><B>swell </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly </B><I>His sprained ankle had swollen badly. </I><B>| slightly | up </B><I>Her feet swelled up after the long walk to the top of the hill. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>Her legs had swollen with the heat. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>boiler </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> coal-fired, coke, electric, gas, gas-fired, oil-fired, solid-fuel, steam, water | central-heating </B> </P>
+<P> <U> VERB + BOILER </U><B> install, put in | service </B> </P>
+<P> <U> BOILER + VERB </U><B> come on </B><I>I've just heard the hot water boiler come on. </I><B>| go off | burst, explode </B> </P>
+<P> <U> BOILER + NOUN </U><B> system | suit</B> </P>
+</DIV>

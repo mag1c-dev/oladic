@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>response </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> encouraging, enthusiastic, favourable, good, positive | lukewarm, muted | angry, discouraging, negative | appropriate, correct | inappropriate, incorrect </B><I>incorrect responses in a multiple choice test </I><B>| strong </B><I>These images are likely to evoke a strong response in the viewer. </I><B>| direct | quick, rapid | slow | automatic, immediate | initial </B><I>My initial response was one of anger. </I><B>| public | natural | behavioural, emotional, physiological, political | verbal, written | immune </B><I>the immune response to viral infections </I> </P>
+<P> <U> VERB + RESPONSE </U><B> give, make | get, have, receive </B><I>Have you had any responses to the advertisement yet? </I><B>| bring/call forth, draw, elicit, evoke, produce, provoke </B><I>His comments drew an angry response from the crowd. </I> </P>
+<P> <U> RESPONSE + NOUN </U><B> rate, time </B><I>We sent out over 100 letters but the response rate was low </I>(= few people replied)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> in ~ (to) </B><I>In response, she stormed out of the room. </I><B>| ~ from </B><I>The response from local businesses has been muted. </I><B>| ~ to </B><I>What was their response to the question? </I> </P>
+<P> <U> PHRASES </U><B> (a) lack of response </B><I>Due to lack of response the event has been cancelled. </I> </P>
+</DIV>

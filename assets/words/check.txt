@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>check </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> close look to make sure sth is safe/correct </TT> </P>
+<P> <U> ADJ. </U><B> complete, full, thorough | careful, close, rigorous, tight | cursory, quick | periodic, regular, routine | annual, daily, etc. | constant, continuous | random, spot </B><I>In a series of spot checks, police searched buses crossing the border. </I><B>| cross, cross-check, double, double-check | independent | visual </B><I>I did a quick visual check of the engine. </I><B>| dental, fitness, health, medical | police, safety, security | identity | customs, immigration, passport | stock | quality | spell/spelling </B><I>I do a spell check on all my emails. </I><B>| sound </B><I>The band wants to do a sound check before the concert. </I> </P>
+<P> <U> VERB + CHECK </U><B> carry out, conduct, do, give sth, have, make, run </B><I>I'll just have a quick check to see if the letter's arrived. A thorough check is made before the luggage is put on the plane. We're running a police check on all applicants for the job. </I><B>| keep, maintain </B><I>Police are keeping a close check on the house. </I><B>| go for </B><I>I have to go for a dental check. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a routine check on the factory </I> </P>
+<P> <SUP> 2 </SUP> <TT> control/restraint </TT> </P>
+<P> <U> ADJ. </U><B> natural </B><I>Leaving some fields fallow provided a natural check on insect populations. </I> </P>
+<P> <U> VERB + CHECK </U><B> act as, provide | hold sth in, keep sth in </B><I>You need to keep your temper in check! </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>The law acts as a check on people's behaviour. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>check </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> always, daily, regularly </B><I>Always check that the electricity is switched off before you start. Check the engine oil level regularly. </I><B>| carefully, thoroughly </B> </P>
+<P> <U> VERB + CHECK </U><B> had better, must, need to, should </B><I>We had better check that all the doors are locked. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>I'll need to check these figures against last year's. </I><B>| for </B><I>Check the roof for loose slates. </I><B>| with </B><I>I checked with her to see if she needed any help. </I> </P>
+<P> <U> PHRASES </U><B> be worth checking </B><I>It's worth checking that there is no rust on the car. </I><B>| check to see if/whether </B><I>He was just checking to see if I was in my room. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>topic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chosen, selected | broad, general, large, wide </B><I>Before dealing with specific cases, she spoke on the broad topic of &lsquo;discipline&rsquo;. </I><B>| diverse, wide-ranging </B><I>The book covers such diverse topics as snorkelling and first aid. </I><B>| narrow | central, dominant, important, key, main, major, principal | complex, difficult | conversational, essay, lecture, research | controversial, sensitive </B><I>It might be better to avoid such a controversial topic. </I><B>| historical, philosophical, scientific, social, etc. </B> </P>
+<P> <U> VERB + TOPIC </U><B> consider, cover, discuss, explore, deal with, focus on, look at, speak on, write on </B><I>In the next chapter the writer focuses on the topic of adoption. </I> </P>
+<P> <U> TOPIC + NOUN </U><B> area, heading | work </B><I>Our teaching is based largely on topic work. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Mr Graham will speak on the topic of dog breeding. </I> </P>
+<P> <U> PHRASES </U><B> a choice of topic </B><I>She was an excellent speaker, but I found her choice of topic strange. </I><B>| a range/variety of topics, a topic of conversation/discussion </B><I>His main topic of conversation is football. </I> </P>
+</DIV>

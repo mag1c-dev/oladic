@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>accelerate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> go faster </TT> </P>
+<P> <U> ADV. </U><B> hard, quickly | smoothly </B><I>The runners accelerated smoothly round the bend. </I><B>| suddenly | away </B><I>The car purred into life and accelerated away. </I> </P>
+<P> <SUP> 2 </SUP> <TT> develop quickly </TT> </P>
+<P> <U> ADV. </U><B> dramatically, greatly, rapidly, sharply </B><I>The Aids epidemic is accelerating dramatically. </I> </P>
+</DIV>

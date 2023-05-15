@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>probability </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, real, strong </B><I>There is a high probability that it will snow tonight. </I><B>| greater, increased | low </B> </P>
+<P> <U> QUANT. </U><B> degree </B><I>We can say with a high degree of probability that the poem was written by Shakespeare. </I> </P>
+<P> <U> VERB + PROBABILITY </U><B> have | increase | reduce | assess, calculate, judge </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>This surgical procedure has a high probability of success. </I> </P>
+<P> <U> PHRASES </U><B> in all probability </B><I>In all probability she wouldn't come even if we invited her. </I><B>| on a balance of probabilities </B><I>The coroner thought that on the balance of probabilities, the pilot had suffered a stroke just before the crash. </I> </P>
+</DIV>

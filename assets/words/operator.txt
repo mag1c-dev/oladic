@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>operator </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who connects telephone calls </TT> </P>
+<P> <U> ADJ. </U><B> switchboard, telephone </B> </P>
+<P> <U> OPERATOR + VERB </U><B> connect sb, put sb through </B><I>I asked the operator to put me through to her office. </I> </P>
+<P> <SUP> 2 </SUP> <TT> person who works a machine, etc. </TT> </P>
+<P> <U> ADJ. </U><B> experienced, skilled | unskilled | machine, plant | computer, lathe, radio, word processor, etc. </B> </P>
+<P> <SUP> 3 </SUP> <TT> person/company that does particular business </TT> </P>
+<P> <U> ADJ. </U><B> big, small | private | holiday, tour, travel | cable (television), satellite, telecommunications, etc. | airline, bus, coach, ferry </B> </P>
+<P> <SUP> 4 </SUP> <TT> sb who is skilful at getting what they want </TT> </P>
+<P> <U> ADJ. </U><B> shrewd, slick, smooth</B> </P>
+</DIV>

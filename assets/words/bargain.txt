@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>bargain </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth sold at a lower price </TT> </P>
+<P> <U> ADJ. </U><B> absolute, amazing, good, real </B> </P>
+<P> <U> VERB + BARGAIN </U><B> find, get, pick up </B><I>I picked up a really good bargain in the market. </I> </P>
+<P> <U> BARGAIN + NOUN </U><B> buy, price | hunter, hunting | holiday | basement </B> </P>
+<P> <SUP> 2 </SUP> <TT> agreement </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good </B> </P>
+<P> <U> VERB + BARGAIN </U><B> make, strike </B> </P>
+<P> <U> PREP. </U><B> into the ~ </B>(= as well) <I>He's very strong and completely fearless into the bargain. </I><B>| ~ between </B><I>A bargain was struck between the employers and the unions. </I><B>| ~ with </B><I>I'll make a bargain with you. </I> </P>
+<P> <U> PHRASES </U><B> drive a hard bargain </B>(= force sb to agree to the arrangement that is best for you), <B>keep (to) your half/part/side of the bargain </B><I>You haven't kept your side of the bargain. </I><B>| sb's side/part/half of the bargain </B><I>Her part of the bargain was to look after the car. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bargain </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard </B><I>He bargained hard and was stubborn. </I><B>| collectively </B><I>the right of workers to bargain collectively </I> </P>
+<P> <U> PREP. </U><B> about </B><I>He was prepared to bargain about money. </I><B>| for </B><I>to bargain for a decent wage </I><B>| over </B><I>crowds of men bargaining over horses </I><B>| with </B><I>He tried to bargain with her. </I> </P>
+</DIV>

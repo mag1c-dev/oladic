@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>receipt </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of paper showing what was paid for </TT> </P>
+<P> <U> ADJ. </U><B> original </B> </P>
+<P> <U> VERB + RECEIPT </U><B> ask (sb) for | get, obtain | receive | have </B><I>Could I have a receipt for that please? </I><B>| make out, write (out) </B><I>a receipt made out for </I>&pound;</B><I>5 </I><B>| sign | give sb, issue | keep </B><I>You can claim a refund provided you keep the receipt. </I><B>| produce </B><I>The original receipt must be produced in order to reclaim your goods. </I> </P>
+<P> <U> RECEIPT + NOUN </U><B> book </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She issued a receipt for the goods. </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of receiving sth </TT> </P>
+<P> <U> VERB + RECEIPT </U><B> acknowledge </B><I>I would be grateful if you would acknowledge receipt of this letter. </I> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>people in receipt of housing benefit </I><B>| on/upon ~ of </B><I>The goods will be sent on receipt of your cheque. </I> </P>
+<P> <U> PHRASES </U><B> the date for receipt </B><I>The closing date for receipt of your application is July 14. </I><B>| within &hellip; days of receipt </B><I>Items should be paid for within 14 days of receipt. </I> </P>
+<P> <SUP> 3 </SUP> <TT> receipts: money received  </TT> </P>
+<P> <U> ADJ. </U><B> total </B><I>Cash income is calculated by subtracting total trading income from total receipts. </I><B>| net | capital | income, revenue | tax | cash | foreign currency/exchange | dollar, euro, etc. | box-office, gate, match </B> </P>
+<P> <U> VERB + RECEIPT </U><B> receive </B> </P>
+<P> <U> RECEIPT + VERB </U><B> rise </B><I>Customs and excise receipts rose 2.5 per cent. </I><B>| reach sth </B><I>Cash receipts reached </I>&pound;</B><I>70 million. </I><B>| fall, slump </B><I>Match receipts slumped by </I>&pound;</B><I>89,000 compared to last season. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>receipts from land sales </I> </P>
+<P> <U> PHRASES </U><B> receipts and payments</B> </P>
+</DIV>

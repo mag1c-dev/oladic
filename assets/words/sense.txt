@@ -1,0 +1,38 @@
+
+<DIV class="item"><P class="word"><B>sense </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> one of the five natural physical powers of the body </TT> </P>
+<P> <U> ADJ. </U><B> acute, good, keen | poor | sixth </B> </P>
+<P> <U> VERB + SENSE </U><B> have </B><I>He has an acute sense of smell. </I><B>| lose </B><I>She lost her sense of hearing early in life. </I><B>| regain | heighten, sharpen | dull | appeal to </B><I>He argued that art should appeal to the senses rather than the intellect. </I> </P>
+<P> <U> SENSE + VERB </U><B> tell sb </B><I>When she came to, her senses told her she was lying on a sandy beach. </I><B>| reel, swim </B><I>Her senses reeled as she fought for consciousness. </I> </P>
+<P> <U> SENSE + NOUN </U><B> organ </B> </P>
+<P> <U> PREP. </U><B> through the ~s </B><I>Although he can't see, he learns a lot through his other senses. </I> </P>
+<P> <U> PHRASES </U><B> an assault on the senses, the evidence of your senses, the five senses, the sense of hearing/sight/smell/taste/touch </B> </P>
+<P> <SUP> 2 </SUP> <TT> understanding/awareness of sth </TT> </P>
+<P> <U> ADJ. </U><B> deep, great, keen, strong, tremendous </B><I>He felt a deep sense of relief after the phone call. </I><B>| growing, heightened | slight, vague </B><I>a vague sense of unease </I><B>| innate, intuitive, natural </B><I>a natural sense of justice </I><B>| moral </B> </P>
+<P> <U> VERB + SENSE </U><B> feel, have | display, show | give sb | lose | heighten, sharpen | dull </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He seems to have lost his sense of reality. </I> </P>
+<P> <SUP> 3 </SUP> <TT> natural ability to do/produce sth well </TT> </P>
+<P> <U> ADJ. </U><B> good | bad, poor | innate, intuitive, natural | business, dress </B><I>He has no dress sense. </I> </P>
+<P> <U> VERB + SENSE </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a good sense of direction/rhythm/timing </I> </P>
+<P> <SUP> 4 </SUP> <TT> ability to think/act in a sensible way </TT> </P>
+<P> <U> ADJ. </U><B> good | common, horse </B><I>Common sense tells me I should get more sleep. </I> </P>
+<P> <U> VERB + SENSE </U><B> have </B><I>He at least had the sense to call the police. </I><B>| display, show | learn </B><I>I wish my daughter would learn some sense. </I> </P>
+<P> <U> SENSE + VERB </U><B> tell sb </B> </P>
+<P> <U> PHRASES </U><B> have more money than sense, (not) an ounce of sense </B><I>If you had an ounce of sense, you'd never have agreed to help him. </I> </P>
+<P> <SUP> 5 </SUP> <TT> reason </TT> </P>
+<P> <U> ADJ. </U><B> perfect </B><I>It all makes perfect sense </I>(= is easy to understand)</B><I>. </I> </P>
+<P> <U> VERB + SENSE </U><B> make | see </B><I>I tried to make him see sense, but he just wouldn't listen. </I><B>| talk </B><I>If you can't talk sense, I'm leaving! </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>There's a lot of sense in what he's saying. </I> </P>
+<P> <U> PHRASES </U><B> talk sense into sb </B><I>We'll try and talk a little sense into her. </I><B>| there's no sense in sth </B><I>There's no sense in going home before the film. </I> </P>
+<P> <SUP> 6 </SUP> <TT> your senses: ability to think clearly  </TT> </P>
+<P> <U> VERB + SENSE </U><B> come to, regain | take leave of </B><I>Have you taken leave of your senses? </I><B>| bring sb to </B> </P>
+<P> <U> PHRASES </U><B> in your (right) senses </B><I>No one in their right senses would give him the job! </I> </P>
+<P> <SUP> 7 </SUP> <TT> meaning </TT> </P>
+<P> <U> ADJ. </U><B> broad, wide </B><I>The novel is about education in its widest sense. </I><B>| narrow, strict | accepted | figurative, metaphorical | literal | pejorative | legal, technical </B> </P>
+<P> <U> VERB + SENSE </U><B> have </B><I>That word has three senses. </I><B>| make </B><I>That sentence doesn't make sense </I>(= has no meaning)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>In a sense, she's right. </I> </P>
+<P> <U> PHRASES </U><B> in every sense of the word, in a very real sense </B><I>In a very real sense, post-war repression was the continuation of the war. </I><B>| in the true sense of the word</B> </P>
+</DIV><DIV class="item"><P class="word"><B>sense </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> clearly, strongly </B><I>I sensed quite strongly that she was angry with me. </I><B>| dimly, vaguely | just </B><I>Maybe she could just sense what I needed. </I><B>| intuitively</B> </P>
+</DIV>

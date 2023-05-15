@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>whistle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small metal/plastic tube that you blow </TT> </P>
+<P> <U> ADJ. </U><B> dog, factory, police, train | guard's, referee's, etc. | steam | penny, tin </B> </P>
+<P> <U> VERB + WHISTLE </U><B> blow (on), sound </B><I>A train sounded its whistle in the distance. </I> </P>
+<P> <U> WHISTLE + VERB </U><B> blow, go, sound </B><I>The referee's whistle went just before he shot the goal. </I> </P>
+<P> <U> PHRASES </U><B> a blast on a whistle </B><I>He gave a short blast on his whistle. </I> </P>
+<P> <SUP> 2 </SUP> <TT> clear high-pitched sound </TT> </P>
+<P> <U> ADJ. </U><B> loud | high, high-pitched, piercing, shrill | low | long | short | silent </B><I>He pursed his lips in a silent whistle. </I><B>| tuneless | wolf | final </B><I>(sport) They scored their only goal just before the final whistle. </I> </P>
+<P> <U> VERB + WHISTLE </U><B> give, let out | hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The train entered the tunnel with a shrill whistle. </I><B>| ~ of </B><I>She gave a low whistle of admiration. </I></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+</DIV><DIV class="item"><P class="word"><B>whistle </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> loudly | softly, under your breath | through your teeth </B><I>Norma looked at the parcel and whistled softly through her teeth. </I><B>| cheerfully | tunelessly </B> </P>
+<P> <U> VERB + WHISTLE </U><B> begin to | hear sb </B> </P>
+<P> <U> PREP. </U><B> at </B><I>Men whistled at her in the street. </I><B>| in </B><I>James whistled in amazement. </I><B>| to </B><I>William whistled to me from a distance. </I> </P>
+</DIV>

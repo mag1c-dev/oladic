@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>weapon </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deadly, lethal, potent, powerful </B><I>He was charged with assault with a deadly weapon. </I><B>| effective, useful | heavy, light </B><I>The assault forces used heavy weapons, including anti-tank rockets and mortars. </I><B>| automatic | atomic, biological, chemical, nuclear | offensive, strategic, tactical </B><I>She pleaded guilty to carrying an offensive weapon. a ban on the use of tactical nuclear weapons </I><B>| murder | ultimate </B><I>(often figurative) The workers' ultimate weapon was the strike. </I><B>| secret </B><I>(often figurative) The team's secret weapon was their new young defender. </I> </P>
+<P> <U> VERB + WEAPON </U><B> be armed with, carry, have | deploy, fire, use | use sth as </B><I>(often figurative) She used humour and wit as weapons against her enemies. </I><B>| aim, point </B> </P>
+<P> <U> WEAPON + NOUN </U><B> system | technology </B><I>the illegal transfer of weapons technology to hostile countries </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>(often figurative) This relaxation technique can serve as an effective weapon against stress. </I> </P>
+</DIV>

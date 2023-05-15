@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>undertaking </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of work/business </TT> </P>
+<P> <U> ADJ. </U><B> considerable, large, major, serious | worthwhile | hazardous, risky | joint </B><I>the first joint undertaking of the two societies </I><B>| commercial, financial </B><I>We have to decide if this is a worthwhile commercial undertaking. </I> </P>
+<P> <SUP> 2 </SUP> <TT> formal promise </TT> </P>
+<P> <U> ADJ. </U><B> solemn | express | irrevocable | voluntary | verbal, written | contractual | government | public </B> </P>
+<P> <U> VERB + UNDERTAKING </U><B> give (sb) </B><I>He gave an undertaking not to leave the country before the trial. </I><B>| seek | obtain | carry out, honour, renege on </B><I>The factory failed to honour its undertaking to stop dumping waste into the local river. </I><B>| sign</B> </P>
+</DIV>

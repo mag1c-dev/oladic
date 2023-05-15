@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>programme </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plan of things to do </TT> </P>
+<P> <U> ADJ. </U><B> ambitious | comprehensive, major, massive, radical, wide-ranging </B><I>a comprehensive programme of economic reform </I><B>| modest | long-term | regular | varied </B><I>a varied programme of entertainment </I><B>| pilot </B><I>The pilot programme of vaccination proved successful. </I><B>| party, political | government | collaborative, joint </B><I>joint programmes between government and industry </I><B>| action, development, improvement, modernization, privatization, research | economic, expenditure, investment, recovery </B><I>Mr Brown called for a national recovery programme. </I><B>| austerity, closure, cost-cutting | aid, assistance, relief, welfare | assessment, testing | degree, education, educational, literacy, training </B><I>students enrolled on the two-year MA degree programme </I><B>| care, health </B><I>a community care programme for psychiatric patients </I><B>| exercise, weight-loss | breeding, building, conservation, defence </B><I>Female seals are needed for the breeding programme. </I> </P>
+<P> <U> VERB + PROGRAMME </U><B> agree (on), develop, draw up, establish, organize, plan, set up | outline </B><I>The course leader outlined the programme we would be following. </I><B>| carry out, implement, launch, run | expand | offer </B><I>The college offers a wide variety of programmes of study. </I><B>| finance, fund </B><I>How is the programme to be financed? </I><B>| embark on, undertake | enrol on | follow | complete | disrupt </B><I>Renewed fighting disrupted the relief programme. </I> </P>
+<P> <U> PROGRAMME + VERB </U><B> aim to, be aimed at sb/sth, be designed to </B><I>The programme aims to increase employment. </I><B>| include sth, involve sb/sth | offer sth, provide sth </B> </P>
+<P> <U> PREP. </U><B> in a/the ~, on the/your ~ </B><I>What's on your programme today </I>(= What are your plans)</B><I>? </I><B>| ~ for </B><I>What's the programme for </I>(= What are we going to do) </B><I>tomorrow? </I><B>| ~ of </B><I>a programme of study </I> </P>
+<P> <U> PHRASES </U><B> the aim/objective/purpose of a programme </B> </P>
+<P> <SUP> 2 </SUP> <TT> radio/televsion show </TT> </P>
+<P> <U> ADJ. </U><B> radio, television/TV | current affairs, documentary, factual, news | comedy | educational | children's | cookery, wildlife, religious, etc. | phone-in </B> </P>
+<P> <U> VERB + PROGRAMME </U><B> see, watch | listen to | record | do, make | host, present </B><I>a phone-in programme hosted by Freddie Greenan </I><B>| broadcast, screen, show </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In today's programme, we'll be giving you advice on how to manage your money. </I><B>| on a/the ~ </B><I>He appeared on the programme last night. </I><B>| ~ about/on </B><I>I saw a good programme on owls last night. </I> </P>
+<P> <SUP> 3 </SUP> <TT> booklet for a play/concert/event </TT> </P>
+<P> <U> ADJ. </U><B> concert, theatre | match, race </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>Her name doesn't appear in the concert programme. </I> </P>
+<P> <SUP> 4 </SUP> <TT> order of events </TT> </P>
+<P> <U> ADJ. </U><B> exciting, interesting | musical, sporting </B> </P>
+<P> <U> VERB + PROGRAMME </U><B> arrange, draw up, plan, organize </B><I>planning an exciting programme of activities </I> </P>
+<P> <U> PROGRAMME + VERB </U><B> include sth </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a programme of 17th century music </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pilot </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> experienced, professional, qualified, trained | inexperienced, trainee | airforce, RAF | private | airline, bomber, fighter, glider, helicopter, jet | aerobatic | automatic </B><I>The aircraft was set on automatic pilot. (figurative) She worked on automatic pilot, her hands carrying out the necessary movements. </I> </P>
+<P> <U> PILOT + VERB </U><B> fly (sth) | crash (sth) | bale out, eject </B><I>The pilot baled out as the aircraft crashed into the sea. </I> </P>
+<P> <U> PILOT + NOUN </U><B> error </B><I>The air crash is thought to have been caused by pilot error. </I></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

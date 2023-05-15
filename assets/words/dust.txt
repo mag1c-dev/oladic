@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>dust </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine | brick, coal, radioactive </B> </P>
+<P> <U> QUANT. </U><B> cloud, layer </B><I>The tractor came up the track in a cloud of dust. There was a layer of fine dust on the table. </I><B>| particle, speck </B><I>Remove any particles of dust on the surface of the paint. microscopic specks of dust </I> </P>
+<P> <U> VERB + DUST </U><B> gather </B><I>Her chess set lay on a shelf gathering dust. </I><B>| be covered in/with </B> </P>
+<P> <U> DUST + VERB </U><B> lie </B><I>The dust now lay in a thick layer on her piano. </I> </P>
+<P> <U> DUST + NOUN </U><B> cloud | particle | storm</B> </P>
+</DIV>

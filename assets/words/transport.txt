@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>transport </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cheap, efficient | mass, public </B><I>to travel by/on public transport </I><B>| private | local | city, urban | rural | horse-drawn, motor | air, canal, ground, land, marine, rail, railway, river, road, sea, water | passenger | freight </B> </P>
+<P> <U> VERB + TRANSPORT </U><B> use | arrange | provide | have access to </B><I>people who have no access to private transport </I> </P>
+<P> <U> TRANSPORT + NOUN </U><B> facilities, provision, services | infrastructure, network, system | business, company, group, industry, operator, organization | chairman, chief, executive, manager, officer, official | consultant, planner | project, scheme, strategy | legislation, policy | budget | minister, spokesman | authority/authorities, committee, department, ministry | needs, requirements | market, sector | costs, fares | allowance </B><I>Staff who transfer to a different office will receive a transport allowance. </I><B>| user | worker | links, routes | congestion | police | safety | strike | union </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>The car broke down, leaving us without transport. </I> </P>
+<P> <U> PHRASES </U><B> a form/means/method/mode of transport, your own transport </B><I>Applicants for the job must have their own telephone and transport. </I> </P>
+</DIV>

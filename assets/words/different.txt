@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>different </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, seem, sound, taste </B> </P>
+<P> <U> ADV. </U><B> very | distinctly, markedly, radically, significantly, strikingly </B><I>This school is radically different from most others. </I><B>| completely, entirely, quite, totally | rather, slightly | subtly </B><I>The same colour can appear subtly different on different types of paper. </I><B>| materially, qualitatively | refreshingly </B><I>a refreshingly different approach to language learning </I> </P>
+<P> <U> PREP. </U><B> from </B><I>Human beings are different from other animals. </I><B>| to </B><I>Their customs are very different to ours. </I> </P>
+</DIV>

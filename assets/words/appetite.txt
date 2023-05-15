@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>appetite </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> desire for food </TT> </P>
+<P> <U> ADJ. </U><B> big, enormous, gargantuan, good, healthy, hearty, huge, insatiable, large, ravenous </B><I>special double-decker sandwiches for big appetites </I><B>| poor, small </B><I>The symptoms of depression can include poor appetite and weight loss. I have always had a small appetite. </I><B>| jaded </B><I>magnificent meals to tempt the most jaded appetites </I> </P>
+<P> <U> VERB + APPETITE </U><B> have </B><I>She had no appetite and began to lose weight. </I><B>| lose | build up, develop, work up </B><I>I went for a walk to work up an appetite for breakfast. </I><B>| get back, regain </B><I>After a week she had regained her appetite. </I><B>| give sb </B><I>All that digging has given me an appetite. </I><B>| give an edge to, increase </B><I>The cold air had given an edge to my appetite. </I><B>| control, curb, suppress </B><I>(technical)</I>, <B>take away, take the edge off </B><I>Some drugs can suppress the appetite. </I><B>| ruin, spoil </B><I>This is something you can eat between meals without ruining your appetite. </I><B>| satisfy </B><I>This meal will satisfy even the healthiest appetite. </I> </P>
+<P> <U> APPETITE + VERB </U><B> grow, increase | come back, return </B><I>His appetite has returned to normal. </I> </P>
+<P> <U> PHRASES </U><B> a lack of appetite, a loss of appetite </B><I>The symptoms include aching limbs and a loss of appetite. </I> </P>
+<P> <SUP> 2 </SUP> <TT> strong desire for sth </TT> </P>
+<P> <U> ADJ. </U><B> enormous, great, huge, insatiable, voracious </B><I>an insatiable appetite for books </I><B>| public </B><I>The BBC recognizes the public appetite for serious information. </I><B>| sexual </B> </P>
+<P> <U> VERB + APPETITE </U><B> have | lose | give sb | increase, revive, whet </B><I>Reading the first story whetted my appetite for more. </I><B>| dull | satisfy </B> </P>
+<P> <U> APPETITE + VERB </U><B> grow, increase </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>His appetite for power had grown. </I> </P>
+</DIV>

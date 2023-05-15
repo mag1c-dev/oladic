@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>accommodation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place for sb to live/stay </TT> </P>
+<P> <U> ADJ. </U><B> comfortable, decent, good, suitable | inadequate, poor, substandard | excellent, luxurious | overnight, temporary | permanent | free | private, rented | holiday, hotel | living, residential | sleeping | bed-and-breakfast | furnished | sheltered </B><I>Many old people choose to live in sheltered accommodation. </I><B>| secure </B><I>We need more secure accommodation for young prisoners. </I><B>| student </B> </P>
+<P> <U> VERB + ACCOMMODATION </U><B> have </B><I>The council should be able to help families who have no accommodation. </I><B>| look for, seek | find, get, secure | offer (sb), provide (sb with) </B><I>It is the duty of the local community to provide accommodation for the homeless. </I> </P>
+<P> <U> ACCOMMODATION + NOUN </U><B> costs </B> </P>
+<P> <U> PREP. </U><B> in ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> satisfactory arrangement </TT> </P>
+<P> <U> VERB + ACCOMMODATION </U><B> come to, make, reach, work out | seek </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>Some accommodation between conservation and tourism is essential. </I><B>| ~ to </B><I>accommodation to the harsh circumstances of rural life </I><B>| ~ with </B><I>They were forced to reach an accommodation with the rebels. </I> </P>
+</DIV>

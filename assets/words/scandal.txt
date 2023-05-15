@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>scandal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, great, major | fresh | national, public | bribery, corruption, drug/drugs, financial, political, sex/sexual </B> </P>
+<P> <U> QUANT. </U><B> series </B><I>The government was rocked by a series of scandals. </I> </P>
+<P> <U> VERB + SCANDAL </U><B> cause, create | expose, reveal, uncover | be embroiled in, be implicated in, be involved in, be mixed up in </B><I>There have been calls for the resignation of the minister involved in the sex scandal. </I><B>| be rocked by | attract </B><I>Their relationship attracted a lot of scandal. </I><B>| spread, stir up </B><I>She's always trying to stir up scandal. </I><B>| cover up, hush up </B> </P>
+<P> <U> SCANDAL + VERB </U><B> break, develop, erupt </B><I>The scandal broke on the front pages of all the papers the next day. </I><B>| involve sb/sth | surround sb/sth </B><I>financial scandals surrounding the government </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He was imprisoned for his part in the bribery scandal. </I><B>| ~ over </B><I>the scandals over corruption in public life </I> </P>
+<P> <U> PHRASES </U><B> the centre of a scandal </B><I>The apartment was paid for by the bank at the centre of the scandal. </I> <B>| a hint/suggestion of scandal </B><I>Until the story was published there had been no hint of scandal. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>sniff </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, good | loud </B> </P>
+<P> <U> VERB + SNIFF </U><B> give, let out </B><I>She gave a loud sniff of disapproval. </I><B>| hear | get, have, take </B><I>to get a sniff of fresh air </I> </P>
+<P> <U> PREP. </U><B> between ~s </B><I>&lsquo;I'm sorry,&rsquo; he said between sniffs. </I><B>| with a ~ </B><I>&lsquo;I'm fine,&rsquo; she said with a sniff. </I><B>| ~ at </B><I>The dog had a good sniff at the bushes around the garden. </I> </P>
+<P> <U> PHRASES </U><B> a sniff of disapproval </B></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+</DIV><DIV class="item"><P class="word"><B>sniff </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> loudly </B><I>She wiped her eyes and sniffed loudly. </I><B>| deeply | a little | carefully, delicately | appreciatively </B><I>He sniffed appreciatively. &lsquo;Smells delicious. What is it?&rsquo; </I><B>| disapprovingly, disdainfully, disparagingly | suspiciously | back </B><I>The woman sniffed back her tears. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>The dog sniffed at his shoes. </I> </P>
+</DIV>

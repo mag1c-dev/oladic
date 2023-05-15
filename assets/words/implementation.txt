@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>implementation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> effective, successful | complete, full | detailed </B><I>Detailed implementation of the plans was left to the regional offices. </I><B>| strict | smooth </B><I>We will consult widely to ensure smooth implementation. </I><B>| practical </B><I>The practical implementation of the regulations proved difficult. </I><B>| early, immediate | gradual | policy </B> </P>
+<P> <U> VERB + IMPLEMENTATION </U><B> achieve, ensure, secure </B><I>To achieve implementation of the programme is a long, slow task. </I><B>| monitor, oversee, supervise </B><I>The UN is to supervise the implementation of the peace treaty. </I><B>| consider, discuss </B> </P>
+<P> <U> IMPLEMENTATION + NOUN </U><B> plan | process </B><I>The restructuring will take place in phases, to simplify the implementation process. </I><B>| problem</B> </P>
+</DIV>

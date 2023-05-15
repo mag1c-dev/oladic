@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>diagram </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear | detailed | rough | simple | flow, schematic | circuit, wiring </B> </P>
+<P> <U> VERB + DIAGRAM </U><B> draw </B><I>Draw a simple diagram of the leaf structure. </I> </P>
+<P> <U> DIAGRAM + VERB </U><B> depict sth, illustrate sth, indicate sth, represent sth, show sth </B><I>a flow diagram showing the stages in the printing process </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Compare this system to the one shown in diagram B. </I><B>| on a/the ~ </B><I>The trees will be planted at the points marked on the diagram. </I><B>| ~ of </B><I>a diagram of the human nervous system </I> </P>
+</DIV>

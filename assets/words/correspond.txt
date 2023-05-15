@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>correspond </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> be the same/match </TT> </P>
+<P> <U> ADV. </U><B> closely | directly, exactly, precisely | approximately, broadly, roughly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>Their nursery schools correspond roughly to our infant schools. </I><B>| with </B><I>The movement of the dot on the screen corresponds exactly with the movement of the control lever. </I> </P>
+<P> <SUP> 2 </SUP> <TT> write letters </TT> </P>
+<P> <U> ADV. </U><B> regularly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>She corresponded regularly with her former music teacher. </I> </P>
+</DIV>

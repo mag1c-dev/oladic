@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>ebb </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strong </B> </P>
+<P> <U> EBB + NOUN </U><B> tide </B><I>They left the harbour on the ebb tide. </I> </P>
+<P> <U> PREP. </U><B> against an/the ~ </B><I>It was difficult sailing upstream against a strong ebb. </I><B>| on an/the ~ </B><I>By this time, the tide was on the ebb. We floated away from the beach on the ebb. </I><B>| with an/the ~ </B><I>They went out to sea with the ebb. </I> </P>
+<P> <U> PHRASES </U><B> the ebb and flow of the tide</B> </P>
+</DIV><DIV class="item"><P class="word"><B>ebb </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> away </B><I>He knew that his life was ebbing away. </I> </P>
+<P> <U> VERB + EBB </U><B> begin to </B><I>Her strength began to ebb. </I><B>| seem to</B> </P>
+</DIV>

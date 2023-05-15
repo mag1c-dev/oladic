@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>censure </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> severe | public </B> </P>
+<P> <U> VERB + CENSURE </U><B> come under, face </B><I>He could face censure from his colleagues. </I><B>| avoid, escape </B><I>Costs will have to be kept down if severe public censure is to be avoided. </I> </P>
+<P> <U> CENSURE + NOUN </U><B> motion </B> </P>
+<P> <U> PHRASES </U><B> a motion/vote of censure </B><I>Right-wing parties tabled a motion of censure against the government. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>censure </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> severely </B><I>The manager was severely censured for negligence. </I> </P>
+<P> <U> PREP. </U><B> for</B> </P>
+</DIV>

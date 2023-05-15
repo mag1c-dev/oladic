@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>philosophy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> study of ideas about the meaning of life </TT> </P>
+<P> <U> ADJ. </U><B> ancient, classical | contemporary, modern | Eastern, Western | experimental, moral, natural </B><I>(historical)</I>, <B>political, religious, social </B> </P>
+<P> <U> PHRASES </U><B> the philosophy of history/religion/science </B></P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+<P> <SUP> 2 </SUP> <TT> particular system of beliefs </TT> </P>
+<P> <U> ADJ. </U><B> competing, differing | prevailing </B><I>humanism?the prevailing philosophy today in the Western world </I><B>| basic, general, underlying | personal | homespun, simple </B><I>the homespun philosophy that kept her going during this difficult period </I><B>| liberal | design, economic, educational, management, market, political, religious, social </B><I>a furniture-maker's design philosophy </I> </P>
+<P> <U> VERB + PHILOSOPHY </U><B> develop, formulate </B><I>developing a personal philosophy </I><B>| articulate | adopt, embrace, espouse | reject </B> </P>
+<P> <U> PHILOSOPHY + VERB </U><B> inform sth, underlie sth, underpin sth </B><I>the philosophy underlying the education system </I><B>| prevail </B><I>the management philosophy which prevailed at that time </I> </P>
+<P> <U> PREP. </U><B> ~ behind </B><I>The new measures were introduced with no explanation of the philosophy behind them. </I> </P>
+<P> <U> PHRASES </U><B> a philosophy of life/mind</B> </P>
+</DIV>

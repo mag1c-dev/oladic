@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>veto </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> effective, virtual | absolute | government, presidential </B> </P>
+<P> <U> VERB + VETO </U><B> have | cast, exercise, impose, use </B><I>The board can exercise its veto to prevent the decision. </I><B>| lift </B><I>The agreement became possible when Spain lifted its veto. </I><B>| override, overturn </B><I>The Senate voted to override the president's veto. </I> </P>
+<P> <U> VETO + NOUN </U><B> power, rights </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The nobles had a virtual veto against peasant candidates. </I><B>| ~ on </B><I>The Opposition effectively have a veto on constitutional reform. </I><B>| ~ over </B><I>a veto over all political appointments </I> </P>
+<P> <U> PHRASES </U><B> a power/right of veto</B> </P>
+</DIV><DIV class="item"><P class="word"><B>veto </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> effectively </B><I>The president effectively vetoed this measure. </I> </P>
+<P> <U> VERB + VETO </U><B> threaten to </B> </P>
+<P> <U> PHRASES </U><B> the power/right to veto sth</B> </P>
+</DIV>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>object </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> solid thing </TT> </P>
+<P> <U> ADJ. </U><B> solid | inanimate | everyday, household </B><I>Her paintings are of ordinary everyday objects. </I> </P>
+<P> <SUP> 2 </SUP> <TT> purpose </TT> </P>
+<P> <U> ADJ. </U><B> main, primary, principal | sole </B><I>My sole object is to get to the bottom of this mystery. </I> </P>
+<P> <U> OBJECT + NOUN </U><B> lesson </B><I>The plans are an object lesson in how to ruin a city centre. </I> </P>
+<P> <U> PHRASES </U><B> the object of the exercise </B><I>The object of the exercise is to score as many points as possible. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>object </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> strenuously, strongly, vehemently </B> </P>
+<P> <U> VERB + OBJECT </U><B> can/could hardly </B><I>It was your own idea in the first place, so you can hardly object now. </I><B>| be entitled to, have a/the right to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>a petition objecting to the scheme </I> </P>
+<P> <U> PHRASES </U><B> object on the grounds that &hellip; </B><I>I objected on the grounds that it was unkind to the animals. </I> </P>
+</DIV>

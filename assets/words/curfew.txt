@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>curfew </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strict | dusk-to-dawn, night, night-time, 24-hour, 7 p.m., etc. </B> </P>
+<P> <U> VERB + CURFEW </U><B> declare, impose, order, place sth under </B><I>A five-day curfew was declared by the government. The whole area has been placed under curfew. </I><B>| lift </B><I>The strict curfew has now been lifted. </I><B>| break, defy </B><I>Protesters defied the curfew and took to the streets. </I> </P>
+<P> <U> CURFEW + VERB </U><B> be in force </B><I>A dusk-to-dawn curfew was in force. </I> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The city is still under curfew. </I><B>| ~ on </B><I>Many people are in favour of a curfew on young people. </I> </P>
+</DIV>

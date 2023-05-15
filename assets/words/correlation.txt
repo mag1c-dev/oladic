@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>correlation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> close, good, high, remarkable, significant, strong | clear, obvious | direct, simple </B><I>There is a direct correlation between exposure to sun and skin cancer. </I><B>| broad, general, overall | low, poor, weak | positive | inverse, negative | statistical </B> </P>
+<P> <U> VERB + CORRELATION </U><B> have </B><I>The second group of measurements had a high correlation with the first. </I><B>| discover, establish, find, observe, show </B><I>The study showed a significant correlation between the baby's sleeping position and the risk of cot death. </I> </P>
+<P> <U> CORRELATION + VERB </U><B> exist </B><I>A strong correlation exists between the fatness of parents and their children. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the correlation between speed and risk of accident </I><B>| ~ with </B><I>the correlation of height with weight </I> </P>
+<P> <U> PHRASES </U><B> lack of correlation</B> </P>
+</DIV>

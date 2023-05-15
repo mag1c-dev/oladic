@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>blessing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> thing that brings happiness/improves your life </TT> </P>
+<P> <U> ADJ. </U><B> great, real | mixed </B>(= a thing that has advantages and disadvantages)  </P>
+<P> <U> PREP. </U><B> ~ for </B><I>A TV can be a real blessing for old people. </I> </P>
+<P> <U> PHRASES </U><B> a blessing in disguise </B>(= a thing that seems unfortunate, but is later seen to be fortunate), <B>count your blessings </B>(= to be grateful for the good things you have)  </P>
+<P> <SUP> 2 </SUP> <TT> approval/support </TT> </P>
+<P> <U> ADJ. </U><B> full | official </B> </P>
+<P> <U> VERB + BLESSING </U><B> have | give sb/sth </B><I>The government has given its official blessing to the project. </I><B>| get, receive </B><I>She received the full blessing of her employers. </I> </P>
+<P> <U> PREP. </U><B> with/without sb's ~ </B><I>He went off to Latin America with his mother's blessing. </I> </P>
+<P> <SUP> 3 </SUP> <TT> prayer </TT> </P>
+<P> <U> ADJ. </U><B> traditional </B> </P>
+<P> <U> VERB + BLESSING </U><B> give, make, pronounce, say </B><I>The blessing was said in Hebrew. </I><B>| ask (for) </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>ask God's blessing on their pastoral work </I> </P>
+</DIV>

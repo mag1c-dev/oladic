@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>pink </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> pale red </TT> </P>
+<P> <U> VERBS </U><B> glow </B><I>The western sky was glowing pink. </I> </P>
+<P> <U> ADV. </U><B> very | slightly </B> </P>
+<P> <U> ADJ. </U><B> bright, brilliant, fluorescent, hot, shocking, vivid | dark, deep, rich | baby, delicate, light, pale, pastel, soft | dusky | coral, pearly, rose, salmon </B>&gt; Special page at COLOUR </B> </P>
+<P> <SUP> 2 </SUP> <TT> red in the face </TT> </P>
+<P> <U> VERBS </U><B> be, glow, look | go, grow, turn </B><I>She could feel herself going pink. </I> </P>
+<P> <U> ADV. </U><B> very | faintly, quite, slightly </B> </P>
+<P> <U> ADJ. </U><B> bright </B> </P>
+<P> <U> PREP. </U><B> with </B><I>He was pink with anger. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>daylight </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad, full </B><I>He was robbed in broad daylight. </I><B>| natural </B><I>I prefer to work in natural daylight. </I> </P>
+<P> <U> VERB + DAYLIGHT </U><B> let in </B><I>The thin curtains let in the daylight. </I><B>| shut out </B><I>The shutters were closed to keep out the daylight. </I><B>| emerge into </B><I>The prisoners emerged, blinking, into daylight. </I> </P>
+<P> <U> DAYLIGHT + VERB </U><B> filter through sth, flood in, penetrate sth </B><I>A little daylight was filtering through the curtains. He drew back the curtains and the daylight flooded in. The daylight penetrated to the far corners of the room. </I><B>| break </B><I>Towards 6 a.m. daylight broke. </I><B>| fade </B><I>The evening turned cool as daylight faded. </I> </P>
+<P> <U> DAYLIGHT + NOUN </U><B> hours </B><I>The public has access during daylight hours. </I> </P>
+<P> <U> PREP. </U><B> before ~ </B><I>She was up before daylight. </I><B>| by ~ </B><I>By daylight the fire was almost under control. </I><B>| in ~ </B><I>I can see better in daylight. </I><B>| into the ~ </B><I>She went back out into the daylight. </I> </P>
+<P> <U> PHRASES </U><B> the hours of daylight </B><I>The machines roar incessantly during the hours of daylight. </I> </P>
+</DIV>

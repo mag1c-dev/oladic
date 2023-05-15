@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>smoke </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dense, thick | black, blue, grey, etc. | billowing | acrid, choking, stale | cigar, cigarette, pipe, tobacco </B> </P>
+<P> <U> QUANT. </U><B> cloud, column, haze, pall, plume, puff, spiral, wisp </B><I>We sat drinking in a haze of cigarette smoke. The witch disappeared in a puff of smoke. </I> </P>
+<P> <U> VERB + SMOKE </U><B> belch (out), blow, emit </B><I>The lorry ahead was belching out black smoke. Don't blow smoke in my face! </I><B>| exhale | inhale | go up in </B><I>The barn went up in smoke </I>(= was destroyed by a fire)</B><I>. </I><B>| be wreathed in </B><I>She sat there wreathed in cigarette smoke. </I> </P>
+<P> <U> SMOKE + VERB </U><B> belch, billow, curl, drift, fill, pour, rise from/into </B><I>Blue smoke curled upwards from her cigarette. </I><B>| hang </B><I>A pall of yellow smoke hung over the quarry. </I><B>| clear </B><I>When the smoke cleared we saw the extent of the damage. </I> </P>
+<P> <U> SMOKE + NOUN </U><B> plume, ring </B><I>I taught myself to blow smoke rings. </I><B>| signal | bomb | alarm, detector | emission | inhalation </B> </P>
+<P> <U> PHRASES </U><B> full of smoke, thick with smoke </B><I>The public bar was thick with stale tobacco smoke. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>smoke </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> cigarette/pipe, etc. </TT> </P>
+<P> <U> ADV. </U><B> heavily </B><I>He has always smoked heavily. </I> </P>
+<P> <SUP> 2 </SUP> <TT> meat/fish/cheese </TT> </P>
+<P> <U> ADV. </U><B> heavily | lightly </B><I>The ham is cured, then lightly smoked. </I> </P>
+</DIV>

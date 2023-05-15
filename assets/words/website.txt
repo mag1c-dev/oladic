@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>website </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> Internet | official, unofficial </B><I>the official website of Liverpool FC </I><B>| comedy, commercial, company, education/educational, golf, news, personal, travel, etc. </B> </P>
+<P> <U> VERB + WEBSITE </U><B> look for, search for | access, browse, check out, log into/onto, look at, visit | search </B><I>I was searching this history website for something about Alexander the Great. </I><B>| bookmark | have | build, create, design, develop, make, set up </B><I>We show you how to make your own website in ten simple steps. </I><B>| launch | upload | host, maintain, run, update </B> </P>
+<P> <U> WEBSITE + VERB </U><B> be/go down </B><I>There were so many visitors to the website that it went down. </I> </P>
+<P> <U> WEBSITE + NOUN </U><B> address, URL | designer </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>You can find details of all our products on our website. </I> </P>
+<P> <U> PHRASES </U><B> a link to a website </B><I>This page includes lots of links to other websites you may find interesting. </I>&gt; Special page at COMPUTER </B> </P>
+</DIV>

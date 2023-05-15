@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>lurch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little | sickening, sudden, violent </B> </P>
+<P> <U> VERB + LURCH </U><B> give </B><I>Her heart gave a little lurch when she saw him. </I><B>| feel </B><I>John felt a lurch of dismay. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The train stopped with a lurch. </I><B>| ~ into </B><I>Starting her own business was a lurch into the unknown. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>lurch </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> violently </B><I>Suddenly the train lurched violently. </I><B>| slightly | backwards, forward, sideways </B><I>She gave a little cry and lurched forwards. </I> </P>
+<P> <U> PREP. </U><B> along </B><I>The coach lurched along the mountain road. </I><B>| into </B><I>A man lurched into her office. </I><B>| towards </B><I>He lurched towards the door. </I> </P>
+<P> <U> PHRASES </U><B> lurch to your feet </B><I>The drunk lurched to his feet and tried to follow us. </I> </P>
+</DIV>

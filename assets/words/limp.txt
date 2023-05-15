@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>limp </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, hang, lie, look, seem </B><I>His arm hung limp at his side. Her hair looked limp and lifeless. </I><B>| become, go, grow </B><I>Her body suddenly went limp. </I> </P>
+<P> <U> ADV. </U><B> very | completely | rather</B> </P>
+</DIV><DIV class="item"><P class="word"><B>limp </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pronounced | slight </B> </P>
+<P> <U> VERB + LIMP </U><B> walk with | leave sb with </B><I>The accident had left him with a slight limp. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>limp </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly, heavily </B><I>He had hurt his leg and was limping badly. </I><B>| a little, slightly | along, away, off </B><I>He limped away from his car. </I> </P>
+</DIV>

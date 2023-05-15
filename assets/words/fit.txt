@@ -1,0 +1,37 @@
+
+<DIV class="item"><P class="word"><B>fit </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> healthy </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, get </B><I>the struggle to get fit and stay fit </I><B>| keep, stay </B><I>Go for a little jog to keep fit. </I><B>| make sb </B><I>Exercising once a week is not enough to make you fit. </I><B>| keep sb </B><I>gentle exercises designed to keep you fit </I> </P>
+<P> <U> ADV. </U><B> extremely, fighting, really, very </B><I>He seemed fighting fit and ready for action. </I><B>| fully </B><I>John isn't fully fit yet after his operation. </I><B>| fairly, pretty, quite, reasonably | physically </B><I>She felt physically fitter and more alive than she could ever remember. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The doctor said she was now fit for work. </I> </P>
+<P> <U> PHRASES </U><B> as fit as a fiddle </B>(= very healthy), <B>fit and healthy/well </B><I>She looks really fit and well. </I><B>| fit and ready </B> </P>
+<P> <SUP> 2 </SUP> <TT> suitable </TT> </P>
+<P> <U> VERBS </U><B> consider sth, see, think </B><I>The newspaper did not see fit to publish my letter </I>(= and I criticize it for that)</B><I>. You must do as you think fit </I>(= but I don't agree with your decision)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The food was not fit for human consumption. </I> </P>
+<P> <U> PHRASES </U><B> fit and proper </B><I>(law) circumstances in which someone is not considered a fit and proper person to run a bank </I><B>| fit for a king </B><I>It was a meal fit for a king </I>(= of very good quality)</B><I>. </I><B>| in no fit state </B><I>He's so angry he's in no fit state to see anyone. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>fit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden attack of illness </TT> </P>
+<P> <U> ADJ. </U><B> bad, major | convulsive, epileptic, fainting </B> </P>
+<P> <U> VERB + FIT </U><B> be seized by/with </B><I>(literary)</I>, <B>have, suffer </B><I>She suffered a major fit last year. </I><B>| suffer from </B><I>He suffers from fits of depression. </I><B>| die of | bring on, cause, trigger (off) </B><I>He suffers from a brain disorder that can trigger off convulsive fits. </I><B>| control </B><I>new drugs that can control fits </I><B>| prevent </B> </P>
+<P> <U> FIT + VERB </U><B> happen, occur </B><I>The fits usually occur at night. </I> </P>
+<P> <U> PREP. </U><B> during/in a ~ </B><I>She hurt her arm during one of her fits. </I> </P>
+<P> <SUP> 2 </SUP> <TT> short period of coughing/laughter/strong feeling </TT> </P>
+<P> <U> ADJ. </U><B> coughing, screaming, sneezing </B> </P>
+<P> <U> VERB + FIT </U><B> have, throw </B><I>My dad will throw a fit if he finds out! </I><B>| burst into, collapse in/into, erupt in/into, fall into </B><I>She collapsed in a fit of laughter. </I><B>| bring on </B><I>The cold air brought on one of his coughing fits. </I> </P>
+<P> <U> FIT + VERB </U><B> be over, pass </B><I>When her coughing fit was over she continued to speak. </I> </P>
+<P> <U> PREP. </U><B> in a ~ of </B><I>He pushed the referee in a fit of temper. </I><B>| ~ of </B><I>a fit of anger/giggles </I> </P>
+<P> <U> PHRASES </U><B> have sb in fits (of laughter) </B><I>The comedian had them all in fits of laughter. </I> </P>
+<P> <SUP> 3 </SUP> <TT> way sth fits/way two things match </TT> </P>
+<P> <U> ADJ. </U><B> good </B><I>We need to achieve the best fit between the staff required and the staff available. </I><B>| correct, exact, perfect | poor </B><I>The door was a poor fit and didn't open properly. </I><B>| close, snug, tight | loose | comfortable </B><I>The jersey is a comfortable fit?not too tight and not too loose. </I><B>| statistical </B> </P>
+<P> <U> VERB + FIT </U><B> achieve, get, produce </B><I>File away any excess metal until a snug fit is achieved. </I><B>| ensure </B><I>The shoe has a special strap to ensure correct fit. </I><B>| give (sth) </B><I>The formula gives a much better fit to the experimental data. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the statistical fit between the interest rate and investment </I> </P>
+<P> <U> PHRASES </U><B> a lack of fit </B><I>He argues that there is a lack of fit between our system of values and capitalism. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>fit </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> right size/type </TT> </P>
+<P> <U> ADV. </U><B> neatly, nicely, securely, snugly, tightly, well </B><I>The pencils fit neatly into this box. </I><B>| exactly, perfectly </B><I>The screws fitted the holes exactly. </I><B>| badly </B><I>The top of the box fitted badly and some of the contents had spilled out. </I><B>| easily </B><I>That chair should fit into the room easily. </I><B>| together </B><I>These two pieces of wood fit together to make the base. </I> </P>
+<P> <U> VERB + FIT </U><B> be designed to </B><I>The waste unit is designed to fit under the sink. </I> </P>
+<P> <U> PREP. </U><B> in, into, onto, over, under, etc. </B><I>Will this box fit into the cupboard? </I> </P>
+<P> <SUP> 2 </SUP> <TT> agree/match </TT> </P>
+<P> <U> ADV. </U><B> perfectly </B> </P>
+<P> <U> PREP. </U><B> for </B><I>Your experience fits you perfectly for the job. </I> </P>
+</DIV>

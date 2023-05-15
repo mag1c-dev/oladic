@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>pattern </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> arrangement of lines, shapes, etc. </TT> </P>
+<P> <U> ADJ. </U><B> intricate | geometric | floral </B> </P>
+<P> <U> VERB + PATTERN </U><B> have </B><I>The jumper has a geometric pattern on it. </I><B>| design, make, print, produce, weave </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He had arranged the glasses in a pattern on the table. </I><B>| ~ on </B><I>the pattern on the carpet </I> </P>
+<P> <SUP> 2 </SUP> <TT> usual manner </TT> </P>
+<P> <U> ADJ. </U><B> basic, existing, familiar, normal, predictable, regular, set, traditional </B><I>There is no set pattern for these meetings. </I><B>| changing, ever-changing | complex | main | overall </B><I>The overall pattern of our life changes little. </I><B>| behaviour | employment | weather </B> </P>
+<P> <U> VERB + PATTERN </U><B> establish, set | follow </B><I>Their actions follow a very predictable pattern. </I><B>| fall into, fit into </B><I>ideas that do not fit neatly into his patterns of thought </I><B>| show </B><I>67% of patients showed a similar pattern of improvement. </I> </P>
+<P> <U> PATTERN + VERB </U><B> develop, emerge </B><I>Similar patterns are emerging all over Eastern Europe. </I><B>| change </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the normal pattern for a boy/girl relationship </I><B>| ~ in </B><I>the main patterns in English spelling </I><B>| ~ of </B><I>patterns of behaviour </I> </P>
+</DIV>

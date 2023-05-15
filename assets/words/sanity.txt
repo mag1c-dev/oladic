@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>sanity </b><i>noun </i> </p>
+<p> <u> VERB + SANITY </u><div class="ex"><b> doubt, question </b></div><div class="excontent"><i>There were moments when he doubted his own sanity. </i></div><div class="ex"><b>| fear for </b></div><div class="excontent"><i>I fear for her sanity if this continues much longer. </i></div><div class="ex"><b>| keep, maintain, preserve, retain </b></div><div class="excontent"><i>Getting away at weekends is the only way I can retain my sanity. </i></div><div class="ex"><b>| lose | recover, regain | threaten </b></div><div class="excontent"><i>The pace of city life threatens our sanity. </i> </div></p>
+<p> <u> SANITY + VERB </u><div class="ex"><b> return </b></div><div class="excontent"><i>Stock market trading slowly settled down as sanity returned. </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> for your ~ </b></div><div class="excontent"><i>Such a move is essential for the sanity of all concerned. </i> </div></p>
+</div>

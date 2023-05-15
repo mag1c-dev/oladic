@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>average </B><I>adj. </I> </P>
+<P> <U> ADV. </U><B> very </B><I>Peter was a very average golfer. </I><B>| fairly | above, below </B><I>an above average climb in prices </I> </P>
+</DIV><DIV class="item"><P class="word"><B>average </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> annual | national </B><I>The national average is just over two children per family. </I><B>| overall | weighted | batting, bowling (both in cricket) </B> </P>
+<P> <U> VERB + AVERAGE </U><B> arrive at, calculate, find, work out </B><I>You'll have to calculate the average. </I> </P>
+<P> <U> PREP. </U><B> above ~ </B><I>His test results are well above average. </I><B>| below ~, on ~ </B><I>On average, prices have risen 6%. </I> </P>
+</DIV>

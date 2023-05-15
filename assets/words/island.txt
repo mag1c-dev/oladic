@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>island </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> outlying, remote </B><I>a ferry service to the outlying islands </I><B>| coral, tropical, volcanic | desert, uninhabited | offshore </B><I>His money is in an offshore island bank. </I> </P>
+<P> <U> QUANT. </U><B> chain, group </B><I>a group of tropical islands </I> </P>
+<P> <U> ISLAND + NOUN </U><B> chain, group </B><I>the island chain of the Outer Hebrides </I><B>| home </B><I>They were forced to leave their island home and start a new life on the mainland. </I><B>| paradise </B><I>the island paradise of Phuket </I> </P>
+<P> <U> PREP. </U><B> on an/the ~ </B><I>He owns a house on the island. </I> </P>
+<P> <U> PHRASES </U><B> the &hellip; coast/end/side/tip of an island </B><I>The best beaches are on the southern tip of the island. </I> </P>
+</DIV>

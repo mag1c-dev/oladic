@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>lightning </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> forked, sheet </B><I>Forked lightning flickered across the sky. </I> </P>
+<P> <U> QUANT. </U><B> bolt, flash </B><I>A bolt of lightning struck the roof of the building. </I> </P>
+<P> <U> LIGHTNING + VERB </U><B> flash, flicker, fork, light sth (up) </B><I>Lightning flashed outside. Lightning lit up the night sky. </I><B>| hit sb/sth, strike sb/sth </B><I>Lightning hit the tree. He was struck by lightning. </I> </P>
+<P> <U> LIGHTNING + NOUN </U><B> bolt, flash | strike </B><I>Lightning strikes caused scores of fires across the state. </I><B>| speed </B> </P>
+<P> <U> PHRASES </U><B> thunder and lightning</B> </P>
+</DIV>

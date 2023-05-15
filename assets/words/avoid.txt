@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>avoid </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> prevent sth </TT> </P>
+<P> <U> ADV. </U><B> altogether </B><I>It is sometimes impossible to avoid conflict altogether. </I><B>| narrowly </B><I>They narrowly avoided defeat in the semi-final. </I><B>| at all costs </B><I>Getting involved in a court case is something to be avoided at all costs. </I> </P>
+<P> <U> VERB + AVOID </U><B> be anxious to, want to, wish to </B><I>They are anxious to avoid any further misunderstandings. </I><B>| attempt to, try to | be careful to, take care to </B><I>He was careful to avoid any sentimentality in his speech. </I><B>| help (to) | be able to, manage to | be possible to | be difficult to, be impossible to </B> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to avoid sth </B><I>He failed in his attempt to avoid having to pay. </I> </P>
+<P> <SUP> 2 </SUP> <TT> keep away from sb </TT> </P>
+<P> <U> ADV. </U><B> carefully, deliberately, studiously </B><I>The two men carefully avoided one another. </I> </P>
+<P> <U> VERB + AVOID </U><B> try to </B> </P>
+<P> <SUP> 3 </SUP> <TT> not hit sb/sth when driving </TT> </P>
+<P> <U> ADV. </U><B> narrowly </B><I>He braked hard and narrowly avoided a parked van. </I> </P>
+<P> <U> VERB + AVOID </U><B> brake to | swerve to </B><I>She swerved to avoid a cyclist. </I> </P>
+</DIV>

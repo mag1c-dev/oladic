@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>jerk </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sharp, sudden | painful </B> </P>
+<P> <U> VERB + JERK </U><B> give </B><I>His thigh muscle gave a sudden jerk. </I> </P>
+<P> <U> PREP. </U><B> with a ~ of </B><I>She answered with a jerk of her head. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>jerk </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> suddenly | sharply, violently | convulsively, spasmodically | away, back, backwards, downwards, forward, round, up, upright, upwards </B><I>She suddenly jerked her hand away. His head jerked up. </I> </P>
+<P> <U> PHRASES </U><B> jerk awake </B><I>The train stopped and she jerked awake. </I><B>| jerk sth open </B><I>He jerked the door open. </I><B>| jerk to a halt/stop </B><I>The bus jerked to a stop. </I> </P>
+</DIV>

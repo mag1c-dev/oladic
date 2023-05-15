@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>generate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> quickly | automatically, spontaneously </B><I>People used to believe that dirt spontaneously generated disease. </I><B>| randomly </B><I>a sequence of randomly generated fractions </I><B>| externally, internally </B><I>internally generated revenue </I><B>| locally </B> </P>
+<P> <U> VERB + GENERATE </U><B> help (to) </B><I>the opportunity to help generate ideas </I><B>| be used to </B><I>The wind turbines are used to generate electricity. </I><B>| be expected to, be likely to </B><I>The lottery is expected to generate substantial funds for charities. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>Living cells generate energy from food. profits generated from the company's activities </I> </P>
+</DIV>

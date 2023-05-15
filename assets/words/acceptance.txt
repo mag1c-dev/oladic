@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>acceptance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, full, total, unconditional, wholehearted | conditional, grudging, reluctant | gradual | greater, growing, increasing </B><I>Alternative medicines are now winning greater acceptance among doctors. </I><B>| general, popular, public, universal, wide, widespread | blind, easy, immediate, ready, uncritical, unquestioning, voluntary </B><I>Their attitude was condemned as blind acceptance of authority. </I><B>| implicit, passive, tacit | formal, official | social </B> </P>
+<P> <U> VERB + ACCEPTANCE </U><B> find, gain, win </B><I>The idea was slow to gain general acceptance. </I><B>| seek </B><I>The group is now seeking formal acceptance. </I> </P>
+<P> <U> ACCEPTANCE + NOUN </U><B> speech</B> </P>
+</DIV>

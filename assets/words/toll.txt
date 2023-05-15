@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>toll </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money that you pay to use a road, bridge, etc. </TT> </P>
+<P> <U> ADJ. </U><B> motorway, road </B> </P>
+<P> <U> VERB + TOLL </U><B> charge, collect, exact, impose, levy </B><I>the possibility of imposing tolls on some motorways </I><B>| pay </B> </P>
+<P> <U> TOLL + NOUN </U><B> bridge, motorway, road | booth | charge </B> </P>
+<P> <SUP> 2 </SUP> <TT> amount of damage done/number of people killed </TT> </P>
+<P> <U> ADJ. </U><B> great, heavy, terrible, tragic | casualty, death, injury | human </B> </P>
+<P> <U> VERB + TOLL </U><B> take </B><I>The pressure of fame can take a terrible toll. The recession is taking its toll. </I> </P>
+<P> <U> TOLL + VERB </U><B> mount, rise </B><I>The death toll from yesterday's crash is still rising. </I><B>| reach sth </B><I>The casualty toll could reach 200. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>Illness has taken a heavy toll on her. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>knitting </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hand, machine | plain, purl </B> </P>
+<P> <U> QUANT. </U><B> piece </B><I>Sew the two pieces of knitting together </I><B>| row </B><I>I had to undo several rows of knitting. </I> </P>
+<P> <U> VERB + KNITTING </U><B> do </B><I>She sat doing her knitting while she watched television. </I><B>| undo </B> </P>
+<P> <U> KNITTING + NOUN </U><B> machine, needle | wool, yarn | pattern</B> </P>
+</DIV>

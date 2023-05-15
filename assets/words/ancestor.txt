@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>ancestor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> direct </B><I>The builder of the manor house is a direct ancestor of the present owner. </I><B>| immediate | distant, early, remote </B><I>a distant ancestor of mine Our earliest ancestors lived in a world fraught with danger. </I><B>| common </B><I>The two species share a common ancestor. </I><B>| illustrious </B><I>The Romans built these monuments to glorify their illustrious ancestors. </I> </P>
+<P> <U> VERB + ANCESTOR </U><B> be descended from, have, share </B><I>A lot of the people there are descended from a common ancestor. </I><B>| trace </B><I>He can trace his ancestors back to the reign of James the First. </I> </P>
+</DIV>

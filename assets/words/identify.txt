@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>identify </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> accurately, correctly </B><I>The new test will enable us to identify more accurately patients who are most at risk. Did you identify all the pictures correctly? </I><B>| falsely, incorrectly, wrongly | positively | clearly, unambiguously, unequivocally </B><I>We have not yet clearly identified the source of the pollution. </I><B>| formally </B><I>Someone has to formally identify the body. </I><B>| easily, readily </B><I>I could identify him easily if I saw him again. </I><B>| tentatively </B><I>All three structures dated to the third century and were tentatively identified as shrines. </I> </P>
+<P> <U> VERB + IDENTIFY </U><B> be able/unable to, can </B><I>tests that can identify people at risk of cancer </I><B>| be easy to, be possible to | be difficult to | be necessary to | attempt to, seek to, try to | be used to, enable sb to, help to | decline to </B><I>The newspaper declined to identify the source of the allegations. </I> </P>
+<P> <U> PHRASES </U><B> a means/way of identifying sb/sth </B><I>one means of identifying the disease in its early stages </I><B>PHRASAL VERBS identify with sb </B> </P>
+<P> <U> ADV. </U><B> closely, strongly </B><I>She identified strongly with the main character in the play. </I> </P>
+<P> <U> VERB + IDENTIFY </U><B> can/could </B><I>I can't identify with men like him. </I><B>identify sb with sth </B> </P>
+<P> <U> ADV. </U><B> closely </B><I>The policy is closely identified with the prime minister himself. </I><B>| clearly</B> </P>
+</DIV>

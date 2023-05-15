@@ -1,0 +1,21 @@
+<DIV class="item"><P class="word"><B>share </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully </B><I>Personal experience of childbirth gives a dimension of knowledge that others cannot fully share. </I><B>| equally </B><I>We shared the money equally between the three of us. </I><B>| out </B> </P>
+<P> <U> VERB + SHARE </U><B> want to | be prepared to, be willing to </B><I>experienced teachers willing to share their expertise with others </I><B>| be reluctant to | be forced to, have to | agree to | refuse to | be entitled to </B><I>Each partner is entitled to share in the profits of the business. </I><B>| let sb </B><I>She wished he would let her share his pain. </I> </P>
+<P> <U> PREP. </U><B> among </B><I>How do you share out three cakes among four people? </I><B>| between </B><I>Responsibility is shared between parents and teachers. </I><B>| in </B><I>He shared in our enthusiasm for rowing. </I><B>| with </B><I>She had to share a bedroom with her sister. </I> </P>
+<P> <U> PHRASES </U><B> widely shared </B><I>These ideas are widely shared in the community. </I> </P>
+</DIV>
+
+<DIV class="item"><P class="word"><B>share </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of sth that has been divided </TT> </P>
+<P> <U> ADJ. </U><B> bigger, large, the lion's, major, significant, substantial | full | modest </B><I>a modest share of total exports </I><B>| 5%, 10%, etc. </B><I>The wife owns an 80% share of their second home. </I><B>| equal | disproportionate </B><I>The government devotes a disproportionate share of the budget to military expenditure. </I><B>| proportionate | market </B><I>The company's market share slipped to under 15% last month. </I> </P>
+<P> <U> VERB + SHARE </U><B> get, have, receive, take </B><I>You should receive a large share of the profits. Hospitals take the lion's share of the NHS budget. </I><B>| increase, reduce | claim </B><I>Everyone seems to want to get into television to claim their share of fame and fortune. </I><B>| do </B><I>We must all do our share of the work. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a reduced share of the vote </I> </P>
+<P> <U> PHRASES </U><B> sb/sth has their/its (fair) share of sth </B><I>The industry has had its fair share of problems. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in a company </TT> </P>
+<P> <U> ADJ. </U><B> ordinary | preference </B> </P>
+<P> <U> VERB + SHARE </U><B> acquire, buy, get, invest in, purchase | have, hold </B><I>(formal)</I>, <B>own | sell | deal in, trade in </B><I>a new firm dealing in US shares </I><B>| float, issue </B><I>The company has issued four classes of shares. </I> </P>
+<P> <U> SHARE + NOUN </U><B> price, value </B><I>Hong Kong share prices plunged. </I><B>| valuation | certificate | portfolio | capital | option, scheme </B><I>The Chief Executive's share option has earned him over </I>&pound;</B><I>2 million. </I><B>| ownership | transaction, transfer | purchase | issue, offer, sale </B><I>A share issue has been launched to finance the restoration of the building. </I><B>| dealing </B><I>allegations of illegal share dealings </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>I've got a few shares in British Aerospace. </I> </P>
+<P> <U> PHRASES </U><B> a class of shares, the value of your shares </B><I>Will this affect the value of my shares? </I> </P>
+<a href="/collocation-tag/financial" class="tag">Learn more about FINANCIAL</a>
+</DIV>

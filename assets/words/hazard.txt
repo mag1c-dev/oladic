@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hazard </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, great, major, real, serious | constant | possible, potential | hidden, unexpected, unseen | environmental, industrial, natural, occupational </B><I>industrial hazards such as excessive noise and pollution Loneliness is one of the occupational hazards of being a writer. </I><B>| health </B><I>Other people's smoke is now seen as a health hazard. </I><B>| fire </B><I>The rubbish under the flooring is a serious fire hazard. </I> </P>
+<P> <U> VERB + HAZARD </U><B> cause, create, pose </B><I>Production of these chemicals poses serious environmental hazards. </I><B>| be exposed to, encounter, face, meet </B><I>The worst hazard we faced was having our money stolen. </I><B>| avoid </B><I>Go in September if you want to avoid the hazard of extreme heat. </I><B>| eliminate, minimize | cope with, deal with, negotiate </B><I>Companies should have systems for dealing with work hazards. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Holes in the pavement are a hazard for blind people. </I><B>| ~ to </B><I>The burning of industrial waste is a major hazard to human health. </I> </P>
+<P> <U> PHRASES </U><B> exposure to a hazard </B><I>Try and reduce your exposure to hazards such as poor quality air. </I> </P>
+</DIV>

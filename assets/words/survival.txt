@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>survival </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long-term, short-term | continued | day-to-day | sheer </B><I>fighting for the sheer survival of the museum </I><B>| improved </B><I>The study showed improved survival of patients using the drug. </I><B>| chance, miraculous </B><I>the chance survival of the king's letters to his mistress </I><B>| business, economic, human, national, physical, political </B> </P>
+<P> <U> VERB + SURVIVAL </U><B> fight for | ensure </B><I>The campaign will hopefully ensure the survival of the tiger. </I><B>| improve, prolong </B><I>Chemotherapy can prolong survival in cancer patients. </I><B>| threaten </B><I>The arrival of this South American predator threatened the survival of native species. </I><B>| be crucial for/to, be essential to, be necessary for, be vital for/to </B><I>Adaptability is essential to survival in a changing environment. </I> </P>
+<P> <U> SURVIVAL + NOUN </U><B> chances, rate | skills, strategy | kit </B><I>The expedition members carried flares in their survival kit. </I><B>| instinct </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>the struggle for survival against such well-armed enemies </I><B>| ~ as </B><I>his survival as leader </I> </P>
+<P> <U> PHRASES </U><B> a battle/fight/struggle for survival, be a matter/question of survival </B><I>For the poorest people, life was merely a matter of survival. </I><B>| a chance of survival </B><I>Doctors gave him only a 50% chance of survival. </I><B>| the instinct for survival </B><I>He lacked the common instinct for survival. </I><B>| a threat to the survival of sth </B><I>The main threat to the survival of these creatures comes from their loss of habitat. </I> </P>
+</DIV>

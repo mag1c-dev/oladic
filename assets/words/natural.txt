@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>natural </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not made by people </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>All the fibres are natural. </I> </P>
+<P> <U> ADV. </U><B> completely </B><I>completely natural materials </I> </P>
+<P> <SUP> 2 </SUP> <TT> usual/normal </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound </B> </P>
+<P> <U> ADV. </U><B> only, perfectly, quite </B><I>It's only natural that she should feel upset. </I><B>| fairly</B> </P>
+</DIV>

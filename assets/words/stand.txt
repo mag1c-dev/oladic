@@ -1,0 +1,27 @@
+
+<DIV class="item"><P class="word"><B>stand </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> effort to resist opposition </TT> </P>
+<P> <U> ADJ. </U><B> defiant, determined, firm, strong, tough | moral, principled | last, last-ditch | public </B> </P>
+<P> <U> VERB + STAND </U><B> make, take </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>to make a stand against industries that contribute to river pollution </I><B>| ~ on </B><I>He has taken a public stand on the issue of misuse of hospital funds. </I> </P>
+<P> <SUP> 2 </SUP> <TT> table/small shop </TT> </P>
+<P> <U> ADJ. </U><B> market, trade | hot-dog, newspaper, etc. | display, exhibition | information </B> </P>
+<P> <U> VERB + STAND </U><B> have </B><I>Our company has a display stand at this year's fair. </I><B>| set up | man </B><I>We took it in turns to man the exhibition stand. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We can get a magazine at the newspaper stand. </I><B>| on the ~ </B><I>I'll be on the stand for two hours. You'll find brochures on our new products on the stand. </I> </P>
+<P> <SUP> 3 </SUP> <TT> furniture/equipment for putting sth on </TT> </P>
+<P> <U> ADJ. </U><B> hat, umbrella | microphone, music </B> </P>
+<P> <U> PREP. </U><B> in/on a/the ~ </B><I>There was some flute music open on the music stand. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stand </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> be on your feet/be upright </TT> </P>
+<P> <U> ADV. </U><B> upright | still </B><I>Stand still while I take your photo. </I><B>| barefoot | on tiptoe </B><I>She stood on tiptoe to reach the shelf. </I><B>| awkwardly, meekly, stiffly, uncertainly </B><I>He stood awkwardly in the doorway, not sure what to say. </I><B>| around, there </B><I>Don't just stand there?do something. </I> </P>
+<P> <U> VERB + STAND </U><B> can/can't, could/couldn't </B><I>The roof was so low I could not stand upright. </I><B>| can/could barely/hardly </B><I>He felt so weak he could hardly stand. </I> </P>
+<P> <U> PHRASES </U><B> be left standing </B><I>After the earthquake only a few houses were left standing. </I> </P>
+<P> <SUP> 2 </SUP> <TT> tolerate sth </TT> </P>
+<P> <U> VERB + STAND </U><B> can/can't, could/couldn't </B><I>I can't stand that man! </I><B>| can/could hardly </B> </P>
+<P> <SUP> 3 </SUP> <TT> be a candidate in an election </TT> </P>
+<P> <U> ADV. </U><B> successfully, unsuccessfully </B> </P>
+<P> <U> PREP. </U><B> against </B><I>Two candidates will be standing against her. </I><B>| as </B><I>She stood unsuccessfully as a candidate in the local elections. </I><B>| for </B><I>He is standing for Oxford East in the parliamentary election. </I><B>PHRASAL VERBS stand by </B> </P>
+<P> <U> ADV. </U><B> idly, passively </B><I>Surely the world cannot stand idly by and let this country go through the agony of war yet again? </I> </P>
+<P> <U> VERB + STAND </U><B> can/can't, could/couldn't stand up </B> </P>
+<P> <U> ADV. </U><B> straight </B><I>You'll look taller if you stand up straight. </I> </P>
+</DIV>

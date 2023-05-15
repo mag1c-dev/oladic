@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>genuine </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> real </TT> </P>
+<P> <U> VERBS </U><B> be, look, prove | consider sth </B><I>The document is not considered genuine. </I> </P>
+<P> <U> ADV. </U><B> absolutely, completely, perfectly, quite </B><I>Her happiness was perfectly genuine. </I><B>| apparently | obviously | undoubtedly </B> </P>
+<P> <SUP> 2 </SUP> <TT> sincere </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem, sound </B> </P>
+<P> <U> ADV. </U><B> really, very | absolutely, completely, perfectly, quite </B><I>I'm convinced she is absolutely genuine. </I><B>| enough </B><I>His offer sounded genuine enough. </I><B>| apparently | obviously | undoubtedly</B> </P>
+</DIV>

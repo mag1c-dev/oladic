@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>brief </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be </B><I>I promised to be brief. </I><B>| keep sth, make sth </B><I>Could you make it brief? I've got a meeting in ten minutes. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | fairly, quite, rather | comparatively, relatively | necessarily </B><I>This necessarily brief account concentrates on two main areas. </I><B>| mercifully </B><I>The wait was mercifully brief, little more than an hour. </I><B>| tantalizingly </B><I>The diary entries were tantalizingly brief. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>brief </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear, detailed, written | legal, technical </B> </P>
+<P> <U> VERB + BRIEF </U><B> prepare, produce, write </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She makes all these points in her brief. </I><B>| outside sb's ~ </B><I>How the new policy is to be implemented is outside his brief. </I><B>| ~ on </B><I>a technical brief on food hygiene </I> </P>
+<P> <U> PHRASES </U><B> be part of sb's brief </B><I>It's not part of my brief to advise on financial matters. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>brief </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully, properly, well </B> </P>
+<P> <U> PREP. </U><B> about </B><I>The men have been fully briefed about the intended mission. </I><B>| on </B><I>Each member of my crew took it in turn to brief me on his particular duties. </I> </P>
+</DIV>

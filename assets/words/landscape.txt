@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>landscape </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> barren, bleak, dramatic, rocky, rugged </B><I>the dramatic landscape of the desert </I><B>| beautiful | rural, urban </B><I>an urban landscape of factories and skyscrapers </I><B>| industrial | winter | lunar | political, social </B><I>(both figurative) The political landscape of the country has changed since unemployment rose. </I> </P>
+<P> <U> VERB + LANDSCAPE </U><B> conserve, preserve, protect </B><I>the need to conserve the rural landscape </I><B>| dominate </B><I>The power station dominates the landscape. </I> </P>
+<P> <U> LANDSCAPE + NOUN </U><B> architect, gardener | design, gardening | painter, photographer | painting</B> </P>
+</DIV>

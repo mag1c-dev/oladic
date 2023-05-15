@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>distraction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that takes your attention away </TT> </P>
+<P> <U> ADJ. </U><B> unwanted | welcome </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>She worked hard all morning, without distraction. </I><B>| ~ from </B><I>Work was a welcome distraction from her problems at home. </I> </P>
+<P> <SUP> 2 </SUP> <TT> being unable to think clearly </TT> </P>
+<P> <U> VERB + DISTRACTION </U><B> drive sb to </B><I>My kids drive me to distraction at times. </I><B>| be bored to | love sb to</B> </P>
+</DIV>

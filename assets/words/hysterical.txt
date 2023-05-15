@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>hysterical </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> suffering from/caused by hysteria </TT> </P>
+<P> <U> VERBS </U><B> be, feel, sound </B><I>Emily realized that she sounded hysterical. </I><B>| become, get </B><I>Calm down, you're getting hysterical. </I> </P>
+<P> <U> ADV. </U><B> completely | almost, nearly </B><I>By this time Mary was almost hysterical. </I><B>| faintly, mildly, rather, slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> very funny </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> absolutely, totally </B><I>The whole episode was absolutely hysterical! </I> </P>
+</DIV>

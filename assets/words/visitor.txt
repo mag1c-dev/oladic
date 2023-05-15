@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>visitor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> constant, frequent, regular | occasional | seasonal | rare | casual | first-time </B><I>First-time visitors to Spain are often surprised by how late people eat. </I><B>| welcome | surprise, unexpected | uninvited, unwanted, unwelcome | potential, prospective, would-be </B><I>The latest crime figures are likely to put off prospective visitors to the city. </I><B>| foreign, international, overseas | annual, yearly | business, holiday, tourist | museum | home, hospital, prison | health </B><I>The baby's weight is monitored by the health visitor. </I> </P>
+<P> <U> VERB + VISITOR </U><B> get, have, receive </B><I>Do you get many visitors? </I><B>| expect </B><I>The house was tidy and I could see he was expecting visitors. </I><B>| entertain </B><I>The front room was used mainly for entertaining visitors. </I><B>| attract, bring (in) </B><I>The festival brings 5,000 visitors to the town every year. </I><B>| interest </B><I>The town has much to interest the visitor. </I><B>| deter </B><I>The lack of facilities in the town may deter the casual visitor. </I><B>| admit </B><I>The college only admits visitors in organized groups. </I> </P>
+<P> <U> VISITOR + VERB </U><B> come, flock, turn up </B><I>Visitors flocked to see the show. </I> </P>
+<P> <U> VISITOR + NOUN </U><B> attraction | centre </B><I>Pick up a free map of the town from the visitor centre. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>Visitors from Ireland will find much that reminds them of home. </I><B>| ~ to </B><I>visitors to the museum </I> </P>
+</DIV>

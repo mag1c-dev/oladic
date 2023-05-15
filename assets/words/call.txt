@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>call </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on the telephone </B> </TT> </P>
+<P> <U> ADJ. </U><B> phone/telephone | long | quick, short </B><I>I'll just make a quick phone call. </I><B>| local | international, long-distance, trunk | direct-dialled | incoming | outgoing | emergency | anonymous, hoax, nuisance, obscene, unsolicited | wake-up  </B><I>I ordered a wake-up call for 6.30 the next morning. </B> </P>
+<P> (figurative) Last night's defeat should be a wake-up call for the team. </I> </P>
+<P> <U> VERB + CALL </U><B> give sb, make, place </B><I>Give us a call to say when you have arrived. She asked her secretary to place a call through to England. </I><B>| get, have, receive | answer, take </B><I>I'll take the call upstairs. </I><B>| return </B><I>I left a message but he didn't return my call. </I><B>| put through, transfer </B><I>Ask the receptionist to put your call through to my room. </I> </P>
+<P> <U> CALL + NOUN </U><B> box </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Were there any calls for me while I was out? </I><B>| ~ from </B><I>You had a call from Fred. </I><B>| ~ to </B><I>I made a call to a friend in London. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sound to attract attention </TT> </P>
+<P> <U> ADJ. </U><B> loud | distinctive </B><I>the distinctive call of the cuckoo </I><B>| plaintive </B><I>the bird's plaintive call </I><B>| distress | bird | clarion, rallying </B><I>(both figurative) This election is a clarion call for our country to face the challenges of the new era. </I> </P>
+<P> <U> VERB + CALL </U><B> let out | hear </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a call for help </I> </P>
+<P> <SUP> 3 </SUP> <TT> short visit </TT> </P>
+<P> <U> ADJ. </U><B> business, courtesy, social </B> </P>
+<P> <U> VERB + CALL </U><B> make, pay (sb) </B><I>The doctor has several calls to make this morning. </I> </P>
+<P> <U> PREP. </U><B> on a ~ </B><I>She's out on a call. </I><B>| ~ on </B><I>Her first call was on the local library. </I> </P>
+<P> <U> PHRASES </U><B> first/last/next port of call </B><I>Our first port of call </I>(= the first place we went to) </B><I>was the chemist's. </I> </P>
+<P> <SUP> 4 </SUP> <TT> request/demand </TT> </P>
+<P> <U> ADJ. </U><B> renewed, repeated | last </B><I>This is the last call for passengers travelling on British Airways flight 199 to Rome. </I><B>| strike </B> </P>
+<P> <U> VERB + CALL </U><B> issue | renew </B><I>Drink-drive campaigners have renewed their call for the introduction of random breath tests. </I><B>| answer, heed, respond to </B><I>Around 10,000 workers heeded the union's strike call. </I><B>| reject </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The charity issued a call for donations to assist victims of the earthquake. </I> </P>
+<P> <U> PHRASES </U><B> a call to arms </B>(= a strong request for people to fight in the army) <I>(figurative) The president's speech was a call to arms to restore the vitality of the American dream. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>call </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> commonly | originally | collectively </B><I>a range of very small organisms, collectively called nanoplankton </I><B>| variously </B><I>a plant variously called &lsquo;cow parsley&rsquo; and &lsquo;Queen Anne's lace&rsquo; </I><B>| aptly | quaintly | euphemistically </B><I>The prison is euphemistically called a &lsquo;rehabilitation centre&rsquo;. </I> </P>
+<P> <U> PREP. </U><B> by </B><I>We usually call him by his nickname. </I> </P>
+</DIV>

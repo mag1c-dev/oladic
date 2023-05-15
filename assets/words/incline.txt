@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>incline </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> bend forward </TT> </P>
+<P> <U> ADV. </U><B> slightly </B><I>Luke inclined his head slightly in acknowledgement. </I><B>| graciously, politely </B> </P>
+<P> <SUP> 2 </SUP> <TT> lean/slope </TT> </P>
+<P> <U> ADV. </U><B> gently, steeply </B> </P>
+<P> <U> PREP. </U><B> towards </B><I>The land inclined gently towards the shore. </I> </P>
+</DIV>

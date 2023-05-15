@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>plough </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy </B> </P>
+<P> <U> VERB + PLOUGH </U><B> draw, pull </B><I>They need two horses to pull these heavy ploughs. </I><B>| guide </B> </P>
+<P> <U> PLOUGH + NOUN </U><B> boy, team | furrow</B> </P>
+</DIV>

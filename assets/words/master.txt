@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>master </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person in charge </TT> </P>
+<P> <U> ADJ. </U><B> political </B><I>His political masters are all old right-wing politicians. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He wants to be master of his own destiny. </I> </P>
+<P> <SUP> 2 </SUP> <TT> person with skill </TT> </P>
+<P> <U> ADJ. </U><B> acknowledged, great </B><I>This portrait is the work of an acknowledged master. </I> </P>
+<P> <U> MASTER + NOUN </U><B> builder, craftsman </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a master of disguise </I> </P>
+<P> <U> PHRASES </U><B> be a past master at/in/of sth </B>(= to be very good at sth) <I>He's a past master at delaying meetings. </I></P>
+<P> <SUP> 3 </SUP> <TT> Master's: university degree  </TT> </P>
+<P> <U> VERB + MASTER </U><B> do, study for, take </B><I>He did a Master's at Hull University. </I><B>| get </B><I>She got her Master's last year. </I> </P>
+<P> <U> MASTER + NOUN </U><B> Master's degree </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a Master's in politics </I> </P>
+</DIV><DIV class="item"><P class="word"><B>master </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely, entirely, fully, quite | quickly </B> </P>
+<P> <U> VERB + MASTER </U><B> be difficult to </B><I>a technique that was surprisingly difficult to master </I><B>| struggle to, try to </B><I>the challenge of trying to master a new language </I><B>| fail to </B> </P>
+<P> <U> PHRASES </U><B> master the art of sth </B><I>He never completely mastered the art of lip-reading. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>brick </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> red </B><I>a house of red brick </I> </P>
+<P> <U> VERB + BRICK </U><B> lay </B><I>learning to lay bricks properly </I> </P>
+<P> <U> BRICK + NOUN </U><B> wall | building | works </B><I>He got a job at the local brick works. </I> </P>
+<P> <U> PREP. </U><B> in/of ~ </B><I>houses of brick </I> </P>
+<P> <U> PHRASES </U><B> brick by brick </B><I>They moved the whole house, brick by brick. </I><B>| bricks and mortar </B><I>investing in bricks and mortar </I><B>| a course of bricks </B><I>They put an extra course of bricks round the pool. </I> </P>
+</DIV>

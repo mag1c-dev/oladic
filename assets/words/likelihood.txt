@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>likelihood </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> every </B><I>There's every likelihood that she'll be able to help us. </I><B>| greater, increased | real, strong </B> </P>
+<P> <U> VERB + LIKELIHOOD </U><B> decrease, minimize, reduce </B><I>Taking regular exercise reduces the likelihood of a heart attack. </I><B>| increase, maximize, raise | affect </B><I>This shouldn't affect the likelihood of you getting the job. </I> </P>
+<P> <U> LIKELIHOOD + VERB </U><B> grow | diminish </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Is their any likelihood of our getting our money back? </I> </P>
+<P> <U> PHRASES </U><B> in all likelihood </B><I>In all likelihood, he'll be fit to play on Saturday. </I> </P>
+</DIV>

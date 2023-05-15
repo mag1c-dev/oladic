@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>teaching </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> work/profession of a teacher </TT> </P>
+<P> <U> ADJ. </U><B> effective, good | poor | classroom </B><I>a system that rewards good classroom teaching </I><B>| whole-class | individual, one-to-one | collaborative, team </B> | mixed-ability | formal, <B>traditional </B><I>the formal teaching of grammar </I><B>| creative, experimental | remedial, support | academic, college, graduate, postgraduate, primary, school, secondary, undergraduate, university | English, language, music, etc. </B> </P>
+<P> <U> VERB + TEACHING </U><B> get/go into </B><I>He's going to go into teaching. </I> </P>
+<P> <U> TEACHING + NOUN </U><B> method, strategy, style, technique | aid, material, resource </B><I>She used puppets as teaching aids. </I><B>| aim, objective, point </B><I>Write each teaching point on the whiteboard. </I> <B>| ability, skills | experience, qualification </B><I>Applicants must hold a recognized teaching qualification. </I><B>| job, post | career </B><I>Mr Murphy retired at the end of a disciples who passed on Jesus's teaching </I><B>| base sth on </B><I>the great moral teachings on which our culture is based </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>regarded as the source of goodness in the teachings of Confucius </I><B>| ~ about/on </B><I>the Church's teaching on forgiveness 30-year teaching career. </I><B>| practice </B><I>You have to do six weeks teaching practice as part of the course. </I> <B>| staff, profession </B><I>They have left the teaching profession, demoralized and undervalued. </I><B>| commitments, duties, load, responsibilities, role </B><I>Lecturers who have heavy teaching loads. </I><B>| centre, establishment, institution | environment, situation </B><I>a teaching environment where English is not the first language </I><B>| programme, session, term, year </B><I>Work experience is integrated into the teaching programme. The teaching year runs from October to May. </I><B>| time </B><I>Critics say that these tests waste teaching time. </I><B>| hospital </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>I've been in teaching for ten years. </I> </P>
+<P> <U> PHRASES </U><B> an approach to teaching </B><I>the modern approach to language teaching </I><B>| a method/style of teaching </B> </P>
+<P> <SUP> 2 </SUP> <TT> ideas and beliefs that are taught by sb </TT> </P>
+<P> <U> ADJ. </U><B> ancient, traditional | biblical, moral, religious | Buddhist, Christian, etc. </B> </P>
+<P> <U> VERB + TEACHING </U><B> follow </B><I>He followed the teachings of the Koran on this subject. </I><B>| reject | explain, interpret | pass on, spread </B><I>the </I> </P>
+</DIV>

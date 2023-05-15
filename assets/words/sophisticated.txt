@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>sophisticated </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> having a lot of experience of the world </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, get </B> </P>
+<P> <U> ADV. </U><B> highly, very </B><I>She was a highly sophisticated and elegant woman. </I><B>| quite, rather | enough, sufficiently | intellectually, politically </B> </P>
+<P> <SUP> 2 </SUP> <TT> advanced and complicated </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become, get </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>incredibly sophisticated computers </I><B>| increasingly | fairly, pretty, quite, rather, relatively | enough, sufficiently | technically, technologically</B> </P>
+</DIV>

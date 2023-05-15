@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>capture </B><I>noun </I> </P>
+<P> <U> VERB + CAPTURE </U><B> avoid, escape, evade </B><I>The refugees evaded capture by hiding in the forest. </I><B>| lead to </B><I>This information led to the capture of the murderer. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>capture </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> perfectly </B><I>That description captures perfectly the feeling of being invisible. </I><B>| brilliantly, neatly </B> </P>
+<P> <U> VERB + CAPTURE </U><B> attempt to, try to | manage to | fail to </B><I>The exhibition on India fails to capture the great diversity of this fascinating country. </I> </P>
+</DIV>

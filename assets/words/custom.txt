@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>custom </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accepted, age-old, ancient, established, old, traditional | quaint | local | social </B> </P>
+<P> <U> VERB + CUSTOM </U><B> follow, observe, respect </B><I>They still follow the custom of pinning money to the bride's dress. </I><B>| maintain, preserve, revive </B> </P>
+<P> <U> CUSTOM + VERB </U><B> die out, disappear </B><I>The custom died out in the nineteenth century. </I><B>| prevail, survive </B><I>These customs still prevail in remote areas. </I> </P>
+<P> <U> PREP. </U><B> according to a/the ~, in accordance with (a/the) ~ </B><I>They poured wine round the trees in accordance with local custom. </I><B>| through ~ </B><I>The rules have grown up through custom and are not laid down by law. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> as is/was the custom </B><I>People threw coins onto the stage, as was the custom. </I> </P>
+</DIV>

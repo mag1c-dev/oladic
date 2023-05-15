@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>means </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> method of doing sth </TT> </P>
+<P> <U> ADJ. </U><B> appropriate, best, effective, efficient, reliable, useful </B><I>an effective means of mass communication </I><B>| necessary, possible, practicable </B><I>We will use every possible means to achieve our objective. </I><B>| alternative, other </B><I>War is famously &lsquo;the continuation of policy by other means&rsquo;. </I><B>| conventional, traditional | legal, legitimate </B> </P>
+<P> <U> VERB + MEANS </U><B> have </B><I>We have no means of knowing how they will react. </I><B>| use | offer (sb), provide (sb with) </B><I>My English teacher provided me with the means to enjoy reading poetry. </I><B>| devise </B><I>Can you devise a means of overcoming the problem? </I> </P>
+<P> <U> PREP. </U><B> by ~ (of) </B><I>The stone was lifted by means of a rope and pulley. </I><B>| through ~ </B><I>They cannot achieve their goal through legal means. </I><B>| ~ for </B><I>the means for achieving happiness </I><B>| ~ of </B><I>a means of access/communication/transport a means of getting what you want </I> </P>
+<P> <U> PHRASES </U><B> a means to an end </B><I>He saw his education merely as a means to an end. </I><B>| by fair means or foul, by no means/not by any means </B>(= not at all), <B>ways and means </B><I>There are ways and means of raising money. </I> </P>
+<P> <SUP> 2 </SUP> <TT> money/wealth </TT> </P>
+<P> <U> ADJ. </U><B> independent, private </B><I>She must have independent means to live in such style. </I><B>| limited, moderate, modest, slender | visible </B><I>people who lack visible means of support </I> </P>
+<P> <U> VERB + MEANS </U><B> have | lack </B> </P>
+<P> <U> MEANS + NOUN </U><B> test </B><I>Eligibility for the benefit was determined by a means test. </I> </P>
+<P> <U> PREP. </U><B> according to your ~ </B>(= according to what you can afford), <B>beyond your ~ </B><I>Private school fees are beyond the means of most people </I>(= more than they can afford)</B><I>. </I><B>| within your ~ </B>(= according to what you can afford) <I>She finds it difficult to live within her means. </I> </P>
+<P> <U> PHRASES </U><B> a man/woman of means </B>(= a rich man/woman)  </P>
+</DIV>

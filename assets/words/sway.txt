@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>sway </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> from side to side/backwards and forwards </TT> </P>
+<P> <U> ADV. </U><B> gently, lightly, a little, slightly | alarmingly, dangerously, precariously </B><I>The stage swayed alarmingly under their weight. </I><B>| dizzily, drunkenly, unsteadily | back and forth, backwards and forwards, from side to side </B><I>The cow's udder swayed from side to side as she walked along. </I> </P>
+<P> <U> VERB + SWAY </U><B> begin to </B> </P>
+<P> <U> PREP. </U><B> in </B><I>The curtains swayed gently in the breeze. </I> </P>
+<P> <SUP> 2 </SUP> <TT> influence sb/sth </TT> </P>
+<P> <U> ADV. </U><B> easily </B><I>He will not easily be swayed by argument. </I> </P>
+</DIV>

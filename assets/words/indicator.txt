@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>indicator </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sign showing what sth is like </TT> </P>
+<P> <U> ADJ. </U><B> good, reliable, sure | poor, unreliable </B><I>Level of education is actually quite a poor indicator of ability to run a business well. </I><B>| sensitive | crude, partial, rough | simple | key, leading, main, major | important, significant | useful, valuable | economic, financial, performance, social, socio-economic </B><I>performance indicators such as language and numeracy skills </I> </P>
+<P> <U> VERB + INDICATOR </U><B> be, serve as </B><I>These warts can serve as an indicator of other infections. </I><B>| provide (sb with) | regard sth as, see sth as, take sth as </B><I>Gold prices are often seen as an indicator of inflation. </I><B>| use (sth as) | develop </B><I>It is still difficult to develop indicators for many concepts used in social science. </I> </P>
+<P> <U> INDICATOR + VERB </U><B> show sth, suggest sth </B><I>Economic indicators suggest that a recovery is on the way. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>an indicator for the presence of minerals </I> </P>
+</DIV>

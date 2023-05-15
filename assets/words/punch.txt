@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>punch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, powerful | knockout </B> </P>
+<P> <U> VERB + PUNCH </U><B> deliver, give sb, land, swing, throw </B><I>She gave him a punch on the nose. He can throw a powerful punch. </I><B>| pull </B><I>He pulled his punches to avoid hurting his sparring partner. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a punch in the stomach </I><B>| ~ on </B><I>She gave him a punch on the nose. </I><B>| ~ to </B><I>a punch to the jaw </I> </P>
+</DIV><DIV class="item"><P class="word"><B>punch </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard | lightly | repeatedly </B> </P>
+<P> <U> PREP. </U><B> in </B><I>His attacker had punched him hard in the face. </I><B>| on </B><I>She punched him on the nose. </I> </P>
+<P> <U> PHRASES </U><B> kick and punch/punch and kick </B><I>He was repeatedly kicked and punched as he lay on the ground. </I> </P>
+</DIV>

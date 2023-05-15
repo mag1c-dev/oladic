@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>squeeze </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> pressing with fingers </TT> </P>
+<P> <U> ADJ. </U><B> affectionate | comforting, reassuring </B> </P>
+<P> <U> VERB + SQUEEZE </U><B> give sb </B><I>He gave his mother a comforting squeeze as he left. </I> </P>
+<P> <U> PHRASES </U><B> ~ of </B><I>A squeeze of her hand reassured him. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in a small space </TT> </P>
+<P> <U> ADJ. </U><B> tight </B><I>There were seven of us in the car and it was a tight squeeze. </I> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>We can get six in the car at a squeeze. </I> </P>
+<P> <U> PHRASES </U><B> a bit of a squeeze </B> </P>
+<P> <SUP> 3 </SUP> <TT> reduction in money </TT> </P>
+<P> <U> ADJ. </U><B> cash, credit, economic, financial, profits, tax </B> </P>
+<P> <U> VERB + SQUEEZE </U><B> feel </B><I>All manufacturers are feeling the squeeze. </I><B>| put </B><I>The government is trying to put the squeeze on high earners. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a squeeze on spending </I> </P>
+</DIV><DIV class="item"><P class="word"><B>squeeze </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> press sth hard </TT> </P>
+<P> <U> ADV. </U><B> hard, tightly | gently </B><I>&lsquo;I know,&rsquo; she said, squeezing his hand gently. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>squeezing the juice from a lemon </I><B>| out of </B><I>I squeezed the last bit of toothpaste out of the tube. </I> </P>
+<P> <U> PHRASES </U><B> freshly squeezed </B><I>freshly squeezed orange juice </I> </P>
+<P> <SUP> 2 </SUP> <TT> limit the money available </TT> </P>
+<P> <U> ADV. </U><B> hard, severely </B><I>High interest rates have squeezed the industry hard. </I> </P>
+</DIV>

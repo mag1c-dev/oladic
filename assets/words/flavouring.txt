@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>flavouring </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> artificial, natural </B><I>This product contains only natural flavourings. </I><B>| food | peppermint, vanilla, etc. </B> </P>
+<P> <U> QUANT. </U><B> drop </B><I>Add a few drops of peppermint flavouring. </I> </P>
+<P> <U> VERB + FLAVOURING </U><B> contain | use </B><I>We don't use any artificial flavourings in our products. </I><B>| add</B> </P>
+</DIV>

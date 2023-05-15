@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>mix </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, right </B><I>a party with just the right mix of people </I><B>| judicious | curious, odd, strange | fascinating, interesting, intriguing | rich | heady, potent, powerful | eclectic </B><I>an eclectic mix of theatrical styles </I><B>| broad | cosmopolitan | cultural, ethnic, racial | marketing, product | cake </B><I>a packet of cake mix </I><B>| concrete, mortar </B> </P>
+<P> <U> VERB + MIX </U><B> contain, have </B> </P>
+<P> <U> MIX + VERB </U><B> vary </B><I>The precise mix will vary. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The college has a broad mix of students. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>mix </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> combine things </TT> </P>
+<P> <U> ADV. </U><B> thoroughly, well </B><I>Mix all the ingredients together thoroughly. </I><B>| gently </B><I>When the rice is cooked, gently mix in all the other ingredients. </I><B>| in, together </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Mix yellow with blue to make green. </I> </P>
+<P> <U> PHRASES </U><B> mix and match/pick and mix </B>(= combine things in different ways for different purposes) <I>You can mix and match courses to suit your requirements. </I> </P>
+<P> <SUP> 2 </SUP> <TT> meet people </TT> </P>
+<P> <U> ADV. </U><B> easily, well </B><I>a child who mixes well at school </I><B>| freely </B><I>Whites and blacks mixed freely at dance halls and clubs. </I><B>| happily | socially </B><I>They had attended university together and often mixed socially. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She mixed happily with the other children. </I> </P>
+</DIV>

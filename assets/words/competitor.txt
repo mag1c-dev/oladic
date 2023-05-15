@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>competitor </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in business </TT> </P>
+<P> <U> ADJ. </U><B> biggest, chief, leading, main, major | fierce, serious, strong </B><I>The company has no serious competitors in this area. </I><B>| closest, direct, nearest | domestic, local | foreign, international, overseas </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>fierce competitors for the dominant position in the Asian market </I> </P>
+<P> <SUP> 2 </SUP> <TT> person who takes part in a competition </TT> </P>
+<P> <U> ADJ. </U><B> strong, top </B><I>She is one of the sport's top competitors. </I><B>| successful </B> </P>
+<P> <U> COMPETITOR + VERB </U><B> enter sth </B><I>Ten competitors entered the race. </I> </P>
+</DIV>

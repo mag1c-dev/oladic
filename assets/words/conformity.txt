@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>conformity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete | strict | outward </B><I>a society of outward religious conformity </I><B>| political, religious, sexual, social </B> </P>
+<P> <U> QUANT. </U><B> degree </B> </P>
+<P> <U> VERB + CONFORMITY </U><B> achieve, bring sth into, ensure </B><I>to bring national laws into conformity with European laws </I> </P>
+<P> <U> PREP. </U><B> in ~ with </B><I>The procedure is in strict conformity with standard international practices. </I><B>| ~ between </B><I>to achieve conformity between all the schemes </I><B>| ~ to </B><I>conformity to the accepted standards </I><B>| ~ with </B><I>We work to ensure conformity with the customer's wishes. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>hold </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act/way of holding sth </TT> </P>
+<P> <U> ADJ. </U><B> firm, tight </B><I>He still had me in a tight hold. </I> </P>
+<P> <U> VERB + HOLD </U><B> catch, get, grab, grasp, seize, take </B><I>Take hold of the handle and give it a hard pull. </I><B>| have, keep </B><I>He kept a firm hold on my hand. </I><B>| lose </B><I>He lost his hold on the rock and was swept away by the tide. </I><B>| tighten | relax, release </B><I>She finally released her hold on me. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He tightened his hold on her. </I> </P>
+<P> <SUP> 2 </SUP> <TT> influence/control over sb </TT> </P>
+<P> <U> ADJ. </U><B> firm, powerful, strong, tight </B><I>He still has a firm hold on the party. </I><B>| increasing | fragile, tenuous, weak </B><I>Her hold on power was now quite tenuous. </I> </P>
+<P> <U> VERB + HOLD </U><B> have | lose </B><I>The allies lost their hold on northern France. </I><B>| consolidate, strengthen, tighten </B><I>Enemy forces have consolidated their hold on the northern province. </I><B>| break, weaken </B><I>an attempt to break the hold of the Church </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>This had weakened his hold on power. </I><B>| ~ over </B><I>He no longer had any hold over her. </I> </P>
+</DIV>

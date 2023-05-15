@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>pitch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sports field </TT> </P>
+<P> <U> ADJ. </U><B> all-weather, grass, non-turf, synthetic | waterlogged | cricket, hockey, football, rugby </B> </P>
+<P> <U> VERB + PITCH </U><B> invade, run onto </B><I>The pitch was invaded by angry fans. </I> </P>
+<P> <U> PITCH + NOUN </U><B> invasion </B><I>Police could do nothing to stop the pitch invasion. </I> </P>
+<P> <U> PREP. </U><B> off the ~ </B><I>The players have just come off the pitch. Negotiations about his transfer are continuing off the pitch. </I><B>| on a/the ~ </B><I>He was the best player on the pitch today. </I> </P>
+<P> <SUP> 2 </SUP> <TT> strength of feeling </TT> </P>
+<P> <U> ADJ. </U><B> fever, high </B><I>Excitement rose to fever pitch the day before the procession. </I> </P>
+<P> <U> VERB + PITCH </U><B> reach, rise to </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>to reach a high pitch of excitement </I> </P>
+<P> <SUP> 3 </SUP> <TT> of a musical note </TT> </P>
+<P> <U> ADJ. </U><B> high, low | correct </B><I>The instrument is not tuned to the correct pitch. </I> </P>
+<P> <U> VERB + PITCH </U><B> fall in, rise in </B><I>Her voice fell slightly in pitch as she grew older. </I> </P>
+<P> <U> PHRASES </U><B> have absolute/perfect pitch </B>(= to be able to recognize or produce any given note)  </P>
+</DIV><DIV class="item"><P class="word"><B>pitch </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> fall over/throw sb </TT> </P>
+<P> <U> ADV. </U><B> violently </B><I>The explosion pitched her violently into the air. </I><B>| forward, headlong </B> </P>
+<P> <U> PREP. </U><B> from </B><I>There was a loud bang and he was pitched from his seat. </I><B>| into </B><I>If they hit any unseen obstacle they would be pitched headlong into the snow. </I><B>| out of </B> </P>
+<P> <SUP> 2 </SUP> <TT> of a ship/aircraft </TT> </P>
+<P> <U> ADV. </U><B> violently </B><I>The boat pitched violently in a heavy swell. </I> </P>
+<P> <SUP> 3 </SUP> <TT> set sth at a particular level </TT> </P>
+<P> <U> ADV. </U><B> deliberately </B><I>Estimates have been deliberately pitched on the conservative side. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>The test is pitched at a high GCSE standard. </I> </P>
+<P> <U> PHRASES </U><B> pitch sth high/low </B><I>The price has been pitched quite high. Her voice was pitched low. </I> </P>
+</DIV>

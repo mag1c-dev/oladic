@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>monopoly </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> control by one company </TT> </P>
+<P> <U> ADJ. </U><B> effective, near, virtual | absolute, total | government, state | domestic, local, national </B> </P>
+<P> <U> VERB + MONOPOLY </U><B> enjoy, exercise, have, hold </B><I>The company has a virtual monopoly in world markets. </I><B>| create, establish, gain, get, secure, set up | keep, maintain, preserve, retain | lose | give sb, grant sb, guarantee sb </B><I>This Act of Parliament guaranteed solicitors a monopoly on particular legal services. </I><B>| challenge </B><I>companies who are challenging the state monopolies </I><B>| break (up), end </B><I>attempts to break the company's monopoly of the sugar industry </I> </P>
+<P> <U> MONOPOLY + NOUN </U><B> position </B><I>The company was able to exploit its monopoly position. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>creating a monopoly in the export of wool </I><B>| ~ of </B><I>One company holds a monopoly of the raw materials. </I><B>| ~ on </B><I>The company lost its monopoly on exporting beer to India. </I><B>| ~ over </B><I>maintaining their monopoly over local bus services </I> </P>
+<P> <SUP> 2 </SUP> <TT> organization </TT> </P>
+<P> <U> ADJ. </U><B> giant, huge, powerful | public, state, state-controlled, state-owned </B><I>the privatization of state-owned monopolies such as the gas and electricity industries </I><B>| private | statutory</B> </P>
+</DIV>

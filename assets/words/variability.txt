@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>variability </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, extreme, great, high, wide </B><I>There is considerable variability in all the test scores. </I><B>| low, slight </B> </P>
+<P> <U> QUANT. </U><B> degree </B> </P>
+<P> <U> PREP. </U><B> ~ among/between </B><I>variability among different health authorities </I><B>| ~ in </B><I>variability in crop yields </I> </P>
+</DIV>

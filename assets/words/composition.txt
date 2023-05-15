@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>composition </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> parts that form sth </TT> </P>
+<P> <U> ADJ. </U><B> overall </B><I>The overall composition of the Senate was Democrats 57 and Republicans 43. </I><B>| internal </B><I>the character of the state and its internal composition </I><B>| exact, precise | changing </B><I>the changing composition of the labour force </I><B>| age, class, demographic, ethnic, family, gender, household, population, racial, social </B><I>the ethnic composition of the region </I><B>| species | chemical, mineralogical </B> </P>
+<P> <U> VERB + COMPOSITION </U><B> determine </B><I>elections to determine the composition of the assembly </I> </P>
+<P> <U> COMPOSITION + VERB </U><B> change, differ </B><I>Has household composition changed in the last decade? </I> </P>
+<P> <U> PHRASES </U><B> a change in the composition of sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> piece of music </TT> </P>
+<P> <U> ADJ. </U><B> classical, instrumental, musical | original </B><I>an origina</I>l </B><I>composition by a popular youn</I>g </B><I>compose</I>r </B> </P>
+<P> <U> VERB + COMPOSITION </U><B> write | perform, play </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>a composition by John Cage </I><B>| ~ for </B><I>a composition for violin and piano </I> </P>
+<P> <SUP> 3 </SUP> <TT> art of writing music </TT> </P>
+<P> <U> ADJ. </U><B> classical, free, instrumental, musical </B> </P>
+<P> <U> PHRASES </U><B> a method of composition </B> </P>
+<P> <U> VERB + COMPOSITION </U><B> study </B> </P>
+<P> <SUP> 4 </SUP> <TT> piece of writing </TT> </P>
+<P> <U> ADJ. </U><B> literary, original, prose </B> </P>
+<P> <U> VERB + COMPOSITION </U><B> do, write </B><I>In the exam, you have to do a composition. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a composition on the effects of crime </I> </P>
+<P> <SUP> 5 </SUP> <TT> art of writing </TT> </P>
+<P> <U> ADJ. </U><B> literary, metrical, poetic, prose, written </B> </P>
+<P> <U> PHRASES </U><B> a method of composition </B> </P>
+<P> <SUP> 6 </SUP> <TT> work of art </TT> </P>
+<P> <U> ADJ. </U><B> abstract, figure, formal, pictorial | original | perfect </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>a composition by the sculptor, Bernt Notke </I> </P>
+</DIV>

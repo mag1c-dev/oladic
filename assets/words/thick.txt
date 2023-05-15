@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>thick </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> of solid things/growing things </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, really, very | fairly, quite, rather, relatively </B><I>Use fairly thick wads of newspaper. </I><B>| enough, sufficiently </B><I>a screen of trees thick enough to conceal the building entirely </I> </P>
+<P> <SUP> 2 </SUP> <TT> of liquid </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become, get </B><I>The paint's got too thick. I'll have to thin it down. </I> </P>
+<P> <U> ADV. </U><B> very | fairly, quite, rather | enough, sufficiently </B> </P>
+<P> <SUP> 3 </SUP> <TT> of fog/smoke/air </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, grow </B><I>The air had grown thick and smoky. </I> </P>
+<P> <U> ADV. </U><B> very | fairly, quite, rather </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The air was thick with dust. (figurative) The atmosphere was thick with tension. </I> </P>
+</DIV>

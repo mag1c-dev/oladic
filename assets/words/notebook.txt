@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>notebook </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bound, leather-bound, spiral-bound | loose-leaf | pocket | shorthand | reporter's </B> </P>
+<P> <U> VERB + NOTEBOOK </U><B> enter sth in, jot sth down in, record sth in, scribble (sth) in, write sth down in, write (sth) in | draw (out), get out, pull out, take out </B><I>She drew a notebook from her bag. </I><B>| tear a page/sheet from, tear out a page/sheet of | consult | fill | carry | keep </B><I>She kept a notebook during the trip. </I> </P>
+<P> <U> NOTEBOOK + NOUN </U><B> computer </B> </P>
+<P> <U> PREP. </U><B> in a/your ~ </B> </P>
+<P> <U> PHRASES </U><B> an entry in a notebook</B> </P>
+</DIV>

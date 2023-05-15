@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>succeed </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> manage to achieve what you want; do well </TT> </P>
+<P> <U> ADV. </U><B> admirably, brilliantly, well </B><I>The plan succeeded pretty well. </I><B>| not quite | nearly </B><I>They very nearly succeeded in blowing up the parliament building. </I><B>| largely </B><I>We feel that we have largely succeeded in our aims. </I><B>| partially, partly | eventually, finally | apparently | academically </B><I>the pressure on children to succeed academically </I> </P>
+<P> <U> VERB + SUCCEED </U><B> be likely/unlikely to </B><I>The appeal is unlikely to succeed. </I><B>| be determined to, hope to, want to </B><I>No company can hope to succeed at everything. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>to succeed against serious opposition </I><B>| at </B><I>She can teach you how to succeed at tennis. </I><B>| in </B><I>She has succeeded in a difficult career. We succeeded in repairing the engine. </I><B>| with </B><I>hints on how to succeed with interior design </I> </P>
+<P> <SUP> 2 </SUP> <TT> have a job/position after sb else </TT> </P>
+<P> <U> VERB + SUCCEED </U><B> appoint sb to, elect sb to </B><I>He was appointed to succeed Sir Georg Solti as head of the Chicago Symphony Orchestra. </I><B>| be tipped to </B> </P>
+<P> <U> PREP. </U><B> as </B><I>He was widely tipped to succeed William Hague as leader of the party. </I><B>| to </B><I>She succeeded to the throne in 1558. </I> </P>
+</DIV>

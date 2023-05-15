@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>amenity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excellent | basic | local </B><I>The campsite is close to all local amenities. </I><B>| modern </B><I>a hotel with all modern amenities </I><B>| public </B><I>The building will be developed as a public amenity. </I><B>| recreational, social </B> </P>
+<P> <U> VERB + AMENITY </U><B> have </B><I>The hotel has excellent amenities. </I><B>| offer, provide </B><I>They will provide an amenity for local residents. </I><B>| lack </B><I>The flats lacked basic amenities. </I> </P>
+</DIV>

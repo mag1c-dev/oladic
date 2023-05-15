@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>effectiveness </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> overall | limited | operational, organizational, practical | educational, military, political | cost </B><I>This hard-wearing material combines cost effectiveness with quality. </I> </P>
+<P> <U> VERB + EFFECTIVENESS </U><B> assess, check, determine, evaluate, judge, measure, monitor, test | demonstrate </B><I>The exam results demonstrated the effectiveness of personal tuition. </I><B>| enhance, improve, increase, maximize | destroy, impair, limit, reduce | lose </B><I>The drugs work well at first but gradually lose their effectiveness. </I> </P>
+<P> <U> PREP. </U><B> ~ as </B><I>They're doing tests to evaluate the effectiveness of this herb as an antiseptic. </I><B>| ~ in </B><I>the effectiveness of penicillin in controlling bacterial infection </I> </P>
+</DIV>

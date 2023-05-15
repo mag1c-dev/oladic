@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>abandon </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> leave sb/sth </TT> </P>
+<P> <U> ADV. </U><B> hastily </B><I>The village had been hastily abandoned. </I> </P>
+<P> <U> PHRASES </U><B> be found/left abandoned </B><I>The car was found abandoned in a nearby town. </I> </P>
+<P> <SUP> 2 </SUP> <TT> stop doing/supporting sth </TT> </P>
+<P> <U> ADV. </U><B> altogether, completely, entirely, totally </B><I>The government does not propose to abandon the project altogether. </I><B>| effectively, largely, virtually </B><I>This principle has now been effectively abandoned. </I><B>| simply </B><I>Traditional policies were simply abandoned. </I><B>| formally | quickly | quietly </B><I>The plans for reform were quietly abandoned. </I><B>| temporarily | voluntarily </B> </P>
+<P> <U> VERB + ABANDON </U><B> be forced to | decide to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>He abandoned the army for politics. </I><B>| in favour of </B><I>She abandoned teaching career in favour of sport. </I> </P>
+</DIV>

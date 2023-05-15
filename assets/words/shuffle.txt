@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>shuffle </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> walk by sliding your feet along </TT> </P>
+<P> <U> ADV. </U><B> awkwardly, slowly </B><I>Simon shuffled awkwardly towards them. </I><B>| along, away, forward, out, off, over </B><I>The queue shuffled slowly forward. </I> </P>
+<P> <U> PREP. </U><B> across, down, into, out of, towards, etc. </B> </P>
+<P> <SUP> 2 </SUP> <TT> move your body/feet around </TT> </P>
+<P> <U> ADV. </U><B> nervously, uncomfortably, uneasily </B><I>She shuffled nervously on the bench. </I><B>| about, around </B><I>The boys shuffled around uncomfortably. </I> </P>
+<P> <U> PHRASES </U><B> shuffle in your chair/seat</B> </P>
+</DIV>

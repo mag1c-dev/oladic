@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>equipment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> the latest, modern, state-of-the-art, up-to-date | sophisticated | sensitive | heavy | portable | basic, standard | essential, necessary, vital </B><I>Hospitals are increasingly depending on charity for vital equipment. </I><B>| specialist | defective, faulty | outdated | labour-saving | domestic, household, kitchen | school | sports | play </B><I>The local council is supplying new play equipment for the playground. </I><B>| business, office | laboratory, scientific | computer, electrical, electronic, high-tech, technical | medical | military | communication, navigation, radar, radio, telecommunications | camera, photographic, video | life-saving, protective, safety, security | rescue | garden, gardening | intellectual, mental, physical, sensory </B><I>He lacks the intellectual equipment to succeed in politics. </I> </P>
+<P> <U> QUANT. </U><B> item, piece </B> </P>
+<P> <U> VERB + EQUIPMENT </U><B> provide, supply | use </B><I>The plane uses state-of-the-art navigation equipment. </I><B>| install | need, require </B><I>No specialist equipment is needed. </I> </P>
+<P> <U> EQUIPMENT + VERB </U><B> consist of sth </B><I>The basic equipment consists of a plastic mask and a length of rope. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>high-tech equipment for keeping the temperature steady </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>transfer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> massive </B><I>The war caused a massive transfer of population. </I><B>| efficient, smooth, successful </B><I>the smooth transfer of power to the new government </I><B>| net </B><I>There has been a net transfer of lower-paid people away from the inner cities. </I><B>| permanent </B><I>Her boss recommended a permanent transfer overseas. </I><B>| direct </B><I>Employees are paid by direct transfer to a bank account. </I><B>| data, information, knowledge | land, property | population | resource | technology | file, multimedia, software | inter-company, inter-hospital, etc. | bank, capital, cash, credit, financial, money, share, stock | electronic, telegraphic | embryo, gene | charge, electron, energy, heat, nuclear, thermal | close-season, free, 15-million-pound, etc. </B>(all in football) </B> </P>
+<P> <U> VERB + TRANSFER </U><B> make </B><I>Only the owner can make a transfer of goods. </I><B>| give sb </B><I>His club have given him a free transfer. </I> </P>
+<P> <U> TRANSFER + VERB </U><B> take place </B> </P>
+<P> <U> TRANSFER + NOUN </U><B> deal, fee, list, payment, price, system (all in football) </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the transfer of property between private buyers </I><B>| ~ from, ~ to</B> </P>
+</DIV><DIV class="item"><P class="word"><B>transfer </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully | directly </B><I>Skills cannot be transferred directly from a trainer to a trainee. </I><B>| easily </B><I>Data is easily transferred electronically. </I><B>| successfully | merely, simply | immediately | quickly, rapidly | gradually | eventually | temporarily | formally </B><I>Sovereignty was formally transferred on December 27. </I><B>| automatically | electronically | abroad, back </B><I>transferring assets abroad </I> </P>
+<P> <U> VERB + TRANSFER </U><B> agree to | refuse to </B> </P>
+<P> <U> PREP. </U><B> across/between </B><I>Can the disease be transferred across species? </I><B>| from, into </B><I>She transferred the sauce into a china jug. </I><B>| onto, to</B> </P>
+</DIV>

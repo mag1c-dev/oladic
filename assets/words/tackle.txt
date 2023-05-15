@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>tackle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bad, crunching, ferocious, high, hard, late, scything, strong </B><I>Their captain was sent off for a high tackle on Cooper. </I><B>| brave, skilful | cover, last-ditch </B><I>Only a last-ditch tackle by Song prevented Raul from scoring. </I><B>| sliding | flying </B><I>A security guard brought him down with a flying tackle. </I><B>| rugby </B> </P>
+<P> <U> VERB + TACKLE </U><B> execute, get in, go in for, make </B><I>I managed to get in a sliding tackle, but he scored anyway. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a crunching tackle from her opponent </I><B>| ~ on </B><I>He was booked for a tackle from behind on Morris. </I><B>| in a/the ~ </B><I>She lost the ball in a tackle. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tackle </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> deal with sth difficult </TT> </P>
+<P> <U> ADV. </U><B> properly, seriously | directly, head-on </B><I>The drugs problem has to be tackled head-on. </I><B>| effectively, successfully </B> </P>
+<P> <U> VERB + TACKLE </U><B> attempt to, try to | help (to) | fail to </B><I>failing to tackle the key issues </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The problem is being tackled with a range of measures. </I> </P>
+<P> <U> PHRASES </U><B> a way of tackling sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> in sport </TT> </P>
+<P> <U> ADV. </U><B> hard </B><I>He can run fast and tackle hard. </I> </P>
+</DIV>

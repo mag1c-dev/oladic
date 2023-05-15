@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>leader </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who is in charge of sth </TT> </P>
+<P> <U> ADJ. </U><B> born, natural | charismatic, effective, good, great, inspiring, inspired, visionary | undisputed | powerful, strong | weak | deputy | former | joint | local, national | opposition, parliamentary, party | Conservative, Labour, etc. | military, political, religious, spiritual | gang, guerrilla, nationalist, rebel | group, project, squadron, team </B><I>Discuss any problems with your team leader. </I><B>| business, church, civic, community, council, government, strike, student, (trade) union, youth </B><I>Business leaders have been in talks with the government. </I><B>| miners', teachers', etc. </B> </P>
+<P> <U> VERB + LEADER </U><B> be appointed, become, be elected | appoint (sb), appoint sb as, choose (sb as), elect (sb), elect sb as, nominate (sb), nominate sb as </B> </P>
+<P> <U> PHRASES </U><B> a leader of the Opposition </B> </P>
+<P> <SUP> 2 </SUP> <TT> person/team that is best or in first place </TT> </P>
+<P> <U> ADJ. </U><B> undisputed | brand, market, world </B><I>The company is a world leader in electrical goods. </I><B>| championship, league, tournament </B> </P>
+<P> <U> VERB + LEADER </U><B> overtake </B><I>aiming to overtake the market leaders within two years </I> </P>
+<P> <U> PREP. </U><B> behind the ~ </B><I>ten points behind league leaders Manchester United </I><B>| ~ in </B><I>the undisputed leader in her field </I> </P>
+</DIV>

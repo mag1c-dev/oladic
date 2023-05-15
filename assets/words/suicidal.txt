@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>suicidal </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> wanting to kill yourself </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, sound | become, get </B><I>He became very depressed and even got suicidal at one point. </I> </P>
+<P> <U> ADV. </U><B> almost </B> </P>
+<P> <SUP> 2 </SUP> <TT> likely to cause your failure </TT> </P>
+<P> <U> VERBS </U><B> be, prove </B> </P>
+<P> <U> ADV. </U><B> economically, politically </B><I>a move which would be politically suicidal </I> </P>
+<P> <U> PREP. </U><B> for </B><I>These policies would prove suicidal for our economy. </I> </P>
+</DIV>

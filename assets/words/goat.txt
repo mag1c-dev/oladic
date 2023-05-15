@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>goat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> billy, male | female, nanny | wild | mountain </B> </P>
+<P> <U> QUANT. </U><B> flock, herd </B> </P>
+<P> <U> VERB + GOAT </U><B> keep | milk | tether </B><I>Tethered goats grazed among the apple trees. </I> </P>
+<P> <U> GOAT + VERB </U><B> bleat | graze | wander </B> </P>
+<P> <U> PHRASES </U><B> goat's cheese/milk</B> </P>
+</DIV>

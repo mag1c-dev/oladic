@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>slaughter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> indiscriminate, mass, wholesale </B><I>the indiscriminate slaughter of civilians </I><B>| senseless, terrible | ritual </B> </P>
+<P> <U> VERB + SLAUGHTER </U><B> prevent, stop </B><I>We were helpless to stop the slaughter. </I> </P>
+<P> <U> SLAUGHTER + NOUN </U><B> house (also slaughterhouse) </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>transporting live horses for slaughter </I> </P>
+</DIV><DIV class="item"><P class="word"><B>slaughter </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> kill an animal </TT> </P>
+<P> <U> ADV. </U><B> humanely </B><I>The animals are all humanely slaughtered. </I><B>| ritually | illegally </B><I>elephants illegally slaughtered by poachers </I> </P>
+<P> <U> PREP. </U><B> for </B><I>Thousands of birds were slaughtered for their feathers. </I> </P>
+<P> <SUP> 2 </SUP> <TT> kill a large number of people </TT> </P>
+<P> <U> ADV. </U><B> brutally, cruelly </B><I>Hundreds of innocent civilians were cruelly slaughtered. </I> </P>
+</DIV>

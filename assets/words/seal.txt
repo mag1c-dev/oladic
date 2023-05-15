@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>seal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> animal </TT> </P>
+<P> <U> QUANT. </U><B> colony </B><I>A colony of seals lay basking in the sun. </I> </P>
+<P> <U> VERB + SEAL </U><B> cull </B><I>Environmentalists claim there is no reason to cull seals. </I> </P>
+<P> <U> SEAL + VERB </U><B> bark </B> </P>
+<P> <U> SEAL + NOUN </U><B> pup | cull </B> </P>
+<P> <SUP> 2 </SUP> <TT> for a document </TT> </P>
+<P> <U> ADJ. </U><B> wax </B><I>an official-looking letter with a wax seal </I> </P>
+<P> <U> VERB + SEAL </U><B> break </B><I>He broke the seal, and opened the envelope. </I> </P>
+<P> <U> PHRASES </U><B> a seal of approval </B><I>Her report was given the seal of approval by senior management. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>seal </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> close sth </TT> </P>
+<P> <U> ADV. </U><B> carefully, firmly, properly, tightly, well </B><I>The containers must be carefully sealed so that no air can get in. </I><B>| completely, totally </B><I>The unit is completely sealed. </I><B>| virtually | effectively | hermetically </B><I>a hermetically sealed container </I><B>| off, up </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The nuclear plant would be effectively sealed off from the world. </I><B>| with </B><I>He sealed the bag tightly with sticky tape. </I> </P>
+<P> <SUP> 2 </SUP> <TT> show formally that sth is agreed </TT> </P>
+<P> <U> ADV. </U><B> formally </B> </P>
+<P> <U> PHRASES </U><B> be signed and sealed </B><I>The contracts are already signed and sealed. </I> </P>
+</DIV>

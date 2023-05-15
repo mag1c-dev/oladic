@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>variety </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> not being the same; different kinds of sth </TT> </P>
+<P> <U> ADJ. </U><B> amazing, astonishing, bewildering, considerable, endless, enormous, exciting, extraordinary, fascinating, good, great, huge, impressive, incredible, infinite, large, remarkable, rich, surprising, tremendous, vast, wide, wonderful </B><I>The market sold a bewildering variety of cheeses. the rich variety of the local bird life </I> </P>
+<P> <U> VERB + VARIETY </U><B> add, give, offer </B><I>Dealing with customers adds variety to the job. </I> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>a country of great variety </I><B>| ~ in </B><I>There is wide variety in shape and colour. </I><B>| ~ of </B><I>Menus offer a good variety of seafood. </I> </P>
+<P> <SUP> 2 </SUP> <TT> particular type of sth </TT> </P>
+<P> <U> ADJ. </U><B> distinctive | common-or-garden, standard | rare, unusual | different </B><I>There are hundreds of different varieties of apple. </I><B>| new, old </B><I>Old varieties of rose can be less resistant to diseases. </I> </P>
+</DIV>

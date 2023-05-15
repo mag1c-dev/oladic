@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>championship </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> competition </TT> </P>
+<P> <U> ADJ. </U><B> major | international, national, world | British, European, etc. | swimming, tennis, etc. </B> </P>
+<P> <U> VERB + CHAMPIONSHIP </U><B> hold </B><I>The championships are to be held in Rome. </I><B>| compete in, take part in </B><I>Over thirty children will compete in the swimming championships. </I><B>| win </B><I>She has won four major championships in the last five years. </I><B>| lose </B> </P>
+<P> <U> CHAMPIONSHIP + VERB </U><B> take place </B> </P>
+<P> <U> CHAMPIONSHIP + NOUN </U><B> final, game, match, race | title, winner </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>I saw him play at last year's tennis championship. </I><B>| in a/the ~ </B><I>the teams in the championship </I> </P>
+<P> <SUP> 2 </SUP> <TT> position/title of champion </TT> </P>
+<P> <U> VERB + CHAMPIONSHIP </U><B> hold </B><I>Who holds the championship at the moment? </I><B>| take, win </B><I>He's won the championship for the third time in a row. </I><B>| lose | regain | retain </B><I>She managed to retain the championship. </I> </P>
+</DIV>

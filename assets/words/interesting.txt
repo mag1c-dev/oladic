@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>interesting </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem, sound | become, get | make sth | find sb/sth </B><I>I find her ideas really interesting. </I> </P>
+<P> <U> ADV. </U><B> deeply, especially, extraordinarily, extremely, highly, immensely, incredibly, intensely, most, particularly, really, terribly, very | equally | doubly | fairly, mildly, pretty, quite, rather | enough, sufficiently </B><I>Some topics appeared interesting enough to require more detailed information. </I><B>| potentially | inherently, intrinsically, in itself </B><I>This subject is intrinsically interesting and worthy of study in its own right. </I><B>| always </B><I>It was always interesting to hear his stories. </I><B>| architecturally, geologically, historically, sociologically </B><I>architecturally interesting buildings </I> </P>
+<P> <U> PREP. </U><B> for </B><I>It's not very interesting for visitors. </I><B>| to </B><I>How can we make the subject more interesting to young people? </I> </P>
+</DIV>

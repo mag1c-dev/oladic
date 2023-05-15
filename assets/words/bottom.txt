@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>bottom </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lowest part of sth </TT> </P>
+<P> <U> ADJ. </U><B> false </B><I>a case with a false bottom </I> </P>
+<P> <U> VERB + BOTTOM </U><B> arrive at, fall to, get to, reach, sink to </B><I>He reached the bottom of the steps in no time. The boat sank to the bottom of the sea. </I><B>| touch </B><I>She could only just touch the bottom </I>(= of a swimming pool, etc.)</B><I>. </I> </P>
+<P> <U> BOTTOM + NOUN </U><B> end, half </B> </P>
+<P> <U> PREP. </U><B> along the ~ </B><I>We rode along the bottom of the valley. </I><B>| at the ~ </B><I>at the bottom of the hill </I><B>| from the ~ </B><I>strange sounds from the bottom of the well </I><B>| in the ~ </B><I>in the bottom of my bag </I><B>| on the ~ </B><I>on the bottom of the box </I><B>| near/towards the ~ </B><I>near the bottom of the page </I> </P>
+<P> <SUP> 2 </SUP> <TT> least important position </TT> </P>
+<P> <U> VERB + BOTTOM </U><B> start at, work up from </B><I>He started at the bottom and worked his way up through the company. </I> </P>
+<P> <U> PREP. </U><B> at the ~, near/towards the ~ </B><I>He's near the bottom of the class. </I> </P>
+<P> <SUP> 3 </SUP> <TT> part of the body </TT> </P>
+<P> <U> ADJ. </U><B> bare </B> </P>
+<P> <U> VERB + BOTTOM </U><B> smack </B> </P>
+<P> <SUP> 4 </SUP> <TT> basic cause of sth/truth about sth </TT> </P>
+<P> <U> VERB + BOTTOM </U><B> be at, lie at </B><I>I'd love to know what lies at the bottom of all this. </I><B>| get to </B><I>The only way to get to the bottom of it is to confront the chairman. </I> </P>
+</DIV>

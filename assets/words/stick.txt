@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>stick </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, long | little, short | thick, thin </B> </P>
+<P> <U> QUANT. </U><B> bundle | pile </B> </P>
+<P> <U> VERB + STICK </U><B> brandish, wave </B><I>A mob came over the hill yelling and brandishing sticks. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stick </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> just, simply </B><I>He simply stuck a pin in at random amongst the names of candidates. </I> </P>
+<P> <U> PREP. </U><B> in, into, on, onto, through </B><I>He stuck the note through her letter box. </I><B>PHRASAL VERBS stick to sth </B> </P>
+<P> <U> ADV. </U><B> close, closely | rigidly, slavishly, strictly </B><I>sticking slavishly to the rules </I><B>| doggedly, firmly, resolutely, stubbornly </B><I>She simply made a decision and resolutely stuck to it. </I> </P>
+<P> <U> VERB + STICK </U><B> tend to </B><I>I tended to stick to tried and tested techniques. </I><B>| decide to | be determined to</B> </P>
+</DIV>

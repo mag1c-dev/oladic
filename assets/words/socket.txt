@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>socket </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for electricity </TT> </P>
+<P> <U> ADJ. </U><B> 13 amp, etc. | electric/electrical, mains, plug, power | aerial, headphone, etc. | input, output | floor, wall </B> </P>
+<P> <U> VERB + SOCKET </U><B> plug (sth) into </B><I>The battery charger plugs into any mains socket. </I> </P>
+<P> <U> SOCKET + NOUN </U><B> outlet </B> </P>
+<P> <SUP> 2 </SUP> <TT> in the body </TT> </P>
+<P> <U> ADJ. </U><B> sunken | eye, hip, shoulder </B> </P>
+<P> <U> VERB + SOCKET </U><B> sink into </B><I>Her eyes sank deep into their sockets. </I> </P>
+<P> <U> PREP. </U><B> in its ~ </B><I>His eyes bulged madly in their sockets. </I> </P>
+</DIV>

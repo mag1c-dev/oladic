@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>chatter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> constant, endless, incessant </B><I>Her constant chatter was starting to annoy me. </I><B>| excited, nervous, noisy | idle </B><I>I wish you'd stop wasting time in idle chatter. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>She was full of chatter about her new friends. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>chatter </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> excitedly, happily | away, on </B><I>He chattered on happily for about half an hour. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>We chattered about work. </I><B>| to </B><I>chattering excitedly to her friends </I> </P>
+</DIV>

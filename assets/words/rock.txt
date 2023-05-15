@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>rock </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hard, stony part of the earth </TT> </P>
+<P> <U> ADJ. </U><B> hard, solid </B><I>Solid rock is broken down by weathering. </I><B>| soft | jagged, rough | smooth | weathered | bare </B><I>Ahead the vegetation broke into bare rock. </I><B>| sheer, steep </B><I>The river runs between walls of sheer rock. </I><B>| overhanging | liquid, molten | igneous, sedimentary, volcanic | permeable, porous | impermeable </B> </P>
+<P> <U> QUANT. </U><B> chunk, lump, piece, slab </B> </P>
+<P> <U> VERB + ROCK </U><B> form </B> </P>
+<P> <U> ROCK + VERB </U><B> form </B><I>rocks that formed beneath the sea </I><B>| jut out </B><I>A great rock jutted out into the sea. </I> </P>
+<P> <U> ROCK + NOUN </U><B> type | formation, structure | strata | ledge, outcrop | face, surface, wall | crevice | debris, fragment, sample | fall </B><I>The path had been blocked by a rock fall. </I><B>| crystal, salt | climber, climbing | pool </B><I>Children were looking for crabs in the rock pools. </I><B>| art, carvings | garden </B> </P>
+<P> <U> PHRASES </U><B> a layer of rock, an outcrop of rock </B><I>The castle is perched on a massive outcrop of rock. </I> </P>
+<P> <SUP> 2 </SUP> <TT> music </TT> </P>
+<P> <U> ADJ. </U><B> live | country, glam, hard, heavy, indie, progressive, punk </B> </P>
+<P> <U> ROCK + NOUN </U><B> album, anthem, CD, music, number, record, song, video | band, group | concert, festival, gig | venue | circuit, scene </B><I>one of the biggest bands on the rock circuit </I><B>| drummer, guitarist, musician, singer, vocalist | guitar | hero, legend, star | culture, history </B> </P>
+<P> <U> PHRASES </U><B> rock and roll </B><I>the king of rock and roll </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rock </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> violently </B><I>The boat rocked violently in the huge waves. </I><B>| gently, slightly </B><I>She gently rocked the baby in her arms. The boat rocked slightly. </I><B>| back and forth, backwards and forwards, from side to side, to and fro </B><I>He rocked back and forth in his chair. </I> </P>
+</DIV>

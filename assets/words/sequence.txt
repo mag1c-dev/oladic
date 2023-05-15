@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>sequence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, whole | continuous | complex | correct | opening | closing | alphabetical, chronological, logical, natural, random </B><I>The article describes the chronological sequence of events. </I><B>| action, dance, dream, film | DNA, gene </B> </P>
+<P> <U> VERB + SEQUENCE </U><B> complete </B><I>Complete the following sequence: 1, 4, 8, 13 &hellip; </I><B>| follow </B><I>We had to follow a complex sequence of movements. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The book is more satisfying if you read each chapter in sequence. </I><B>| in a/the ~ </B><I>The heroine dies in the closing sequence of the film. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> a sequence of events</B> </P>
+</DIV>

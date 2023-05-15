@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>frequency </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> rate at which sth happens </TT> </P>
+<P> <U> ADJ. </U><B> great | increased, increasing | relative </B><I>The relative frequency of this illness in the area is of concern to all doctors. </I><B>| alarming </B><I>Bullets bounced off the rock with alarming frequency. </I> </P>
+<P> <U> VERB + FREQUENCY </U><B> decrease in, increase in </B><I>Crime increases in frequency in less settled neighbourhoods. </I><B>| decrease, increase, reduce </B><I>The drug can reduce the frequency and severity of attacks. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>Accidents of this sort are happening with increasing frequency. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a wave </TT> </P>
+<P> <U> ADJ. </U><B> high, low | ultrasonic | microwave, radio, television, vibration, wave | signal </B> </P>
+<P> <U> FREQUENCY + NOUN </U><B> range | band</B> </P>
+</DIV>

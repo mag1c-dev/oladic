@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pregnancy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> early | late | full-term, post-term | easy, healthy, normal | difficult </B><I>She had a difficult pregnancy with her first child. </I><B>| teenage | premarital | unplanned, unwanted </B><I>There are thousands of unwanted teenage pregnancies every year. </I> </P>
+<P> <U> VERB + PREGNANCY </U><B> have | avoid, prevent </B><I>taking precautions to avoid pregnancy </I><B>| continue (with), keep </B><I>the difficult decision about whether to continue with a pregnancy </I><B>| terminate </B><I>the right of a woman to terminate her pregnancy </I> </P>
+<P> <U> PREGNANCY + VERB </U><B> be at/go to (full) term </B> </P>
+<P> <U> PREGNANCY + NOUN </U><B> test </B><I>a home pregnancy test kit </I> </P>
+<P> <U> PREP. </U><B> during/in (a/the) ~ </B><I>Lower blood pressure is common in early pregnancy. </I><B>| throughout (a/the) ~ </B><I>You will be tested throughout your pregnancy. </I> </P>
+</DIV>

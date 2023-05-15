@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>gravity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> natural force </TT> </P>
+<P> <U> ADJ. </U><B> weak, zero </B><I>the weak gravity on the moon </I><B>| strong </B> </P>
+<P> <U> VERB + GRAVITY </U><B> be subject to </B><I>All objects are subject to gravity. </I><B>| defy </B><I>The building leans so much that it seems to defy gravity. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The water flows from the tank by gravity to the houses below. </I> </P>
+<P> <U> PHRASES </U><B> centre of gravity </B><I>(often figurative) Europe's economic centre of gravity shifted northwards. </I><B>| the force of gravity, the law/laws of gravity </B> </P>
+<P> <SUP> 2 </SUP> <TT> seriousness </TT> </P>
+<P> <U> ADJ. </U><B> extreme </B><I>I don't think you realize the extreme gravity of this offence. </I> </P>
+<P> <U> VERB + GRAVITY </U><B> appreciate, realize, understand </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>Criminal law does not treat traffic offences with the gravity they deserve. </I> </P>
+</DIV>

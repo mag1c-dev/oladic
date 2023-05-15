@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>low </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not far above the ground </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem </B><I>The windows look very low to me. </I> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>The river was extremely low for winter. </I><B>| a bit, fairly, quite, rather </B> </P>
+<P> <SUP> 2 </SUP> <TT> small in degree/amount </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become, get, run </B><I>Our stocks of food were getting low. Supplies ran low. </I><B>| remain, stay | keep sth </B><I>The government wants to keep taxes low. </I> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>The failure rate is extremely low. </I><B>| comparatively, fairly, quite, rather, relatively </B> </P>
+<P> <U> PREP. </U><B> in </B><I>This dish is very low in fat. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>low </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> all-time, new, record </B><I>The pound has hit a new low against the dollar. </I> </P>
+<P> <U> VERB + LOW </U><B> fall to, hit, reach, sink to </B> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>Morale is at an all-time low. </I> </P>
+<P> <U> PHRASES </U><B> highs and lows </B><I>He had experienced all the highs and lows of an actor's life. </I> </P>
+</DIV>

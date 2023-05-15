@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>uncomfortable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not comfortable </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, get | make sth </B><I>Sharp stones on the path made walking barefoot rather uncomfortable. </I><B>| find sth </B><I>I find these chairs incredibly uncomfortable. </I> </P>
+<P> <U> ADV. </U><B> downright, extremely, incredibly, most, really, terribly, very | increasingly | a bit, a little, pretty, quite, rather | physically </B> </P>
+<P> <SUP> 2 </SUP> <TT> feeling/causing worry/embarrassment </TT> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, seem | become, get </B><I>He started to get a bit uncomfortable as the conversation continued. </I><B>| make sb </B><I>The way he looked at her made her distinctly uncomfortable. </I><B>| find sth </B> </P>
+<P> <U> ADV. </U><B> acutely, decidedly, deeply, distinctly, downright, extremely, really, terribly, very | increasingly | a bit, a little, rather, slightly | clearly, obviously, visibly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Planners seem a little uncomfortable with the current government guidelines. </I> </P>
+</DIV>

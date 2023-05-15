@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>immune </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> protected against a disease </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain, stay | make sb </B><I>The vaccination doesn't necessarily make you completely immune. </I> </P>
+<P> <U> ADV. </U><B> completely, totally </B> </P>
+<P> <U> PREP. </U><B> to </B><I>Many people are immune to this disease. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not affected by sth </TT> </P>
+<P> <U> VERBS </U><B> appear, be, prove, seem | become | remain </B> </P>
+<P> <U> ADV. </U><B> completely, entirely, quite, totally, wholly | by no means, far from </B><I>Children are far from immune to the virus of cruelty that is latent in all human beings. </I><B>| almost, largely, virtually | relatively </B> </P>
+<P> <U> PREP. </U><B> to </B><I>She's quite immune to criticism. </I> </P>
+</DIV>

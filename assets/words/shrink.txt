@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>shrink </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> become smaller </TT> </P>
+<P> <U> ADV. </U><B> dramatically | a little, slightly | further | fast, rapidly </B><I>competing in a market that is shrinking fast </I><B>| gradually, slowly | steadily </B> </P>
+<P> <U> PREP. </U><B> by </B><I>Their profits shrank by 4% last year. </I><B>| from, to </B><I>Their share of the market has shrunk from 14% to 5%. </I> </P>
+<P> <U> PHRASES </U><B> shrink in size </B><I>Households have been shrinking in size but increasing in number. </I> </P>
+<P> <SUP> 2 </SUP> <TT> move away </TT> </P>
+<P> <U> ADV. </U><B> a little </B><I>He shrank a little at the sight of the blood. </I><B>| away, back </B> </P>
+<P> <U> VERB + SHRINK </U><B> try to </B> </P>
+<P> <U> PREP. </U><B> against </B><I>He shrank back against the wall. </I><B>| in </B><I>She shrank back in terror. </I><B>| into </B><I>I shrank back into the shadows. </I><B>| from </B><I>She shrank from his touch. </I> </P>
+</DIV>

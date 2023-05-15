@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>disk </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> computer | hard | floppy | master </B><I>The master disk can b</I>e </B><I>duplicated as many times a</I>s </B><I>required. </I><B>| back-up | program | server, system | blank | laser, magnetic, optical | high density </B> </P>
+<P> <U> VERB + DISK </U><B> insert, put in </B><I>Insert the disk into the drive slot. </I><B>| remove, take out | format | read </B><I>The computer reads the disk. </I><B>| copy, duplicate </B><I>I'll copy the disk into a file. </I><B>| copy/save (sth) to, save sth on </B><I>The program is set up so that you automatically save to disk every 15 minutes. Save the document to disk before closing it. The information can be saved on a disk. </I><B>| wipe </B><I>If you wipe that old disk, we can use it again. </I><B>| hold sth on, store sth on </B><I>The records will be stored on the computer's hard disk. </I> </P>
+<P> <U> DISK + VERB </U><B> contain sth </B><I>The dis</I>k </B><I>contains the program you'll need</I>. <B>| hold sth </B><I>Each disk holds 700 MB</I>. </B> </P>
+<P> <U> DISK + NOUN </U><B> capacity, space </B><I>I'</I>m </B><I>running out of disk space on m</I>y </B><I>computer. </I><B>| drive | storage </B> </P>
+<P> <U> PREP. </U><B> from ~ </B><I>The informatio</I>n </B><I>required can then be retrieve</I>d </B><I>from disk. </I><B>| on (a/the) ~ </B><I>Hav</I>e </B><I>you got the file on disk? the dat</I>a </B><I>on the disk </I><B>| onto ~ </B><I>It is safest t</I>o </B><I>save your design onto disk. </I><B>| to ~ </B><I>You simply download the pages t</I>o </B><I>disk</I>. &gt; Special page at COMPUTER </B> </P>
+</DIV>

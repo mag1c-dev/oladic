@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>syllabus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> formal, official, prescribed | exam/examination, A level, GCSE, etc. | college, primary, school, secondary school, undergraduate, university | first-year, second-year, etc. | history, mathematics, writing, etc. | narrow, wide | overloaded </B> </P>
+<P> <U> VERB + SYLLABUS </U><B> design, develop, devise, draw up, plan, work out, write | follow, offer, teach, use </B><I>The courses do not follow the syllabus of any particular examination board. Several schools in Britain already teach the baccalaureate syllabus. </I><B>| follow, do, study </B><I>Students do different syllabuses according to their ability. </I><B>| change, extend, reform, revise, widen </B><I>the need to revise the history syllabus </I><B>| cover, get through </B><I>It was impossible to cover the overloaded syllabus in a year. </I><B>| stick to | depart from </B><I>There is little time to depart from the syllabus. </I><B>| fit/plan sth into, integrate sth into/with </B><I>How can computer skills be integrated into the syllabus? </I><B>| be based on | fit in with </B> </P>
+<P> <U> SYLLABUS + VERB </U><B> contain sth, cover sth, include sth </B><I>Does the syllabus cover modern literature? </I> </P>
+<P> <U> SYLLABUS + NOUN </U><B> content, design </B> </P>
+<P> <U> PREP. </U><B> from ~ </B><I>questions from last year's syllabus </I><B>| in a/the ~ </B><I>Let's include that in this year's syllabus. </I><B>| on a/the ~ </B><I>Is geometry on the GCSE syllabus? </I><B>| under a/the ~ </B><I>This period of history was not examined under the old syllabus. </I><B>| ~ for </B><I>some syllabuses for basic courses in geography </I><B>| ~ in </B><I>the exam syllabuses in arts subjects </I> </P>
+</DIV>

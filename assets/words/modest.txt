@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>modest </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not having a high opinion of your own abilities </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, very | quite | genuinely | falsely </B><I>She would be falsely modest not to acknowledge that she had come a very long way since those early days. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>He is modest about his achievements. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not very large, expensive, important, etc. </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B><I>Our requirements seem fairly modest. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | comparatively, fairly, pretty, quite, rather, relatively | apparently | admittedly </B><I>He is looking to improve on his admittedly modest achievements so far. </I><B>| surprisingly</B> </P>
+</DIV>

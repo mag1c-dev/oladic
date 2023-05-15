@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>emergency </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> extreme </B><I>(formal)</I>, <B>major, real, serious </B><I>Don't call me unless its a real emergency. </I><B>| sudden, unexpected, unforeseen | international, national </B><I>in times of national emergency </I><B>| medical | military </B> </P>
+<P> <U> VERB + EMERGENCY </U><B> cope with, deal with, handle, respond to </B><I>firefighters on call to respond to emergencies </I> </P>
+<P> <U> EMERGENCY + VERB </U><B> arise </B><I>Call this number if any unforeseen emergency should arise. </I> </P>
+<P> <U> EMERGENCY + NOUN </U><B> action, measures, procedures | laws, legislation, regulations | powers </B><I>The police have been given emergency powers to deal with the crisis. </I><B>| rule | meeting, session, talks | cover </B><I>The army provided emergency cover when the ambulance service went on strike. </I><B>| services </B><I>The emergency services are struggling to cope with the number of call-outs. </I><B>| aid, assistance, funds, relief, supply </B><I>Emergency supplies of food have been flown to the area. </I><B>| fund | call </B><I>The ambulance crashed while answering an emergency call. </I><B>| admission, case </B><I>Emergency admissions to hospital are given top priority. </I><B>| surgery, treatment | repairs | exit | landing </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>She told me to keep the money for emergencies. </I><B>| in an ~ </B><I>I need to know what to do in an emergency. </I> </P>
+<P> <U> PHRASES </U><B> the accident and emergency department </B><I>the closure of the hospital's accident and emergency department </I><B>| in case of emergency/emergencies </B><I>There's a fire blanket on the kitchen wall in case of emergencies. </I><B>| a state of emergency </B><I>The president immediately declared a state of emergency. </I> </P>
+</DIV>

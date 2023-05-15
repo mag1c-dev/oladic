@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>equation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mathematical statement </TT> </P>
+<P> <U> ADJ. </U><B> complicated, simple </B><I>This can be shown by a simple equation. </I><B>| algebraic, mathematical </B> </P>
+<P> <U> VERB + EQUATION </U><B> solve, work out </B><I>I could not find a way of solving the equation. </I><B>| satisfy </B><I>the range of values of x which would satisfy this equation </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the equation for a straight line </I> </P>
+<P> <U> PHRASES </U><B> a side of the equation </B><I>the numbers on the right-hand side of the equation </I> </P>
+<P> <SUP> 2 </SUP> <TT> situation </TT> </P>
+<P> <U> VERB + EQUATION </U><B> be a part of, come into, enter (into) </B><I>The availability of public transport is also part of the equation. Money also comes into the equation. </I> </P>
+</DIV>

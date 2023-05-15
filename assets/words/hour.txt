@@ -1,0 +1,27 @@
+
+<DIV class="item"><P class="word"><B>hour </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> period of sixty minutes </TT> </P>
+<P> <U> ADJ. </U><B> solid </B><I>I slept for eight solid hours. </I> </P>
+<P> <U> VERB + HOUR </U><B> take </B><I>It takes two hours to get to London. </I><B>| spend | last </B><I>The performance lasted three hours. </I><B>| gain, lose </B><I>You gain five hours when you fly from New York to London. </I> </P>
+<P> <U> HOUR + VERB </U><B> go by, pass </B><I>An hour passed and she still hadn't arrived. </I> </P>
+<P> <U> PREP. </U><B> by the ~ </B><I>They're paid by the hour. </I><B>| for an ~ </B><I>She worked for three hours. </I><B>| in/within an ~ </B><I>I should be back within a couple of hours. </I><B>| over/under an ~ </B><I>He's been gone for over an hour. </I><B>| per ~ </B><I>Top speed is 120 miles per hour. </I> <B>| within the ~ </B><I>We hope to be there within the hour </I>(= in less than an hour)</B><I>. </I><B>| ~ of </B><I>There are still two hours of daylight left. </I> </P>
+<P> <U> PHRASES </U><B> half an hour, hour after hour, an hour's time, with every passing hour </B><I>She grew more worried with every passing hour. </I> </P>
+<a href="/collocation-tag/measure" class="tag">Learn more about MEASURE</a>
+
+<P> <SUP> 2 </SUP> <TT> the hour: time when a new hour starts  </TT> </P>
+<P> <U> VERB + HOUR </U><B> chime, strike </B><I>The clock struck the hour. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>Buses leave every hour on the hour. </I><B>| past the ~ </B><I>ten minutes past the hour </I><B>| to the ~ </B><I>ten minutes to the hour </I> </P>
+<P> <SUP> 3 </SUP> <TT> time when you do a particular activity </TT> </P>
+<P> <U> ADJ. </U><B> lunch | peak, rush </B><I>rush-hour traffic </I> </P>
+<P> <U> VERB + HOUR </U><B> spend </B><I>I spent my lunch hour shopping. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>an hour of rest </I> </P>
+<P> <SUP> 4 </SUP> <TT> hours: time when sb is working/a shop is open  </TT> </P>
+<P> <U> ADJ. </U><B> office, opening, working | licensing, visiting </B><I>Britain's licensing hours </I>(= when pubs are allowed to open) the hospital's </B><I>visiting hours </I><B>| flexible | long | regular </B> </P>
+<P> <U> VERB + HOUR </U><B> work </B><I>She works very long hours. </I><B>| keep </B><I>He keeps regular hours. </I> </P>
+<P> <U> PREP. </U><B> after ~ </B><I>He spends a lot of time in his office after hours. </I><B>| out of ~ </B><I>Doctors often have to work out of hours. </I> </P>
+<P> <SUP> 5 </SUP> <TT> time when sth happens </TT> </P>
+<P> <U> ADJ. </U><B> darkest, finest </B><I>This was often thought of as the country's finest hour. </I><B>| antisocial, unearthly, ungodly, unsocial </B><I>I apologize for phoning you at this ungodly hour. </I> </P>
+<P> <U> HOUR + VERB </U><B> come </B><I>The hour had come for us to leave. </I> </P>
+<P> <U> PREP. </U><B> between the ~s of </B><I>The office is closed between the hours of twelve and two. </I><B>| ~ of </B><I>the hours of darkness </I> </P>
+<P> <U> PHRASES </U><B> your hour of need </B><I>She helped me in my hour of need. </I> </P>
+</DIV>

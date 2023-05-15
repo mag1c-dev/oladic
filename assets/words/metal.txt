@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>metal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> soft | pure | ferrous, non-ferrous | base, heavy, noble, precious, rare, trace, transition | cold, hot </B><I>the sudden pressure of cold metal against her cheek </I><B>| bare | solid | gleaming, shining, shiny | tarnished | corroded, rusty | scrap </B><I>to recycle scrap metal </I><B>| twisted </B><I>The bomb left a pile of jagged glass and twisted metal. </I><B>| ductile | molten | sheet | toxic </B> </P>
+<P> <U> QUANT. </U><B> lump, piece, strip </B> </P>
+<P> <U> VERB + METAL </U><B> be cast from/in, be made from/(out) of </B><I>a statue cast in metal The doors are made of metal. </I><B>| recycle </B> </P>
+<P> <U> METAL + VERB </U><B> contract, expand | rust </B> </P>
+<P> <U> METAL + NOUN </U><B> alloy | band, bar, box, frame, mesh, plate, rod, sheet | fatigue | detector </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>a sculptor who works in metal </I> </P>
+<P> <U> PHRASES </U><B> the clang/clash of metal</B> </P>
+</DIV>

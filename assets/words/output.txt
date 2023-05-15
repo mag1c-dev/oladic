@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>output </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, large, massive | greater, increased | steady | low | aggregate, gross, overall, total </B><I>10 per cent of the country's total output </I><B>| net | real | average | annual, monthly, etc. | maximum | current | national, world | prodigious, prolific </B><I>her prodigious literary output </I><B>| agricultural, industrial, manufacturing | computer | data | literary </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>changes in the level of output </I> </P>
+<P> <U> VERB + OUTPUT </U><B> produce | double, expand, increase </B><I>The plant plans to increase output to 10,000 cars a year. </I><B>| reduce </B> </P>
+<P> <U> OUTPUT + VERB </U><B> increase, rise | decrease, fall </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a steady output of new ideas </I> </P>
+<P> <U> PHRASES </U><B> a drop/fall in output </B><I>the fall in output due to outdated equipment </I><B>| a growth/an increase/a rise in output</B> </P>
+</DIV>

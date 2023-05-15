@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>airspace </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> controlled, restricted | British, French, etc. </B> </P>
+<P> <U> VERB + AIRSPACE </U><B> cross (into), drift into, enter, fly into, stray into, violate </B><I>The jet had crossed into Russian airspace. </I><B>| fly out of, pass out of | open </B><I>They have decided to open their airspace to commercial aircraft. </I><B>| close </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The glider was in Dutch airspace. </I><B>| out of ~ </B><I>They were now out of controlled airspace. </I> </P>
+<P> <U> PHRASES </U><B> a violation of airspace </B><I>The president said that all future violations of our airspace would result in serious consequences. </I> </P>
+</DIV>

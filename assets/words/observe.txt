@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>observe </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> notice/watch </TT> </P>
+<P> <U> ADV. </U><B> carefully, closely | precisely | directly </B><I>It is not possible to observe this phenomenon directly, but its effects can be seen in the rise in global temperatures. </I><B>| actually </B><I>It is the parents who actually observe these behavioural problems in their children. </I><B>| just, simply </B><I>You can learn a lot by simply observing. </I><B>| generally, normally | quietly </B><I>She stood there, quietly observing the domestic scene. </I><B>| secretly | experimentally </B><I>This phenomenon has been observed experimentally. </I> </P>
+<P> <U> VERB + OBSERVE </U><B> be able to | be possible | be difficult to | be interesting to </B><I>It is interesting to observe the reaction of the children to these changes. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>unaware that she was being observed from the window </I> </P>
+<P> <U> PHRASES </U><B> be commonly/frequently/widely observed </B><I>This behaviour is commonly observed among several species of finch. </I><B>| be easily/readily observed, an opportunity to observe sb/sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> make a remark </TT> </P>
+<P> <U> ADV. </U><B> correctly, justly, rightly, shrewdly </B><I>She correctly observed that there was very little difference between the two parties on domestic policies. </I><B>| drily, sardonically, wryly | tartly | coldly, coolly </B><I>&lsquo;You took your time, &rsquo; he observed coolly. </I><B>| conversationally | mildly, quietly | sadly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>&lsquo;It's easy for him to say that, &rsquo; she observed tartly to Michael, &lsquo;but can he prove it?&rsquo; </I> </P>
+<P> <SUP> 3 </SUP> <TT> obey rules </TT> </P>
+<P> <U> ADV. </U><B> correctly, faithfully, scrupulously, strictly </B><I>This procedure must be correctly observed. </I> </P>
+<P> <U> VERB + OBSERVE </U><B> fail to </B> </P>
+<P> <U> PHRASES </U><B> failure to observe sth </B><I>Failure to observe club rules may result in expulsion. </I> </P>
+</DIV>

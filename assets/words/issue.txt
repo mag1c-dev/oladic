@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>issue </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> problem </B> </TT> </P>
+<P> <U> ADJ. </U><B> big, burning, central, critical, crucial, important, key, main, major, vital </B><I>Europe remains the burning issue within the party. </I><B>| wider </B><I>The problem raises wider issues of gender and identity. </I><B>| minor, side | basic, fundamental | real </B><I>The real issue is where the power lies. </I><B>| contentious, controversial, difficult, thorny </B><I>the controversial issue of censorship </I><B>| complex | live, unresolved </B><I>The strike of ten years ago is still very much a live issue in the town. </I><B>| domestic, global, international, local, national, regional | commercial, constitutional, economic, educational, environmental, ethical, health, moral, policy, political, social, technical, theoretical </B> </P>
+<P> <U> QUANT. </U><B> number, range, series </B> </P>
+<P> <U> VERB + ISSUE </U><B> raise | debate, discuss </B><I>This evening we're debating the issue of the legalization of soft drugs. </I><B>| decide, settle </B><I>A referendum was held to settle the issue. </I><B>| address, consider, deal with, examine, explore, look at, tackle | clarify | focus on </B><I>We really need to focus on this one issue and not get sidetracked. </I><B>| touch on </B><I>The issue of birth control was touched on, but we need to examine it in more detail. </I><B>| highlight </B><I>The report highlights three issues. </I><B>| confuse </B><I>This argument should not be allowed to confuse the issue. </I><B>| avoid, evade </B> </P>
+<P> <U> ISSUE + VERB </U><B> arise </B><I>issues arising from the survey </I><B>| underlie sth </B><I>A more important issue underlies this debate. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>What you say is interesting, but it does not affect the point at issue here. </I><B>| on an/the ~ </B><I>She spoke on the issue of private health care. </I><B>| ~ about </B><I>fundamental issues about working conditions </I><B>| ~ concerning </B><I>issues concerning the environment </I><B>| ~ relating to </B><I>The conference examined key issues relating to the reform. </I> </P>
+<P> <SUP> 2 </SUP> <TT> one in a series of publications </TT> </P>
+<P> <U> ADJ. </U><B> current | back | special </B><I>a special issue of stamps </I> </P>
+<P> <U> VERB + ISSUE </U><B> bring out, publish </B> </P>
+<P> <U> ISSUE + VERB </U><B> come out, go on sale | be out </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>an article in the current issue of &lsquo;Newsweek&rsquo; </I> </P>
+</DIV><DIV class="item"><P class="word"><B>issue </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> formally </B><I>the bank which formally issues and handles these credit cards </I><B>| directly </B><I>The safest cheques are those issued directly by the bank?known as bankers' draughts. </I><B>| jointly </B><I>a document issued jointly by the Treasury and the Home Office </I><B>| immediately, promptly </B><I>He left the company and promptly issued a writ claiming $45 million in damages. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>(formal) Arrest warrants were issued against 16 of the protesters. </I><B>| on behalf of </B><I>a statement issued on behalf of the UN Secretary-General </I><B>| to </B><I>The new guidelines have been issued to all doctors. </I><B>| with </B><I>Some of the police were issued with rifles. </I> </P>
+<P> <U> PHRASES </U><B> newly issued </B><I>newly issued banknotes </I> </P>
+</DIV>

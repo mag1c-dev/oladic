@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>bump </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden strong blow </TT> </P>
+<P> <U> ADJ. </U><B> loud | slight </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>We landed with a loud bump. </I> </P>
+<P> <SUP> 2 </SUP> <TT> lump on the body </TT> </P>
+<P> <U> ADJ. </U><B> big | little, small </B> </P>
+<P> <U> VERB + BUMP </U><B> have | get </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He got a nasty bump on his head. </I> </P>
+<P> <SUP> 3 </SUP> <TT> lump in a flat surface </TT> </P>
+<P> <U> VERB + BUMP </U><B> hit </B><I>We hit a bump and the car swerved. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a bump in the road </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bump </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> accidentally </B> </P>
+<P> <U> PREP. </U><B> against </B><I>I ran after her, bumping against people in my rush. </I><B>| into </B><I>I bumped into the corner of a table as I left. </I><B>| on </B><I>I bumped my head on the door frame. </I> </P>
+</DIV>

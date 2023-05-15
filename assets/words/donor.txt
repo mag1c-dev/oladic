@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>donor </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> gives a part of their body </TT> </P>
+<P> <U> ADJ. </U><B> blood (transfusion), bone marrow, kidney, organ, etc. | potential | suitable </B><I>The operation will go ahead as soon as a suitable donor can be found. </I> </P>
+<P> <U> DONOR + VERB </U><B> donate sth, give sth </B><I>Donors give blood twice a year. </I> </P>
+<P> <U> DONOR + NOUN </U><B> blood, organ </B><I>Donor organs are constantly required for transplant operations. </I><B>| card </B> </P>
+<P> <SUP> 2 </SUP> <TT> gives money/goods </TT> </P>
+<P> <U> ADJ. </U><B> anonymous </B><I>The charity received </I>&pound;</B><I>50,000 from an anonymous donor. </I><B>| aid </B><I>Japan has been one of the country's biggest aid donors. </I> </P>
+<P> <U> DONOR + VERB </U><B> give sth, make a donation, pledge sth </B><I>Donors pledged a total of $1,000 million in relief aid. </I> </P>
+<P> <U> DONOR + NOUN </U><B> country, government </B><I>loans from rich donor countries to developing nations </I> </P>
+</DIV>

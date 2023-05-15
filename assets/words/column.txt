@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>column </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> tall stone post </TT> </P>
+<P> <U> ADJ. </U><B> huge, tall | fluted </B><I>colonnades of fluted Doric columns </I><B>| classical | Corinthian, Doric, Ionic </B> </P>
+<P> <U> COLUMN + VERB </U><B> support sth </B><I>The roof is supported by four huge columns. </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of writing in a newspaper </TT> </P>
+<P> <U> ADJ. </U><B> regular </B><I>He has a regular column in a weekly newspaper. </I><B>| daily, weekly, etc. | newspaper | agony, correspondence, death, editorial, financial, gossip, leader, letters, lonely hearts </B>(= with advertisements for a new lover or friend), <B>obituary, personal, travel </B> </P>
+<P> <U> VERB + COLUMN </U><B> have, write | syndicate </B> </P>
+<P> <U> COLUMN + NOUN </U><B> inches </B><I>So many column inches are devoted to film stars. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She saw his name in an obituary column. </I><B>| ~ about/on </B><I>a weekly column on films showing in London </I> </P>
+<P> <SUP> 3 </SUP> <TT> long line of people, vehicles, etc. </TT> </P>
+<P> <U> ADJ. </U><B> huge, long | armoured, tank | marching </B> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>to march in columns </I><B>| ~ of </B><I>a column of troops </I> </P>
+<P> <U> PHRASES </U><B> the head of the column</B> </P>
+</DIV>

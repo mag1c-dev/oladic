@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>deduct </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> at source </B><I>Tax is deducted at source. </I><B>| automatically </B><I>This amount will be deducted automatically from your salary. </I> </P>
+<P> <U> PREP. </U><B> from</B> </P>
+</DIV>

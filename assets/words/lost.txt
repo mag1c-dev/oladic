@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>lost </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> unable to find the way </TT> </P>
+<P> <U> VERBS </U><B> be | get </B><I>We got lost in the woods. </I> </P>
+<P> <U> ADV. </U><B> completely </B><I>By this time we were completely lost. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not knowing what to do </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem </B><I>I felt lost without my watch. </I> </P>
+<P> <U> ADV. </U><B> completely, totally </B><I>Alina was looking totally lost. </I><B>| very | a bit, a little, rather </B><I>She looked rather lost and lonely, standing in a corner by herself. </I> </P>
+</DIV>

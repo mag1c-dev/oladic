@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>critical </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> disapproving </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> bitterly, deeply, extremely, fiercely, harshly, highly, severely, sharply, strongly, very | increasingly | a little, mildly, quite | openly </B><I>She became openly critical of party policy. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>The report was highly critical of the railway's poor safety record. </I> </P>
+<P> <SUP> 2 </SUP> <TT> important </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> really | absolutely | increasingly </B> </P>
+<P> <U> PREP. </U><B> for </B><I>Maintaining control of the the budget is absolutely critical for success. </I><B>| to </B><I>This reorganization is critical to the long-term future of the company. </I> </P>
+</DIV>

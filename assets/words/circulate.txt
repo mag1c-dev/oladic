@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>circulate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> liquid/gas/air </TT> </P>
+<P> <U> ADV. </U><B> freely </B><I>Air can circulate freely through the tunnels. </I> </P>
+<P> <U> PREP. </U><B> around/round </B><I>The heart circulates blood around the body. </I><B>| through </B><I>Blood circulates through the arteries and veins. </I> </P>
+<P> <SUP> 2 </SUP> <TT> story/idea/information </TT> </P>
+<P> <U> ADV. </U><B> widely </B><I>The book was circulated widely in Russia. </I><B>| freely </B> </P>
+<P> <U> PREP. </U><B> among/amongst </B><I>newspapers circulating among minority communities </I><B>| around/round </B><I>There's a story circulating around the office that you are about to leave the company. </I><B>| to </B><I>The document will be circulated to all members. </I> </P>
+</DIV>

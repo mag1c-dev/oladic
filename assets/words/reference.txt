@@ -1,0 +1,27 @@
+
+<DIV class="item"><P class="word"><B>reference </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mentioning sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> extensive | brief, casual, passing | occasional | frequent, repeated | constant | further </B><I>They could find no further reference to Mr LaMotte in the records. </I><B>| general | particular, special, specific </B><I>She won a grant to study political science with special reference to China. </I><B>| definite | explicit, express | direct | cryptic, indirect, oblique, obscure, veiled | clear, obvious | ambiguous, confusing | early </B><I>one of the earliest references to the game of chess </I><B>| biblical, cultural, historical, literary | written </B> </P>
+<P> <U> VERB + REFERENCE </U><B> contain, have </B><I>Her diary contains no reference to the alleged appointment. </I><B>| drop, make </B><I>He dropped casual references to the legacy of his great work. The article makes no reference to his first marriage. </I><B>| drop, omit </B><I>The new constitution dropped all reference to previous wars. </I><B>| find </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In an obvious reference to the president, he talked of corruption in high places. </I><B>| in/with ~ to </B><I>(written) I am writing with reference to your job application. </I><B>| ~ (back) to </B><I>The summary should be comprehensible without reference back to the source work. </I> </P>
+<P> <SUP> 2 </SUP> <TT> consulting sb/sth for advice/help/information </TT> </P>
+<P> <U> ADJ. </U><B> easy, quick </B><I>The book is organized alphabetically for easy reference. </I><B>| further, future </B> </P>
+<P> <U> PREP. </U><B> by ~ to </B><I>Our charges are calculated by reference to an hourly rate. </I><B>| for ~ </B><I>Retain a copy of the form for future reference. </I><B>| without ~ to </B><I>The decision was taken without reference to local managers. </I> </P>
+<P> <U> PHRASES </U><B> for reference purposes </B><I>She needs the book for reference </I> </P>
+<P> <SUP> 3 </SUP> <TT> number/note/symbol </TT> </P>
+<P> <U> ADJ. </U><B> copious | full </B><I>For full references of all books cited, see Appendix B. </I><B>| appropriate </B><I>Please send a full CV, quoting the appropriate reference. </I><B>| cross-</B><I>The cross-references refer you to information in other parts of the dictionary. </I><B>| bibliographic/bibliographical | grid, map </B> </P>
+<P> <U> VERB + REFERENCE </U><B> quote | cite, give </B><I>References to original sources are given at the end of each chapter. </I> </P>
+<P> <U> REFERENCE + NOUN </U><B> number </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The date of publication should be included in the reference. </I><B>| ~ to </B><I>a reference to page 17 </I> </P>
+<P> <U> PHRASES </U><B> a list of references </B> </P>
+<P> <SUP> 4 </SUP> <TT> letter about your character/abilities </TT> </P>
+<P> <U> ADJ. </U><B> glowing | character </B> </P>
+<P> <U> VERB + REFERENCE </U><B> ask for | give (sb), provide (sb with), write (sb) | follow up, take up </B><I>They've taken up my references </I>(= contacted the person who provided the reference)</B><I>, so they must be interested in me. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a reference from your current employer </I> </P>
+<P> <SUP> 5 </SUP> <TT> standards by which sth is judged </TT> </P>
+<P> <U> REFERENCE + NOUN </U><B> point </B> </P>
+<P> <U> PHRASES </U><B> a frame of reference </B><I>People interpret events within their own frame of reference. </I><B>| a point of reference </B><I>Unemployment serves as a useful point of reference in examining social problems. </I><B>| terms of reference </B><I>The matter was outside the committee's terms of reference. purposes. </I><B>| a source of reference </B><I>The book is an invaluable source of reference for the art historian. </I> </P>
+<P> <SUP> 6 </SUP> <TT> book containing facts/information </TT> </P>
+<P> <U> ADJ. </U><B> general </B><I>The book is by far the best general reference on natural history. </I> </P>
+<P> <U> REFERENCE + NOUN </U><B> book, material, source, work | library | section </B><I>You'll find the information in the reference section of your local library. </I> </P>
+</DIV>

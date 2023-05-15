@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>buffet </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on a train/in a station </TT> </P>
+<P> <U> ADJ. </U><B> station </B> </P>
+<P> <U> BUFFET + NOUN </U><B> bar, car, service </B> </P>
+<P> <SUP> 2 </SUP> <TT> meal </TT> </P>
+<P> <U> ADJ. </U><B> delicious, excellent | extensive, generous | cold, salad | running </B><I>The running buffet is available from 6 p.m. to 2 a.m. </I><B>| finger, fork | lunchtime </B> </P>
+<P> <U> VERB + BUFFET </U><B> serve </B><I>A finger buffet will be served. </I><B>| lay out </B><I>A buffet was laid out for the conference delegates. </I> </P>
+<P> <U> BUFFET + NOUN </U><B> breakfast, dinner, lunch, meal, supper | table | reception | style </B><I>Breakfast is served buffet style. </I> </P>
+</DIV>

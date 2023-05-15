@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>peep </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little, quick </B> </P>
+<P> <U> VERB + PEEP </U><B> have, take | get </B> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>I noticed him take a little peep at his watch. </I><B>| ~ behind </B><I>The film gives us a peep behind the curtain at a Broadway musical. </I><B>| ~ into </B><I>a peep into the private life of a world leader </I><B>| ~ through </B><I>I took a peep through the keyhole. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>peep </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> cautiously | out </B><I>He peeped out cautiously from behind the door. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>She was tempted to peep at the letter. </I><B>| through </B><I>The child peeped through a crack in the door. </I> </P>
+</DIV>

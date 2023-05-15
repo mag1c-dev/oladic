@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>vet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good | qualified | practising | country, local </B> </P>
+<P> <U> VERB + VET </U><B> call (out) </B><I>I think we'll have to call the vet out. </I><B>| consult, go to, see, speak to/with, take sth to, talk to/with </B><I>We had to take the dog to the local vet. </I> </P>
+<P> <U> VET + VERB </U><B> recommend sth </B></P><a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV><DIV class="item"><P class="word"><B>vet </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully | fully, thoroughly </B> </P>
+<P> <U> PREP. </U><B> for </B><I>All goods are carefully vetted for quality before they leave the factory. </I> </P>
+<P> <U> PHRASES </U><B> vetting procedure </B><I>We are introducing new security vetting procedures. </I> </P>
+</DIV>

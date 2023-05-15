@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ward </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> open, public | private | hospital | maternity, surgical, etc. </B> </P>
+<P> <U> VERB + WARD </U><B> be admitted to </B><I>He was admitted to the casualty ward. </I><B>| be discharged from </B> </P>
+<P> <U> WARD + NOUN </U><B> nurse, sister, staff | round </B><I>The doctor was doing her morning ward round. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She spent five days in the maternity ward. </I><B>| on the ~ </B><I>How many midwives are on the ward? </I> </P>
+</DIV>

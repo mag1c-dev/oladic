@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>refuge </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> safe | temporary | wildlife | mountain </B><I>a monk living in a mountain refuge </I><B>| last </B><I>(figurative) They looked to the country as the last refuge of liberty. </I> </P>
+<P> <U> VERB + REFUGE </U><B> take </B><I>They took refuge in the embassy. </I><B>| look for, seek </B><I>They sought refuge in the mountain villages. </I><B>| find </B><I>They were hoping to find a safe refuge for the night. They found refuge from the bright sun. </I><B>| give (sb), offer (sb), provide (sb with) </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>(figurative) Home is a refuge against the pressures of work. </I><B>| ~ from </B><I>The cave provided refuge from the storm. </I> </P>
+<P> <U> PHRASES </U><B> a place of refuge</B> </P>
+</DIV>

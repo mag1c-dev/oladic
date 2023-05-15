@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>growth </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> increase in sth </TT> </P>
+<P> <U> ADJ. </U><B> considerable, dramatic, enormous, exponential, impressive, phenomenal, significant, spectacular, strong, tremendous </B><I>the exponential growth in world population </I><B>| explosive, fast, rapid </B><I>the explosive growth of personal computers in the 1990s </I><B>| modest, slow, steady </B><I>The factory has achieved a steady growth in output. </I><B>| low </B><I>a vicious circle of low growth and low productivity </I><B>| long-term | economic, industrial | population </B> </P>
+<P> <U> VERB + GROWTH </U><B> achieve | maintain, sustain | encourage, promote, stimulate | control </B><I>new measures to control the growth of traffic on the roads </I> </P>
+<P> <U> GROWTH + NOUN </U><B> rate </B><I>The economy enjoyed the highest growth rate in Asia. </I><B>| area, industry </B><I>Communications technology has proved to be a growth area. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>There was a rapid growth in the numbers of private cars. </I> </P>
+<P> <U> PHRASES </U><B> a rate of growth </B>&gt; Special page at BUSINESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> growing </TT> </P>
+<P> <U> ADJ. </U><B> healthy, normal </B><I>A good diet is vital for healthy growth. </I><B>| excessive </B><I>the excessive growth of algae in rivers </I><B>| intellectual, personal, spiritual </B> </P>
+<P> <U> VERB + GROWTH </U><B> encourage </B><I>Give the plants a good pruning to encourage growth. </I><B>| stunt </B><I>Lack of food had stunted his growth. </I> </P>
+<P> <U> GROWTH + NOUN </U><B> hormone </B> </P>
+<P> <SUP> 3 </SUP> <TT> abnormal lump in the body </TT> </P>
+<P> <U> ADJ. </U><B> cancerous, malignant | benign </B> </P>
+<P> <U> VERB + GROWTH </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He had a cancerous growth on his lung. </I> </P>
+</DIV>

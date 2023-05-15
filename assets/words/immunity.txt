@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>immunity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> protection against disease </TT> </P>
+<P> <U> ADJ. </U><B> strong | acquired, natural </B> </P>
+<P> <U> VERB + IMMUNITY </U><B> have </B><I>The island's inhabitants had no immunity to the diseases carried by the explorers and quickly succumbed. </I><B>| lack | acquire, build up, develop </B><I>Once you have had a cold you build up immunity to that particular virus. </I><B>| stimulate </B><I>the use of vaccines to stimulate immunity </I><B>| boost | lower </B><I>High levels of stress may lower your immunity to common illnesses. </I> </P>
+<P> <U> IMMUNITY + VERB </U><B> develop </B><I>A strong immunity to reinfection develops after one year. </I> </P>
+<P> <U> PREP. </U><B> ~ against/to </B><I>The newcomers lacked immunity against local strains of the disease. </I> </P>
+<P> <SUP> 2 </SUP> <TT> protection from danger/punishment </TT> </P>
+<P> <U> ADJ. </U><B> complete, total | effective | diplomatic, legal, parliamentary </B><I>Several ministers were stripped of parliamentary immunity as a prelude to facing corruption charges. </I><B>| public interest </B><I>The newspaper claimed public interest immunity when threatened with prosecution for publishing the story </I>(= claimed that the public had a right to know about the story)</B><I>. </I> </P>
+<P> <U> VERB + IMMUNITY </U><B> enjoy | claim, seek | confer, give sb, grant (sb), guarantee (sb), provide | abolish, lift, strip sb of </B><I>The Supreme Court lifted the company's immunity from criminal prosecution. </I><B>| lose </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>Unions were granted immunity from prosecution for non-violent acts. </I> </P>
+</DIV>

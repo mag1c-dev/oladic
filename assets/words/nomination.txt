@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>nomination </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> presidential | Democratic, Republican, etc. | Oscar, etc. </B> </P>
+<P> <U> VERB + NOMINATION </U><B> secure, win | stand for </B><I>She is standing for the Democratic Party presidential nomination. </I><B>| accept | withdraw | support | invite </B><I>Nominations are invited for the post of party chairman. </I><B>| seek </B><I>She is seeking nomination as a candidate in the elections. </I> </P>
+<P> <U> NOMINATION + NOUN </U><B> form, paper | process </B> </P>
+<P> <U> PREP. </U><B> ~ as </B><I>She has withdrawn her nomination as chairman. </I><B>| ~ for </B><I>his nomination for the Best Actor award </I><B>| ~ to </B><I>He will not accept nomination to the committee. </I> </P>
+</DIV>

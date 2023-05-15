@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>alive </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> living </TT> </P>
+<P> <U> VERBS </U><B> be, seem | remain, stay </B><I>Lost and so far from other human life, he faced a desperate struggle to stay alive. </I><B>| keep sb </B><I>Doctors fought to keep her alive. </I><B>| be buried, be burnt </B> </P>
+<P> <U> ADV. </U><B> very much </B><I>The old rascal is still very much alive. </I><B>| barely, only half </B><I>For four days he seemed barely alive. </I><B>| still </B><I>I wasn't sure if he was still alive. </I> </P>
+<P> <U> PHRASES </U><B> alive and kicking </B><I>My mother is still alive and kicking. </I><B>| alive and well </B><I>At any moment he may turn up alive and well. </I><B>| dead or alive </B><I>The police are desperate to catch this man dead or alive. </I><B>| lucky to be alive </B><I>It was a very narrow escape and we are lucky to be alive. </I><B>| more dead than alive </B><I>Poor child, she looks more dead than alive. </I> </P>
+<P> <SUP> 2 </SUP> <TT> full of life </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem </B><I>I feel really alive in the country! </I><B>| come </B><I>The city comes alive at night. </I><B>| bring sb/sth </B><I>The wealth of detail in his book really brings it alive. </I> </P>
+<P> <U> ADV. </U><B> really, truly, very | fully | intensely | only half </B><I>She realized that she had only been half alive for the last four years. </I><B>| suddenly </B><I>His eyes were suddenly alive with excitement. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The hall was alive with the sound of voices. </I> </P>
+<P> <SUP> 3 </SUP> <TT> continuing to exist </TT> </P>
+<P> <U> VERBS </U><B> be | remain | keep sth </B><I>The people try to keep the old traditions alive. </I> </P>
+<P> <U> ADV. </U><B> very much </B><I>The old customs are still very much alive in this region. </I> </P>
+<P> <U> PHRASES </U><B> alive and well </B><I>The art of debate is alive and well in our schools. </I> </P>
+<P> <SUP> 4 </SUP> <TT> aware of sth </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> very much | keenly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>He remained keenly alive to the dangers. </I> </P>
+</DIV>

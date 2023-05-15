@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>mild </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not very cold </TT> </P>
+<P> <U> VERBS </U><B> be | turn </B><I>Towards the end of the week the weather turned very mild. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> very | quite, relatively </B><I>It's quite mild for the time of year. </I><B>| surprisingly, unseasonably, unusually </B><I>The late summer air was surprisingly mild. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not severe or strong </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B><I>The infection seems quite mild, so she should be better soon. </I> </P>
+<P> <U> ADV. </U><B> very | comparatively, fairly, pretty, quite, reasonably, relatively </B><I>a fairly mild flavour </I> </P>
+<P> <SUP> 3 </SUP> <TT> gentle and kind </TT> </P>
+<P> <U> VERBS </U><B> be, sound </B><I>His voice was deceptively mild. </I> </P>
+<P> <U> ADV. </U><B> seemingly | deceptively</B> </P>
+</DIV>

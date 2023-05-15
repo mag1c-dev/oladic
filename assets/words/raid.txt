@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>raid </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> surprise attack </TT> </P>
+<P> <U> ADJ. </U><B> daring | destructive, heavy, major | punitive, retaliatory, revenge | dawn, daylight, night | border, cross-border | air, bombing | commando, guerrilla </B> </P>
+<P> <U> VERB + RAID </U><B> carry out, conduct, make </B><I>bombers carrying out daylight raids over northern France </I><B>| launch, mount, stage | lead sb in | suffer </B> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>Five civilians died in the raid. </I><B>| on a/the ~ </B><I>He led his men on a cross-border raid. </I><B>| ~ against </B><I>The raids against Norway continued. </I><B>| ~ by </B><I>The town suffered several raids by Vikings. </I><B>| ~ on </B><I>air raids on Liverpool </I> </P>
+<P> <SUP> 2 </SUP> <TT> robbery from a building </TT> </P>
+<P> <U> ADJ. </U><B> bank, post office, shop | armed, smash-and-grab | dawn, daylight, night | daring </B> </P>
+<P> <U> VERB + RAID </U><B> plan | carry out | foil </B><I>Two customers have foiled a smash-and-grab raid on a local shop. </I> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>the jewels stolen in the raid </I><B>| ~ on </B><I>She was shot during an armed raid on a security van. </I> </P>
+<P> <SUP> 3 </SUP> <TT> surprise visit by the police </TT> </P>
+<P> <U> ADJ. </U><B> dawn, early morning | police | drug/drugs </B> </P>
+<P> <U> VERB + RAID </U><B> carry out, launch, stage </B><I>Police staged an early morning raid on the premises. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>He was injured during a police raid on his nightclub. </I><B>| in a/the ~ </B><I>the drugs seized in last night's raid </I><B>| ~ by </B><I>a raid by drugs squad detectives </I><B>| ~ on </B><I>raids on houses in Catholic areas of the city </I> </P>
+</DIV>

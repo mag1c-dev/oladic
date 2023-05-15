@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>bit </B><I>noun </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> a bit small amount  </TT> </P>
+<P> <U> ADJ. </U><B> little, teensy </B><I>(informal)</I>, <B>wee </B><I>He helped me a little bit in the afternoon. </I> </P>
+<P> <U> PHRASES </U><B> just a bit </B><I>I'm still just a bit confused. </I></P>
+<P> <SUP> 2 </SUP> <TT> a bit: large amount  </TT> </P>
+<P> <U> ADJ. </U><B> fair, good </B><I>It rained a fair bit during the night. We made a good bit of progress. </I> </P>
+<P> <U> VERB + BIT </U><B> take </B><I>The new system will take quite a bit of getting used to </I>(= it will take a long time to get used to)</B><I>. </I> </P>
+<P> <U> PHRASES </U><B> quite a bit </B><I>It rained quite a bit during the night. </I><B>| just a bit </B><I>(ironic) &lsquo;Has it been difficult for you at work?&rsquo; &lsquo;Just a bit </I>(= it has been very difficult)</B><I>.&rsquo; </I> </P>
+<P> <SUP> 2 </SUP> <TT> part/piece of sth </TT> </P>
+<P> <U> ADJ. </U><B> little, small, tiny | big, large </B><I>A big bit of stone had fallen off the wall. </I><B>| good, nice </B><I>The best bit of the holiday was seeing the Grand Canyon. I've got us a nice bit of fish for dinner. </I><B>| boring </B><I>I read it, but I missed out the boring bits. </I><B>| odd </B><I>He managed to get odd bits of work, but no regular job. </I> </P>
+<P> <U> VERB + BIT </U><B> pick out, pick up </B><I>Listen to the interview again and pick out the bits you want to use in the article. She tore the letter up and threw it on the floor. Marion stooped to pick up the bits. I picked up a bit of information that might interest you. </I> </P>
+<P> <U> BIT + VERB </U><B> fall off </B><I>I'm worried because bits keep falling off my car. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B> </P>
+<P> <U> PHRASES </U><B> bits and bobs/pieces </B>(= small items of various kinds) <I>My mother has some bits and pieces to give you. </I><B>| blow/pull/smash sth to bits </B><I>All the crockery had been smashed to bits. </I><B>| do your bit </B>(= do your share of a task) <I>We can finish this job on time if everyone does their bit. </I><B>| fall to bits </B><I>My briefcase eventually fell to bits. </I> </P>
+</DIV>

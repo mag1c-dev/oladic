@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ballot </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> secret | open | postal | national | first, second | leadership | strike </B> </P>
+<P> <U> VERB + BALLOT </U><B> carry out, hold | organize | cast </B><I>Only 40% of eligible voters cast their ballots. </I> </P>
+<P> <U> BALLOT + NOUN </U><B> box | paper | rigging </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>They voted against him at the second ballot. </I><B>| by ~ </B><I>The jury cast their vote by secret ballot. </I><B>| in a/the ~ </B><I>The club members decided in a ballot to suspend the captain. </I><B>| on a/the ~ </B><I>I voted for her on the first ballot. </I><B>| ~ for </B><I>a ballot for the Conservative leadership </I><B>| ~ on </B><I>a ballot on the new contracts </I><B>| ~ over </B><I>a ballot over strike action </I> </P>
+</DIV>

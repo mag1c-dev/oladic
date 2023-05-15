@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>concert </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big | sell-out | evening, lunchtime | opening | closing, farewell, final </B><I>He will be giving his farewell concert as Music Director of the Ulster Orchestra. The orchestra performs its final concert of the season tomorrow. </I><B>| live, public | open-air, promenade | carol, classical, pop, rock | brass band, choral, orchestral, symphony | gala, subscription </B><I>The Queen attended a gala concert at the Royal Festival Hall. </I><B>| benefit, charity | tribute </B> </P>
+<P> <U> QUANT. </U><B> series </B> </P>
+<P> <U> VERB + CONCERT </U><B> attend, go to | give, perform (in), play (in) | have, hold, present, put on, stage </B><I>The band is putting on its biggest concert of the year. </I><B>| organize </B> </P>
+<P> <U> CONCERT + NOUN </U><B> hall, platform, room, venue | performance, programme | artist, pianist | series, tour </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ | ~ of </B><I>a concert of military music </I><B>| ~ for/in aid of </B><I>organizing a concert for charity </I> </P>
+</DIV>

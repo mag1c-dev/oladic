@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>pipe </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hollow tube that carries gas/liquid </TT> </P>
+<P> <U> ADJ. </U><B> underground | gas, sewage, waste, water </B><I>the hot and cold water pipes </I><B>| brake, central heating, hose (also hosepipe) | drainage, drain (also drainpipe) | exhaust, inlet, outfall, outflow, outlet, overflow, service, supply | blocked, broken, burst, cracked, frozen, leaking | concrete, copper, iron, lead, metal, plastic, steel </B> </P>
+<P> <U> QUANT. </U><B> length </B><I>to join two lengths of pipe together Copper pipe is sold in lengths. </I> </P>
+<P> <U> VERB + PIPE </U><B> lay, run </B><I>He laid the pipes under the floorboards. </I><B>| connect | insulate, lag </B><I>Insulating your pipes will save on your heating bills. </I> </P>
+<P> <U> PIPE + VERB </U><B> lead, pass through sth, run </B><I>The pipes lead into the river. The pipes will have to pass through the wall. </I><B>| burst, freeze, leak </B> </P>
+<P> <U> PIPE + NOUN </U><B> cutter, fitter | insulation </B> </P>
+<P> <U> PREP. </U><B> through a/the ~ | ~ for </B><I>the pipe for the hot water </I><B>| ~ from, ~ to </B><I>The pipe from the boiler to the bath. </I> </P>
+<P> <SUP> 2 </SUP> <TT> used for smoking tobacco </TT> </P>
+<P> <U> ADJ. </U><B> clay | peace </B> </P>
+<P> <U> VERB + PIPE </U><B> smoke | light | fill | draw on, puff away at/on, puff on | knock out </B><I>He knocked out his pipe in the big glass ashtray. </I> </P>
+<P> <U> PIPE + NOUN </U><B> smoker | tobacco | rack </B> </P>
+<P> <U> PHRASES </U><B> the bowl/stem of a pipe</B> </P>
+</DIV>

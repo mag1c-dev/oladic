@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>suppress </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> stop sth by using force </TT> </P>
+<P> <U> ADV. </U><B> bloodily, brutally, ruthlessly, vigorously, violently </B><I>A pro-democracy uprising was brutally suppressed. </I> </P>
+<P> <U> VERB + SUPPRESS </U><B> attempt to, seek to, try to | use sth to </B><I>using violence to suppress opposition </I> </P>
+<P> <U> PHRASES </U><B> an attempt to suppress sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> stop sth from being seen/known </TT> </P>
+<P> <U> ADV. </U><B> completely | effectively </B><I>The medication effectively suppressed the pain. </I><B>| deliberately </B><I>This information had been deliberately suppressed. </I><B>| systematically </B> </P>
+<P> <U> VERB + SUPPRESS </U><B> attempt to, seek to, try to </B> </P>
+<P> <U> PHRASES </U><B> an attempt to suppress sth </B> </P>
+<P> <SUP> 3 </SUP> <TT> stop yourself doing/expressing sth </TT> </P>
+<P> <U> ADV. </U><B> firmly | hardly </B><I>He could hardly suppress his surprise. </I><B>| instantly </B><I>The disloyal thought was instantly suppressed. </I><B>| quickly </B> </P>
+<P> <U> VERB + SUPPRESS </U><B> be unable to, cannot/could not </B><I>She was unable to suppress a giggle. </I><B>| try to | manage to | be hard to </B> </P>
+<P> <U> PHRASES </U><B> barely suppressed </B><I>Her face was charged with barely suppressed anger. </I> </P>
+</DIV>

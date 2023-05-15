@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>tenant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> current, existing, sitting </B><I>the sale of council houses to sitting tenants </I><B>| life | protected, secure | joint | potential, prospective | business, council, council-house, housing association, local authority, private </B> </P>
+<P> <U> VERB + TENANT </U><B> find | evict </B> </P>
+<P> <U> TENANT + VERB </U><B> occupy sth </B><I>The property is currently occupied by a life tenant. </I> </P>
+<P> <U> TENANT + NOUN </U><B> farmer </B> </P>
+<P> <U> PHRASES </U><B> landlord and tenant </B><I>conflicts that might arise between landlord and tenant </I> </P>
+</DIV>

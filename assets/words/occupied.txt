@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>occupied </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> being used by sb </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> densely </B><I>the most densely occupied areas of the country </I><B>| entirely </B><I>The sofa was entirely occupied by two large cats. </I><B>| permanently | illegally </B> </P>
+<P> <SUP> 2 </SUP> <TT> busy </TT> </P>
+<P> <U> VERBS </U><B> be | become | keep sb </B><I>We need something to keep the children occupied. </I> </P>
+<P> <U> ADV. </U><B> fully | chiefly, mainly | busily | happily </B> </P>
+<P> <U> PREP. </U><B> in </B><I>You will be mainly occupied in checking sales records. </I><B>| with </B><I>She was happily occupied with reading. </I> </P>
+</DIV>

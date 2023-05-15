@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>imposition </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of imposing sth </TT> </P>
+<P> <U> VERB + IMPOSITION </U><B> justify </B><I>Several reasons were put forward to justify the imposition of censorship. </I><B>| oppose, resist | resent </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>resisting the imposition of VAT on fuel </I> </P>
+<P> <SUP> 2 </SUP> <TT> unreasonable thing sb expects you to do </TT> </P>
+<P> <U> ADJ. </U><B> unacceptable, unwelcome </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>She felt the journey to be an unwelcome imposition on her time. </I> </P>
+</DIV>

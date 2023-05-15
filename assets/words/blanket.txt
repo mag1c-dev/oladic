@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>blanket </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy, thick | thin | warm | electric </B> </P>
+<P> <U> VERB + BLANKET </U><B> cover sb with, wrap sb in | draw up, pull up </B><I>She pulled the blanket up and went to sleep. </I><B>| kick off, push off, throw off </B> </P>
+<P> <U> PREP. </U><B> beneath/under a/the ~ </B><I>They shivered under their thin blankets. </I> </P>
+</DIV>

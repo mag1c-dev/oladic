@@ -1,0 +1,4 @@
+
+<div class="item"><p class="word first"><b>satisfy </b><i>verb </i> </p>
+<p> <u> VERB + SATISFY </u><div class="ex"><b> must, should </b></div><div class="excontent"><i>The education system must satisfy the needs of all children. </i></div><div class="ex"><b>| be able/unable to, can/could </b></div><div class="excontent"><i>The owners were unable to satisfy all the demands of the workers. Nothing could satisfy his desire for power. </i></div><div class="ex"><b>| seem to </b></div><div class="excontent"><i>His answer seemed to satisfy her. </i></div><div class="ex"><b>| be enough to, be sufficient to </b></div><div class="excontent"><i>Her description of events was not enough to satisfy the court. </i></div><div class="ex"><b>| fail to </b></div><div class="excontent"><i>The meal failed to satisfy his hunger. </i> </div></p>
+</div>

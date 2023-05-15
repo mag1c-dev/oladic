@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tractor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> caterpillar | agricultural, farm </B> </P>
+<P> <U> VERB + TRACTOR </U><B> drive </B> </P>
+<P> <U> TRACTOR + VERB </U><B> plough, work </B><I>the sound of a tractor ploughing in the field nearby </I> </P>
+<P> <U> TRACTOR + NOUN </U><B> driver | cab | shed </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>a farmer on his tractor </I> </P>
+<P> <U> PHRASES </U><B> a tractor and trailer</B> </P>
+</DIV>

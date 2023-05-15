@@ -1,0 +1,30 @@
+
+<DIV class="item"><P class="word"><B>heat </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> being hot/level of temperature </TT> </P>
+<P> <U> ADJ. </U><B> burning, fierce, great, intense, searing, terrible, tremendous </B><I>The soil is baked dry by the fierce heat of the sun. </I><B>| gentle | excess, excessive </B><I>If circulation is impaired, the body cannot lose excess heat. </I><B>| red, white </B><I>(often figurative) Everything he did was at white heat and lightning speed. </I><B>| blood, body </B> </P>
+<P> <U> VERB + HEAT </U><B> feel </B><I>We could feel the tremendous heat coming from the fire. </I><B>| disperse, dissipate, give out, lose </B><I>Even after the sun had set, the stones continued to give out heat. </I><B>| conserve, retain </B><I>The thick walls retain the heat. </I><B>| absorb </B><I>Darker surfaces absorb heat. </I><B>| conduct </B><I>Being a metal, aluminium readily conducts heat. </I><B>| generate, produce, provide, radiate </B><I>Computers, faxes and photocopiers all generate heat of their own. </I><B>| withstand </B><I>a material which can withstand heats of up to 2,000&deg;C </I> </P>
+<P> <U> HEAT + VERB </U><B> build up, increase </B><I>He tried to ignore the heat building up in the confined space. </I> </P>
+<P> <U> HEAT + NOUN </U><B> loss | exhaustion, stress, stroke (also heatstroke) </B><I>She slumped to the ground, near to heat exhaustion. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>the heat from the fire </I> </P>
+<P> <SUP> 2 </SUP> <TT> hot weather/conditions </TT> </P>
+<P> <U> ADJ. </U><B> baking, blazing, blinding, blistering, boiling, extreme, great, intense, oppressive, scorching, searing, shimmering, stifling, suffocating, sweltering </B><I>We walked more than ten miles in the blistering heat. </I><B>| dry | humid, steamy, sultry </B><I>the steamy heat of New York in summer </I><B>| 80-degree, 90-degree, etc. | afternoon, midday, morning | summer | desert, tropical </B> </P>
+<P> <U> HEAT + VERB </U><B> grow </B><I>Daily the heat grew. </I> </P>
+<P> <U> HEAT + NOUN </U><B> haze </B><I>A heat haze shimmered above the fields. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>I can't work in this heat. </I> </P>
+<P> <U> PHRASES </U><B> the heat of the day </B><I>To avoid the heat of the day we went out in the mornings. </I> </P>
+<P> <SUP> 3 </SUP> <TT> source of heat </TT> </P>
+<P> <U> ADJ. </U><B> high | gentle, low | medium, moderate | direct </B><I>Chocolate should never be melted over direct heat. </I><B>| dry </B> </P>
+<P> <U> VERB + HEAT </U><B> turn up </B><I>Towards the end of the cooking, turn up the heat to brown the outside. </I><B>| lower, reduce, turn down | remove sth from, take sth off </B><I>Bring to the boil slowly, then remove from the heat. </I><B>| return sth to </B><I>Return the pan to the heat and stir. </I> </P>
+<P> <U> PREP. </U><B> off the ~ </B><I>Make sure the pan is off the heat. </I><B>| on a ~ </B><I>Cook on a low heat for five minutes. </I><B>| over a ~ </B><I>Simmer the sauce over a gentle heat. </I> </P>
+<P> <SUP> 4 </SUP> <TT> strong feelings </TT> </P>
+<P> <U> ADJ. </U><B> sudden </B><I>He stared at her, sudden heat in his eyes. </I> </P>
+<P> <U> HEAT + VERB </U><B> flare, flood sth, rise </B><I>Heat flooded her cheeks. </I> </P>
+<P> <U> PREP. </U><B> in the ~ of </B><I>in the heat of battle/passion </I><B>| with ~ </B><I>&lsquo;It was your hare-brained idea,&rsquo; Henry said with heat. </I><B>| without ~ </B><I>She spoke without heat. </I> </P>
+<P> <U> PHRASES </U><B> in the heat of the moment </B><I>Michael bitterly regretted those angry words, spoken in the heat of the moment. </I> </P>
+<P> <SUP> 5 </SUP> <TT> race/competition </TT> </P>
+<P> <U> ADJ. </U><B> qualifying, regional | dead </B><I>Competition was fierce, with a dead heat in one of the races </I>(= with two competitors finishing in exactly the same time)</B><I>. </I> </P>
+<P> <U> VERB + HEAT </U><B> win </B><I>She won her heat. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He fell in the first heat. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>heat </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently </B><I>Heat the sauce gently for a few minutes. </I><B>| through, up </B><I>Allow the food enough time to heat through. They heat up the food in a microwave oven. </I> </P>
+</DIV>

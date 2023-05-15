@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>summon </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> order a person to come to a place </TT> </P>
+<P> <U> ADV. </U><B> duly | hastily, urgently | back </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She was duly summoned for an interview. </I><B>| from </B><I>He has been summoned from New York to give evidence at the trial. </I><B>| to </B><I>She was summoned back to his office. </I> </P>
+<P> <SUP> 2 </SUP> <TT> find sth that you need </TT> </P>
+<P> <U> ADV. </U><B> barely, hardly </B><I>He could hardly summon the strength to stand up. </I><B>| up </B> </P>
+<P> <U> VERB + SUMMON </U><B> can/could | try to | manage to </B><I>She managed to summon up a smile. </I> </P>
+</DIV>

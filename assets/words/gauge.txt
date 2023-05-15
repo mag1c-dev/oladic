@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>gauge </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> measuring instrument </TT> </P>
+<P> <U> ADJ. </U><B> accurate | fuel, oil, petrol | depth, pressure, temperature </B> </P>
+<P> <U> VERB + GAUGE </U><B> check, glance at, look at, read </B><I>The pilot checked the fuel gauge frequently. </I> </P>
+<P> <U> GAUGE + VERB </U><B> read sth, show sth, tell sb sth </B><I>The petrol gauge was reading &lsquo;full&rsquo;. The depth gauge tells you how deep you have dived. </I> </P>
+<P> <SUP> 2 </SUP> <TT> distance between rails </TT> </P>
+<P> <U> ADJ. </U><B> broad, narrow, standard </B> </P>
+<P> <U> VERB + GAUGE </U><B> adopt </B><I>Eventually all the British railway companies adopted the standard gauge of 4 feet 8,1/2 inches. </I> </P>
+<P> <SUP> 3 </SUP> <TT> fact for judging sth </TT> </P>
+<P> <U> ADJ. </U><B> reliable, useful </B> </P>
+<P> <U> VERB + GAUGE </U><B> be seen as, serve as </B><I>This company is seen as a gauge of Britain's industrial well-being. </I> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV><DIV class="item"><P class="word"><B>gauge </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> accurately, correctly | carefully </B> </P>
+<P> <U> VERB + GAUGE </U><B> be able to, can/could | try to | be difficult to, be hard to, be impossible to </B><I>It is difficult to gauge accurately how much fuel is needed </I> </P>
+</DIV>

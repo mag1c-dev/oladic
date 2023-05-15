@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>completion </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rapid, speedy | early | satisfactory, successful </B> </P>
+<P> <U> VERB + COMPLETION </U><B> near, reach </B><I>The renovation of the theatre is now nearing completion. </I><B>| bring sth to </B><I>to bring the project to completion </I><B>| delay | be due for </B><I>The bridge is due for completion in May. </I> </P>
+<P> <U> COMPLETION + NOUN </U><B> date </B> </P>
+<P> <U> PREP. </U><B> after/following ~ </B><I>Payment will be made following successful completion of the job. </I><B>| before/prior to ~ </B><I>The floorboards were replaced prior to completion of the sale. </I><B>| near ~ </B><I>The book is near completion. </I><B>| pending ~ </B><I>Development of the site has been delayed pending completion of the sewerage scheme. </I><B>| on/upon ~ of </B><I>The committee will report back to us on completion of the study. </I> </P>
+<P> <U> PHRASES </U><B> the date of completion</B> </P>
+</DIV>

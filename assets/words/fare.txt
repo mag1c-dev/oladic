@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>fare </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money paid to travel by bus, taxi, etc. </TT> </P>
+<P> <U> ADJ. </U><B> expensive, high | cheap, low | adult, full, normal, standard | children's, concessionary, discounted, half, reduced | return, single | first-class, second-class | air, bus, cab, coach, ferry, rail, taxi, train </B> </P>
+<P> <U> VERB + FARE </U><B> pay </B><I>I'm afraid you will have to pay the full fare. </I><B>| charge </B><I>Buses charged a standard fare of about 20 pence per mile. </I><B>| increase, put up | bring down, cut, reduce, slash </B><I>air fares slashed by a massive 30% </I><B>| introduce, offer </B><I>The airline has introduced a cheap return fare to New York. </I><B>| dodge </B><I>He faces charges of dodging taxi fares. </I> </P>
+<P> <U> FARE + VERB </U><B> cost (sb) sth </B><I>The return fare will cost you less than two single tickets. </I><B>| go up, increase, rise | come down </B> </P>
+<P> <U> FARE + NOUN </U><B> increase, rise | reduction | deal </B><I>a special fare deal for air travellers </I> </P>
+<P> <U> PREP. </U><B> at... ~ </B><I>Children travel at half fare. </I> </P>
+<P> <U> PHRASES </U><B> an increase/a rise in fares, a reduction in fares </B><I>The company is promising reductions in fares. </I> </P>
+<P> <SUP> 2 </SUP> <TT> passenger in a taxi </TT> </P>
+<P> <U> VERB + FARE </U><B> pick up </B><I>The taxi driver picked up a fare outside the opera house. </I> </P>
+<P> <SUP> 3 </SUP> <TT> food; material for listening to, reading, etc. </TT> </P>
+<P> <U> ADJ. </U><B> delicious, rich, wholesome | plain, rough, simple | daily, standard, staple, traditional, typical </B><I>Court trials involving famous people are the daily fare of newspapers. The band's music was standard rock fare. </I><B>| local | vegetarian | Chinese, English, French, etc. | Christmas, farmhouse </B> </P>
+<P> <U> VERB + FARE </U><B> offer, serve </B><I>a restaurant serving traditional Scottish fare </I><B>| sample </B><I>tourists seeing the sights and sampling the local Spanish fare </I> </P>
+</DIV><DIV class="item"><P class="word"><B>fare </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly, well </B><I>She should fare better in this competition. He fared well against his main rival. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>misuse </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> alleged, possible | serious | alcohol, drug, substance </B><I>alcohol misuse among teenagers </I><B>| computer </B><I>He was sacked for computer misuse. </I> </P>
+<P> <U> VERB + MISUSE </U><B> prevent | investigate </B> </P>
+<P> <U> PREP. </U><B> through ~ </B><I>causing pollution through misuse of pesticides </I> </P>
+</DIV><DIV class="item"><P class="word"><B>misuse </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> grossly </B><I>He had grossly misused his power. </I> </P>
+<P> <U> PHRASES </U><B> widely misused </B><I>&lsquo;Marketing&rsquo; is a widely misused word in the book business. </I> </P>
+</DIV>

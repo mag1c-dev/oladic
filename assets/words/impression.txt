@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>impression </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> idea/feeling/opinion about sth </TT> </P>
+<P> <U> ADJ. </U><B> distinct, firm, strong | main, overriding, overwhelming | convincing | clear, vivid | fleeting, vague | accurate | distorted, erroneous, false, mistaken, misleading, spurious, wrong | good </B><I>The village gives a good impression of what a medieval city would have looked like. </I><B>| favourable | negative | opposite | early, first, immediate, initial </B><I>First impressions can be misleading. </I><B>| final | general, overall | general, widespread </B><I>There is a widespread impression that schooling needs to be improved. </I><B>| public | personal, subjective </B> </P>
+<P> <U> VERB + IMPRESSION </U><B> form, gain, get, have, obtain, receive </B><I>I got the distinct impression that you disliked her. </I><B>| convey, create, give (sb), leave sb with, provide (sb wtih) </B><I>The book leaves you with a distorted impression of politics. </I><B>| maintain </B><I>She was trying to maintain the impression that she was in control. </I><B>| confirm | heighten, reinforce, strengthen | avoid </B><I>It was difficult to avoid the impression that he was assisting them for selfish reasons. </I><B>| correct </B><I>I must correct a false impression that I gave you just now. </I><B>| record </B><I>She recorded her impressions of the city in her diary. </I> </P>
+<P> <U> IMPRESSION + VERB </U><B> count </B><I>When it comes to finding a partner, first impressions do count. </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>I was under the impression that you weren't coming until tomorrow. </I><B>| ~ about </B><I>I had the wrong impression about him. </I><B>| ~ as to </B><I>mistaken impressions as to the strength of the market </I> </P>
+<P> <SUP> 2 </SUP> <TT> effect that an experience/person has on sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> considerable, deep, powerful, profound, strong, tremendous | superficial | abiding, indelible, lasting | excellent, favourable, good, great | bad, poor, unfavourable | false, misleading, wrong | right </B><I>If you want to create the right impression, I suggest you wear a suit. </I><B>| first, immediate </B><I>The new striker failed to make an immediate impression on the team. </I> </P>
+<P> <U> VERB + IMPRESSION </U><B> create, leave, make </B> </P>
+<P> <U> PREP. </U><B> ~ on/upon </B><I>The day's events left a lasting impression on them. </I> </P>
+<P> <SUP> 3 </SUP> <TT> drawing </TT> </P>
+<P> <U> ADJ. </U><B> artist's </B> </P>
+<P> <U> VERB + IMPRESSION </U><B> issue </B><I>The police have issued an artist's impression of the attacker. </I> </P>
+<P> <SUP> 4 </SUP> <TT> amusing copy of sb </TT> </P>
+<P> <U> ADJ. </U><B> good, reasonable </B> </P>
+<P> <U> VERB + IMPRESSION </U><B> do </B><I>He does some very good impressions of pop stars. </I> </P>
+<P> <SUP> 5 </SUP> <TT> mark left on an object </TT> </P>
+<P> <U> VERB + IMPRESSION </U><B> bear </B><I>The sealing wax bore the impression of a sailing ship. </I> </P>
+</DIV>

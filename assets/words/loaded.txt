@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>loaded </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> carrying a load </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> heavily </B><I>a convoy of heavily loaded lorries </I><B>| fully </B><I>a fully loaded truck </I><B>| lightly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The lorry was loaded with crates of beer. </I> </P>
+<P> <SUP> 2 </SUP> <TT> biased </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> heavily | rather, slightly | emotionally, ideologically, politically </B><I>Try to avoid politically loaded terms like &lsquo;nation&rsquo;. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>The odds were slightly loaded against us. </I><B>| in favour of </B><I>The legislation is heavily loaded in favour of employers. </I> </P>
+</DIV>

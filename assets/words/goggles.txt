@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>goggles </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> protective, safety | driving, flying, motorcycle, ski, snow, swimming </B> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + GOGGLES </U><B> have on, wear | put on, take off </B> </P>
+<P> <U> GOGGLES + VERB </U><B> steam up </B><I>My swimming goggles keep steaming up so I can't see. </I> </P>
+</DIV>

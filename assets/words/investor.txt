@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>investor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, large, major | ordinary, small </B><I>Many ordinary investors stand to lose money in this affair. </I><B>| potential, prospective, would-be | business, institutional | personal, private | domestic, local | foreign, international, inward, outside, overseas </B> </P>
+<P> <U> VERB + INVESTOR </U><B> attract, encourage </B><I>A stable firm is more likely to attract potential investors. </I><B>| advise </B><I>advising investors where to put their money </I> </P>
+<P> <U> INVESTOR + VERB </U><B> buy sth, invest in sth </B><I>Investors will be able to buy the shares from next week. </I><B>| sell sth </B> </P>
+<P> <U> INVESTOR + NOUN </U><B> confidence </B><I>the need to restore investor confidence </I><B>| protection </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>investors in plantation forestry (figurative) encouraging companies to become investors in people </I> </P>
+</DIV>

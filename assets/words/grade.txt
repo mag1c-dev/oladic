@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>grade </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> level/quality </TT> </P>
+<P> <U> ADJ. </U><B> high, top </B><I>a piece of high grade building land He still wants to play top grade football. </I><B>| low, poor </B><I>low grade steel </I> </P>
+<P> <SUP> 2 </SUP> <TT> mark given for a piece of work/an exam </TT> </P>
+<P> <U> ADJ. </U><B> final </B><I>The oral exam constitutes 10% of the final grade. </I><B>| excellent, good, high | low, poor </B> </P>
+<P> <U> VERB + GRADE </U><B> achieve, attain, get, receive </B><I>She got very good grades in her exams. </I><B>| award (sb) </B> </P>
+<P> <SUP> 3 </SUP> <TT> level of importance/level of pay at work </TT> </P>
+<P> <U> ADJ. </U><B> high, senior </B><I>He has asked to be put onto a higher grade. large pay rises for senior grades </I><B>| junior, low | management | manual </B> </P>
+<P> <U> PREP. </U><B> at a/the &hellip; ~ </B><I>She was offered a job at a lower grade. </I><B>| on a/the &hellip; ~ </B><I>the people on management grades </I> </P>
+</DIV><DIV class="item"><P class="word"><B>grade </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully </B><I>a series of modern stories carefully graded for beginner to intermediate students </I> </P>
+<P> <U> PREP. </U><B> according to </B><I>The timber is graded according to its thickness. </I><B>| by </B><I>The containers are graded by size. </I><B>| from &hellip; to &hellip; </B><I>Eggs are graded from small to extra large. </I> </P>
+</DIV>

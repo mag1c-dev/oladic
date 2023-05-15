@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>epoch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> new | present | past | historical </B> </P>
+<P> <U> VERB + EPOCH </U><B> mark </B><I>The dropping of the first atom bomb marked a new epoch in warfare. </I> </P>
+<P> <U> PREP. </U><B> during/in an/the ~ </B><I>the importance of the computer in the present epoch </I><B>| ~ of </B><I>an epoch of great social change </I> </P>
+<P> <U> PHRASES </U><B> the beginning/end of an epoch</B> </P>
+</DIV>

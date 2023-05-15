@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>curb </B><I>noun </I> </P>
+<P> <U> VERB + CURB </U><B> impose, introduce, put | act as </B><I>Counselling acted as a curb on his violent behaviour. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>Many companies have imposed curbs on smoking in the workplace. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>curb </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> drastically, greatly </B><I>This legislation will greatly curb the power of local authorities. </I> </P>
+<P> <U> VERB + CURB </U><B> attempt to, try to | be designed to, be intended to </B><I>a new law designed to curb harmful emissions from factories </I> </P>
+<P> <U> PHRASES </U><B> aimed at curbing sth </B><I>a range of policies aimed at curbing inflation </I><B>| an attempt/effort to curb sth, measures to curb sth</B> </P>
+</DIV>

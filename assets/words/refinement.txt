@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>refinement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> improvement to/on sth; process of improving sth </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great </B><I>A greater refinement of the categorization is possible. </I><B>| extra, further | continuous, endless </B><I>All programs have bugs and need endless refinement. </I><B>| useful </B><I>It is possible to add a few useful refinements to the basic system. </I><B>| technical | modern </B> </P>
+<P> <U> QUANT. </U><B> degree </B> </P>
+<P> <U> VERB + REFINEMENT </U><B> need, require </B><I>The technology requires a great deal of refinement. </I><B>| add, introduce </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a refinement in the masonry </I><B>| ~ on </B><I>a refinement on previous methods </I><B>| ~ to </B><I>to add a further refinement to the computer system </I> </P>
+<P> <SUP> 2 </SUP> <TT> being polite/well educated; clever in design </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>a woman of great refinement and beauty </I> </P>
+<P> <U> VERB + REFINEMENT </U><B> lack </B><I>The kite was star shaped and lacked the refinement of current designs. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a lack of refinement in engine design </I> </P>
+<P> <U> PHRASES </U><B> a lack of refinement</B> </P>
+</DIV>

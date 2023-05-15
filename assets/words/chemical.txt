@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>chemical </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pure | organic | inorganic, synthetic | dangerous, harmful, hazardous, poisonous, toxic | agricultural, household, industrial </B> </P>
+<P> <U> VERB + CHEMICAL </U><B> manufacture, produce | discharge, dump </B><I>chemicals discharged by industry into our lakes and rivers </I><B>| be exposed to </B><I>Many workers are regularly exposed to dangerous chemicals. </I> </P>
+<P> <U> CHEMICAL + NOUN </U><B> factory, plant, works </B><I>pollution from a big chemicals plant </I><B>| business, company | industry, manufacturing</B> </P>
+</DIV>

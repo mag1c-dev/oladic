@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>tennis </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> men's, women's | junior | professional | international, world | competitive </B><I>Williams' return to competitive tennis after injury </I><B>| lawn, real </B> </P>
+<P> <U> QUANT. </U><B> game </B> </P>
+<P> <U> VERB + TENNIS </U><B> play | watch </B> </P>
+<P> <U> TENNIS + NOUN </U><B> ball, racket | dress, shoe, shorts | court, facilities | camp, centre, club | circuit, scene </B><I>She is a popular figure on the international tennis circuit. </I><B>| championship, competition, event, match, tournament | ace, champion, coach, legend, player, star | fan | commentator, journalist | career </B></B> </P>
+</DIV>

@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>burn </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> horrific, nasty, serious, severe, terrible | minor, slight | first-/second-/third-degree | cigarette </B> </P>
+<P> <U> VERB + BURN </U><B> suffer | die from/of | treat, treat sb for </B> </P>
+<P> <U> BURN + NOUN </U><B> mark </B> </P>
+<P> <U> PHRASES </U><B> 20, 50, etc. per cent burns </B><I>He was treated in hospital for 60 per cent burns. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>burn </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> damage/injure by fire/heat </TT> </P>
+<P> <U> ADV. </U><B> badly, seriously, severely | completely </B><I>The car was found abandoned in a wood, completely burnt out. </I><B>| partially, partly | easily </B><I>fair skin that burns easily </I><B>| ceremonially </B><I>Bishop Tunstall preached a sermon against the book, after which copies were ceremonially burnt. </I><B>| down, out </B><I>The factory burned down last year. </I> </P>
+<P> <U> PHRASES </U><B> be burnt alive, be burnt to ashes/a cinder/a crisp </B><I>I like my steak burnt to a cinder on the outside and blood red and juicy inside. </I><B>| burn/be burnt to death </B><I>Several people were burnt to death. </I><B>| be burnt to the ground </B><I>The building was burnt to the ground. </I> </P>
+<P> <SUP> 2 </SUP> <TT> be on fire </TT> </P>
+<P> <U> ADV. </U><B> fiercely </B><I>The fire was still burning fiercely. </I><B>| steadily | slowly </B><I>Fresh leaves will burn slowly with billows of smoke. </I> </P>
+<P> <SUP> 3 </SUP> <TT> produce light </TT> </P>
+<P> <U> ADV. </U><B> brightly </B><I>Their torches burnt brightly in the dark. </I> </P>
+<P> <SUP> 4 </SUP> <TT> be filled with strong feeling </TT> </P>
+<P> <U> ADV. </U><B> fiercely </B><I>Her eyes burned fiercely. </I><B>| slowly </B><I>She could sense the anger burning slowly inside him. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>He was burning with indignation. </I> </P>
+</DIV>

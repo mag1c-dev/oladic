@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>site </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of land where a building was/is/will be </TT> </P>
+<P> <U> ADJ. </U><B> good, prime | designated, possible, potential, proposed, suitable | building, construction, development | demolition | manufacturing, industrial | factory, hospital, school, etc. | greenfield, protected | 5-acre, 20-acre, etc. </B> </P>
+<P> <U> VERB + SITE </U><B> choose, find, identify, locate, look for | acquire, buy, purchase </B><I>The local council has recently acquired the site. </I><B>| clear, prepare </B><I>The site is being cleared for development. </I><B>| build (sth) on, develop | occupy </B><I>The site is presently occupied by offices. </I><B>| stand near/on </B><I>The school stands on the site of an ancient settlement. </I> </P>
+<P> <U> SITE + VERB </U><B> belong to sb </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The factory will be built at a site to the north of the city. </I><B>| in a/the ~ </B><I>The hotel is in a prime site overlooking the sea. </I><B>| on (a/the) ~ </B><I>Hard hats must be worn on site. He was injured on a building site. </I> </P>
+<P> <SUP> 2 </SUP> <TT> place where sth happened or that is used for sth </TT> </P>
+<P> <U> ADJ. </U><B> ancient, archaeological, historic/historical | important | sacred | accident, bomb, crash | dump, landfill, (waste) disposal | burial </B><I>Many of these ancient burial sites were destroyed in the last century. </I><B>| landing, launch | camp (also campsite), camping, caravan, picnic | breeding, nest/nesting </B> </P>
+<P> <U> VERB + SITE </U><B> visit </B><I>The president is to visit the crash site later today. </I><B>| disturb, remove sth from, steal sth from </B><I>penalties for disturbing archaeological sites </I> </P>
+<P> <SUP> 3 </SUP> <TT> on the Internet </TT> </P>
+<P> <U> ADJ. </U><B> Internet, web (also website), WWW | free </B><I>a free site devoted to tropical fish </I><B>| official </B><I>the official website of the New York Yankees </I><B>| chat, home | browse/browsing, search, surf/surfing | destination </B> </P>
+<P> <U> VERB + SITE </U><B> access, browse, search for, visit | build, create, design, set up | host, own </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>At this site you'll find all the latest news and gossip. </I><B>| in ~ </B><I>Check out the links in our home site. </I><B>| ~ about </B><I>sites about Japan </I><B>| ~ for </B><I>the most popular sites for children </I><B>| ~ on </B><I>I'm searching for sites on aromatherapy. </I> &gt; Special page at COMPUTER </B> </P>
+</DIV><DIV class="item"><P class="word"><B>site </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, strategically </B><I>The fence is strategically sited to prevent anyone getting onto the beach. </I><B>| conveniently | discreetly | attractively, beautifully </B><I>The hotel is beautifully sited by a lake in a steep valley. </I><B>| badly</B> </P>
+</DIV>

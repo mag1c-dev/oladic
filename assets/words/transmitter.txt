@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>transmitter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> radar, radio, television/TV | voice </B><I>They discovered voice transmitters hidden in the wall. </I><B>| FM, long-wave, medium-wave, short-wave, VHF | low-power, powerful | ground, hand-held, satellite </B> </P>
+<P> <U> VERB + TRANSMITTER </U><B> be equipped/fitted with </B> </P>
+<P> <U> TRANSMITTER + VERB </U><B> emit sth, send out sth </B><I>The receiver picks up pulses emitted by the transmitter. </I> </P>
+</DIV>

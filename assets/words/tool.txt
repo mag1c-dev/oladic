@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>tool </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> instrument for making/repairing things </TT> </P>
+<P> <U> ADJ. </U><B> general-purpose, multi-purpose | basic, primitive, standard, traditional </B><I>craftsmen using traditional tools </I><B>| sophisticated, special | sharp | rusting/rusty | cutting, drawing, measuring | cordless, hand, machine, power | agricultural, engineering, farm, garden/gardening, industrial, woodworking </B> </P>
+<P> <U> QUANT. </U><B> set </B> </P>
+<P> <U> VERB + TOOL </U><B> use | sharpen | blunt </B><I>Cutting concrete would blunt a metal-cutting tool. </I><B>| down ~s </B><I>Workers downed tools </I>(= stopped work) </B><I>in protest at poor safety standards in the works. </I> </P>
+<P> <U> TOOL + NOUN </U><B> kit </B> </P>
+<P> <U> PHRASES </U><B> the tool/tools of the trade </B><I>The guitarist opened the case and took out the tool of his trade. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that helps you do/achieve sth </TT> </P>
+<P> <U> ADJ. </U><B> effective, essential, important, indispensable, invaluable, major, necessary, powerful, useful, valuable, vital | educational, learning, reference, research </B><I>This dictionary is an invaluable reference tool for advanced learners. </I><B>| ideological, negotiating, political, propaganda </B><I>We must ensure that education is not used as a political tool. </I><B>| communication, management, marketing | analysis/analytical, design, desktop, development, drawing, multimedia, presentation, programming, software</B> </P>
+</DIV>

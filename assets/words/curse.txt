@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>curse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> word used for expressing anger </TT> </P>
+<P> <U> ADJ. </U><B> impatient </B> </P>
+<P> <U> VERB + CURSE </U><B> mutter, utter </B> </P>
+<P> <SUP> 2 </SUP> <TT> wish that sth terrible will happen to sb </TT> </P>
+<P> <U> VERB + CURSE </U><B> utter | put </B> </P>
+<P> <U> PREP. </U><B> under a ~ </B><I>She thought that she must be under a curse. </I><B>| ~ on/upon </B><I>The witch is supposed to have put a curse on the house. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>curse </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> roundly | loudly | quietly, softly, under your breath </B><I>He cursed under his breath as the spanner slipped. </I><B>| inwardly, silently </B> </P>
+<P> <U> PREP. </U><B> for </B><I>I cursed her roundly for being late. </I> </P>
+<P> <U> PHRASES </U><B> curse the day </B><I>He was now cursing the day he had ever got involved in the project. </I><B>| curse your luck </B><I>She cursed her luck that she had had to queue for so long. </I> </P>
+</DIV>

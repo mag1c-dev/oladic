@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>safeguard </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> adequate, effective, proper, sufficient </B><I>Does the procedure provide adequate safeguards against corruption? </I><B>| added, additional, extra, further | appropriate, necessary | environmental, nuclear | constitutional, legal, procedural </B> </P>
+<P> <U> VERB + SAFEGUARD </U><B> introduce | provide (sb with) | build in/into sth </B><I>Appropriate safeguards would have to be built into the procedures to avoid abuses. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The credit agreement includes safeguards against overcharging. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>safeguard </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully, properly | adequately, satisfactorily </B><I>This legislation does not adequately safeguard the rights of consumers. </I> </P>
+<P> <U> VERB + SAFEGUARD </U><B> help (to) | be designed to | take steps to </B> </P>
+<P> <U> PREP. </U><B> against </B><I>We must take steps to safeguard our environment against these threats. </I><B>| from </B><I>to safeguard the young plants from frost </I> </P>
+</DIV>

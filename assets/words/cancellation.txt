@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>cancellation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> last-minute | sudden | outright </B><I>They opted for rescheduling rather than outright cancellation. </I> </P>
+<P> <U> VERB + CANCELLATION </U><B> have </B><I>We may be able to offer you some tickets if we have any cancellations. </I><B>| make </B><I>Cancellations must be made in writing. </I><B>| cause </B><I>Heavy seas can cause cancellation of ferry services. </I> </P>
+<P> <U> CANCELLATION + NOUN </U><B> charge, fee</B> </P>
+</DIV>

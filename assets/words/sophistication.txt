@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>sophistication </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great | growing, increased, increasing | cool | political, technical, technological </B> </P>
+<P> <U> VERB + SOPHISTICATION </U><B> have </B><I>The decor has a cool sophistication. </I><B>| lack </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>He writes with increasing sophistication on the subject. </I> </P>
+<P> <U> PHRASES </U><B> an air of sophistication </B><I>Despite her scruffy clothes, there was an air of sophistication about her. </I><B>| a degree/level of sophistication </B><I>Computers raised the level of sophistication of these maps. </I><B>| a lack of sophistication </B><I>He felt people were contemptuous of his lack of sophistication. </I><B>| a veneer of sophistication </B><I>She adopted an upper-class accent to give herself a veneer of sophistication. </I> </P>
+</DIV>

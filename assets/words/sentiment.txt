@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>sentiment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, strong | growing, rising | fine, lofty, noble </B><I>All these noble sentiments have little chance of being put into practice. </I><B>| national, popular, public | nationalist/nationalistic, patriotic | anti-British, anti-Japanese, etc. | racist | anti-government, anti-war, etc. | moral, religious </B><I>The people are renowned for their deep religious sentiment. </I> </P>
+<P> <U> VERB + SENTIMENT </U><B> express | agree with, echo, endorse, share </B><I>He agrees with the sentiments expressed in the editorial. </I><B>| disagree with | arouse </B> </P>
+<P> <U> SENTIMENT + VERB </U><B> grow </B> </P>
+<P> <U> PREP. </U><B> ~s about/on </B><I>It would be a mistake to ignore their strong sentiments on the issue. </I><B>| ~ against </B><I>The killings at the weekend helped arouse popular sentiment against the organization. </I><B>| ~ in favour of </B><I>public sentiment in favour of state ownership </I> </P>
+<P> <U> PHRASES </U><B> my sentiments exactly </B>(= I agree) <I>&lsquo;I don't see why we should change our plans just because of him.&rsquo; &lsquo;My sentiments exactly.&rsquo; </I> </P>
+</DIV>

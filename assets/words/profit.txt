@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>profit </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, fat, good, greater, handsome, healthy, high, huge, large, record, substantial, tidy | low, modest, small </B><I>They closed down after years of low profits. </I><B>| excess | lost, unrealized </B><I>Damaged goods mean lost profit. </I><B>| realized | quick </B><I>He's only interested in making a quick profit. </I><B>| gross, pre-tax | after/post-tax, clear, net | taxable | interim, short-term | annual </B><I>an annual profit of </I>&pound;</B><I>50,000 </I> <B>| first-quarter, full-year, half-year, second-quarter, etc. | corporate, group | operating, trading </B> </P>
+<P> <U> VERB + PROFIT </U><B> bring (in), earn, generate, make, realize, reap, yield </B><I>The CD generated record profits. </I><B>| boost, increase | maximize | show </B><I>The company started to show a profit in its first year. </I> </P>
+<P> <U> PROFIT + VERB </U><B> grow, increase, rise | fall, plummet, plunge | accrue, arise </B><I>profits accruing to the taxpayer from the sale of property </I> </P>
+<P> <U> PROFIT + NOUN </U><B> margin, rate </B> </P>
+<P> <U> PREP. </U><B> against ~s </B><I>The firm made losses of 500,000 against profits of 750,000. </I><B>| at a ~ </B><I>We should be able to sell the piano at a profit. </I><B>| for ~ </B><I>The goods were sold for profit. </I><B>| ~ on </B><I>Did you make a profit on your house when you sold it? </I> </P>
+<P> <U> PHRASES </U><B> a decline/fall in profits, an increase/a rise in profits, profit after/before tax </B><I>Profit before tax increased by 40% on last year. </I></P>
+<a href="/collocation-tag/financial" class="tag">Learn more about FINANCIAL</a>
+</DIV>

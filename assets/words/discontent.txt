@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>discontent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> general, widespread | growing, increasing | popular, public </B><I>Public discontent with the economy remained at a high level. </I><B>| political, social </B> </P>
+<P> <U> VERB + DISCONTENT </U><B> breed, cause, give rise to, lead to, provoke </B><I>The higher tax provoked widespread discontent among the poor. </I><B>| fuel </B><I>Overcrowded conditions fuelled discontent and facilitated the spread of radical ideas. </I><B>| feel </B><I>the discontent that many people felt </I><B>| seethe with </B><I>The country was seething with discontent and the threat of revolution was real. </I><B>| express, voice </B><I>The peasants expressed their discontent. </I><B>| stem </B><I>The reforms failed to stem social discontent. </I> </P>
+<P> <U> DISCONTENT + VERB </U><B> grow, spread | simmer </B><I>Discontent simmered and then came to a head with the nationalist protests. </I><B>| come to a head </B> </P>
+<P> <U> PREP. </U><B> ~ among, ~ about/at/over </B><I>discontent among students about the lack of funding for education </I><B>| ~ with </B><I>growing discontent with the government </I><B>| ~ within </B><I>There were reports of growing discontent within the army. </I> </P>
+<P> <U> PHRASES </U><B> a cause/source of discontent, murmurs/rumbles/rumblings of discontent</B> </P>
+</DIV>

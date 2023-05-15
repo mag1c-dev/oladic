@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>cycle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> series of events that happen repeatedly </TT> </P>
+<P> <U> ADJ. </U><B> annual, daily, monthly, regular, seasonal, weekly </B><I>the annual cycle of church festivals </I><B>| complete, entire, whole | endless </B><I>the endless cycle of birth, death and rebirth </I><B>| natural </B><I>Life is a natural cycle, just like the changing seasons. </I><B>| vicious </B><I>caught up in a vicious cycle of bingeing and dieting </I><B>| lunar, solar </B><I>the 76-year solar cycle </I><B>| breeding, menstrual, reproductive | business, economic | water </B><I>a diagram of the water cycle </I><B>| life </B><I>the life cycle of the butterfly </I> </P>
+<P> <U> VERB + CYCLE </U><B> go through </B><I>The European market is simply going through an economic cycle. </I><B>| complete </B><I>To complete the cycle, oxygen is necessary. </I><B>| repeat </B> </P>
+<P> <U> CYCLE + VERB </U><B> begin again </B><I>Male and female adults mate, the female lays eggs, and the cycle begins all over again. </I><B>| repeat (itself) </B><I>This cycle of events continually repeats itself. </I> </P>
+<P> <U> CYCLE + NOUN </U><B> length, time </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>at this point in the cycle </I><B>| per ~ </B><I>The number of young produced per breeding cycle varies from species to species. </I> </P>
+<P> <U> PHRASES </U><B> part of the cycle (of sth) </B><I>part of the cycle of birth and death </I> </P>
+<P> <SUP> 2 </SUP> <TT> bicycle </TT> </P>
+<P> <U> ADJ. </U><B> motor (also motorcycle), pedal </B> </P>
+<P> <U> VERB + CYCLE </U><B> ride </B> </P>
+<P> <U> CYCLE + NOUN </U><B> ride, tour </B><I>We're going for a cycle ride this afternoon. </I><B>| helmet | lane, path, route, track </B><I>Cars are not allowed in the cycle lanes. </I><B>| race </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>They completed their journey by cycle. </I><B>| on a/the ~ </B><I>lots of people in cars or on cycles </I> </P>
+</DIV>

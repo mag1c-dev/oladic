@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>consent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | common, general, mutual | express | tacit </B><I>Your silence implies tacit consent to these proposals. </I><B>| informed </B><I>Doctors must obtain the informed consent of all patients before giving any treatment. </I><B>| prior </B><I>No action can be taken without the prior consent of the owner. </I><B>| formal, written | parental </B> </P>
+<P> <U> VERB + CONSENT </U><B> give (sb), grant (sb) </B><I>You must give written consent before the documents can be released. </I><B>| refuse (sb), withhold | gain, get, have, obtain </B><I>Do you have the consent of your employer? </I><B>| require, seek </B> </P>
+<P> <U> PREP. </U><B> by (common/general/mutual) ~ </B><I>The contract can only be broken by mutual consent. </I><B>| with/without sb's ~ </B><I>Your property cannot be sold without your consent. </I><B>| ~ for </B><I>He gave his consent for treatment. </I><B>| ~ from </B><I>consent from the parents </I><B>| ~ to </B><I>He withheld his consent to the marriage. </I> </P>
+<P> <U> PHRASES </U><B> the age of consent </B>(= the age at which sb is legally old enough to agree to have a sexual relationship)  </P>
+</DIV><DIV class="item"><P class="word"><B>consent </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> freely | kindly </B><I>He has kindly consented to give us some of his valuable time. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Her father would not consent to the marriage. </I> </P>
+</DIV>

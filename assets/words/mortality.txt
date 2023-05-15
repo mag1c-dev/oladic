@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>mortality </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high </B><I>Poor hygiene led to high mortality among children. </I><B>| adult, child, infant </B> </P>
+<P> <U> VERB + MORTALITY </U><B> reduce </B><I>measures that should reduce infant mortality </I> </P>
+<P> <U> MORTALITY + VERB </U><B> increase | decrease, fall </B> </P>
+<P> <U> MORTALITY + NOUN </U><B> rate </B> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>Mortality among immigrant groups was higher than average. </I><B>| ~ from </B><I>a lower annual mortality from cancer </I> </P>
+<P> <U> PHRASES </U><B> a change/a decline/an increase in mortality</B> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>avalanche </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large amount of snow falling </TT> </P>
+<P> <U> AVALANCHE + VERB </U><B> happen, strike sth </B><I>The avalanche struck the ski resort in the late afternoon. </I><B>| engulf sb/sth | kill sb </B><I>They were killed by an avalanche in the Swiss Alps. </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>They died in an avalanche. </I> </P>
+<P> <SUP> 2 </SUP> <TT> large number/amount of sth </TT> </P>
+<P> <U> VERB + AVALANCHE </U><B> be buried under </B> </P>
+<P> <U> AVALANCHE + VERB </U><B> engulf sth </B><I>the avalanche of lawlessness threatening to engulf our civilization </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>We've been almost buried under the avalanche of mail. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>anecdote </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> amusing, entertaining, humorous | personal </B> </P>
+<P> <U> VERB + ANECDOTE </U><B> relate, tell </B><I>She is good at telling anecdotes. </I><B>| exchange, swap </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>We swapped anecdotes about old friends. </I> </P>
+</DIV>

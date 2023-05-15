@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>committee </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> central | joint | standing | ad hoc, special | select | executive, management, steering | advisory, consultative | disciplinary | appeal | audit, finance, planning, selection, strike </B> </P>
+<P> <U> VERB + COMMITTEE </U><B> create, establish, form, set up | chair </B><I>Lord Stansfield will chair the committee. </I><B>| appoint (sb to), elect (sb to) </B><I>He was appointed to the advisory committee last month. </I><B>| be on, serve on, sit on </B><I>She serves on several committees. </I><B>| leave, stand down from | disband </B> </P>
+<P> <U> COMMITTEE + VERB </U><B> meet </B><I>The committee meets every Thursday. </I> </P>
+<P> <U> COMMITTEE + NOUN </U><B> member | meeting </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>I talked to some of the people on the committee. </I><B>| ~ on </B><I>a committee on the safety of medicines </I></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+</DIV>

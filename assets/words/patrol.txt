@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>patrol </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> routine | special | armed | foot </B><I>Every police car and foo</I>t </B><I>patrol in the area is on full alert. </I>| <B>dawn, night | air, army, military, naval, police, security | enemy | border, shore | traffic </B><I>helicopters used for traffic patrols </I> </P>
+<P> <U> VERB + PATROL </U><B> carry out, fly, go on </B><I>The Italians flew regular patrols over the desert. </I><B>| maintain </B><I>Britain can maintain a continuous patrol of the seas with only three submarines. </I><B>| send out </B><I>They sent out four-man patrols to scout the area. </I> </P>
+<P> <U> PATROL + NOUN </U><B> boat, car, vehicle | duty</B> </P>
+<P> <U> PREP. </U><B> (out) on ~ </B><I>police officers o</I>n </B><I>patro</I>l </B> </P>
+</DIV>

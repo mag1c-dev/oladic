@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>qualify </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> have/give sb the right to sth </TT> </P>
+<P> <U> ADV. </U><B> automatically </B> </P>
+<P> <U> PREP. </U><B> for </B><I>You will automatically qualify for a pension. </I> </P>
+<P> <U> PHRASES </U><B> qualify on the grounds of sth </B><I>people who qualify for the grant on the grounds of disability </I> </P>
+<P> <SUP> 2 </SUP> <TT> for a sports competition </TT> </P>
+<P> <U> ADV. </U><B> easily | duly </B><I>South Korea duly qualified for the finals when they beat Italy 6?1. </I> </P>
+<P> <U> VERB + QUALIFY </U><B> fail to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>England failed to qualify for the final. </I> </P>
+<P> <SUP> 3 </SUP> <TT> fit a description </TT> </P>
+<P> <U> ADV. </U><B> hardly </B> </P>
+<P> <U> PREP. </U><B> as </B><I>A three-week course hardly qualifies as sufficient training. </I> </P>
+</DIV>

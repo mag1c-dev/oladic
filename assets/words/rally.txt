@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>rally </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> political meeting </TT> </P>
+<P> <U> ADJ. </U><B> big, huge, large, major, mass, massive | public | indoor, outdoor </B><I>at a massive outdoor rally in Paris </I><B>| campaign, election, political | opposition, protest | peace | anti-government, anti-war, etc. </B> </P>
+<P> <U> VERB + RALLY </U><B> have, hold, stage </B><I>The demonstrators marched to Trafalgar Square where they held a rally. </I><B>| call for, organize, plan | attend, take part in </B><I>About 5,000 people attended a rally calling for peace. </I><B>| address, speak at | ban </B><I>The government closed the schools and banned all rallies. </I> </P>
+<P> <U> RALLY + VERB </U><B> take place | break up, disperse, end </B><I>The rally dispersed peacefully after six hours. </I><B>| call for sth </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>She spoke at a public rally in Hyde Park. </I><B>| ~ against </B><I>a mass rally against the treaty </I><B>| ~ for </B><I>a rally for the winning candidate </I><B>| ~ in support of </B><I>a rally in support of the strike </I> </P>
+<P> <SUP> 2 </SUP> <TT> motor race </TT> </P>
+<P> <U> ADJ. </U><B> club, international | motor, motorcycle </B> </P>
+<P> <U> VERB + RALLY </U><B> hold, organize | compete in, enter | win </B> </P>
+<P> <U> RALLY + NOUN </U><B> circuit | driver, driving </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>He will join the team on the rally next week. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in tennis </TT> </P>
+<P> <U> ADJ. </U><B> long, short | exciting </B> </P>
+<P> <U> VERB + RALLY </U><B> play | win | lose</B> </P>
+</DIV><DIV class="item"><P class="word"><B>rally </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> around/round </B><I>Neighbours rallied round and alerted the emergency services. </I> </P>
+<P> <U> VERB + RALLY </U><B> try to </B><I>The team captain vainly tried to rally his troops. </I> </P>
+<P> <U> PREP. </U><B> around/round/behind </B><I>She urged everyone to rally behind the president. </I><B>| to </B><I>Friends rallied to her. </I> </P>
+<P> <U> PHRASES </U><B> rally to sb's defence </B><I>BBC leaders rallied to his defence. </I><B>| rally to sb's/the cause </B><I>Friends and colleagues have rallied to her cause. </I> </P>
+</DIV>

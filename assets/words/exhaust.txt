@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>exhaust </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> car, vehicle | diesel, petrol </B><I>Diesel exhaust contains a lot of soot. </I> </P>
+<P> <U> EXHAUST + NOUN </U><B> emission, fumes, gas, pollution, smoke | pipe, system </B> </P>
+<P> <U> PREP. </U><B> from an/the ~ </B><I>pollution from car exhausts </I> </P>
+</DIV><DIV class="item"><P class="word"><B>exhaust </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sb very tired </TT> </P>
+<P> <U> ADV. </U><B> absolutely, completely, totally, utterly </B><I>The swimming had completely exhausted him. </I><B>| emotionally, mentally, physically </B><I>The experience had exhausted her physically and emotionally. </I> </P>
+<P> <SUP> 2 </SUP> <TT> use sth up completely </TT> </P>
+<P> <U> ADV. </U><B> completely, totally | almost, nearly </B><I>The funds are nearly exhausted. </I><B>| quickly, rapidly </B><I>Their limited resources were quickly exhausted. </I> </P>
+</DIV>

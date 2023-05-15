@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>detective </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> private </B><I>She hired a private detective to follow her husband. </I><B>| undercover | store </B><I>The store detective was keeping a close eye on a suspected shoplifter. </I> </P>
+<P> <U> VERB + DETECTIVE </U><B> hire </B> </P>
+<P> <U> DETECTIVE + VERB </U><B> investigate sth </B><I>detectives investigating the case </I> </P>
+<P> <U> DETECTIVE + NOUN </U><B> agency | work </B><I>We are going to have to do some detective work on this. </I><B>| fiction, novel, series, story</B> </P>
+</DIV>

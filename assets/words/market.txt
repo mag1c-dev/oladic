@@ -1,0 +1,27 @@
+
+<DIV class="item"><P class="word"><B>market </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place where people go to buy and sell things </TT> </P>
+<P> <U> ADJ. </U><B> open-air, outdoor, street | covered, indoor | antiques, cattle, fruit and vegetable, etc. | flea </B>(= that sells old or used goods at low prices)  </P>
+<P> <U> VERB + MARKET </U><B> hold </B><I>The market is held on Wednesdays. </I><B>| go to | take sth to </B><I>They took the pigs to market. </I> </P>
+<P> <U> MARKET + NOUN </U><B> square | town | day </B> </P>
+<P> <U> PREP. </U><B> at/in a/the ~ </B><I>to buy some fish at the market </I> </P>
+<P> <SUP> 2 </SUP> <TT> business/trade </TT> </P>
+<P> <U> ADJ. </U><B> competitive | active, booming, bullish, lively, strong, thriving | bull </B><I>(finance)</I>, <B>rising | depressed, dull, sluggish, weak | bear </B><I>(finance)</I>, <B>falling | steady | buyer's, seller's | foreign, global, international, overseas, world | domestic, home, internal, local | single </B><I>the completion of the European single market in 1992 </I><B>| common | economic | free | open | black </B>(= illegal) <B>| bond, capital, commodity, consumer, currency, export, financial, foreign exchange, futures, housing, money, product, property, securities, stock | car, computer, etc. | job, labour </B> </P>
+<P> <U> VERB + MARKET </U><B> put sth on | come on/onto </B><I>A new model has come on the market. </I><B>| develop | break into, get into, penetrate </B><I>They're hoping to get into the Far Eastern market. </I><B>| capture, corner, monopolize | supply | flood </B><I>flooding the market with cheap foreign goods </I><B>| lose | depress | play </B><I>an investor who knows how to play the market?and win </I> </P>
+<P> <U> MARKET + VERB </U><B> open up </B><I>The Chinese market has opened up recently. </I><B>| boom | pick up, rally | slump | be down, be up </B><I>The market was down 15 per cent. </I><B>| close </B><I>The market closed weaker. </I><B>| open </B> </P>
+<P> <U> MARKET + NOUN </U><B> price, value | conditions | leader | position, share | sector | trends </B> </P>
+<P> <U> PREP. </U><B> in/into a/the ~ </B><I>changes in the UK market </I><B>| on the ~ </B><I>one of the best car deals on the market </I><B>| ~ in </B><I>a thriving market in second-hand cars </I> </P>
+<P> <U> PHRASES </U><B> be in the market for sth </B>(= be interested in buying sth), <B>the bottom's dropped/fallen out of the market </B>(= the market has collapsed), <B>a gap in the market, the bottom/lower/top/upper end of the market </B> </P>
+<P> <SUP> 3 </SUP> <TT> people who want to buy sth </TT> </P>
+<P> <U> ADJ. </U><B> big, good, huge, large | poor, small | expanding, growing | shrinking | ready | niche </B> </P>
+<P> <U> VERB + MARKET </U><B> create </B><I>The company has created a niche market for itself. </I> </P>
+<P> <U> MARKET + VERB </U><B> expand, grow | shrink | collapse | bear sth </B><I>We will charge whatever the market will bear </I>(= as much as people can be persuaded to pay)</B><I>. </I> </P>
+<P> <U> MARKET + NOUN </U><B> segment | niche | research </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the market for new cars </I> </P>
+<P> <SUP> 4 </SUP> <TT> the free market </TT> </P>
+<P> <U> VERB + MARKET </U><B> leave sth to </B><I>Some services cannot be left to the market. </I> </P>
+<P> <U> MARKET + NOUN </U><B> forces | economy</B> </P>
+</DIV><DIV class="item"><P class="word"><B>market </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> heavily | effectively, successfully | cleverly | aggressively | actively | selectively </B><I>The printer is being selectively marketed in a handful of countries. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>It will be marketed as a tonic for the elderly. </I><B>| through </B><I>The product is being marketed through the existing sales force. </I><B>| to </B><I>The company is not actively marketing its products to schools. </I> </P>
+</DIV>

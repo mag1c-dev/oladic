@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pitfall </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> obvious | common | hidden | possible, potential, unforeseen </B><I>We need to be alert to potential pitfalls. </I> </P>
+<P> <U> VERB + PITFALL </U><B> be fraught with, be full of, have, hold </B><I>Trading in a foreign country can be fraught with pitfalls. </I><B>| avoid | overcome </B> </P>
+<P> <U> PITFALL + VERB </U><B> await sb </B><I>Numerous pitfalls await unsuspecting investors. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Buying property holds many pitfalls for the unwary. </I><B>| ~ in </B><I>pitfalls in the interpretation of statistics </I> </P>
+</DIV>

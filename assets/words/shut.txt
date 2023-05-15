@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>shut </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a closed position </TT> </P>
+<P> <U> VERBS </U><B> be, look | bang, blow, clang, click, clunk, slam, slide, swing </B><I>The window blew shut. The elevator door slid shut. </I><B>| remain, stay | be clenched, be jammed </B><I>His jaw was clenched shut. </I><B>| bang sth, kick sth, leave sth, pull sth, slam sth, slide sth, snap sth </B><I>I'll leave the window shut for now. He slammed the case shut. She snapped shut a file on her desk. </I><B>| keep sth </B><I>The gates are always kept shut. (figurative) Afraid to ask seemingly stupid questions, I kept my mouth shut. </I> </P>
+<P> <U> ADV. </U><B> firmly, properly, tightly </B><I>The door was firmly shut. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not open to the public </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>The bars all look shut to me. </I><B>| remain </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The park is now shut for the winter. </I> </P>
+</DIV>

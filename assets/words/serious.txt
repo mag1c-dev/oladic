@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>serious </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> bad/dangerous </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem, sound | become, get </B><I>By this time the riots were getting serious. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> extremely, particularly, really, very | fairly, quite | potentially </B> </P>
+<P> <SUP> 2 </SUP> <TT> not joking </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound </B><I>Come on, be serious! </I><B>| become, turn </B><I>He became serious all of a sudden. </I> </P>
+<P> <U> ADV. </U><B> deadly, quite, very </B> </P>
+<P> <U> PREP. </U><B> about </B><I>Are you serious about resigning? </I> </P>
+</DIV>

@@ -1,0 +1,29 @@
+
+<DIV class="item"><P class="word"><B>stress </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> state of tension </TT> </P>
+<P> <U> ADJ. </U><B> acute, considerable, extreme, great, high, severe </B><I>Separation is a time of high emotional stress. </I><B>| excessive | greater, increased | low | daily </B><I>the daily stress of teaching </I><B>| emotional, mental, psychological, social | economic, financial </B><I>The high mortgage payments put them under severe financial stress. </I> </P>
+<P> <U> QUANT. </U><B> level </B><I>Many workers experience a high level of stress in their daily life. </I> </P>
+<P> <U> VERB + STRESS </U><B> cause, create </B><I>A divorce causes children great emotional stress. </I><B>| avoid, remove | add to, increase | reduce, relieve | be under, experience, have, suffer (from) </B><I>He's been under a lot of stress lately. </I><B>| cope with, handle, manage, stand, take </B><I>He's had to give up his job as leader of the project?he just couldn't take the stress. </I> </P>
+<P> <U> STRESS + VERB </U><B> bring sth about/on </B><I>an illness brought on by stress </I> </P>
+<P> <U> STRESS + NOUN </U><B> level </B><I>high stress levels </I><B>| control, management </B><I>Staff are encouraged to go on stress management courses. </I> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>He broke under stress and had to leave. </I> </P>
+<P> <U> PHRASES </U><B> a source of stress </B><I>An overcrowded workplace can be a major source of stress. </I><B>| a symptom of stress </B><I>Tiredness is one of the most common symptoms of stress. </I> </P>
+<P> <SUP> 2 </SUP> <TT> emphasis that shows importance </TT> </P>
+<P> <U> ADJ. </U><B> enormous, great | particular, special | equal | undue </B> </P>
+<P> <U> VERB + STRESS </U><B> lay, place, put </B><I>I must lay great stress on the need for secrecy. </I> </P>
+<P> <U> PREP. </U><B> with the ~ on </B><I>a study of child development, with the stress on acquisition of social skills </I><B>| ~ on </B><I>There's been a lot of stress on getting drug sellers off the streets. </I> </P>
+<P> <SUP> 3 </SUP> <TT> emphasis on a word, syllable, etc. </TT> </P>
+<P> <U> ADJ. </U><B> main, major, primary, strong | secondary, weak | sentence, word </B> </P>
+<P> <U> VERB + STRESS </U><B> carry, have, take </B><I>Italian words usually have the main stress on the penultimate syllable in the word. The first syllable takes the stress. </I><B>| place, put | mark </B><I>Mark the primary stress in each word. </I> </P>
+<P> <U> STRESS + VERB </U><B> fall, go </B><I>Where does the stress fall in &lsquo;psychological&rsquo;? </I> </P>
+<P> <U> STRESS + NOUN </U><B> mark | pattern </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>There's a stress on the second syllable. </I> </P>
+<P> <SUP> 4 </SUP> <TT> physical force </TT> </P>
+<P> <U> ADJ. </U><B> enormous, high | low | constant | equal </B><I>There is equal stress on all parts of the structure. </I> </P>
+<P> <U> VERB + STRESS </U><B> exert, set up </B><I>The tower exerts an enormous stress on the walls. The movements set up stresses in the earth's crust. </I><B>| apply, put, subject sth to </B><I>Stress is applied to the wood to make it bend. Standing all day puts stress on your feet. The buttresses are subjected to constant stress. </I><B>| bear, take, withstand | increase, reduce | transfer, transmit | calculate </B><I>Engineers calculated the stresses borne by each of the bridge supports. </I> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>Some woods warp under stress. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stress </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> heavily, strongly </B><I>He stressed the point very strongly that all these services cost money. </I><B>| constantly, continually, repeatedly </B><I>She has constantly stressed the government's poor record in this area. </I><B>| rightly </B><I>Doctors have rightly stressed the importance of exercise. </I> </P>
+<P> <U> VERB + STRESS </U><B> can only, must </B><I>I must stress that we still know very little about this disease. </I><B>| tend to </B><I>Private schools tend to stress the more academic subjects. </I><B>| be anxious to, be at pains to, be careful to, be keen to </B><I>She is at pains to stress the cultural differences between the two countries. </I><B>| be important to </B> </P>
+<P> <U> PHRASES </U><B> be worth stressing sth </B><I>It is worth stressing that this was only a relatively small survey. </I> </P>
+</DIV>

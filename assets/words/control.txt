@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>control </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> power over sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, full, total | effective, proper | close, strict </B><I>Weeds should be kept under strict control. </I><B>| direct | government, parental, political, state </B> </P>
+<P> <U> VERB + CONTROL </U><B> have | assume, establish, gain, get, take, win </B><I>A military junta took control of the country. </I><B>| keep, maintain, retain </B><I>She struggled to keep control of her voice. </I><B>| lose, relinquish </B><I>He lost control of the car when he swerved to avoid a cyclist. </I><B>| wrest </B><I>attempts to wrest control of the town from government forces </I><B>| get out of, go out of </B><I>The car went out of control on the icy road. </I><B>| re-establish, regain </B><I>Enemy forces have now regained control of the area. </I><B>| give sb/sth </B><I>The idea is to give councils full control of their own budgets. </I><B>| exercise, exert </B><I>Editors do not exercise control over large sections of their newspapers. </I><B>| bring/get sth under </B><I>They soon got the situation under control. </I> </P>
+<P> <U> PREP. </U><B> beyond/outside your ~ </B><I>Parking is outside my control. </I><B>| in ~ (of) </B><I>The elected government is back in control. </I><B>| out of ~ </B><I>I had this feeling that things were out of control. </I><B>| under (sb's) ~ </B><I>Everything is under control The department was under the control of Bryce Thompson. </I><B>| ~ over </B><I>They have little control over that side of the business. </I> </P>
+<P> <U> PHRASES </U><B> circumstances beyond sb's control </B><I>The event has been cancelled due to circumstances beyond our control. </I> </P>
+<P> <SUP> 2 </SUP> <TT> limiting/managing sth </TT> </P>
+<P> <U> ADJ. </U><B> air-traffic, arms, birth, budgetary, cost, crowd, gun, pest, pollution, quality, rent, social, stock, traffic </B><I>The police are experts in crowd control. </I> </P>
+<P> <SUP> 3 </SUP> <TT> (usually<B>controls</B>) method of limiting/managing sth </TT> </P>
+<P> <U> ADJ. </U><B> strict, stringent, tight, tough | lax | border, export, price </B><I>calls for tougher export controls </I> </P>
+<P> <U> VERB + CONTROL </U><B> impose, introduce </B><I>The government has imposed strict controls on new building. </I><B>| tighten </B><I>The country has tightened its border controls. </I><B>| ease, relax </B><I>plans to relax price controls </I><B>| lift, remove </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>They have introduced controls on public spending. </I> </P>
+<P> <SUP> 4 </SUP> <TT> for operating a machine </TT> </P>
+<P> <U> ADJ. </U><B> remote | volume </B> </P>
+<P> <U> VERB + CONTROL </U><B> take </B><I>Once we were in the air, I was allowed to take the controls. </I> </P>
+<P> <U> CONTROL + NOUN </U><B> panel </B> </P>
+<P> <U> PREP. </U><B> at the ~s </B><I>Chief Air Officer Sedley was at the controls of the Boeing 707. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>control </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, strictly, tightly </B><I>Conditions in the greenhouse are carefully controlled. Expenditure within the company is tightly controlled. </I><B>| effectively, properly | centrally, directly</B> </P>
+</DIV>

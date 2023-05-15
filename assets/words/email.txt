@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>email </B><I>noun </I> </P>
+<P> <U> VERB + EMAIL </U><B> write | send, fire off </B><I>When I saw what he'd written I fired off an angry email. </I><B>| get, receive | read | reply to | delete | archive </B> </P>
+<P> <U> EMAIL + NOUN </U><B> address | message </B>&gt; Special page at COMPUTER </B> </P>
+</DIV>

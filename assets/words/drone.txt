@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>drone </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> faint | low | distant | constant, continuous, steady </B> </P>
+<P> <U> VERB + DRONE </U><B> hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The planes flew overhead with a low drone. </I><B>| ~ of </B><I>the continuous drone of the engine </I> </P>
+</DIV>

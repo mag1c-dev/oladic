@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>drug </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> substance used as a medicine </TT> </P>
+<P> <U> ADJ. </U><B> powerful, strong | modern, new | wonder </B><I>They're hailing it as the new wonder drug. </I><B>| sedative | anti-cancer, anti-inflammatory, anti-malarial, etc. | prescription </B><I>You used to be able to buy this medicine over the counter, but it is now a prescription drug. </I> </P>
+<P> <U> QUANT. </U><B> course, dose </B> </P>
+<P> <U> VERB + DRUG </U><B> be on, take </B><I>Are you taking any other drugs at present? </I><B>| prescribe (sb), put sb on </B><I>The doctor put me on anti-inflammatory drugs. </I><B>| give sb, treat sb with | administer, give sb </B><I>The nurses came round to give the patients their drugs. </I><B>| develop </B><I>new drugs that have been developed recently </I><B>| be resistant to, not respond to </B><I>Some infections are now resistant to drugs. </I> </P>
+<P> <U> DRUG + VERB </U><B> cure sth, help sth, treat sth </B><I>drugs that help the growth of skin tissue </I> </P>
+<P> <U> DRUG + NOUN </U><B> company </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>a powerful drug against tuberculosis </I><B>| ~ for </B><I>He's taking drugs for depression. </I> </P>
+<P> <SUP> 2 </SUP> <TT> illegal substance </TT> </P>
+<P> <U> ADJ. </U><B> illegal | addictive, hallucinogenic | dangerous, hard </B><I>heroin and other hard drugs </I><B>| soft </B>(= not considered very dangerous) <I>Many addicts start on soft drugs, such as cannabis. </I><B>| designer </B>(= artificially produced) <I>She took a tablet of the designer drug Ecstasy. </I> </P>
+<P> <U> VERB + DRUG </U><B> inject (See note for more verbs.) </B> </P>
+<P> <U> DRUG + NOUN </U><B> baron, pusher | cartel | misuse | drug/drugs charges, offence | squad | war </B><I>the latest moves in the drug war </I>(See note for more nouns.) </B> </P>
+<P> <U> PHRASES </U><B> drink and drugs </B><I>the dangers of drink and drugs </I></P>
+<a href="/collocation-tag/drug" class="tag">Learn more about DRUG</a>
+</DIV>

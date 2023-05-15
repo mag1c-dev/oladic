@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>innocent </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not guilty </TT> </P>
+<P> <U> VERBS </U><B> be, plead </B><I>He pleaded innocent to the charges. </I><B>| believe sb, presume sb </B><I>I had always believed her innocent. The accused person should always be presumed innocent until proved guilty. </I><B>| declare sb, find sb, prove sb </B><I>The court found her innocent of the crime. </I> </P>
+<P> <U> ADV. </U><B> completely, entirely, totally, wholly </B> </P>
+<P> <U> PREP. </U><B> of </B><I>I am totally innocent of this crime. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not intended/intending to cause harm </TT> </P>
+<P> <U> VERBS </U><B> be, look, play, seem, sound </B><I>Stop playing innocent and answer my questions, please. </I> </P>
+<P> <U> ADV. </U><B> very | all, altogether, perfectly </B><I>She tried to sound all innocent as she asked the question. The circumstance could be altogether innocent, but suspicions have been raised. </I><B>| relatively | apparently, seemingly </B> </P>
+<P> <SUP> 3 </SUP> <TT> with no experience of the world </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B><I>She was sixteen and sweetly innocent. </I> </P>
+<P> <U> ADV. </U><B> remarkably, very | sweetly | strangely </B><I>the strangely innocent world of her childhood </I><B>| sexually</B> </P>
+</DIV>

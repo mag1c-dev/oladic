@@ -1,0 +1,28 @@
+
+<DIV class="item"><P class="word"><B>stroke </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, lightly, softly, tenderly | thoughtfully </B><I>He stroked his beard thoughtfully. </I><B>| absently </B><I>She stroked the cat absently. </I><B>| away </B><I>She gently stroked away his tears. </I> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>stroke </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a brush, pen, etc. </TT> </P>
+<P> <U> ADJ. </U><B> long, short | broad, thick | narrow, thin | bold, vigorous </B><I>She caught his likeness with a few bold brush strokes. </I><B>| even | quick, slow | downward, upward | brush, pen, pencil </B> </P>
+<P> <U> PHRASES </U><B> with a stroke of the pen </B><I>With a stroke of the pen our names were removed from the register. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in sport </TT> </P>
+<P> <U> ADJ. </U><B> fast, slow | powerful </B><I>The Romanian rowers pulled ahead with fast, powerful strokes. </I><B>| backhand, forehand (in tennis, etc.) </B> </P>
+<P> <U> VERB + STROKE </U><B> play </B><I>He played some powerful backhand strokes throughout the game. </I> </P>
+<P> <U> PREP. </U><B> by a, two, etc. ~ (in golf) </B><I>Woods leads by two strokes. </I> </P>
+<P> <U> PHRASES </U><B> a/two, etc. strokes ahead/behind (in golf) </B> </P>
+<P> <SUP> 3 </SUP> <TT> in swimming </TT> </P>
+<P> <U> ADJ. </U><B> long, short </B><I>He swam back with long slow strokes. </I><B>| fast, slow | back (also backstroke), breast (also breaststroke) </B> </P>
+<P> <U> VERB + STROKE </U><B> do, swim </B><I>You can't swim more than four strokes before you reach the other side. </I> </P>
+<P> <SUP> 4 </SUP> <TT> sudden illness of the brain </TT> </P>
+<P> <U> ADJ. </U><B> crippling, massive, serious | minor, slight | fatal </B> </P>
+<P> <U> VERB + STROKE </U><B> have, suffer </B><I>She had a massive stroke and lost her speech. </I> </P>
+<P> <U> STROKE + VERB </U><B> leave sb &hellip; </B><I>The stroke left him paralysed down his right side. </I> </P>
+<P> <U> STROKE + NOUN </U><B> patient, victim </B>&gt; Special page at ILLNESS </B> </P>
+<P> <SUP> 5 </SUP> <TT> sth that happens unexpectedly </TT> </P>
+<P> <U> ADJ. </U><B> sudden </B><I>I had a sudden stroke of inspiration. </I> </P>
+<P> <U> VERB + STROKE </U><B> have </B> </P>
+<P> <U> PREP. </U><B> at a/one ~ </B><I>They lost half their fortune at a stroke. </I><B>| ~ of </B><I>a stroke of genius </I> </P>
+<P> <U> PHRASES </U><B> a stroke of (good/bad) luck, a stroke of (good) fortune </B></P>
+<a href="/collocation-tag/stroke" class="tag">Learn more about STROKE</a>
+</DIV>

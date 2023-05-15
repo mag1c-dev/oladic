@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>patch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> material over a hole </TT> </P>
+<P> <U> VERB + PATCH </U><B> have </B><I>Her trousers have patches all over them. </I><B>| sew on </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>dancers with patches on their costumes </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of a surface that is different </TT> </P>
+<P> <U> ADJ. </U><B> irregular | clear, coloured, dark | damp, wet | icy </B><I>icy patches on the roads </I><B>| bald </B><I>He has a small bald patch on the crown of his head. </I><B>| rough, sore </B> </P>
+<P> <U> PREP. </U><B> in ~es </B><I>The velvet curtains were faded in patches. </I><B>| ~ of </B><I>There were some patches of clear blue sky. </I><B>| ~ on </B><I>A large damp patch had appeared on the ceiling. </I> </P>
+<P> <U> PHRASES </U><B> a patch of colour </B><I>flowers providing little bright patches of colour around the garden </I> </P>
+<P> <SUP> 3 </SUP> <TT> piece of land </TT> </P>
+<P> <U> ADJ. </U><B> isolated </B><I>an isolated patch of forest </I><B>| cabbage, potato, vegetable </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>working in his vegetable patch </I><B>| on a/the ~ </B><I>located on a small patch of flat ground </I> </P>
+<P> <U> PHRASES </U><B> a patch of grass/ground </B><I>We found a nice patch of grass to sit on. </I> </P>
+<P> <SUP> 4 </SUP> <TT> period of time </TT> </P>
+<P> <U> ADJ. </U><B> bad, difficult, rocky, rough, sticky | purple </B><I>The team has hit a purple patch, with nine wins from their last ten games. </I> </P>
+<P> <U> VERB + PATCH </U><B> go through, have, hit </B><I>Their business hit a sticky patch last year. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>going through a patch of poor health </I> </P>
+</DIV>

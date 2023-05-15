@@ -1,0 +1,32 @@
+
+<DIV class="item"><P class="word"><B>press conference </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> joint | formal | impromptu, informal | concluding </B><I>At the concluding press conference, both leaders said that the talks had been constructive. </I><B>| post-match, post-summit, etc. </B> </P>
+<P> <U> VERB + PRESS CONFERENCE </U><B> call | arrange, organize, plan | give, hold | tell </B><I>The chairman told a press conference of the forthcoming merger. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The prime minister outlined the privatization plans at a press conference. </I><B>| during/in a/the ~ </B><I>The announcement was made in an impromptu press conference at the airport. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>press </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> media </TT> </P>
+<P> <U> ADJ. </U><B> foreign, international, local, national, provincial | gutter, popular, quality, tabloid | financial, music | free </B><I>A free press is fundamental to democracy. </I> </P>
+<P> <U> PRESS + NOUN </U><B> release, statement </B><I>He issued a press statement insisting on his innocence. </I><B>| coverage, report </B><I>extensive press coverage of the event </I><B>| cuttings </B><I>He kept a scrapbook containing press cuttings of his concerts. </I><B>| officer | photographer | agency | ad, advertisement | campaign | freedom </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>There was no mention of the incident in the national press. </I> </P>
+<P> <U> PHRASES </U><B> get/have a good/bad, etc. press </B><I>His latest novel didn't get a very good press </I>(= was not praised in the media)</B><I>. </I> </P>
+<P> <SUP> 2 </SUP> <TT> machine for printing </TT> </P>
+<P> <U> ADJ. </U><B> printing </B> </P>
+<P> <U> VERB + PRESS </U><B> go to </B><I>The newspaper goes to press at 6 o'clock. </I> </P>
+<P> <U> PRESS + VERB </U><B> roll </B><I>The presses are already rolling. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Their new book is in press. </I> </P>
+<P> <U> PHRASES </U><B> hot off the press </B><I>We've just received a copy of her latest book, hot off the press. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>press </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> push sth firmly </TT> </P>
+<P> <U> ADV. </U><B> firmly, hard </B><I>She pressed down hard on the gas pedal. </I><B>| gently, lightly | close/closely </B><I>He pressed up closer against the wall, terrified of being seen. </I><B>| back, down, forward, together, up </B><I>The crowd pressed forward. She pressed her lips together. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>She pressed her face against the window. </I><B>| into </B><I>Bella pressed her face into the pillow. </I><B>| on </B><I>She pressed on the doorbell. </I><B>| to </B><I>He pressed a finger gently to her lips. </I> </P>
+<P> <U> PHRASES </U><B> press sth flat/open/shut </B><I>He pressed the lid firmly shut. </I> </P>
+<P> <SUP> 2 </SUP> <TT> try to persuade sb </TT> </P>
+<P> <U> ADV. </U><B> strongly </B><I>In the interview he strongly pressed his point of view. </I><B>| consistently, continually, repeatedly | further | successfully </B> </P>
+<P> <U> VERB + PRESS </U><B> continue to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The party will continue to press the case for a new electoral system. </I><B>| on </B><I>I did not press him further on the issue. </I> </P>
+<P> <SUP> 3 </SUP> <TT> iron sth </TT> </P>
+<P> <U> PHRASES </U><B> immaculately/neatly pressed </B><I>his immaculately pressed suit </I><B>PHRASAL VERBS press on </B> </P>
+<P> <U> ADV. </U><B> blindly | boldly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>They pressed boldly on with their plan. </I> </P>
+<P> <U> PHRASES </U><B> press on regardless </B><I>The weather was dreadful but we pressed on regardless. </I> </P>
+</DIV>

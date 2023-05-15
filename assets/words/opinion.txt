@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>opinion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> what you think about sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> good, high | low, poor |  strong | conflicting, different, mixed </B><I>Opinions are mixed regarding genetically-modified food. </I><B>| honest </B><I>If you want my honest opinion, I think the book is awful. </I><B>| expert, informed, </B> professional | considered | <B>personal, subjective | objective | contrary, dissenting | majority | minority | second </B><I>If in doubt about your diagnosis, get a second opinion. </I> </P>
+<P> <U> VERB + OPINION </U><B> entertain, have, hold | air, express, give (sb), offer (sb), pass, state, venture, voice </B><I>The bishop spoke without passing any opinion on the scandal. </I><B>| ask sb, seek </B><I>He asked me for my opinion on the course. </I> <B>| get | form </B><I>I formed the opinion that he was not to be trusted. </I><B>| change </B> </P>
+<P> <U> OPINION + VERB </U><B> change | differ, vary </B><I>Opinions differ as to when this wine should be drunk. </I> </P>
+<P> <U> PREP. </U><B> in your ~ </B><I>In my opinion, golf is a dull sport. </I><B>| ~ about/on </B><I>She holds strong opinions on education. </I><B>| ~ as to </B><I>opinions as to the merits of the scheme </I><B>| ~ of </B><I>He has a very high opinion of your work. </I> </P>
+<P> <U> PHRASES </U><B> be of the opinion that &hellip; </B><I>(formal) </I>(= to believe or think that), <B>a difference of opinion </B><I>a genuine difference of opinion between the experts </I><B>| in my humble opinion </B><I>(humorous)</I>, <B>a matter of opinion </B><I>&lsquo;London is wonderful.&rsquo; &lsquo;That's a matter of opinion.&rsquo; </I> </P>
+<P> <SUP> 2 </SUP> <TT> what people in general think about sth </TT> </P>
+<P> <U> ADJ. </U><B> prevailing | general, popular, public </B><I>Contrary to popular opinion, many adult cats dislike milk. </I><B>| international, local, national | expert, informed, professional | academic, legal, medical, political </B> </P>
+<P> <U> QUANT. </U><B> body </B><I>This view is supported by a growing body of professional opinion. </I> </P>
+<P> <U> VERB + OPINION </U><B> mould, shape </B><I>attempts to shape public opinion </I> </P>
+<P> <U> OPINION + VERB </U><B> be against sth, be in favour of sth </B><I>Prevailing local opinion is against the new road proposals. </I><B>| be divided </B><I>Public opinion is divided on the subject of capital punishment. </I> </P>
+<P> <U> OPINION + NOUN </U><B> poll | former, leader </B> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>Opinion among doctors is that the medication is safe. </I> </P>
+<P> <U> PHRASES </U><B> climate of opinion </B><I>in the present climate of opinion </I><B>| shades of opinion </B><I>all shades of political opinion </I> </P>
+</DIV>

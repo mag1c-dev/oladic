@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>tough </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> difficult/unpleasant </TT> </P>
+<P> <U> VERBS </U><B> be, seem | get </B> </P>
+<P> <U> ADV. </U><B> extremely, particularly, really, very | a bit, fairly, a little, pretty, quite </B><I>Things were pretty tough at first. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>It's very tough on the wives when the husbands go off like that. </I> </P>
+<P> <SUP> 2 </SUP> <TT> strict/firm </TT> </P>
+<P> <U> VERBS </U><B> be | become, get </B> </P>
+<P> <U> ADV. </U><B> extremely, particularly, very | fairly, pretty, quite | enough </B><I>Has the government been tough enough on polluters? </I> </P>
+<P> <U> PREP. </U><B> on </B><I>The government has promised to get tough on crime. </I><B>| with </B><I>You have to be tough with these young thugs. </I> </P>
+<P> <SUP> 3 </SUP> <TT> strong </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, get, grow | act, talk </B><I>(both informal) Then this guy started acting tough. </I> </P>
+<P> <U> ADV. </U><B> incredibly, really, remarkably, very | pretty, quite, reasonably | enough </B><I>Are you sure you're physically tough enough for this job? </I><B>| mentally, physically</B> </P>
+</DIV>

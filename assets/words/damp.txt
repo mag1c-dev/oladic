@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>damp </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, look, smell </B><I>The room smelled damp. </I><B>| become, get | remain | make sth </B><I>The rain had made the walls damp. </I> </P>
+<P> <U> ADV. </U><B> very | a bit, a little, quite, rather, slightly </B><I>Our clothes had got a bit damp. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>damp </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> penetrating, rising </B> </P>
+<P> <U> VERB + DAMP </U><B> have, suffer from </B><I>The house had got woodworm and rising damp. </I><B>| check for, look for | find </B><I>The surveyor found damp in the kitchen. </I> </P>
+</DIV>

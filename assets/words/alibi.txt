@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>alibi </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cast-iron, good, perfect, solid </B><I>She was in the office all of Wednesday and so has a cast-iron alibi. </I><B>| false </B> </P>
+<P> <U> VERB + ALIBI </U><B> have | establish, provide, supply </B><I>The videotape would have been useful to establish alibis for the defendants. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The accused was not able to provide an alibi for the evening. </I> </P>
+</DIV>

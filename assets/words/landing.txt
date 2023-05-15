@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>landing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of an aircraft </TT> </P>
+<P> <U> ADJ. </U><B> abrupt, bumpy | crash, emergency, forced | gentle, safe, smooth, soft </B> </P>
+<P> <U> VERB + LANDING </U><B> make </B><I>The pilot had to make an emergency landing in a field. </I> </P>
+<P> <U> LANDING + NOUN </U><B> strip </B> </P>
+<P> <SUP> 2 </SUP> <TT> top of a staircase </TT> </P>
+<P> <U> ADJ. </U><B> first-floor, second-floor, etc. </B> </P>
+<P> <U> PREP. </U><B> off the ~ </B><I>The room opens off the landing. </I><B>| on the ~ </B><I>There's a phone on the landing outside your room. </I> </P>
+</DIV>

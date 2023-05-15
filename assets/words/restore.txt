@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>restore </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> bring back a situation/feeling </TT> </P>
+<P> <U> ADV. </U><B> quickly, soon </B><I>Order was quickly restored. </I><B>| formally </B><I>Diplomatic relations were formally restored. </I> </P>
+<P> <U> VERB + RESTORE </U><B> need to </B><I>We need to restore public confidence in the industry. </I><B>| attempt to, try to | help (to) | be designed to, be intended to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>Peace has now been restored to the area. </I> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to restore sth </B><I>an attempt to restore the company's finances </I><B>| be aimed at restoring sth, measures to restore sth, a way of restoring sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> repair/rebuild sth </TT> </P>
+<P> <U> ADV. </U><B> extensively </B><I>The interior has recently been extensively restored. </I><B>| completely, fully | partially, partly | beautifully, handsomely, sympathetically, tastefully | carefully, faithfully, lovingly, painstakingly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The train has been restored to full working order. </I> </P>
+<P> <U> PHRASES </U><B> newly/recently restored, restore sth to its former glory </B><I>The buildings have now been restored to their former glory. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>minimum </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute, bare, very | agreed, guaranteed | recommended | legal, mandatory, required, statutory </B> </P>
+<P> <U> VERB + MINIMUM </U><B> keep sth to, reduce sth to </B><I>Two fire crews managed to keep damage to a minimum. </I><B>| reach </B><I>The sun's temperature reached a minimum in the summer of 1981. </I><B>| exceed | regard sth as </B><I>A temperature of 121&deg;C is regarded as the minimum necessary to achieve sterility. </I> </P>
+<P> <U> PREP. </U><B> above (the) ~, at (a/the) ~ </B><I>Candidates must have a first degree at a minimum. </I><B>| below (the) ~, down to a ~ </B><I>We tried to keep costs down to a minimum. </I><B>| ~ of </B><I>a minimum of </I>&pound;</B><I>20 a minimum of fuss </I> </P>
+<P> <U> PHRASES </U><B> the minimum acceptable/necessary/needed/required, the minimum possible </B><I>He's always done the minimum possible to pass his exams. </I><B>| with the minimum of delay/discomfort/disruption/effort/fuss/risk</B> </P>
+</DIV>

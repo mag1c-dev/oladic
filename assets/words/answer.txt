@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>answer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that you say/write/do as a reply </TT> </P>
+<P> <U> ADJ. </U><B> brief, quick, short </B><I>The short answer to your query is that he has acted completely illegally. </I><B>| blunt, direct, straight </B><I>I expect a straight answer to a straight question. </I><B>| detailed, full, precise | immediate | final | affirmative, positive | negative | honest, reasonable, sensible | dusty </B>(= unsatisfactory) <I>I complained to the water company and received a very dusty answer. </I> </P>
+<P> <U> VERB + ANSWER </U><B> get, have, receive </B><I>Did you ever get an answer to your letter? </I><B>| demand | wait for | give sb, offer </B><I>Please give her your answer, so she can make the necessary arrangements. She repeated her question, but he offered no answer. </I><B>| guess, know </B><I>I think you can guess the answer?they won't lend us the money. </I> </P>
+<P> <U> ANSWER + VERB </U><B> come </B><I>The answer came in a postcard she sent from Devon. </I> </P>
+<P> <U> PREP. </U><B> in ~ to </B><I>In answer to your enquiries, I can only say that we did not find her work of a satisfactory standard. </I><B>| ~ to </B><I>her answer to his question </I> </P>
+<P> <SUP> 2 </SUP> <TT> solution to a problem </TT> </P>
+<P> <U> ADJ. </U><B> easy, instant, ready, simple | clear, clear-cut, obvious </B><I>The obvious answer would be to cancel the party. </I><B>| logical, reasonable, sensible | adequate, real, satisfactory | complete, convincing, definitive, effective, good, long-term, perfect | partial </B> </P>
+<P> <U> VERB + ANSWER </U><B> have, know </B><I>We are aware of this problem, but we do not have the answer. </I><B>| look for, seek | arrive at, come up with, find </B><I>We have arrived at an answer which we hope will satisfy everyone. </I><B>| give sb, offer, provide </B><I>If you want to save time, this machine will provide the answer. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>There is no easy answer to the problem. </I> </P>
+<P> <U> PHRASES </U><B> have/know all the answers </B><I>He's so arrogant, he thinks he knows all the answers. </I> </P>
+<P> <SUP> 3 </SUP> <TT> to questions in a test </TT> </P>
+<P> <U> ADJ. </U><B> acceptable, appropriate, correct, right | incorrect, wrong | written </B><I>This part of the exam requires a written answer. </I> </P>
+<P> <U> VERB + ANSWER </U><B> give | guess </B><I>It's not worth guessing the answer, as you may lose marks. </I><B>| know | print, write </B><I>Please print the answers to questions 1 to 9. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Do you know the answer to the question? </I> </P>
+</DIV><DIV class="item"><P class="word"><B>answer </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> affirmatively, in the affirmative </B><I>She answered in the affirmative. </I><B>| in the negative, negatively | honestly, truthfully </B><I>He tried to answer as honestly as he could. </I><B>| correctly | fully </B><I>What he told me does not fully answer the question of what his motives were. </I><B>| satisfactorily | evasively | coldly, curtly | calmly | quietly, softly</B> </P>
+</DIV>

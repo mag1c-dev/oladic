@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>president </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acting, caretaker, honorary, interim, provisional | deputy, vice | elect </B><I>the president elect, Michael Roberts </I><B>| incoming, outgoing | incumbent | former, past, previous | lame-duck | civilian, military | federal, national, state | club, company, party, university </B> </P>
+<P> <U> VERB + PRESIDENT </U><B> appoint, appoint sb (as), elect, elect sb (as), name sb (as), swear sb in as </B><I>He was sworn in as president on August 31. </I><B>| serve as | impeach </B> </P>
+<P> <U> PRESIDENT + VERB </U><B> veto sth | intervene (in sth)</B> </P>
+</DIV>

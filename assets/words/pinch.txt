@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pinch </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> take hold of sth between your thumb and finger </TT> </P>
+<P> <U> ADV. </U><B> firmly | gently | sharply | playfully | together </B><I>Apply pressure to the nose by pinching the nostrils firmly together. </I> </P>
+<P> <U> PREP. </U><B> between </B><I>He pinched the leaf between his thumb and forefinger. </I><B>| on </B><I>He pinched me sharply on the arm. </I> </P>
+<P> <SUP> 2 </SUP> <TT> be too tight </TT> </P>
+<P> <U> ADV. </U><B> badly </B><I>My shoes were pinching badly. </I> </P>
+</DIV>

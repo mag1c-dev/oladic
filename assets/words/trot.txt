@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>trot </B><I>noun </I><B>a trot </B> </P>
+<P> <U> ADJ. </U><B> brisk, fast, spanking | gentle </B> </P>
+<P> <U> VERB + TROT </U><B> break into </B><I>When the horses reached the field they broke into a brisk trot. </I><B>| slow to </B> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>We set off at a fast trot. </I><B>| into a ~ </B><I>He kicked his horse into a trot. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>trot </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> briskly, quickly | happily | obediently </B><I>Anne trotted obediently beside her mother. </I><B>| across, along, off, over </B><I>He trotted off to greet the other guests. </I> </P>
+<P> <U> PREP. </U><B> down, up </B><I>She trotted quickly down the stairs. </I> </P>
+</DIV>

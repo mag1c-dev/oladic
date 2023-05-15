@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>translation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accurate, correct, exact | approximate, free, rough | direct, literal, straight, word-for-word | English, Japanese, etc. | simultaneous </B><I>There will be simultaneous translation in English and Chinese. </I><B>| automatic, machine </B><I>advances in machine translation </I> </P>
+<P> <U> VERB + TRANSLATION </U><B> do, make </B><I>I've got this translation to do for Friday. She tried making her own translation of the sign without consulting a dictionary. </I><B>| work on | read | survive </B><I>The poems do not survive the translation into English. </I><B>| lose sth in </B><I>The irony is lost in translation. </I> </P>
+<P> <U> TRANSLATION + VERB </U><B> read </B><I>The translation of the Latin motto reads &lsquo;Not for oneself, but for others&rsquo;. </I> </P>
+<P> <U> TRANSLATION + NOUN </U><B> process | service, work | facilities | exercise | equivalent </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>Each unit of the course ends with sentences for translation. </I><B>| in ~ </B><I>I read the book in translation, not in the original Norwegian. </I><B>| ~ into </B><I>Simultaneous translation into English is available to delegates. </I> </P>
+</DIV>

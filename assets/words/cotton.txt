@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cotton </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pure </B><I>a pure cotton T-shirt </I><B>| light, thin </B><I>shivering in her thin cotton nightdress </I><B>| fine | rough | raw | printed | mercerized | sewing </B> </P>
+<P> <U> QUANT. </U><B> reel </B>(= pf cotton thread) <B>| bale, bolt </B>(= both of fabric)  </P>
+<P> <U> VERB + COTTON </U><B> grow | pick </B> </P>
+<P> <U> COTTON + NOUN </U><B> thread | bud, wool | field, plantation | industry, manufacturing | mill | manufacturer | reel</B> </P>
+</DIV>

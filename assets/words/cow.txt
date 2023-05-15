@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cow </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> beef | dairy, milch </B><I>(often figurative) </I><B>| sacred </B><I>(often figurative) the sacred cow of free market economics </I> </P>
+<P> <U> QUANT. </U><B> herd </B> </P>
+<P> <U> VERB + COW </U><B> breed | milk </B> </P>
+<P> <U> COW + VERB </U><B> low, moo | chew the cud, graze | calve </B><I>The cow had difficulties calving. </I> </P>
+<P> <U> COW + NOUN </U><B> byre, shed (also cowshed) <B>| dung, manure, muck, pat (also cowpat) | bell </B> </P>
+<P> <U> PHRASES </U><B> a breed of cow</B> </P>
+</DIV>

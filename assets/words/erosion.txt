@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>erosion </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> serious, severe </B><I>Acid rain has caused severe erosion on the hillside. </I><B>| rapid | gradual, steady </B><I>the steady erosion of their civil liberties </I><B>| coastal, soil | glacial, water, wind </B> </P>
+<P> <U> VERB + EROSION </U><B> cause, contribute to, lead to, result in | protect sth from, reduce | suffer (from) </B><I>The area suffers badly from coastal erosion. </I> </P>
+<P> <U> EROSION + VERB </U><B> affect sth </B><I>the areas worst affected by soil erosion </I> </P>
+<P> <U> PHRASES </U><B> the rate of erosion</B> </P>
+</DIV>

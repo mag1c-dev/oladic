@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>conform </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully </B> </P>
+<P> <U> VERB + CONFORM </U><B> be required to, must, should | fail to </B><I>The toys fail to conform to current safety standards. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>All companies are required to conform to these rules. </I><B>| with </B><I>This equipment conforms fully with the latest safety regulations. </I> </P>
+</DIV>

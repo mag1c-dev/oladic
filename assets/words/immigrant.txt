@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>immigrant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> illegal | foreign | Irish, Italian, Jewish, etc. | recent | would-be | first-generation, second-generation </B><I>First-generation immigrants may dream of returning &lsquo;home&rsquo;; their children say Britain is their home. </I> </P>
+<P> <U> QUANT. </U><B> flood, influx, wave </B> </P>
+<P> <U> VERB + IMMIGRANT </U><B> accept, welcome | deport, return </B><I>ships laden with would-be immigrants who were forcibly returned </I> </P>
+<P> <U> IMMIGRANT + VERB </U><B> arrive, enter sth </B><I>immigrants seeking to enter the country </I><B>| come from sth | settle (sth) </B><I>European immigrants settled much of Australia. </I> </P>
+<P> <U> IMMIGRANT + NOUN </U><B> community, family, group, population | worker | labour </B> </P>
+<P> <U> PREP. </U><B> ~ from, ~ to </B><I>She was the daughter of Chinese immigrants to America. </I> </P>
+</DIV>

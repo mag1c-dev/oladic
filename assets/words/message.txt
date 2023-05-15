@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>message </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> from one person to another </TT> </P>
+<P> <U> ADJ. </U><B> important, urgent, vital | brief, short | coded, cryptic, scrambled | secret | garbled | email, radio, text | heartfelt </B><I>The family sent a heartfelt message of thanks to everyone who helped. </I> </P>
+<P> <U> VERB + MESSAGE </U><B> convey, give sb, pass on, relay </B><I>He's not here?I'll pass on the message. </I><B>| take </B><I>She's out?can I take a message? </I><B>| carry, deliver, take sb | send, transmit | leave (sb) </B><I>I left a message for her at reception. </I><B>| get, receive </B><I>I never got your message. </I> </P>
+<P> <U> MESSAGE + VERB </U><B> come | say sth, tell sb sth </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>There was a message about the meeting. </I><B>| ~ for </B><I>Are there any messages for me? </I><B>| ~ from </B><I>a urgent message from your mother </I><B>| ~ of </B><I>They sent messages of hope to prisoners of war. </I><B>| ~ to </B><I>The message was to your sister, not you. </I> </P>
+<P> <SUP> 2 </SUP> <TT> main idea of a book, speech, etc. </TT> </P>
+<P> <U> ADJ. </U><B> important | fundamental, main | clear, simple, unambiguous, unmistakeable | ambiguous, conflicting, mixed | powerful, strong | positive, upbeat | stark, uncomfortable | hidden, implicit, subliminal </B><I>stories with hidden moral messages </I><B>| anti-drugs, anti-war, etc. </B><I>a party with an anti-immigrant message </I><B>| ideological, moral, political, social </B> </P>
+<P> <U> VERB + MESSAGE </U><B> spread </B><I>spreading the message of the Bible </I><B>| drive home, get/put across </B><I>We need to get this important message across to teenage smokers. </I><B>| reinforce </B> </P>
+<P> <U> MESSAGE + VERB </U><B> emerge </B><I>A clear message is emerging from these government statements. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The president toured the country spreading the message of national unity. </I> </P>
+</DIV>

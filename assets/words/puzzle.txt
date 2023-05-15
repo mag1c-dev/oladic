@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>puzzle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that is difficult to understand </TT> </P>
+<P> <U> ADJ. </U><B> great | perplexing | scientific, theoretical </B> </P>
+<P> <U> VERB + PUZZLE </U><B> solve | remain </B><I>What happened to the ship remains a puzzle. </I> </P>
+<P> <U> PUZZLE + VERB </U><B> remain </B><I>The puzzle remains of what happened to the ship. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>They knew who the killer was, but there were still some gaps in the puzzle. </I><B>| ~ about </B><I>There is a puzzle about how the plant first came to Britain. </I><B>| ~ of </B><I>They're trying to solve the puzzle of how gravity works. </I> </P>
+<P> <U> PHRASES </U><B> a bit/piece of the puzzle </B><I>Another piece of the puzzle fell into place. </I><B>| the key to a puzzle </B><I>Traces of explosives found among the wreckage were the key to the puzzle. </I><B>| a piece in the puzzle </B><I>The police didn't know what the message meant, but it was another piece in the puzzle. </I><B>| a solution to a puzzle, something of a puzzle </B><I>The origin of the word is something of a puzzle. </I> </P>
+<P> <SUP> 2 </SUP> <TT> game that tests your skill, intelligence, etc. </TT> </P>
+<P> <U> ADJ. </U><B> crossword, jigsaw | number, picture, word | complicated </B> </P>
+<P> <U> VERB + PUZZLE </U><B> do, solve </B> </P>
+<P> <U> PUZZLE + NOUN </U><B> book</B> </P>
+</DIV>

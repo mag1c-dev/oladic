@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>range </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> different things within the same category </TT> </P>
+<P> <U> ADJ. </U><B> broad, enormous, extensive, great, huge, large, vast, wide | complete, comprehensive, full, whole | infinite | excellent, </B> exciting, good, superb | <B>astonishing, extraordinary,  </B><I>range. </I> </P>
+<P> <U> PREP. </U><B> beyond ~ </B><I>This car is beyond the range of most people's pockets. </I><B>| in/within ~ </B><I>Are we within range of the local transmitter? </I><B>| out of ~ </B><I>Don't shoot yet?he's still out of range. </I><B>| outside a/the ~ </B><I>It's outside my range of vision. </I> <B>impressive, remarkable | diverse </B><I>people from a diverse range of backgrounds </I><B>| acceptable | limited, poor | new </B><I>Come and see our new range of furniture. </I><B>| product </B><I>For more information about our product range, call your local branch. </I> </P>
+<P> <U> VERB + RANGE </U><B> have, stock </B><I>They stock a very wide range of garden products. </I><B>| make, produce | offer (sb), provide (sb with), supply (sb with) </B><I>We provide a full range of financial services. </I><B>| choose (sth) from, try out </B><I>Students can choose from a wide range of options. </I><B>| create, develop, launch </B><I>The company is launching a new range of cosmetics. </I><B>| expand, extend </B> </P>
+<P> <U> RANGE + VERB </U><B> include sth </B><I>Our comprehensive range of benefits includes pension and health insurance. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the other models in their new range </I> </P>
+<P> <U> PHRASES </U><B> bottom/middle/top of the range </B><I>This is a top of the range refrigerator. </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount between particular limits </TT> </P>
+<P> <U> ADJ. </U><B> broad, wide | narrow | normal | ability, age, price, size, temperature, etc. </B> </P>
+<P> <U> VERB + RANGE </U><B> cover, encompass, feature, include </B><I>The trade show will feature an enormous range of goods. </I><B>| extend, increase </B><I>trying to extend the range of children's language </I> </P>
+<P> <U> PREP. </U><B> across a/the ~ </B><I>There is considerable variation in ability across the range. </I><B>| in a/the ~ </B><I>Most of the students are in the age range 17?21. </I><B>| outside a/the ~ </B><I>No, that's completely outside my price range. </I><B>| within a/the ~ </B><I>The level of mistakes is within the acceptable range of standards for a public organization. </I><B>| ~ of </B><I>a broad range of abilities </I> </P>
+<P> <SUP> 3 </SUP> <TT> distance that it is possible to travel, see, etc. </TT> </P>
+<P> <U> ADJ. </U><B> long </B><I>missiles effective over a long range </I><B>| close, point-blank, short </B><I>He shot her at point-blank </I> </P>
+</DIV><DIV class="item"><P class="word"><B>range </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> enormously, widely </B> </P>
+<P> <U> PREP. </U><B> across </B><I>The opinions they expressed ranged right across the political spectrum. </I><B>| between </B><I>The town's population ranged between 15 and 20,000. </I><B>| from, in </B><I>The disease ranges widely in severity. </I><B>| over </B><I>Her lecture ranged over a number of topics. </I><B>| through </B><I>an array of lilies, ranging through yellow to sombre purple </I><B>| to </B><I>selling them at prices ranging from about $10 to $500. </I><B>| up to </B><I>Their ages range up to 84. </I> </P>
+</DIV>

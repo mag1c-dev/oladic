@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>flavour </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> taste of food </B> </TT> </P>
+<P> <U> ADJ. </U><B> delicious, exquisite, fine, good, lovely, pleasant, wonderful | characteristic, distinctive, particular, unique, unmistakable | true | full, pronounced, rich, strong | mellow, rounded | delicate, mild, subtle | bland | extra | fresh | sweet | bitter, sharp, sour, tangy, tart | salty | hot, spicy | smoky | exotic | cheese/cheesy, chocolate, fruit, lemon/lemony, minty, nutty, etc. </B> </P>
+<P> <U> VERB + FLAVOUR </U><B> have </B><I>It's got a very mild flavour. </I><B>| take on </B><I>Coffee takes on a flavour all of its own when enjoyed with freshly cooked pastry. </I><B>| keep </B><I>Delicate herbs keep their flavour better when frozen. </I><B>| lose | add, give sth, impart, lend (sth), provide </B><I>a herb that adds a characteristic flavour to a range of dishes </I><B>| bring out, release </B><I>The lemon juice brings out the natural fruit flavours. Bay leaves should be broken to release their flavour. </I> <B>| enhance, improve | spoil | destroy </B><I>Cooking the vegetable destroys its wonderful delicate flavour. </I><B>| appreciate, enjoy, savour </B><I>Enjoy the flavour of fresh fish. </I> </P>
+<P> <U> FLAVOUR + NOUN </U><B> enhancer </B><I>Salt is a common flavour enhancer. </I> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>Cream may be added to the sauce for extra flavour. </I><B>| with a ~ </B><I>a dish with a strong spicy flavour </I> </P>
+<P> <U> PHRASES </U><B> full of flavour </B><I>vegetables that are fresh and full of flavour </I> </P>
+<P> <SUP> 2 </SUP> <TT> particular quality/atmosphere </TT> </P>
+<P> <U> ADJ. </U><B> distinctive, particular, true, unique | pronounced, strong | international, local, oriental, regional | American, Scandinavian, etc. | political </B> </P>
+<P> <U> VERB + FLAVOUR </U><B> have </B><I>The college has a truly international flavour. </I><B>| acquire, take on </B><I>The music festival has taken on a distinctly German flavour. </I><B>| lose | add, give sth, impart, provide </B><I>The intervention of the authorities gave union struggles a decidedly political flavour. </I><B>| experience, get </B><I>The children experienced the flavour of medieval life. She rotated around the departments to get a flavour of all aspects of the business. </I><B>| appreciate, enjoy | capture </B><I>The film captures the flavour of rural life in this area. </I><B>| convey </B> </P>
+<P> <U> PREP. </U><B> with a &hellip; ~ </B><I>a TV show with an American flavour </I> </P>
+</DIV>

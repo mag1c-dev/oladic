@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>pace </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> one step </TT> </P>
+<P> <U> VERB + PACE </U><B> take </B><I>Take two paces forward. </I><B>| step back </B><I>Step back three paces. </I> </P>
+<P> <U> PREP. </U><B> ~ behind </B><I>Two bodyguards remained a couple of paces behind the president throughout the walkabout. </I><B>| ~ from </B><I>I stopped a few paces from the edge of the cliff. </I> </P>
+<P> <SUP> 2 </SUP> <TT> speed </TT> </P>
+<P> <U> ADJ. </U><B> blistering, breakneck, breathtaking, brisk, cracking, fast, frantic, frenetic, frenzied, furious, good, great, hectic, lightning, lively, rapid | gentle, leisurely, relaxed, slow, unhurried, walking </B><I>the slow pace of economic reform </I><B>| even, measured, moderate, steady </B> </P>
+<P> <U> VERB + PACE </U><B> gather, increase, quicken </B><I>The project had a slow start, but is now gathering pace. Thinking that she was being followed, she quickened her pace. </I><B>| slacken, slow down | dictate, set </B><I>Brown set the pace in the first mile. </I><B>| keep (up), maintain </B><I>The younger children struggled to keep pace with the older ones. She kept up a pace of ten miles an hour. </I><B>| stand </B><I>You shouldn't have such a job if you can't stand the pace. </I> </P>
+<P> <U> PACE + VERB </U><B> increase | slow </B> </P>
+<P> <U> PREP. </U><B> at a &hellip; ~ </B><I>They set off at a cracking pace. </I><B>| ~ of </B><I>The pace of change means that equipment has to be constantly replaced. The pace of life is much slower on the islands. </I> </P>
+<P> <U> PHRASES </U><B> at sb's own pace </B><I>The students work at their own pace. </I><B>| at a snail's pace </B><I>I set off at a snail's pace to conserve my energy for later in the race. </I><B>| a change of pace </B><I>I try to get away at weekends for a change of pace. </I><B>| a turn of pace </B><I>He's a skilful player with a good turn of pace. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>pace </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> slowly | anxiously, nervously, restlessly </B><I>She paced restlessly up and down. </I><B>| about/around/round, back and forth, to and fro, up and down </B><I>He paced slowly back and forth. </I> </P>
+<P> <U> VERB + PACE </U><B> begin to </B> </P>
+<P> <U> PREP. </U><B> about, around/round </B> </P>
+<P> <U> PHRASES </U><B> begin pacing </B><I>She began pacing round the room. </I> </P>
+</DIV>

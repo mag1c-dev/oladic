@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>request </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> special | reasonable, unreasonable | formal, official | polite | strange, unusual | repeated | urgent | explicit, particular, specific | written </B> </P>
+<P> <U> VERB + REQUEST </U><B> make, put in, submit </B><I>I've put in a request for a room with a view of the sea. </I><B>| get, have, receive </B><I>We have had repeated requests for a pedestrian crossing near the school. </I><B>| agree to, comply with, grant | respond to | refuse, reject, turn down | repeat </B> </P>
+<P> <U> PREP. </U><B> at sb's ~ </B><I>The play was written by Agatha Christie at the request of Queen Mary. </I><B>| by ~ </B><I>The writer's name was withheld by request </I>(= because the writer had asked for this to be done)</B><I>. </I><B>| on/upon ~ </B><I>We will arrange accommodation on request. </I><B>| ~ for </B><I>The helpline was inundated with requests for information on the crash. </I> </P>
+<P> <U> PHRASES </U><B> available on request </B><I>A detailed list of our publications is available on request. </I><B>| by popular request </B><I>The film is being shown again by popular request. </I><B>| a number of requests</B> </P>
+</DIV><DIV class="item"><P class="word"><B>request </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> explicitly, expressly, specifically | formally | politely | reasonably </B><I>(law) Auditors will be required to provide any information reasonably requested by the bank. </I><B>| urgently | repeatedly </B> </P>
+<P> <U> PREP. </U><B> from </B><I>We have requested some information from the company. </I> </P>
+</DIV>

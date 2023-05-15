@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>aim </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> purpose/goal </TT> </P>
+<P> <U> ADJ. </U><B> broad, general, overall | basic, central, essential, fundamental | chief, first, key, main, major, primary, prime, principal, overriding | sole </B><I>His sole aim in life is to enjoy himself. </I><B>| clear, explicit </B><I>It is important to have a clear aim in view. </I><B>| ambitious | high, worthy </B><I>Simple truth must be the highest aim of any real enquiry. </I><B>| limited, modest | legitimate | common </B><I>I want to see a strong and united country in which people work together with common aims. </I><B>| underlying </B><I>Although the report covers many areas, its underlying aim is to ensure that another accident never happens. </I><B>| immediate, initial | original | eventual, ultimate </B><I>His ultimate aim was to force the prime minister to resign. </I><B>| long-term, short-term | avowed, declared, express/expressed, stated </B><I>The express aim of the treaty is to keep the whole region free from nuclear weapons. </I><B>| war | policy/political, strategic </B> </P>
+<P> <U> VERB + AIM </U><B> have | set youself | achieve, fulfil </B><I>You will have to work hard to achieve your aim. </I><B>| further, pursue </B><I>They were intent on furthering their aims. The country is still pursuing its aim of joining the EU. </I> </P>
+<P> <U> PREP. </U><B> with the ~ of </B><I>She started the organization with the aim of helping local people. </I> </P>
+<P> <U> PHRASES </U><B> aims and objectives </B><I>What are the aims and objectives of this visit? </I> </P>
+<P> <SUP> 2 </SUP> <TT> pointing weapon, etc. </TT> </P>
+<P> <U> ADJ. </U><B> careful </B><I>I'll take more careful aim next time. </I><B>| poor </B><I>His aim was poor and he missed the target. </I> </P>
+<P> <U> VERB + AIM </U><B> take </B> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>He took aim at the target and fired. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>aim </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> try/plan to achieve sth </TT> </P>
+<P> <U> ADV. </U><B> directly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>She's aiming at a scholarship this year. The initiative is aimed at helping young people. </I><B>| for </B><I>He is aiming for a win in this race. </I> </P>
+<P> <U> PHRASES </U><B> aim high </B>(= to attempt to achieve a lot) <I>a young man who is prepared to aim high </I> </P>
+<P> <SUP> 2 </SUP> <TT> intend sth for sb </TT> </P>
+<P> <U> ADV. </U><B> clearly, directly, squarely | largely, mainly, mostly, primarily, principally | particularly, specifically </B> </P>
+<P> <U> PHRASES </U><B> be aimed at </B><I>educational courses aimed particularly at older people </I> </P>
+<P> <SUP> 3 </SUP> <TT> point/direct sth at sb </TT> </P>
+<P> <U> ADV. </U><B> directly, straight | deliberately </B> </P>
+<P> <U> PREP. </U><B> at </B><I>She aimed the gun straight at the intruder. </I><B>| for </B><I>Aim for his legs, not his body. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>define </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> accurately, carefully, correctly, exactly, explicitly, precisely, specifically </B><I>It is important to define these terms accurately. </I><B>| clearly, fully, strongly, well | adequately </B><I>There may be problems if responsibilities are not adequately defined. </I><B>| ill, poorly | broadly </B><I>We have chosen to define the scope of our study quite broadly. </I><B>| loosely, vaguely | closely, narrowly, rigidly, strictly, tightly | simply, solely | easily | formally, officially | traditionally | culturally, geographically, socially </B><I>the culturally defined role of women </I><B>| legally </B> </P>
+<P> <U> VERB + DEFINE </U><B> be difficult to, be impossible to | be easy to </B><I>Social values are not easy to define. </I> </P>
+<P> <U> PREP. </U><B> in terms of </B><I>The difficulty of a problem was defined in terms of how long it took to complete. </I> </P>
+</DIV>

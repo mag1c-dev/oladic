@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>equivalent </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> exactly, precisely | almost, closely, essentially, practically | approximately, broadly, more or less, roughly </B><I>the price we would pay elsewhere for a broadly equivalent house </I> </P>
+<P> <U> PREP. </U><B> in, to </B><I>These first computers were equivalent in power to a modern calculator. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>equivalent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> direct, exact, nearest </B><I>the nearest equivalent we have to a carnival </I><B>| approximate | modern </B><I>the modern equivalent of the village inn </I><B>| American, British, etc. </B> </P>
+<P> <U> VERB + EQUIVALENT </U><B> have </B><I>a word which has no direct equivalent in English </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>There is no exact male equivalent for witches. </I><B>| ~ in </B><I>It is the approximate equivalent in height to the Matterhorn. </I><B>| ~ of </B><I>This qualification is the equivalent of a degree. </I><B>| ~ to </B><I>This concert hall has been described as the American equivalent to London's Albert Hall. </I> </P>
+</DIV>

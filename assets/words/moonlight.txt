@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>moonlight </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bright, clear | faint, pale </B> </P>
+<P> <U> QUANT. </U><B> shaft </B><I>a single shaft of moonlight </I> </P>
+<P> <U> VERB + MOONLIGHT </U><B> be bathed in, gleam in, glint in, shine in </B><I>The fields were bathed in bright moonlight that night. His helmet glinted in the moonlight. </I> </P>
+<P> <U> MOONLIGHT + VERB </U><B> filter, shine, stream </B><I>the faint moonlight filtering through the stained glass windows </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The castle looks fantastic by moonlight. </I><B>| in the ~ </B><I>The leaves were silver in the moonlight. </I> </P>
+</DIV>

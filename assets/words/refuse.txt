@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>refuse </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> domestic, household | uncollected </B> </P>
+<P> <U> QUANT. </U><B> heap, mound, pile </B> </P>
+<P> <U> VERB + REFUSE </U><B> dump </B><I>People dump their refuse in the surrounding woods instead of taking it to the tip. </I><B>| collect </B><I>What day do they collect the refuse? </I><B>| recycle </B> </P>
+<P> <U> REFUSE + NOUN </U><B> collection, disposal | bin | dump</B> </P>
+</DIV><DIV class="item"><P class="word"><B>refuse </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> adamantly, obstinately, resolutely, steadfastly, stoutly, stubbornly | categorically, flatly, point-blank, simply </B><I>Gerard refused point-blank to co-operate. </I><B>| pointedly </B><I>The demand for an apology was pointedly refused. </I><B>| politely | consistently </B> </P>
+<P> <U> VERB + REFUSE </U><B> can't/couldn't, can/could hardly </B><I>They made me an offer I couldn't refuse. </I><B>| be entitled to, have the right to </B><I>Workers should be entitled to refuse to work under these conditions. </I><B>| be/seem churlish to </B><I>She offered them cups of tea and it seemed churlish to refuse. </I> </P>
+</DIV>

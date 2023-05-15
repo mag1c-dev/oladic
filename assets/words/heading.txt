@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>heading </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad, general </B><I>Books on bridges should be listed under &lsquo;bridges&rsquo; and not under a broader heading such as &lsquo;engineering&rsquo;. </I><B>| main, major | chapter, page, section | subject, topic | letter </B><I>With the computer, we can print our own letter headings. </I> </P>
+<P> <U> VERB + HEADING </U><B> come under, fall under </B><I>These drugs come under the heading of non-medical substances. </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>I've organized what I have to say about unemployment under three main headings. </I> </P>
+</DIV>

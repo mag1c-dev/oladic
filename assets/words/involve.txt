@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>involve </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sth necessary </TT> </P>
+<P> <U> ADV. </U><B> ordinarily, typically, usually </B><I>Inventions typically involve minor improvements in technology. </I><B>| inevitably, necessarily </B><I>The reforms will inevitably involve a lot of new paperwork for teachers. </I> </P>
+<P> <SUP> 2 </SUP> <TT> include sb </TT> </P>
+<P> <U> ADV. </U><B> actively, directly </B><I>methods that actively involve students in learning </I> </P>
+<P> <U> PREP. </U><B> in </B><I>I didn't mean to involve you in all this. </I> </P>
+</DIV>

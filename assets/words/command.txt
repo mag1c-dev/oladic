@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>command </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> order </TT> </P>
+<P> <U> ADJ. </U><B> peremptory </B> </P>
+<P> <U> VERB + COMMAND </U><B> carry out, obey | bark, give, issue </B><I>an army officer barking commands at his men He issued the command to retreat. </I> </P>
+<P> <U> PREP. </U><B> at sb's ~ </B><I>I am at your command </I>(= ready to obey you)</B><I>. At her command all work stopped. </I> </P>
+<P> <SUP> 2 </SUP> <TT> control over sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> complete, full, total </B><I>He was in complete command of the situation. </I><B>| direct </B><I>under the direct command of Lieutenant Sykes </I><B>| sole </B><I>She was in sole command of one million pounds. </I><B>| personal | integrated, joint, unified </B><I>NATO's integrated military command </I><B>| overall | high, supreme </B><I>the military high command </I><B>| army, military </B> </P>
+<P> <U> VERB + COMMAND </U><B> have </B><I>He had command of 3,000 soldiers. </I><B>| assume, take (over) | give sb, put sb in | relinquish | lose, be relieved of </B><I>She has lost command of her senses. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Who is in command? She is second in command. </I><B>| in ~ of </B><I>He was put in command of the navy. </I><B>| under sb's ~ </B><I>The division was under the command of General George. </I><B>| ~ over </B><I>his command over resources </I> </P>
+<P> <U> PHRASES </U><B> the chain/line of command </B> </P>
+<P> <SUP> 3 </SUP> <TT> ability to do/use sth </TT> </P>
+<P> <U> ADJ. </U><B> excellent, fluent, good, perfect | poor </B> </P>
+<P> <U> VERB + COMMAND </U><B> have </B> </P>
+<P> <U> PREP. </U><B> at your ~ </B><I>The vast knowledge of the country he has at his command will be invaluable in the job. </I><B>| ~ of </B><I>She has an excellent command of French. </I> </P>
+</DIV>

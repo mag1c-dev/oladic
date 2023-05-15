@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>chord </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> major, minor | C, D, etc. | augmented, diminished </B><I>a diminished 7th chord </I><B>| dominant, tonic, etc. | 7th, 9th, etc. | full | broken | jazz | guitar, piano </B> </P>
+<P> <U> VERB + CHORD </U><B> play, strum </B> </P>
+<P> <U> CHORD + NOUN </U><B> change, progression, sequence</B> </P>
+</DIV>

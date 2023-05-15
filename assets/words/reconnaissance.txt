@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>reconnaissance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> general | preliminary | aerial/air, maritime, military </B><I>Spotter planes made a preliminary aerial reconnaissance of the island. </I> </P>
+<P> <U> VERB + RECONNAISSANCE </U><B> carry out, conduct, do, make </B> </P>
+<P> <U> RECONNAISSANCE + VERB </U><B> reveal sth </B><I>Reconnaissance revealed not a single large ship. </I> </P>
+<P> <U> RECONNAISSANCE + NOUN </U><B> flight, mission, sortie | party, patrol, team, unit | aircraft, plane</B> </P>
+</DIV>

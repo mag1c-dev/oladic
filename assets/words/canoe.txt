@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>canoe </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dugout, open </B> </P>
+<P> <U> VERB + CANOE </U><B> paddle </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>We crossed the lake by canoe. </I> </P>
+</DIV>

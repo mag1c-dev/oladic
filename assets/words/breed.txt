@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>breed </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> type of animal </TT> </P>
+<P> <U> ADJ. </U><B> new | rare | hardy </B> </P>
+<P> <U> VERB + BREED </U><B> keep </B><I>a farm that keeps rare breeds </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a new breed of dairy cattle </I> </P>
+<P> <SUP> 2 </SUP> <TT> particular type of person </TT> </P>
+<P> <U> ADJ. </U><B> new | dying, rare </B><I>Entertainers of this sort are now a dying breed. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a new breed of international criminals </I> </P>
+<P> <U> PHRASES </U><B> a breed apart </B><I>Health workers are a breed apart in their commitment and dedication to duty. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>breed </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> in captivity | successfully | commercially | selectively </B><I>fish that have been selectively bred for their appearance </I> </P>
+<P> <U> PREP. </U><B> for </B><I>dogs that are bred for their fighting ability </I><B>| from </B><I>She's a lovely cat. Will you breed from her? </I> </P>
+</DIV>

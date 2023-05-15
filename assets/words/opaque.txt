@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>opaque </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not clear enough to see through </TT> </P>
+<P> <U> VERBS </U><B> be, look | become </B><I>Add the rice to the pan and cook until it becomes opaque. </I> </P>
+<P> <U> ADV. </U><B> very | completely | almost, nearly | relatively, slightly </B><I>The glasses looked slightly opaque. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The windows were nearly opaque with grime. </I> </P>
+<P> <SUP> 2 </SUP> <TT> difficult to understand </TT> </P>
+<P> <U> VERBS </U><B> be | become | render sth </B><I>The complex administrative arrangements render the decision-making process somewhat opaque. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | completely | relatively, slightly, somewhat</B> </P>
+</DIV>

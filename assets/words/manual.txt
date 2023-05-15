@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>manual </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> instruction, training | owner's, user | car, computer, sewing, software, etc. | maintenance, operating, operation, operational, reference, technical, workshop | comprehensive, detailed </B> </P>
+<P> <U> VERB + MANUAL </U><B> come with </B><I>The computer comes with a comprehensive owner's manual. </I><B>| check, consult, look at, read </B><I>Check your manual for details. </I> </P>
+<P> <U> PREP. </U><B> according to the ~ </B><I>According to the manual, the wires should be the other way round. </I><B>| in a/the ~ </B><I>What does it say in the manual? </I><B>| ~ for </B><I>an instruction manual for a knitting machine </I><B>| ~ on </B><I>a manual on teaching drama </I> </P>
+</DIV>

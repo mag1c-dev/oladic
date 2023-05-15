@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>peculiar </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> odd/strange </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, smell, sound, taste | become | find sb/sth, regard sb/sth as, think sb/sth </B><I>I find her attitude a bit peculiar, to say the least. </I> </P>
+<P> <U> ADV. </U><B> most, very </B><I>He is a most peculiar man! </I><B>| a bit, a little, quite, rather </B><I>The meat tasted rather peculiar. </I> </P>
+<P> <SUP> 2 </SUP> <TT> only belonging to a particular person/place </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> by no means </B><I>These problems are by no means peculiar to this country. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>the smell that is peculiar to hospitals </I> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>split </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear, deep, major, serious </B><I>A serious split in the ruling coalition appeared soon after the election. </I><B>| growing | damaging </B> </P>
+<P> <U> VERB + SPLIT </U><B> cause, lead to </B> </P>
+<P> <U> SPLIT + VERB </U><B> appear, occur, open up </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>a split between the right and left wings of the party </I><B>| ~ in/within, ~ over </B><I>a growing split in the Church over the ordination of women </I><B>| ~ with </B><I>Mike's split with his wife </I> </P>
+</DIV><DIV class="item"><P class="word"><B>split </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> break into two or more parts </TT> </P>
+<P> <U> ADV. </U><B> easily </B><I>Plastic splits quite easily. </I><B>| apart </B> </P>
+<P> <U> PREP. </U><B> into </B><I>He split the log into several pieces. </I> </P>
+<P> <U> PHRASES </U><B> split (sth) across/down the middle </B><I>The lid had split down the middle. </I><B>| split (sth) open </B><I>The ripe seed pod splits open and scatters the seeds. </I><B>| split (sth) in half/two </B><I>Split the coconut in half. </I> </P>
+<P> <SUP> 2 </SUP> <TT> separate into different groups </TT> </P>
+<P> <U> ADV. </U><B> formally | eventually, finally | apart, away, off, up </B><I>The rock group split up last year. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>Several factions split from the party. </I><B>| into </B><I>On January 1,1993 Czechoslovakia formally split into two independent states. </I><B>| on/over </B><I>The party finally split over the issue of gun control. </I> </P>
+<P> <U> PHRASES </U><B> be deeply/irrevocably split </B><I>The party is deeply split on this issue. </I> </P>
+<P> <SUP> 3 </SUP> <TT> divide/share sth </TT> </P>
+<P> <U> ADV. </U><B> equally, evenly </B> </P>
+<P> <U> PREP. </U><B> among, between </B><I>The cost has been split equally between three countries. </I> </P>
+<P> <U> PHRASES </U><B> split sth two/three/four ways </B><I>The profit will be split three ways. </I> </P>
+</DIV>

@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>type </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> kind/sort </TT> </P>
+<P> <U> ADJ. </U><B> distinct, well-defined | broad </B><I>Two broad types of approach can be identified. </I><B>| basic, common, conventional, standard, traditional | alternative | main, major, principal | diverse | extreme | personality, physical | hair, skin | blood, cell, tissue | product | habitat, rock, soil, vegetation </B> </P>
+<P> <U> VERB + TYPE </U><B> identify | revert to </B><I>The boss came back from holiday all relaxed and smiling, but now he's reverting to type. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The recession is similar in type to that of ten years ago. </I><B>| of a ~ </B><I>a country inn of a type that has all but vanished </I><B>| ~ of </B><I>There are various types of daffodil(s). </I> </P>
+<P> <U> PHRASES </U><B> of its type </B><I>This exercise is the hardest of its type. </I><B>| a range/variety of types </B> </P>
+<P> <SUP> 2 </SUP> <TT> person </TT> </P>
+<P> <U> ADJ. </U><B> artistic, careful, City </B>(= a person who works in finance in the City of London), <B>creative, entrepreneurial, literary, old-fashioned </B><I>The bar was crowded with City types in suits. He was the old-fashioned type, well-mannered and always in a suit and tie. </I> </P>
+<P> <U> PHRASES </U><B> true to type </B><I>True to type, Adam turned up an hour late. </I><B>| (not) your type </B><I>She's not really my type?she's a bit too serious. </I> </P>
+<P> <SUP> 3 </SUP> <TT> printed letters </TT> </P>
+<P> <U> ADJ. </U><B> bold, heavy | italic | roman </B> </P>
+<P> <U> VERB + TYPE </U><B> print sth in, set sth in </B><I>Key paragraphs of the report are set in italic type. </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>The important words are in bold type. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>type </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> correctly | neatly | badly | quickly | furiously </B><I>He was sitting at his desk typing furiously. </I><B>| out, up </B><I>I've written the report and will type it up next week. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>She typed the details into the computer. </I><B>| on </B><I>This letter was typed on an electronic typewriter. </I> </P>
+<P> <U> PHRASES </U><B> closely typed </B><I>300 proposals and amendments covering 78 closely typed pages </I> </P>
+</DIV>

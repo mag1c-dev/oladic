@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>brace </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for supporting a part of the body </TT> </P>
+<P> <U> ADJ. </U><B> leg, neck, shoulder </B> </P>
+<P> <U> VERB + BRACE </U><B> have, wear </B><I>I used to wear a brace. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a brace on his teeth </I></P>
+<P> <SUP> 2 </SUP> <TT> braces: for holding trousers up  </TT> </P>
+<P> <U> BRACE + VERB </U><B> hold sth up, support sth </B><I>The braces held up his trousers. </I>  </B> </P>
+</DIV>

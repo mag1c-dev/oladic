@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>row1 </B>/req/ </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bottom, middle, top | back, front | horizontal, vertical | double, single | neat </B><I>She arranged the chairs in two neat rows. </I><B>| serried </B><I>serried rows of vines </I><B>| endless </B><I>endless rows of identical houses </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The children stood in a row. It rained for five days in a row </I>(= without a break)</B><I>. We have seats in the front row. </I><B>| ~ of </B><I>a long row of shops </I> </P>
+<P> <U> PHRASES </U><B> the end/middle of the row, rows and rows, row upon row </B><I>He looked down at row upon row of eager faces. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>row2 </B>/raq/ </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> argument </TT> </P>
+<P> <U> ADJ. </U><B> almighty, awful, big, bitter, blazing, fearful, ferocious, fierce, flaming, furious, great, huge, major, serious, terrible, tremendous, unholy, violent </B><I>We had a blazing row over who should do the cooking. </I><B>| domestic, family | stand-up </B><I>A couple was having a stand-up row in the street. </I><B>| public | drunken | long-running | diplomatic, political </B> </P>
+<P> <U> VERB + ROW </U><B> have | kick up </B><I>I'm going to kick up a row if I don't get my money back. </I><B>| cause </B> </P>
+<P> <U> ROW + VERB </U><B> blow up, break out, develop, erupt </B><I>A row blew up over pay rises for ministers. </I><B>| go on, rage (on) </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He came to prominence in the row over defence policy. </I><B>| ~ about/over </B><I>Carol and I had a terrible row about how much money she spends. </I><B>| ~ between </B><I>a row between the left and right wings of the party </I><B>| ~ with </B><I>a row with my mother </I> </P>
+<P> <SUP> 2 </SUP> <TT> loud noise </TT> </P>
+<P> <U> ADJ. </U><B> unholy </B> </P>
+<P> <U> VERB + ROW </U><B> make </B><I>Someone's making an unholy row outside. </I> </P>
+<P> <U> ROW + VERB </U><B> go on, rage (on) </B><I>The row went on and on. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>row2 </B>/raq/ </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> argument </TT> </P>
+<P> <U> ADJ. </U><B> almighty, awful, big, bitter, blazing, fearful, ferocious, fierce, flaming, furious, great, huge, major, serious, terrible, tremendous, unholy, violent </B><I>We had a blazing row over who should do the cooking. </I><B>| domestic, family | stand-up </B><I>A couple was having a stand-up row in the street. </I><B>| public | drunken | long-running | diplomatic, political </B> </P>
+<P> <U> VERB + ROW </U><B> have | kick up </B><I>I'm going to kick up a row if I don't get my money back. </I><B>| cause </B> </P>
+<P> <U> ROW + VERB </U><B> blow up, break out, develop, erupt </B><I>A row blew up over pay rises for ministers. </I><B>| go on, rage (on) </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He came to prominence in the row over defence policy. </I><B>| ~ about/over </B><I>Carol and I had a terrible row about how much money she spends. </I><B>| ~ between </B><I>a row between the left and right wings of the party </I><B>| ~ with </B><I>a row with my mother </I> </P>
+<P> <SUP> 2 </SUP> <TT> loud noise </TT> </P>
+<P> <U> ADJ. </U><B> unholy </B> </P>
+<P> <U> VERB + ROW </U><B> make </B><I>Someone's making an unholy row outside. </I> </P>
+<P> <U> ROW + VERB </U><B> go on, rage (on) </B><I>The row went on and on. </I> </P>
+</DIV>

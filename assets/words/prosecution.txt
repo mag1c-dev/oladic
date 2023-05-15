@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>prosecution </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> trying to prove sb's guilt in court </TT> </P>
+<P> <U> ADJ. </U><B> criminal, private | successful | impending, possible </B><I>He faces possible prosecution. </I> </P>
+<P> <U> VERB + PROSECUTION </U><B> bring, initiate | be liable to, face, risk | escape | lead to, result in </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The police brought a prosecution against the driver involved. </I><B>| ~ for </B><I>Prosecutions for water pollution more than doubled. </I> </P>
+<P> <U> PHRASES </U><B> immunity from prosecution </B> </P>
+<P> <SUP> 2 </SUP> <TT> lawyers trying to prove sb's guilt </TT> </P>
+<P> <U> PROSECUTION + VERB </U><B> prove sth | allege sth, claim sth </B><I>The prosecution alleged that he murdered his wife. </I> </P>
+<P> <U> PROSECUTION + NOUN </U><B> case, evidence | counsel, lawyer, witness | costs </B> </P>
+<P> <U> PREP. </U><B> for the ~ </B><I>a witness for the prosecution </I> </P>
+</DIV>

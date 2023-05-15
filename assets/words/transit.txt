@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>transit </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> air, rail, road, sea | mass </B><I>An improved mass transit system would cut traffic on the roads. </I><B>| rapid </B> </P>
+<P> <U> TRANSIT + NOUN </U><B> point </B><I>The port has become a transit point in the drug trade. </I><B>| camp </B><I>a transit camp for refugees </I><B>| lounge </B><I>The passengers had been transferred into the transit lounge. </I><B>| shed </B><I>The goods were still in a transit shed on the quay. </I><B>| system </B><I>The city has acquired a light rail transit system. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Many of the goods were damaged in transit. </I><B>| ~ between </B><I>goods in transit between factory and store </I><B>| ~ from, ~ to </B><I>in transit from factory to store </I> </P>
+</DIV>

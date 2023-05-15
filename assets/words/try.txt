@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>try </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> attempt </TT> </P>
+<P> <U> ADJ. </U><B> good, nice </B><I>Never mind?it was a good try. Better luck next time. </I><B>| another </B> </P>
+<P> <U> VERB + TRY </U><B> have </B><I>Can I have a try? </I><B>| give sth </B><I>It looks difficult, but let's give it a try. </I><B>| be worth </B><I>It may not work, but it's certainly worth a try. </I> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>She's having another try at the marathon. </I> </P>
+<P> <SUP> 2 </SUP> <TT> scoring move in rugby </TT> </P>
+<P> <U> ADJ. </U><B> dazzling, excellent, good, great, splendid, superb, well-taken | opening | last-minute, late | decisive, winning | penalty | pushover </B> </P>
+<P> <U> VERB + TRY </U><B> get, go over for, score | convert </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>He scored three tries against New Zealand. </I><B>| ~ by/from </B><I>an excellent try by winger Neil Lang </I></B> </P>
+</DIV><DIV class="item"><P class="word"><B>try </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> desperately, frantically, hard </B><I>She was trying desperately to stay afloat. Sam was trying hard not to laugh. </I><B>| gamely, manfully, valiantly </B><I>trying valiantly to smile through her tears </I><B>| clumsily </B><I>clumsily trying to make amends </I><B>| feebly | in vain, unsuccessfully, vainly </B> </P>
+<P> <U> VERB + TRY </U><B> decide to </B><I>I decided to try again. </I><B>| be going to </B><I>I hope you're not going to try and deny it. </I><B>| be tempted to | be tempting to | let sb </B><I>Can't you do it? Let me try. </I> </P>
+<P> <U> PHRASES </U><B> be just/only trying to do sth </B><I>I was just trying to help! </I><B>| give up trying </B><I>I've given up trying to persuade her. </I><B>| try your best/hardest/utmost </B><I>I tried my best not to laugh. </I> </P>
+</DIV>

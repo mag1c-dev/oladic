@@ -1,0 +1,35 @@
+
+<DIV class="item"><P class="word"><B>match </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in sports </TT> </P>
+<P> <U> ADJ. </U><B> big, crucial, important | exciting, thrilling | championship, competitive, cup, league | friendly | away, home </B><I>He's such a keen fan, he even goes to all the away matches. </I><B>| cricket, football, rugby, wrestling, etc. </B> </P>
+<P> <U> VERB + MATCH </U><B> play </B><I>The match will be played in the new stadium. </I><B>| have </B><I>Figo had an outstanding match. </I><B>| go to, see, watch | be defeated in, lose | clinch, win </B><I>A late goal clinched the match for Porto. </I><B>| draw </B><I>We drew our first game of the season 1?1. </I> </P>
+<P> <U> MATCH + VERB </U><B> take place </B> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>an incident which took place during Saturday's match </I><B>| in a/the ~ </B><I>She was injured in last week's match. </I><B>| ~ against </B><I>the match against Wales </I><B>| ~ between </B><I>the match between Japan and Brazil </I><B>| ~ with </B><I>They lost their match with Estonia. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for lighting a fire </TT> </P>
+<P> <U> ADJ. </U><B> lighted </B> </P>
+<P> <U> QUANT. </U><B> box </B> </P>
+<P> <U> VERB + MATCH </U><B> light, strike </B><I>He lit a match so they could see in the cave. </I><B>| blow out </B> </P>
+<P> <U> PHRASES </U><B> put a match to sth </B><I>Someone had put a match to the pile of papers. </I> </P>
+<P> <SUP> 3 </SUP> <TT> good combination </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good, perfect </B><I>The blouse and skirt are a perfect match. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>an excellent match between our goals and what your company offers </I><B>| ~ for </B><I>That jumper should be a good match for your trousers. </I> </P>
+<P> <SUP> 4 </SUP> <TT> sth the same </TT> </P>
+<P> <U> ADJ. </U><B> exact </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>To forge the certificate, she needed an exact match for the paper and the fonts. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>match </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> combine well </TT> </P>
+<P> <U> ADV. </U><B> well </B><I>As a couple they are not very well matched </I>(= they are not very suitable for each other)</B><I>. </I><B>| not quite </B><I>The room was full of old furniture that didn't quite match. </I> </P>
+<P> <U> PHRASES </U><B> to match </B><I>I bought a duvet cover and some curtains to match. </I> </P>
+<P> <SUP> 2 </SUP> <TT> find sth similar/connected </TT> </P>
+<P> <U> ADV. </U><B> correctly | carefully </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The control group in the experiment was matched for age and sex. </I><B>| to </B><I>The aim of the competition is to match the quote to the person who said it. </I> </P>
+<P> <SUP> 3 </SUP> <TT> be/make sth equal/better </TT> </P>
+<P> <U> ADV. </U><B> almost </B><I>She found that his determination almost matched her own. </I><B>| not quite </B><I>Nothing quite matches the fine, subtle flavour of this cheese. </I> </P>
+<P> <U> VERB + MATCH </U><B> come close to | be able/unable to </B><I>The company was unable to match his current salary. </I><B>| try to | fail to </B><I>Children can be made to suffer when they fail to match their parents' expectations. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>No other rock band comes even close to matching them for dynamism or style. </I> </P>
+<P> <U> PHRASES </U><B> be equally/evenly/well matched </B><I>The teams were very evenly matched. </I><B>| be unevenly matched </B> </P>
+<P> <SUP> 5 </SUP> <TT> provide sth suitable </TT> </P>
+<P> <U> ADV. </U><B> carefully | up </B><I>We have to match up the right pet with the right owner. </I> </P>
+<P> <U> VERB + MATCH </U><B> seek to, try to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The available organs are carefully matched to people in need of transplants. </I><B>| with </B><I>The agency tries to match single people with suitable partners. </I> </P>
+</DIV>

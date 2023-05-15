@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>hatch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> closed, open </B><I>Leave the hatch open. </I><B>| escape | inspection, service </B><I>The engineer was peering into the service hatch. </I><B>| serving </B><I>She opened the serving hatch and put the soup on the counter. </I><B>| kitchen, loft </B> </P>
+<P> <U> VERB + HATCH </U><B> lift, open, raise </B><I>She lifted the hatch and slid it away from the opening. </I><B>| batten down, close, shut </B><I>They battened down the hatches and prepared for the storm. He ordered the hatches to be closed. </I> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>They got out through the escape hatch. </I><B>| ~ between </B><I>a hatch between the kitchen and the dining room </I><B>| ~ to </B><I>a hatch to the dining room </I> </P>
+</DIV>

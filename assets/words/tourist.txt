@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tourist </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> foreign, Western | American, Japanese, etc. | modern, nineteenth-century </B> </P>
+<P> <U> QUANT. </U><B> coachload, party </B> </P>
+<P> <U> VERB + TOURIST </U><B> attract, draw </B><I>The Story of the Loch Ness Monster has attracted many tourists to the area. </I><B>| drive/frighten away </B><I>The high level of crime is frightening away tourists. </I> </P>
+<P> <U> TOURIST + VERB </U><B> flock to sth, frequent sth, visit sth </B><I>the part of town most frequented by tourists </I> </P>
+<P> <U> TOURIST + NOUN </U><B> area, centre, destination, haunt, resort, spot, town, trap </B><I>Recently Edinburgh has become a popular tourist centre. </I><B>| attraction, facility, sight </B><I>Pompeii is one of Italy's prime tourist attractions. The theme park is the region's most popular tourist facility. </I><B>| route, trail </B><I>The town is off the usual tourist trail. </I><B>| hotel, shop | business, industry, trade | board, office | information </B><I>the local tourist information office </I><B>| guide </B><I>I bought a tourist guide to Paris. She works as a tourist guide. </I><B>| map | traffic, visitors </B><I>the reduction in tourist traffic due to the violence </I><B>| season | potential </B><I>The city has unrealized tourist potential. </I><B>| visa | bus, coach </B> </P>
+<P> <U> PHRASES </U><B> influx of tourists </B><I>The festival is accompanied by a huge influx of tourists. </I> </P>
+</DIV>

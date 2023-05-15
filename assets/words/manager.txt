@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>manager </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> controls an organization/part of an organization </TT> </P>
+<P> <U> ADJ. </U><B> assistant, junior, middle, senior | general | accountable, responsible </B><I>Each programme is discussed with the responsible manager. A product manager is responsible for product profitability. </I><B>| bank, business, commercial, corporate | area, branch, departmental, divisional, office, regional | functional, operations, personnel, product | advertising, catering, development, fund, marketing, production, project, sales, technical | successful | sympathetic </B><I>It helps to have a sympathetic manager. </I> </P>
+<P> <U> VERB + MANAGER </U><B> promote sb to </B><I>He has been promoted to business development manager. </I><B>| assist </B><I>Your job will be to assist the production manager. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the marketing manager for a large company </I> </P>
+<P> <SUP> 2 </SUP> <TT> looks after a sports team </TT> </P>
+<P> <U> ADJ. </U><B> England, Scotland, etc. | team | caretaker </B><I>He will be the club's caretaker manager until a new manager is appointed. </I><B>| beleaguered </B><I>another disappointing day for the beleaguered England manager </I></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

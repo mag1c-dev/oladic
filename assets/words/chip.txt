@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>chip </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> (usually <B>chips</B>) long thin piece of fried potato </TT> </P>
+<P> <U> ADJ. </U><B> greasy | frozen, oven-ready </B> </P>
+<P> <U> QUANT. </U><B> bag, plate </B> </P>
+<P> <U> VERB + CHIP </U><B> eat, have </B><I>All he'll eat is chips. </I><B>| live on </B><I>I never cook anything grand?we live on chips and baked beans. </I><B>| cook, fry </B> </P>
+<P> <U> CHIP + NOUN </U><B> pan | shop </B> </P>
+<P> <U> PHRASES </U><B> and/with chips </B><I>fish and chips </I>&gt; Special page at FOOD </B> </P>
+<P> <SUP> 2 </SUP> <TT> microchip </TT> </P>
+<P> <U> ADJ. </U><B> computer, silicon | graphics, memory, microprocessor </B> </P>
+<P> <U> VERB + CHIP </U><B> make, manufacture, produce | design, develop | use </B><I>This computer uses the DX chip. </I> </P>
+<P> <U> CHIP + VERB </U><B> contain sth </B><I>a chip containing the coding devices </I> </P>
+<P> <U> CHIP + NOUN </U><B> design, technology | set </B><I>a Pentium-compatible chip set </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Advances in chip technology have made it possible to pack even more circuits on a chip. </I>&gt; Special page at COMPUTER </B> </P>
+</DIV><DIV class="item"><P class="word"><B>chip </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly </B><I>She fell and chipped her tooth quite badly. </I><B>| away </B><I>He was chipping away at the stone. (figurative) They chipped away at the power of the government </I>(= gradually made it weaker)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> off </B><I>We chipped the paint off the wood. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>snag </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, major | minor, small </B><I>A minor snag is that it's expensive. </I><B>| possible, potential | technical </B> </P>
+<P> <U> VERB + SNAG </U><B> hit </B><I>We've hit a technical snag: the printer isn't compatible with my PC. </I><B>| iron out </B><I>There are a few snags to iron out before the prototype is ready. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>one of the snags in the scheme </I><B>| ~ to </B><I>There is a snag to the job: you have to work at weekends. </I><B>| ~ with </B><I>I suddenly saw the major snag with the whole idea. </I> </P>
+</DIV>

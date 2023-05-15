@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>storage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> safe </B><I>the safe storage of nuclear weapons </I><B>| cold | disk </B><I>the available disk storage capacity </I><B>| food, water, etc. | data, information, etc. </B> </P>
+<P> <U> VERB + STORAGE </U><B> put sth in/into </B><I>The strawberries are put into cold storage for several months. </I><B>| take sth out of </B> </P>
+<P> <U> STORAGE + NOUN </U><B> facilities | device, medium, system </B><I>digital storage devices </I><B>| area, capacity, space | building, cabinet, compartment, cupboard, depot, room, shed, unit </B><I>a handy storage compartment below the oven </I><B>| bin, container, jar, tank, vessel | cost | life </B><I>The cheese has a storage life of two months. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>All their furniture is in storage until they come back from Africa. </I> </P>
+</DIV>

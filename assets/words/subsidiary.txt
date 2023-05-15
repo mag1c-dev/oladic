@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>subsidiary </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> foreign, overseas | Spanish, Madrid-based, etc. | owned </B><I>a 58%-owned subsidiary of Millennium Graphics </I><B>| banking, manufacturing, software, etc. </B> </P>
+<P> <U> VERB + SUBSIDIARY </U><B> operate as </B><I>The company operates as a wholly-owned subsidiary of a large French company. </I><B>| have, own | create, establish, form, set up | acquire | close </B> </P>
+<P> <U> SUBSIDIARY + NOUN </U><B> company </B></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+</DIV>

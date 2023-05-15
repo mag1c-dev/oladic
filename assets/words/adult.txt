@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>adult </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> young </B><I>This book will definitely appeal to teenagers and young adults. </I><B>| single </B><I>The number of single adult households has doubled in the past 30 years. </I><B>| consenting </B><I>What consenting adults do in private is their own business. </I><B>| responsible </B><I>I simply can't believe that responsible adults allowed a child to wander the streets. </I> </P>
+<P> <U> ADULT + NOUN </U><B> life </B><I>She spent her entire adult life caring for others. </I><B>| education, literacy | population</B> </P>
+</DIV>

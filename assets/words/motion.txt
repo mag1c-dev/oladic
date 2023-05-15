@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>motion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> movement </TT> </P>
+<P> <U> ADJ. </U><B> steady | circular, rolling, swaying | perpetual </B><I>the search for the secret of perpetual motion </I> </P>
+<P> <U> VERB + MOTION </U><B> feel </B><I>She could feel the rolling motion of the ship under her feet. </I><B>| make </B><I>He made little flapping motions with his arms. </I> </P>
+<P> <U> PREP. </U><B> into ~ </B><I>The insects are stirred into motion by the heat of the sun. </I><B>| in ~ </B><I>Do not open the door when the train is in motion. </I> </P>
+<P> <SUP> 2 </SUP> <TT> suggestion </TT> </P>
+<P> <U> VERB + MOTION </U><B> propose, put, put forward, table </B><I>The motion was put to the conference and fully debated. The Opposition tabled a motion calling for the prime minister's resignation. </I><B>| debate, discuss </B><I>The motion will be debated later today. </I><B>| vote on | be in favour of, speak in favour of, support, vote for | accept, adopt, approve, carry, pass </B><I>The motion was passed by 165 votes to 78. </I><B>| be against, speak against, oppose, vote against | defeat, reject </B><I>The motion was defeated by 51 votes to 43. </I> </P>
+<P> <U> PHRASES </U><B> a motion of no confidence </B><I>He proposed a motion of no confidence in the government. </I> </P>
+</DIV>

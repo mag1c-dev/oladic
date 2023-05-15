@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>steam </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hot, scalding | high-pressure </B> </P>
+<P> <U> QUANT. </U><B> cloud, jet </B><I>The saucepan on the cooker puffed little jets of steam. </I> </P>
+<P> <U> VERB + STEAM </U><B> emit, generate, produce </B> </P>
+<P> <U> STEAM + VERB </U><B> come, escape | rise </B><I>Steam rose from her mug of cocoa. </I><B>| condense | drive sth </B><I>The engine is driven by steam. </I><B>| hiss </B> </P>
+<P> <U> STEAM + NOUN </U><B> power | engine, locomotive, ship, train, turbine | age </B> </P>
+<P> <U> PHRASES </U><B> the age of steam </B><I>Savour the sights and smells of the age of steam in the National Railway Museum. </I> </P>
+</DIV>

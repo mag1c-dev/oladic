@@ -1,0 +1,51 @@
+
+<DIV class="item"><P class="word"><B>point </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> thing said as part of a discussion </TT> </P>
+<P> <U> ADJ. </U><B> good, interesting, valid | important | minor | subtle | moot | central, crucial, key, major, salient | controversial | talking </B><I>The possibility of an interest rate cut is a major talking point in the City. </I> </P>
+<P> <U> VERB + POINT </U><B> have </B><I>She's got a point. </I><B>| see, take </B><I>I see your point. Point taken. </I><B>| concede | cover, make, raise </B><I>She made some interesting points. </I><B>| argue, discuss </B><I>They argued the point for hours. </I><B>| illustrate | get across, make, prove </B><I>He had trouble getting his point across. That proves my point. </I><B>| drive/hammer home, emphasize, labour, press, stress </B><I>I understand what you're saying?there's no need to labour the point. </I> </P>
+<P> <U> PHRASES </U><B> a case in point </B>(= an example relevant to the matter being discussed), <B>the point at issue, a point of agreement/disagreement, a point of law </B>&gt; Special page at MEETING </P>
+<P> <SUP> 2 </SUP> <TT> the point: essential aspect of sth  </TT> </P>
+<P> <U> ADJ. </U><B> basic </B><I>The basic point is that &hellip; </I> </P>
+<P> <U> VERB + POINT </U><B> come/get to </B><I>Hurry up and get to the point! </I><B>| get </B><I>It took me a few minutes to get the point. </I><B>| miss | wander from/off </B> </P>
+<P> <U> PREP. </U><B> beside the ~ </B>(= not relevant) <I>That's beside the point. </I><B>| to the ~ </B><I>His remarks were brief and to the point. </I> </P>
+<P> <U> PHRASES </U><B> more to the point </B>(= what is more important) <I>More to the point, did they get away? </I> </P>
+<P> <SUP> 3 </SUP> <TT> meaning/reason/purpose of sth </TT> </P>
+<P> <U> ADJ. </U><B> whole </B><I>That's the whole point. </I> </P>
+<P> <U> VERB + POINT </U><B> have </B><I>It doesn't have any point to it. </I><B>| see </B><I>I don't see the point in arguing. </I> </P>
+<P> <U> PREP. </U><B> ~ in/of </B><I>There's absolutely no point in complaining now. What's the point of worrying? </I> </P>
+<P> <SUP> 4 </SUP> <TT> item/detail/feature </TT> </P>
+<P> <U> ADJ. </U><B> finer, good, strong </B><I>We discussed the finer points of growing roses. </I><B>| bad, weak | salient </B> </P>
+<P> <U> PHRASES </U><B> a point of difference, a point of interest </B> </P>
+<P> <SUP> 5 </SUP> <TT> particular time/moment </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>He had reached the high point of his career. </I><B>| low | breaking, bursting, saturation </B><I>to fill a bag to bursting point </I><B>| boiling, freezing, melting </B> </P>
+<P> <U> VERB + POINT </U><B> get to, reach </B><I>I've got to the point </I>(= in a book, etc.) </B><I>where his father is dying. </I> </P>
+<P> <U> POINT + VERB </U><B> come </B><I>There comes a point in most people's lives when they want to settle down. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>At one point he looked like winning. </I><B>| on the ~ of </B><I>on the point of departure </I><B>| to the ~ of </B><I>We worked all night to the point of collapse. </I><B>| up to a ~ </B><I>I agree with you up to a point. </I> </P>
+<P> <U> PHRASES </U><B> a point in time </B><I>At this point we can't give you a final answer. </I><B>| the point of no return </B>(= after which it is impossible to go back/undo what you have done)  </P>
+<P> <SUP> 6 </SUP> <TT> particular place/position </TT> </P>
+<P> <U> ADJ. </U><B> central, focal </B><I>the focal point of his life </I><B>| fixed | assembly, meeting, rallying | starting | vantage | reference | turning </B><I>This proved to be the turning point of the game. </I><B>| cut-off | pressure | vanishing </B> </P>
+<P> <U> VERB + POINT </U><B> arrive at, reach </B> </P>
+<P> <U> PHRASES </U><B> a point of contact, a point of reference </B> </P>
+<P> <SUP> 7 </SUP> <TT> punctuation </TT> </P>
+<P> <U> ADJ. </U><B> decimal </B> </P>
+<P> <SUP> 8 </SUP> <TT> in a game/sports competition </TT> </P>
+<P> <U> ADJ. </U><B> match, set </B><I>It's set point to Henman. </I> </P>
+<P> <U> VERB + POINT </U><B> get, score, win | lose </B> </P>
+<P> <U> PHRASES </U><B> beat sb/win on points </B> </P>
+<P> <SUP> 9 </SUP> <TT> measurement </TT> </P>
+<P> <U> ADJ. </U><B> percentage </B><I>Interest rates fell by one percentage point. </I> VERB + POINT (All the verbs in the following collocate groups may be followed by <B>by</B>, <B>from </B>or <B>to </B>plus <B>point</B>. Sometimes the word <B>by </B>is left out.), <B>be/go/shoot up, improve, increase, jump, rise, soar </B><I>The Nikkei index rose 710 points to 14894. His popularity rose by 18 points in public opinion polls. </I><B>| be/come/go down, deline, decrease, depreciate, drop, fall, plummet, plunge </B><I>The CAC-40 index is down 67 points at 4413. </I> </P>
+<P> <U> PHRASES </U><B> about/around/only/over/up to 10, 20, etc. points </B><I>The index was down only 4.6 points at the close. </I> <B>| an improvement/an increase/a jump/a rise of 10, 20, etc. points </B><I>to achieve an improvement of over 4.6 points in operating ratio </I><B>| a drop/fall/reduction of 10, 20, etc. points 10 </B>thin sharp end of sth </B> </P>
+<P> <U> ADJ. </U><B> fine, sharp</B> </P>
+</DIV><DIV class="item"><P class="word"><B>point of view </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> alternative, different </B><I>He listened patiently to what we all had to say before putting across an alternative point of view. </I><B>| aesthetic, business, commercial, economic, environmental, financial, legal, management, medical, personal, practical, psychological, safety, security, technical, theoretical, etc. </B> </P>
+<P> <U> VERB + POINT OF VIEW </U><B> have | take </B><I>He always seems to take the opposite point of view to me. </I><B>| express, get across/over, present, put (across/forward/over) </B><I>A union representative was present to put the farmers' point of view. </I><B>| see (sth from), understand </B><I>I can see your point of view, but I think we have to consider the long-term implications. Try to see the situation from my point of view. </I><B>| agree with, share | come round to </B><I>If we can talk to her for an hour I'm sure she'll come round to our point of view. </I><B>| reflect </B><I>I do not think the article reflects the point of view of the majority of the population. </I> </P>
+<P> <U> PREP. </U><B> from a/sb's ~ </B><I>From a purely personal point of view, I'd like to see cars banned from the city centre. </I><B>| from the ~ of </B><I>The book tells the story of a murder investigation from the point of view of the chief suspect. From the point of view of safety, a lower speed limit would certainly be a good thing. </I><B>| ~ on </B><I>I don't have a point of view on this issue. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>point </B><I>verb </I> </P>
+<P> <U> PREP. </U><B> at, in the direction of </B><I>He pointed in the direction of the town centre. </I><B>| to </B><I>The toddler pointed to the toy he wanted. </I><B>| towards, with </B><I>She pointed with her finger at the map. </I> </P>
+<P> <U> PHRASES </U><B> point straight at sb/sth </B><I>The gun was pointing straight at me. </I><B>| point the way </B><I>&lsquo;You must cross that field,&rsquo; she said, pointing the way. </I><B>PHRASAL VERBS point sth out </B> </P>
+<P> <U> ADV. </U><B> correctly, rightly </B><I>As you so rightly pointed out, our funds are not unlimited. </I><B>| tartly </B><I>His wife pointed out tartly that none of them were exactly starving. </I> </P>
+<P> <U> VERB + POINT </U><B> must, should </B><I>I should point out that not one of these paintings is original. </I><B>| try to | fail to | be at pains to, be keen to, be quick to </B><I>She was at pains to point out that she was no newcomer to the area. </I><B>| be right to </B><I>You were right to point out that this is only one of the difficulties we face. </I><B>| be important to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>She tried in vain to point out to him the unfairness of the situation. </I><B>point to sth </B> </P>
+<P> <U> ADV. </U><B> clearly </B><I>Fragments of woven cloth at the site, clearly point to the production of textiles. </I> </P>
+<P> <U> VERB + POINT </U><B> seem to </B><I>The evidence all seems to point to one conclusion. </I> </P>
+</DIV>

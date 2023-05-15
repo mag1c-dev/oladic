@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tug </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, sharp </B><I>All it needed was a good tug. </I><B>| gentle, little, slight | quick, sudden </B> </P>
+<P> <U> VERB + TUG </U><B> give (sth) | feel </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>She started the engine with one tug of the starter rope. </I><B>| ~ at </B><I>She felt a sharp tug at her sleeve. </I><B>| ~ on </B><I>She gave a little tug on the rope. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tug </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently | hard </B><I>He tugged harder, but it was caught fast. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>She tugged at his arm to get his attention. </I><B>| by </B><I>He tugged me by the sleeve. </I> </P>
+</DIV>

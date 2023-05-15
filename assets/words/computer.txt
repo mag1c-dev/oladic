@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>computer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> powerful | desktop, home, laptop, mainframe, notebook, personal, portable </B><I>the market for home computers </I><B>| analogue, digital, parallel </B> </P>
+<P> <U> VERB + COMPUTER </U><B> run, use | switch on | switch off | log onto | log off | boot up, start up | shut down | reboot, restart | program | link, network </B><I>Computers can be networked using modems and telephone lines. </I><B>| interface </B><I>The software allows you to interface your computer and an OCR reader. </I><B>| hold sth on, store sth on </B><I>The data is all held on computer. </I> </P>
+<P> <U> COMPUTER + VERB </U><B> run | hold sth, store sth </B><I>The computer stores data in a buffer until the printer can accept it. </I><B>| crash | be down/up </B><I>The computers are all down </I>(= not functioning) </B><I>at the moment. </I> </P>
+<P> <U> COMPUTER + NOUN </U><B> network, program, system | equipment, hardware, software | language | science, technology | keyboard, screen, terminal, etc. | game, graphics, model </B><I>A computer model is used to predict forces affecting the aircraft in flight. </I><B>| expert, hacker, programmer, user | company, industry, manufacturer | time </B><I>Such a large sorting operation can take up a lot of computer time. </I> </P>
+<P> <U> PREP. </U><B> on (a/the) ~ </B><I>It's all stored on the computer. </I> </P>
+</DIV>

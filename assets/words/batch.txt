@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>batch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> number of people/things </TT> </P>
+<P> <U> ADJ. </U><B> large, small | whole </B><I>A whole batch of original drawings will be on sale. </I><B>| fresh, new </B><I>He baked a fresh batch of rolls. Each summer a new batch of students tries to find work. </I><B>| latest </B><I>the latest batch of opinion polls </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>How many books are there in each batch? We deliver the goods in batches. </I><B>| ~ of </B><I>a batch of letters </I> </P>
+<P> <SUP> 2 </SUP> <TT> in computing </TT> </P>
+<P> <U> BATCH + NOUN </U><B> job </B><I>to process a batch job </I><B>| file, program | processing | mode </B><I>to run in batch mode </I><B>| queue</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>university </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> new | ancient | red-brick | local, provincial | research, teaching </B> </P>
+<P> <U> VERB + UNIVERSITY </U><B> attend, go to, study at | apply for | enter | finish (at), graduate from, leave </B> </P>
+<P> <U> UNIVERSITY + NOUN </U><B> lecturer, professor, staff, teacher | graduate, student, undergraduate | course, degree, education | term, year | vacation | entrance, entry, place </B><I>a university entrance exam There is stiff competition for university places. </I><B>| chair </B><I>His aim was to finish his doctorate and obtain a university chair. </I><B>| department, faculty | buildings, campus, library | administration, authorities | level </B><I>All the staff are educated to university level. </I><B>| days, life, years | town </B> </P>
+<P> <U> PREP. </U><B> at (the) ~ </B><I>She's at university, studying engineering. She teaches English at the University of Wales. </I> </P>
+</DIV>

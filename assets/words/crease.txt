@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>crease </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> untidy line/fold </TT> </P>
+<P> <U> ADJ. </U><B> deep </B> </P>
+<P> <U> VERB + CREASE </U><B> have </B><I>She had lots of deep creases at the corners of her eyes. </I><B>| iron out, remove, smooth (out) </B><I>She smoothed the creases from the tablecloth. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>There were a lot of creases in her skirt. </I> </P>
+<P> <SUP> 2 </SUP> <TT> neat line that is put onto fabric/paper </TT> </P>
+<P> <U> ADJ. </U><B> knife-edge, sharp </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a sharp crease in his trousers </I> </P>
+</DIV><DIV class="item"><P class="word"><B>crease </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly, easily </B><I>This material creases very easily. </I><B>| a bit, slightly </B><I>His shirt had creased a bit in the suitcase. </I> </P>
+<P> <U> PHRASES </U><B> be/get creased </B><I>Her clothes were badly creased. </I> </P>
+</DIV>

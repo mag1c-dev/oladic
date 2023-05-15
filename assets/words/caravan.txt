@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>caravan </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> horse-drawn, motor | gypsy | holiday, touring </B> </P>
+<P> <U> VERB + CARAVAN </U><B> pull, tow | live in, stay in </B> </P>
+<P> <U> CARAVAN + VERB </U><B> park </B><I>The local farmer lets holiday caravans park on his land. </I> </P>
+<P> <U> CARAVAN + NOUN </U><B> holiday | park, site | rally</B> </P>
+</DIV>

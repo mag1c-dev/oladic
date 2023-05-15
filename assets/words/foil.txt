@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>foil </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> metal in a thin sheet </TT> </P>
+<P> <U> ADJ. </U><B> aluminium, gold, silver, tin | kitchen </B> </P>
+<P> <U> QUANT. </U><B> piece, sheet | roll </B> </P>
+<P> <U> VERB + FOIL </U><B> cover sth with, wrap sth in </B><I>I wrapped the sandwiches in kitchen foil. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that shows off the qualities of sth else </TT> </P>
+<P> <U> ADJ. </U><B> good, ideal, perfect </B> </P>
+<P> <U> VERB + FOIL </U><B> be, provide </B> </P>
+<P> <U> PREP. </U><B> as a ~ </B><I>She has used mosses as a foil for the brightly coloured flowers in the bed. </I><B>| ~ for/to </B><I>The couple provided the perfect foil for one another. </I> </P>
+</DIV>

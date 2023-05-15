@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>appliance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> modern | faulty | electrical, gas | cooking, heating | domestic, household, kitchen | surgical </B> </P>
+<P> <U> VERB + APPLIANCE </U><B> switch on, turn on | switch off, turn off </B><I>Always switch off appliances that are not in use. </I><B>| run, use </B><I>Many household appliances are expensive to run. </I><B>| maintain, service</B> </P>
+</DIV>

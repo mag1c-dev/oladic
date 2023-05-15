@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>rating </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> measurement of how good sb/sth is </TT> </P>
+<P> <U> ADJ. </U><B> high, top | low, poor | overall </B><I>The overall performance rating puts the new model well ahead of its main rivals. </I><B>| approval, opinion poll, popularity </B><I>He has the highest opinion poll rating of any president this century. </I><B>| performance | credit </B><I>Most countries try to preserve their international credit rating in order to secure necessary loans. </I><B>| personal </B> </P>
+<P> <U> VERB + RATING </U><B> have | assign (sb/sth), give (sb/sth) | achieve, earn, get, receive, score </B><I>The university scored a top rating among students. </I><B>| preserve | improve </B> </P>
+<P> <U> RATING + VERB </U><B> climb, improve, rise, rocket, soar </B><I>The president's ratings have suddenly rocketed. </I><B>| fall </B> </P>
+<P> <U> RATING + NOUN </U><B> scale, system </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>a drop of 50 points in her personal rating </I><B>| ~ for </B><I>The resort got a low rating for children's facilities. </I><B>| ~ on </B><I>The judges gave her the maximum rating on style. </I></P>
+<P> <SUP> 2 </SUP> <TT> ratings: number of TV viewers, etc.  </TT> </P>
+<P> <U> ADJ. </U><B> good | poor | audience, TV </B> </P>
+<P> <U> VERB + RATING </U><B> get, have </B><I>At this stage the series was getting good ratings. </I> </P>
+<P> <U> RATING + VERB </U><B> go up, improve, pick up, shoot up, soar </B><I>The ratings went shooting up overnight. </I><B>| dip, fall, go down </B><I>The programme's ratings have dipped sharply. </I> </P>
+<P> <U> RATING + NOUN </U><B> battle, war </B> </P>
+<P> <U> PREP. </U><B> in the ~s </B><I>It has been ousted from top spot in the TV ratings. </I> </P>
+</DIV>

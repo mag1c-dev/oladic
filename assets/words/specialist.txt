@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>specialist </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> leading, top </B><I>a leading cancer specialist </I><B>| qualified, trained | experienced | independent | academic | professional | technical | clinical, medical | industry, subject | hospital | cancer, ear, eye, heart, skin | finance/financial, marketing, property | tax | recruitment | communications, computer, software, systems | education </B> </P>
+<P> <U> VERB + SPECIALIST </U><B> bring in </B><I>They brought in an outside specialist to install the computer system. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>She is a specialist in eighteenth-century English painting. </I><B>| ~ on </B><I>a specialist on the history of this city </I> </P>
+<P> <U> PHRASES </U><B> a group/team of specialists, a specialist in the field </B><I>The book is written by P.H. Reaney, a noted specialist in the field. </I></P>
+<a href="/collocation-tag/doctor" class="tag">Learn more about DOCTOR</a>
+</DIV>

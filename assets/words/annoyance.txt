@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>annoyance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling of being annoyed </TT> </P>
+<P> <U> ADJ. </U><B> deep, great, intense </B><I>A look of deep annoyance crossed his face. </I><B>| obvious </B><I>She tapped the table with her pen in obvious annoyance. </I> </P>
+<P> <U> QUANT. </U><B> flicker </B><I>A flicker of annoyance crossed his face. </I><B>| surge </B><I>He felt a violent surge of annoyance. </I> </P>
+<P> <U> VERB + ANNOYANCE </U><B> cause </B><I>He had been causing annoyance to the other guests. </I><B>| feel </B><I>I felt some annoyance when he told me his plans. </I><B>| express, show </B><I>She tried not to show her annoyance. </I><B>| conceal, hide </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He shook his head in annoyance. </I><B>| with ~ </B><I>Her cheeks flushed with annoyance. </I><B>| ~ at/over, ~ with </B><I>her annoyance with him over his failure to cooperate </I> </P>
+<P> <U> PHRASES </U><B> a look of annoyance </B><I>There was a look of annoyance on his face. </I><B>| a source of annoyance </B><I>A dog that barks constantly can be a source of annoyance to the neighbors.</I><B>| (much) to sb's annoyance </B><I>I dropped out of university, much to the annoyance of my parents. </I> </P>
+<P> <SUP> 2 </SUP> <TT> thing that annoys </TT> </P>
+<P> <U> ADJ. </U><B> minor, petty </B><I>A leaking roof is just one of life's petty annoyances! </I> </P>
+</DIV>

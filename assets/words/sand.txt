@@ -1,0 +1,7 @@
+
+<div class="item"><p class="word first"><b>sand </b><i>noun </i> </p>
+<p> <u> ADJ. </u><b> fine </b><i>a beach of fine golden sand </i><b>| coarse | soft | hard | damp, wet | dry | burning, hot | golden, silver, white, yellow | desert </b><i>the burning desert sands </i> </p>
+<p> <u> QUANT. </u><b> grain | patch, strip </b></p>
+<p> <u> SAND + NOUN </u><b> beach, dune | pit (also sandpit) | castle (also sandcastle) </b></p>
+<p> <u> PREP. </u><b> in the ~ </b><i>The children played happily in the sand. </i> <b>| on the ~ </b><i>We found her asleep on the sand. </i></p>
+</div>

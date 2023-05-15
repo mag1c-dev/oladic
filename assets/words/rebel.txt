@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>rebel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> anti-government | left-wing, right-wing | US-backed, etc. | former | armed </B> </P>
+<P> <U> QUANT. </U><B> band, group </B> </P>
+<P> <U> VERB + REBEL </U><B> back, help, support </B><I>They sent in troops to back the rebels. </I><B>| repel | defeat | join | lead </B> </P>
+<P> <U> REBEL + VERB </U><B> be based &hellip; </B><I>The rebels were based in camps along the border. </I><B>| advance | attack sth | capture sth, gain/regain/seize/take control (of sth) </B><I>The rebels seized control of the national radio headquarters. </I> </P>
+<P> <U> REBEL + NOUN </U><B> faction, group, movement | army, fighters, force/forces, soldiers, troops, officers | commander, leader | control </B><I>The southern parts of the country had fallen into rebel control. </I><B>| base, camp, position, stronghold | activity, advance, assault, attack, invasion | cause, movement </B><I>new recruits to the rebel cause </I> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>military operations against the rebels </I><B>| ~ against </B><I>a group of rebels against the emperor </I> </P>
+<P> <U> PHRASES </U><B> a bit/something of a rebel </B><I>(figurative) He's a bit of a rebel </I>(= he doesn't like to obey rules)</B><I>. </I> </P>
+</DIV>

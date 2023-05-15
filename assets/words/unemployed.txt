@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>unemployed </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, be registered (as) | become | remain | leave sb, make sb </B><I>The closure of the factory left hundreds of men unemployed. </I> </P>
+<P> <U> ADV. </U><B> currently | newly | still | temporarily | permanently | involuntarily, voluntarily </B><I>As I was voluntarily unemployed, I wasn't entitled to benefit. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>unemployed </B><I>noun </I><B>the unemployed </B> </P>
+<P> <U> ADJ. </U><B> long-term | rural, urban </B> </P>
+<P> <U> PREP. </U><B> among the ~ </B><I>The party's policies were popular among the unemployed. </I> </P>
+<P> <U> PHRASES </U><B> the plight of the unemployed, the ranks of the unemployed </B><I>He graduated with a good degree, only to join the ranks of the unemployed. </I> </P>
+</DIV>

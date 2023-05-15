@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>flaw </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> main, major, serious | basic, fatal, fundamental | minor, slight, small | obvious | design </B> </P>
+<P> <U> VERB + FLAW </U><B> have </B><I>Unfortunately, this plate has a slight flaw in it. </I><B>| look for | discover, find, identify, see </B><I>It took me a long time to find the flaw in her logic. Engineers have identified serious design flaws in the proposed nuclear waste dump. </I><B>| expose, highlight, point out/to, reveal </B><I>The markets have exposed the fatal flaw in the government's economic policy. </I> </P>
+<P> <U> FLAW + VERB </U><B> appear </B><I>Flaws have appeared in the new version of the software. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>one of the major flaws in his character </I> </P>
+</DIV>

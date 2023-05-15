@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>proficiency </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great | technical | language, oral, reading, written | cycling, skiing, etc. </B> </P>
+<P> <U> QUANT. </U><B> degree, level </B><I>He taught himself to carve to a high degree of proficiency. </I> </P>
+<P> <U> VERB + PROFICIENCY </U><B> acquire, develop, increase </B><I>He acquired greater proficiency after a three-month intensive course. </I><B>| demonstrate, show </B> </P>
+<P> <U> PROFICIENCY + NOUN </U><B> examination, test </B><I>a language proficiency test </I><B>| certificate </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a certificate for proficiency in English </I> </P>
+</DIV>

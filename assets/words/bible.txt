@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>Bible </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> Holy </B> </P>
+<P> <U> VERB + BIBLE </U><B> read, study </B> </P>
+<P> <U> BIBLE + VERB </U><B> say sth, tell sb sth, teach sth </B><I>The Bible teaches that all people are equal before God. </I> </P>
+<P> <U> BIBLE + NOUN </U><B> reading, story | study </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>You can read the story of Noah in the Bible. </I> </P>
+</DIV>

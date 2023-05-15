@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>debit </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> automatically </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The money will be debited from your account. </I><B>| with </B><I>Your current account is automatically debited with the amount of your purchase. </I> </P>
+</DIV>

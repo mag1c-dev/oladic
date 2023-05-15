@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>import </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> directly | illegally, legally | specially </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The store's croissants are imported directly from France. </I><B>| into </B><I>These dogs are illegally imported into the country. </I><B>| to </B><I>goods that are imported to Britain </I> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>import </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> main, major | foreign, overseas | cheap | annual </B><I>The value of annual imports rose rapidly. </I><B>| net </B><I>the UK's net imports of food </I><B>| total | essential | luxury | illegal | agricultural, car, coal, energy, food, grain, oil, steel, etc. </B> </P>
+<P> <U> VERB + IMPORT </U><B> boost, increase </B><I>pressure on the government to stimulate the faltering economy and boost imports </I><B>| curb, cut, reduce, restrict | discourage | control | block, prevent, stop | ban, prohibit </B><I>The government decided to prohibit the import of toxic waste. </I><B>| finance </B><I>Most of their oil revenues are used to finance imports of consumer and capital goods. </I><B>| replace </B><I>The industry aims both to increase exports and replace imports. </I> </P>
+<P> <U> IMPORT + VERB </U><B> grow, increase, rise | drop, fall | be valued at sth, total sth </B><I>Imports were valued at </I>&pound;</B><I>516 million last month. </I><B>| account for sth </B><I>Imports of foodstuffs accounted for a small proportion of total imports. </I> </P>
+<P> <U> IMPORT + NOUN </U><B> ban, control, restrictions | duty, tariff | price </B><I>rising import prices </I><B>| licence | quota </B><I>A restricted import quota was set for meat products. </I><B>| penetration </B><I>greater import penetration of the domestic market </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>America has cut its oil imports from the Middle East by 73%. </I><B>| ~ into </B><I>Special duties were imposed on imports into the republic. </I> </P>
+<P> <U> PHRASES </U><B> a ban/restriction on imports, the demand for imports, a fall/rise in imports </B></P>
+<a href="/collocation-tag/financial" class="tag">Learn more about FINANCIAL</a>
+</DIV>

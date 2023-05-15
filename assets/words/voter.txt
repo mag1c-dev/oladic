@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>voter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> eligible, registered </B><I>Only a quarter of registered voters actually voted in the election. </I><B>| proxy | overseas | floating, uncommitted, undecided, wavering | first-time, new | potential | ordinary </B><I>the feelings of ordinary voters </I><B>| Conservative, Labour, etc. </B> </P>
+<P> <U> VERB + VOTER </U><B> woo </B><I>attempts to woo undecided voters </I><B>| persuade | convince | urge, warn | influence </B> </P>
+<P> <U> VOTER + VERB </U><B> choose sb, favour sb, pick sb, prefer sb </B><I>In this election, voters chose candidates who promised economic security. </I><B>| participate in sth, turn out </B><I>More than two million voters participated in the election. </I><B>| cast their vote | support sth, vote yes (to sth) | reject sth, vote no (to sth) | change/ switch allegiance </B> </P>
+<P> <U> VOTER + NOUN </U><B> turnout </B><I>Voter turnout was very low. </I><B>| registration | disillusionment | intimidation </B><I>The Opposition alleged voter intimidation by the army. </I> </P>
+</DIV>

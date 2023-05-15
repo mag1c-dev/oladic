@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>uncertain </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not confident </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become </B> </P>
+<P> <U> ADV. </U><B> deeply, very </B><I>I feel deeply uncertain about the future. </I><B>| a little, rather, slightly | strangely </B> </P>
+<P> <U> PREP. </U><B> about, as to </B><I>He seemed strangely uncertain as to how to continue. </I><B>| of </B><I>We were rather uncertain of the direction it came from. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not known exactly </TT> </P>
+<P> <U> VERBS </U><B> be, look | become | remain, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very | increasingly | quite, rather, somewhat | still </B><I>Whether diet is an important factor in this illness is still uncertain. </I><B>| inevitably, inherently </B><I>The world is inherently uncertain. </I><B>| notoriously </B><I>Cost estimates are notoriously uncertain in this business. </I> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>action </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> process of doing sth </TT> </P>
+<P> <U> ADJ. </U><B> decisive, effective, firm, strong, vigorous | immediate, prompt, swift, urgent | drastic, emergency </B><I>The situation calls for drastic action. </I><B>| collective, concerted, joint, united | direct, positive | evasive | corrective, remedial | disciplinary, legal, military, political, strike </B><I>Disciplinary action will be taken against students who cheat. </I>(see also <B>industrial action) </B> </P>
+<P> <U> VERB + ACTION </U><B> take | call for | agree on </B><I>The leaders have agreed on joint action to combat terrorism. </I><B>| leap/spring/swing into </B><I>The emergency services swung into action as soon as the disaster was reported. </I><B>| carry out, perform, take </B><I>Only the priest can perform these actions. We shall take whatever actions are necessary. </I><B>| galvanize/prod/spur sb into </B><I>We have to galvanize people into action. </I><B>| bring/put sth into </B><I>We need to put these ideas into action. </I><B>| keep/put sb/sth out of </B><I>A fire has put the factory out of action. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>I have not yet seen the machines in action. </I><B>| out of ~ </B><I>He is out of action following an ankle injury. </I><B>| ~ against </B><I>against drug dealers </I><B>| ~ on </B><I>The government is taking strong action on refugees. </I> </P>
+<P> <U> PHRASES </U><B> a course of action </B><I>Is this the best course of action to follow? </I> </P>
+<P> <SUP> 2 </SUP> <TT> legal case </TT> </P>
+<P> <U> ADJ. </U><B> court | civil, criminal, libel </B> </P>
+<P> <U> VERB + ACTION </U><B> bring, take out </B><I>Her husband brought a civil action against her after their divorce. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B> </P>
+<P> <SUP> 3 </SUP> <TT> fighting </TT> </P>
+<P> <U> ADJ. </U><B> enemy </B><I>He was killed during enemy action. </I> </P>
+<P> <U> VERB + ACTION </U><B> see </B><I>I never saw action during the war. </I> </P>
+<P> <U> PHRASES </U><B> killed/missing/wounded in action </B><I>He was reported missing in action. </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>positive </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> certain </TT> </P>
+<P> <U> VERBS </U><B> be, seem, sound </B> </P>
+<P> <U> ADV. </U><B> absolutely, quite </B><I>I'm absolutely positive it was him. </I><B>| fairly </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She seemed fairly positive about it. </I><B>| of </B><I>Are you positive of your facts? </I> </P>
+<P> <SUP> 2 </SUP> <TT> hopeful and confident/encouraging </TT> </P>
+<P> <U> VERBS </U><B> appear, be, feel, seem, sound | remain </B> </P>
+<P> <U> ADV. </U><B> distinctly, extremely, highly, overwhelmingly, really, very </B><I>He took a highly positive view of the matter. </I><B>| entirely, wholly | fairly, mildly, moderately, quite | broadly, essentially, generally | apparently, seemingly </B> </P>
+<P> <U> PREP. </U><B> about </B><I>sounding very positive about his chances </I> </P>
+<P> <SUP> 3 </SUP> <TT> showing that sth has happened/is present </TT> </P>
+<P> <U> VERBS </U><B> be, prove, test </B><I>The test proved positive. </I> </P>
+<P> <U> ADV. </U><B> strongly, weakly </B><I>(both technical) </I> </P>
+<P> <U> PREP. </U><B> for </B><I>He tested positive for HIV. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>household </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> average </B><I>The average household pays 27p a day in water rates. </I><B>| domestic, private, etc. | rural, urban | middle-class, working-class | high-income, low-income, poor, etc. | family, married-couple, single-person, etc. </B> </P>
+<P> <U> VERB + HOUSEHOLD </U><B> manage, run | set up </B><I>Becoming an adult and setting up a household no longer mean the same thing. </I> </P>
+<P> <U> HOUSEHOLD + NOUN </U><B> appliance, contents, furniture, goods, item, product </B><I>The household contents are covered by a separate insurance policy. </I><B>| bills, budget, expenditure, expenses, income | chore, duties, task | rubbish, waste </B> </P>
+<P> <U> PHRASES </U><B> the head of the household </B><I>The head of the household is responsible for completing the council tax form. </I> </P>
+</DIV>

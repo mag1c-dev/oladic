@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>reaction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> response </B> </TT> </P>
+<P> <U> ADJ. </U><B> extreme, sharp, strong, violent | favourable, positive | adverse, hostile, negative |  mixed </B><I>The speech got a mixed reaction. </I><B>| angry | first, immediate, initial | delayed </B><I>Her outburst was a delayed reaction to an unpleasant letter she'd received that morning. </I><B>| chain </B><I>The change of plan set off a chain reaction of confusion. </I><B>| mixed | common, general, public | natural, normal | automatic, gut, instinctive, knee-jerk, spontaneous </B><I>The incident calls for a measured response, avoiding knee-jerk reactions. </I><B>| nervous | emotional | critical </B><I>The critical reaction to his first novel has been positive. </I> </P>
+<P> <U> VERB + REACTION </U><B> get, have, meet with </B><I>The play met with a mixed reaction from the critics. </I><B>| bring, cause, produce, provoke, set off, spark (off), trigger (off) </B><I>She was surprised at the reaction brought by the mention of his </I> <B>delayed </B><I>a delayed reaction to the drugs </I><B>| allergic </B> </P>
+<P> <U> VERB + REACTION </U><B> have, suffer </B><I>She had a very bad allergic reaction to the peanuts. </I><B>| cause, produce </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>A small minority of patients suffer an adverse reaction to the treatment. name. </I><B>| gauge, judge (by/from) </B><I>He eyed her cautiously, trying to gauge her reaction.  Judging by her reaction, she liked the present. </I> </P>
+<P> <U> PREP. </U><B> in ~ to </B><I>There's been a drop in ticket sales in reaction to the review. </I><B>| ~ against </B><I>Her rebellious attitude is just a reaction against her strict upbringing. </I><B>| ~ to </B><I>the public reaction to the news </I>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> (usually <B>reactions</B>) ability to react quickly </TT> </P>
+<P> <U> ADJ. </U><B> fast, good, lightning, quick | slow, sluggish </B> </P>
+<P> <U> VERB + REACTION </U><B> have </B><I>She has very quick reactions. </I><B>| speed up | slow down </B><I>Alcohol has the effect of slowing down your reactions. </I> </P>
+<P> <U> REACTION + NOUN </U><B> time </B><I>Your reaction time increases when you are tired. </I> </P>
+<P> <SUP> 3 </SUP> <TT> chemical reaction </TT> </P>
+<P> <U> ADJ. </U><B> chain | chemical, nuclear </B> </P>
+<P> <U> VERB + REACTION </U><B> cause, produce, start, trigger | stop | speed up | slow down </B> </P>
+<P> <U> REACTION + VERB </U><B> occur, take place </B> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>the energy given out during the reaction </I><B>| ~ between </B><I>studying the reactions between certain gases </I><B>| ~ with </B><I>the fuel's chemical reaction with the surrounding water </I> </P>
+<P> <SUP> 4 </SUP> <TT> allergy </TT> </P>
+<P> <U> ADJ. </U><B> adverse, bad | mild, slight |</B> </P>
+</DIV>

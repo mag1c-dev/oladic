@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>wagon </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> vehicle pulled by animals </TT> </P>
+<P> <U> ADJ. </U><B> covered, open | horse-drawn | hay, supply </B> </P>
+<P> <U> QUANT. </U><B> train </B><I>a long train of supply wagons </I> </P>
+<P> <U> VERB + WAGON </U><B> drive | pull, draw </B> </P>
+<P> <U> WAGON + VERB </U><B> roll </B><I>covered wagons rolling across the prairies </I> </P>
+<P> <U> WAGON + NOUN </U><B> train | wheel </B> </P>
+<P> <SUP> 2 </SUP> <TT> open railway truck </TT> </P>
+<P> <U> ADJ. </U><B> rail/railway | empty | full | coal, freight, goods </B> </P>
+<P> <U> VERB + WAGON </U><B> pull</B> </P>
+</DIV>

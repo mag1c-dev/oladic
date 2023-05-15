@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>span </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> length </TT> </P>
+<P> <U> ADJ. </U><B> full | broad, wide </B><I>a broad span of interests </I><B>| clear </B><I>The bridge has a clear span of 36 metres. </I><B>| 12-foot, 500-metre, etc. | wing (also wingspan) </B><I>The bird has a 1-metre wingspan. </I> </P>
+<P> <SUP> 2 </SUP> <TT> length of time </TT> </P>
+<P> <U> ADJ. </U><B> long | short | 10-day, 2-week, etc. | entire | allotted </B><I>The speech continued well beyond its allotted span. </I><B>| time | life (also lifespan) | attention, concentration, memory </B><I>He has a short attention span. </I> </P>
+<P> <U> VERB + SPAN </U><B> cover </B><I>The book covers the entire span of Arab history. </I> </P>
+<P> <U> PREP. </U><B> over a/the ~ </B><I>Developments were monitored over a span of two years. </I> </P>
+<P> <U> PHRASES </U><B> a span of time/years</B> </P>
+</DIV>

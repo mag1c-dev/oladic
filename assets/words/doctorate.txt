@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>doctorate </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> honorary | engineering, music, etc. </B> </P>
+<P> <U> VERB + DOCTORATE </U><B> do, study for, take, write </B><I>She's doing a doctorate in ancient history. </I><B>| complete </B><I>He's completed his doctorate on Victorian sexuality. </I><B>| have </B><I>The applicants all have doctorates from good universities. </I><B>| be awarded, be granted, gain, get, obtain, receive </B> </P>
+<P> <U> DOCTORATE + NOUN </U><B> degree | thesis, work </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a doctorate from Edinburgh University </I><B>| ~ in </B><I>a doctorate in Business Administration </I><B>| ~ of </B><I>a doctorate of divinity </I><B>| ~ on </B><I>a doctorate on post-colonial development </I> </P>
+</DIV>

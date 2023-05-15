@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>soprano </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> first, principal, second | boy, female, male | coloratura, lyric, operatic | clear, pure </B> </P>
+<P> <U> VERB + SOPRANO </U><B> sing </B><I>She has sung soprano in many major operas. </I> </P>
+<P> <U> SOPRANO + NOUN </U><B> voice </B><I>She has a natural, clear soprano voice. </I><B>| part </B><I>The soprano part in this opera is very demanding </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>She sings in an exceptionally pure soprano. </I> </P>
+</DIV>

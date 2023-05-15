@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>census </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, full | general, national, official | decennial | population </B> </P>
+<P> <U> VERB + CENSUS </U><B> carry out, conduct, take </B><I>A national census is taken every ten years. </I> </P>
+<P> <U> CENSUS + NOUN </U><B> data, figures, records, results, return, statistics </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the questions asked in the census </I> </P>
+</DIV>

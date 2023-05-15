@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>rely </B><I>verb </I><B>PHRASAL VERBS rely on/upon sb/sth </B> </P>
+<P> <SUP> 1 </SUP> <TT> need sb/sth </TT> </P>
+<P> <U> ADV. </U><B> heavily, a lot, strongly </B><I>countries that rely heavily on food aid </I><B>| entirely, exclusively, solely | increasingly | largely, mainly | traditionally </B> </P>
+<P> <U> VERB + RELY </U><B> be forced to, have to, must </B><I>people who are forced to rely on public transport </I><B>| tend to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>They relied entirely on these few weapons for their defence. </I> </P>
+<P> <SUP> 2 </SUP> <TT> trust sb/sth </TT> </P>
+<P> <U> ADV. </U><B> safely </B><I>You can safely rely on his judgement. </I><B>| simply </B><I>Most historians simply rely on archives. </I> </P>
+<P> <U> VERB + RELY </U><B> can/could | can/could always | can/could no longer </B><I>The party could no longer rely on its traditional supporters. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>I couldn't rely on John for information. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>intensity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low </B><I>a band of light with high intensity </I><B>| fierce, great </B><I>The sun beat down with fierce intensity. He studied the report with great intensity. </I><B>| emotional | passionate </B> </P>
+<P> <U> VERB + INTENSITY </U><B> decrease (in), reduce (in) | grow in, increase (in) </B><I>Her headaches started to increase in intensity. </I><B>| vary in </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The pain was growing in intensity. </I> </P>
+</DIV>

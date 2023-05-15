@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>congested </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become, get </B> </P>
+<P> <U> ADV. </U><B> heavily, highly, severely, very </B><I>The roads to Bordeaux were heavily congested. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The city streets were congested with vehicles. </I> </P>
+</DIV>

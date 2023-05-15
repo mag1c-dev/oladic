@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>uncertainty </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great | growing | continuing, lingering | economic, financial, legal, political </B> </P>
+<P> <U> QUANT. </U><B> degree, element </B> </P>
+<P> <U> VERB + UNCERTAINTY </U><B> cause, create, give rise to, lead to | add (to), fuel, increase </B><I>Her comments will add to the uncertainty of the situation. Her comments will add uncertainty to an already complicated situation. </I><B>| reduce | bring/put an end to, eliminate, remove, resolve | face </B><I>They are facing some uncertainty about their jobs. </I> </P>
+<P> <U> UNCERTAINTY + VERB </U><B> surround sth </B><I>the uncertainty surrounding the proposed changes in the law </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a feeling of uncertainty about his future </I><B>| ~ as to </B><I>There's considerable uncertainty as to whether the government's job creation strategies will work. </I><B>| ~ over </B><I>uncertainty over the safety of the drug </I> </P>
+<P> <U> PHRASES </U><B> an area of uncertainty </B><I>One area of uncertainty remains: who will lead the team? </I><B>| a feeling of uncertainty, a period of uncertainty</B> </P>
+</DIV>

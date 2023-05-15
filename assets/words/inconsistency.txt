@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>inconsistency </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> serious | glaring | apparent | internal </B><I>Researchers have found that internal inconsistencies in hospital case notes are common. </I><B>| logical </B> </P>
+<P> <U> VERB + INCONSISTENCY </U><B> contain | be filled with </B><I>The script is filled with logical inconsistencies. </I><B>| lead to, result in </B><I>The lack of a clear set of competition rules resulted in inconsistency in the awarding of prizes. </I><B>| find, see, spot </B><I>The program has found an inconsistency in the database files. She was quick to spot the inconsistencies between his two reports. </I><B>| point out, reveal </B><I>Commentators have pointed out the inconsistencies in the government's financial policy. </I><B>| remove, resolve </B><I>The amendment will remove the inconsistency between the two laws. </I> </P>
+<P> <U> INCONSISTENCY + VERB </U><B> emerge | creep in, creep into sth </B><I>Inconsistencies began to creep into his testimony. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>inconsistencies in the evidence </I> </P>
+</DIV>

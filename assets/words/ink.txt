@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ink </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> wet </B><I>Be careful. The ink is still wet. </I><B>| coloured | India/Indian | indelible, permanent, waterproof | washable | invisible | printing </B> </P>
+<P> <U> VERB + INK </U><B> use </B><I>Most people now use ballpoints rather than ink. </I><B>| write in </B><I>He wrote very neatly in blue ink. </I><B>| spill </B> </P>
+<P> <U> INK + VERB </U><B> dry </B><I>Allow the ink to dry. </I><B>| smudge </B><I>The drawback of this printer is that the ink tends to smudge. </I> </P>
+<P> <U> INK + NOUN </U><B> blot, spot | pen | cartridge </B><I>We need to replace the ink cartridge in the printer. </I><B>| drawing </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>There were several alterations in ink. </I> </P>
+<P> <U> PHRASES </U><B> pen and ink </B><I>a pen and ink drawing </I> </P>
+</DIV>

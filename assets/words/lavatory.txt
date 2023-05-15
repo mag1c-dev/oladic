@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>lavatory </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> public | communal, shared | indoor, inside | outside | flush, flushing </B> </P>
+<P> <U> VERB + LAVATORY </U><B> go to, use | need | flush, flush sth down </B> </P>
+<P> <U> LAVATORY + NOUN </U><B> basin, bowl | seat | cistern | chain | paper | brush </B> </P>
+<P> <U> PREP. </U><B> in the ~, on the ~</B> </P>
+</DIV>

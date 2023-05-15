@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>effective </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> producing the result you want </TT> </P>
+<P> <U> VERBS </U><B> be, look, prove, seem | make sth | find sth </B><I>We find advertising on the radio very effective. </I> </P>
+<P> <U> ADV. </U><B> brilliantly, especially, extremely, highly, particularly, really, remarkably, very </B><I>a highly effective technique </I><B>| completely, fully, perfectly | increasingly | fairly, moderately, partially, pretty, quite, rather, reasonably | enough </B><I>This method is effective enough with greenfly. </I><B>| not sufficiently | immediately | potentially | devastatingly, powerfully, surprisingly </B><I>Sneezes are devastatingly effective at spreading infection. </I><B>| politically </B><I>What makes a TV programme politically effective? </I> </P>
+<P> <U> PREP. </U><B> at </B><I>effective at keeping out the wind </I><B>| in </B><I>effective in helping people to stop smoking </I> </P>
+<P> <SUP> 2 </SUP> <TT> of laws/rules </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> fully | partially | directly, immediately </B><I>directly effective treaty provisions </I><B>| legally</B> </P>
+</DIV>

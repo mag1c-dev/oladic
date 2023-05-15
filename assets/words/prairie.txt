@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>prairie </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, rolling, wide | American </B> </P>
+<P> <U> VERB + PRAIRIE </U><B> cross </B><I>a train of covered wagons crossing the wide American prairies </I> </P>
+<P> <U> PRAIRIE + NOUN </U><B> dog </B> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>their route across the prairie </I><B>| on the ~ </B><I>settlers' houses on the prairies of Canada </I> </P>
+</DIV>

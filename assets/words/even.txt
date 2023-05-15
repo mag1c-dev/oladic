@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>even </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> level/smooth </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>The floor isn't completely even. </I> </P>
+<P> <U> ADV. </U><B> very | absolutely, completely </B> </P>
+<P> <SUP> 2 </SUP> <TT> same size/level </TT> </P>
+<P> <U> VERBS </U><B> be | become | keep sth </B><I>Try to keep your stitches absolutely even. </I> </P>
+<P> <U> ADV. </U><B> very | absolutely, completely | fairly </B><I>Try to keep the room at a fairly even temperature. </I> </P>
+<P> <SUP> 3 </SUP> <TT> equal </TT> </P>
+<P> <U> VERBS </U><B> be, seem | remain </B> </P>
+<P> <U> ADV. </U><B> very | fairly, more or less </B><I>The scores remained more or less even throughout the competition. </I> </P>
+</DIV>

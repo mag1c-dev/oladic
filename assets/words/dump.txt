@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>dump </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> garbage, refuse, rubbish, waste </B><I>cleaning up a toxic waste dump </I><B>| nuclear </B> </P>
+<P> <U> DUMP + NOUN </U><B> site </B><I>Local residents have organized a protest against the planned dump site. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>Radioactive waste has been found at the dump. </I><B>| to a/the ~ </B><I>taking rubbish to the dump </I><B>| ~ for </B><I>a new dump for nuclear waste </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dump </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> illegally </B><I>The firm had illegally dumped toxic waste. </I><B>| legally | unceremoniously </B><I>They carried him down to the beach and dumped him unceremoniously in the freezing water. </I><B>| at sea </B><I>dumping sewage at sea </I><B>| down </B><I>He dumped the boxes down in the kitchen. </I> </P>
+</DIV>

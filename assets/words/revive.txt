@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>revive </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> bring sth back </TT> </P>
+<P> <U> ADV. </U><B> quickly, rapidly </B><I>Banks and businesses had been rapidly reviving business activities in China. </I><B>| suddenly </B> </P>
+<P> <U> VERB + REVIVE </U><B> try to </B><I>trying to revive some of the old customs </I><B>| help (to), help sb (to) </B><I>the country's readiness to help revive the economic fortunes of its neighbours </I> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to revive sth </B><I>attempts to revive falling sales </I><B>| be aimed at reviving sth </B><I>an initiative aimed at reviving talks on the country's political future </I> </P>
+<P> <SUP> 2 </SUP> <TT> make sb conscious again </TT> </P>
+<P> <U> VERB + REVIVE </U><B> try to </B> </P>
+<P> <U> PREP. </U><B> with </B><I>They revived him with cold water. </I> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to revive sb </B><I>Attempts to revive her failed and she was dead on arrival at hospital. </I> </P>
+</DIV>

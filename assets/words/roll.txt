@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>roll </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> bread </TT> </P>
+<P> <U> ADJ. </U><B> bread | crusty, soft | brown, white, wholemeal | buttered, filled | ham, cheese, etc. </B> </P>
+<P> <SUP> 2 </SUP> <TT> list of names </TT> </P>
+<P> <U> ADJ. </U><B> falling </B><I>Falling rolls could lead to smaller class sizes. </I> </P>
+<P> <U> ADJ. </U><B> electoral, membership, school </B> </P>
+<P> <U> VERB + ROLL </U><B> strike sb off, remove sb from </B><I>He should be struck off the roll of solicitors. </I><B>| call, take </B><I>The chairman called the roll </I>(= to see if everyone was present)</B><I>. </I> </P>
+<P> <U> ROLL + NOUN </U><B> call </B><I>Staff evacuated the building and a roll call was taken outside. </I> </P>
+<P> <U> PREP. </U><B> on (the) ~ </B><I>The local authority has 50,000 pupils on roll. There are 340 children on the school roll. </I> </P>
+<P> <U> PHRASES </U><B> a roll of honour </B><I>Her name was engraved on sport's roll of honour. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>roll </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move by turning over </TT> </P>
+<P> <U> ADV. </U><B> slowly | around, away, back, forward, over </B><I>rolling over and over in the mud </I> </P>
+<P> <U> PREP. </U><B> down </B><I>A tear rolled slowly down her cheek. </I><B>| off </B> </P>
+<P> <SUP> 2 </SUP> <TT> make sth into the shape of a ball/tube </TT> </P>
+<P> <U> ADV. </U><B> tightly </B><I>She carried the magazine tightly rolled up in her hand. </I><B>| up </B> </P>
+<P> <U> PREP. </U><B> into </B><I>He rolled the paper into a tight ball. </I> </P>
+<P> <SUP> 3 </SUP> <TT> of a ship/plane </TT> </P>
+<P> <U> ADV. </U><B> heavily | to and fro </B><I>The ship was rolling heavily to and fro. </I> </P>
+</DIV>

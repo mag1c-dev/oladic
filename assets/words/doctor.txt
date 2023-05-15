@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>doctor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excellent, good | qualified | experienced | family, local </B><I>Who is your family doctor? </I><B>| hospital, school | NHS | private </B> </P>
+<P> <U> VERB + DOCTOR </U><B> register with </B><I>You should register with a doctor as soon as possible. </I><B>| call, fetch, get, send for </B><I>We called the doctor immediately. </I>(For more verbs see note.) </P>
+<a href="/collocation-tag/doctor" class="tag">Learn more about DOCTOR</a>
+</DIV>

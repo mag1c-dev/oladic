@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>peak </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mountain top </TT> </P>
+<P> <U> ADJ. </U><B> high | jagged, rocky | snow-capped, snow-covered | distant | mountain </B> </P>
+<P> <U> VERB + PEAK </U><B> climb, conquer, scale </B> </P>
+<P> <U> PEAK + VERB </U><B> rise, tower </B><I>We looked up at the rocky peaks towering above us. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>climbers on the distant mountain peaks </I> </P>
+<P> <SUP> 2 </SUP> <TT> highest level, rate, etc. </TT> </P>
+<P> <U> ADJ. </U><B> all-time </B><I>The share index rose to a new all-time peak of 2732. </I><B>| summer, winter, etc. </B><I>The influx of tourists has reached its summer peak. </I> </P>
+<P> <U> VERB + PEAK </U><B> rise to/towards </B><I>Production is rising back towards its 1999 peak. </I><B>| hit, reach | fall below/from, pass | be past </B><I>Her performance is just past its peak. </I> </P>
+<P> <U> PEAK + NOUN </U><B> hours, period, season, time, year | demand </B><I>at times of peak demand </I><B>| rate </B><I>peak-rate phone calls </I><B>| level | efficiency, performance </B><I>The engine is tuned to peak efficiency. </I><B>| fitness, form </B> </P>
+<P> <U> PREP. </U><B> at a/the/your ~ </B><I>The crisis was now at its peak. At his peak he was the best player in the world. </I><B>| ~ of </B><I>She is at the peak of her popularity. The party's numbers reached a peak of 40,000 in 2001. </I> </P>
+<P> <U> PHRASES </U><B> in peak condition </B><I>You want your hair to look in peak condition. </I><B>| peaks and troughs </B><I>Economic life moves in cycles of peaks and troughs. </I> </P>
+</DIV>

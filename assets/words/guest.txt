@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>guest </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person that you invite to your home </TT> </P>
+<P> <U> ADJ. </U><B> house | honoured, welcome </B><I>She was treated as an honoured guest. You are always a welcome guest in our house. </I><B>| unexpected, uninvited </B><I>She tactfully discouraged their uninvited guests from staying longer. </I><B>| unwanted, unwelcome </B><I>The refugees were made to feel like unwanted guests in the country. </I> </P>
+<P> <U> VERB + GUEST </U><B> invite </B><I>She had invited six guests. </I><B>| entertain </B><I>She felt that she had to entertain her guests. </I> </P>
+<P> <U> GUEST + NOUN </U><B> room </B> </P>
+<P> <SUP> 2 </SUP> <TT> person invited to an event </TT> </P>
+<P> <U> ADJ. </U><B> chief, principal </B><I>The athlete was chief guest at the schools sports day. </I><B>| dinner, party, reception, restaurant, wedding </B><I>The best man and his assistants welcomed the reception guests as they arrived. </I> </P>
+<P> <U> VERB + GUEST </U><B> greet, welcome </B> </P>
+<P> <U> GUEST + VERB </U><B> attend sth </B><I>The banquet was attended by 200 guests. </I> </P>
+<P> <U> GUEST + NOUN </U><B> list </B> </P>
+<P> <U> PHRASES </U><B> a guest of honour </B> </P>
+<P> <SUP> 3 </SUP> <TT> person who is staying at a hotel </TT> </P>
+<P> <U> ADJ. </U><B> hotel | frequent, regular </B> </P>
+<P> <SUP> 4 </SUP> <TT> at a public event/on a radio or television show </TT> </P>
+<P> <U> ADJ. </U><B> special </B><I>Film star Matt Damon is one of the special guests on tonight's programme. </I> </P>
+<P> <U> GUEST + NOUN </U><B> artist, celebrity, star </B><I>Guest artists from all over Europe will take part in the concert. </I><B>| speaker | appearance </B><I>She made a rare guest appearance on the programme. </I> </P>
+</DIV>

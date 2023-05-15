@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>indictment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sign that sth is bad/wrong </TT> </P>
+<P> <U> ADJ. </U><B> powerful | damning, scathing, terrible </B><I>Her speech was a scathing indictment of the government's record on crime. </I><B>| sad </B> </P>
+<P> <SUP> 2 </SUP> <TT> accusing sb of a crime </TT> </P>
+<P> <U> ADJ. </U><B> criminal | fresh </B> </P>
+<P> <U> VERB + INDICTMENT </U><B> issue, bring </B><I>A New York jury brought criminal indictments against the founder of the organization. </I><B>| be charged on, be convicted on, be tried on | plead (not) guilty to </B> </P>
+<P> <U> INDICTMENT + VERB </U><B> charge (sb/sth with sth) </B><I>an indictment charging theft </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Two men were named in the indictment. </I><B>| on ~ </B><I>a trial on indictment </I><B>| ~ against </B><I>They issued an indictment against them. </I><B>| ~ for </B><I>She was convicted on an indictment for conspiracy. </I> </P>
+</DIV>

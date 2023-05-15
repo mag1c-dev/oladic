@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>proxy </B><I>noun </I> </P>
+<P> <U> VERB + PROXY </U><B> appoint </B><I>You may appoint a proxy to vote for you. </I> </P>
+<P> <U> PROXY + VERB </U><B> vote | attend (sth) </B><I>Your proxy may attend the meeting if you are unable to attend. </I> </P>
+<P> <U> PROXY + NOUN </U><B> vote, voting | card, form </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>If you will not be able to vote on polling day, you may vote by proxy. </I><B>| ~ for </B><I>Husbands are discouraged from voting as proxy for their wives. </I> </P>
+<P> <U> PHRASES </U><B> a form of proxy </B><I>We enclose a form of proxy for use at the Annual General Meeting. </I> </P>
+</DIV>

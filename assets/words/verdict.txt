@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>verdict </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> decision in a court of law about whether sb is guilty </TT> </P>
+<P> <U> ADJ. </U><B> adverse, favourable </B><I>In the case of an adverse verdict, the company could stand to lose millions. </I><B>| guilty, not guilty, not proven | majority, unanimous </B><I>a unanimous verdict of not guilty </I><B>| formal </B><I>The jury returned a formal verdict after direction by the judge. </I><B>| jury, trial | appeal, inquest | accident, accidental death, manslaughter, murder, misadventure, open, suicide </B><I>An open verdict was the only appropriate one, given the very unclear evidence at the inquest. </I> </P>
+<P> <U> VERB + VERDICT </U><B> consider </B><I>The judge sent the jury away to consider its verdict. </I><B>| agree (on), arrive at, reach </B><I>They reached a verdict after hours of deliberation. </I><B>| announce, bring in, deliver, enter, read out, give, pass, pronounce, record, return </B><I>The verdict was delivered in front of a packed courtroom. The jury returned a verdict of guilty at the end of the trial. The coroner recorded a verdict of accidental death. </I><B>| accept | appeal against, protest against | overturn, quash, reverse, set aside </B><I>His family always insisted that the original &lsquo;guilty&rsquo; verdict should be overturned. </I><B>| uphold </B><I>The verdict was upheld at appeal. </I> </P>
+<P> <U> VERDICT + VERB </U><B> be in sb's favour </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>We believe that the verdict against him was unfair. </I><B>| ~ of </B><I>a verdict of accidental death </I> </P>
+<P> <SUP> 2 </SUP> <TT> decision/opinion </TT> </P>
+<P> <U> ADJ. </U><B> final </B><I>The panel will give its final verdict tomorrow. </I><B>| general, overall, unanimous </B><I>The unanimous verdict was that the picnic had been a great success. </I> </P>
+<P> <U> VERB + VERDICT </U><B> give </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>What's your verdict on her new book? </I> </P>
+</DIV>

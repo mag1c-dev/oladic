@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>association </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> an organization </TT> </P>
+<P> <U> ADJ. </U><B> international, local, national, regional | private, public, voluntary | arts, business, community, constituency, consumer, football, housing, industry, library, neighbourhood, parent-teacher, professional, student, trade, etc. </B> </P>
+<P> <U> ASSOCIATION + VERB </U><B> meet </B><I>The association meets four times a year. </I> </P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+<P> <SUP> 2 </SUP> <TT> relationship between people/organizations </TT> </P>
+<P> <U> ADJ. </U><B> close | free </B><I>It was to be a free association of equal partners. </I><B>| loose </B><I>a loose association of sovereign states </I><B>| long, long-standing | personal </B> </P>
+<P> <U> VERB + ASSOCIATION </U><B> form | maintain </B><I>They have maintained a close association with a college in the US. </I> </P>
+<P> <U> PREP. </U><B> in ~ with </B>(= together with) <I>The book was published in association with British Heritage. </I><B>| ~ between </B><I>the association between the two countries </I><B>| ~ with </B><I>His association with such criminals can only destroy him. </I> </P>
+<P> <U> PHRASES </U><B> freedom of association </B><I>One of the most important political freedoms is freedom of association. </I> </P>
+<P> <SUP> 3 </SUP> <TT> connection between things </TT> </P>
+<P> <U> ADJ. </U><B> clear, close, direct, intimate, strong </B><I>a close association between the two nations </I><B>| loose | early, long, traditional | formal | free </B><I>the technique of free association in which the patient is encouraged to say the first thing that comes to mind </I> </P>
+<P> <U> VERB + ASSOCIATION </U><B> have </B><I>The city has had a long association with the mining industry. </I><B>| form </B><I>You want the child to form an association between good behaviour and rewards. </I><B>| demonstrate, find, prove, show </B><I>The research showed an association between diet and various diseases. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Dogs learn mainly by association. </I><B>| in ~ with </B>(= together with) <I>We are working in association with several charities. </I><B>| ~ between </B><I>a clear association between good health and regular exercise </I><B>| ~ with </B><I>the traditional association of the Democrats with minority interests </I> </P>
+<P> <U> PHRASES </U><B> guilty/tainted by association </B><I>He was considered tainted by association with the corrupt regime. </I> </P>
+<P> <SUP> 4 </SUP> <TT> associations: feelings/memories  </TT> </P>
+<P> <U> ADJ. </U><B> strong | happy, positive, pleasant | negative, unhappy, unpleasant | cultural, historical, literary </B><I>Tourists visit the city for its historical associations. </I> </P>
+<P> <U> VERB + ASSOCIATION </U><B> have, hold </B><I>Does the name &lsquo;Baxter&rsquo; have any associations for you? </I><B>| call up, evoke, spark off, trigger </B><I>The smell of fresh bread triggers all kinds of associations for me. </I> </P>
+<P> <U> PREP. </U><B> ~ for</B> </P>
+</DIV>

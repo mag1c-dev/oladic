@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>edition </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> first </B><I>a bookshop that specializes in rare first editions </I><B>| limited, special </B><I>The book appeared in a limited edition of 3,000. </I><B>| cheap | hardback, leather-bound, paperback | pocket | abridged </B><I>They have brought out an abridged edition of the encyclopedia. </I><B>| illustrated | revised | critical </B><I>a critical edition of Shakespeare's plays </I><B>| facsimile </B><I>a facsimile edition of Dr Johnson's Dictionary of 1755 </I><B>| electronic | morning, evening </B><I>The story made it into the evening edition of the newspaper. </I> </P>
+<P> <U> VERB + EDITION </U><B> bring out, issue, produce, publish </B> </P>
+<P> <U> EDITION + VERB </U><B> appear, be out, come out </B><I>The first edition of the newspaper appeared in 1859. </I> </P>
+<P> <U> PREP. </U><B> in a &hellip; ~ </B><I>The encyclopedia will shortly be out in a revised edition. </I><B>| ~ of </B><I>the November edition of &lsquo;Vogue&rsquo; </I> </P>
+</DIV>

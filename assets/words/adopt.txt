@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>adopt </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> child </TT> </P>
+<P> <U> ADV. </U><B> legally </B><I>The child has now been legally adopted. </I> </P>
+<P> <U> PHRASES </U><B> have sb adopted </B><I>She was forced to have her baby adopted. </I> </P>
+<P> <SUP> 2 </SUP> <TT> take and use sth </TT> </P>
+<P> <U> ADV. </U><B> formally, officially </B><I>The policy has not yet been formally adopted. </I> </P>
+<P> <U> VERB + ADOPT </U><B> tend to | decide to | be forced to </B> </P>
+<P> <U> PREP. </U><B> towards </B><I>the policies employers adopt towards the labour force </I> </P>
+</DIV>

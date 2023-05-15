@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>elegance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great | classical | sartorial </B><I>John has never been known for his sartorial elegance. </I> </P>
+<P> <U> QUANT. </U><B> touch </B><I>The ornamental ironwork lends a touch of elegance to the house. </I> </P>
+<P> <U> VERB + ELEGANCE </U><B> display, have </B><I>The building has great elegance and charm. </I><B>| lack | add, give sth, lend sth </B><I>The pillars give a classical elegance to the room. </I> </P>
+</DIV>

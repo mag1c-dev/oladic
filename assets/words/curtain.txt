@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>curtain </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fabric that covers a window </TT> </P>
+<P> <U> VERB + CURTAIN </U><B> close, draw, open, pull (across/aside/back/closed) </B><I>They sat in the dark with the curtains drawn. She pulled back the curtains, and sunlight streamed in. </I> </P>
+<P> <U> CURTAIN + VERB </U><B> hang </B><I>Heavy red velvet curtains hung either side of the huge window. </I><B>| billow </B><I>The curtains billowed madly as the wind caught them. </I> </P>
+<P> <U> PREP. </U><B> behind a/the ~ </B><I>He took a bag from a shelf behind some curtains. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in a theatre </TT> </P>
+<P> <U> ADJ. </U><B> final </B> </P>
+<P> <U> CURTAIN + VERB </U><B> go up, open, part, rise | close, come down, fall </B><I>At the end of the play the curtain came down to tremendous applause. </I> </P>
+</DIV>

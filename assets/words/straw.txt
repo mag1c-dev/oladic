@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>straw </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fresh </B> </P>
+<P> <U> QUANT. </U><B> bale </B><I>I sat on a bale of straw near the fire. </I> </P>
+<P> <U> PREP. </U><B> in (the) ~ </B><I>The rat hid in the straw. </I><B>| on (the) ~ </B><I>The animals sleep on straw. </I> </P>
+</DIV>

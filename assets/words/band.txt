@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>band </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of musicians </TT> </P>
+<P> <U> ADJ. </U><B> big | brass, string, wind | blues, dance, jazz, rock | marching, military, regimental | school | live </B><I>the excitement of seeing a live band </I><B>| one-man </B><I>(often figurative) He runs the business as a one-man band </I>(= does everything himself)</B><I>. </I> </P>
+<P> <U> VERB + BAND </U><B> form | join, play in, sing in </B><I>She plays in a rock band. </I><B>| conduct, lead </B> </P>
+<P> <U> BAND + VERB </U><B> perform, play | strike up </B><I>We heard a band strike up in the park. </I> </P>
+<P> <U> BAND + NOUN </U><B> leader, member </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>a singer in a rock band </I><B>| with a/the ~ </B><I>a drummer with a jazz band </I> </P>
+<P> <U> PHRASES </U><B> a member of the band </B> </P>
+<P> <SUP> 2 </SUP> <TT> group of people </TT> </P>
+<P> <U> ADJ. </U><B> select, small </B><I>He is one of a select band of top class players. </I><B>| dwindling | growing </B> </P>
+<P> <U> VERB + BAND </U><B> join </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a band of rebels </I> </P>
+<P> <SUP> 3 </SUP> <TT> range </TT> </P>
+<P> <U> ADJ. </U><B> age, price, tax </B><I>the 25?35 age band </I> </P>
+<P> <U> VERB + BAND </U><B> be in, fall into </B><I>Which tax band do you fall into? </I> </P>
+</DIV>

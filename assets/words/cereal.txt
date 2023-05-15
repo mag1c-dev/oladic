@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>cereal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plant </TT> </P>
+<P> <U> VERB + CEREAL </U><B> grow, produce | harvest </B> </P>
+<P> <U> CEREAL + NOUN </U><B> crop, foods, products | farmer, grower, producer | production </B> </P>
+<P> <SUP> 2 </SUP> <TT> food </TT> </P>
+<P> <U> ADJ. </U><B> fortified </B><I>fortfied breakfast cereals </I><B>| breakfast | bran, wholegrain, wholewheat </B> </P>
+<P> <U> QUANT. </U><B> bowl </B><I>a big bowl of cereal </I><B>| packet </B> </P>
+<P> <U> VERB + CEREAL </U><B> eat, have </B><I>having cereal for breakfast </I> </P>
+<P> <U> CEREAL + VERB </U><B> be fortified </B><I>a wholewheat cereal fortified with B group vitamins </I> </P>
+<P> <U> CEREAL + NOUN </U><B> bowl, packet</B> </P>
+</DIV>

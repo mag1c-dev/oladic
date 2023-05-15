@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>poem </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine, good, great, magnificent, remarkable | collected, selected </B><I>His collected poems were published after the war. </I><B>| anonymous | autobiographical | sad | dramatic, epic, lyric, heroic, narrative | prose | love | war | humorous, nonsense, satirical </B> </P>
+<P> <U> QUANT. </U><B> anthology, collection </B> </P>
+<P> <U> VERB + POEM </U><B> compose, write | read </B><I>She read the poem aloud. </I><B>| recite | learn by heart | dedicate </B><I>He dedicated the poem to his mother. </I> </P>
+<P> <U> POEM + VERB </U><B> be addressed to sb </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In his autobiographical poem &lsquo;The Prelude&rsquo;, Wordsworth describes his boyhood in the Lakes. </I><B>| ~ about </B><I>a poem about cultural differences </I> </P>
+</DIV>

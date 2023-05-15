@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>court martial </B><I>noun </I> </P>
+<P> <U> VERB + COURT MARTIAL </U><B> order </B><I>The general ordered an immediate court martial. </I><B>| hold | face </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The officer was convicted of desertion at a court martial. </I><B>| by ~ </B><I>He was tried by court martial. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>court </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> law </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>This is the highest court in the land. </I><B>| appeal, civil, crown, high, juvenile, magistrates, military </B><I>They took their case to the appeal court. </I><B>| supreme | county, federal, etc. | European, French, etc. </B> </P>
+<P> <U> VERB + COURT </U><B> go to, take sb/sth to </B><I>We are prepared to go to court to get our compensation. Their neighbours took them to court. </I><B>| come to, get to, go to </B><I>The case should not be allowed to go to court. </I><B>| bring sth to </B><I>There wasn't enough evidence to bring the case to court. </I><B>| settle sth out of </B><I>The dispute was settled out of court. </I><B>| a court of appeal </B><I>The case will be heard by the court of appeal next month. </I><B>| a court of law </B><I>I don't think that argument would stand up in a court of law. </I><B>| a ward of court </B><I>The child was made a ward of court when her parents were jailed. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for sport </TT> </P>
+<P> <U> ADJ. </U><B> basketball, squash, tennis, etc. | clay, grass, hard </B><I>Do you prefer playing tennis on grass courts or hard courts? </I> </P>
+<P> <U> PREP. </U><B> off (the) ~ </B><I>Off court she is just as aggressive as she is on the court. </I><B>| on (the) ~ </B><I>The players have been on court for an hour. </I> </P>
+<P> <SUP> 3 </SUP> <TT> kings/queens </TT> </P>
+<P> <U> ADJ. </U><B> royal appear before, appear in, attend </B><I>She is too young to appear before the court.</I> </P>
+<P> <U> COURT + NOUN </U><B> circles </B><I>Mozart quickly became a favourite in court circles. </I> <B>preside over </B><I>The court was presided over by Judge Owen. </I> 	</B><I>life at court  He will appear in court tomorrow </I> 	</B><I>charged with the murder. </I><B>| </B> 	 </B> </P>
+<P> <U> PREP. </U><B> at (a/the) ~ </B><I>life at the court of Charles I </B> </P>
+<P> </I> 	 </B> </P>
+<P> <U> COURT + VERB </U><B> hear sth </B><I>The court </I> 	</B><I>heard how the mother had beaten </I> 	</B><I>the 11-year-old boy. </I><B>| acquit sb, 	clear sb </B><I>The court acquitted </I> 	</B><I>Reece of the murder of his wife. </I><B>| 	dismiss sth, quash sth </B><I>The court </I> 	</B><I>dismissed the appeal. The guilty </I> 	</B><I>verdict was quashed by the appeal </I> 	</B><I>court. </I><B>| uphold sth </B><I>The court </I> 	</B><I>upheld the plaintiff's claim of </I> 	</B><I>unfair dismissal. </I><B>| hold sth, order 	sth, rule sth </B><I>The court held that </I> 	</B><I>she was entitled to receive </I> 	</B><I>compensation. </I> 	 </B> </P>
+<P> <U> COURT + NOUN </U><B> action, case, 	proceedings | hearing, trial | 	injunction, order, summons </B><I>She </I> 	</B><I>tried to get a court order to </I> 	</B><I>prevent him from coming near </I> 	</B><I>her. He received a court </I> 	</B><I>summons for non-payment of tax. </I> 	<B>| decision, ruling | appearance 	</B><I>Divorce no longer requires a court </I> 	</B><I>appearance. </I><B>| battle </B><I>They could </I> 	</B><I>now face a court battle for </I> 	</B><I>compensation. </I><B>| bailiff, clerk, 	judge, official, registrar, staff, 	usher </B><I>She was appointed a high </I> 	</B><I>court judge in 1998. </I><B>| procedure, 	process | system | building </B> 	 </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>He was found guilty at </I> 	</B><I>Swindon Crown Court. </I><B>| before 	a/the ~ </B><I>The case is now before </I> 	</B><I>the court. </I><B>| in ~ </B><I>Relatives of the </I> 	</B><I>dead girl were in court. </I> 	 </B> </P>
+<P> <U> PHRASES </U><B> contempt of court </B><I>He </I> 	</B><I>was charged with contempt of </I> 	</B><I>court after shouting at a witness. </I><B>|</B> </P>
+</DIV><DIV class="item"><P class="word"><B>court </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> assiduously </B><I>He spent three months assiduously courting a newspaper editor. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>deterioration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> marked, serious, significant </B><I>a serious deterioration in relations between the two governments </I><B>| rapid, sharp | gradual, progressive | mental, physical </B><I>Mental and physical deterioration both occur naturally with age. </I><B>| environmental </B> </P>
+<P> <U> VERB + DETERIORATION </U><B> cause, lead to, result in </B><I>The stress led to a gradual deterioration in her health. </I><B>| prevent </B><I>Limits on the dumping of waste will at least prevent further environmental deterioration in the region. </I><B>| arrest </B><I>Steps need to be taken quickly to arrest the deterioration in the countries' relationship. </I> </P>
+<P> <U> DETERIORATION + VERB </U><B> occur </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a rapid deterioration in his condition </I> </P>
+<P> <U> PHRASES </U><B> signs of deterioration </B><I>The car's bodywork was already showing signs of deterioration. </I> </P>
+</DIV>

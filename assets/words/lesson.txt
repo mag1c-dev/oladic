@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>lesson </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> period of teaching or learning </TT> </P>
+<P> <U> ADJ. </U><B> good, interesting | boring | individual | private | driving, English, geography, maths, piano, swimming, etc. </B> </P>
+<P> <U> VERB + LESSON </U><B> attend, go to, have, take </B><I>I go to Italian lessons at the local college. We had a history lesson followed by a double maths lesson. I'm taking driving lessons at the moment. </I><B>| give (sb), offer (sb), provide, take, teach </B><I>She gives singing lessons. They're offering free lessons in computing. I had to take a biology lesson this afternoon because the biology teacher was away. He doesn't teach very many lessons these days. </I><B>| get </B><I>Pupils get lessons on how to organize their study time. </I><B>| prepare </B><I>The trouble is that teachers don't prepare their lessons carefully enough. </I><B>| skip </B><I>He got into trouble for skipping lessons. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>No talking was allowed during the lesson. </I><B>| in a/the ~ </B><I>You can't expect to learn all there is to know about the subject in a 45-minute lesson. </I><B>| ~ about </B><I>a lesson about the Civil War </I><B>| ~ in </B><I>He took lessons in Thai cookery. </I><B>| ~ on </B><I>a lesson on the Roman Empire </I><B>| ~ with </B><I>They've got a lesson with Mrs Evans at two o'clock. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth learnt through experience </TT> </P>
+<P> <U> ADJ. </U><B> important, salutary, useful, valuable | bitter, hard, painful </B><I>It's a hard lesson to learn. </I><B>| clear </B> </P>
+<P> <U> VERB + LESSON </U><B> draw, learn </B><I>What lessons can we draw from this unfortunate experience? </I><B>| teach sb </B><I>It taught me some valuable lessons about working with other people. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>There are important lessons to be learnt from this mistake. </I><B>| ~ in </B><I>I learned a lesson in harsh economics when I was made redundant. </I> </P>
+</DIV>

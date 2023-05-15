@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>shuttle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plane/bus/train </TT> </P>
+<P> <U> VERB + SHUTTLE </U><B> catch, fly on, get, take </B> </P>
+<P> <U> SHUTTLE + NOUN </U><B> bus, flight, service, train </B><I>The supermarket operates a complimentary shuttle service. </I><B>| diplomacy </B>(= international talks carried out by sb who travels between two or more countries)  </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>We'll fly up on the shuttle. </I><B>| ~ between </B><I>the shuttle between Adrar and Oran </I><B>| ~ from, ~ to </B><I>I took the Eastern Airlines shuttle from Washington to New York. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (</B><I>also </I><B>space shuttle</B>) spacecraft </TT> </P>
+<P> <U> SHUTTLE + NOUN </U><B> craft | crew | mission </B> </P>
+<P> <U> PREP. </U><B> aboard/on board the ~</B> </P>
+</DIV>

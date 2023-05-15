@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>fluid </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | remain | keep sth </B><I>I think we should try and keep our arrangements fluid at this stage. </I> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>It's a highly fluid situation. </I><B>| fairly, quite, rather, relatively</B> </P>
+</DIV><DIV class="item"><P class="word"><B>fluid </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excess | amniotic, bodily/body, intravenous | brake, cleaning </B> </P>
+<P> <U> VERB + FLUID </U><B> drink </B><I>Change your diet and drink plenty of fluids. </I><B>| lose | replace </B><I>replacing vital body fluids and salts that are lost when you sweat </I><B>| retain </B><I>Retaining excess fluid could be a problem. </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>mail </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> first-class, second-class | surface | express | registered | internal </B><I>If we want to send something to another department, we use the internal mail. </I><B>| international | direct </B><I>direct mail advertising </I><B>| incoming, outgoing | unopened, unread | electronic, video, voice | junk </B><I>I throw junk mail straight in the bin without reading it. </I><B>| hate </B><I>He has received death threats and hate mail from angry fans. </I><B>| fan </B> </P>
+<P> <U> QUANT. </U><B> item, sackful </B> </P>
+<P> <U> VERB + MAIL </U><B> send | get, receive | deliver | forward, redirect </B><I>We got the Post Office to redirect our mail when we moved. </I><B>| collect </B><I>The mail is collected twice a day. </I><B>| sort </B><I>The postcode allows the mail to be sorted automatically. </I><B>| check </B><I>She checked her mail before leaving the hotel. </I><B>| pick up | open | read | answer, deal with </B> </P>
+<P> <U> MAIL + VERB </U><B> come, go </B><I>Has the mail come yet? </I> </P>
+<P> <U> MAIL + NOUN </U><B> order </B><I>All our products are available by mail order. </I><B>| message | item | program | system </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Send it by first-class mail. </I><B>| in the ~ </B><I>My reply is in the mail. Is there anything interesting in the mail? </I> </P>
+</DIV><DIV class="item"><P class="word"><B>mail </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> direct </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The brochures are mailed direct to members. </I> </P>
+</DIV>

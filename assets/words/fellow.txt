@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>fellow </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> man </TT> </P>
+<P> <U> ADJ. </U><B> old, young | big, little | handsome | charming, fine, good, nice, splendid | lucky, poor </B>(= unlucky)  </P>
+<P> <SUP> 2 </SUP> <TT> member of an academic society/college </TT> </P>
+<P> <U> ADJ. </U><B> junior, senior | honorary, research, teaching </B> </P>
+<P> <U> VERB + FELLOW </U><B> elect sb </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He was elected a fellow of the Royal Society. </I> </P>
+</DIV>

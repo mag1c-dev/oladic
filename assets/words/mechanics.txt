@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mechanics </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> how sth works/is done </TT> </P>
+<P> <U> ADJ. </U><B> actual, basic, detailed, sheer </B><I>We need to discuss the actual mechanics of the operation. </I> </P>
+<P> <SUP> 2 </SUP> <TT> science of movement and force </TT> </P>
+<P> <U> ADJ. </U><B> classical, fluid, Newtonian, quantum, statistical</B> </P>
+</DIV>

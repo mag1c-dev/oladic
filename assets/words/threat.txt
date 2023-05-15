@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>threat </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> expression of intention to do harm/punish </TT> </P>
+<P> <U> ADJ. </U><B> dire, terrible </B><I>Despite dire threats of violence from extremist groups, the protest passed off peacefully. </I><B>| empty, idle </B><I>The kids took no notice of the teacher's idle threats. </I><B>| implied, veiled </B><I>The company's pay offer was accompanied by thinly-veiled threats of redundancies if it was rejected. </I><B>| explicit | physical, violent | verbal | bomb, death, suicide </B> </P>
+<P> <U> VERB + THREAT </U><B> issue, make, utter | receive | carry out </B><I>It's unwise to make threats that you cannot carry out. </I><B>| lift, withdraw </B><I>Teachers have lifted their threat of strike action. </I><B>| reduce | give in to </B><I>The government refused to give in to the hijackers' threats. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The accused made death threats against a notable politician. </I> </P>
+<P> <SUP> 2 </SUP> <TT> possible danger </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, dangerous, deadly, grave, great, major, real, serious, significant | main | growing, increasing | constant, continual, continuous, ever-present, permanent | renewed </B><I>The national park is under renewed threat from road-building schemes. </I><B>| direct, immediate, imminent </B><I>The opposition presents no immediate threat to the government. </I><B>| insidious | long-term, short-term | potential | apparent, perceived | external </B><I>The government was faced with internal rebellion as well as external threats. </I><B>| physical | political | environmental | military, nuclear, terrorist </B> </P>
+<P> <U> VERB + THREAT </U><B> be, pose, present, represent </B><I>the environmental threat posed by oil spillages </I><B>| consider sth (as), perceive sth as, regard sth as, see sth as, view sth as </B><I>Translators do not yet perceive computers as a threat to their livelihood. </I><B>| face, meet </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>Many wild plants are under threat of extinction. </I><B>| ~ from </B><I>the threat from overfishing </I><B>| ~ of </B><I>a threat of violence </I><B>| ~ to </B><I>The junta reacted violently to the perceived threat to its authority. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>outlet </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place that sells goods of a particular company/type </TT> </P>
+<P> <U> ADJ. </U><B> specialist | high-street, local | commercial, distribution, retail, sales | DIY, fast-food, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a retail outlet for exotic plants </I> </P>
+<P> <SUP> 2 </SUP> <TT> means of releasing energy/strong feeling/talents </TT> </P>
+<P> <U> ADJ. </U><B> emotional | creative </B> </P>
+<P> <U> VERB + OUTLET </U><B> have | find | provide (sb with) </B><I>Sport provided an outlet for his energy. </I><B>| need </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She needs an outlet for her talents. </I> </P>
+<P> <SUP> 3 </SUP> <TT> pipe/hole </TT> </P>
+<P> <U> ADJ. </U><B> electrical, gas, sewage, socket, waste, water </B> </P>
+<P> <U> OUTLET + NOUN </U><B> hose, pipe</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>idle </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> lazy </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> very | bone </B><I>(informal)</I>, <B>totally </B><I>She never lifts a finger to help. She's bone idle. </I><B>| rather </B> </P>
+<P> <SUP> 2 </SUP> <TT> not in use </TT> </P>
+<P> <U> VERBS </U><B> be, lie, sit, stand </B><I>Half their machines are lying idle. The pumps are standing idle. </I><B>| remain | leave sth, make sth </B><I>The land was left idle for years. </I> </P>
+</DIV>

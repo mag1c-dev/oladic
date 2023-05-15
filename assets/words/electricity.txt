@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>electricity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high-voltage, low-voltage | mains | static | off-peak </B><I>We run the washing machine at night because off-peak electricity is much cheaper. </I> </P>
+<P> <U> VERB + ELECTRICITY </U><B> generate, produce | provide, supply </B><I>The hydroelectric plant provides electricity for half the island's population. </I><B>| conduct </B><I>Metals conduct electricity well. </I><B>| be powered by, use | cut off, disconnect </B><I>Her electricity was cut off when she didn't pay her bill. </I><B>| save </B><I>I switched the light off to save electricity. </I> </P>
+<P> <U> ELECTRICITY + VERB </U><B> flow </B><I>Electricity flows through the wires in the circuit. </I> </P>
+<P> <U> ELECTRICITY + NOUN </U><B> bill </B><I>Insulating your house could cut your electricity bill by half. </I><B>| charges, costs, prices </B><I>a 10% drop in electricity prices </I><B>| meter | board, company, industry | supply | grid </B><I>The village will soon be connected to the national electricity grid. </I><B>| consumption, demand | generator | pylon | cable, line, wire</B> </P>
+</DIV>

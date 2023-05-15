@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>trail </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> line/smell that sb/sth leaves behind </TT> </P>
+<P> <U> ADJ. </U><B> scent </B><I>Ants follow a scent trail laid down previously. </I><B>| blood, smoke, vapour | thin | muddy | false </B> </P>
+<P> <U> VERB + TRAIL </U><B> lay, leave, make </B><I>The couple laid a false trail to escape the paparazzi. The tourists left a trail of litter behind them. </I><B>| pick up </B><I>The dog had picked up the trail of a rabbit. </I><B>| follow | lose </B><I>The fox had crossed a stream, and the hounds lost the trail. </I> </P>
+<P> <U> TRAIL + VERB </U><B> go cold </B><I>They had to find the kidnappers before the trail went cold. </I> </P>
+<P> <U> PREP. </U><B> on sb's ~ </B><I>Detectives had found several new clues and were back on the murderer's trail. </I> </P>
+<P> <U> PHRASES </U><B> a trail of blood, a trail of devastation </B><I>The hurricane passed, leaving a trail of devastation in its wake. </I><B>| a trail of smoke </B> </P>
+<P> <SUP> 2 </SUP> <TT> path/route </TT> </P>
+<P> <U> ADJ. </U><B> forest, nature, woodland | 10-kilometre, 5-mile, etc. | cycle, mountain bike, tourist, walking | hippy, tourist </B><I>This restaurant is off the tourist trail. </I><B>| campaign, comeback, winning </B><I>(all figurative) After a disastrous few seasons, the team are on the comeback trail. </I> </P>
+<P> <U> VERB + TRAIL </U><B> follow, hit </B><I>In 1967 she hit the hippy trail to India. </I><B>| be on </B><I>(often figurative) </I> </P>
+<P> <U> TRAIL + VERB </U><B> go, lead, wend its way </B><I>The trail wends its way through leafy woodland and sunny meadows. </I> </P>
+<P> <U> PREP. </U><B> along a/the ~</B> </P>
+</DIV><DIV class="item"><P class="word"><B>trail </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move/walk slowly </TT> </P>
+<P> <U> ADV. </U><B> slowly | wearily </B> </P>
+<P> <U> PREP. </U><B> after </B><I>I trailed wearily after the others. </I><B>| around/round </B><I>They spent their lives trailing around the country. </I><B>| (along) behind </B> </P>
+<P> <SUP> 2 </SUP> <TT> have a lower score than the other player/team </TT> </P>
+<P> <U> ADV. </U><B> badly </B><I>Liverpool are now trailing badly in the league. </I> </P>
+<P> <U> PREP. </U><B> by </B><I>They were trailing by 12 points until the last few minutes of the game. </I> </P>
+</DIV>

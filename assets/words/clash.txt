@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>clash </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> angry, bitter, fierce, serious | armed, bloody, violent | head-on </B><I>The leaders are preparing for a head-on clash at the summit. </I><B>| culture, personality </B> </P>
+<P> <U> VERB + CLASH </U><B> lead to </B> </P>
+<P> <U> CLASH + VERB </U><B> break out </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Several people were injured in violent clashes with the police. </I><B>| ~ between </B><I>Clashes between the rebels and government forces have broken out in the north. </I><B>| ~ of </B><I>a clash of opinions </I><B>| ~ over </B><I>Differences in the aims of the two unions have led to serious clashes over policy. </I><B>| ~ with </B> </P>
+<P> <U> PHRASES </U><B> a clash of cultures/interests/wills</B> </P>
+</DIV><DIV class="item"><P class="word"><B>clash </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> violently | repeatedly </B> </P>
+<P> <U> PREP. </U><B> on/over </B><I>He has clashed repeatedly with the team coach over training schedules. </I><B>| with </B><I>They often clash violently with rival gangs. </I> </P>
+</DIV>

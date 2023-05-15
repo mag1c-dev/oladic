@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>harbour </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, deep-water | good, safe, sheltered | natural | busy | picturesque, pretty | fishing </B> </P>
+<P> <U> VERB + HARBOUR </U><B> have </B><I>The town has a small natural harbour. </I><B>| come into, go into, enter </B><I>They entered the harbour with flags flying. </I><B>| go out of, leave </B> </P>
+<P> <U> HARBOUR + NOUN </U><B> wall </B> </P>
+<P> <U> PREP. </U><B> in (a/the) ~ </B><I>The fishing fleet is in harbour. the activity in the harbour </I><B>| into (a/the) ~ </B><I>The damaged vessel was towed into harbour. </I><B>| out of a/the ~ </B><I>We sailed out of the harbour at daybreak. </I> </P>
+<P> <U> PHRASES </U><B> the entrance to/the mouth of a harbour</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mishap </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> serious | minor, slight </B> </P>
+<P> <U> QUANT. </U><B> series </B><I>The group suffered an extraordinary series of minor mishaps. </I> </P>
+<P> <U> VERB + MISHAP </U><B> have, suffer </B><I>I'm afraid your son had a slight mishap in the playground. </I><B>| avoid, prevent </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>We reached home without mishap. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ale </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine, good </B><I>This pub specializes in fine ales. </I><B>| real </B>(= made and stored in the traditional way), <B>traditional </B><I>the growth in demand for real ale </I><B>| brown, light, pale | strong </B> </P>
+<P> <U> QUANT. </U><B> pint | barrel, bottle, can, glass, tankard </B><I>Fresh barrels of ale were brought up from the cellar. </I> </P>
+<P> <U> VERB + ALE </U><B> down </B><I>(informal)</I>, <B>drink, sip </B><I>He drank several pints of ale. </I><B>| brew, make </B> </P>
+<P> <U> ALE + NOUN </U><B> house</B> </P>
+</DIV>

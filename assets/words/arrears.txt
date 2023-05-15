@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>arrears </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> debt, mortgage, rent, tax </B> </P>
+<P> <U> VERB + ARREARS </U><B> fall into, get into, owe </B><I>They fell into arrears with their rent. The government has agreed to pay all arrears owed to members of the armed forces. </I><B>| accumulate </B><I>The country had accumulated arrears of $80 million on loans of $400 million. </I><B>| pay (off) </B><I>struggling to pay off her mortgage arrears </I><B>| recover </B><I>The local authority must try to recover arrears of rent. </I> </P>
+<P> <U> ARREARS + VERB </U><B> amount to sth, total sth </B><I>By this time the arrears amounted to </I>&pound;</B><I>12,000. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She was six months in arrears with the mortgage. You will be paid monthly in arrears. </I><B>| ~ on </B><I>There have been sharp increases in arrears on interest payments. </I> </P>
+</DIV>

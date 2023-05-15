@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>splash </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sound; amount of liquid </TT> </P>
+<P> <U> ADJ. </U><B> big, huge | small | loud | soft </B> </P>
+<P> <U> VERB + SPLASH </U><B> make </B><I>(often figurative) She intended to make a big splash with her wedding. </I><B>| hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>She jumped into the pool with a splash. </I> </P>
+<P> <SUP> 2 </SUP> <TT> area of colour/light </TT> </P>
+<P> <U> ADJ. </U><B> bold, bright </B><I>a bold splash of red </I> </P>
+<P> <U> VERB + SPLASH </U><B> add, lend </B><I>Window boxes of tulips added a splash of colour to the street. </I> </P>
+<P> <U> PHRASES </U><B> a splash of colour/light</B> </P>
+</DIV><DIV class="item"><P class="word"><B>splash </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> in/with water </TT> </P>
+<P> <U> ADV. </U><B> happily </B><I>The baby was splashing happily in the bath. </I><B>| about, around </B><I>splashing around in the sea </I> </P>
+<P> <U> PREP. </U><B> against </B><I>Rain splashed against the window. </I><B>| on/onto </B><I>She splashed some petrol onto the wood and set fire to it. </I><B>| over </B><I>She splashed some water over her boots to clean them. </I><B>| through </B><I>They splashed through the puddles. </I><B>| with </B><I>Her clean washing was all splashed with mud. </I></P>
+<P> <SUP> 2 </SUP> <TT> be splashed with sth: with a colour  </TT> </P>
+<P> <U> ADV. </U><B> generously, liberally </B><I>He was in his mid-forties, his hair liberally splashed with grey. </I> </P>
+</DIV>

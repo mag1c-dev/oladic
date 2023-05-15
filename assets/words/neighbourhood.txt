@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>neighbourhood </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> friendly, nice | respectable, select, smart | poor, run-down | immediate, local, surrounding </B><I>They often got together with other parents in the local neighbourhood. </I><B>| residential | middle-class, working-class | Asian, black, white, etc. | entire, whole </B><I>Before long the whole neighbourhood knew about it. </I> </P>
+<P> <U> VERB + NEIGHBOURHOOD </U><B> move into </B><I>A lot of new families have moved into the neighbourhood. </I> </P>
+<P> <U> NEIGHBOURHOOD + NOUN </U><B> police, policing | school </B> </P>
+<P> <U> PREP. </U><B> around/round the ~ </B><I>There were various parks around the neighbourhood. </I><B>| in a/the ~ </B><I>There was a large school in the neighbourhood. </I><B>| outside a/the ~ </B><I>It was a car from outside the immediate neighbourhood. </I> </P>
+</DIV>

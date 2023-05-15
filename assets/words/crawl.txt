@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>crawl </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> slowly | about, along, around/round, away, back, fowards, through </B><I>We spent an hour crawling around on our hands and knees looking for the key. </I> </P>
+<P> <U> VERB + CRAWL </U><B> manage to </B><I>As night fell, we managed to crawl back to our lines. </I><B>| start to </B><I>Has the baby started to crawl yet? </I> </P>
+<P> <U> PREP. </U><B> across, along, into, over, out of, under, up </B><I>There's an insect crawling up your leg! </I> </P>
+<P> <U> PHRASES </U><B> crawl on (your) hands and knees</B> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>crawl </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> very slow speed </TT> </P>
+<P> <U> ADJ. </U><B> slow </B> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>The traffic was moving at a slow crawl. </I> </P>
+<P> <U> VERB + CRAWL </U><B> be down to </B><I>The traffic on the motorway was down to a crawl. </I><B>| slow (down) to </B> </P>
+<P> <SUP> 2 </SUP> <TT> swimming stroke </TT> </P>
+<a href="/collocation-tag/stroke" class="tag">Learn more about STROKE</a>
+</DIV>

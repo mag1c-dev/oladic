@@ -1,0 +1,29 @@
+
+<DIV class="item"><P class="word"><B>pack </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> things put together for carrying </TT> </P>
+<P> <U> ADJ. </U><B> heavy </B> </P>
+<P> <U> VERB + PACK </U><B> carry </B> </P>
+<P> <U> PACK + NOUN </U><B> animal, horse, mule </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The water in his pack made it very heavy. </I> </P>
+<P> <SUP> 2 </SUP> <TT> things supplied together </TT> </P>
+<P> <U> ADJ. </U><B> cigarette | battery, power | gift, sample | action, information, resource, starter, study, training </B> </P>
+<P> <U> PACK + VERB </U><B> contain sth, include sth </B><I>Your resource pack includes addresses of leading manufacturers. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>How many needles are there in a pack? </I><B>| ~ of </B><I>It comes in packs of six. a pack of cigarettes </I> </P>
+<P> <SUP> 3 </SUP> <TT> group of animals </TT> </P>
+<P> <U> ADJ. </U><B> wolf | hunting </B> </P>
+<P> <U> VERB + PACK </U><B> lead </B> </P>
+<P> <U> PACK + NOUN </U><B> instinct </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the dominant animal in the pack </I><B>| in ~s </B><I>The animals hunt in packs. </I><B>| ~ of </B><I>a pack of dogs/wolves </I> </P>
+<P> <U> PHRASES </U><B> the leader of the pack </B> </P>
+<P> <SUP> 4 </SUP> <TT> playing cards </TT> </P>
+<P> <U> VERB + PACK </U><B> shuffle | cut </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There are 52 playing cards in a pack. </I> </P>
+<P> <U> PHRASES </U><B> the bottom/top of the pack </B><I>Take a card from the top of the pack. </I><B>| a pack of cards</B> </P>
+</DIV><DIV class="item"><P class="word"><B>pack </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put things into containers </TT> </P>
+<P> <U> ADV. </U><B> carefully | tightly </B><I>Live animals are transported across the continent, packed tightly into lorries. </I><B>| away, together, up </B><I>The passengers travelled packed together like cattle. I think we might as well pack up and go home. </I> </P>
+<P> <U> PREP. </U><B> in, into </B><I>She packed her clothes into a suitcase. </I> </P>
+<P> <SUP> 2 </SUP> <TT> fill a place/sth </TT> </P>
+<P> <U> PREP. </U><B> into </B><I>Crowds of people packed into the hall. </I> </P>
+<P> <U> PHRASES </U><B> be packed full of sth </B><I>Our new brochure is packed full of inspirational ideas. </I><B>| be packed out </B><I>The cinema was packed out! </I><B>| be packed to bursting/capacity/overflowing </B><I>The hall was packed to capacity. </I><B>| be packed to the gunwales/rafters </B><I>The hostel was packed to the rafters. </I><B>| be packed with sb </B><I>The place was packed with football fans. </I><B>| closely/densely/tightly packed</B> </P>
+</DIV>

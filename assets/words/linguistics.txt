@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>linguistics </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> contemporary, modern | applied, theoretical | computational, contrastive, descriptive, generative, historical, structural | Saussurean </B></P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+</DIV>

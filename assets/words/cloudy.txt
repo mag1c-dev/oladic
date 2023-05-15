@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cloudy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> full of clouds </TT> </P>
+<P> <U> VERBS </U><B> be | start </B><I>England and Wales will start cloudy. </I><B>| become </B><I>Later it will become cloudy with rain in places. </I><B>| remain, stay </B><I>It stayed cloudy for most of the day. </I> </P>
+<P> <U> ADV. </U><B> very | rather, slightly </B><I>a rather cloudy sky </I> </P>
+<P> <SUP> 2 </SUP> <TT> not clear </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>The beer looked cloudy. </I><B>| become | make sth </B><I>The warm water is made cloudy by adding some milk. </I> </P>
+<P> <U> ADV. </U><B> very | rather, slightly </B><I>Sometimes the drinking water becomes rather cloudy. </I> </P>
+</DIV>

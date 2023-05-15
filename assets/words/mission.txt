@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>mission </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> important task </B> </TT> </P>
+<P> <U> ADJ. </U><B> joint </B><I>a joint Anglo-American mission </I><B>| secret | dangerous | suicide | fact-finding | </B> reconnaissance | bombing, combat, military | mercy, (search and) rescue | peacekeeping | diplomatic </B> </P>
+<P> <U> VERB + MISSION </U><B> carry out, conduct, go on, undertake | accomplish, complete </B><I>Our mission accomplished, we headed for home. </I><B>| dispatch sb on, give, send sb on </B><I>sending an aid team on a mercy mission to the earthquake zone </I><B>| abandon, abort (especially of military missions) </B><I>The captain instructed them to abort the mission. </I><B>| fly (on) (used of military planes) </B><I>He flew a total of 41 missions over Britain. </I> </P>
+<P> <U> MISSION + VERB </U><B> end in failure, fail </B><I>Their mission ended in failure. </I><B>| be a success, succeed </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>He was often out of the office on various missions. </I> </P>
+<P> <U> PHRASES </U><B> mission impossible </B><I>Many regard his task as mission impossible. </I> </P>
+<P> <SUP> 2 </SUP> <TT> team sent to perform a task </TT> </P>
+<P> <U> ADJ. </U><B> diplomatic, military, trade </B> </P>
+<P> <U> VERB + MISSION </U><B> establish, set up | send </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The US is sending a trade mission to China. </I> </P>
+<P> <SUP> 3 </SUP> <TT> space journey </TT> </P>
+<P> <U> ADJ. </U><B> shuttle, space, spacecraft | manned </B> </P>
+<P> <U> VERB + MISSION </U><B> go on, make </B><I>He's been on several shuttle missions over the last decade. </I><B>| abort </B> </P>
+<P> <U> MISSION + NOUN </U><B> control </B><I>The spacecraft lost contact with mission control. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>experiments conducted on a space mission </I><B>| ~ to </B><I>a successful spacecraft mission to Venus </I> </P>
+<P> <SUP> 4 </SUP> <TT> special aim </TT> </P>
+<P> <U> VERB + MISSION </U><B> have </B><I>He now has a mission in life: to expand the horizons of those around him. </I> </P>
+<P> <U> PHRASES </U><B> a man/woman with a mission </B><I>You can tell by the determined way he talks that he is a man with a mission. </I><B>| a sense of mission </B><I>A powerful sense of mission underpins everything he does. </I> </P>
+<P> <SUP> 5 </SUP> <TT> place where people work to help others </TT> </P>
+<P> <U> ADJ. </U><B> Christian </B> </P>
+<P> <U> VERB + MISSION </U><B> establish, found | run </B> </P>
+<P> <U> MISSION + NOUN </U><B> work | hospital, school </B> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>terminal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place/building that handles goods/passengers </TT> </P>
+<P> <U> ADJ. </U><B> international | air/airport, bus, ferry, rail/railway | passenger | container, freight | coal, gas, etc. </B> </P>
+<P> <U> TERMINAL + NOUN </U><B> building </B> </P>
+<P> <U> PREP. </U><B> at/in a/the ~ </B><I>We met up at the bus terminal. </I> </P>
+<P> <SUP> 2 </SUP> <TT> computer equipment </TT> </P>
+<P> <U> ADJ. </U><B> colour | computer | network | display </B> </P>
+<P> <U> VERB + TERMINAL </U><B> connect, disconnect </B> </P>
+<P> <U> TERMINAL + NOUN </U><B> keyboard, screen, server </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>There were two students at each terminal. </I><B>| on a/the ~ </B><I>pressing keys on a terminal </I> </P>
+</DIV>

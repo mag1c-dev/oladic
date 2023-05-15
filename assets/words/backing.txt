@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>backing </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strong | full, unanimous, whole-hearted </B><I>The teachers have the full backing of the school governors. </I><B>| financial, legal | government, official, popular </B> </P>
+<P> <U> VERB + BACKING </U><B> have | gain, get, receive, secure, win </B><I>They have won financial backing from the EU. </I><B>| need, seek | give sb, provide (sb with) </B><I>Who's going to provide the backing? </I> </P>
+<P> <U> BACKING + VERB </U><B> come from sb/sth </B><I>The backing will come from the government. </I> </P>
+<P> <U> PREP. </U><B> with/without the ~ </B><I>They brought the legal action with the backing of their MP. </I><B>| ~ for </B><I>They want backing for more research. </I><B>| ~ from </B><I>backing from management </I> </P>
+</DIV>

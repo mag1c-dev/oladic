@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>imprisonment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> six months', ten years', etc. | life | indefinite | immediate | false, unlawful, wrongful </B> </P>
+<P> <U> VERB + IMPRISONMENT </U><B> be liable to, face </B><I>The Act states that anyone committing the offence is liable to imprisonment. The coup leaders could face life imprisonment. </I><B>| receive, suffer </B><I>Those who were captured suffered imprisonment. </I><B>| be released from | sentence sb to </B> </P>
+<P> <U> IMPRISONMENT + VERB </U><B> be suspended for sth </B><I>The judge sentenced her to 6 months imprisonment suspended for 15 months. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>imprisonment for illegal possession of weapons </I> </P>
+<P> <U> PHRASES </U><B> (carry) a penalty of &hellip; imprisonment </B><I>The offence carries a penalty of 2 years' imprisonment. </I><B>| imprisonment without trial, a period/sentence/term of imprisonment, punishable by imprisonment </B><I>a felony punishable by imprisonment </I> </P>
+</DIV>

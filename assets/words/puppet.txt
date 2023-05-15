@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>puppet </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> model of a person/animal </TT> </P>
+<P> <U> ADJ. </U><B> finger, glove, hand, rod, shadow </B> </P>
+<P> <U> VERB + PUPPET </U><B> manipulate, work </B><I>How do you work these puppets? </I> </P>
+<P> <U> PUPPET + NOUN </U><B> play, show | theatre | master </B> </P>
+<P> <SUP> 2 </SUP> <TT> sb whose actions are controlled by sb else </TT> </P>
+<P> <U> ADJ. </U><B> mere </B><I>The king was a mere puppet of the mayor. </I> </P>
+<P> <U> PUPPET + NOUN </U><B> government, king, regime, state</B> </P>
+</DIV>

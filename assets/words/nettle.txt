@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>nettle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> stinging | dead </B>(= a variety that does not sting)  </P>
+<P> <U> QUANT. </U><B> clump, patch </B> </P>
+<P> <U> VERB + NETTLE </U><B> cut (down), get rid of </B> </P>
+<P> <U> NETTLE + VERB </U><B> grow | sting | spread </B><I>The nettles had spread and now covered half the garden. </I> </P>
+<P> <U> PREP. </U><B> in (the) ~s </B><I>There was an old car half buried in the nettles. </I><B>| on ~s </B><I>The butterflies lay their eggs on nettles. </I> </P>
+</DIV>

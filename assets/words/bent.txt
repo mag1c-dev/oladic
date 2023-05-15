@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>bent </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look | become, get </B><I>The lamp post got bent in the crash. </I> </P>
+<P> <U> ADV. </U><B> slightly </B><I>He stood with knees slightly bent. </I> </P>
+<P> <U> PHRASES </U><B> bent double </B><I>The man shuffled back a few paces, bent almost double. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> natural | artistic, intellectual, literary, philosophical, scientific </B> </P>
+<P> <U> VERB + BENT </U><B> have </B><I>She has an artistic bent. </I><B>| show </B><I>He showed a literary bent from a young age. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>a child with a scientific bent </I><B>| ~ for </B><I>a natural bent for languages </I> </P>
+</DIV>

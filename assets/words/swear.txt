@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>swear </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> use bad language </TT> </P>
+<P> <U> ADV. </U><B> loudly | quietly, silently, softly, under your breath | viciously, violently </B> </P>
+<P> <U> VERB + SWEAR </U><B> hear sb </B><I>He heard her swear under her breath. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He swore loudly at her and left. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make a serious promise </TT> </P>
+<P> <U> ADV. </U><B> solemnly </B><I>He swore solemnly that he would never hit her again. </I><B>| on oath </B> </P>
+<P> <U> VERB + SWEAR </U><B> be prepared to </B><I>I would be prepared to swear on oath that they didn't see me. </I><B>| make sb </B><I>He made her swear on the Bible that she wouldn't leave him. </I> </P>
+<P> <U> PREP. </U><B> by </B><I>I swear by Almighty God to tell the truth. </I><B>| to </B><I>I swear to you, I don't know anything. </I> </P>
+<P> <U> PHRASES </U><B> swear sb to secrecy/silence </B><I>We were all sworn to secrecy about the plan. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>swear word </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bad, strong </B><I>That's one of the strongest swear words in Spanish. </I><B>| mild </B> </P>
+<P> <U> QUANT. </U><B> string </B> </P>
+<P> <U> VERB + SWEAR WORD </U><B> use | mouth, mutter </B><I>He mouthed a swear word at me through the window. </I><B>| leave out </B><I>I left out the swear words when I told the boss what the staff had said about him. </I> </P>
+</DIV>

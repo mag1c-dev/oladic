@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>part </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece/area/period/division, etc. of sth </TT> </P>
+<P> <U> ADJ. </U><B> big, good, greater, large, major, significant, substantial </B><I>We spent a good part of the day rehearsing. The greater part of the building has been refurbished. </I><B>| minor, small | equal </B><I>Cut it into four equal parts. </I><B>| important, main, principal | basic, central, essential, fundamental, indispensable, vital | integral, intrinsic | separate | inseparable | component, constituent | best | worst </B><I>The worst part was having to wait three hours. </I><B>| difficult, hard </B><I>I gave up once I got to the hard part. </I><B>| easy | early </B><I>In the early part of his career he worked in India. </I><B>| latter </B><I>the latter part of the century </I><B>| different, distinct, various | foreign </B><I>travellers returning from foreign parts </I><B>| separate | inseparable | component, constituent </B><I>Break it down into its constituent parts. </I><B>| private </B>(= sexual organs)  </P>
+<P> <U> VERB + PART </U><B> constitute, fall into, form </B><I>The book falls into three distinct parts. </I><B>| break sth down into, divide sth into, split sth into </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Your salary depends in part on your qualifications. The film is good in parts. a serial in four parts </I><B>| ~ of </B><I>Part of me wants to stay and part of me doesn't. </I> </P>
+<P> <U> PHRASES </U><B> the parts of the body </B> </P>
+<P> <SUP> 2 </SUP> <TT> a piece of a machine </TT> </P>
+<P> <U> ADJ. </U><B> spare </B><I>Where can I get spare parts for my bike? </I> </P>
+<P> <SUP> 3 </SUP> <TT> role in a play, film, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big, leading | bit, small, walk-on | speaking </B> </P>
+<P> <U> VERB + PART </U><B> have, play, take | learn | look </B><I>He was a pirate in the school play and certainly looked the part. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>He's very good in the part. </I><B>| ~ of </B><I>She played the part of Juliet. </I> </P>
+<P> <SUP> 4 </SUP> <TT> share in an activity, event, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big, leading, major </B><I>Luck played a big part in it. </I><B>| minor | central, significant, vital | active </B> </P>
+<P> <U> VERB + PART </U><B> have </B><I>He had no part in the scam. </I><B>| do, play, take </B><I>She did her part in bringing them back together. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>They took little part in the discussion. </I> </P>
+</DIV>

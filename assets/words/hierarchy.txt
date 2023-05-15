@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hierarchy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complex | rigid, strict </B><I>the rigid class hierarchy of rural society </I><B>| administrative, bureaucratic, corporate, management, managerial, organizational | class, social | church, ecclesiastical | party, political </B><I>high up in the party hierarchy </I><B>| military </B> </P>
+<P> <U> VERB + HIERARCHY </U><B> create, establish </B><I>A new management hierarchy was created within the company. </I><B>| move up, rise in/through </B><I>He joined the party in 1966 and quickly moved up the hierarchy. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She is above me in the hierarchy. </I><B>| within a/the ~ </B><I>There was a range of opinion within the ecclesiastical hierarchy on the issue. </I><B>| ~ of </B><I>There was a clear hierarchy of power in the company. </I> </P>
+<P> <U> PHRASES </U><B> sb's level/position/status in a hierarchy</B> </P>
+</DIV>

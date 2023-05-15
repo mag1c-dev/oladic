@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>successful </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, prove, seem | become </B> </P>
+<P> <U> ADV. </U><B> astonishingly, enormously, extremely, highly, hugely, outstandingly, particularly, phenomenally, remarkably, spectacularly, very </B><I>his phenomenally successful period as manager </I><B>| not entirely </B><I>Their attempts had not been entirely successful. </I><B>| fairly, moderately, partially, quite, rather, relatively </B><I>The operation was only partially successful. </I><B>| academically, commercially, politically </B><I>a politically successful manoeuvre </I> </P>
+<P> <U> PREP. </U><B> at </B><I>Though a top-rated movie star he has been remarkably successful at keeping his private life private. </I><B>| in </B><I>hoping their party would be successful in the elections </I> </P>
+</DIV>

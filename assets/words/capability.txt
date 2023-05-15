@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>capability </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> enormous | limited </B><I>The company's manufacturing capability is quite limited. </I><B>| potential | proven </B><I>the proven capability of this technology </I><B>| human </B><I>beyond the scope of human capability </I><B>| intellectual, mental | technical, technological | manufacturing, production | research | computing, design, graphics, multimedia, networking, printing, processing, sound, video | defence, fighting, military, missile, nuclear, offensive, weapons </B> </P>
+<P> <U> VERB + CAPABILITY </U><B> have </B><I>She has the capability to become a very fine actress. </I><B>| increase </B><I>The government wants to increase its military capability. </I><B>| lose </B> </P>
+<P> <U> PREP. </U><B> beyond your ~ </B><I>Organizing a whole department is beyond his capability. </I><B>| within your ~ </B><I>I'm sure that your new job is well within your capabilities. </I><B>| ~ for </B><I>her capability for making sensible decisions </I> </P>
+</DIV>

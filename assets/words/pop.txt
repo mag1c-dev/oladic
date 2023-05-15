@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>pop </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> short sharp sound </TT> </P>
+<P> <U> ADJ. </U><B> loud | sudden </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The cork came out with a loud pop. </I> </P>
+<P> <SUP> 2 </SUP> <TT> popular music </TT> </P>
+<P> <U> ADJ. </U><B> classic, melodic, psychedelic </B> </P>
+<P> <U> VERB + POP </U><B> play | listen to </B> </P>
+<P> <U> POP + NOUN </U><B> classic, hit, music, song, tune | artist, singer, star | band, group | concert, festival | record, video | fan | charts | culture </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He was an important figure in pop during the seventies. </I> </P>
+</DIV>

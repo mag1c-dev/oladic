@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>organized </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> arranged/planned </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, strongly, very </B><I>Although it doesn't look like it, the whole thing is highly organized. </I><B>| carefully, efficiently, properly, superbly, well | badly, poorly | minutely, neatly | rigidly, tightly | loosely, weakly </B><I>a loosely organized confederacy of allies </I><B>| specially </B><I>a specially organized programme of sightseeing and shopping </I><B>| centrally, locally, nationally | faintly | separately | independently, privately | formally </B><I>Often there is no formally organized system of childcare. </I><B>| traditionally | systematically | hierarchically, sequentially </B><I>Each department is hierarchically organized. </I><B>| socially </B> </P>
+<P> <SUP> 2 </SUP> <TT> able to plan things well </TT> </P>
+<P> <U> VERBS </U><B> be, seem | get </B><I>You need to get organized. </I> </P>
+<P> <U> ADV. </U><B> extremely, highly, very | fairly</B> </P>
+</DIV>

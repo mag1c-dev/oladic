@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>assured </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> confident </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, rest, seem </B><I>You can rest assured that your children are in good hands. </I> </P>
+<P> <U> ADV. </U><B> very </B><I>Although the situation was tense, her voice was calm and very assured. </I><B>| totally </B> </P>
+<P> <SUP> 2 </SUP> <TT> certain to happen </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem </B> </P>
+<P> <U> ADV. </U><B> absolutely | virtually</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mascara </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> thick | waterproof </B> </P>
+<P> <U> VERB + MASCARA </U><B> wear | apply, put on | remove | smudge </B><I>Her tears had smudged her mascara. </I> </P>
+<P> <U> MASCARA + VERB </U><B> run, smudge </B> </P>
+<P> <U> MASCARA + NOUN </U><B> brush, wand</B> </P>
+</DIV>

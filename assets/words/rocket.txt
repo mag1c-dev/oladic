@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>rocket </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> spacecraft </TT> </P>
+<P> <U> ADJ. </U><B> space </B> </P>
+<P> <U> VERB + ROCKET </U><B> launch | go/send into orbit </B> </P>
+<P> <U> ROCKET + VERB </U><B> blast off, take off | land </B> </P>
+<P> <U> ROCKET + NOUN </U><B> booster, engine | fuel | scientist </B><I>(often humorous) You don't have to be a rocket scientist </I>(= very clever) </B><I>to do this job. </I> </P>
+<P> <SUP> 2 </SUP> <TT> weapon </TT> </P>
+<P> <U> ADJ. </U><B> long-range | anti-aircraft, anti-tank </B> </P>
+<P> <U> VERB + ROCKET </U><B> fire </B> </P>
+<P> <U> ROCKET + VERB </U><B> explode </B> </P>
+<P> <U> ROCKET + NOUN </U><B> attack | launcher</B> </P>
+</DIV>

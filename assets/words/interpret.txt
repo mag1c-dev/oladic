@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>interpret </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> correctly, rightly | wrongly | differently </B><I>Different people might interpret events differently. </I><B>| clearly | broadly, liberally </B><I>The term &lsquo;business&rsquo; is here interpreted broadly to include all types of organization in the public and private sectors. The strictness of the rules, even when liberally interpreted, has the effect of restricting innovation. </I><B>| narrowly, restrictively, strictly | literally | metaphorically </B><I>It is context and convention that determine whether a term will be interpreted literally or metaphorically. </I><B>| easily, readily </B><I>These figures cannot be easily interpreted. </I><B>| cautiously </B><I>These results must be interpreted cautiously. </I> </P>
+<P> <U> VERB + INTERPRET </U><B> be difficult to, be hard to | be able/unable to | seek to, try to </B><I>We all seek to interpret what we hear and what we read. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>Her message was interpreted as a warning to the general. </I> </P>
+<P> <U> PHRASES </U><B> be variously interpreted (as sth) </B><I>The figure of the Ancient Mariner has been variously interpreted </I>(= interpreted in various different ways)</B><I>. </I><B>| be widely interpreted as sth </B><I>Her resignation has been widely interpreted as an admission of her guilt. </I> </P>
+</DIV>

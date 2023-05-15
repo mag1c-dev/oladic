@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>estate </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> land owned by a person/family/organization </TT> </P>
+<P> <U> ADJ. </U><B> big, great, large, substantial, vast | small </B> </P>
+<P> <U> VERB + ESTATE </U><B> have, own </B><I>The family owns a large estate in the north of the country. </I><B>| buy </B><I>Queen Victoria bought the estate in 1848. </I><B>| manage, run </B> </P>
+<P> <U> ESTATE + NOUN </U><B> employee, manager, owner, worker | management </B> </P>
+<P> <U> PREP. </U><B> on an/the ~ </B><I>the number of people living on the estate </I><B>| ~ of </B><I>an estate of 20,000 acres </I> </P>
+<P> <U> PHRASES </U><B> an heir to an estate </B><I>The young prince is the heir to a vast estate in the west of the country. </I> </P>
+<P> <SUP> 2 </SUP> <TT> land with a lot of buildings of the same type </TT> </P>
+<P> <U> ADJ. </U><B> large, massive | small | council, housing | private | industrial, trading </B><I>The factory is on a large industrial estate on the outskirts of town. </I> </P>
+<P> <U> VERB + ESTATE </U><B> build </B> </P>
+<P> <U> PREP. </U><B> on an/the ~ </B><I>She lives on a council estate in Leeds. </I> </P>
+<P> <SUP> 3 </SUP> <TT> property that sb leaves when they die </TT> </P>
+<P> <U> ADJ. </U><B> personal </B> </P>
+<P> <U> VERB + ESTATE </U><B> leave </B><I>She left her whole estate to her niece. </I><B>| inherit </B><I>She inherited her father's estate. </I><B>| own </B><I>He owns personal estate worth $30 million. </I> </P>
+<P> <U> ESTATE + VERB </U><B> be valued at sth, be worth sth</B> </P>
+</DIV>

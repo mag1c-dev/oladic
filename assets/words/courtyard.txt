@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>courtyard </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> central, inner, interior, internal | outer | enclosed, walled | open | cobbled, paved </B> </P>
+<P> <U> VERB + COURTYARD </U><B> surround </B><I>The courtyard is surrounded on three sides by stables. </I> </P>
+<P> <U> PREP. </U><B> around a/the ~ </B><I>The hotel is built around a paved central courtyard. </I><B>| in a/the ~ </B><I>sitting in the inner courtyard of the college </I> </P>
+</DIV>

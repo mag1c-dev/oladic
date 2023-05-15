@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>bail </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> conditional, unconditional | police </B> </P>
+<P> <U> VERB + BAIL </U><B> apply for | allow sb, give sb, grant (sb) </B><I>She has been granted conditional bail. </I><B>| set </B><I>The judge set bail at </I>&pound;</B><I>50,000. </I><B>| get </B><I>She couldn't get bail and now she's lost those 20 months she spent on remand. </I><B>| oppose </B><I>The police were successful in opposing bail. </I><B>| refuse (sb) | post, put up, stand </B><I>A wealthy businessman has stood bail for him. </I><B>| free sb on, release sb on, remand sb on </B><I>They were released on police bail pending further enquiries. </I><B>| jump, skip </B>(= not return for your trial after bail has been granted)  </P>
+<P> <U> BAIL + NOUN </U><B> application | conditions | hostel </B><I>He was sent to a bail hostel until the case came to court. </I> </P>
+<P> <U> PREP. </U><B> (out) on ~ </B><I>He committed another robbery while out on bail. </I><B>| without ~ </B><I>The accused were held without bail. </I> </P>
+<P> <U> PHRASES </U><B> an application for bail</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>zip </B><I>noun </I> </P>
+<P> <U> VERB + ZIP </U><B> close, do up, fasten, pull (up), slide (up) | open, pull (down), slide (down), undo | get caught in </B><I>The fabric got caught in the zip and tore. </I> </P>
+<P> <U> ZIP + VERB </U><B> be/get stuck, stick </B><I>The zip on my bag has stuck. </I><B>| break | be open, be undone </B> </P>
+<P> <U> ZIP + NOUN </U><B> fastener </B> </P>
+<P> <U> PREP. </U><B> by a ~ </B><I>The jacket was fastened by a zip at the front. </I><B>| with a ~ </B><I>a bag with a zip </I><B>| ~ on </B>  </B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>illiteracy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> widespread </B><I>Illiteracy was widespread at that time. </I> </P>
+<P> <U> QUANT. </U><B> level, rate </B> </P>
+<P> <U> ILLITERACY + NOUN </U><B> rate </B><I>Illiteracy rates have fallen in recent years. </I> </P>
+</DIV>

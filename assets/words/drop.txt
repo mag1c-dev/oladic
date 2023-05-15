@@ -1,0 +1,35 @@
+
+<DIV class="item"><P class="word"><B>drop </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> reduction </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, dramatic, huge, large, massive, significant, substantial | slight, small | rapid, sharp, sudden | steady | catastrophic </B> </P>
+<P> <U> VERB + DROP </U><B> suffer </B><I>The restaurant has suffered a big drop in trade. </I><B>| cause, lead to </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>The glut of coffee led to a sharp drop in prices. </I> </P>
+<P> <SUP> 2 </SUP> <TT> vertical distance down from a place </TT> </P>
+<P> <U> ADJ. </U><B> sheer, steep, vertical </B><I>The cliff plunged in a sheer drop down to the beach. </I><B>| long </B> </P>
+<P> <SUP> 3 </SUP> <TT> small round mass of liquid </TT> </P>
+<P> <U> DROP + VERB </U><B> fall </B><I>Great drops of rain started to fall. </I><B>| roll down sth </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Large drops of sweat rolled down her face. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>drop </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> allow sth to fall </TT> </P>
+<P> <U> ADV. </U><B> accidentally, carelessly | almost, nearly | promptly </B><I>He saw Emma and promptly dropped his tray of drinks. </I> </P>
+<P> <U> PREP. </U><B> in/into, on/onto </B><I>I accidentally dropped my glasses into the water. </I> </P>
+<P> <SUP> 2 </SUP> <TT> jump/move downwards </TT> </P>
+<P> <U> ADV. </U><B> heavily | gently, lightly | quickly | limply, uselessly </B><I>His arms dropped uselessly to his sides. </I><B>| down, open </B><I>Her mouth dropped open in disbelief. </I> </P>
+<P> <U> VERB + DROP </U><B> let sth </B><I>She smiled and let her eyes drop again. </I><B>| be/feel ready to </B><I>I feel ready to drop </I>(= because I am so tired)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> into, onto, to </B><I>He dropped lightly down onto the lawn beneath. </I> </P>
+<P> <U> PHRASES </U><B> drop like a stone </B><I>(figurative) Her heart dropped like a stone at this news. </I> </P>
+<P> <SUP> 3 </SUP> <TT> become lower </TT> </P>
+<P> <U> ADV. </U><B> considerably, dramatically, drastically, sharply, significantly </B><I>The price of oil has dropped significantly. </I><B>| slightly | fast, rapidly | steadily | further </B> </P>
+<P> <U> VERB + DROP </U><B> be likely/unlikely to </B><I>Sales are likely to drop further. </I> </P>
+<P> <U> PREP. </U><B> below </B><I>The temperature rarely drops below 30&deg;C. </I><B>| by </B><I>The price has dropped by 15 per cent. </I><B>| from, to </B><I>The number of children in the class has dropped from 25 to 18. </I> </P>
+<P> <SUP> 4 </SUP> <TT> slope downwards </TT> </P>
+<P> <U> ADV. </U><B> sharply, steeply | away </B> </P>
+<P> <U> PREP. </U><B> into/to/towards </B><I>The land dropped steeply away into a small valley. </I> </P>
+<P> <SUP> 5 </SUP> <TT> no longer include sb in sth </TT> </P>
+<P> <U> ADV. </U><B> quietly </B> </P>
+<P> <U> PREP. </U><B> from </B><I>He has been quietly dropped from the England team. </I><B>| in favour of </B> </P>
+<P> <SUP> 6 </SUP> <TT> stop doing sth/be stopped </TT> </P>
+<P> <U> ADV. </U><B> quietly </B><I>The subject was quietly dropped. </I><B>| suddenly </B><I>He suddenly dropped his habitual banter. </I><B>| eventually, finally | altogether </B><I>When nobody volunteered, the idea was finally dropped altogether. </I> </P>
+<P> <U> VERB + DROP </U><B> let sth </B><I>Can't we just let the matter drop? </I><B>| agree to, decide to </B><I>Both countries have agreed to drop border controls. </I> </P>
+<P> <U> PREP. </U><B> in favour of </B><I>The formal grade of Geologist was dropped in favour of Scientific Officer. </I> </P>
+</DIV>

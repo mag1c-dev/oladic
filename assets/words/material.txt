@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>material </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> substance </TT> </P>
+<P> <U> ADJ. </U><B> combustible, flammable, hazardous, inflammable, radioactive, toxic | recyclable | man-made </B> </P>
+<P> <SUP> 2 </SUP> <TT> things for making sth </TT> </P>
+<P> <U> ADJ. </U><B> raw </B><I>Higher raw material costs have pushed up the price of many manufactured goods. </I><B>| industrial | building </B><I>a storeroom full of building materials </I><B>| drawing, writing </B><I>Prisoners were not allowed writing materials. </I> </P>
+<P> <SUP> 3 </SUP> <TT> cloth </TT> </P>
+<P> <U> ADJ. </U><B> thick, thin | coarse, fine | woven </B> </P>
+<P> <U> QUANT. </U><B> length, piece, roll, scrap, strip </B><I>A patchwork quilt is a good way of using up scraps of material. </I> </P>
+<P> <SUP> 4 </SUP> <TT> written matter </TT> </P>
+<P> <U> ADJ. </U><B> fascinating, good, relevant, useful | source </B><I>The letter were used as source material in this new biography. </I><B>| classified, confidential, sensitive | unpublished | educational, instructional, promotional, teaching | biographical, historical | indecent, obscene, pornographic </B><I>He was convicted of importing indecent material. </I> </P>
+<P> <U> VERB + MATERIAL </U><B> collect, find, gather, get hold of </B><I>He's collecting material for a new book on space travel. I can't find any relevant material on him in the library. </I><B>| contain, include </B><I>This new biography contains a wealth of previously unpublished material. </I><B>| produce, publish </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>useful material for a documentary </I><B>| ~ on </B><I>original material on the First World War </I> </P>
+</DIV>

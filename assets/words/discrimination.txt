@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>discrimination </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> treating a person/group unfairly </TT> </P>
+<P> <U> ADJ. </U><B> age, class, gender, race/racial, religious, sex/sexual | widespread </B><I>There is widespread discrimination against doctors of Asian origin. </I><B>| active, blatant, direct, explicit, overt </B><I>evidence of active discrimination against black workers </I><B>| covert, indirect | positive, reverse </B><I>positive discrimination in favour of disadvantaged racial groups </I><B>| illegal, unlawful </B><I>Overt sex or race discrimination is illegal. </I><B>| employment, job | government, institutional/institutionalized </B><I>institutionalized discrimination against women within the police force </I> </P>
+<P> <U> QUANT. </U><B> level </B><I>Levels of discrimination against recent immigrants are high. </I> </P>
+<P> <U> VERB + DISCRIMINATION </U><B> amount to, constitute </B><I>Racist remarks by an employer to an employee can amount to unlawful discrimination. </I><B>| experience, face, suffer (from) </B><I>Many disabled people suffer discrimination at work. </I><B>| practise | allege </B><I>law suits alleging discrimination </I><B>| be opposed to, combat, fight | ban, end, forbid, outlaw, prohibit, stop </B> </P>
+<P> <U> DISCRIMINATION + VERB </U><B> occur </B><I>The discrimination occurred at the shortlisting stage, not the interviews. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>discrimination against women </I><B>| ~ by </B><I>Discrimination by age is as vicious as discrimination by race. </I><B>| ~ in favour of </B><I>Some firms practise discrimination in favour of older people. </I><B>| ~ on the grounds of </B><I>It's time we banned discrimination on the grounds of age. </I> </P>
+<P> <U> PHRASES </U><B> a victim of discrimination </B> </P>
+<P> <SUP> 2 </SUP> <TT> judgement </TT> </P>
+<P> <U> ADJ. </U><B> great | careful, fine </B> </P>
+<P> <U> VERB + DISCRIMINATION </U><B> make </B><I>Young children find it difficult to make fine discriminations. </I><B>| show </B><I>She showed great discrimination in rejecting the poor quality teas. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>discrimination between right and wrong </I> </P>
+</DIV>

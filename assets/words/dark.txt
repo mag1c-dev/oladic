@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>dark </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look | get, go, grow </B><I>It gets dark at about six o'clock. Suddenly the whole sky went dark. As it grew dark, they gathered round the fire. </I><B>| remain, stay </B> </P>
+<P> <U> ADV. </U><B> very | completely | almost, nearly </B><I>It's only three o'clock and it's nearly dark already. </I><B>| quite, rather</B> </P>
+</DIV><DIV class="item"><P class="word"><B>dark </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pitch </B><I>I fumbled for the light switch in the pitch dark. </I><B>| gathering </B><I>We could just make out some figures in the gathering dark. </I> </P>
+<P> <U> PREP. </U><B> after ~ </B><I>The girls weren't allowed out after dark. </I><B>| before ~ </B><I>We'd better try and finish this job before dark. </I><B>| in the ~ </B><I>I hate getting up in the dark. </I> </P>
+<P> <U> PHRASES </U><B> afraid of the dark </B><I>Many small children are afraid of the dark. </I> </P>
+</DIV>

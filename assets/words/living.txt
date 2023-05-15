@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>living </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> comfortable, decent, good </B><I>He makes a good living as a builder. </I><B>| meagre </B><I>She eked out a meagre living as an artist's model. </I> </P>
+<P> <U> VERB + LIVING </U><B> earn, make </B><I>Her dream was to earn her living as a singer. </I><B>| eke out, scrape (together), scratch </B><I>They were forced to scrape a living by selling things on the streets. </I><B>| do sth for </B><I>He asked what I did for a living. </I> </P>
+</DIV>

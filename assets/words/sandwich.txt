@@ -1,0 +1,8 @@
+
+<div class="item"><p class="word first"><b>sandwich </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> cheese, ham, etc. | toasted | open | club </b></div></p>
+<p> <u> QUANT. </u><div class="ex"><b> round </b></div></p>
+<p> <u> VERB + SANDWICH </u><div class="ex"><b> make </b></div><div class="excontent"><i>He made two rounds of tuna sandwiches. </i></div><div class="ex"><b>| bite into, eat, have, munch, take a bite of </b></div></p>
+<p> <u> SANDWICH + NOUN </u><div class="ex"><b> filling | bag, box | bar </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> in a/the ~ </b></div><div class="excontent"><i>What would you like in your sandwich? </i> </div></p>
+</div>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>fly </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> insect </TT> </P>
+<P> <U> VERB + FLY </U><B> swat </B><I>I swatted the fly with a newspaper. </I> </P>
+<P> <U> FLY + VERB </U><B> buzz </B><I>A fly was buzzing against the window. </I><B>| crawl | land (on sth), settle (on sth) </B><I>A fly settled on the butter. </I> </P>
+<P> <U> FLY + NOUN </U><B> larva | repellent, spray </B> </P>
+<P> <SUP> 2 </SUP> <TT> (also flies) on trousers </TT> </P>
+<P> <U> ADJ. </U><B> button/button-up, zip/zipped </B> </P>
+<P> <U> VERB + FLY </U><B> button (up), do up, zip up | undo, unzip </B><I>Do you know your flies are undone? </I> </P>
+<P> <U> FLY + NOUN </U><B> button </B>  </B> </P>
+</DIV><DIV class="item"><P class="word"><B>fly </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> high, low | fast, slowly | about, around, past </B> </P>
+<P> <U> PREP. </U><B> above </B><I>We watched the birds flying high above us. </I><B>| over </B><I>an aeroplane flying low over the sea </I> </P>
+</DIV>

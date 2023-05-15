@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>emission </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> harmful, noxious, toxic | gaseous | exhaust, vehicle | industrial | atmospheric | acid, carbon, carbon dioxide, lead, sulphur, sulphur dioxide, etc. </B> </P>
+<P> <U> VERB + EMISSION </U><B> cut, reduce </B><I>We must take action to cut vehicle emissions. </I><B>| control, limit, stabilize </B> </P>
+<P> <U> EMISSION + VERB </U><B> increase | decrease, fall </B> </P>
+<P> <U> EMISSION + NOUN </U><B> levels </B> </P>
+<P> <U> PREP. </U><B> ~s from </B><I>measures to reduce harmful emissions from traffic </I> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>mask </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> cover for sb's face </TT> </P>
+<P> <U> ADJ. </U><B> face | gas | oxygen | surgical | Hallowe'en </B> </P>
+<P> <U> VERB + MASK </U><B> have on, wear | put on | pull off, remove, strip off, take off, tear off </B><I>In the second part of the play, the actors take off their masks. </I> </P>
+<P> <U> MASK + VERB </U><B> cover sth </B> </P>
+<P> <U> PREP. </U><B> behind/beneath a/the ~ </B><I>Two eyes glared at him from beneath the mask. </I><B>| in a/the ~ </B><I>two men in black masks </I><B>| ~ over </B><I>She wore a mask over her face. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that hides sb's real feelings </TT> </P>
+<P> <U> ADJ. </U><B> blank, cold, expressionless, grim, rigid </B><I>Her face was a blank mask as she answered my question. </I> </P>
+<P> <U> MASK + VERB </U><B> slip </B><I>For a moment her mask slipped, and I saw how scared she really was. </I> </P>
+<P> <U> PREP. </U><B> behind a/the ~ </B><I>Behind the mask of friendliness, I know he really dislikes me. </I><B>| ~ for </B><I>His fooling around is a mask for his lack of confidence. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>mask </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely, entirely, quite, totally | partly | barely | effectively </B> </P>
+<P> <U> VERB + MASK </U><B> tend to </B><I>Wood stains provide good protection but tend to mask the natural grain of the wood. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She masked her anger with a smile. </I> </P>
+</DIV>

@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>title </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> name of a book, film, etc. </TT> </P>
+<P> <U> ADJ. </U><B> book, essay, film, song </B> </P>
+<P> <U> VERB + TITLE </U><B> give sth </B> </P>
+<P> <U> TITLE + NOUN </U><B> page | role </B><I>He played the title role in &lsquo;Hamlet&rsquo;. </I><B>| track </B><I>&lsquo;Birth&rsquo;, the title track of his latest album </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>She published her poetry under the title &lsquo;The Land and the Garden&rsquo;. </I> </P>
+<P> <SUP> 2 </SUP> <TT> book, magazine, etc. </TT> </P>
+<P> <U> ADJ. </U><B> new </B><I>Forty per cent of new titles were actually new editions of existing books. </I><B>| best-selling </B> </P>
+<P> <U> VERB + TITLE </U><B> publish </B><I>The company is publishing fewer titles than last year. </I> </P>
+<P> <SUP> 3 </SUP> <TT> name of a rank/profession </TT> </P>
+<P> <U> ADJ. </U><B> grand, long </B><I>She bears the grand title &lsquo;Divisional President of the Finances Committee&rsquo;. </I><B>| courtesy, diplomatic, honorary, honorific, official </B><I>&lsquo;Mrs&rsquo; was a courtesy title for any unmarried woman in business at that time. &lsquo;Minister&rsquo; is one of several diplomatic titles. </I><B>| job </B><I>His job title is Special Projects Officer. </I><B>| full </B><I>Victor Oldenburg, or Count Victor Oldenburg and Hess, to give him his full title </I> </P>
+<P> <U> VERB + TITLE </U><B> bear, have, inherit </B><I>She has a title </I>(= is of noble birth)</B><I>. </I><B>| award, bestow, confer </B><I>The king bestowed lands and titles upon his followers. </I> </P>
+<P> <SUP> 4 </SUP> <TT> championship win </TT> </P>
+<P> <U> ADJ. </U><B> European, national, world, etc. | championship, French Open, Premier League, etc. | heavyweight, middleweight, etc. </B> </P>
+<P> <U> VERB + TITLE </U><B> clinch, win </B><I>Deportivo clinched the title with a goal in the final seconds of the last game of the season. </I><B>| hold </B><I>He held the world heavyweight title until last year. </I><B>| defend | retain | lose </B> </P>
+<P> <U> TITLE + NOUN </U><B> challenge, fight, match </B><I>He has been building up fitness for his world title challenge. </I><B>| holder </B></B> </P>
+</DIV>

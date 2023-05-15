@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>figure </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> amount/price </B> </TT> </P>
+<P> <U> ADJ. </U><B> high | low | double, single | accurate, exact | approximate, ballpark, rough, round | real, reliable, true | official | latest |  inflated | target | sales, trade, unemployment, viewing, etc. </B> </P>
+<P> <U> VERB + FIGURE </U><B> reach </B><I>The rate of inflation has now reached double figures. </I><B>| add (together/up) | release </B><I>The government has just released new unemployment figures. </I> </P>
+<P> <U> FIGURE + VERB </U><B> add up </B><I>These figures don't add up. </I><B>| be bandied about </B><I>Lots of different figures were being bandied about. </I> </P>
+<P> <U> PHRASES </U><B> according to (the) figures </B><I>The industry remains in the doldrums, according to official figures out today. </I><B>| in round figures 2 figures </B>arithmetic </B> </P>
+<P> <U> PHRASES </U><B> good/bad at figures </B><I>I was never very good at figures. </I><B>| have a head for figures </B> </P>
+<P> <SUP> 3 </SUP> <TT> person </TT> </P>
+<P> <U> ADJ. </U><B> great | central, important, influential, key, leading, prominent, respected, well-known </B><I>a key figure on the committee </I><B>| public | national | senior | familiar </B><I>He was a familiar figure in the local pub. </I><B>| unlikely </B><I>They were visited by the unlikely figure of Bill Clinton. </I><B>| authority, dominant | father, mother, parental | tragic | comic, ridiculous | cult, legendary | historical | political, religious | government, opposition </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a figure of authority/fun </I> </P>
+<P> <SUP> 4 </SUP> <TT> shape of a person </TT> </P>
+<P> <U> ADJ. </U><B> life-size | dark, shadowy | seated, standing, etc. </B><I>The seated figure in the corner beckoned me over. </I><B>| central </B><I>the central figure in the photo </I><B>| solitary | human </B> </P>
+<P> <U> FIGURE + NOUN </U><B> painter, painting </B> </P>
+<P> <SUP> 5 </SUP> <TT> shape of sb's body </TT> </P>
+<P> <U> ADJ. </U><B> beautiful, fine, good, handsome, hour-glass, lovely </B><I>She's still got a lovely figure. </I><B>| slender, slim | ample, bulky, full, large, stocky | tall | dashing, imposing, striking | neat, slight, small, tiny, trim | lithe </B> </P>
+<P> <U> VERB + FIGURE </U><B> cut, have </B><I>He cut a dashing figure in his uniform. </I><B>| keep </B><I>She's kept her figure after all these years. </I><B>| watch </B><I>You need to watch your figure. </I><B>| lose </B> </P>
+<P> <U> PHRASES </U><B> a fine figure of a man/woman </B> </P>
+<P> <SUP> 6 </SUP> <TT> picture/diagram </TT> </P>
+<P> <U> VERB + FIGURE </U><B> see </B><I>See Figure 8. </I> </P>
+<P> <U> FIGURE + VERB </U><B> show sth </B> </P>
+</DIV><DIV class="item"><P class="word"><B>figure </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> largely, prominently, significantly, strongly | hardly, scarcely </B><I>Vegetables hardly figure at all in their diet. </I> </P>
+<P> <U> PREP. </U><B> among </B><I>This man did not figure among the suspects. </I><B>| in </B><I>The issue figured prominently in our discussion. </I> </P>
+</DIV>

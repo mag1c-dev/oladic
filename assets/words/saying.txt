@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>saying </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> well-known | old, traditional | favourite </b></div><div class="excontent"><i>It was one of my mother's favourite sayings. </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> ~ about </b></div><div class="excontent"><i>traditional sayings about the weather </i> </div></p>
+<p> <u> PHRASES </u><div class="ex"><b> as the saying goes </b></div><div class="excontent"><i>‘Practice makes perfect,’ as the old saying goes. </i> </div></p>
+</div>

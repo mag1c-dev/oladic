@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>left </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> side </TT> </P>
+<P> <U> ADJ. </U><B> extreme, far </B><I>My dad's in the front row, on the extreme left of the picture. </I> </P>
+<P> <U> VERB + LEFT </U><B> turn to </B><I>If you turn to your left you will see the parliament building. </I> </P>
+<P> <U> PREP. </U><B> from the ~ </B><I>The car came from the left. </I><B>| on the/your ~ </B><I>The bank is on the left, just after the post office. As you go in the door, you'll see it on your left. </I><B>| on the ~ of </B><I>The car park is on the left of the library. </I><B>| to the/your ~ </B><I>He looked to the left and then crossed. </I><B>| to the ~ of </B><I>My office is just to the left of the main door. </I> </P>
+<P> <U> PHRASES </U><B> from left to right; from right to left </B><I>Arabic script reads from right to left. </I></P>
+<P> <SUP> 2 </SUP> <TT> the left: political groups  </TT> </P>
+<P> <U> ADJ. </U><B> extreme, far </B> </P>
+<P> <U> PREP. </U><B> of the ~ </B><I>In recent years the country has been ruled only by governments of the left. </I><B>| on the ~ </B><I>They're both on the extreme left of the party. </I><B>| to the ~ </B><I>The party has moved further to the left. He is somewhat to the left of the previous leader. </I> </P>
+</DIV>

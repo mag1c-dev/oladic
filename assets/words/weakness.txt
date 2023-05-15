@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>weakness </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lack of strength </TT> </P>
+<P> <U> ADJ. </U><B> big, fundamental, great, major, serious, significant | small | physical | structural | personal | muscular | political | apparent, perceived </B><I>exploiting apparent weaknesses in the system </I><B>| inherent | human </B> </P>
+<P> <U> VERB + WEAKNESS </U><B> have, suffer from | cause, create | exploit | assess, identify | highlight, point out, reveal | minimize, overcome </B> </P>
+<P> <U> WEAKNESS + VERB </U><B> be, lie </B><I>The greatest weakness of the scheme lies in its lack of government support. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Service conditions soon revealed the inherent weaknesses in the vehicle's design. </I> </P>
+<P> <U> PHRASES </U><B> a moment of weakness </B><I>In a moment of weakness I let him drive my car. </I><B>| a sign of weakness </B><I>He saw compromise as a sign of weakness. </I><B>| strengths and weaknesses </B><I>The appraisal system seeks to assess employees' strengths and weaknesses. </I> </P>
+<P> <SUP> 2 </SUP> <TT> liking for sth/sb </TT> </P>
+<P> <U> ADJ. </U><B> real </B> </P>
+<P> <U> VERB + WEAKNESS </U><B> have </B><I>I've got a real weakness for chocolate. </I><B>| develop | overcome </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>He worries a lot about his weight, but can't overcome his weakness for fatty foods. </I> </P>
+</DIV>

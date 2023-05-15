@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>familiarity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> knowing sb/sth well </TT> </P>
+<P> <U> ADJ. </U><B> detailed, greater, intimate | basic </B> </P>
+<P> <U> VERB + FAMILIARITY </U><B> have </B><I>I had only a basic familiarity with computers. </I><B>| acquire, gain </B><I>Over the years, he gained greater familiarity with the culture and way of life in the country. </I> </P>
+<P> <U> PREP. </U><B> ~ with </B><I>her detailed familiarity with her subject </I> </P>
+<P> <U> PHRASES </U><B> a lack of familiarity </B> </P>
+<P> <SUP> 2 </SUP> <TT> friendly informal manner </TT> </P>
+<P> <U> ADJ. </U><B> easy </B><I>He treated her with the easy familiarity of an equal. </I> </P>
+</DIV>

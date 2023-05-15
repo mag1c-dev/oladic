@@ -1,0 +1,34 @@
+
+<DIV class="item"><P class="word"><B>mark </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> spot/line </TT> </P>
+<P> <U> ADJ. </U><B> dirty, grease, greasy, grubby  | visible | distinguishing, identifying </B><I>Does he have any distinguishing marks? </I><B>| chalk,  pencil | bite, burn, claw, finger (also fingermark), scorch, scratch, scuff, skid, stretch, tyre </B> </P>
+<P> <U> VERB + MARK </U><B> get </B><I>How did you get that mark on your shirt? </I><B>| leave, make </B><I>The dirty water left a mark round the side of the bath. </I><B>| get off/out, remove </B><I>I can't get the children's dirty fingermarks off the wall. </I> </P>
+<P> <U> MARK + VERB </U><B> come off/out </B><I>These greasy marks just won't come out. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>There were grubby marks on the wall. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sign of a quality/feeling </TT> </P>
+<P> <U> ADJ. </U><B> deep, indelible, permanent </B><I>The experience left a deep mark on her memory. </I><B>| real </B><I>the real mark of a master craftsman </I> </P>
+<P> <U> VERB + MARK </U><B> bear, have | leave </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Such thoughtful behaviour is the mark of a true gentleman. </I> </P>
+<P> <U> PHRASES </U><B> as a mark of respect </B> </P>
+<P> <SUP> 3 </SUP> <TT> used to show the standard of sb's work </TT> </P>
+<P> <U> ADJ. </U><B> good, high | bad, low, poor | full </B><I>I got full marks for my homework. </I><B>| top | pass </B><I>What's the pass mark in maths? </I><B>| total | average </B> </P>
+<P> <U> VERB + MARK </U><B> get | give sb | take off </B><I>She took off a mark for bad handwriting. </I><B>| gain | lose </B> </P>
+<P> <U> PREP. </U><B> above &hellip; ~s, below &hellip; ~s </B><I>If you get below 40 marks, you're not allowed to go up into the next class. </I><B>| ~ for </B><I>You get two marks for each correct answer. a good mark for geography </I><B>| ~ out of </B><I>How many marks out of ten would you give it? </I> </P>
+<P> <SUP> 4 </SUP> <TT> level of sth </TT> </P>
+<P> <U> ADJ. </U><B> halfway </B><I>We've reached the halfway mark in the show. </I><B>| high-water, low-water, tide </B> </P>
+<P> <U> VERB + MARK </U><B> set | reach | pass </B><I>This year's sales figures have already passed the mark set last year. </I><B>| fall short of </B> </P>
+<P> <U> PREP. </U><B> above the ~, around the ~ </B><I>around the </I>&pound;</B><I>500 mark </I><B>| at a/the ~ </B><I>The river was at its low-water mark. </I><B>| below the ~, up to the ~ </B>(= as good as sb/sth should be) <I>Your grammar is not quite up to the mark. </I> </P>
+<P> <SUP> 5 </SUP> <TT> target </TT> </P>
+<P> <U> ADJ. </U><B> easy </B> </P>
+<P> <U> VERB + MARK </U><B> find, hit </B><I>The shot found its mark. </I><B>| miss </B> </P>
+<P> <U> PHRASES </U><B> wide of the mark </B><I>(figurative) Shock tactics often fall wide of their mark. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>mark </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> write/draw sth </TT> </P>
+<P> <U> ADV. </U><B> clearly </B><I>My room was clearly marked on the plan. </I><B>| carefully </B><I>She carefully marked where the screws were to go. </I><B>| indelibly </B><I>One way of protecting your valuables is to mark them indelibly with an identifying code. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>Certain words were marked as important. </I><B>| for </B><I>Some of the crates were marked for export. </I><B>| in </B><I>Mark the position of all the building sites in black. </I><B>| on </B><I>All buildings are marked on the map. </I><B>| with </B><I>The boundary was marked with a dotted line. </I> </P>
+<P> <SUP> 2 </SUP> <TT> spoil/damage sth </TT> </P>
+<P> <U> ADV. </U><B> badly, deeply </B><I>The paperweight had fallen onto the desk, badly marking the surface. (figurative) The town is still deeply marked by the folk memory of the Depression. </I> </P>
+<P> <SUP> 3 </SUP> <TT> be a sign of sth </TT> </P>
+<P> <U> ADV. </U><B> effectively | conveniently </B><I>&lsquo;Lyrical Ballads&rsquo; conveniently marks the beginning of nineteenth-century poetry. </I><B>| publicly </B><I>The wedding ceremony publicly marks the beginning of commitment to another through marriage. </I> </P>
+<P> <U> VERB + MARK </U><B> appear to, seem to </B><I>This speech appears to mark a change in government policy. </I> </P>
+</DIV>

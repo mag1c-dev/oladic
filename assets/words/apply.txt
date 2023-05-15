@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>apply </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> be relevant </TT> </P>
+<P> <U> ADV. </U><B> equally </B><I>These principles apply equally in all cases. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>These restrictions do not apply to us. </I> </P>
+<P> <U> PHRASES </U><B> the same applies </B><I>British companies are subject to international laws and the same applies to companies in Europe. </I> </P>
+<P> <SUP> 2 </SUP> <TT> put/spread on a surface </TT> </P>
+<P> <U> ADV. </U><B> directly | evenly | freely | sparingly </B><I>Apply the insecticide sparingly. </I> </P>
+<P> <U> PREP. </U><B> over </B><I>Apply the glue evenly over both surfaces. </I><B>| to </B><I>Never apply the cleaning liquid directly to the surface. </I> </P>
+</DIV>

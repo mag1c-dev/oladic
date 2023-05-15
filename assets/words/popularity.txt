@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>popularity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> enormous, great, huge, immense, massive, widespread | growing, increasing | dwindling | continued, continuing | personal | current </B> </P>
+<P> <U> VERB + POPULARITY </U><B> achieve, win | deserve </B><I>The film deserves its popularity. </I><B>| court </B><I>She is a tough decision-maker who does not court popularity. </I><B>| enjoy | gain (in), grow in </B><I>Organic produce appears to be gaining in popularity. </I><B>| retain | regain </B> </P>
+<P> <U> POPULARITY + VERB </U><B> grow | decline, wane </B> </P>
+<P> <U> POPULARITY + NOUN </U><B> rating | stakes </B><I>They are running neck-and-neck in the popularity stakes. </I> </P>
+<P> <U> PREP. </U><B> ~ among/amongst </B><I>The current system has never enjoyed popularity among teachers. </I><B>| ~ with </B><I>She enjoys huge popularity with the voters. </I> </P>
+<P> <U> PHRASES </U><B> a decline/drop in popularity, an increase/a rise/a surge/an upsurge in popularity </B><I>the recent upsurge in the popularity of folk music </I><B>| the peak of (sb/sth's) popularity </B><I>At the peak of its popularity in the late nineties, the band sold ten million albums a year. </I> </P>
+</DIV>

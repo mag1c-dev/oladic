@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>recognize </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> know sb/sth again </TT> </P>
+<P> <U> ADV. </U><B> immediately, instantly </B><I>I immediately recognized the building. </I><B>| easily </B><I>This is the only species of flamingo in the region, easily recognized by its pink plumage. </I><B>| barely, hardly </B><I>Stella hardly recognized her brother. </I> </P>
+<P> <U> VERB + RECOGNIZE </U><B> learn to </B><I>You learn to recognize the calls of different birds. </I><B>| be easy to </B> </P>
+<P> <U> PREP. </U><B> as </B><I>He recognized the man as one of the police officers. </I><B>| by </B><I>I recognized her by her red hair. </I><B>| from </B><I>I recognized them from a television show. </I> </P>
+<P> <SUP> 2 </SUP> <TT> understand sth </TT> </P>
+<P> <U> ADV. </U><B> fully </B><I>They fully recognize the need to proceed carefully. </I><B>| belatedly, finally </B><I>The government has belatedly recognized the danger to health of passive smoking. </I> </P>
+<P> <U> VERB + RECOGNIZE </U><B> must | be important to | begin to | be slow to </B><I>The company had been slow to recognize the opportunities available to it. </I><B>| fail to </B> </P>
+<P> <U> PREP. </U><B> as </B><I>This issue must be recognized as a priority for the next administration. </I> </P>
+<P> <U> PHRASES </U><B> be generally/universally/widely recognized, be increasingly recognized </B><I>The strength of this argument is being increasingly recognized. </I><B>| failure to recognize sth </B> </P>
+<P> <SUP> 3 </SUP> <TT> accept sth officially </TT> </P>
+<P> <U> ADV. </U><B> clearly </B><I>The law clearly recognizes that a company is separate from those who invest in it. </I><B>| formally, officially | internationally, nationally </B><I>The Medway estuary is recognized internationally as a conservation area. </I> </P>
+<P> <U> VERB + RECOGNIZE </U><B> agree to | refuse to </B> </P>
+<P> <U> PREP. </U><B> as </B><I>All rivers should be officially recognized as public rights of way. </I> </P>
+<P> <U> PHRASES </U><B> be legally recognized </B><I>A bill of exchange is a legally recognized document. </I><B>| a refusal to recognize sth</B> </P>
+</DIV>

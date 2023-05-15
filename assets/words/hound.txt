@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hound </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hunting </B> </P>
+<P> <U> QUANT. </U><B> pack </B> </P>
+<P> <U> HOUND + VERB </U><B> bark, bay </B><I>We could hear the hounds barking at the fox. </I><B>| pick up the scent </B><I>The hounds picked up the scent of the fox. </I><B>| chase sth, follow sth, pursue sth </B><I>In drag hunting, hounds chase an artificial scent. </I><B>| run </B> </P>
+<P> <U> PHRASES </U><B> ride to hounds </B><I>Days off were spent riding to hounds </I>(= hunting)</B><I>. </I> </P>
+</DIV>

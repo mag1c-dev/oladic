@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>confidentiality </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute, complete, strict, total </B><I>It is important to maintain strict confidentiality at all times. </I><B>| commercial, professional </B> </P>
+<P> <U> VERB + CONFIDENTIALITY </U><B> ensure, maintain, preserve, protect </B><I>efforts to protect the confidentiality of the client </I><B>| breach, break </B><I>He breached confidentiality by releasing information on weapons tests. </I> </P>
+<P> <U> CONFIDENTIALITY + NOUN </U><B> agreement</B> </P>
+</DIV>

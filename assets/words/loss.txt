@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>loss </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> losing of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> appreciable, dramatic, great, major, serious, significant, substantial, tremendous </B><I>The ship sank with great loss of life. She suffered a significant loss of hearing after the operation. </I><B>| slight | total | temporary | permanent | sad </B><I>His death is a sad loss to all who knew him. </I><B>| blood, hair, hearing, weight </B><I>Weight loss can be a sign of a serious illness. </I><B>| job </B><I>The company is expected to announce 200 job losses. </I> </P>
+<P> <U> VERB + LOSS </U><B> mourn </B><I>China mourned the loss of a great leader. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>loss of appetite loss of confidence </I> </P>
+<P> <U> PHRASES </U><B> no great loss </B><I>She wouldn't be able to attend the lecture, which was no great loss. </I><B>| a sense of loss </B><I>She was filled with an overwhelming sense of loss. </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount of money lost </TT> </P>
+<P> <U> ADJ. </U><B> heavy, huge, massive | slight, small | net | pre-tax | overall, total | economic, financial | trading </B> </P>
+<P> <U> VERB + LOSS </U><B> incur, make, suffer, sustain </B><I>There's no way you can make a loss on this deal. The business sustained losses of </I>&pound;</B><I>20 million. </I><B>| cut, minimize </B><I>He decided to cut his losses and sell the shares before they sank further. </I><B>| recoup, recover </B><I>It took the firm five years to recoup its losses. </I><B>| offset </B><I>We can offset the loss against next year's budget. </I><B>| underwrite </B><I>No bank would be willing to underwrite such a loss. </I> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>The bookshop was operating at a loss. </I><B>| ~ on </B><I>We made a net loss on the transaction. </I> </P>
+<P> <SUP> 3 </SUP> <TT> sb/sth lost/killed </TT> </P>
+<P> <U> ADJ. </U><B> big, great, heavy, severe </B><I>The enemy suffered heavy losses. </I> </P>
+<P> <U> VERB + LOSS </U><B> suffer, sustain, take | inflict </B><I>Fighter planes inflicted heavy losses on the enemy. </I> </P>
+</DIV>

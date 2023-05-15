@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>alien </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, seem | become | find sth </B><I>It was an act of violence that she found alien and shocking. </I> </P>
+<P> <U> ADV. </U><B> very | completely, entirely, totally, utterly | quite, somewhat | essentially </B><I>living in an essentially alien culture </I> </P>
+<P> <U> PREP. </U><B> to </B><I>They spoke a language totally alien to him. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>alien </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> enemy </B><I>During the war, he was imprisoned as an enemy alien. </I><B>| illegal </B><I>Illegal aliens are usually deported to their country of origin. </I><B>| undesirable | resident</B> </P>
+</DIV>

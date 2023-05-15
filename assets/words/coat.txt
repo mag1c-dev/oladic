@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>coat </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of clothing </TT> </P>
+<P> <U> ADJ. </U><B> long | short | three-quarter-length | heavy | light | winter | waterproof | fur-trimmed | double-breasted, single-breasted | belted | duffle, frock, morning, tail, trench </B> </P>
+<P> <U> VERB + COAT </U><B> pull on, shrug (yourself) into, shrug on, throw on | pull off, shrug off | button (up) </B><I>The coat was buttoned up wrong. </I><B>| unbutton | hang (up) </B> </P>
+<P> <U> COAT + NOUN </U><B> collar, pocket, sleeve, tail | hook </B>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> fur/hair covering an animal's body </TT> </P>
+<P> <U> ADJ. </U><B> long | short | thick | rough | smooth | curly, fluffy, furry, shaggy, silky, woolly </B><I>a dog with a long shaggy coat </I><B>| glossy | spotted, striped | winter </B> </P>
+<P> <U> VERB + COAT </U><B> shed </B><I>The dog sheds its winter coat once the weather becomes warmer. </I> </P>
+<P> <SUP> 3 </SUP> <TT> layer of sth covering a surface </TT> </P>
+<P> <U> ADJ. </U><B> thick | thin | fresh, new </B><I>The room needs a fresh coat of paint. </I><B>| base | final, top </B> </P>
+<P> <U> VERB + COAT </U><B> apply, put on </B><I>Make sure the base coat has thoroughly dried before applying the top coat. </I> </P>
+<P> <U> COAT + VERB </U><B> dry </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a coat of paint/varnish </I> </P>
+</DIV><DIV class="item"><P class="word"><B>coat </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely | heavily, thickly | lightly | specially </B><I>The fabric has been specially coated to improve its water resistance. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>Coat the fish in the sauce. </I><B>| with </B><I>The furniture was thickly coated with dust. </I> </P>
+</DIV>

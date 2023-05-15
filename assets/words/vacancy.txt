@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>vacancy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> unfilled | suitable </B><I>The agency will let you know if they have any suitable vacancies. </I><B>| casual, temporary | job, presidential, senate, staff </B> </P>
+<P> <U> VERB + VACANCY </U><B> have | create, leave </B><I>Her going on maternity leave will create a temporary vacancy. </I><B>| fill </B> </P>
+<P> <U> VACANCY + VERB </U><B> arise, exist, occur </B><I>A vacancy has arisen in our sales department. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a vacancy for head chef </I><B>| ~ in </B><I>a vacancy in the catering department </I> </P>
+</DIV>

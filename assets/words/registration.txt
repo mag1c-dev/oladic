@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>registration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | limited | formal | compulsory | civil </B><I>civil registration of births </I><B>| birth, death | student, voter | car, company, land, trademark, vehicle | VAT </B> </P>
+<P> <U> VERB + REGISTRATION </U><B> require | be exempt from </B><I>Certain charities are exempt from VAT registration. </I><B>| be eligible for, qualify for </B><I>You should be eligible for registration as a student member. </I><B>| apply for, seek | obtain | grant sb </B><I>Under the new regulation we can grant full registration to foreign lawyers. </I><B>| refuse sb | renew | cancel </B> </P>
+<P> <U> REGISTRATION + VERB </U><B> be required </B> </P>
+<P> <U> REGISTRATION + NOUN </U><B> requirement </B><I>a failure to comply with the registration requirements </I><B>| period | procedure, process | scheme, system | records </B><I>I traced my family history using the civil registration records. </I><B>| form | book, card, document | number </B><I>I gave the registration number of the robbers' car to the police. </I><B>| plate </B><I>The police are looking for a large black saloon with German registration plates. </I><B>| officer | fee </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>You will receive a free CD on registration with the club. </I><B>| ~ as </B><I>registration as a political party </I><B>| ~ by </B><I>the registration of the vehicle by the appropriate authority </I><B>| ~ with </B><I>Registration with the council is compulsory. </I> </P>
+<P> <U> PHRASES </U><B> an application for registration, a certificate of registration</B> </P>
+</DIV>

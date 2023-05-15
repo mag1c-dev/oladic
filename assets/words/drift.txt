@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>drift </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> slow movement towards sth </TT> </P>
+<P> <U> ADJ. </U><B> gradual, slow </B> </P>
+<P> <U> PREP. </U><B> ~ (away) from </B><I>the drift of people away from rural areas into urban slums </I><B>| ~ (back) to </B><I>As the strike went on, there was a gradual drift back to work. </I><B>| ~ into </B><I>his drift into crime </I><B>| ~ towards </B> </P>
+<P> <SUP> 2 </SUP> <TT> general meaning of sth </TT> </P>
+<P> <U> ADJ. </U><B> general, main </B> </P>
+<P> <U> VERB + DRIFT </U><B> catch, follow, get </B><I>I didn't follow the speech exactly, but I caught the main drift of what was being said. </I><B>| lose </B><I>I lost the drift of what she was saying. </I> </P>
+<P> <SUP> 3 </SUP> <TT> pile of snow/sand made by the wind </TT> </P>
+<P> <U> ADJ. </U><B> deep, great | sand, snow (also snowdrift) </B> </P>
+</DIV><DIV class="item"><P class="word"><B>drift </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> be carried along by the wind/water </TT> </P>
+<P> <U> ADV. </U><B> slowly | helplessly </B><I>Cold and hungry, they drifted helplessly towards the Arctic. </I><B>| downriver, downstream, downwind </B><I>The boat drifted slowly downstream. </I><B>| along, back, down, out </B> </P>
+<P> <U> PREP. </U><B> from, to, towards, etc. </B><I>drifting out to sea </I> </P>
+<P> <SUP> 2 </SUP> <TT> move slowly/without purpose </TT> </P>
+<P> <U> ADV. </U><B> aimlessly | slowly | quietly, silently | about, around/round, apart, away, back, down, off, up </B><I>Voices drifted up through the floorboards. </I> </P>
+<P> <U> VERB + DRIFT </U><B> begin to | seem to | allow sth to </B><I>He allowed his thoughts to drift back to his conversation with Carrie. </I> </P>
+<P> <U> PREP. </U><B> about/around/round </B><I>He spent the day drifting aimlessly about the house. </I><B>| across </B><I>She drifted across the room to where we were standing. </I><B>| between </B><I>She began to drift between sleep and wakefulness. </I><B>| from </B><I>We seem to be drifting away from the point. </I><B>| in, into </B><I>He drifted into teaching, but never really enjoyed it. </I><B>| out of </B><I>He drifted in and out of consciousness. </I> </P>
+</DIV>

@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>bid </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> attempt </TT> </P>
+<P> <U> ADJ. </U><B> successful | failed, unsuccessful | desperate | takeover </B> </P>
+<P> <U> VERB + BID </U><B> launch, make, mount </B><I>A German firm launched a takeover bid for the company. </I><B>| succeed in | fail in </B><I>They failed in their bid to buy the holiday company. </I> </P>
+<P> <U> BID + VERB </U><B> succeed | fail </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He attacked his guards in a desperate bid for freedom. </I><B>| ~ by </B><I>a bid by the president to boost his popularity </I><B>| ~ for </B><I>This play was her last bid for recognition. </I> </P>
+<P> <U> PHRASES </U><B> a bid for freedom/power, a bid to escape </B> </P>
+<P> <SUP> 2 </SUP> <TT> offer of a sum of money to buy sth </TT> </P>
+<P> <U> ADJ. </U><B> high | low | opening | cash </B> </P>
+<P> <U> VERB + BID </U><B> make, put in, submit </B><I>He made a cash bid for the company. </I><B>| retract | call for, invite </B><I>They have invited bids for the property. </I><B>| increase, raise | accept </B> </P>
+<P> <U> PREP. </U><B> ~ by/from </B><I>a </I>&pound;</B><I>24-million bid by a rival football club </I><B>| ~ for </B><I>a bid for the chair </I><B>| ~ of </B><I>a bid of </I>&pound;</B><I>100 </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bid </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> offer money for sth </TT> </P>
+<P> <U> PREP. </U><B> against </B><I>Two dealers bid against each other for the antique table. </I><B>| for </B><I>She bid </I>&pound;</B><I>10,000 for the painting. </I> </P>
+<P> <SUP> 2 </SUP> <TT> offer to do work </TT> </P>
+<P> <U> ADV. </U><B> successfully </B> </P>
+<P> <U> PREP. </U><B> for </B><I>We have successfully bid for the contract. </I> </P>
+</DIV>

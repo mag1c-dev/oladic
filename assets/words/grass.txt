@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>grass </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> green | coarse, rough, thick | lush | long, tall | short | fresh-cut, freshly-cut, freshly-mown | damp, wet | dry | wild </B> </P>
+<P> <U> QUANT. </U><B> blade </B><I>I've walked along that path for so many years I know every blade of grass. </I><B>| clump, tuft </B><I>There were only a few clumps of coarse grass for the animals to eat. </I> </P>
+<P> <U> VERB + GRASS </U><B> eat | cut, mow | sow </B> </P>
+<P> <U> GRASS + VERB </U><B> grow </B> </P>
+<P> <U> GRASS + NOUN </U><B> clippings, cuttings | seed | verge </B><I>We parked on the grass verge by the side of the road. </I> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>They all set off across the grass. </I><B>| in the ~ </B><I>I found the wallet lying in the grass. </I><B>| on the ~ </B><I>You're not allowed to walk on the grass. </I><B>| through the ~ </B><I>The dog came running through the long grass. </I> </P>
+</DIV>

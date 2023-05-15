@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>save </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brilliant, excellent, fine, good, great, outstanding, spectacular, superb | crucial, important, vital | diving | one-handed </B> </P>
+<P> <U> VERB + SAVE </U><B> bring off, make, pull off </B><I>Casillas made some spectacular saves. </I> </P>
+<P> <U> PREP. </U><B> ~ by/from </B><I>some great saves from both keepers </I> </P>
+</DIV><DIV class="item"><P class="word"><B>save </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> keep sb/sth safe </TT> </P>
+<P> <U> VERB + SAVE </U><B> be able/unable to, can/could, may, might (just) </B><I>It's a trick that might just save us from total disaster. </I><B>| help (to) </B><I>She helped save my career. </I><B>| battle to, try to </B><I>Doctors battled to save the little boy's life. </I><B>| manage to </B><I>We managed to save the animals from being put down. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>They saved the paintings from destruction. </I> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to save sth </B><I>a last, desperate attempt to save his marriage </I><B>| a battle/bid/campaign to save sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> not spend money </TT> </P>
+<P> <U> ADV. </U><B> up </B> </P>
+<P> <U> VERB + SAVE </U><B> try to | manage to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>I'm trying to save up for my holiday. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in football/hockey </TT> </P>
+<P> <U> ADV. </U><B> brilliantly </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The goalie saved brilliantly from Johnson's long-range shot. </I> </P>
+</DIV>

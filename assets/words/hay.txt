@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hay </B><I>noun </I> </P>
+<P> <U> QUANT. </U><B> bale </B> </P>
+<P> <U> VERB + HAY </U><B> cut, harvest, make </B><I>The freshly harvested hay was taken into the big hay barn. They make hay to feed the cattle in winter. </I> </P>
+<P> <U> HAY + NOUN </U><B> meadow | bale | barn, loft </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>The children were playing in the hay. </I> </P>
+</DIV>

@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>calm </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not worried or angry </TT> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, seem, sound </B><I>I may have appeared calm but I certainly didn't feel it. </I><B>| become | keep, remain, stay </B><I>Sit down and keep calm! The pilot urged the passengers to remain calm. </I><B>| keep sb </B><I>Keep the patient calm. </I> </P>
+<P> <U> ADV. </U><B> extremely, remarkably, very </B><I>You seem remarkably calm. </I><B>| completely, perfectly, utterly </B><I>Her voice was firm and perfectly calm. </I><B>| fairly, pretty, quite | apparently, outwardly | curiously, strangely </B><I>The pain had receded and he felt curiously calm. </I><B>| reassuringly </B><I>The voice sounded reassuringly calm. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>She seemed pretty calm about it. </I> </P>
+<P> <U> PHRASES </U><B> cool, calm and collected </B><I>He remained at all times cool, calm and collected. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not rough or stormy </TT> </P>
+<P> <U> VERBS </U><B> be, look | become </B> </P>
+<P> <U> ADV. </U><B> absolutely, dead, flat, perfectly </B><I>The sea was dead calm. flat calm conditions </I><B>| fairly, quite, relatively</B> </P>
+</DIV><DIV class="item"><P class="word"><B>calm </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> peaceful situation/manner/feeling </TT> </P>
+<P> <U> ADJ. </U><B> apparent </B><I>Under his apparent calm lay real anxiety. </I><B>| inner </B><I>the pursuit of inner calm </I><B>| uneasy | forced, studied </B><I>With a forced calm she said, &lsquo;How do you know?&rsquo; </I><B>| dead </B><I>She felt not fear, but a kind of dead calm. </I><B>| deadly, icy </B><I>&lsquo;I'm calling the police, &rsquo; he stated with deadly calm. </I> </P>
+<P> <U> VERB + CALM </U><B> appeal for, call for </B><I>The government appealed for calm after the riots broke out. </I> </P>
+<P> <U> CALM + VERB </U><B> descend, settle </B><I>After the bomb, an uneasy calm settled on the city. </I> </P>
+<P> <U> PHRASES </U><B> a period of calm </B> </P>
+<P> <SUP> 2 </SUP> <TT> at sea </TT> </P>
+<P> <U> ADJ. </U><B> dead, flat </B><I>Seals basked on boulders in a flat calm. </I> </P>
+</DIV>

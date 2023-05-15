@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>produce </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fresh | local | seasonal | agricultural, animal, dairy, farm, garden, organic, primary </B><I>fresh farm produce </I> </P>
+<P> <U> VERB + PRODUCE </U><B> grow | export, market, sell</B> </P>
+</DIV><DIV class="item"><P class="word"><B>produce </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> domestically, locally </B><I>fruit and vegetables that are produced locally </I><B>| commercially | organically </B><I>organically produced food </I> </P>
+<P> <U> VERB + PRODUCE </U><B> be able/unable to, can/could | be expected to, be likely to </B><I>Which method is likely to produce the best results? </I><B>| combine to </B><I>All of these processes combine to produce a particular form of language. </I><B>| be designed to | use sth to </B><I>The technology can be used to produce interactive educational programs. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>The wine is produced from Chardonnay grapes. </I> </P>
+</DIV>

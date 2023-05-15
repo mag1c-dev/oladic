@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>slope </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> precipitous, severe, sheer, steep | gentle, gradual, slight | long, short | downhill, downward | uphill, upward | higher, upper </B><I>There was snow on the higher slopes of the mountain. </I><B>| lower | northern, north-facing, etc. </B><I>The vineyards on the south-facing slopes get more sunshine. </I><B>| open | forested, grassy, icy, rocky, scree, smooth, snow-covered/snowy, wooded | mountain | dry, nursery, ski </B><I>dry-slope skiing Some tourists were having a skiing lesson on the nursery slope. </I><B>| negative, positive </B><I>The unemployment-income curve on the graph has a negative slope. </I><B>| slippery </B><I>(figurative) Once he'd tried that first cigarette, he was on the slippery slope to being a smoker. </I> </P>
+<P> <U> VERB + SLOPE </U><B> ascend, clamber up, climb (up) </B><I>We clambered up the steep, rocky slope. </I><B>| descend | have </B><I>The football pitch has a slope of about one metre. </I> </P>
+<P> <U> SLOPE + VERB </U><B> lead (up/down) to sth </B><I>a slope leading down to the river </I><B>| fall, rise </B><I>The lower slopes rise quite gently. </I><B>| steepen | flatten, level off </B> </P>
+<P> <U> PREP. </U><B> down a/the ~ </B><I>I scrambled down the icy slope. </I><B>| on a/the ~ </B><I>We camped on an open mountain slope. </I><B>| up a/the ~ </B><I>There were more skiers further up the slope. </I> </P>
+<P> <U> PHRASES </U><B> the angle of slope </B><I>the angle of slope of the sides of the pyramid </I><B>| the bottom/foot/top of a slope</B> </P>
+</DIV><DIV class="item"><P class="word"><B>slope </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> steeply </B><I>The ground slopes away steeply at the back of the house. </I><B>| gently, slightly | away, down, downwards, up, upwards </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The field slopes down to a small river. </I><B>| towards</B> </P>
+</DIV>

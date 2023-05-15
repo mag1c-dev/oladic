@@ -1,0 +1,29 @@
+
+<DIV class="item"><P class="word"><B>stock exchange </B><I>noun </I> </P>
+<P> <U> VERB + STOCK EXCHANGE </U><B> open | close </B><I>Bahrain's stock exchange closed up 10.09 points today at 2160.09. </I> </P>
+<P> <U> STOCK EXCHANGE + VERB </U><B> rally, rise </B><I>The stock exchange rallied in response to the announcement of massive American investment. </I><B>| fall </B> </P>
+<P> <U> STOCK EXCHANGE + NOUN </U><B> collapse, crash </B> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>to lose money on the stock exchange </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stock </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> available supply of sth </TT> </P>
+<P> <U> ADJ. </U><B> good, high, huge, large | low | adequate | declining, dwindling, falling </B><I>dwindling fish stocks in the North Sea </I><B>| surplus | buffer, reserve </B><I>A buffer stock of grain was held in case of emergency shortages. </I><B>| fresh, new | old | existing | fish, food, etc. | housing </B><I>The housing stock is no longer large enough for the population. </I><B>| capital, money | library </B> </P>
+<P> <U> VERB + STOCK </U><B> carry, have, hold, keep </B><I>The big supermarkets carry huge stocks of most goods. </I><B>| add to, increase | dispose of, get rid of, reduce, sell off </B><I>They're selling off their old stock cheap. </I><B>| maintain, protect </B><I>laws to protect fish stocks </I><B>| replace, replenish </B> </P>
+<P> <U> STOCK + VERB </U><B> be/go up, increase | be/go down, decline, dwindle, fall, run low </B><I>Stocks of coal are running dangerously low. </I><B>| last </B><I>The offer is only available while stocks last. </I> </P>
+<P> <U> STOCK + NOUN </U><B> cupboard, room (also stockroom) | levels | control </B> </P>
+<P> <U> PREP. </U><B> from ~ </B><I>We can supply the table from stock. </I><B>| in ~ </B><I>Have you got futon beds in stock or will I have to order one? </I><B>| out of ~ </B><I>Red tights are out of stock. </I> </P>
+<P> <SUP> 2 </SUP> <TT> share in the capital of a company </TT> </P>
+<P> <U> ADJ. </U><B> blue-chip, gilt-edged, index-linked </B> </P>
+<P> <U> VERB + STOCK </U><B> acquire, buy, invest in, purchase | cash in, dispose of, sell | deal in, trade | have, hold, own | issue | value </B><I>The stocks were valued at </I>&pound;</B><I>100,000. </I> </P>
+<P> <U> STOCK + VERB </U><B> be down/up | fall, go down, plummet, sink | go up, rise, soar </B> </P>
+<P> <U> STOCK + NOUN </U><B> exchange, market | index </B> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>She's got about </I>&pound;</B><I>30,000 in stocks. </I> </P>
+<P> <U> PHRASES </U><B> investment in stocks, the value of the stocks </B><I>The total value of the stocks was over </I>&pound;</B><I>3 million. </I> </P>
+<P> <SUP> 3 </SUP> <TT> liquid used for making soups, sauces, etc. </TT> </P>
+<P> <U> ADJ. </U><B> chicken, fish, vegetable, etc. </B> </P>
+<P> <U> VERB + STOCK </U><B> make | thicken | dilute, reduce | flavour </B><I>Flavour the stock with bay leaves. </I> </P>
+<P> <U> STOCK + NOUN </U><B> cube </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Poach the fish in the stock. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stock </B><I>verb </I><B>be stocked </B> </P>
+<P> <U> ADV. </U><B> plentifully, well | fully, properly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>shops stocked with cheap souvenirs </I> </P>
+</DIV>

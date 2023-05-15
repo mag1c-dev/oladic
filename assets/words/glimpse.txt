@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>glimpse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> brief sight of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> brief, fleeting, the merest, momentary, quick | occasional </B><I>They caught occasional glimpses of great birds circling. </I><B>| tantalizing </B><I>This was my first tantalizing glimpse of the islands. </I> </P>
+<P> <U> VERB + GLIMPSE </U><B> catch, get, have, take </B><I>Thousands of people had gathered, hoping to catch a glimpse of the Queen. We only had a fleeting glimpse of the sun all day. </I><B>| afford sb </B> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>He took a quick glimpse at the map. </I><B>| ~ of </B><I>We got just a brief glimpse of the car as it rushed by. </I> </P>
+<P> <SUP> 2 </SUP> <TT> brief experience of sth </TT> </P>
+<P> <U> ADJ. </U><B> brief | fascinating, intriguing | rare </B><I>This scene may give a rare glimpse of Charles's personal style as king. </I> </P>
+<P> <U> VERB + GLIMPSE </U><B> get, have, take | afford sb, allow sb, give sb, offer (sb), provide </B><I>That smile afforded her a brief glimpse of the other side of Adam Burns. </I> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>The exhibition offers a fascinating glimpse at life beneath the waves. </I><B>| ~ into </B><I>Take a glimpse into the future of rail travel. </I><B>| ~ of </B><I>She got a glimpse of a very different way of life. </I> </P>
+</DIV>

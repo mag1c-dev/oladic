@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>pause </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, momentary, short, slight, small | long, prolonged | frequent | awkward | pregnant </B> </P>
+<P> <U> VERB + PAUSE </U><B> take </B><I>Shall we take a pause here? </I> </P>
+<P> <U> PAUSE + VERB </U><B> follow </B><I>In the pause that followed, I noticed that he was shaking. </I> </P>
+<P> <U> PAUSE + NOUN </U><B> button (on a video recorder, etc.) </B> </P>
+<P> <U> PREP. </U><B> after a/the ~ </B><I>&lsquo;I don't know,&rsquo; he said after a long pause. </I><B>| in a/the ~ </B><I>Everyone nodded in agreement in the pauses. </I><B>| with a/ the ~ </B><I>He read very slowly and with frequent pauses. </I><B>| without a/the ~ </B><I>She read the whole text without a pause. </I><B>| ~ before </B><I>There was a long pause before he spoke again. </I><B>| ~ between </B><I>in the pauses between his jokes </I><B>| ~ for </B><I>a pause for breath </I><B>| ~ in </B><I>during a pause in the conversation </I> </P>
+</DIV><DIV class="item"><P class="word"><B>pause </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> briefly, (for) a moment, (for) an instant, momentarily </B><I>She paused a moment and then walked away. </I><B>| barely, hardly </B><I>He spoke for two hours and barely paused for breath. </I><B>| deliberately </B><I>She paused deliberately, her eyes holding his. </I><B>| dramatically, impressively, meaningfully, significantly | reflectively, thoughtfully | irresolutely </B> </P>
+<P> <U> PHRASES </U><B> pause for breath/thought, pause only (long enough) to do sth </B><I>Pausing only to put out her cigarette, she left the room. </I><B>| pause to consider/look/reflect/think </B><I>Just pause to think before giving me your answer. </I><B>| without pausing </B><I>Without pausing to knock, she opened the door. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>virus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deadly | virulent | Aids, flu, hepatitis, herpes, HIV, measles, etc. | computer </B> </P>
+<P> <U> VERB + VIRUS </U><B> be infected with, contract, develop | carry | pass (on), spread, transmit </B><I>An infected person can pass the virus to others. </I><B>| isolate | inactivate </B> </P>
+<P> <U> VIRUS + VERB </U><B> attack sb/sth </B><I>The virus attacks a variety of cells in the body. </I><B>| replicate </B> </P>
+<P> <U> VIRUS + NOUN </U><B> infection | vaccine</B> </P>
+</DIV>

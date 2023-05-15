@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>bill </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> showing money owed for goods/services </TT> </P>
+<P> <U> ADJ. </U><B> big, high, huge, large | outstanding, unpaid | itemized | electricity, fuel, gas, hospital, hotel, phone/telephone, etc. | tax </B> </P>
+<P> <U> VERB + BILL </U><B> get, have </B><I>Could I have the bill please? I've just got a huge tax bill. </I><B>| be landed with, face </B><I>The company could now face higher fuel bills. </I><B>| run up </B><I>We ran up a very large hotel bill. </I><B>| foot, pay, pick up, settle </B><I>Don't worry?the company will pick up the bill. </I><B>| present sb with, send sb, submit </B><I>They presented us with a very large bill. </I><B>| cut, reduce </B><I>We need to cut our electricity bills. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Are the coffees on the bill? </I><B>| ~ for </B><I>the bill for the meal </I> </P>
+<P> <SUP> 2 </SUP> <TT> proposal for a new law </TT> </P>
+<P> <U> ADJ. </U><B> controversial | emergency | private member's </B> </P>
+<P> <U> VERB + BILL </U><B> bring before Parliament, bring forward/in, introduce, propose, put forward, submit </B><I>The bill will be brought before Parliament next year. The government has put forward an emergency bill to limit the powers of the police. </I><B>| force through, push through, railroad through, rush through </B><I>The opposition will try to force the bill through Parliament. </I><B>| draft, prepare | amend | debate | adopt, approve, pass | support, vote for | defeat, reject, throw out, veto | oppose, vote against | shelve, withdraw </B> </P>
+<P> <SUP> 3 </SUP> <TT> programme of entertainment </TT> </P>
+<P> <U> ADJ. </U><B> double </B> </P>
+<P> <U> VERB + BILL </U><B> head, top </B><I>Tom Jones is topping the bill. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Mozart is on the bill this evening. </I> </P>
+</DIV>

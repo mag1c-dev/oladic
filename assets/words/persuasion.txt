@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>persuasion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> persuading </TT> </P>
+<P> <U> ADJ. </U><B> gentle </B> </P>
+<P> <U> VERB + PERSUASION </U><B> use </B><I>I had to use a little gentle persuasion to get her to agree. </I><B>| need, take </B><I>She didn't need much persuasion. </I><B>| be/seem open to </B><I>He refused my offer at first, but seemed open to persuasion. </I> </P>
+<P> <U> PHRASES </U><B> the art of persuasion </B><I>She is very charming, and skilled in the art of persuasion. </I> </P>
+<P> <SUP> 2 </SUP> <TT> set of beliefs </TT> </P>
+<P> <U> ADJ. </U><B> political, religious </B> </P>
+<P> <U> PHRASES </U><B> of all/different/varying persuasions </B><I>The meeting is open to people of all political persuasions. </I> </P>
+</DIV>

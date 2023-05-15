@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>session </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> meeting of a court, parliament, etc. </TT> </P>
+<P> <U> ADJ. </U><B> stormy </B><I>a stormy session of the European Parliament </I><B>| inaugural, opening | closing, final, last | current | joint | open, public | closed, private | annual, regular, weekly, etc. | extraordinary | emergency | full, plenary </B><I>a full session of the peace talks a plenary session of the committee </I><B>| follow-up </B><I>A follow-up session was held a month after the initial meeting. </I><B>| congressional, parliamentary </B> </P>
+<P> <U> VERB + SESSION </U><B> hold | attend | boycott | address </B><I>The president addressed a closed session of Congress. </I> </P>
+<P> <U> SESSION + VERB </U><B> convene, take place | begin, open | close, end | adopt sth, approve sth </B><I>The session adopted a resolution on disarmament. </I><B>| agree sth | call for sth </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>in the opening session </I><B>| in ~ </B><I>The court is now in session. </I> </P>
+<P> <SUP> 2 </SUP> <TT> time spent doing an activity </TT> </P>
+<P> <U> ADJ. </U><B> lengthy, long | short | bargaining, counselling, negotiating, question and answer | briefing, coaching, practice, training | photo, photographic | jam, jazz, recording | workout, yoga | drinking </B><I>The man fell in the canal after a heavy drinking session. </I> </P>
+<P> <U> VERB + SESSION </U><B> have, offer (sb), provide (sb with), run </B><I>The college runs training sessions every afternoon. </I><B>| attend </B> </P>
+<P> <U> SESSION + VERB </U><B> take place </B> </P>
+<P> <U> SESSION + NOUN </U><B> guitarist, musician, singer, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a session on remedial reading </I> </P>
+</DIV>

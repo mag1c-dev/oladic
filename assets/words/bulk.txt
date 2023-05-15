@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>bulk </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large size </TT> </P>
+<P> <U> ADJ. </U><B> considerable, formidable, huge, massive, sheer </B><I>I was amazed by the sheer bulk of the creature. </I><B>| dark, looming, solid </B> </P>
+<P> <U> VERB + BULK </U><B> ease, heave, shift (used about people) </B><I>He heaved his considerable bulk into the chair. </I> </P>
+<P> <SUP> 2 </SUP> <TT> large amount </TT> </P>
+<P> <U> ADJ. </U><B> great, large, overwhelming, vast </B> </P>
+<P> <U> BULK + NOUN </U><B> buying, order, purchasing </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Sugar is imported in bulk from the mainland. </I> </P>
+<P> <U> PHRASES </U><B> the bulk of </B>(= most of) <I>The great bulk of the work has now been done. </I><B>| buy in bulk </B><I>It's usually cheaper to buy in bulk. </I> </P>
+</DIV>

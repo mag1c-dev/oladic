@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>result </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> outcome/effect </B> </TT> </P>
+<P> <U> ADJ. </U><B> good, positive </B><I>For the best results buy one of the more expensive brands. </I><B>| disastrous, unfortunate | direct, indirect | net | inevitable, logical | dramatic, impressive, spectacular, surprising | lasting | desired </B><I>And did your intervention produce the desired result? </I> </P>
+<P> <U> VERB + RESULT </U><B> have, produce </B><I>My interference had rather an unfortunate result. </I><B>| achieve, get, obtain </B><I>This was not the result we had hoped to achieve. </I> </P>
+<P> <U> PREP. </U><B> as a/the ~ </B><I>These actions were taken as a direct result of the strike. </I><B>| with a/the ~ </B><I>Parking restrictions were lifted, with the result that the road is permanently blocked by cars. </I> </P>
+<P> <SUP> 2 </SUP> <TT> desired effect </TT> </P>
+<P> <U> ADJ. </U><B> concrete, tangible </B><I>We have yet to see any concrete results from the research. </I> </P>
+<P> <U> VERB + RESULT </U><B> come up with, get, produce | give, show </B><I>When is all your effort going to show some results? </I> </P>
+<P> <SUP> 3 </SUP> <TT> final position in a competition </TT> </P>
+<P> <U> ADJ. </U><B> election | football, racing, etc. </B> </P>
+<P> <U> VERB + RESULT </U><B> announce, read out </B><I>The announcer was reading out the football results. </I>  </B> </P>
+<P> <SUP> 4 </SUP> <TT> (often <B>results</B>) mark given for an examination </TT> </P>
+<P> <U> ADJ. </U><B> encouraging, good | disappointing, poor | exam, examination | A-level, degree, etc. </B> </P>
+<P> <U> VERB + RESULT </U><B> get, have </B><I>When do you get your exam results? </I> </P>
+<P> <SUP> 5 </SUP> <TT> of an experiment, a medical test, an investigation, etc. </TT> </P>
+<P> <U> ADJ. </U><B> interim, preliminary | experimental, research | test, X-ray | referendum, survey </B> </P>
+<P> <U> VERB + RESULT </U><B> wait for </B><I>The doctor is still waiting for my results. </I><B>| get, have, receive </B><I>I haven't had the X-ray results yet. </I><B>| analyse, evaluate | present, publish </B><I>They hope to publish their results next month. </I><B>| give, yield </B><I>All three methods yielded identical results. </I> </P>
+<P> <U> RESULT + VERB </U><B> demonstrate sth, indicate sth, reveal sth, show sth, suggest sth </B><I>Preliminary results suggest that there is no cause for concern. </I><B>| confirm sth, support sth </B> </P>
+<P> <U> PREP. </U><B> pending the ~(s) of </B><I>Work on the scheme has been halted, pending the results of a judicial enquiry. </I><B>| ~ from </B><I>evaluating the results from various recent surveys </I> </P>
+</DIV><DIV class="item"><P class="word"><B>result </B><I>verb </I><B>PHRASAL VERBS result in sth </B> </P>
+<P> <U> ADV. </U><B> inevitably </B><I>This move will inevitably result in the loss of a lot of jobs. </I><B>| not automatically, not necessarily | easily </B><I>Complacency could easily result in tragedy. </I><B>| quickly | eventually </B> </P>
+<P> <U> VERB + RESULT </U><B> can/could, may/might, should, will/would | be expected to, be liable to, be likely/unlikely to </B><I>Such measures are likely to result in decreased motivation of the workforce. </I> </P>
+</DIV>

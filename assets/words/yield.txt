@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>yield </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, high </B><I>This method of cultivation produces higher yield. </I><B>| low, poor </B><I>Yields are quite poor this year. </I> </P>
+<P> <U> VERB + YIELD </U><B> produce</B> </P>
+</DIV>

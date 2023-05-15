@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>animal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dead, live, living </B><I>the export of live animals for slaughter </I><B>| cold-blooded, warm-blooded | higher, lower | dumb | stuffed </B><I>glass cases of stuffed animals </I><B>| dangerous | endangered, rare | extinct | social, solitary | tame | feral, stray, wild | exotic | caged, trapped, wounded </B><I>(often figurative) He was pacing the room like a caged animal. </I><B>| domestic, farm, laboratory, zoo | forest, land, marine | draught, pack </B><I>pack animals such as mules </I> </P>
+<P> <U> VERB + ANIMAL </U><B> have, keep </B><I>In court he was banned from keeping animals. </I><B>| breed, raise, rear </B><I>animals bred in captivity </I><B>| tame, train </B><I>This animal can be trained to follow simple orders. </I><B>| hunt, trap | butcher, slaughter </B> </P>
+<P> <U> ANIMAL + NOUN </U><B> life, species | behaviour, instinct | lover | husbandry | experiments, testing/tests </B><I>protesting against animal experiments </I><B>| rights, welfare | fat, products </B> </P>
+<P> <U> PHRASES </U><B> the animal kingdom/world </B><I>the wonders of the animal kingdom </I> </P>
+</DIV>

@@ -1,0 +1,34 @@
+
+</DIV><DIV class="item"><P class="word"><B>fire </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> destructive flames </TT> </P>
+<P> <U> ADJ. </U><B> big, huge | fierce | serious | disastrous | bush, forest, house </B> </P>
+<P> <U> VERB + FIRE </U><B> be on </B><I>The house is on fire! </I><B>| catch </B><I>A lantern was knocked over and the barn caught fire. </I><B>| cause, set sth on, start </B><I>Groups of rioters attacked and set the police headquarters on fire. </I><B>| fan </B><I>Strong winds fanned the fire. </I><B>| add fuel to, fuel </B><I>(both figurative) Frustrated ambitions can fuel the fire of anger and resentment. </I><B>| extinguish, put out | fight </B><I>He joined the crowds of men and women fighting the fire. </I><B>| contain, control </B><I>Firefighters struggled to control the fire. </I><B>| be damaged by/in, be destroyed by/in </B><I>The factory was destroyed in a fire started by arsonists. </I><B>| be killed by/in, die in </B> </P>
+<P> <U> FIRE + VERB </U><B> break out, start </B><I>A fire broke out in the mail room. </I><B>| go out | blaze, burn, rage </B><I>The fire burnt for three days before it was finally contained. </I><B>| spread, sweep through sth </B><I>In 1925 a disastrous fire swept through the museum. </I><B>| damage sth | destroy sth, gut sth </B><I>The fire gutted the building, leaving just a charred shell. </I> </P>
+<P> <U> FIRE + NOUN </U><B> safety </B><I>legislation open fire. </I> </P>
+<P> <U> FIRE + VERB </U><B> burn </B><I>Although it was summer a fire burned in the great stone hearth. </I><B>| kindle, light </B><I>We had plenty of dry wood, so the fire lit easily. </I><B>| die (down) </B><I>The fire was beginning to die down. </I><B>| burn (itself) out, go out | crackle | glow | smoke </B><I>The fire smoked instead of burning properly. </I> </P>
+<P> <U> PHRASES </U><B> the glow from/of a fire </B><I>The interior was only lit by the golden glow of the fire. </I> </P>
+<P> <SUP> 3 </SUP> <TT> apparatus for heating rooms </TT> </P>
+<P> <U> ADJ. </U><B> electric, gas </B> </P>
+<P> <U> VERB + FIRE </U><B> light, switch on, turn on </B><I>Use a match to light the gas fire. </I><B>| switch off, turn off </B> </P>
+<P> <U> FIRE + VERB </U><B> be off/on </B><I>Is the fire still on? </I> </P>
+<P> <SUP> 4 </SUP> <TT> shots from guns </TT> </P>
+<P> <U> ADJ. </U><B> heavy | anti-aircraft, covering, friendly </B><I>The commandos pushed forward under the covering fire of their artillery. Several soldiers were killed in friendly fire due a mistake by allied forces. </I><B>| artillery, sniper | cannon, machine-gun, mortar, rifle </B> </P>
+<P> <U> QUANT. </U><B> burst </B><I>a burst of machine-gun fire </I> </P>
+<P> <U> VERB + FIRE </U><B> open </B><I>The troops opened fire on the crowd. </I><B>| return </B><I>related to fire safety </I><B>| hazard, risk </B><I>Foam-filled couches are a serious fire hazard.She returned fire from behind the </I> <B>| drill </B><I>We have regular fire drills to ensure that the staff know how to evacuate the building. </I><B>| alarm | brigade, department, service | station | engine | hydrant | hose | extinguisher | escape </B><I>The thief got away down the fire escape. </I><B>| door </B> </P>
+<P> <U> PHRASES </U><B> bring a fire under control </B><I>Firefighters have now managed to bring the fire under control. </I><B>| set fire to sth </B><I>Someone had set fire to her car. </I> </P>
+<P> <SUP> 2 </SUP> <TT> burning fuel for cooking/heating </TT> </P>
+<P> <U> ADJ. </U><B> blazing, crackling, hot, roaring, warm | dying, smouldering | little | open | charcoal, coal, log, oil, peat, wood </B> </P>
+<P> <U> VERB + FIRE </U><B> build, make | kindle, light </B><I>Kim had managed to kindle a little fire of dry grass. </I><B>| poke, stir, stoke (up) </B><I>On cold nights we stoked up the fire to a blaze. </I><B>| put sth on </B><I>Put some more wood on the fire. </I><B>| cook on/over </B><I>When we go on safari we like to cook on an low wall. </I><B>| cease, hold </B><I>They were told to hold their fire until the enemy came closer. </I><B>| be/come under </B><I>We were under constant fire from enemy snipers. (figurative) The minister of transport came under fire </I>(= was heavily criticized) </B><I>for forcing increases in rail fares. </I><B>| draw </B><I>A few soldiers were sent out to draw </I>(= attract) </B><I>the enemy's fire. </I> </P>
+<P> <U> PHRASES </U><B> be in the line of fire </B><I>Unfortunately he was in the line of fire </I>(= between the people shooting and what they were shooting at) </B><I>and got shot. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>fire </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> blindly, wildly </B><I>She fired blindly into the mass of shadows. </I><B>| wide </B><I>Whitlock purposely fired wide. </I><B>| back | off </B><I>They fired off a volley of shots. </I> </P>
+<P> <U> VERB + FIRE </U><B> be ready to </B><I>He grabbed the shotgun and levelled it, ready to fire if anyone entered. </I><B>| order sb to </B><I>He ordered the troops to fire over the heads of the crowd. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>She fired a revolver at her attacker. </I><B>| into </B><I>He fired the gun into the air. </I><B>| on/upon </B><I>The police fired on protesters in the city centre. </I> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>fire alarm </B><I>noun </I> </P>
+<P> <U> VERB + FIRE ALARM </U><B> set off </B><I>It was thought that the fire alarm had been set off as a prank. </I><B>| install </B><I>Fire alarms have been installed in the building. </I> </P>
+<P> <U> FIRE ALARM + VERB </U><B> go (off), sound</B> </P>
+</DIV><DIV class="item"><P class="word"><B>fire brigade </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> local </B> </P>
+<P> <U> VERB + FIRE BRIGADE </U><B> call (out), phone </B><I>Dial 999 to call the fire brigade. </I><B>| join </B> </P>
+<P> <U> FIRE BRIGADE + VERB </U><B> put sth out </B><I>The fire brigade have put out a blaze in a local post office. </I> </P>

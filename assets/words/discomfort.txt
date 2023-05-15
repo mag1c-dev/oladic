@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>discomfort </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> slight pain </TT> </P>
+<P> <U> ADJ. </U><B> acute, considerable, great, severe, growing </B><I>He became conscious of a growing discomfort. </I><B>| mild, minor, slight </B><I>You may experience some slight discomfort after the operation. </I><B>| bodily, physical </B> </P>
+<P> <U> QUANT. </U><B> amount, degree </B> </P>
+<P> <U> VERB + DISCOMFORT </U><B> complain of, experience, feel, get, have, suffer </B><I>Some of the patients complained of discomfort. I didn't have much discomfort after the operation. </I><B>| cause | ease, lessen, reduce, relieve </B><I>Not eating late at night should help to relieve the discomfort. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He appeared to be in great discomfort. </I><B>| with/without ~ </B><I>You should be able to drive without discomfort after about two weeks. </I> </P>
+<P> <SUP> 2 </SUP> <TT> embarrassment </TT> </P>
+<P> <U> VERB + DISCOMFORT </U><B> cause </B><I>The revelations caused some discomfort to the president. </I><B>| enjoy </B><I>Paula smiled, enjoying her sister's discomfort. </I> </P>
+<P> <U> DISCOMFORT + VERB </U><B> grow, increase</B> </P>
+</DIV>

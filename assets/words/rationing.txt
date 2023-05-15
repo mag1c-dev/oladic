@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>rationing </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strict | bread, credit, food, fuel, petrol, etc. | wartime </B> </P>
+<P> <U> VERB + RATIONING </U><B> have | bring in, introduce </B><I>The government introduced meat rationing in May. </I> <B>| end </B> </P>
+<P> <U> RATIONING + VERB </U><B> be in force, exist </B> </P>
+<P> <U> RATIONING + NOUN </U><B> system </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Strict rationing of basic foodstuffs was still in force by the end of the year. </I> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>development </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> developing sth </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>School should encourage the full development of a student's talents. </I><B>| gradual | rapid | sustainable | healthy | commercial, economic, industrial | evolutionary, historical | regional | rural, suburban, urban | human | educational, emotional, intellectual, linguistic, personal, physical, psychological, sexual, social, spiritual | software | child | property </B> </P>
+<P> <U> VERB + DEVELOPMENT </U><B> aid, allow, assist, encourage, enhance, facilitate, favour, foster, permit, promote, stimulate, support </B><I>Education stimulates the stage in the development of Anglo-Irish relations </I><B>| a stage of development </B><I>This is a perfectly normal stage of development. </I> </P>
+<P> <SUP> 2 </SUP> <TT> new event/idea </TT> </P>
+<P> <U> ADJ. </U><B> exciting, important, major, radical, remarkable, significant, striking | the latest, new, recent | logical </B><I>The move from TV to film was a logical development in her career. </I><B>| unexpected | welcome | political, scientific, technical, technological </B> </P>
+<P> <U> DEVELOPMENT + VERB </U><B> occur, take place </B><I>the significant developments taking place in the health service </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>new developments in film-making </I> </P>
+<P> <SUP> 3 </SUP> <TT> new buildings </TT> </P>
+<P> <U> ADJ. </U><B> housing, property | </B><I>development of rational thinking. A group of experts has been brought together to support the develop</I> <B>business, commercial | ribbon | accelerate, speed up </B><I>Ribbon developments </I>(= lines of </B><I>Environmental factors can </I>buildings) </B><I>extended along the mai</I>n </B><I>accelerate the development of road</I>.</B><I>certain cancers. </I><B>| arrest, discourage, halt, hinder, inhibit, prevent, restrict, retard, slow </B><I>Too much emphasis o</I>n </B><I>memorizing facts can inhibit th</I>e </B><I>development of creative thinking</I>. <B>| finance </B><I>The company went dee</I>p </B><I>into debt to finance th</I>e </B><I>development of the engine. </I>| <B>monitor, oversee </B><I>A UN team i</I>s </B><I>monitoring the development o</I>f </B><I>the peace process. </I><B>| trace </B><I>In th</I>e </B><I>opening chapter, the author trace</I>s </B><I>the development of judo from it</I>s </B><I>ancient roots</I>. </B> </P>
+<P> <U> DEVELOPMENT + VERB </U><B> occur, take place </B> </P>
+<P> <U> DEVELOPMENT + NOUN </U><B> initiative, plan, programme, project, scheme | aid, assistance | work </B><I>The invention requires more development work to make it viable. </I><B>| process </B><I>the lengthy development process of a new model of car </I><B>| budget, capital, fund, grant | costs, expenditure </B> </P>
+<P> <U> PREP. </U><B> during ~ </B><I>Cell divisions during development occur in a fixed sequence. </I><B>| in ~ </B><I>A more powerful version of this electric bus in currently in development. </I><B>| under ~ </B><I>The new vaccine is still under development. </I> </P>
+<P> <U> PHRASES </U><B> research and development </B><I>I do quite a lot of research and development work in my job. </I><B>| a stage in the development of sth </B><I>an important </I> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>blood </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cold, warm </B><I>animals with warm blood </I><B>| clotted, congealed, dried | arterial, venous | menstrual | contaminated | aristocratic, noble, royal </B><I>I doubt if I have a single drop of aristocratic blood in my veins. </I><B>| Mediterranean, Spanish, etc. </B> </P>
+<P> <U> QUANT. </U><B> drop, pool, trickle </B><I>The body lay in a pool of blood. A thin trickle of blood ran down from a cut above her eye. </I><B>| spots, traces </B><I>He worked to remove all traces of blood. </I> </P>
+<P> <U> VERB + BLOOD </U><B> lose </B><I>She'd lost a lot of blood and doctors decided to do a transfusion. </I><B>| shed, spill </B><I>(literary) He was a hot-headed warrior, always too quick to shed blood. </I><B>| donate, give </B><I>The hospital appealed for more people to give blood </I>(= for blood transfusions)</B><I>. </I><B>| pump </B><I>The heart pumps blood around the body. </I><B>| choke on </B><I>He choked on his own blood after being shot in the throat. </I><B>| smear </B><I>There was blood smeared down his shirt. </I> </P>
+<P> <U> BLOOD + VERB </U><B> dribble, drip, flow, gush, ooze, run, seep, splash, spurt, stream, trickle, well (up) </B><I>Blood oozed slowly from the corner of his mouth. </I><B>| spread </B><I>The blood spread rapidly from where he lay. </I><B>| spatter, splatter </B><I>Blood spattered the seats of the vehicle. </I> <B>| soak (into) sth | cake sth, stain sth </B><I>Dried blood caked his hands. </I><B>| clot, coagulate | circulate </B><I>He rubbed his limbs vigorously to get the blood circulating. </I><B>| course, rush, surge </B><I>I felt the blood coursing in my veins as I ran. The blood rushed to her face as she realized her error. </I><B>| drum, hammer, pound, pulse, thud, thunder </B><I>The blood drummed in her ears. </I><B>| drain </B><I>The blood drained from his face when I told him the news. </I><B>| freeze, run/turn cold, turn to ice </B><I>(figurative) Our blood ran cold at the thought of how easily we could have been killed. </I> </P>
+<P> <U> BLOOD + NOUN </U><B> cell | group, type </B><I>What blood group are you? </I><B>| sample, test | loss | donation, donor | bank | circulation, flow, supply | pressure | clot, coagulation | cancer, disease, disorder, poisoning | cholesterol, fats, glucose, sugar </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>His shirt was soaked in blood. </I><B>| in sb's/the ~ </B><I>Traces of an illegal substance were found in his blood. </I><B>| ~ from </B><I>My handkerchief was soaked in blood from my nose. </I> </P>
+<P> <U> PHRASES </U><B> caked in/with blood </B><I>The dog's fur was caked in blood when we found him. </I><B>| covered in/with blood </B><I>He was lying on the floor, covered in blood. </I><B>| in cold blood </B><I>He shot them in cold blood </I>(= in a way that was planned and deliberately cruel)</B><I>. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>blood pressure </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> high, low, normal </B> </P>
+<P> <U> VERB + BLOOD PRESSURE </U><B> check, measure</B> </P>
+</DIV><DIV class="item"><P class="word"><B>blood transfusion </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> emergency </B> </P>
+<P> <U> VERB + BLOOD TRANSFUSION </U><B> have, receive | give sb | need, require</B> </P>
+</DIV><DIV class="item"><P class="word"><B>blood vessel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> major | broken, burst </B> </P>
+<P> <U> VERB + BLOOD VESSEL </U><B> block, constrict | dilate, enlarge | burst </B><I>He burst a blood vessel in a fit of coughing. </I> </P>
+<P> <U> BLOOD VESSEL + VERB </U><B> carry sth, supply sth </B><I>blood vessels supplying nutrition to the skin </I><B>| burst | dilate, enlarge | contract</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>identical </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem | remain </B> </P>
+<P> <U> ADV. </U><B> absolutely, completely, exactly | not necessarily </B><I>Different spreadsheet packages tend to be similar, though not necessarily identical. </I><B>| almost, more or less, nearly, practically, virtually </B><I>The two houses were more or less identical. </I><B>| effectively | apparently | basically, essentially | chemically, formally, genetically </B> </P>
+<P> <U> PREP. </U><B> to </B><I>This knife is identical to the one used in the attack. </I><B>| with </B><I>offspring that are genetically identical with the parents </I> </P>
+</DIV>

@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>company </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> business organization </TT> </P>
+<P> <U> ADJ. </U><B> big, large, major, medium-sized, small | start-up </B><I>a major European company </I><B>| associated, commercial, joint-stock, limited, private, public </B><I>a public limited company </I><B>| international, multi-national, national | trading </B><I>an international trading company </I><B>| bus, record, etc. </B><I>a small insurance company </I> </P>
+<P> <U> QUANT. </U><B> group </B> </P>
+<P> <U> VERB + COMPANY </U><B> create, establish, form, found, set up, start (up) | manage, operate, run | acquire, buy, take over | dissolve | work for </B><I>She's been working for the same company for 15 years. </I><B>| join | leave, resign from </B> </P>
+<P> <U> COMPANY + VERB </U><B> make sth, produce sth </B><I>The company produces cotton goods. </I><B>| expand, grow | shrink | fail, go bankrupt, go bust, go into liquidation, go out of business, go to the wall </B><I>(informal)</I>, <B>go under </B><I>During the recession many small companies went out of business. </I> </P>
+<P> <U> COMPANY + NOUN </U><B> director, policy, profits | car </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He has shares in several companies. </I><B>| within a/the ~ </B><I>the division of power within a company </I> </P>
+<P> <U> PHRASES </U><B> a director of a company </B>&gt; Special page at BUSINESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> group of actors/dancers, etc. </TT> </P>
+<P> <U> ADJ. </U><B> large, small | touring | ballet, theatre, etc. </B><I>a small touring theatre company </I></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+<P> <SUP> 3 </SUP> <TT> being with sb else </TT> </P>
+<P> <U> ADJ. </U><B> good, pleasant </B><I>He's very good company. </I><B>| poor </B> </P>
+<P> <U> VERB + COMPANY </U><B> have </B><I>It's nice to have a bit of company for a change. </I><B>| keep sb </B><I>I'll stay and keep you company. </I><B>| need, want | provide (sb with) </B><I>A cat would provide her with some company. </I><B>| seek | enjoy </B><I>I always enjoy her company. </I> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>I took my mother with me for company. </I><B>| in sb's ~ </B><I>He's nervous in the company of his colleagues. </I> </P>
+<P> <U> PHRASES </U><B> have/request the pleasure of sb's company </B><I>(formal)</I>, <B>like/prefer your own company </B>(= to like being alone)  </P>
+<P> <SUP> 4 </SUP> <TT> group of people together </TT> </P>
+<P> <U> ADJ. </U><B> mixed </B>(= men and women) <B>| assembled </B><I>He glanced round the assembled company. </I> </P>
+<P> <U> VERB + COMPANY </U><B> keep </B>(= to spend time with) <I>John's mother was worried about the company he kept. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Those children don't know how to behave in company. That's not something to say in mixed company. </I> </P>
+<P> <U> PHRASES </U><B> get into/keep bad company </B>(= to be friends with people that others disapprove of), <B>present company excepted </B>(= used after being rude or critical about sb to say that the people you are talking to are not included in the criticism)  </P>
+<P> <SUP> 5 </SUP> <TT> visitor or visitors </TT> </P>
+<P> <U> VERB + COMPANY </U><B> expect, have </B><I>We're expecting company this afternoon. </I> </P>
+</DIV>

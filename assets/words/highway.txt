@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>highway </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad | three-lane, two-lane, etc. </B><I>a four-lane highway </I><B>| public </B><I>(formal) He was fined for obstructing the public highway. </I><B>| main, major, national | trans-Amazon, trans-European, etc. | coastal, desert | east-west, north-south </B> </P>
+<P> <U> VERB + HIGHWAY </U><B> pull off </B><I>We pulled off the highway and stopped for a break. </I><B>| obstruct </B> </P>
+<P> <U> PREP. </U><B> along the ~ </B><I>They tore along the highway. </I><B>| down the ~, off the ~, on the ~, onto the ~, up the ~ | ~ to </B><I>the highway to Sydney </I> </P>
+</DIV>

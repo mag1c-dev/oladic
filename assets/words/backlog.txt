@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>backlog </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, considerable, enormous, huge, large </B> </P>
+<P> <U> VERB + BACKLOG </U><B> be faced with, have </B><I>We are faced with a backlog of orders we can't deal with. </I><B>| catch up on, clear, deal with, reduce </B> </P>
+<P> <U> BACKLOG + VERB </U><B> accumulate, build up </B><I>A huge backlog of work had built up. </I> </P>
+</DIV>

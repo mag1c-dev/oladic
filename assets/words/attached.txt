@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>attached </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> full of affection </TT> </P>
+<P> <U> VERBS </U><B> be | become, grow </B><I>We've grown very attached to this village and wouldn't want to move. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> deeply, strongly, very | increasingly | quite | emotionally, personally </B> </P>
+<P> <U> PREP. </U><B> to </B><I>Mr Wells is obviously quite attached to you. </I> </P>
+<P> <SUP> 2 </SUP> <TT> joined to sth </TT> </P>
+<P> <U> VERBS </U><B> be | remain, stay </B> </P>
+<P> <U> ADV. </U><B> firmly, securely </B><I>Make sure all the wires remain firmly attached. </I><B>| loosely | directly | permanently | physically </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The ball was attached to a length of thin chain. </I> </P>
+</DIV>

@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>practice </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> actual doing of sth </TT> </P>
+<P> <U> VERB + PRACTICE </U><B> put sth into </B><I>I can't wait to put what I've learned into practice. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The idea sounds fine in theory, but would it work in practice? </I> </P>
+<P> <SUP> 2 </SUP> <TT> doing sth many times </TT> </P>
+<P> <U> ADJ. </U><B> basketball, catching, piano, etc. | target </B> </P>
+<P> <U> VERB + PRACTICE </U><B> do, get (in), have </B><I>I'll be able to get in a bit of practice this weekend. I've had a lot of practice in saying &lsquo;no&rsquo; recently! </I><B>| need, require, take </B><I>Don't worry if you can't do it at first?it takes practice! </I><B>| give sb </B><I>This chapter gives students practice in using adjectives. </I> </P>
+<P> <U> PRACTICE + NOUN </U><B> ground | game, session </B> </P>
+<P> <U> PREP. </U><B> out of ~ </B><I>If you don't play regularly you soon get out of practice. </I><B>| with ~ </B><I>His accent should improve with practice. </I><B>| ~ at </B><I>practice at swimming underwater </I><B>| ~ in </B><I>The children need more practice in tying their shoelaces. </I> </P>
+<P> <U> PHRASES </U><B> be good practice for sth </B><I>It will be good practice for later, when you have to make speeches in public. </I> </P>
+<P> <SUP> 3 </SUP> <TT> way of doing sth </TT> </P>
+<P> <U> ADJ. </U><B> good </B><I>adopting current best practices in your business </I><B>| corrupt, sharp, unethical, unfair | discriminatory, restrictive | accepted, common, current, established, normal, standard, universal, usual, widespread </B><I>It is standard practice not to pay bills until the end of the month. </I><B>| local | cultural, legal, medical, religious, sexual </B><I>the medical practices of ancient Egypt </I><B>| accounting, administrative, business, employment, management, working </B><I>studying Japanese working practices </I> </P>
+<P> <U> VERB + PRACTICE </U><B> introduce </B><I>The practice of community policing was introduced in the 1970s. </I><B>| adopt, follow, use | promote | change, modify </B><I>Established practices are difficult to modify. </I><B>| ban, outlaw, prevent, prohibit, stop </B> </P>
+<P> <U> PRACTICE + VERB </U><B> begin | continue </B><I>the ancient custom of log rolling, a practice which continues to this day </I><B>| change, develop, evolve </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the practice of acupuncture </I> </P>
+<P> <U> PHRASES </U><B> a change in/of practice </B><I>changes in employment practices </I><B>| a code of practice </B><I>voluntary codes of practice between sellers and customers </I><B>| make a practice of sth </B><I>I don't make a practice of forgetting to pay my bills, I assure you! </I> </P>
+<P> <SUP> 4 </SUP> <TT> work/office of a professional person </TT> </P>
+<P> <U> ADJ. </U><B> successful | legal, medical, professional | general </B>(= medicine of a non-specialized type, not in a hospital), <B>private </B>(= accepting paying patients) <B>| group </B><I>It's a group practice, so you can easily change doctors. </I> </P>
+<P> <U> VERB + PRACTICE </U><B> be in, go into, set up in </B><I>She wants to go into general practice. </I><B>| retire from | suspend sb from </B><I>He has been suspended from practice, pending legal investigations. </I><B>| open, start </B><I>She has opened a new practice in the town. </I><B>| run </B><I>He runs a successful legal practice in Ohio. </I><B>| join </B><I>A new partner has joined the practice. </I><B>| leave</B> </P>
+</DIV>

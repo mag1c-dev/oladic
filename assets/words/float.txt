@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>float </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> on water/in air </TT> </P>
+<P> <U> ADV. </U><B> gently | downstream, downwards | upwards </B><I>In the dream my feet leave the ground and I start to float upwards. </I><B>| about, around, away, off </B> </P>
+<P> <U> VERB + FLOAT </U><B> seem to </B><I>Her voice seemed to float on the water as gently as a slight mist. </I> </P>
+<P> <U> PREP. </U><B> across </B><I>A few small clouds floated across the sky. </I><B>| down </B><I>chunks of ice floating down the river </I><B>| in </B><I>pieces of wood floating in the water </I><B>| on </B><I>A few leaves floated on the surface of the water. </I> </P>
+<P> <SUP> 2 </SUP> <TT> currency </TT> </P>
+<P> <U> ADV. </U><B> freely </B><I>The government decided to allow the peso to float freely. </I> </P>
+<P> <U> VERB + FLOAT </U><B> allow sth to</B> </P>
+</DIV>

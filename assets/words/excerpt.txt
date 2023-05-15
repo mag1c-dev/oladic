@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>excerpt </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> short </B> </P>
+<P> <U> VERB + EXCERPT </U><B> feature, give, include, play, publish, quote, show </B><I>The programme included excerpts from Verdi's operas. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>The paper published some short excerpts from Mandela's memoirs. </I> </P>
+</DIV>

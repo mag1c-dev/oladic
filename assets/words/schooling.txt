@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>schooling </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good </B><I>She received the best schooling the town could offer. </I><B>| bad, poor </B><I>Many children are disadvantaged by poor schooling. </I><B>| compulsory </B><I>Compulsory schooling ends at sixteen. </I><B>| formal | primary, secondary </B> </P>
+<P> <U> VERB + SCHOOLING </U><B> get, have, receive </B><I>He has had no formal schooling. </I><B>| continue (with) </B><I>She continued with her schooling after a long period of illness. </I><B>| interrupt </B> </P>
+<P> <U> SCHOOLING + VERB </U><B> suffer </B><I>We will stay in this country, as we don't want her schooling to suffer. </I> </P>
+<P> <U> SCHOOLING + NOUN </U><B> system </B> </P>
+<P> <U> PHRASES </U><B> access to schooling </B><I>A child's access to schooling varies greatly from area to area. </I><B>| years of schooling </B><I>children's development in the early years of schooling </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cholesterol </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, raised | low | blood </B><I>raised blood cholesterol levels </I> </P>
+<P> <U> QUANT. </U><B> level </B><I>a high/low level of cholesterol </I> </P>
+<P> <U> VERB + CHOLESTEROL </U><B> have (only used with </B><I>high </I>or </B><I>low</I>) </B><I>He has high cholesterol. </I><B>| contain </B><I>chips containing no cholesterol </I><B>| reduce </B><I>Eating garlic can significantly reduce cholesterol in the blood. </I> </P>
+<P> <U> CHOLESTEROL + NOUN </U><B> level </B> </P>
+<P> <U> PHRASES </U><B> be high/low in cholesterol </B><I>foods that are low in cholesterol </I> </P>
+</DIV>

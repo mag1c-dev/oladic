@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>suit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> set of clothes </TT> </P>
+<P> <U> ADJ. </U><B> designer, elegant, immaculate, smart, well-cut | ill-fitting | off-the-peg | best, good </B><I>He wore his one good suit to the interview. </I><B>| tailored | double-breasted, single-breasted | one-piece, three-piece, two-piece | pinstripe/pinstriped | linen, tweed, etc. | summer | business, dinner, evening, dress, formal, lounge, morning, safari | trouser | bathing, diving, wet | ski </B> </P>
+<P> <U> SUIT + NOUN </U><B> jacket, trousers </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>Two men in suits came out of the hotel. </I> </P>
+<P> <U> PHRASES </U><B> a suit and tie </B><I>They won't let you into the restaurant without a suit and tie. </I><B>| a suit of armour </B><I>The cavalry wore a suit of light armour and carried a shield. </I><B>| a suit of clothes </B><I>We bought the baby a couple of suits of clothes. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of playing cards </TT> </P>
+<P> <U> ADJ. </U><B> trump </B> </P>
+<P> <U> VERB + SUIT </U><B> follow </B>(= play the same suit as the previous player)  </P>
+<P> <U> SUIT + VERB </U><B> be trumps </B><I>Which suit is trumps? </I><B>| change </B><I>The suit changed to diamonds. </I> </P>
+<P> <U> PREP. </U><B> from/in a/the ~ </B><I>All the cards have to be from the same suit. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>suit </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> admirably, fine, well </B><I>A camping holiday would suit me fine. You will have to try out the various tennis rackets to find out which one suits you best. </I><B>| down to the ground </B><I>(informal)</I>, <B>perfectly </B><I>Country life suits me down to the ground! This arrangement suited me perfectly. </I> </P>
+<P> <U> VERB + SUIT </U><B> seem to | adapt sth to, adjust sth to, be designed to, be tailored to </B><I>a shampoo designed to suit all hair types </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>rugby </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> amateur, professional | competitive, representative | junior, school, student, youth | senior | club, league | first-class, international, test, world | touch | mini </B><I>Kids from six years old play mini rugby at the club. </I><B>| running </B><I>The crowd enjoyed the Fijians' running rugby. </I> </P>
+<P> <U> QUANT. </U><B> game </B> </P>
+<P> <U> VERB + RUGBY </U><B> play | watch </B> </P>
+<P> <U> RUGBY + NOUN </U><B> scrum, tackle | club, side, team | ball, jersey, shirt | championship, game, international, match | tour | ball, posts | boots, jersey | field, pitch | forward, international, player </B><I>the former rugby international, Serge Blanco </I><B>| coach | official | career | season | buff, enthusiast, fan, follower, supporter | circles, community, folk, fraternity, people </B><I>In rugby circles, there is nothing but criticism for the coverage of sport on terrestrial TV. </I><B>| country, nation </B> </P>
+<P> <U> PHRASES </U><B> Rugby League, Rugby Union </B></B> </P>
+</DIV>

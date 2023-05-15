@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cement </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> wet | dental </B> </P>
+<P> <U> VERB + CEMENT </U><B> mix </B> </P>
+<P> <U> CEMENT + VERB </U><B> harden, set </B> </P>
+<P> <U> CEMENT + NOUN </U><B> mixer | factory, works</B> </P>
+</DIV>

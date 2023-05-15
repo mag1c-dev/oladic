@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>aspiration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, lofty </B><I>He has high aspirations and wants to improve his qualifications. </I><B>| failed | career, national, personal, political, social </B> </P>
+<P> <U> ADJ. </U><B> have | achieve, fulfil, meet, realize, satisfy </B><I>a political party that fulfils the aspirations of the British people </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>an aspiration for personal power </I><B>| ~ to </B><I>the country's aspirations to independence </I><B>| ~ towards </B><I>aspirations towards starting his own business </I> </P>
+<P> <U> PHRASES </U><B> dreams/hopes/needs/values and aspirations </B><I>She talked about her hopes and aspirations. </I> </P>
+</DIV>

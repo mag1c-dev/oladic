@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>cure </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> medicine/treatment that can cure an illness </TT> </P>
+<P> <U> ADJ. </U><B> effective, instant, miracle, wonder </B><I>There is no instant cure for this condition. </I><B>| rest </B><I>His new job was almost a rest cure after the stresses of the army. </I><B>| cancer </B> </P>
+<P> <U> VERB + CURE </U><B> look for, seek | develop, discover, find </B> </P>
+<P> <U> CURE + VERB </U><B> work </B><I>The cure works by boosting the body's immune system. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>scientists seeking a cure for Aids </I><B>| ~ from </B><I>He was hoping for a cure from his debilitating illness. </I> </P>
+<P> <U> PHRASES </U><B> no (known) cure </B><I>There is no known cure for the disease. </I><B>| prevention is better than cure </B><I>Prevention is better than cure, so start looking after your heart now. </I><B>| the search for a cure </B><I>the search for a cure for the common cold </I> </P>
+<P> <SUP> 2 </SUP> <TT> return to good health </TT> </P>
+<P> <U> ADJ. </U><B> miraculous | complete, permanent </B> </P>
+<P> <U> VERB + CURE </U><B> bring about, effect, provide </B><I>These drugs can sometimes effect miraculous cures. (figurative) Science cannot provide a cure for all the world's problems. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>cure </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely | miraculously </B><I>She still believed that somehow she could be miraculously cured. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>He was now completely cured of his illness. </I> </P>
+</DIV>

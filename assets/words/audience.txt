@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>audience </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of people watching/listening to sth </TT> </P>
+<P> <U> ADJ. </U><B> big, capacity, large, mass, packed, vast, wide </B><I>The museum is trying to attract a wider audience. </I><B>| select, small | appreciative, enthusiastic, receptive, sympathetic | hostile | captive | potential, target | cinema, live, radio, studio, television </B> </P>
+<P> <U> VERB + AUDIENCE </U><B> address, perform to, play to </B><I>He prefers playing to live audiences. </I><B>| attract, draw, pull in </B><I>Such a well-known politician should draw a big audience. </I><B>| reach </B><I>We want to reach a target audience that's younger in age. </I><B>| captivate, grip, thrill </B><I>The film has thrilled audiences throughout the country. </I><B>| move </B><I>The audience was visibly moved. </I> </P>
+<P> <U> AUDIENCE + VERB </U><B> applaud, cheer </B><I>The audience cheered loudly. </I><B>| boo, jeer | laugh </B> </P>
+<P> <U> AUDIENCE + NOUN </U><B> participation </B> </P>
+<P> <U> PREP. </U><B> before/in front of an/the ~ </B><I>He felt nervous standing up in front of the large audience. </I> </P>
+<P> <SUP> 2 </SUP> <TT> formal meeting with a very important person </TT> </P>
+<P> <U> ADJ. </U><B> private </B> </P>
+<P> <U> VERB + AUDIENCE </U><B> have | ask for, request, seek | give sb, grant sb </B><I>The Pope granted him an audience. </I> </P>
+<P> <U> PREP. </U><B> ~ with </B><I>He sought a private audience with the Queen. </I> </P>
+</DIV>

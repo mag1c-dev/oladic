@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>inadequate </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not good enough </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, prove, seem | become | consider sth, find sth, judge sth, regard sth as, think sth </B><I>These precautions have been judged inadequate. </I> </P>
+<P> <U> ADV. </U><B> deeply, grossly, hopelessly, ludicrously, pitifully, ridiculously, seriously, very, woefully </B><I>His wages were pitifully inadequate for the needs of his growing family. </I><B>| completely, entirely, quite, totally, utterly, wholly | increasingly | somewhat | clearly, manifestly, obviously, patently, plainly | curiously | notoriously </B> </P>
+<P> <U> PREP. </U><B> at </B><I>People, despite their intelligence, are curiously inadequate at communicating with horses. </I><B>| for </B><I>This computer is clearly inadequate for my needs. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not able to deal with a situation </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem </B><I>I felt dreadfully inadequate. </I> </P>
+<P> <U> ADV. </U><B> deeply, dreadfully, hopelessly, very | quite, totally, wholly | rather | generally | personally, professionally, sexually </B><I>The staff at the consulate seemed not only insensitive, but professionally inadequate. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>She was inadequate to the demands that were made on her. </I> </P>
+</DIV>

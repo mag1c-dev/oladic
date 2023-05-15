@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>shield </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> used to protect the body </TT> </P>
+<P> <U> ADJ. </U><B> riot </B> </P>
+<P> <U> VERB + SHIELD </U><B> be armed with, be equipped with, carry, have | act as </B><I>Look for something that can act as a shield, like a dustbin lid. </I> </P>
+<P> <U> PREP. </U><B> behind a/the ~ </B><I>a row of police officers behind their riot shields </I><B>| on a/the ~ </B><I>She did not recognize the coat of arms on his shield. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb/sth used for protecting yourself </TT> </P>
+<P> <U> ADJ. </U><B> protective | human | nuclear | heat </B><I>The nose of the space capsule is protected by a heat shield. </I><B>| breast, face, gum, hand </B> </P>
+<P> <U> VERB + SHIELD </U><B> use sb/sth as </B><I>They used 400 hostages as human shields. </I><B>| form </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The ozone layer forms a shield against harmful solar rays. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>shield </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> partially, partly | carefully </B><I>He carefully shielded the flame with his cupped hand. </I> </P>
+<P> <U> VERB + SHIELD </U><B> try to </B><I>trying to shield the children from the full horrors of the war </I> </P>
+<P> <U> PREP. </U><B> against </B><I>She raised her hand to shield her eyes against the sun. </I><B>| from </B><I>new laws to shield companies from foreign competition </I><B>| with </B><I>He shielded her with his body. </I> </P>
+</DIV>

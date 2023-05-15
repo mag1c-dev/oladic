@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>beauty </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> quality of being beautiful </TT> </P>
+<P> <U> ADJ. </U><B> breathtaking, extraordinary, great, outstanding, sheer </B><I>an area of breathtaking beauty </I><B>| classical </B><I>the classical beauty of her face </I><B>| natural | physical | scenic </B> </P>
+<P> <U> BEAUTY + VERB </U><B> last | fade </B><I>Her beauty faded as she got older. </I> </P>
+<P> <U> BEAUTY + NOUN </U><B> competition, contest | queen | parlour, salon | treatment | spot </B> </P>
+<P> <U> PHRASES </U><B> beauty is in the eye of the beholder, beauty is only skin-deep </B> </P>
+<P> <SUP> 2 </SUP> <TT> beautiful person or thing </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>She was known as a great beauty in her time. </I><B>| absolute, real </B><I>My new car's a real beauty! </I><B>| little </B><I>Isn't she a little beauty? </I> </P>
+</DIV>

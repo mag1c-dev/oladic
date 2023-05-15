@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>landmark </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feature of the landscape </TT> </P>
+<P> <U> ADJ. </U><B> distinctive, prominent | famous, well-known | familiar </B><I>After twenty years, all the familiar landmarks had disappeared. </I><B>| local | historic </B> </P>
+<P> <U> VERB + LANDMARK </U><B> recognize </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The tower was once a landmark for ships. </I> </P>
+<P> <SUP> 2 </SUP> <TT> important stage in the development of sth </TT> </P>
+<P> <U> ADJ. </U><B> great, important, major, significant </B> </P>
+<P> <U> VERB + LANDMARK </U><B> be, represent </B><I>The Russian Revolution represents a landmark in world history. </I> </P>
+<P> <U> LANDMARK + NOUN </U><B> decision, ruling </B><I>a landmark decision on the legal status of a foetus </I><B>| case </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>The film is an important landmark in the history of the cinema. </I> </P>
+</DIV>

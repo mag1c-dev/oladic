@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>hide </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> thick, tough </B><I>Elephants have a very tough hide. </I><B>| buffalo, elephant, elk, ox, rhino </B> </P>
+<P> <U> VERB + HIDE </U><B> tan </B><I>The hide is tanned for leather. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>hide </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> go/put sth where you/it cannot be seen </TT> </P>
+<P> <U> ADV. </U><B> away </B><I>She hid the documents away in a drawer. </I> </P>
+<P> <U> VERB + HIDE </U><B> prefer to, want to </B><I>She wanted to run away and hide. (figurative) He accused the prime minister of preferring to hide from the truth. </I> </P>
+<P> <U> PREP. </U><B> among </B><I>hiding among the bushes </I><B>| behind </B><I>(figurative) He hid behind a false identity. </I><B>| beneath </B><I>He had a weak mouth which he hid beneath a moustache and beard. </I><B>| from </B><I>hiding from their enemies </I><B>| in </B><I>hiding in the shadows </I><B>| under </B><I>He hid the book under his bed. </I> </P>
+<P> <U> PHRASES </U><B> carefully/completely/well hidden </B><I>The letters were well hidden in the back of the cupboard. </I><B>| half hidden </B><I>The buildings were half hidden by the trees. </I><B>| hidden deep beneath/in sth </B><I>tiny villages hidden deep in the softly rolling hills </I><B>| hidden from sight/view </B><I>The house was hidden from view by a large hedge. </I><B>| lie/remain hidden </B><I>treasures which have lain hidden in bank vaults since the war </I><B>| partially/partly hidden </B><I>The house was partially hidden behind some trees. </I><B>| a place to hide (sth) </B><I>I'll find a better place to hide it. </I> </P>
+<P> <SUP> 2 </SUP> <TT> keep sth secret </TT> </P>
+<P> <U> ADV. </U><B> well | completely </B> </P>
+<P> <U> VERB + HIDE </U><B> be able/unable to </B><I>She was unable to hide her delight at his failure. </I><B>| try to | make no attempt to </B><I>He made no attempt to hide his anger </I><B>| manage to </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The government tried to hide the evidence from the public. </I> </P>
+<P> <U> PHRASES </U><B> keep sth hidden </B><I>feelings that she had kept completely hidden all these years </I><B>| remain/stay hidden </B><I>The truth may well remain hidden for ever. </I> </P>
+</DIV>

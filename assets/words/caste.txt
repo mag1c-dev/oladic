@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>caste </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low </B><I>He belongs to one of the highest castes. </I> </P>
+<P> <U> VERB + CASTE </U><B> belong to </B> </P>
+<P> <U> CASTE + NOUN </U><B> system </B><I>the Hindu caste system </I> </P>
+<P> <U> PHRASES </U><B> a member of a caste, of high/low caste</B> </P>
+</DIV>

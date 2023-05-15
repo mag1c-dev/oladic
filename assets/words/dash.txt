@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>dash </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden quick movement </TT> </P>
+<P> <U> ADJ. </U><B> quick, sudden | frantic, headlong, mad | final, last-minute </B> </P>
+<P> <U> VERB + DASH </U><B> make </B> </P>
+<P> <U> PREP. </U><B> ~ across </B><I>We had to make a frantic dash across town to get our plane </I><B>| ~ for </B><I>He made a sudden dash for the door. </I><B>| ~ from, ~ through </B><I>The book starts with a quick dash through the country's history. </I><B>| ~ to </B><I>He made a 200-mile dash to the hospital when a kidney donor became available. </I> </P>
+<P> <SUP> 2 </SUP> <TT> small amount of sth </TT> </P>
+<P> <U> VERB + DASH </U><B> add </B><I>Add a dash of lemon juice. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The food is European with a dash of Morocco. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dash </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> go/run quickly </TT> </P>
+<P> <U> ADV. </U><B> frantically | about, around, back, forward, off, out </B><I>I've got to dash off now. </I> </P>
+<P> <U> VERB + DASH </U><B> have to, must </B><I>I must dash?I'm late. </I> </P>
+<P> <U> PREP. </U><B> across, along, down, in, into, out of, through, to, up </B><I>He dashed frantically across the road. </I> </P>
+<P> <SUP> 2 </SUP> <TT> destroy sth </TT> </P>
+<P> <U> ADV. </U><B> quickly | cruelly </B><I>Her hopes were cruelly dashed when her parents refused to let her go. </I> </P>
+</DIV>

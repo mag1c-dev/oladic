@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>apparent </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, seem | become </B><I>It soon became apparent that the company was losing money. </I><B>| make sth </B><I>He made it apparent that he was very annoyed. </I> </P>
+<P> <U> ADV. </U><B> glaringly, strongly, very | fully, quite | increasingly | all too </B><I>His unhappiness was all too apparent. </I><B>| quickly, soon | immediately, instantly </B><I>The extent of their injuries was not immediately apparent. </I><B>| easily, readily | clearly | painfully </B><I>Local suspicion of the incomers was painfully apparent. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>His lack of experience was quite apparent to everyone. </I> </P>
+</DIV>

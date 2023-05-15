@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>parallel </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, run </B> </P>
+<P> <U> ADV. </U><B> exactly | nearly | roughly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The lane is roughly parallel to the main road. </I><B>| with </B><I>The road runs parallel with the sea. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>parallel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> direct, exact | clear, close, obvious | interesting, striking </B> </P>
+<P> <U> VERB + PARALLEL </U><B> have </B><I>This weather pattern of the southern hemisphere has no parallel in the north. </I><B>| find, see | draw, make </B><I>He drew an interesting parallel with religious practices in Japan. </I><B>| provide </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>a speed of development without parallel in post-war Europe </I><B>| ~ between </B><I>a parallel between economic and cultural advancement </I><B>| ~ in </B><I>We found a direct parallel in the attitudes of schoolchildren in other countries. </I><B>| ~ to </B><I>A close parallel to this behaviour is found in dolphins. </I><B>| ~ with </B><I>She saw an obvious parallel with her sister's predicament. </I> </P>
+</DIV>

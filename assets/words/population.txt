@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>population </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large | small, sparse | overall, total </B><I>The country has a total population of 65 million. </I><B>| global, local, national, world | indigenous, native | adult, ageing, elderly, young, youthful | female, male | black, white | active, working </B><I>Most of the economically active population is employed in the primary industries. </I><B>| student | civil, civilian | prison, school | rural, urban | general </B><I>The general population was in favour of the National Health Service. </I> </P>
+<P> <U> POPULATION + VERB </U><B> be sth, stand at sth </B><I>The population now stands at about 4 million. </I><B>| reach sth | exceed sth | double, grow, increase, rise | decline, decrease, fall | consist of sth | live </B><I>The majority of the population live in these two towns. </I> </P>
+<P> <U> POPULATION + NOUN </U><B> levels, size | density | data, estimate, figures, projections, trends </B><I>No reliable population estimates exist. </I><B>| growth, increase | decline, loss | ageing | explosion | census | centre </B><I>major population centres along the coast </I> </P>
+<P> <U> PHRASES </U><B> a decline/an increase in population, the growth of population </B><I>The rapid growth of population led to an acute shortage of housing. </I><B>| per head of population </B><I>The income per head of population was under </I>&pound;</B><I>1,000 per annum. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>museum </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excellent, fascinating, great, interesting, major </B><I>one of the world's great museums </I><B>| local, municipal, national, provincial, regional, town | private, public | purpose-built | open-air </B><I>an open-air museum of farming and the countryside </I><B>| working </B><I>Although the mill is no longer in commerical use, it is maintained as a working museum. </I><B>| archaeological, folk, industrial, local history, maritime, military, railway, science, war, etc. </B> </P>
+<P> <U> VERB + MUSEUM </U><B> go to, visit </B> </P>
+<P> <U> MUSEUM + VERB </U><B> be devoted to sth, contain sth, house sth </B><I>a museum devoted to railway memorabilia The museum houses a fine collection of textiles. </I> </P>
+<P> <U> MUSEUM + NOUN </U><B> building | collection, display, exhibition | piece </B><I>all the planes are museum pieces </I><B>| curator, director, staff | visit </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>an exhibition of Chinese ceramics at the Ashmolean Museum </I><B>| in a/the ~ </B><I>There's a gift shop in the museum. </I><B>| ~ of </B><I>the Museum of Modern Art </I> </P>
+</DIV>

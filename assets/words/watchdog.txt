@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>watchdog </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> consumer | financial, health, industry, pollution, safety | government, independent, official </B> </P>
+<P> <U> VERB + WATCHDOG </U><B> act as, be </B> </P>
+<P> <U> WATCHDOG + NOUN </U><B> body, group, organization | role </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a consumer watchdog for transport </I><B>| ~ on </B><I>the government's official watchdog on nature conservation </I><B>| ~ over </B><I>The committee acts as an independent watchdog over government spending. </I> </P>
+</DIV>

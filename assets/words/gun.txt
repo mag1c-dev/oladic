@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>gun </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, heavy | enemy </B><I>They succeeded in silencing the enemy guns. </I><B>| replica, toy | anti-aircraft, anti-tank, Bren, field, hand, harpoon, laser, machine, spear, Sten, stun, sub-machine | grease, spray, staple </B> </P>
+<P> <U> VERB + GUN </U><B> be armed with, carry, have </B><I>Look out! He's got a gun! </I><B>| load </B><I>I loaded the gun with my last two bullets. </I><B>| draw, produce, pull (out) | aim, hold, point, raise </B><I>He raised his gun, aimed and fired. </I><B>| man </B><I>Enemy ship approaching! Man the guns! </I><B>| handle, use | fire, shoot sb/sth with | lay down, put down | silence </B> </P>
+<P> <U> GUN + VERB </U><B> blaze, fire, go off </B><I>Guns were firing and grenades going off all around. </I><B>| shoot sth </B><I>This new gun shoots a laser beam at the target. </I><B>| jam | be mounted </B><I>There were several guns mounted in the back of the vehicle. </I> </P>
+<P> <U> GUN + NOUN </U><B> club | control, law </B><I>a state that has strict gun controls </I><B>| lobby </B><I>the powerful gun lobby in the US </I><B>| emplacement, position | attack, battle | crew | barrel | rack </B> </P>
+<P> <U> PHRASES </U><B> the barrel of a gun </B><I>I found myself looking down the barrel of a gun. </I><B>| guns and ammunition </B><I>We're very short of guns and ammunition. </I><B>| hold a gun on sb, hold a gun to sb's head </B><I>Two armed men held a gun to his head and made him empty the safe. </I><B>| turn a gun on yourself </B><I>The gunman then turned the gun on himself and blew his brains out. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>lust </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sexual desire </TT> </P>
+<P> <U> ADJ. </U><B> naked, pure </B><I>a relationship based on pure lust </I><B>| carnal, fleshly, physical, sexual </B> </P>
+<P> <U> VERB + LUST </U><B> be consumed with, feel </B><I>She felt no lust whatsoever for him. </I><B>| sate, satisfy </B><I>He used her just to sate his lust. </I> </P>
+<P> <SUP> 2 </SUP> <TT> strong desire for sth </TT> </P>
+<P> <U> ADJ. </U><B> blood </B><I>The ogre demanded the annual sacrifice of a young village lass to satisfy his blood lust. </I> </P>
+<P> <U> VERB + LUST </U><B> be driven by, have | satisfy </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She was driven by a lust for power. </I> </P>
+<P> <U> PHRASES </U><B> a lust for life</B> </P>
+</DIV>

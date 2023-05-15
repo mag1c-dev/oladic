@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>justification </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, every, some </B><I>You have every justification for feeling angry. </I><B>| the slightest </B><I>She had not given him the slightest justification for thinking she was interested in him. </I><B>| ample, sufficient | ethical, moral | intellectual, rational, theoretical | legal, political </B> </P>
+<P> <U> VERB + JUSTIFICATION </U><B> give (sb), provide (sb with) </B><I>She's unable to provide any justification for her actions. </I><B>| see </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>the argument which he put forward in justification </I><B>| with ~ </B><I>He felt, with some justification, that he had been unfairly treated. </I><B>| without ~ </B><I>She was arrested entirely without justification. </I><B>| ~ for </B><I>I can see some justification for her remarks. </I> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>label </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> paper, etc. attached to sth </TT> </P>
+<P> <U> ADJ. </U><B> adhesive, sticky | designer </B><I>clothes with a designer label </I><B>| address, luggage | price | warning </B> </P>
+<P> <U> VERB + LABEL </U><B> bear, carry, have </B><I>It doesn't have a price label on it. </I><B>| attach, put on, stick on </B><I>She stuck labels on all the jars. </I><B>| remove, take off | read </B><I>Always read the label before taking any medicine. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>What does it say on the label? </I><B>| ~ on </B><I>the label on the bottle </I> </P>
+<P> <SUP> 2 </SUP> <TT> description </TT> </P>
+<P> <U> VERB + LABEL </U><B> apply, attach, use </B><I>One sometimes feels that the label &lsquo;classic&rsquo; is applied to any book that is dull. </I> </P>
+<P> <SUP> 3 </SUP> <TT> company that produces records </TT> </P>
+<P> <U> ADJ. </U><B> record | major | independent </B> </P>
+<P> <U> VERB + LABEL </U><B> sign to/with </B><I>The band are hoping to sign with a major label by the end of the year. </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>The record was produced under the Virgin label. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>label </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put a label on sth </TT> </P>
+<P> <U> ADV. </U><B> correctly, properly | wrongly </B><I>Some of the plants were wrongly labelled. </I><B>| carefully, clearly, neatly </B><I>a pile of small plastic bags, each carefully labelled </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The samples were all labelled with a date and place of origin. </I> </P>
+<P> <SUP> 2 </SUP> <TT> describe sb/sth as a particular thing </TT> </P>
+<P> <U> ADV. </U><B> falsely, wrongly </B><I>She was wrongly labelled a liar. </I><B>| automatically </B> </P>
+<P> <U> PREP. </U><B> as </B><I>She had automatically labelled the boys as troublemakers. </I> </P>
+</DIV>

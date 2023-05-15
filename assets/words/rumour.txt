@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>rumour </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> malicious, nasty, scurrilous, ugly, vicious | baseless, false, unconfirmed, unfounded, unsubstantiated, wild | strong, widespread | persistent </B> </P>
+<P> <U> VERB + RUMOUR </U><B> start | fuel </B><I>His lengthy absence from work fuelled rumours that he might have been sacked. </I><B>| spread | hear | believe | deny | confirm </B><I>The actor confirmed rumours that he will be leaving the series. </I><B>| quash, scotch, silence </B><I>The Chief Executive issued a statement to quash rumours of financial problems. </I> </P>
+<P> <U> RUMOUR + VERB </U><B> circulate, get about/around, go around/round, spread | abound, be flying about/around, be rife </B><I>Rumours about an impending royal divorce were rife. </I><B>| sweep sth </B><I>The rumour quickly swept the town. </I><B>| persist </B> </P>
+<P> <U> RUMOUR + NOUN </U><B> factory, mill </B><I>The Washington rumour mill suggests the money changed hands illegally. </I> </P>
+<P> <U> PREP. </U><B> amid/amidst ~s </B><I>The manager resigned suddenly amidst rumours of misconduct. </I><B>| ~ about/concerning/surrounding </B><I>rumours surrounding the closure of the hospital </I><B>| ~ of </B><I>There were persistent rumours of drug taking among staff. </I> </P>
+<P> <U> PHRASES </U><B> rumour has it that &hellip; </B><I>Rumour has it that he was sacked from his last job. </I><B>| there is no truth in the rumour </B><I>There is no truth in the rumour that the head teacher is about to resign. </I> </P>
+</DIV>

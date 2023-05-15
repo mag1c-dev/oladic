@@ -1,0 +1,32 @@
+
+<DIV class="item"><P class="word"><B>step </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in walking, running, etc. </TT> </P>
+<P> <U> ADJ. </U><B> large, small | heavy, light | quick, slow | hesitant | involuntary </B><I>I gasped and took an involuntary step backwards. </I><B>| careful | unsteady </B> </P>
+<P> <U> VERB + STEP </U><B> go, take </B><I>He'd only gone a few steps, when he realized he'd left his wallet behind. </I><B>| retrace </B><I>You might find your ticket if you retrace your steps back to the car. </I> </P>
+<P> <U> PREP. </U><B> ~ (away) from </B><I>She was only a step away from the cliff edge. </I><B>| ~ towards </B><I>He took a hesitant step towards her. </I> </P>
+<P> <U> PHRASES </U><B> a spring in your step </B><I>I had a spring in my step when I walked into that office for the last time. </I><B>| a step ahead/behind </B><I>He lagged a few steps behind. </I><B>| a step back/backwards/forward/sideways, a step closer/nearer, with each/every step </B><I>He grew fainter with every step. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in dancing </TT> </P>
+<P> <U> ADJ. </U><B> dance | jive, tango, etc. </B> </P>
+<P> <U> VERB + STEP </U><B> execute, perform </B><I>He executed some jive steps on the pavement. </I><B>| learn | keep in </B><I>She had trouble keeping in step. </I> </P>
+<P> <U> PREP. </U><B> in ~, out of ~ (with) </B><I>He was out of step with the music. </I> </P>
+<P> <SUP> 3 </SUP> <TT> action taken in order to achieve sth </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, giant, huge, massive | small | critical, crucial, decisive, essential, great, important, key, major, vital | first, initial, preliminary | final, last | additional, further, next </B><I>What's the next step? </I><B>| logical, necessary, reasonable </B><I>We shall take all necessary steps to prevent public disorder. </I><B>| active | forward, positive | backward, retrograde </B><I>The new law is seen by many as a backward step. </I><B>| bold, brave, reckless | dramatic, drastic, extraordinary, rare, unprecedented, unusual | irreversible, irrevocable </B><I>It suddenly struck her that having a baby was an irrevocable step. </I><B>| careful, precautionary | faltering, tentative </B><I>They have taken their first tentative steps towards democracy. </I><B>| practical | welcome | immediate, urgent </B><I>I shall take immediate steps to have this matter put right. </I><B>| false </B><I>One false step could mean disaster. </I> </P>
+<P> <U> VERB + STEP </U><B> go, make, take | follow </B><I>If you follow all the steps, nothing will go wrong. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>The move was a first step in establishing a union. </I><B>| ~ to/towards </B><I>The talks mark a step towards peace. </I> </P>
+<P> <U> PHRASES </U><B> bring sth/be/come/move a step closer/nearer (to sth) </B><I>Greece moved a step closer to the World Cup finals with last night's win. </I><B>| a short step from/to sth </B><I>It's only a short step from this disorder to complete chaos. </I><B>| a step back/backwards/forward </B><I>The offer constitutes a considerable step forward. </I><B>| step by step </B><I>a step-by-step guide to setting up an aquarium </I><B>| a step further </B><I>If he goes one step further with this crazy idea, I'll resign. </I><B>| a step in the right direction </B><I>The new speed limit does not solve the problem, but it is a step in the right direction. </I><B>| a step on the road/way to sth </B> </P>
+<P> <SUP> 4 </SUP> <TT> on stairs, a ladder, etc. </TT> </P>
+<P> <U> ADJ. </U><B> bottom, top </B> </P>
+<P> <U> VERB + STEP </U><B> mind </B><I>Mind the step! </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She paused on the top step. </I> </P>
+<P> <U> PHRASES </U><B> a step down/up </B><I>There are three steps down to the garden. </I> </P>
+<P> <SUP> 5 </SUP> <TT> steps: set of steps  </TT> </P>
+<P> <U> ADJ. </U><B> front | back | outside </B> </P>
+<P> <U> QUANT. </U><B> flight </B><I>You have to go up four flights of steps to get up to the roof. </I> </P>
+<P> <U> VERB + STEP </U><B> ascend, climb, go/run, etc. up, mount </B><I>She went up a flight of steps to the side entrance. </I><B>| descend, go/run, etc. down </B> </P>
+<P> <U> STEP + VERB </U><B> lead to sth </B><I>The front steps lead to an enormous terrace. </I> </P>
+<P> <U> PREP. </U><B> ~ (down/up) to </B><I>the steps down to the pool </I> </P>
+<P> <U> PHRASES </U><B> the bottom/foot/top of the steps</B> </P>
+</DIV><DIV class="item"><P class="word"><B>step </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> briskly, quickly | hastily, smartly </B><I>He stepped back smartly from the edge. </I><B>| slowly | silently | delicately, lightly | carefully, gingerly </B><I>He stepped gingerly over the cat. </I><B>| boldly | aside, away, back, close, down, forward, inside, out, outside </B><I>Would you like to step inside for a few minutes? </I> </P>
+<P> <U> PREP. </U><B> across, from, in, in front of, into, on, onto, out of, over, past, through, towards </B><I>Don't step in the puddle. </I> </P>
+</DIV>

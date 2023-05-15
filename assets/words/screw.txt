@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>screw </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> masonry, wood </B> </P>
+<P> <U> VERB + SCREW </U><B> fix, loosen, tighten, turn</B> </P>
+</DIV><DIV class="item"><P class="word"><B>screw </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> firmly, tightly | down, together </B><I>Screw the drain cover down tightly. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>She screwed the lock into the door. </I><B>| on/onto </B><I>I screwed the lid back on the jar. </I><B>| to </B><I>The bed was screwed to the floor. </I> </P>
+<P> <U> PHRASES </U><B> screw sth in place/into position </B><I>I screwed the curtain rail in place. </I> </P>
+</DIV>

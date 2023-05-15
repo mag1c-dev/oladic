@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>target </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sb/sth that you try to destroy, hurt, steal, etc. </TT> </P>
+<P> <U> ADJ. </U><B> favourite, likely, natural, obvious, perfect, possible,  potential, prime, suitable </B><I>The prime minister is a favourite target of comedians. </I><B>| easy, sitting, soft, tempting, vulnerable </B><I>The stationary trucks were sitting targets for the enemy planes. </I><B>| legitimate | intended | </B> stationary | moving | ground | <B>military | civilian, non-military | terrorist </B> </P>
+<P> <U> VERB + TARGET </U><B> aim at, attack, go for, shoot at | hit, reach (used of a missile) </B><I>The bomb reached its intended target ten seconds later. </I> <B>| miss, overshoot </B><I>The flare overshot its target and set light to a hotel. </I><B>| destroy </B><I>The missile is aimed specifically to destroy military targets. </I><B>| track </B><I>The radar beam can track a number of targets almost simultaneously. </I> </P>
+<P> <U> PREP. </U><B> off ~ </B><I>The missile veered way off target and landed in the sea. </I><B>| on ~ </B><I>Politically speaking, his jibes were right on target. </I><B>| ~ for </B><I>an easy target for shoplifters </I> </P>
+<P> <SUP> 2 </SUP> <TT> object that you shoot at </TT> </P>
+<P> <U> VERB + TARGET </U><B> put up, set up </B><I>The archers were setting up their targets. </I><B>| aim at, shoot at | hit | miss | use sth as </B><I>The boys used an old tree stump as a target. </I> </P>
+<P> <U> TARGET + NOUN </U><B> area | practice </B> </P>
+<P> <U> PREP. </U><B> off ~ </B><I>Patton was just off target with a header. </I><B>| on ~ </B><I>His first shot was bang on target. </I><B>| wide of the ~ </B><I>The shot went wide of the target. </I> </P>
+<P> <SUP> 3 </SUP> <TT> result, person, etc. that you aim to reach </TT> </P>
+<P> <U> ADJ. </U><B> achievable, attainable, low, modest, realistic | ambitious, demanding, difficult, high, tough, unrealistic </B><I>She has always set herself very high targets. </I><B>| impossible | clear | chief, key, main, major, primary, prime, principal | annual | immediate, initial | future, long-term, ultimate | attainment, economic, financial, growth, inflation, performance, production, profit, recruitment, sales, spending </B> </P>
+<P> <U> VERB + TARGET </U><B> set </B><I>Managers must set targets that are realistic. </I><B>| aim for </B><I>Pupils should be given a target to aim for. </I><B>| achieve, meet, reach | stay within </B><I>in a desperate attempt to stay within budget targets </I><B>| exceed </B><I>The company pays bonuses to workers who exceed production targets. </I><B>| fall short of </B> </P>
+<P> <U> TARGET + NOUN </U><B> audience, group, market | date </B><I>to meet a target date of May 2002 </I><B>| figure, price, weight </B> </P>
+<P> <U> PREP. </U><B> above (a/the) ~ </B><I>Sales so far this year are 20% above target. </I><B>| off ~ </B><I>These figures are way off target. </I><B>| on ~ </B><I>We are still right on target. </I><B>| over (a/the) ~ </B><I>Many wage settlements reached were over the original target of 4%. </I><B>| towards (a/the) ~ </B><I>We are working towards a target of twenty cars a week. </I><B>| ~ for </B><I>setting new targets for growth </I> </P>
+</DIV><DIV class="item"><P class="word"><B>target </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, deliberately </B><I>a carefully targeted marketing campaign Children are deliberately targeted. </I><B>| particularly, specifically </B> </P>
+<P> <U> PREP. </U><B> at </B><I>The products are targeted at young people. </I><B>| for </B><I>This hospital is targeted for additional funding. </I><B>| on </B><I>Tax cuts should be targeted on the poor. </I><B>| towards </B><I>We target our services towards specific groups of people. </I> </P>
+</DIV>

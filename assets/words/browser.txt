@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>browser </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> web | default </B><I>What do you use as your default browser? </I><B>| frames-capable, frames-enabled </B> </P>
+<P> <U> VERB + BROWSER </U><B> update, upgrade </B> </P>
+<P> <U> BROWSER + VERB </U><B> support frames </B> </P>
+<P> <U> BROWSER + NOUN </U><B> toolbar, window </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Click the &lsquo;back&rsquo; button on your browser. </I>&gt; Special page at COMPUTER </B> </P>
+</DIV>

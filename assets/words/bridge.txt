@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>bridge </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> structure across a river, road, etc. </TT> </P>
+<P> <U> ADJ. </U><B> high, humpback, narrow | railway, road | Bailey, cantilever, pontoon, suspension | toll </B> </P>
+<P> <U> VERB + BRIDGE </U><B> build, erect | destroy | wash away </B><I>Floods washed away several bridges. </I><B>| cross </B><I>Cross the bridge and turn right into the town. </I> </P>
+<P> <U> BRIDGE + VERB </U><B> cross sth, span sth </B><I>The new bridge will cross the Thames at this point. </I><B>| link sth </B> </P>
+<P> <U> PREP. </U><B> across over a/the ~ </B><I>driving over a humpback bridge </I><B>| under a/the ~ </B><I>The road goes under the old railway bridge. </I><B>| ~ across, over </B><I>a bridge over the river </I> </P>
+<P> <SUP> 2 </SUP> <TT> card game </TT> </P>
+<P> <U> QUANT. </U><B> game, rubber </B><I>I enjoy a game of bridge occasionally. </I> </P>
+<P> <U> VERB + BRIDGE </U><B> play </B> </P>
+<P> <U> BRIDGE + NOUN </U><B> tournament | partner, player</B> </P>
+</DIV>

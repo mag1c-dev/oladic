@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>bell </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hollow metal object that rings </TT> </P>
+<P> <U> ADJ. </U><B> church, temple | wedding </B><I>(often figurative) The two of them went everywhere together and their friends could already hear wedding bells </I>(= were sure they would get married)</B><I>. </I><B>| cow | distant </B> </P>
+<P> <U> VERB + BELL </U><B> ring | hear </B> </P>
+<P> <U> BELL + VERB </U><B> chime, clang, jangle, peal, ring (out), sound, tinkle, toll </B><I>The bells on the harness tinkled softly. The church bells tolled for Evensong. </I> </P>
+<P> <U> BELL + NOUN </U><B> tower | pull, rope </B> </P>
+<P> <U> PHRASES </U><B> a chime of bells </B><I>the faint chime of bells </I><B>| a peal of bells </B><I>She heard a peal of church bells. </I><B>| a sound of bells </B><I>The sound of bells echoed across the valley. </I> </P>
+<P> <SUP> 2 </SUP> <TT> other object that rings </TT> </P>
+<P> <U> ADJ. </U><B> bicycle, door, doorbell | dinner, school | electric | alarm, warning </B><I>(often figurative) Alarm bells were ringing inside Stuart's head. </I> </P>
+<P> <U> VERB + BELL </U><B> press, ring, sound | answer </B><I>She hurried to answer the doorbell. </I> </P>
+<P> <U> BELL + VERB </U><B> go, ring, sound </B><I>The school bell goes at three every afternoon. </I> </P>
+<P> <U> BELL + NOUN </U><B> push</B> </P>
+</DIV>

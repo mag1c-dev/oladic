@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>dissolve </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> become/make sth liquid </TT> </P>
+<P> <U> ADV. </U><B> completely </B><I>The tablet hasn't dissolved completely yet. </I><B>| gradually, slowly | away </B><I>The limestone has simply dissolved away. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>Dissolve the sugar in water. </I> </P>
+<P> <SUP> 2 </SUP> <TT> end sth officially </TT> </P>
+<P> <U> ADV. </U><B> formally, officially </B><I>Their marriage was formally dissolved last year. </I> </P>
+</DIV>

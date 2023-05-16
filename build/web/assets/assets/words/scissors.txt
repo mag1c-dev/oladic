@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>scissors </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> blunt, sharp | kitchen | nail </B> </P>
+<P> <U> QUANT. </U><B> pair </B><I>a pair of nail scissors </I> </P>
+<P> <U> VERB + SCISSORS </U><B> cut sth with, use </B><I>Don't use these scissors to cut paper or card. </I> </P>
+<P> <U> SCISSORS + VERB </U><B> cut </B><I>These scissors don't cut very well. </I> </P>
+</DIV>

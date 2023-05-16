@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>assert </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> say sth clearly and firmly </TT> </P>
+<P> <U> ADV. </U><B> boldly, confidently, emphatically, forcefully, strongly </B><I>The report asserts confidently that the industry will grow. </I><B>| directly, explicitly | simply </B><I>He had no real evidence?he simply asserted that what he said was true. </I><B>| repeatedly | rightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> make other people recognize your rights/authority </TT> </P>
+<P> <U> ADV. </U><B> successfully </B><I>They successfully asserted their right to protect their homes. </I> </P>
+<P> <U> VERB + ASSERT </U><B> need to | be determined to, wish to </B><I>She wished to assert her independence from her parents. </I><B>| seek to, try to | be able to, manage to </B><I>He managed to assert his power over the media. </I><B>| be unable to, fail to</B> </P>
+</DIV>

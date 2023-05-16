@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>arena </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for sports/entertainment </TT> </P>
+<P> <U> ADJ. </U><B> Olympic | showjumping, sports | indoor </B> </P>
+<P> <U> VERB + ARENA </U><B> enter | leave </B><I>He left the arena to loud applause. </I> </P>
+<P> <U> PREP. </U><B> in/into an/the ~ </B><I>The rider has to halt the horse in the arena. </I> </P>
+<P> <SUP> 2 </SUP> <TT> area of activity </TT> </P>
+<P> <U> ADJ. </U><B> international, world | wider </B><I>Trades unions are active both in individual workplaces and in the wider arena of the state. </I><B>| public | commercial, political | competitive </B> </P>
+<P> <U> VERB + ARENA </U><B> provide </B><I>The conference should provide an arena for marketing our new products. </I><B>| emerge into, enter, move into </B><I>Some documents have now emerged into the public arena. He had no desire to enter the political arena. </I> </P>
+<P> <U> PREP. </U><B> in/within an/the ~ </B><I>The company has been very successful in the commercial arena. </I><B>| outside an/the ~ </B><I>I want to work outside the arena of competition. </I> </P>
+</DIV>

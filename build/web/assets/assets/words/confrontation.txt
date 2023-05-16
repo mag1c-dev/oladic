@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>confrontation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full-scale, major, serious </B><I>Their demands could lead to a serious confrontation with management. </I><B>| direct, eyeball-to-eyeball, face-to-face, head-on, outright | open | bitter, bloody, heated, ugly, violent | armed, military | political </B> </P>
+<P> <U> QUANT. </U><B> series </B> </P>
+<P> <U> VERB + CONFRONTATION </U><B> have | cause, end in, lead to, provoke | bring sb into </B><I>His actions brought him into direct confrontation with the authorities. </I><B>| avoid </B> </P>
+<P> <U> CONFRONTATION + VERB </U><B> arise, take place </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>a head-on confrontation between the two governments </I><B>| ~ over </B><I>She had a series of heated confrontations with her parents over homework. </I><B>| ~ with </B><I>a confrontation with the police </I> </P>
+</DIV>

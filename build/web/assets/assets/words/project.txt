@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>project </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> planned piece of work </TT> </P>
+<P> <U> ADJ. </U><B> large, major | ambitious | exciting | worthwhile | successful | joint | community | pilot </B><I>The scheme will be extended throughout the country after a successful six-month pilot project. </I><B>| research </B><I>They've set up a research project to investigate the harmful effects of air pollution. </I><B>| building, construction | capital, investment | development, educational, environmental </B> </P>
+<P> <U> VERB + PROJECT </U><B> set up | carry out, run | conceive, plan | launch | fund, support </B> </P>
+<P> <U> PROJECT + VERB </U><B> aim to, be aimed at sth </B><I>The project aims to reduce homelessness. </I> </P>
+<P> <U> PROJECT + NOUN </U><B> management | leader, manager, team </B> </P>
+<P> <U> PHRASES </U><B> the aim of the project </B><I>The aims of the project are threefold &hellip; </I>&gt; Special page at BUSINESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> piece of school work </TT> </P>
+<P> <U> ADJ. </U><B> French, history, etc. </B> </P>
+<P> <U> VERB + PROJECT </U><B> do </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>My class is doing a project on medieval towns. </I> </P>
+<P> <U> PROJECT + NOUN </U><B> work</B> </P>
+</DIV>

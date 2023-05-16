@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pesticide </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chemical | dangerous, hazardous | approved | banned, unapproved </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>It is claimed that current levels of pesticide do not pose a threat to health. </I><B>| trace </B><I>Traces of pesticide in the water were ten times above permissible levels. </I> </P>
+<P> <U> PESTICIDE + NOUN </U><B> use | levels | residues | contamination, pollution </B><I>tests for pesticide contamination in food </I><B>| poisoning | spray </B> </P>
+<P> <U> PHRASES </U><B> the use of pesticide</B> </P>
+</DIV>

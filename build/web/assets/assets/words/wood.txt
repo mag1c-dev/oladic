@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>wood </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> what trees are made of </TT> </P>
+<P> <U> ADJ. </U><B> hard | soft </B><I>Pine is a soft wood. </I><B>| dark </B><I>The pub had dark wood panelling. </I><B>| light, pale | green </B><I>The wood was too green to burn. </I><B>| dead, rotten, rotting </B><I>She pruned the dead wood from the tree. </I><B>| kindling </B><I>There were neat piles of kindling wood against the wall. </I><B>| natural </B><I>varnish that retains the natural wood look </I><B>| seasoned | rough | painted, polished, stained, varnished | carved | solid | laminated | charred | balsa, beech, pine, etc. </B> </P>
+<P> <U> QUANT. </U><B> block, piece, plank, strip </B> </P>
+<P> <U> VERB + WOOD </U><B> chop, cut, saw | be made from/in/(out) of, carve/make sth from/in/out of </B><I>The cabinet is made of cherry wood. We carve the moulds in wood. </I><B>| paint, polish, stain, varnish </B><I>She stained the wood green. </I><B>| season </B><I>Traditionally wood was seasoned in the open air. </I><B>| burn | gather </B><I>We gathered wood for the fire. </I> </P>
+<P> <U> WOOD + VERB </U><B> splinter </B><I>the sound of splintering wood </I><B>| rot </B><I>Over the years, much of the wood in the house had rotted. </I><B>| burn </B><I>Dry wood burns easily. </I> </P>
+<P> <U> WOOD + NOUN </U><B> chip | carving | floor, panel, panelling | laminate, veneer | finish </B><I>a wardrobe in a mahogany wood finish </I><B>| fire </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The chapel has some interesting works in wood and marble. </I> </P>
+<P> <SUP> 2 </SUP> <TT> area covered with trees </TT> </P>
+<P> <U> ADJ. </U><B> deep, dense, thick | dark, shady | broad-leaved, deciduous | beech, birch, oak, etc. </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>a walk in the woods </I><B>| through the ~ </B><I>He wandered through the beech wood. </I> </P>
+</DIV>

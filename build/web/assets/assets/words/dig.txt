@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>dig </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hard push </TT> </P>
+<P> <U> ADJ. </U><B> sharp </B> </P>
+<P> <U> VERB + DIG </U><B> give </B><I>She gave him a sharp dig in the ribs. </I><B>| feel, get </B> </P>
+<P> <U> PHRASES </U><B> a dig in the ribs </B> </P>
+<P> <SUP> 2 </SUP> <TT> critical remark </TT> </P>
+<P> <U> ADJ. </U><B> little | sly </B><I>I resisted the temptation to get in a sly dig at Fred. </I> </P>
+<P> <U> VERB + DIG </U><B> get in, have, make </B> </P>
+<P> <U> PREP. </U><B> ~ about, ~ at </B><I>They were having a little dig at her about the way she tells everybody else what to do. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in the ground </TT> </P>
+<P> <U> ADJ. </U><B> archaeological </B> </P>
+<P> <U> VERB + DIG </U><B> go on </B><I>I went on an archaeological dig over the summer. </I> </P>
+<P> <U> DIG + VERB </U><B> reveal sth </B><I>The dig revealed the site of a Roman villa. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dig </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> deep </B><I>We'll have to dig quite deep to get at the roots. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>digging for buried treasure </I><B>| through </B><I>digging through solid clay </I> </P>
+</DIV>

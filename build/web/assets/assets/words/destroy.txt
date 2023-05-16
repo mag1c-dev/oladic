@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>destroy </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> damage sth so badly that it no longer exists </TT> </P>
+<P> <U> ADV. </U><B> completely, entirely, totally, utterly | all but, almost, effectively, practically, virtually </B><I>Their lives have been virtually destroyed by this tragedy. </I><B>| largely | partly | systematically </B><I>The rainforest is being systematically destroyed. </I><B>| by fire </B><I>The building was destroyed by fire last year. </I> </P>
+<P> <U> VERB + DESTROY </U><B> can/could </B><I>Drugs can destroy the health and lives of young people. </I><B>| threaten to </B><I>This disease threatens to destroy many of our native trees. </I> </P>
+<P> <U> PHRASES </U><B> an attempt to destroy sth </B><I>a new attempt to destroy enemy positions </I><B>| be capable of destroying sth </B><I>These weapons are capable of destroying the entire planet. </I><B>| be intent on destroying sth </B><I>She seemed intent on destroying everything they had built up together. </I> </P>
+<P> <SUP> 2 </SUP> <TT> kill an animal </TT> </P>
+<P> <U> ADV. </U><B> humanely </B> </P>
+<P> <U> PHRASES </U><B> have to be destroyed </B><I>The horse broke a leg and had to be destroyed. </I> </P>
+</DIV>

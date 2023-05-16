@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>fog </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dense, heavy, thick | freezing | patchy </B><I>Drizzle and patchy fog are forecast. </I><B>| swirling </B> </P>
+<P> <U> QUANT. </U><B> bank, blanket, patch </B><I>The town was shrouded in a thick blanket of fog. </I> </P>
+<P> <U> VERB + FOG </U><B> be shrouded in </B> </P>
+<P> <U> FOG + VERB </U><B> cover sth, lie, shroud sth </B><I>A freezing fog lay over the valley. </I><B>| close in, come down, descend, roll in </B><I>A dense fog came down in the afternoon. A heavy fog rolled in from the sea. </I><B>| clear, disperse, lift </B><I>The fog had lifted by late morning. </I><B>| drift, swirl </B><I>fog drifting over the water </I><B>| obscure sth </B><I>A bank of fog obscured the farmhouse. </I> </P>
+<P> <U> FOG + NOUN </U><B> patches </B> </P>
+<P> <U> PREP. </U><B> in/into (a/the) ~ </B><I>We got lost in the fog. </I><B>| through (a/the) ~ </B><I>We drove slowly through the fog. </I> </P>
+</DIV>

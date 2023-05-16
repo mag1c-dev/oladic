@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>ease </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> alarming, astonishing, consummate, great, remarkable </B><I>I obtained the drugs with alarming ease. </I><B>| comparative, relative | apparent </B><I>I was surprised at the apparent ease with which he had got into the building. </I><B>| contemptuous </B><I>She returned her opponent's serve with contemptuous ease. </I><B>| practised </B> </P>
+<P> <U> PREP. </U><B> for ~ in </B><I>The back of the garment is split for ease in walking. </I><B>| for ~ of </B><I>The whole machine is designed for ease of use. </I><B>| with ~ </B><I>They passed the exam with ease. </I><B>| ~ of </B><I>The car brings ease of access to the countryside. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>ease </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sth less painful/serious/difficult </TT> </P>
+<P> <U> ADV. </U><B> considerably, greatly </B><I>The situation would be considerably eased if more money were made available. </I><B>| slightly, somewhat | gradually, slowly | away </B><I>The pain in my leg gradually eased away. </I> </P>
+<P> <U> VERB + EASE </U><B> help (to) </B><I>The new road should help ease traffic problems. </I><B>| begin to </B><I>Tensions between the two countries are beginning to ease. </I><B>| try to </B> </P>
+<P> <SUP> 2 </SUP> <TT> move carefully </TT> </P>
+<P> <U> ADV. </U><B> carefully, gently | away, back, down, forward, etc. </B><I>Jean eased back on the pillows and relaxed. </I> </P>
+<P> <U> PREP. </U><B> away from, into </B><I>He eased himself into the driving seat. </I><B>| out of </B><I>She carefully eased the car out of the garage </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>treasure </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> collection of very valuable objects </TT> </P>
+<P> <U> ADJ. </U><B> buried, hidden, lost, sunken | pirate, Roman, royal | vast </B><I>a vast treasure of medieval manuscripts </I> </P>
+<P> <U> VERB + TREASURE </U><B> hunt for, look for, search for | dig up, discover, find, uncover, unearth | hide </B> </P>
+<P> <U> TREASURE + NOUN </U><B> chest, house, trove </B><I>(figurative) This book is a treasure house of information on Arctic birds. </I><B>| hunter, hunting </B> </P>
+<P> <U> PHRASES </U><B> a hoard of treasure </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth that is very valuable </TT> </P>
+<P> <U> ADJ. </U><B> great, priceless | rare | ancient | forgotten, hidden, secret, unexpected </B><I>Many forgotten treasures have been discovered in the attics of old houses. </I><B>| archaeological, historic, historical | art, artistic, cultural | church | family | national </B> </P>
+<P> <U> VERB + TREASURE </U><B> discover, find, uncover, unearth</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>impose </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> effectively </B><I>The terms of the contract were effectively imposed rather than agreed. </I><B>| simply </B><I>New technology cannot be used successfully if it is simply imposed on an unwilling workforce. </I><B>| centrally </B><I>a centrally imposed school curriculum </I><B>| externally </B><I>the pressure of having to meet externally imposed targets </I><B>| artificially </B><I>Motivation to learn must come from the child; it cannot be artificially imposed. </I> </P>
+<P> <U> VERB + IMPOSE </U><B> seek to, strive to, try to </B> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>The government has imposed a ban on the sale of handguns. </I> </P>
+</DIV>

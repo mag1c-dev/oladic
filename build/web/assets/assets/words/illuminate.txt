@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>illuminate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> give light to sth </TT> </P>
+<P> <U> ADV. </U><B> brightly, clearly | dimly, faintly, softly </B><I>The room was dimly illuminated by the soft glow of his bedside lamp. </I><B>| briefly | suddenly </B> </P>
+<P> <SUP> 2 </SUP> <TT> make sth clear </TT> </P>
+<P> <U> ADV. </U><B> greatly, vividly </B><I>an incident which vividly illuminated the problems we faced </I> </P>
+<P> <U> VERB + ILLUMINATE </U><B> help (to) </B><I>The study of the present also helps to illuminate the past. </I> </P>
+</DIV>

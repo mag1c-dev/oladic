@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>ecology </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> fragile | animal, human, marine, plant </B> </P>
+<P> <U> VERB + ECOLOGY </U><B> damage, disrupt </B> </P>
+<P> <U> ECOLOGY + NOUN </U><B> movement</B> </P>
+</DIV>

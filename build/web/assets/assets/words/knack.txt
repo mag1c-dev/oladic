@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>knack </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> happy | uncanny | unhappy </B><I>He had the unhappy knack of making enemies in the party. </I> </P>
+<P> <U> VERB + KNACK </U><B> have | acquire, develop, get </B><I>Once you get the knack, it's easy. </I><B>| lose </B><I>I don't cook much these days and I think I may have lost the knack. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a woman with a knack for handling horses </I><B>| ~ of </B><I>He has the knack of scoring goals just when they are most needed. </I><B>| ~ to </B><I>Making omelettes isn't difficult, but there's a knack to it. </I> </P>
+</DIV>

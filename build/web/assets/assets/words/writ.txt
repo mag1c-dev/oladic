@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>writ </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> High Court, Supreme Court, etc. | legal | libel, personal injury, etc. </B> </P>
+<P> <U> VERB + WRIT </U><B> apply for, obtain </B><I>Creditors could obtain a writ for the arrest of their debtors. </I><B>| file, issue, serve </B><I>A writ was filed in the High Court. The solicitor came to serve a writ on him. </I><B>| be served with, receive </B><I>He has been served with a High Court writ. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>22 defendants are named in the writ. </I><B>| ~ against </B><I>The businessmen have issued a writ against the authority for damages. </I><B>| ~ for </B><I>a writ for damages/libel </I><B>| ~ of </B><I>(technical) a writ of execution/summons </I> </P>
+</DIV>

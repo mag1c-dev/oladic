@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hen </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> speckled | battery, free-range | mother </B><I>She fussed around like mother hen. </I><B>| broody </B> </P>
+<P> <U> VERB + HEN </U><B> keep </B> </P>
+<P> <U> HEN + VERB </U><B> lay (eggs) </B><I>The hen layed three beautiful speckled eggs. </I><B>| cackle, cluck, squawk </B><I>I could hear the hens clucking in the farmyard. </I><B>| roost | peck, scratch </B><I>The hens pecked hopefully at the dusty floor. </I> </P>
+<P> <U> HEN + NOUN </U><B> coop, house, roost</B> </P>
+</DIV>

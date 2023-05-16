@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>representation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that shows/describes sth </TT> </P>
+<P> <U> ADJ. </U><B> accurate, faithful, good, true | simplified | diagrammatic, graphic, pictorial, visual | symbolic | written </B><I>the written representation of a spoken text </I><B>| two-dimensional, etc. </B> </P>
+<P> <U> VERB + REPRESENTATION </U><B> generate, produce </B><I>There are many ways of generating a two-dimensional representation of an object. </I> </P>
+<P> <U> PHRASES </U><B> a form/means of representation </B> </P>
+<P> <SUP> 2 </SUP> <TT> having representatives to speak/vote for you </TT> </P>
+<P> <U> ADJ. </U><B> large | increased | strong | effective | adequate | balanced, equal, fair | direct </B><I>direct representation in Parliament </I><B>| democratic, proportional | parliamentary, political | black, female, minority | legal | consular, diplomatic | union | employee, labour </B> </P>
+<P> <U> VERB + REPRESENTATION </U><B> have </B><I>They had a strong representation in government. </I><B>| achieve, secure, win </B><I>All parties won representation in the national assembly. </I><B>| ensure, guarantee </B><I>He claims that their electoral system ensures fair representation of all parties. </I><B>| increase </B><I>The party has increased its representation in Parliament. </I><B>| reduce | allow sb, provide (sb with) </B><I>The accused was not allowed legal representation. </I><B>| get, obtain </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>representation by a lawyer </I><B>| ~ for </B><I>representation for employees </I><B>| ~ from </B><I>representation from all parties </I> </P>
+<P> <U> PHRASES </U><B> a system of representation </B> </P>
+<P> <SUP> 3 </SUP> <TT> formal statements </TT> </P>
+<P> <U> ADJ. </U><B> false | oral, written </B> </P>
+<P> <U> VERB + REPRESENTATION </U><B> make | receive </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>They may make representation to government on matters affecting their organization. </I> </P>
+</DIV>

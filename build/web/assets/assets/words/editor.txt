@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>editor </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> prepares a book, television or radio programme </TT> </P>
+<P> <U> ADJ. </U><B> commissioning | assistant, senior | copy | freelance | film, programme | art, cookery, fiction, music, picture </B> </P>
+<P> <SUP> 2 </SUP> <TT> in charge of a newspaper/part of a newspaper </TT> </P>
+<P> <U> ADJ. </U><B> chief, executive, managing | deputy | assistant, associate | contributing | joint | magazine, newspaper, tabloid | features, news, picture | specialist | City, economics, fashion, financial, foreign, industrial, literary, political, sports, travel </B><I>On page 12, our City editor comments on the takeover bid. </I> </P>
+<P> <U> PHRASES </U><B> a letter to the editor </B></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

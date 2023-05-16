@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>outline </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> line that shows the shape/outside edge of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> clear, sharp </B><I>The sharp outline of the island had become blurred. </I><B>| blurred, dim, faint, vague | simple </B> </P>
+<P> <U> VERB + OUTLINE </U><B> draw, make, trace </B><I>The children made an outline of their hands. </I><B>| make out, see </B><I>I could just make out the dim outlines of the house in the mist. </I><B>| soften </B> </P>
+<P> <U> OUTLINE + NOUN </U><B> drawing, map </B> </P>
+<P> <U> PREP. </U><B> around/round the ~ </B><I>to cut round the outline </I><B>| in ~ </B><I>He sketched the street in outline only. </I><B>| ~ of </B> </P>
+<P> <SUP> 2 </SUP> <TT> most important facts/ideas about sth </TT> </P>
+<P> <U> ADJ. </U><B> bare, basic, brief, rough </B><I>a brief outline of Polish history </I><B>| broad, general | course </B> </P>
+<P> <U> VERB + OUTLINE </U><B> give (sb), provide (sb with), write (sb) </B><I>Write an outline for your essay. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Here's the plan in outline. </I><B>| ~ for, ~ of</B> </P>
+</DIV><DIV class="item"><P class="word"><B>outline </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> briefly | clearly | roughly </B><I>He roughly outlined the plot of the opera. </I><B>| here | above, earlier, previously </B><I>using the plan outlined above </I><B>| below </B> </P>
+<P> <U> VERB + OUTLINE </U><B> attempt to, seek to, try to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>the policies outlined to Parliament on May 20th </I> </P>
+</DIV>

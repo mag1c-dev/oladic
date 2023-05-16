@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>tail </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of an animal, a bird, etc. </TT> </P>
+<P> <U> ADJ. </U><B> long | short | bushy, curly, curved, forked, pointed | muscular, prehensile </B> </P>
+<P> <U> VERB + TAIL </U><B> flick, swish, thrash, wag, whisk </B><I>The dog wagged its tail furiously. </I><B>| dock </B><I>It used to be fashionable to dock horses' tails. </I> </P>
+<P> <U> TAIL + VERB </U><B> twitch, wag, wave </B><I>The dog ran out with its tail wagging madly. </I> </P>
+<P> <U> TAIL + NOUN </U><B> feathers, fin </B> </P>
+<P> <SUP> 2 </SUP> <TT> of a thing </TT> </P>
+<P> <U> TAIL + NOUN </U><B> section </B><I>The plane's tail section had broken off. </I><B>| fin, light </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>the truck at the tail of our convoy </I> </P>
+<P> <U> PHRASES </U><B> nose to tail </B><I>Traffic which used to be nose to tail now flows freely. </I> </P>
+</DIV>

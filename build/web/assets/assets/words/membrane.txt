@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>membrane </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> thin | permeable, semi-permeable | cell | cellular | mucous </B> </P>
+<P> <U> MEMBRANE + VERB </U><B> surround sth </B> </P>
+<P> <U> MEMBRANE + NOUN </U><B> wall </B> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>The virus then passes through the cell membrane. </I> </P>
+</DIV>

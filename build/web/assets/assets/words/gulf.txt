@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>gulf </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, great, huge, unbridgeable, wide, yawning | growing, widening </B><I>There appeared to be a growing gulf between the prosperous south and the declining towns of the north. </I> </P>
+<P> <U> VERB + GULF </U><B> cause, create </B><I>This atrocity has created a huge gulf between the two groups. </I><B>| widen </B><I>Other factors widened the gulf that separated rich from poor. </I><B>| emphasize, illustrate </B><I>The documentary illustrated the gulf between industrialized and developing countries. </I><B>| bridge, span </B><I>The new degree course aims to bridge the gulf between education and industry. </I> </P>
+<P> <U> GULF + VERB </U><B> exist | separate sb/sth </B><I>the yawning gulf that separates the two cultures </I><B>| open up </B><I>A gulf had opened up between the former friends. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>For many teachers, there existed an unbridgeable gulf between home and school life. </I><B>| ~ in </B><I>the huge gulf in level between professional and amateur teams </I> </P>
+</DIV>

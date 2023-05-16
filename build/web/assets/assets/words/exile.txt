@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>exile </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> being sent to live in another country </TT> </P>
+<P> <U> ADJ. </U><B> long | permanent | enforced | self-imposed, voluntary | internal </B><I>Many spent decades in labour camps or in internal exile. </I> </P>
+<P> <U> VERB + EXILE </U><B> be driven/forced/sent into | flee into, go into </B><I>The king went into exile after the overthrow of his government. </I><B>| live in </B><I>They joined the many other Armenians living in exile. </I><B>| die in | return from </B><I>He still hopes to return from exile one day. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She had spent 40 years in exile. </I><B>| ~ from </B><I>Dante died in exile from Florence. </I> </P>
+<P> <U> PHRASES </U><B> a place of exile </B> </P>
+<P> <SUP> 2 </SUP> <TT> person forced to live in another country </TT> </P>
+<P> <U> ADJ. </U><B> political | tax </B>(= a rich person who moves to another country where taxes are lower)  </P>
+<P> <U> EXILE + VERB </U><B> return </B><I>A general amnesty was granted, allowing political exiles to return freely. </I> </P>
+<P> <U> PHRASES </U><B> the recall of exiles, the return of exiles</B> </P>
+</DIV><DIV class="item"><P class="word"><B>exile </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> permanently, temporarily | effectively </B><I>He was effectively exiled after a failed bid for power. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>The family was exiled from France. </I><B>| to </B><I>He was exiled to Siberia. </I> </P>
+</DIV>

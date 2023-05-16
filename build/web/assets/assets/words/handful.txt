@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>handful </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount that can be held in one hand </TT> </P>
+<P> <U> ADJ. </U><B> good | double </B><I>She bent and pulled up a double handful of weeds. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She grabbed handfuls of the dirty snow. </I> </P>
+<P> <SUP> 2 </SUP> <TT> small number of people/things </TT> </P>
+<P> <U> ADJ. </U><B> small, tiny | mere </B><I>having to cope with a mere handful of staff </I><B>| good </B><I>He has a good handful of letters after his name. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a handful of people </I> </P>
+<P> <U> PHRASES </U><B> just/only a handful of sth </B><I>We have received only a small handful of letters on this subject. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>residence </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> house </TT> </P>
+<P> <U> ADJ. </U><B> desirable | palatial | official | royal | private | main, principal </B><I>Versailles was the principal residence of the kings of France until 1793. </I><B>| summer | country, town | family | student </B> </P>
+<P> <SUP> 2 </SUP> <TT> living in a particular place </TT> </P>
+<P> <U> ADJ. </U><B> long | permanent | temporary | main, normal, principal </B> </P>
+<P> <U> VERB + RESIDENCE </U><B> establish, take up </B><I>The family took up temporary residence in the manor house. </I><B>| remain in, stay in </B><I>The family house was sold off but she remained in residence on the ground floor. </I> </P>
+<P> <U> RESIDENCE + NOUN </U><B> permit </B><I>He has applied for a residence permit. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The flag flying above the palace indicates that the Queen is in residence. </I> </P>
+<P> <U> PHRASES </U><B> a change of residence, a hall of residence </B><I>The university has two halls of residence for its postgraduate students. </I><B>| a place of residence </B><I>The notice was addressed to her last known place of residence. </I> </P>
+</DIV>

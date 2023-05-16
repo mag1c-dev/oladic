@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>station </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> where trains stop </TT> </P>
+<P> <U> ADJ. </U><B> next </B><I>We get off at the next station. </I><B>| railway, train | metro, subway, tube, underground </B> </P>
+<P> <U> VERB + STATION </U><B> get to, go to </B><I>We got to the station just as the train was pulling out. </I><B>| leave | arrive at </B><I>The train arrived at Oxford Station twenty minutes late. </I> </P>
+<P> <U> STATION + NOUN </U><B> platform </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>He got off at the same station. </I><B>| in a/the ~ </B><I>There's a newspaper kiosk in the station. </I> </P>
+<P> <SUP> 2 </SUP> <TT> where buses/coaches begin and end journeys </TT> </P>
+<P> <U> ADJ. </U><B> bus, coach </B> </P>
+<P> <U> VERB + STATION </U><B> leave </B><I>The coach leaves the station at 0900 hours. </I><B>| arrive at </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We waited for him at the coach station. </I> </P>
+<P> <SUP> 3 </SUP> <TT> radio/television company </TT> </P>
+<P> <U> ADJ. </U><B> radio, television/TV | foreign, local | cable, satellite | commercial </B> </P>
+<P> <U> VERB + STATION </U><B> get, pick up, tune (in) to </B><I>I can pick up a lot of foreign stations on this radio. </I><B>| listen to</B> </P>
+</DIV>

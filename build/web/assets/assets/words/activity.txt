@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>activity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> frantic, frenetic, heightened, increased, intense | criminal, illegal, subversive, terrorist | classroom, group | extra-curricular, leisure, leisure-time, outdoor, recreational, social | mental, physical, sexual | business, commercial, cultural, economic, industrial, intellectual, political, scientific | government, military, police, union | human | electrical, geological, volcanic </B> </P>
+<P> <U> QUANT. </U><B> burst, flurry </B><I>There was a flurry of activity as the film star appeared on the balcony. </I><B>| level </B><I>Newspapers report a higher level of activity in the foreign exchange markets. </I> </P>
+<P> <U> VERB + ACTIVITY </U><B> do </B><I>Here's an activity you can do with mixed ability classes. </I><B>| be involved in, engage in, participate in, take part in, undertake </B><I>We suspect he may be involved in illegal activities. Teachers here are not allowed to engage in any political activity. </I><B>| stop, suspend, terminate </B><I>The party's activities have been suspended. </I><B>| stimulate </B><I>It will only be possible to stimulate business activity with an injection of public funds. </I><B>| curb | resume | buzz with </B><I>The room was buzzing with activity. </I> </P>
+<P> <U> PHRASES </U><B> a hive of activity </B>(= a very busy place) <I>The classroom was a hive of activity as the children prepared for the concert. </I><B>| a sign of activity </B><I>Police watched the house all day, but there was no sign of activity. </I> </P>
+</DIV>

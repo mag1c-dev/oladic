@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>soil </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> earth </TT> </P>
+<P> <U> ADJ. </U><B> deep | shallow, thin | fertile, good, rich | barren, infertile, poor | light | heavy | loose | dry | damp, moist, waterlogged, wet | acid/acidic, alkaline | contaminated | top (also topsoil) | chalky, clay/clayey, peaty, sandy, stony | alluvial, desert, forest, garden, polar, volcanic </B> </P>
+<P> <U> VERB + SOIL </U><B> cultivate | dig, till, turn, work </B><I>fields of newly turned soil The clayey soils of the region are difficult to work. </I><B>| fertilize | drain | loosen </B> </P>
+<P> <U> SOIL + NOUN </U><B> conservation | degradation, erosion | conditions, fertility, quality </B><I>declining soil fertility </I><B>| type | surface | science, scientist </B> </P>
+<P> <U> PREP. </U><B> in (the) ~ </B><I>The flowers do well in sandy soil. </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of a country </TT> </P>
+<P> <U> ADJ. </U><B> native | foreign </B> </P>
+<P> <U> VERB + SOIL </U><B> set foot on </B><I>She first set foot on French soil at a small Channel port. </I> </P>
+<P> <U> PREP. </U><B> on &hellip; ~ </B><I>protests over the siting of nuclear weapons on British soil </I> </P>
+</DIV>

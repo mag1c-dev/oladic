@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>saga </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> continuing, long-running, ongoing | extraordinary | sorry, terrible | complicated | family </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> in a/the ~ </b></div><div class="excontent"><i>His suicide is the latest chapter in this terrible saga of greed and betrayal. </i> </div></p>
+</div>

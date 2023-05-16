@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>moon </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bright </B><I>A bright moon shone high overhead. </I><B>| crescent, full, half, new </B> </P>
+<P> <U> VERB + MOON </U><B> cover, hide </B><I>A large black cloud covered the moon. </I><B>| fly to, go to, land on </B> </P>
+<P> <U> MOON + VERB </U><B> appear, come out, rise | shine | set </B><I>The moon had almost set and the night was now dark. </I><B>| wane, wax | orbit sth </B> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>the first man to walk on the moon </I><B>| under a/the ~ </B><I>The road shone frostily under the full moon. </I> </P>
+<P> <U> PHRASES </U><B> the light of the moon </B><I>They had to work by the light of the moon. </I><B>| the surface of the moon</B> </P>
+</DIV>

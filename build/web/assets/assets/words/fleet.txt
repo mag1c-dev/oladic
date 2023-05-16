@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>fleet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, huge, large </B><I>a large fleet of gunboats </I><B>| small | fishing, whaling | merchant, shipping | battle, invasion | enemy, foreign | submarine, tanker | car, vehicle </B><I>the company car fleet </I> </P>
+<P> <U> VERB + FLEET </U><B> operate, own </B><I>He operated a small fishing fleet. </I><B>| command | mobilize, send (in) </B><I>The fleet was mobilized and the country prepared for war. </I><B>| disband, ground | defeat, destroy | join </B><I>The ship sailed to join the fleet at Barbados. </I><B>| maintain </B><I>The fleet was is very expensive to maintain. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There were over 500 ships in the enemy fleet. </I><B>| ~ of </B><I>a fleet of taxis </I> </P>
+</DIV>

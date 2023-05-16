@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>ruling </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> authoritative, definitive | unanimous | adverse | preliminary | original | final | court, legal </B> </P>
+<P> <U> VERB + RULING </U><B> give, hand down, issue, make | overturn, reverse </B><I>The Court of Appeal overturned the original ruling. </I><B>| uphold </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>the European Court's ruling against detention without trial </I><B>| ~ by </B><I>the ruling by the High Court </I><B>| ~ in favour of </B><I>The newspaper said that this was a ruling in favour of freedom of speech. </I><B>| ~ on </B><I>The House of Lords will make a final ruling on the case next week. </I> </P>
+</DIV>

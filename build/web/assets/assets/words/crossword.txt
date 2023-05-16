@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>crossword </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> cryptic, quick </B> </P>
+<P> <U> VERB + CROSSWORD </U><B> do, fill in, solve </B> </P>
+<P> <U> CROSSWORD + NOUN </U><B> clue, puzzle</B> </P>
+</DIV>

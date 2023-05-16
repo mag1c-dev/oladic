@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>washing machine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> automatic </B> </P>
+<P> <U> VERB + WASHING MACHINE </U><B> load | empty, unload | run </B><I>How often do you run your washing machine? </I> </P>
+<P> <U> PREP. </U><B> in/into a/the ~</B> </P>
+</DIV><DIV class="item"><P class="word"><B>washing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> cleaning sth with water </TT> </P>
+<P> <U> ADJ. </U><B> frequent </B><I>shampoo for frequent washing </I><B>| hand </B><I>I have quite a bit of hand washing to do. </I> </P>
+<P> <U> VERB + WASHING </U><B> do </B> </P>
+<P> <U> WASHING + NOUN </U><B> powder </B> </P>
+<P> <SUP> 2 </SUP> <TT> clothes </TT> </P>
+<P> <U> ADJ. </U><B> dirty </B> </P>
+<P> <U> QUANT. </U><B> line </B><I>A line of washing fluttered in the breeze. </I><B>| pile </B><I>piles of dirty washing </I> </P>
+<P> <U> VERB + WASHING </U><B> hang out, put out </B><I>Have you got any pegs so I can hang the washing out? </I> </P>
+<P> <U> WASHING + NOUN </U><B> line</B> </P>
+</DIV>

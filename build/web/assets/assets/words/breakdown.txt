@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>breakdown </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mechanical failure </TT> </P>
+<P> <U> ADJ. </U><B> electrical, mechanical </B> </P>
+<P> <U> BREAKDOWN + VERB </U><B> occur </B> </P>
+<P> <U> BREAKDOWN + NOUN </U><B> organization, service </B><I>The national breakdown organizations are on hand to help motorists 24 hours a day. </I><B>| crane, lorry, vehicle </B> </P>
+<P> <SUP> 2 </SUP> <TT> failure/end of sth </TT> </P>
+<P> <U> ADJ. </U><B> serious | complete, irretrievable </B><I>The only ground for divorce is the irretrievable breakdown of the marriage. </I><B>| communication, family, marital, marriage, relationship </B> </P>
+<P> <U> VERB + BREAKDOWN </U><B> cause, lead to </B> </P>
+<P> <U> PREP. </U><B> ~ in/of </B><I>a breakdown in negotiations </I> </P>
+<P> <SUP> 3 </SUP> <TT> collapse of mental health </TT> </P>
+<P> <U> ADJ. </U><B> emotional, mental, nervous, psychological </B> </P>
+<P> <U> VERB + BREAKDOWN </U><B> have, suffer </B> </P>
+<P> <SUP> 4 </SUP> <TT> list of the details of sth </TT> </P>
+<P> <U> ADJ. </U><B> detailed, full | cost </B> </P>
+<P> <U> VERB + BREAKDOWN </U><B> prepare </B><I>I have prepared a detailed cost breakdown for the project. </I><B>| give sb, provide (sb with) </B> </P>
+<P> <U> PREP. </U><B> ~ by, ~ of </B><I>Please provide us with a breakdown of expenditure by department. </I> </P>
+</DIV>

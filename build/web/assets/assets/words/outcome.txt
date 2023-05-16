@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>outcome </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> desirable, desired, favourable, good, happy, positive, satisfactory, successful | negative, unfortunate, unsatisfactory | fatal, tragic | possible | likely, probable | anticipated, expected, inevitable, intended, logical, predicted | unexpected | immediate | actual, eventual, final, long-term, ultimate | direct </B><I>a direct outcome of the strike </I><B>| practical | educational, electoral, political, etc. </B><I>(all technical) </I> </P>
+<P> <U> VERB + OUTCOME </U><B> affect, influence | decide, determine | achieve, have, produce </B><I>Their strategy produced the desired outcome. </I><B>| evaluate, measure </B><I>(technical) The aim is to evaluate possible outcomes. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the outcome of the election </I> </P>
+<P> <U> PHRASES </U><B> whatever the outcome </B><I>Whatever the final outcome of the talks, the war should end soon. </I> </P>
+</DIV>

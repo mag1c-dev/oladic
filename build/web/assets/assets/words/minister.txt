@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>minister </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> member of the government </TT> </P>
+<P> <U> ADJ. </U><B> prime | chief, principal </B><I>Queen Elizabeth's chief minister, Lord Burghley </I><B>| deputy | junior, senior | cabinet, departmental, EU, Foreign Office, government, Home Office | defence, education, environment, finance, foreign, health, interior, transport, etc. | relevant, responsible </B><I>Local authorities should submit schemes to the relevant minister for approval. </I><B>| former, outgoing </B> </P>
+<P> <U> VERB + MINISTER </U><B> appoint (sb), appoint sb as, nominate (sb), nominate sb as | elect (sb), elect sb as | dismiss (sb as) | serve as </B><I>He served briefly as prime minister from 1920 to 1921. </I><B>| lobby, persuade, urge </B><I>lobbying the Transport Minister over the issue </I><B>| advise, consult, instruct | accuse, criticize </B> </P>
+<P> <U> MINISTER + VERB </U><B> resign, retire | be accountable to sb, be responsible for sth </B><I>Ministers are accountable to Parliament. the minister responsible for the health service </I><B>| announce sth, unveil sth | agree (to) sth, approve sth, decide sth, endorse sth | intervene (in sth) </B><I>The foreign minister intervened with disastrous results. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the new minister for the Arts </I><B>| ~ of </B><I>A new minister of defence had been appointed. </I>&gt; See <A HREF="prime minister_noun.htm">PRIME MINISTER</A> </B> </P>
+<P> <SUP> 2 </SUP> <TT> priest </TT> </P>
+<P> <U> ADJ. </U><B> church | Baptist, Congregational, Methodist, Nonconformist, Presbyterian </B> </P>
+<P> <U> VERB + MINISTER </U><B> ordain (sb), ordain sb as </B><I>He was ordained minister of a small rural congregation. </I> </P>
+<P> <U> PHRASES </U><B> a minister of religion</B> </P>
+</DIV>

@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>divide </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, sharp | growing | north-south, etc. | class, cultural, ideological, religious, sectarian | party </B> </P>
+<P> <U> VERB + DIVIDE </U><B> close </B> </P>
+<P> <U> DIVIDE + VERB </U><B> widen | narrow | open (up) </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the sharp divide between rich and poor regions </I><B>| ~ in </B><I>The leader's speech aimed to close the embarrassing divide in party ranks. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>divide </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> separate into parts </TT> </P>
+<P> <U> ADV. </U><B> broadly, roughly </B><I>This report is divided broadly into two parts. </I><B>| exactly | clearly | conveniently, neatly </B><I>Railway enthusiasts divide neatly into two groups. </I><B>| evenly | up </B><I>The country is divided up into nine regions. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>The children divided into three teams. </I> </P>
+<P> <U> PHRASES </U><B> divide in two </B><I>the point where the river divides in two </I> </P>
+<P> <SUP> 2 </SUP> <TT> share </TT> </P>
+<P> <U> ADV. </U><B> equally | up </B> </P>
+<P> <U> PREP. </U><B> among/amongst </B><I>The money was divided equally among his sons. </I><B>| between </B><I>They divided their time between London and their country cottage. </I> </P>
+<P> <SUP> 3 </SUP> <TT> cause disagreement </TT> </P>
+<P> <U> ADV. </U><B> bitterly, deeply, hopelessly, seriously, sharply </B><I>This issue has bitterly divided the community. </I><B>| evenly </B> </P>
+<P> <U> PHRASES </U><B> be divided about/on/over sth </B><I>Cabinet ministers were deeply divided on the issue. </I> </P>
+</DIV>

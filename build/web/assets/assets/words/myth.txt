@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>myth </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> story from ancient times </TT> </P>
+<P> <U> ADJ. </U><B> ancient, classical | religious | Christian, Greek, Norse, Roman, etc. | creation </B>(= that explains how the world began) <I>the creation myths of the Eskimos </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>the myth about the golden apple </I> </P>
+<P> <SUP> 2 </SUP> <TT> idea/belief which is untrue/impossible </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>There is a great myth that all sports players are stupid. </I><B>| powerful | enduring, persistent | complete, total </B><I>It's a complete myth that he has royal blood. </I><B>| modern | folk, popular, widely held | national </B><I>The battle has become part of national myth. </I><B>| historical, political </B><I>The propaganda of both sides relies heavily on historical myth. </I><B>| heroic, romantic </B><I>Propaganda has turned the former president into a heroic myth. </I><B>| pernicious | cosy </B><I>The film tears down the cosy myths about fair play in war. </I> </P>
+<P> <U> VERB + MYTH </U><B> create, cultivate, establish </B><I>How did the myth get so firmly established in the popular consciousness? </I><B>| counter, counteract | bury, debunk, destroy, dispel, dispose of, explode, lay to rest, puncture, scotch, tear down | feed, foster, keep alive, maintain, perpetuate, sustain | be based on </B><I>People's faith in the Emperor was based on the myth that he was infallible. </I> </P>
+<P> <U> MYTH + VERB </U><B> surround sth </B><I>trying to lay to rest the myths surrounding mental disabilities </I><B>| persist </B><I>The myth persists that men are more intelligent than women. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a popular myth about twins </I><B>| ~ of </B><I>perpetuating the myth of racial superiority </I> </P>
+<P> <U> PHRASES </U><B> contrary to popular myth </B><I>Contrary to popular myth, women are not worse drivers than men. </I> </P>
+</DIV>

@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>waste </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> missing an opportunity to do/use sth </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, total, utter </B><I>The whole thing has been a complete waste of time. </I><B>| colossal, great, tremendous | awful, criminal, senseless, shocking, terrible </B><I>a criminal waste of public money </I><B>| needless, unnecessary, useless | tragic </B><I>a tragic waste of human life </I><B>| expensive | conspicuous </B> </P>
+<P> <U> VERB + WASTE </U><B> go to </B><I>If nobody comes all this food will go to waste. </I><B>| cause | avoid </B><I>Try to avoid unnecessary waste. </I><B>| cut down on, reduce | minimize </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a waste of energy/resources </I> </P>
+<P> <SUP> 2 </SUP> <TT> unwanted substances/things </TT> </P>
+<P> <U> ADJ. </U><B> dangerous, harmful, hazardous, poisonous, toxic </B><I>a dump containing hazardous waste </I><B>| non-toxic | high-level, intermediate-level, low-level | recyclable | agricultural, commercial, industrial | domestic, household, kitchen </B><I>All household waste should be disposed of in strong garbage bags. </I><B>| clinical, hospital, medical | nuclear, radioactive | chemical | plastic | organic | animal, human | garden, plant | municipal | liquid, solid | food, energy </B> </P>
+<P> <U> VERB + WASTE </U><B> produce </B><I>Tonnes of waste are produced every year. </I><B>| dispose of, dump, get rid of </B><I>More people are dumping waste illegally. </I><B>| clean up </B><I>the highly expensive task of cleaning up toxic waste </I><B>| burn, incinerate </B><I>an incinerator for burning hospital waste </I><B>| bury, store | process, treat </B><I>facilities for processing radioactive waste </I><B>| recycle, reprocess | deal with, handle, manage </B><I>the best solutions for managing waste </I><B>| cut down on, reduce | eliminate | export, import </B><I>Industrialized countries continue to export their waste. </I> </P>
+<P> <U> WASTE + VERB </U><B> contaminate sth, pollute sth </B><I>areas contaminated by industrial waste </I> </P>
+<P> <U> WASTE + NOUN </U><B> collection | burial, disposal, incineration | storage | processing, recycling, reprocessing, treatment </B><I>a waste reprocessing plant </I><B>| management | minimization, reduction | bin | dump, site, tip </B><I>The river was used for years as an industrial waste dump. </I><B>| outlet, pipe | imports </B><I>a ban on waste imports </I> </P>
+<P> <SUP> 3 </SUP> <TT> wastes: areas of ground not lived in or cultivated  </TT> </P>
+<P> <U> ADJ. </U><B> frozen, icy </B><I>the frozen wastes of Antarctica </I> </P>
+</DIV><DIV class="item"><P class="word"><B>waste </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> (not) entirely, (not) totally </B><I>In the end her efforts were not entirely wasted. </I><B>| just, simply </B><I>You're just wasting your breath. She never listens. </I><B>| largely </B> </P>
+<P> <U> VERB + WASTE </U><B> can't afford to, not want to </B><I>He didn't want to waste valuable time in idle gossip. </I><B>| be/seem a shame to </B><I>It seems a shame to waste this good food. </I><B>| not be going to </B><I>I'm not going to waste any more time on the problem. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>Don't waste your money on a hotel room. </I> </P>
+<P> <U> PHRASES </U><B> no time to waste </B><I>Hurry up?there's no time to waste! </I> </P>
+</DIV>

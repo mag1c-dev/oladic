@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>explosion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden loud bursting/exploding </TT> </P>
+<P> <U> ADJ. </U><B> almighty, big, deafening, enormous, huge, loud, major, massive, powerful, serious, tremendous, violent | minor, small | muffled </B><I>There was a muffled explosion somewhere on their right. </I><B>| distant </B><I>The floor shook with a distant explosion. </I><B>| controlled | test </B><I>a nuclear test explosion </I><B>| accidental | bomb, chemical, gas, mine, volcanic | atomic, nuclear | terrorist | political, social </B><I>(figurative) The shock waves of this political explosion engulfed the whole of Europe. </I> </P>
+<P> <U> VERB + EXPLOSION </U><B> cause, set off, trigger </B><I>The build-up of gas caused a small explosion. </I><B>| carry out </B><I>Bomb disposal experts carried out a controlled explosion on the suspect package. </I><B>| hear | prevent </B> </P>
+<P> <U> EXPLOSION + VERB </U><B> come, happen, occur, take place </B><I>The explosion came 20 minutes after a coded warning to the police. The explosion occurred just after midday. </I><B>| shake sth </B><I>The explosion shook nearby homes. </I><B>| destroy sth, rip through sth, wreck sth </B><I>A massive explosion ripped through the chemical works. </I><B>| injure sb, kill sb | echo </B><I>A loud explosion echoed round the valley. </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>3 people were injured in the explosion. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sudden large increase </TT> </P>
+<P> <U> ADJ. </U><B> sudden | veritable </B><I>In the 1860s a veritable explosion of major scientific publications took place. </I><B>| population | information </B><I>trying to keep up with the information explosion </I><B>| price, wage </B> </P>
+<P> <U> EXPLOSION + VERB </U><B> occur, take place </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a sudden explosion in the number of students </I><B>| ~ of </B><I>an explosion of interest in learning Japanese </I> </P>
+</DIV>

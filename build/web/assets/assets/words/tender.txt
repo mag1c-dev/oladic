@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>tender </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> kind and loving </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem | become </B> </P>
+<P> <U> ADV. </U><B> very | almost </B><I>Her expression became soft, almost tender. </I><B>| quite </B> </P>
+<P> <U> PREP. </U><B> towards </B><I>He felt tender and loving towards her. </I> </P>
+<P> <SUP> 2 </SUP> <TT> soft and easy to cut/bite </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> beautifully, very </B><I>This meat is beautifully tender. </I><B>| just </B><I>Boil the potatoes in salted water until just tender. </I><B>| almost | quite </B> </P>
+<P> <SUP> 3 </SUP> <TT> painful when touched </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look </B><I>The back of my neck feels very tender. </I><B>| become </B> </P>
+<P> <U> ADV. </U><B> very | rather, slightly</B> </P>
+</DIV><DIV class="item"><P class="word"><B>tender </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> highest, lowest | successful | competitive | open, private, public </B> </P>
+<P> <U> VERB + TENDER </U><B> lodge, make, put in, submit | invite, put sth out to, seek </B><I>The government invited tenders for a project to computerize the social security system. The laundry service was put out to competitive tender. </I><B>| go out to </B><I>The building of the new school will go out to tender. </I><B>| win | lose | accept </B> </P>
+<P> <U> TENDER + NOUN </U><B> offer | document, list | price </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The property is to be sold by tender. </I> </P>
+</DIV>

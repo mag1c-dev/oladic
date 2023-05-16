@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>soften </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> become/make sth softer/gentler </TT> </P>
+<P> <U> ADV. </U><B> considerably, a lot | a little, slightly </B><I>His smile softened slightly. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make sth seem less severe </TT> </P>
+<P> <U> ADV. </U><B> slightly, somewhat </B> </P>
+<P> <U> VERB + SOFTEN </U><B> try </B><I>The chancellor may try to soften the blow somewhat with a cut in interest rates. </I><B>| help (to)</B> </P>
+</DIV>

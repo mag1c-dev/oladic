@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>up-to-date </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> modern/most recent </TT> </P>
+<P> <U> VERBS </U><B> be | bring sth </B><I>We'll have to bring our equipment up-to-date. </I><B>| keep sth </B> </P>
+<P> <U> ADV. </U><B> really, very | bang, completely </B><I>Today's holiday parks are bang up-to-date. </I> </P>
+<P> <SUP> 2 </SUP> <TT> having the most recent information about sth </TT> </P>
+<P> <U> VERBS </U><B> be, seem | keep </B><I>It is difficult to keep up-to-date with all the developments. </I><B>| bring sb | keep sb </B> </P>
+<P> <U> ADV. </U><B> completely, fully </B> </P>
+<P> <U> PREP. </U><B> on </B><I>Bring me up-to-date on their progress. </I><B>| with </B><I>We can keep you fully up-to-date with your financial position. </I> </P>
+</DIV>

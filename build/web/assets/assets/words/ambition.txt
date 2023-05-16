@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>ambition </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> strong desire to be successful </TT> </P>
+<P> <U> ADJ. </U><B> driving, great, naked </B><I>She's a woman of driving ambition. </I><B>| personal </B> </P>
+<P> <U> VERB + AMBITION </U><B> have </B><I>He's got little ambition. </I><B>| lack </B> </P>
+<P> <U> AMBITION + VERB </U><B> burn </B><I>Ambition burned within her. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth you very much want to have/do </TT> </P>
+<P> <U> ADJ. </U><B> big, burning, driving, great, high, main, overriding, ultimate </B><I>Her biggest ambition was to climb Everest. </I><B>| lifelong, life's, longstanding </B><I>At last he had realized his life's ambition. </I><B>| modest | personal | secret | youthful | frustrated, thwarted, unfulfilled </B><I>This is a tale of jealousy and thwarted ambitions. </I><B>| career, imperial/imperialist, literary, political, presidential, social, sporting, territorial </B> </P>
+<P> <U> VERB + AMBITION </U><B> cherish, harbour, have, nurture </B><I>He had only one ambition in life. </I><B>| abandon, give up | achieve, fulfil, realize | limit, restrain | frustrate, thwart </B><I>He felt great resentment at having his ambition frustrated. </I> </P>
+</DIV>

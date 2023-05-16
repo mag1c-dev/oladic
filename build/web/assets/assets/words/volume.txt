@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>volume </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount of space </TT> </P>
+<P> <U> ADJ. </U><B> total </B><I>the total volume of the containers </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>They sell screws and nails by volume. </I><B>| in ~ </B><I>2 litres in volume </I> </P>
+<P> <SUP> 2 </SUP> <TT> quantity of sth </TT> </P>
+<P> <U> ADJ. </U><B> sheer </B><I>The sheer volume of fiction produced is staggering. </I><B>| considerable, enormous, great, heavy, high, huge, large, substantial, vast | small </B> </P>
+<P> <U> VERB + VOLUME </U><B> increase | decrease, reduce | double/grow//increase/rise in </B><I>Sales have doubled in volume. </I><B>| decrease/fall in </B> </P>
+<P> <U> VOLUME + VERB </U><B> double, increase, rise </B><I>Sales volume has doubled since 1999. </I><B>| decrease, fall </B> </P>
+<P> <SUP> 3 </SUP> <TT> strength of sound that sth makes </TT> </P>
+<P> <U> ADJ. </U><B> high | full, maximum | low </B> </P>
+<P> <U> VERB + VOLUME </U><B> increase, turn up | decrease, turn down | grow/increase/rise in | decrease/fall in </B> </P>
+<P> <U> VOLUME + NOUN </U><B> control </B><I>the volume control on the television </I> </P>
+<P> <U> PREP. </U><B> at &hellip; ~ </B><I>The car stereo was on at full volume. </I> </P>
+<P> <SUP> 4 </SUP> <TT> book </TT> </P>
+<P> <U> ADJ. </U><B> bound, leather-bound </B><I>a library full of bound volumes </I><B>| companion </B><I>a companion volume to the one on African wildlife </I><B>| rare </B><I>Only a specialist shop would have this rare volume. </I><B>| bulky, massive, substantial, thick, weighty | compact, slim | glossy </B><I>a forty-page, glossy volume about the company's products </I><B>| dusty | old | single | separate </B> </P>
+<P> <U> QUANT. </U><B> series </B> </P>
+<P> <U> VERB + VOLUME </U><B> publish </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Her poems are now available in a single volume. </I><B>| ~ of </B><I>a volume of short stories </I><B>| ~ on </B><I>a volume on ancient history </I> </P>
+<P> <U> PHRASES </U><B> run to five, several, etc. volumes </B><I>The encyclopedia is a huge work, running to 20 volumes. </I> </P>
+</DIV>

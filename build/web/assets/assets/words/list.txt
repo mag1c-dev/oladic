@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>list </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, short | complete, comprehensive, full </B><I>We are compiling a full list of all local businesses. </I><B>| alphabetical | waiting </B><I>We're on the waiting list for membership of the golf club. </I><B>| shopping | mailing | reading </B><I>For further information, see the reading list at the end of the chapter. </I><B>| guest | cast </B><I>The play has an impressive cast list. </I><B>| transfer </B>(= in football) <I>The club captain has been put on the transfer list at his own request. </I> </P>
+<P> <U> VERB + LIST </U><B> compile, draw up, make | put sth on </B><I>Did you put bread on the shopping list? </I> </P>
+<P> <U> LIST + VERB </U><B> comprise sth, contain sth </B><I>a list comprising all the paintings in the gallery </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Names of past members are not included in the list. </I><B>| on a/the ~ </B><I>I can't see your name on the list. </I><B>| ~ of </B><I>a list of 200 names </I> </P>
+<P> <U> PHRASES </U><B> the bottom/top of a list </B><I>Variety is near the top of many people's list of job requirements. </I><B>| high on a list </B><I>Safety is high on our list of priorities. </I><B>| a list of priorities </B><I>Phoning the bank is top of my list of priorities today. </I> </P>
+</DIV>

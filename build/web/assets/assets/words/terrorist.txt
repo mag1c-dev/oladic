@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>terrorist </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> suspected | armed | international </B><I>The bomb attacks have been attributed to a group of international terrorists. </I><B>| republican, right-wing, separatist, etc. </B> </P>
+<P> <U> TERRORIST + NOUN </U><B> band, faction, gang, group, organization, unit | act, action, activity, atrocity, attack, bomb, bombing, campaign, explosion, incident, murder, violence </B><I>an increase in terrorist activity </I><B>| threat | target </B><I>Aircraft remain likely terrorist targets. </I><B>| victim | charge, crime, offence | suspect</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>banking </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> business, commercial, corporate | investment, merchant | retail, wholesale | domestic, national | global, international | e-, electronic, Internet, online </B><I>At first consumers were wary of e-banking. </I> </P>
+<P> <U> BANKING + NOUN </U><B> system | market | group | business, industry, sector | community </B><I>the international banking community </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>This software is used in banking. </I> </P>
+</DIV>

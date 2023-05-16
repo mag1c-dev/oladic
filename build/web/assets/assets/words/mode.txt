@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mode </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> normal, traditional, usual | effective </B> </P>
+<P> <U> VERB + MODE </U><B> use </B><I>Try using some other mode of organization. </I><B>| change, switch to </B><I>He had no intention of changing his mode of attire. Switch from &lsquo;receive&rsquo; mode to &lsquo;transmit&rsquo; mode. </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>The machine is in its &lsquo;suspend&rsquo; mode. </I><B>| ~ of </B><I>Their main mode of subsistence is hunting. </I> </P>
+<P> <U> PHRASES </U><B> a mode of address, a mode of communication/expression, a mode of transport</B> </P>
+</DIV>

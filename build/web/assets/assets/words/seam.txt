@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>seam </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in fabric </TT> </P>
+<P> <U> VERB + SEAM </U><B> sew, stitch, tack </B><I>She sewed the seam with small neat stitches. </I><B>| unpick </B><I>It took hours to unpick the seams. </I><B>| iron, press </B> </P>
+<P> <U> PHRASES </U><B> be bursting at the seams </B><I>(often figurative) The film is bursting at the seams with good performances. </I><B>| come/fall apart at the seams </B><I>(often figurative) Their marriage was coming apart at the seams. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of coal, etc. </TT> </P>
+<P> <U> ADJ. </U><B> coal | rich </B><I>They're still mining a rich seam of high-grade coal. </I> </P>
+<P> <U> VERB + SEAM </U><B> mine</B> </P>
+</DIV>

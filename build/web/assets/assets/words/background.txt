@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>background </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> type of family/social class sb comes from </B> </TT> </P>
+<P> <U> ADJ. </U><B> broad, narrow </B><I>It is important to have a broad educational background. </I><B>| mixed | privileged, wealthy | deprived, disadvantaged, poor | middle class, upper class, working class | academic, class, cultural,  educational, ethnic, family, military, professional, religious, social, socio-economic </B> </P>
+<P> <U> VERB + BACKGROUND </U><B> come from, have </B><I>He came from a very privileged background. </I><B>| be drawn from </B><I>The students are drawn from very mixed social backgrounds. </I> </P>
+<P> <U> BACKGROUND + VERB </U><B> be in sth </B><I>Her background was in biology and medicine. </I> </P>
+<P> <U> PREP. </U><B> from a ~ </B><I>children from deprived backgrounds </I><B>| with a ~ </B><I>an economist with a background in business </I><B>| ~ in </B> </P>
+<P> <U> PHRASES </U><B> a range/variety of backgrounds </B> </P>
+<P> <SUP> 2 </SUP> <TT> facts connected with a situation/event </TT> </P>
+<P> <U> ADJ. </U><B> general | factual | cultural, economic, historical, political, technical </B> </P>
+<P> <U> VERB + BACKGROUND </U><B> describe, give (sb), outline, provide (sb with) </B><I>The book provides the background to the revolution. </I><B>| form </B><I>Those discussions formed the background to the decision. </I> </P>
+<P> <U> BACKGROUND + NOUN </U><B> information, knowledge, reading </B><I>background information on the country </I> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>Against that general background I shall give you a more detailed view of current medical practice. </I><B>| ~ to </B><I>the technical background to the report </I> </P>
+<P> <SUP> 3 </SUP> <TT> part of a view/picture behind the main parts </TT> </P>
+<P> <U> PREP. </U><B> against a/the ~ </B><I>The areas of water stood out against the dark background. </I><B>| in the ~ </B><I>The mountains in the background were capped with snow. </I><B>| on a/the ~ </B><I>bright blue on a red background </I> </P>
+<P> <SUP> 4 </SUP> <TT> position in which sb/sth is not important/noticed </TT> </P>
+<P> <U> VERB + BACKGROUND </U><B> blend into, fade into, melt/merge into, recede/retreat into, slip into </B><I>The dispute over the new contract allowed her other problems to fade into the background. He had learnt how to melt invisibly into the background. </I><B>| keep/remain/stay in </B><I>He prefers to remain in the background and let his assistant deal with the press. </I><B>| hover in </B><I>I could see my secretary hovering in the background. </I> </P>
+<P> <U> BACKGROUND + NOUN </U><B> music, noise, radiation </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>There was a radio on in the background. </I> </P>
+</DIV>

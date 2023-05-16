@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>shove </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little | good, hefty, violent </B> </P>
+<P> <U> VERB + SHOVE </U><B> give sb/sth </B><I>Harry gave him a hefty shove and he fell over. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>She sent him off with a little shove. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>shove </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard, roughly </B><I>I shoved hard until the door opened. </I><B>| aside, away, back </B><I>He shoved me roughly aside. </I> </P>
+<P> <U> PREP. </U><B> down, in </B><I>She shoved the letter in a drawer. </I><B>| into, out of, through </B><I>A leaflet was shoved through my letter box. </I> </P>
+<P> <U> PHRASES </U><B> push and shove </B><I>The crowd was pushing and shoving to get a better view. </I><B>| shove your way </B><I>We shoved our way to the bar. </I> </P>
+</DIV>

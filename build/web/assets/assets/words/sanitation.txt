@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>sanitation </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> inadequate, poor, primitive | better, improved, proper | public </b></div></p>
+<p> <u> SANITATION + NOUN </u><div class="ex"><b> system | project </b></div></p>
+<p> <u> PHRASES </u><div class="ex"><b> lack of sanitation </b></div><div class="excontent"><i>the direct link between disease and lack of adequate sanitation </i> </div></p>
+</div>

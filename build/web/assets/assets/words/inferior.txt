@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>inferior </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, seem </B><I>Her obvious popularity made me feel inferior. </I><B>| consider sb/sth, regard sb/sth as, see sb/sth as </B><I>Women are often regarded as inferior. </I> </P>
+<P> <U> ADV. </U><B> decidedly, distinctly, greatly, markedly, significantly, vastly, very | slightly, somewhat | demonstrably | instrinsically | intellectually, morally, socially, technically </B> </P>
+<P> <U> PREP. </U><B> in </B><I>These later paintings are slightly inferior in value. </I><B>| to </B><I>His later work was vastly inferior to his early work. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>inferior </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> intellectual, social </B> </P>
+<P> <U> VERB + INFERIOR </U><B> consider sb </B><I>She considered everyone her intellectual inferior. </I> </P>
+</DIV>

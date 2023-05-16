@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>weekend </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long </B><I>I took Friday off, and spent a long weekend visiting friends. </I><B>| wet </B><I>It will be a wet weekend for much of England and Wales. </I> </P>
+<P> <U> VERB + WEEKEND </U><B> spend </B> </P>
+<P> <U> WEEKEND + NOUN </U><B> break, trip, visit | home, retreat </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>What are you doing at the weekend? </I><B>| at ~s </B><I>What do you usually do at weekends? </I><B>| over the ~ </B><I>The office is closed over the weekend. </I> </P>
+<P> <U> PHRASES </U><B> a weekend away/off</B> </P>
+</DIV>

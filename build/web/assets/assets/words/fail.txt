@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>fail </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> not succeed </TT> </P>
+<P> <U> ADV. </U><B> dismally, miserably </B><I>I tried to cheer her up, but failed miserably. </I><B>| spectacularly </B><I>The show didn't just fail, it failed spectacularly. </I> </P>
+<P> <U> VERB + FAIL </U><B> cannot/could not, can/could hardly </B><I>The song can't fail to be a hit </I>(= will definitely be a hit)</B><I>. </I><B>| be bound to, be destined to, be doomed to </B><I>an enterprise that was doomed to fail from the start </I> </P>
+<P> <U> PREP. </U><B> in </B><I>Doctors are failing in their duty if they do not warn their patients of the dangers. </I></P>
+<P> <SUP> 2 </SUP> <TT> fail to do sth: not do sth  </TT> </P>
+<P> <U> ADV. </U><B> totally </B><I>The authorities have totally failed to address this problem. </I> </P>
+</DIV>

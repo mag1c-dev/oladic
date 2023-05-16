@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>weighted </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> equally </B><I>The exam consists of six equally weighted questions. </I><B>| heavily | unfairly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>This new legislation is unfairly weighted against the small farmer. </I><B>| in favour of </B><I>The course is heavily weighted in favour of engineering. </I><B>| towards </B><I>measures that are weighted towards small investors </I> </P>
+</DIV>

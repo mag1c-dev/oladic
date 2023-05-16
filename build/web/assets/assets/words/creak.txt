@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>creak </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> loud | little </B> </P>
+<P> <U> VERB + CREAK </U><B> give, let out </B><I>The gate gave a loud creak as he pushed it open. </I><B>| hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The gate swung open with a creak. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> the creak of a floorboard/door </B></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+</DIV><DIV class="item"><P class="word"><B>creak </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> slightly </B> </P>
+<P> <U> PREP. </U><B> under </B><I>The chair creaked under his weight. </I> </P>
+<P> <U> PHRASES </U><B> creak and groan </B><I>The ice creaked and groaned underfoot. </I><B>| creak open </B><I>The door creaked open an inch. </I> </P>
+</DIV>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>faint </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not strong or clear </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound </B><I>His voice sounded faint and far away. </I><B>| become, grow </B><I>The whispers grew fainter and fainter, then stopped altogether. </I> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>I can't make out the number?it's very faint. </I><B>| rather </B> </P>
+<P> <SUP> 2 </SUP> <TT> near to losing consciousness </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look </B> </P>
+<P> <U> ADV. </U><B> extremely, very | almost | a bit, a little, quite </B><I>I was beginning to feel a little faint. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>I was faint with hunger. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>faint </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> almost, nearly </B> </P>
+<P> <U> VERB + FAINT </U><B> be about to, be going to </B><I>He was so pale she thought he was going to faint. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He would faint at the sight of blood. </I><B>| from </B><I>She fainted from lack of air. </I><B>| with </B><I>She almost fainted with shock. </I> </P>
+</DIV>

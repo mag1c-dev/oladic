@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>recess </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> period when a parliament, etc. does not meet </TT> </P>
+<P> <U> ADJ. </U><B> Christmas, summer, Whitsun | parliamentary </B> </P>
+<P> <U> VERB + RECESS </U><B> go into, rise for </B><I>(formal)</I>, <B>take </B><I>Parliament is taking the Christmas recess a little early this year. </I><B>| return from </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The decision cannot be made while the council is in recess. </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of a wall, set back from the rest of the wall </TT> </P>
+<P> <U> ADJ. </U><B> deep | shallow | dark | window </B> </P>
+<P> <U> PREP. </U><B> in/inside </B><I>to fit a blind inside a window recess </I> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>recesses</B>) part furthest from the light </TT> </P>
+<P> <U> ADJ. </U><B> dark, deep, dim </B><I>He stared into the dark recesses of the room. </I><B>| far, inner | hidden </B> </P>
+<P> <U> VERB + RECESS </U><B> lurk in </B><I>(figurative) fears lurking deep in the recesses of our minds </I><B>| push sth into/to </B><I>(figurative) I had continually pushed my doubts to the darker recesses of my mind. </I> </P>
+<P> <U> PREP. </U><B> in/within the ~ of </B><I>The statue was in the inner recesses of the temple. </I> </P>
+<P> <U> PHRASES </U><B> the recesses of your mind </B><I>(figurative) </I> </P>
+</DIV>

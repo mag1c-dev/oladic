@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>kind </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be </B><I>She was endlessly kind and sympathetic. </I> </P>
+<P> <U> ADV. </U><B> especially, extremely, most, particularly, really, very | quite | endlessly </B> </P>
+<P> <U> PREP. </U><B> of </B><I>It really was most kind of you to help. </I><B>| to </B><I>My boss has been extremely kind to me. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>kind </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> different, same </B><I>She does the same kind of work as me. </I><B>| all, another, any, some, various </B><I>You need some kind of cover over it to protect it from the rain. We stock various kinds of lawnmower. </I><B>| each, every | certain, particular, special </B><I>Certain kinds of food are unsuitable for small children. </I><B>| best, worst | right, wrong </B><I>Be sure to eat enough of the right kind of food. </I><B>| funny, odd, strange </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The regions differ in size, but not in kind. </I><B>| of a ~ </B><I>You're making progress of a kind </I>(= some progress, but not very much, or not of the best type)</B><I>. They're two of a kind </I>(= very like each other)</B><I>?both workaholics! </I><B>| of &hellip; ~ </B><I>books of every kind music of different kinds </I><B>| of its ~ </B><I>The new school was the first of its kind. </I><B>| ~ of </B><I>a special kind of oil </I> </P>
+<P> <U> PHRASES </U><B> a/the kind of thing </B><I>Do you know the kind of thing I mean? They sell all kinds of things. </I><B>| a kind of way </B><I>I missed him, in a funny kind of way. </I><B>| nothing/something of that/the kind </B><I>&lsquo;I was terrible!&rsquo; &lsquo;You were nothing of the kind!&rsquo; &lsquo;He's resigning.&rsquo; &lsquo;I'd suspected something of the kind.&rsquo; </I> </P>
+</DIV>

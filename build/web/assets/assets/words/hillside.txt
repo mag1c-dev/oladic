@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>hillside </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> steep | bare, exposed, open, rocky | grassy, green, wooded </B><I>On our left was a wooded hillside. </I><B>| terraced </B><I>I was back in wine country, with terraced hillsides on both sides of the road. </I><B>| distant </B> </P>
+<P> <U> VERB + HILLSIDE </U><B> be set on </B><I>Many of the chalets are set on a hillside reached by steps. </I> </P>
+<P> <U> PREP. </U><B> down a/the ~ </B><I>A stream tumbles down the steep hillside. </I><B>| on a/the ~ </B><I>The house was on a hillside outside the town. </I><B>| up a/the ~ </B><I>We clambered up the hillside to the ridge above. </I><B>| ~ above </B><I>the hillside above the village </I> </P>
+</DIV>

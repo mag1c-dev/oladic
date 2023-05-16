@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>code </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> system of letters, numbers, etc. for secret information </TT> </P>
+<P> <U> ADJ. </U><B> secret | Morse </B> </P>
+<P> <U> VERB + CODE </U><B> break, crack, decipher </B><I>The code was difficult to crack. </I><B>| use, write in | invent, make up </B> </P>
+<P> <U> CODE + NOUN </U><B> word </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>All the messages were in code. </I> </P>
+<P> <SUP> 2 </SUP> <TT> numbers/letters for identifying sth </TT> </P>
+<P> <U> ADJ. </U><B> area, dialling </B><I>What's the area code for Bath? </I><B>| post/postal | bar, charge | DNA, genetic | binary </B>(= a system of computer programming instructions) <B>| error </B>(= on a computer)  </P>
+<P> <U> CODE + NOUN </U><B> number </B> </P>
+<P> <SUP> 3 </SUP> <TT> set of rules for behaviour </TT> </P>
+<P> <U> ADJ. </U><B> strict | ethical, moral | civil, criminal, disciplinary, penal | Highway </B><I>the Highway Code </I>(= the official rules for users of public roads in Britain) <B>| dress </B> </P>
+<P> <U> VERB + CODE </U><B> have | devise, draw up, establish, formulate, lay down </B><I>The company has drawn up a new disciplinary code. </I><B>| comply with, follow | break, infringe, violate </B><I>He was thrown out for infringing the club's strict dress code. </I> </P>
+<P> <U> PHRASES </U><B> a code of behaviour/conduct/ethics/honour/practice </B><I>The profession has a strict code of practice. </I> </P>
+</DIV>

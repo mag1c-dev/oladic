@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>stain </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> stubborn | dark | coffee, grass, etc. </B> </P>
+<P> <U> VERB + STAIN </U><B> leave | get out, remove </B> </P>
+<P> <U> STAIN + VERB </U><B> spread </B><I>The glass fell off the table and a dark stain spread over the carpet. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>The coffee left a stain on his shirt. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stain </B><I>verb </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The shirt was heavily stained with blood. </I> </P>
+<P> <U> PHRASES </U><B> be badly/heavily/slightly stained, stain sth green, red, etc. </B><I>The children's fingers were stained purple with blackberry juice. </I> </P>
+</DIV>

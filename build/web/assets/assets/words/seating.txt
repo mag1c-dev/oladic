@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>seating </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> comfortable </B><I>The auditorium has comfortable seating and modern acoustics. </I> </P>
+<P> <U> SEATING + NOUN </U><B> area | arrangements, plan </B><I>We need to work out the seating plan for the wedding. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>There is seating for 250 people. </I> </P>
+</DIV>

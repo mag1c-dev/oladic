@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>bass </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lowest part in music </TT> </P>
+<P> <U> ADJ. </U><B> boomy, loud, pounding | solid </B><I>The bass clarinet forms a solid bass for the woodwind group. </I><B>| ground </B><I>The church organist may improvise on a ground bass. </I><B>| figured </B>(= a bass line in which the chords are represented by figures, not written out in full) <I>the abandonment in the late 18th century of figured bass in favour of completely written out orchestral scores </I> </P>
+<P> <U> VERB + BASS </U><B> sing </B><I>He sings bass in our local choir. </I><B>| turn down/up </B><I>He always plays his stereo with the bass turned right up. </I> </P>
+<P> <U> BASS + NOUN </U><B> note, sound | line </B><I>a pounding bass line </I><B>| clef </B> </P>
+<P> <SUP> 2 </SUP> <TT> lowest male singing voice </TT> </P>
+<P> <U> ADJ. </U><B> deep, low </B> </P>
+<P> <U> VERB + BASS </U><B> sing </B><I>Don has agreed to sing bass </I>(= sing the bass part)</B><I>. </I> </P>
+<P> <U> BASS + NOUN </U><B> voice | part </B> </P>
+<P> <U> PREP. </U><B> in a &hellip; ~ </B><I>He answered my question in a surprisingly deep bass. </I> </P>
+<P> <SUP> 3 </SUP> <TT> bass guitar </TT> </P>
+<P> <U> ADJ. </U><B> electric | fretless </B> </P>
+<P> <U> VERB + BASS </U><B> tune (up) </B> </P>
+<P> <U> BASS + NOUN </U><B> guitar </B>&gt; Special page at MUSIC </B> </P>
+</DIV>

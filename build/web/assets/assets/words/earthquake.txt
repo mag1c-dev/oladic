@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>earthquake </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, great, huge, major, massive, severe | minor, small </B> </P>
+<P> <U> EARTHQUAKE + VERB </U><B> happen, hit sth, occur, strike (sth) </B><I>The earthquake hit the city at two in the morning. </I><B>| shake sth </B><I>The earthquake shook buildings throughout the business district. </I><B>| destroy sth, devastate sth, kill sb, leave sb homeless | measure sth </B><I>an earthquake measuring 5.8 on the Richter scale </I> </P>
+<P> <U> EARTHQUAKE + NOUN </U><B> zone </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The block of flats was destroyed in an earthquake. </I> </P>
+<P> <U> PHRASES </U><B> the epicentre of an earthquake, the magnitude of an earthquake</B> </P>
+</DIV>

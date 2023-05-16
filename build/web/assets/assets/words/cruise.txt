@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cruise </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> leisurely, luxury, pleasure </B><I>a pleasure cruise around the bay </I><B>| Caribbean, Mediterranean, world, etc. </B> </P>
+<P> <U> VERB + CRUISE </U><B> go on, take </B><I>She used all her savings to go on a world cruise. </I> </P>
+<P> <U> CRUISE + NOUN </U><B> liner, operator, ship </B> </P>
+<P> <U> PREP. </U><B> on a/the~ </B><I>They met on a cruise. </I><B>| ~ along </B><I>a cruise along the coast </I><B>| ~ around/round</B> </P>
+</DIV>

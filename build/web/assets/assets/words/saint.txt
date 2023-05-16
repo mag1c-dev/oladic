@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>saint </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> blessed, holy | patron </b></div><div class="excontent"><i>St Nicholas is the patron saint of children. </i> </div></p>
+<p> <u> VERB + SAINT </u><div class="ex"><b> canonize</b></div></p>
+</div>

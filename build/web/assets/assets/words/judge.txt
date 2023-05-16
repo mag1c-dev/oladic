@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>judge </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> applies the law </TT> </P>
+<P> <U> ADJ. </U><B> experienced | learned | senior | presiding, trial | deputy | appeal (court), appellate, circuit, county court, district, federal, High Court, Supreme Court </B> </P>
+<P> <U> VERB + JUDGE </U><B> be, sit as </B><I>By next year you could be sitting as a High Court judge. </I><B>| appoint (sb as) </B> </P>
+<P> <U> JUDGE + VERB </U><B> preside, sit </B><I>Which judge will be sitting next week? </I><B>| call sb </B><I>The judge called the remaining witness for the Crown. </I><B>| direct sb </B><I>The judge must direct the jury on points of law. </I><B>| consider sth | accept sth, admit sth </B><I>The judge admitted the notes of the interview as evidence. </I><B>| dismiss sth, refuse sth, reject sth </B><I>The trial judge dismissed her compensation claim. </I><B>| conclude sth, decide sth, find sth, hold sth, rule sth, uphold sth </B><I>The judge held that the company had been negligent. </I><B>| sum up </B><I>The judge summed up and the jury retired to consider its verdict. </I><B>| sentence sb | order sth </B><I>The judge ordered the company to pay compensation to the claimant. </I><B>| award (sb) sth, grant (sb) sth </B><I>The judge awarded him damages of </I>&pound;</B><I>20,000. </I> </P>
+<P> <SUP> 2 </SUP> <TT> decides who has won a competition </TT> </P>
+<P> <U> ADJ. </U><B> competition | independent </B> </P>
+<P> <U> QUANT. </U><B> panel </B><I>a panel of independent judges </I> </P>
+<P> <U> VERB + JUDGE </U><B> choose sb/sth, decide sth </B> </P>
+<P> <U> PHRASES </U><B> the judges' decision </B><I>The judges' decision on the entries is final. </I> </P>
+<P> <SUP> 3 </SUP> <TT> has the ability/knowledge to give an opinion </TT> </P>
+<P> <U> ADJ. </U><B> astute, good, great, shrewd </B><I>You are the best judge of what your body needs. a shrewd judge of character </I><B>| poor | impartial </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He is a good judge of footballing talent. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>judge </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> correctly, rightly | wrongly </B><I>I think I judged the distance wrongly. </I><B>| fairly, properly | harshly </B><I>I think you're judging her rather harshly. </I><B>| objectively | beautifully, carefully, finely, nicely, perfectly, well </B><I>Their performance of the concerto was beautifully judged and finely controlled. &lsquo;There's something I haven't told you.&rsquo; She judged her words carefully. The bowler judged it well, timing the ball to perfection. </I><B>| accordingly </B><I>Those who preach intolerance should be judged accordingly. </I> </P>
+<P> <U> VERB + JUDGE </U><B> be difficult to, be hard to, be impossible to | be able to, be in a position to </B><I>I am in no position to judge whether what she is doing is right or wrong. </I><B>| learn to </B><I>learning to judge distances </I> </P>
+<P> <U> PREP. </U><B> according to </B><I>He believed that schools should be judged according to strictly academic criteria. </I><B>| against </B><I>judging his own performance against the performance of others </I><B>| by </B><I>You will be judged by the work you have produced over the year. </I><B>| from </B><I>The age of the furniture can be judged from the type of wood used. </I><B>| on </B><I>Your slogan will be judged on its originality and style. </I> </P>
+<P> <U> PHRASES </U><B> criteria for judging </B><I>People use different criteria for judging success at school. </I><B>| don't judge a book by its cover </B><I>(figurative) </I>(= don't judge sth by how it looks), <B>judge by appearances, judging by/from sth </B><I>He seems to have been a popular person, judging by the number of people at his funeral. </I><B>| to judge by/from </B><I>To judge from what she said, she was very disappointed. </I><B>| judge for youself </B><I>Readers are left to judge for themselves whether McCrombie is hero or villain. </I><B>| judge sth on its merits </B><I>Each painting must be judged on its own merits. </I> </P>
+</DIV>

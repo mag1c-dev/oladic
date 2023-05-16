@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>monitor </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> television/computer screen </TT> </P>
+<P> <U> ADJ. </U><B> colour | CCTV, computer, television/TV, video </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>The security staff can see all the outside of the building on their CCTV monitors. </I> </P>
+<P> <SUP> 2 </SUP> <TT> machine that records/checks sth </TT> </P>
+<P> <U> ADJ. </U><B> foetal, heart, oxygen, pulse, radiation </B> </P>
+<P> <U> MONITOR + VERB </U><B> detect sth | show sth </B><I>The heart monitor shows the strength of your pulse. </I> </P>
+<P> <SUP> 3 </SUP> <TT> sb who checks sth is done fairly/properly </TT> </P>
+<P> <U> ADJ. </U><B> EU, UN </B><I>UN monitors declared the referendum fair. </I><B>| school | health, peace</B> </P>
+</DIV><DIV class="item"><P class="word"><B>monitor </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, closely, rigorously, strictly </B><I>Television advertising is strictly monitored. </I><B>| regularly, routinely, systematically | constantly, continuously | effectively, properly | automatically </B> </P>
+<P> <U> VERB + MONITOR </U><B> be able to </B><I>We will now be able to monitor its progress more closely. </I><B>| continue to </B><I>The authorities will continue to monitor the situation. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The workers are constantly monitored for exposure to radiation. </I> </P>
+</DIV>

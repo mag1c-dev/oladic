@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>torch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> electric light carried in the hand </TT> </P>
+<P> <U> ADJ. </U><B> powerful | electric </B> </P>
+<P> <U> VERB + TORCH </U><B> carry, have | switch off/on, turn off/on | flash, play, point, shine </B><I>The policeman played his torch over the men's faces. I shone my torch through the crack. </I> </P>
+<P> <U> TORCH + VERB </U><B> flash, play, shine </B><I>A powerful torch shone in their direction. </I> </P>
+<P> <U> TORCH + NOUN </U><B> beam </B> </P>
+<P> <U> PHRASES </U><B> the beam of a torch, light from/of a torch </B><I>We struggled to read the map by the light of the torch. </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of burning wood carried to give light </TT> </P>
+<P> <U> ADJ. </U><B> blazing, burning, flaming, flaring, flickering </B> </P>
+<P> <U> VERB + TORCH </U><B> light </B><I>They lit their torches from the fire. </I><B>| carry, hold </B><I>Servants were carrying lighted torches. </I> </P>
+<P> <U> TORCH + VERB </U><B> light </B><I>The path to the castle was lit by blazing torches. </I><B>| burn </B><I>The torches were burning fiercely. </I><B>| flare | flicker, splutter | go out </B><I>The torch flickered and went out. </I> </P>
+</DIV>

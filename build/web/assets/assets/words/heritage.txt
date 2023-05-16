@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>heritage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rich | natural | common, national </B><I>Folk songs are part of our common heritage. </I><B>| architectural, artistic, cultural, historical, literary </B> </P>
+<P> <U> VERB + HERITAGE </U><B> have </B><I>The city has an exceptionally rich heritage of historic buildings. </I><B>| preserve, protect </B><I>protecting our heritage of wild plants </I> </P>
+<P> <U> HERITAGE + NOUN </U><B> centre, museum, site</B> </P>
+</DIV>

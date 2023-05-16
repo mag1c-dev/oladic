@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>autonomy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, greater, more | complete, full | relative | individual, personal | local, national, regional | administrative, cultural, economic, financial, managerial, political, professional, etc. | pupil, teacher, worker, etc. </B> </P>
+<P> <U> QUANT. </U><B> degree, measure </B><I>a high degree of autonomy </I> </P>
+<P> <U> VERB + AUTONOMY </U><B> enjoy, have </B><I>The subsidiary companies will now have more autonomy. </I><B>| gain | seek, struggle for, want | give sb, grant (sb) </B><I>Head office is giving the regional offices more autonomy. </I><B>| increase </B><I>the need to increase worker autonomy </I><B>| reduce </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>Schools have gained greater autonomy from government control. </I> </P>
+<P> <U> PHRASES </U><B> a demand for autonomy </B><I>demands for cultural autonomy </I> </P>
+</DIV>

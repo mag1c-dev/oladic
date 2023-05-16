@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>detection </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> early </B><I>Our aim is the early detection and treatment of all cancers. </I> </P>
+<P> <U> VERB + DETECTION </U><B> avoid, escape, evade </B><I>Their prey can sometimes escape detection by remaining still. </I> </P>
+<P> <U> DETECTION + NOUN </U><B> rate </B><I>The latest figures show falling crime detection rates. </I> </P>
+</DIV>

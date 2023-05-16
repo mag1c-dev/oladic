@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>pallor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> slight | deathly, ghostly, sickly </B><I>the deathly pallor of her face </I><B>| green, grey, white </B> </P>
+<P> <U> VERB + PALLOR </U><B> have </B><I>He had a sickly green pallor. </I> </P>
+</DIV>

@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>rage </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> great anger </TT> </P>
+<P> <U> ADJ. </U><B> blind, cold, icy, pure | helpless, impotent </B><I>burning with impotent rage </I><B>| pent-up, suppressed </B> </P>
+<P> <U> QUANT. </U><B> fit, burst </B><I>He punched the wall in a fit of rage. </I> </P>
+<P> <U> VERB + RAGE </U><B> be beside yourself with, be boiling/burning with, be choked with, be filled with, be full of, be purple/red/white with, be rigid/stiff with, be shaking/trembling with, feel, seethe with </B><I>He glared at me, quite beside himself with rage. &lsquo;How dare you!&rsquo; she said, her voice choked with rage. </I><B>| vent </B><I>The people vented their rage on government buildings. </I><B>| control, master </B><I>He managed to master his rage. </I> </P>
+<P> <U> RAGE + VERB </U><B> build up </B><I>She felt the rage building up inside her. </I><B>| erupt </B><I>His rage suddenly erupted. </I><B>| subside </B><I>His rage was beginning to subside. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>She was speechless with rage. </I><B>| ~ at </B><I>boiling with rage at the unfairness of it all </I> </P>
+<P> <U> PHRASES </U><B> a bellow/cry/roar/shout of rage </B><I>He gave a roar of rage and punched me in the face. </I><B>| tears of rage </B> </P>
+<P> <SUP> 2 </SUP> <TT> sudden display of great anger </TT> </P>
+<P> <U> ADJ. </U><B> blind, terrible, towering | jealous | drunken </B><I>She smashed up his car in a drunken rage. </I> </P>
+<P> <U> VERB + RAGE </U><B> be in, fly into, get in </B><I>If something's too difficult she gets in a rage. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>She killed him in a rage of despair. </I><B>| ~ about </B><I>He was in a towering rage about his lost watch. </I><B>| ~ at </B><I>He flew into a rage at the insult. </I><B>| ~ of </B><I>He left in a rage of humiliation. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rage </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> show great anger </TT> </P>
+<P> <U> ADV. </U><B> inwardly </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She was still raging about the treatment she had received. </I><B>| against </B><I>I raged inwardly against his injustice. </I><B>| at </B><I>The team was left raging at the referee's decision. </I> </P>
+<P> <SUP> 2 </SUP> <TT> continue with great force </TT> </P>
+<P> <U> ADV. </U><B> still, on </B><I>The argument still rages on. </I> </P>
+<P> <U> PREP. </U><B> around </B><I>Even the dogs were quiet while the heated quarrel raged around them. </I><B>| within </B><I>trying to control the fury raging within her </I> </P>
+<P> <U> PHRASES </U><B> rage unabated </B><I>The storm raged unabated. </I> </P>
+</DIV>

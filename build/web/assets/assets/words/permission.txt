@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>permission </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | special | express </B><I>Staff may not leave early without the express permission of the director. </I><B>| formal, government, official | written | necessary </B><I>They chopped the trees down without having been granted the necessary permission. </I><B>| prior </B><I>He was not allowed to leave the city without the prior permission of the authorities. </I><B>| planning </B><I>You will need to obtain planning permission if you want to extend your house. </I> </P>
+<P> <U> VERB + PERMISSION </U><B> have | gain, get, obtain, receive, secure | give (sb), grant (sb) | deny sb, refuse sb | need, require | apply for, ask (for), request, seek </B> </P>
+<P> <U> PREP. </U><B> with/without sb's ~ </B><I>The information was published with the full permission of Amnesty International. </I><B>| ~ for </B><I>The council refused planning permission for the erection of a block of flats. </I><B>| ~ to </B><I>permission to park </I> </P>
+<P> <U> PHRASES </U><B> by (kind) permission of sb </B><I>The illustrations are reproduced by kind permission of the British Library. </I> </P>
+</DIV>

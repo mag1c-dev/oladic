@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pension </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, comfortable, generous, good | small | basic | state | company, occupational | personal, private | old age, retirement </B> </P>
+<P> <U> VERB + PENSION </U><B> draw, get, receive </B><I>He draws his pension at the post office. </I><B>| give sb, provide (sb with) | claim, qualify for </B><I>You will have to find out whether or not you qualify for a pension. </I><B>| live on </B><I>She lives on her pension and her savings. </I> </P>
+<P> <U> PENSION + NOUN </U><B> contributions, fund </B><I>the company pension fund </I><B>| plan, scheme </B> </P>
+<P> <U> PREP. </U><B> on a ~ </B><I>He is now retired and on a pension. </I> </P>
+</DIV>

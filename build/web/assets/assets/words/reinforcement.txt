@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>reinforcement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> supporting/strengthening sth </TT> </P>
+<P> <U> ADJ. </U><B> powerful </B> </P>
+<P> <U> VERB + REINFORCEMENT </U><B> provide </B><I>The minister's statement provides reinforcement for the view that tax cuts are likely in the budget. </I><B>| receive | have </B><I>The windows have steel reinforcement. </I><B>| need 2 reinforcements </B>extra soldiers, etc. </B> </P>
+<P> <U> ADJ. </U><B> police, troop </B> </P>
+<P> <U> VERB + REINFORCEMENT </U><B> call for, call in, send for, summon </B><I>The crowd was very large and police reinforcements were called in. </I><B>| bring in, send </B> </P>
+<P> <U> REINFORCEMENT + VERB </U><B> arrive </B><I>Reinforcements arrived too late. </I> </P>
+</DIV>

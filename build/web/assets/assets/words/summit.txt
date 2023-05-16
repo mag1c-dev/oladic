@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>summit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> top of a mountain </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>The Pic Long is the highest summit in the region. </I><B>| very | rocky, snow-capped, snow-covered, snowy | mountain </B> </P>
+<P> <U> VERB + SUMMIT </U><B> arrive at, climb (to), gain, get to, reach </B> </P>
+<P> <U> SUMMIT + NOUN </U><B> attempt, bid </B><I>The blizzard forced them to delay their summit bid. </I> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>We were standing at the very summit of the highest mountain in India. </I><B>| below the ~ </B><I>They reached base camp, 12,000 metres below the summit. </I><B>| on the ~ </B><I>The climbers planted a flag on the summit. </I> </P>
+<P> <SUP> 2 </SUP> <TT> important meeting between leaders </TT> </P>
+<P> <U> ADJ. </U><B> annual, biennial, etc. | regular | emergency, extraordinary, special | two-day, etc. | first, inaugural | global, international, regional | bilateral, trilateral | European, Franco-German, etc. | G8, NATO, etc. | presidential | Paris, Rio, etc. | drugs, earth, economic, peace </B> </P>
+<P> <U> VERB + SUMMIT </U><B> have, hold, host </B><I>The 2004 summit will be hosted by Japan. </I><B>| attend, go to </B> </P>
+<P> <U> SUMMIT + NOUN </U><B> conference, meeting, talks | agenda | agreement, declaration </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>These measures were decided at a summit in July. </I><B>| ~ between </B><I>annual summits between the major OECD economies </I><B>| ~ on </B><I>a two-day international summit on drugs </I> </P>
+</DIV>

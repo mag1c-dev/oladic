@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>meter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> electricity, gas, light, moisture, parking, sound-level, water | card, prepayment, slot, token </B><I>The token meter is operated by tokens costing </I>&pound;</B><I>1 or </I>&pound;</B><I>5. </I> </P>
+<P> <U> VERB + METER </U><B> read </B><I>The electricity company will send an employee to read your meter. </I><B>| fit, install </B> </P>
+<P> <U> METER + VERB </U><B> tick </B><I>The taxi waited, its motor running, the meter ticking away. </I> </P>
+<P> <U> METER + NOUN </U><B> reader, reading | box, cupboard</B> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>foundation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> organization that provides money for sth </TT> </P>
+<P> <U> ADJ. </U><B> charitable, private </B> </P>
+<P> <U> VERB + FOUNDATION </U><B> establish, set up </B><I>a charitable foundation established in 1983 </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a private foundation for sport and the arts </I></P>
+<P> <SUP> 2 </SUP> <TT> foundations: parts of a building below the ground  </TT> </P>
+<P> <U> ADJ. </U><B> deep | concrete </B> </P>
+<P> <U> VERB + FOUNDATION </U><B> dig, lay </B><I>digging trenches and laying concrete foundations </I><B>| shake, undermine </B><I>The thunder seemed to shake the very foundations of the building. They had dug too deep and undermined the foundations of the house. </I> </P>
+<P> <U> FOUNDATION + NOUN </U><B> stone </B><I>In 1853 Queen Victoria laid the foundation stone of the new palace. </I> </P>
+<P> <SUP> 3 </SUP> <TT> basis for sth </TT> </P>
+<P> <U> ADJ. </U><B> excellent, firm, good, secure, solid, sound, strong | insecure, shaky, weak | ideological, intellectual, philosophical, political, theoretical | economic </B> </P>
+<P> <U> VERB + FOUNDATION </U><B> build, lay, provide (sth with) </B><I>This agreement laid a sound foundation for future cooperation between the two countries. </I><B>| build on </B><I>We now have a firm foundation to build on. </I><B>| rest on </B><I>The peace treaty rests on shaky foundations. </I><B>| rock, shake, strike at, threaten, undermine </B><I>an event which rocked the foundations of British politics </I> </P>
+<P> <U> FOUNDATION + NOUN </U><B> course, year </B><I>The Fine Arts degree starts with a foundation year. </I><B>| subjects </B><I>All students have to do the foundation subjects of maths and English. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>providing a solid foundation for this new democracy </I> </P>
+<P> <U> PHRASES </U><B> rock/shake sth to its foundations </B><I>The scandal rocked the legal establishment to its foundations. </I> </P>
+<P> <SUP> 4 </SUP> <TT> facts that show that sth is true </TT> </P>
+<P> <U> VERB + FOUNDATION </U><B> have no </B><I>malicious rumours which have no foundation </I> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>Rumours of his resignation are entirely without foundation. </I> </P>
+</DIV>

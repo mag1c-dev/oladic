@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>react </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> strongly | favourably, positively, sympathetically </B><I>people who react positively to change </I><B>| adversely, badly, negatively, unfavourably | aggressively, angrily, violently | cautiously, coolly | sharply | appropriately | immediately, instantly | quickly, swiftly </B><I>The police must be able to react swiftly in an emergency. </I><B>| differently | accordingly </B><I>His insensitive remarks hurt and she reacted accordingly. </I><B>| automatically, instinctively, spontaneously | physically </B> </P>
+<P> <U> VERB + REACT </U><B> tend to | be slow to </B><I>The industry has been slow to react to these breakthroughs in technology. </I><B>| not know how to </B><I>He did not know how to react to her sudden mood swings. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>Many young people react against traditional values. </I><B>| by </B><I>The government reacted by increasing taxation. </I><B>| to </B><I>The university reacted unfavourably to the proposals. </I><B>| with </B><I>Her family reacted with horror when she told them. </I> </P>
+</DIV>

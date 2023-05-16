@@ -1,0 +1,31 @@
+
+<DIV class="item"><P class="word"><B>condition </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> state of sth </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good, immaculate, mint, peak, perfect, pristine | fair, reasonable | bad, poor | original </B><I>The clock was restored to its original condition. </I><B>| physical </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>The car is still in excellent condition. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb's state of health </TT> </P>
+<P> <U> ADJ. </U><B> critical, serious | stable </B><I>Doctors say his condition is now stable. </I><B>| mental, physical </B><I>There has been a serious deterioration in her mental condition. </I> </P>
+<P> <U> CONDITION + VERB </U><B> get better, improve </B><I>Without this treatment, her condition won't improve. </I><B>| deteriorate, get worse </B> </P>
+<P> <U> PREP. </U><B> in a &hellip; ~ </B><I>He is still in a critical condition in the local hospital. </I><B>| out of ~ </B><I>I haven't been excercising much recently, so I'm a bit out of condition. </I> </P>
+<P> <U> PHRASES </U><B> be in no condition to do sth </B><I>You're in no condition to tackle the stairs. </I> </P>
+<P> <SUP> 3 </SUP> <TT> illness </TT> </P>
+<P> <U> ADJ. </U><B> medical | serious | chronic | incurable | rare | heart, skin, etc. | mental </B><I>She was unable to give informed consent because of a mental condition. </I> </P>
+<P> <U> VERB + CONDITION </U><B> have, suffer from </B><I>He has a rare skin condition. </I><B>| be born with </B><I>All three babies were born with an incurable heart condition. </I></P>
+<P> <SUP> 4 </SUP> <TT> conditions: situation/circumstances  </TT> </P>
+<P> <U> ADJ. </U><B> favourable, good, ideal, optimum </B><I>Conditions are very favourable for starting a business. </I><B>| adverse, appalling, awful, difficult, dreadful, freak </B>(only used about the weather), <B>harsh, poor, severe, terrible, treacherous </B><I>adverse conditions for driving freak weather conditions </I><B>| normal, prevailing | controlled </B><I>The experiment is conducted under strictly controlled conditions. </I><B>| experimental, laboratory | driving, housing, living, operating, working </B><I>The working conditions in the factory are dreadful. </I><B>| economic, market, political, social | climatic, environmental, physical, soil, weather </B> </P>
+<P> <U> VERB + CONDITION </U><B> live in, work in/under </B><I>An enormous number of people live in conditions of severe poverty. </I> </P>
+<P> <U> CONDITION + VERB </U><B> exist, prevail </B><I>As long as these weather conditions prevail, we are unable to rescue the climbers. </I><B>| change | improve | deteriorate </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>in normal fligh</I>t </B><I>operating conditions </I><B>| under ~ </B><I>The samples are heated unde</I>r </B><I>experimental conditions</I>. </B> </P>
+<P> <SUP> 5 </SUP> <TT> rule </TT> </P>
+<P> <U> ADJ. </U><B> strict | special </B> </P>
+<P> <U> VERB + CONDITION </U><B> attach, impose, lay down, set out </B><I>the conditions attached to the grant of a residential licence The United Nations has imposed strict conditions on the ceasefire. </I><B>| accept, agree to </B><I>They would not agree to our conditions. </I><B>| abide by, comply with, fulfil, meet, observe, satisfy </B><I>To get a basic pension you must satisfy two conditions: &hellip; </I><B>| be subject to </B><I>The bar was licensed subject to the condition that no children under 15 be admitted. </I><B>| be in breach of </B><I>He denied being in breach of bail conditions. </I> </P>
+<P> <U> CONDITION + VERB </U><B> apply </B><I>Special conditions apply to the use of the library's rare books. </I> </P>
+<P> <U> PREP. </U><B> on ~ that </B><I>They agreed to lend us the car on condition that </I>(= only if) </B><I>we returned it before the weekend. </I><B>| on &hellip; ~ </B><I>I'll agree to the scheme on one condition: my name doesn't get mentioned to the press. </I><B>| under the ~s of </B><I>Under the conditions of the agreement, all foreign troops will leave by May. </I> </P>
+<P> <U> PHRASES </U><B> a breach of a condition, conditions of employment/sale, terms and conditions </B><I>the terms and conditions of the contract </I> </P>
+<P> <SUP> 6 </SUP> <TT> necessary situation </TT> </P>
+<P> <U> ADJ. </U><B> necessary, sufficient </B><I>a necessary and sufficient condition for the eradication of unemployment </I> </P>
+<P> <U> PREP. </U><B> ~ for </B> </P>
+<P> <SUP> 7 </SUP> <TT> state of group </TT> </P>
+<P> <U> ADJ. </U><B> human </B><I>Work is basic to the human condition </I>(= the fact of being alive)</B><I>. </I> </P>
+<P> <U> VERB + CONDITION </U><B> improve </B><I>aiming to improve the condition of the urban poor </I> </P>
+</DIV>

@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>holiday </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> period of time away from home for pleasure </TT> </P>
+<P> <U> ADJ. </U><B> enjoyable, exciting, fun-filled, good, lovely, wonderful | disastrous </B><I>We had a disastrous camping holiday. </I><B>| dream </B><I>What would be your dream holiday? </I><B>| foreign, overseas | summer, winter | 7-night, two-week, etc. | package | family | activity, adventure, camping, skiing </B><I>I learned to windsurf on an activity holiday. </I> </P>
+<P> <U> VERB + HOLIDAY </U><B> go on, have, take </B><I>We're going on holiday to France this summer. Are you having a holiday this year? </I><B>| book </B><I>Have you booked your summer holiday yet? </I><B>| cancel </B><I>I got ill and had to cancel my holiday. </I> </P>
+<P> <U> HOLIDAY + NOUN </U><B> destination, resort, venue </B><I>a popular seaside holiday resort </I><B>| accommodation, cottage, home </B><I>They also have a holiday home at the seaside. </I><B>| camp, complex, village | period, season </B><I>The pool is open throughout the holiday season. </I><B>| brochure | business, company, firm </B><I>The recession hit the package holiday business hard. </I><B>| insurance </B><I>You should take out holiday insurance before you leave. </I><B>| arrangements, plans | romance </B><I>Their holiday romance turned into a lasting relationship. </I><B>| photos, snaps </B> </P>
+<P> <U> PREP. </U><B> on (a) ~ </B><I>They met while on holiday in Spain. </I> </P>
+<P> <U> PHRASES </U><B> a holiday of a lifetime </B><I>This is your chance to win the holiday of a lifetime. </I> </P>
+<P> <SUP> 2 </SUP> <TT> period of rest from work/school </TT> </P>
+<P> <U> ADJ. </U><B> annual, Christmas, Easter, summer </B><I>The centre is now closed for the Christmas holidays. </I><B>| school | paid </B> </P>
+<P> <U> VERB + HOLIDAY </U><B> be entitled to, get, have </B><I>You are entitled to 24 days' paid holiday per year. I have three weeks' holiday a year. </I><B>| take </B><I>I'm taking the rest of my holiday in October. </I><B>| spend </B><I>She spent her holiday decorating the flat. </I><B>| need </B><I>I really need a holiday! </I> </P>
+<P> <U> HOLIDAY + NOUN </U><B> time | entitlement | pay | job </B><I>She had a holiday job as a gardener when she was a student. </I> </P>
+<P> <U> PREP. </U><B> during the ~s </B><I>It can be difficult to keep children occupied during the long summer holidays. </I><B>| in the ~s </B><I>My aunt's coming to stay in the holidays. </I><B>| on ~ </B><I>I'm afraid Mr Adamek is on holiday this week. </I> </P>
+<P> <SUP> 3 </SUP> <TT> day when people do not go to work/school </TT> </P>
+<P> <U> ADJ. </U><B> bank, national, public, religious </B> </P>
+<P> <U> HOLIDAY + NOUN </U><B> weekend </B><I>The roads will be busy on Monday as it's a holiday weekend. </I> </P>
+</DIV>

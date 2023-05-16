@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>boycott </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> mass, total, worldwide | consumer, economic, trade </B><I>a consumer boycott of GM foods </I> </P>
+<P> <U> VERB + BOYCOTT </U><B> declare, impose, introduce </B><I>Opposition groups declared a boycott of the elections. </I><B>| call for, threaten </B><I>Lawyers threatened a boycott of the courts. </I><B>| end, lift </B><I>Politicians want to end their boycott of the talks. </I><B>| join </B><I>There is pressure on the biggest union to join the boycott. </I> </P>
+<P> <U> BOYCOTT + NOUN </U><B> campaign </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>a boycott by international singers </I><B>| ~ of </B><I>The group is calling for a mass consumer boycott of these products. </I><B>| ~ on </B><I>The US has imposed a boycott on some European goods. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>boycott </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> officially </B> </P>
+<P> <U> VERB + BOYCOTT </U><B> threaten to | call on sb to, urge sb to </B><I>They have urged people to boycott foreign products. </I> </P>
+</DIV>

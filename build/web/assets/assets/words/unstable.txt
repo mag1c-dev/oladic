@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>unstable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> likely to change suddenly </TT> </P>
+<P> <U> VERBS </U><B> appear, be, seem | become | remain | make sth, render sth </B><I>Prison order is rendered unstable by young inmates serving short sentences. </I> </P>
+<P> <U> ADV. </U><B> extremely, highly, very | increasingly | rather, relatively, somewhat | basically, inherently | notoriously </B><I>The building trade is notoriously unstable. </I><B>| economically, politically </B><I>a politically unstable region </I> </P>
+<P> <SUP> 2 </SUP> <TT> not mentally normal </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> highly, very | rather | emotionally, mentally </B><I>vulnerable, emotionally unstable individuals </I> </P>
+<P> <SUP> 3 </SUP> <TT> likely to move or fall </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, get </B><I>The building was beginning to get unstable. </I><B>| make sth </B> </P>
+<P> <U> ADV. </U><B> dangerously, extremely, very </B><I>The wall was dangerously unstable. </I><B>| rather, slightly</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>elastic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> loose, tight </B><I>an old skirt with loose elastic </I> </P>
+<P> <U> QUANT. </U><B> length, piece </B><I>The trousers are held up by a length of elastic around the waist. </I> </P>
+<P> <U> ELASTIC + VERB </U><B> break, go, snap </B><I>The elastic in these socks has gone. </I> </P>
+</DIV>

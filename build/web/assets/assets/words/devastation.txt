@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>devastation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, utter | widespread | ecological, environmental | economic </B> </P>
+<P> <U> VERB + DEVASTATION </U><B> cause </B><I>The hurricane caused widespread devastation. </I> </P>
+<P> <U> DEVASTATION + VERB </U><B> be wrought </B><I>We surveyed the devastation wrought by the fire. </I> </P>
+<P> <U> PHRASES </U><B> a scene of devastation </B><I>He surveyed the scene of utter devastation beneath him. </I><B>| a trail of devastation </B><I>The tornado left a trail of devastation in its wake. </I> </P>
+</DIV>

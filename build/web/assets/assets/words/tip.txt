@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>tip </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> pointed end </TT> </P>
+<P> <U> ADJ. </U><B> northern, etc. </B><I>We took a bus to the northern tip of the island. </I><B>| very </B><I>The cat was black except for a patch of white on the very tip of its tail. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the tips of your fingers/toes </I> </P>
+<P> <SUP> 2 </SUP> <TT> money </TT> </P>
+<P> <U> ADJ. </U><B> big, generous, good, large | poor, small </B> </P>
+<P> <U> VERB + TIP </U><B> give sb, leave sb </B><I>He left the waitress a large tip. </I><B>| get </B><I>We get rather poor tips on weeknights. </I> </P>
+<P> <SUP> 3 </SUP> <TT> advice </TT> </P>
+<P> <U> ADJ. </U><B> good, handy, helpful, useful | hot </B><I>He said he'd been given a hot tip for that afternoon's race. </I><B>| beauty, gardening, money-saving, safety, etc. | racing </B> </P>
+<P> <U> VERB + TIP </U><B> have | give sb, pass on | take, use </B><I>Take a safety tip from me?get that light mended! </I><B>| pick up </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>some handy tips for gardeners </I><B>| ~ on </B><I>Do you have any tips on buying a second-hand car? </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tip </B><I>verb </I><B>(</B>often <B>be tipped) </B> </P>
+<P> <U> ADV. </U><B> hotly, strongly | widely </B> </P>
+<P> <U> PREP. </U><B> as </B><I>The senator has been widely tipped as a future president. </I><B>| for </B><I>The band is being hotly tipped for the top. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>rift </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, growing, serious | public | ideological | marital, marriage </B> </P>
+<P> <U> VERB + RIFT </U><B> cause, create, lead to | deepen, widen </B><I>His actions only deepened the rift between himself and the majority of Congress. </I><B>| heal, mend, patch up, repair </B> </P>
+<P> <U> RIFT + VERB </U><B> develop, occur, open up </B><I>A rift had opened up within the party. </I><B>| deepen, grow, widen </B> </P>
+<P> <U> PREP. </U><B> ~ among/between </B><I>new evidence of a rift between the two countries </I><B>| ~ in/within </B><I>The debate has succeeded only in widening rifts within the Church. </I><B>| ~ over </B><I>a rift over public spending </I><B>| ~ with </B><I>trying to heal the rift with his brother </I> </P>
+</DIV>

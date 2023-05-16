@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>counter </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> long flat surface </TT> </P>
+<P> <U> ADJ. </U><B> bar, delicatessen/deli, display, post office, reception, shop | kitchen | glass, mahogany, wooden, zinc </B> </P>
+<P> <U> VERB + COUNTER </U><B> serve at/behind, work at/behind </B><I>Mary served behind the counter at Bacon's for a few hours a week. </I><B>| wipe (down) </B><I>The barman wiped down the counter in silence. </I> </P>
+<P> <U> COUNTER + NOUN </U><B> staff </B><I>post office counter staff </I> </P>
+<P> <U> PREP. </U><B> across a/the~ </B><I>He pushed the money across the counter to her. </I><B>| at/behind a/the ~ </B><I>The assistant behind the counter gave a curt nod. </I><B>| on a/the ~ </B><I>all the goods on the counter </I> </P>
+<P> <SUP> 2 </SUP> <TT> action used to prevent sth </TT> </P>
+<P> <U> ADJ. </U><B> effective </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The government's programme should be an effective counter to unemployment. </I> </P>
+</DIV>

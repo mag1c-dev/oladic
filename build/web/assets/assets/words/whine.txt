@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>whine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, high-pitched | piercing | nasal </B> </P>
+<P> <U> VERB + WHINE </U><B> give, let out | hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>She spoke with a whine. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> the whine of a bullet/an engine/a motor </B></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+</DIV><DIV class="item"><P class="word"><B>whine </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> faintly, softly </B><I>The engines whined softly in the background. </I><B>| away</B> </P>
+</DIV>

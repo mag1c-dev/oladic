@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>forum </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way people can exchange ideas </TT> </P>
+<P> <U> ADJ. </U><B> important, useful, valuable | public </B> </P>
+<P> <U> VERB + FORUM </U><B> create, provide (sb with) | act as, be used as, serve as </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The conference provides a useful forum for the exchange of views and ideas. </I> </P>
+<P> <SUP> 2 </SUP> <TT> meeting at which people can exchange ideas </TT> </P>
+<P> <U> ADJ. </U><B> open </B><I>The film show was followed by an open forum on editing techniques. </I><B>| international, national </B> </P>
+<P> <U> VERB + FORUM </U><B> hold | attend, go to </B> </P>
+<P> <U> FORUM + VERB </U><B> take place </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>An international forum on economic development took place in Brussels. </I> </P>
+</DIV>

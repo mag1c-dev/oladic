@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>vowel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, short | open | neutral </B><I>This neutral vowel is known as &lsquo;schwa&rsquo;. </I><B>| weak | broad, flat | final | accented, stressed | unaccented, unstressed </B> </P>
+<P> <U> VERB + VOWEL </U><B> begin with, contain, end in/with </B> </P>
+<P> <U> VOWEL + NOUN </U><B> sound | system</B> </P>
+</DIV>

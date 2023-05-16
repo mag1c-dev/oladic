@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>headline </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> title of an article in a newspaper </TT> </P>
+<P> <U> ADJ. </U><B> newspaper, tabloid </B><I>&lsquo;Carnage at Airport&rsquo;, screamed the tabloid headline. </I><B>| banner, front-page | screaming | lurid </B><I>lurid headlines about the sex lives of the stars </I><B>| sporting, sports </B> </P>
+<P> <U> VERB + HEADLINE </U><B> carry, have, run </B><I>The Guardian carried the front-page headline &lsquo;Drugs Firms Shamed&rsquo;. </I><B>| read, scan, see </B><I>I just had time to scan the headlines before leaving for work. </I><B>| be in, capture, dominate, grab, hit, hog, make ~s </B><I>She's always in the headlines. He always manages to grab the headlines. The hospital hit the headlines when a number of suspicious deaths occurred. The story has been hogging the headlines for weeks. The story was important enough to make the headlines. </I> </P>
+<P> <U> HEADLINE + VERB </U><B> proclaim sth, read sth, say sth, scream sth </B><I>The Sunday Observer had a headline saying, &lsquo;Pop Star Arrested on Drugs Charges&rsquo;. </I> </P>
+<P> <U> HEADLINE + NOUN </U><B> news </B><I>&lsquo;Queen Mother goes on Holiday&rsquo; is hardly headline news! </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The most unusual fact in the story is often used in the headline. </I><B>| under a/the ~ </B><I>The Daily Gazette ran a story under the headline &lsquo;Pope's Last Words&rsquo;. </I><B>| with a/the ~ </B><I>a story in the newspaper with the headline &lsquo;Woman Gives Birth on Train&rsquo; </I><B>| ~ about </B><I>There was a banner headline about drugs in schools. </I> </P>
+<P> <U> PHRASES </U><B> make headline news </B><I>The engagement of the two tennis stars made headline news. </I></P>
+<P> <SUP> 2 </SUP> <TT> the headlines: main news stories on TV/radio  </TT> </P>
+<P> <U> ADJ. </U><B> news </B> </P>
+<P> <U> VERB + HEADLINE </U><B> hear, listen to </B><I>Let's just hear the news headlines. </I><B>| look at, see, watch</B> </P>
+</DIV>

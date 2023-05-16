@@ -1,0 +1,35 @@
+
+<DIV class="item"><P class="word"><B>fall </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> accident </TT> </P>
+<P> <U> ADJ. </U><B> bad, nasty, terrible </B><I>She took a bad fall while out riding. </I><B>| accidental </B> </P>
+<P> <U> VERB + FALL </U><B> have, suffer, take </B><I>The doctor says she's had a very nasty fall. </I><B>| break, cushion </B><I>Luckily a bush broke his fall. </I><B>| survive </B><I>The chances of surviving a fall under a train are almost nil. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He was hurt in a fall at his home yesterday. </I><B>| ~ from </B><I>She broke her neck in a fall from a horse. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of snow/rocks </TT> </P>
+<P> <U> ADJ. </U><B> heavy | light | fresh </B><I>a fresh fall of snow </I><B>| rock, snow (also snowfall) </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>covered by a light fall of volcanic ash </I> </P>
+<P> <SUP> 3 </SUP> <TT> decrease </TT> </P>
+<P> <U> ADJ. </U><B> big, dramatic, great, large, marked, massive, significant, substantial </B><I>a big fall in house prices This triggered the recent dramatic falls on the Tokyo stock exchange. </I><B>| modest, slight, small | steady | rapid, sharp, steep, sudden, swift | expected, projected </B><I>a projected fall of 2% </I><B>| unexpected | continuing, further | overall | catastrophic </B> </P>
+<P> <U> VERB + FALL </U><B> bring, cause, contribute to, lead to, trigger | see, suffer </B><I>Share prices suffered a slight fall yesterday. </I><B>| record, reveal, show </B><I>The opinion polls show a significant fall in her popularity. </I><B>| report </B><I>Both companies reported a fall in profits in the first quarter of this year. </I><B>| represent </B><I>This figure represents a fall of 21% on the same period last year. </I> </P>
+<P> <U> FALL + VERB </U><B> occur </B><I>The fall in age at first marriage occurred during the second half of the 18th century. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a large fall in share prices </I> </P>
+<P> <SUP> 4 </SUP> <TT> defeat </TT> </P>
+<P> <U> VERB + FALL </U><B> bring about, cause, contribute to, lead to </B><I>the actions that led to his eventual fall from power </I> </P>
+<P> <U> PREP. </U><B> ~ from </B> </P>
+<P> <U> PHRASES </U><B> the rise and fall of sth </B><I>a book charting the rise and fall of the Habsburg Empire </I> </P>
+</DIV><DIV class="item"><P class="word"><B>fall </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> drop down towards the ground </TT> </P>
+<P> <U> ADV. </U><B> heavily </B><I>She fell heavily to the ground. </I><B>| steadily </B><I>The rain was falling steadily. </I><B>| down, off, overboard </B><I>A tile fell off the roof. He fell overboard in heavy seas. </I> </P>
+<P> <U> VERB + FALL </U><B> be about to | let sb/sth </B><I>She lifted her arm, but then let it fall. </I> </P>
+<P> <U> PREP. </U><B> from, into </B><I>One of the kids fell into the river. </I><B>| on </B><I>the snow falling on the fields </I><B>| onto </B><I>Loose bricks were falling down onto the ground. </I><B>| to </B><I>The plate fell to the floor. </I> </P>
+<P> <SUP> 2 </SUP> <TT> suddenly stop standing </TT> </P>
+<P> <U> ADV. </U><B> almost, nearly </B><I>He stumbled and almost fell. </I><B>| headlong </B><I>She fell headlong, with a cry of alarm. </I><B>| down, over </B><I>One of the children fell over. </I> </P>
+<P> <U> VERB + FALL </U><B> be about to </B><I>The house looked as if it was about to fall down. </I> </P>
+<P> <U> PHRASES </U><B> stumble/trip and fall </B> </P>
+<P> <SUP> 3 </SUP> <TT> decrease </TT> </P>
+<P> <U> ADV. </U><B> dramatically, sharply, significantly, steeply </B><I>The price of coal fell sharply. </I><B>| slightly | steadily </B> </P>
+<P> <U> VERB + FALL </U><B> be expected to, be likely to </B><I>Demand is likely to fall by some 15%. </I><B>| continue to </B> </P>
+<P> <U> PREP. </U><B> below </B><I>Winter temperatures never fall below 10&deg;C. </I><B>| by </B><I>Expenditure on education fell by 10% last year. </I><B>| from </B><I>The number of people unemployed has fallen from two million to just over one and a half million. </I><B>| to </B><I>Her voice fell to a whisper. </I> </P>
+<P> <SUP> 4 </SUP> <TT> belong to a group </TT> </P>
+<P> <U> ADV. </U><B> squarely </B> </P>
+<P> <U> PREP. </U><B> into </B><I>Out of over 400 staff there are just 14 that fall into this category. </I><B>| outside </B><I>That topic falls outside the scope of this thesis. </I><B>| under </B><I>This falls under the heading of scientific research. </I><B>| within </B><I>This case falls squarely within the committee's jurisdiction. </I> </P>
+</DIV>

@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>reception </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> area in a building </TT> </P>
+<P> <U> VERB + RECEPTION </U><B> wait (for sb) in </B><I>Please wait for me downstairs in reception. </I><B>| leave sth at/with </B><I>I've left the keys at reception. </I><B>| report to </B><I>All delegates should report to reception on arrival. </I><B>| phone, ring </B> </P>
+<P> <U> RECEPTION + NOUN </U><B> area | counter, desk | hall | staff </B> </P>
+<P> <U> PREP. </U><B> at (the) ~ </B><I>The man at reception says there's a call for you. </I><B>| in ~ </B><I>The documents are in reception. </I><B>| on ~ </B><I>I've been on reception </I>(= working at the reception desk) </B><I>the whole morning. </I> </P>
+<P> <SUP> 2 </SUP> <TT> formal party </TT> </P>
+<P> <U> ADJ. </U><B> big, large | intimate, small | formal | informal | official | special | evening | civic, diplomatic, press, wedding | buffet, champagne, sherry, wine </B> </P>
+<P> <U> VERB + RECEPTION </U><B> attend | give, have, hold, host </B><I>Are you having a big reception after the wedding? </I><B>| organize | invite sb to </B><I>Friends and family are invited to a reception after the ceremony. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We met at a reception. </I><B>| ~ for </B><I>a reception for the Japanese trade delegation </I> </P>
+<P> <SUP> 3 </SUP> <TT> type of welcome given to sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> enthusiastic, favourable, friendly, good, great, marvellous, positive, rapturous, rousing, sympathetic, warm | lukewarm, mixed | bad, chilly, cool, frosty, hostile | critical </B><I>critical reception to a movie </I><B>| public </B> </P>
+<P> <U> VERB + RECEPTION </U><B> enjoy, get, have, meet (with), receive </B><I>The returning soldiers enjoyed a rousing reception. The scheme has had a somewhat mixed reception from local people. </I><B>| expect </B><I>The managers did not expect a sympathetic reception from the striking workers. </I><B>| give sb/sth </B><I>She was given a rapturous reception by the crowd. </I> </P>
+<P> <U> RECEPTION + NOUN </U><B> party </B><I>A reception party of soldiers was there to greet the visiting head of state. </I><B>| centre </B><I>a reception centre for children who have run away from home </I> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>the book's reception by reviewers </I><B>| ~ from </B><I>a cool reception from the crowd </I><B>| ~ into </B><I>reception into the monastic order </I> <B>| ~ to </B><I>the positive reception to the Chancellor's speech </I> </P>
+<P> <SUP> 4 </SUP> <TT> quality of radio/television signals </TT> </P>
+<P> <U> ADJ. </U><B> good, strong </B><I>Television reception is very good in this area. </I><B>| bad, poor, weak | radio, television</B> </P>
+</DIV>

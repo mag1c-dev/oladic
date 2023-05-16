@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>map </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large-scale | small-scale | accurate | detailed | quick </B>(only used with the verb <B>draw</B>), <B>rough, simple, sketch </B><I>&lsquo;How do you get there?&rsquo; &lsquo;I'll draw you a quick map.&rsquo; </I><B>| local | road, street </B><I>a street map of central London a road map of the British Isles </I><B>| world | bus, tube, underground | contour, outline, relief | geological, political | weather | Ordnance Survey | tourist | route | wall </B> </P>
+<P> <U> VERB + MAP </U><B> read </B><I>Are you any good at reading maps? </I><B>| check, consult, look at | draw | be marked on </B><I>The museum is clearly marked on the map. </I><B>| spread out, unfold </B><I>We spread the map out on the floor. </I><B>| fold (up) </B> </P>
+<P> <U> MAP + VERB </U><B> show sth </B> </P>
+<P> <U> MAP + NOUN </U><B> projection </B> </P>
+<P> <U> PREP. </U><B> off the ~ </B><I>Our village is just off the map. </I><B>| on a/the ~ </B><I>The lane isn't on the map. </I><B>| ~ of </B><I>a map of the area </I> </P>
+</DIV>

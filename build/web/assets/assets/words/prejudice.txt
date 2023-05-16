@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>prejudice </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, deep-rooted, deep-seated, strong | blatant | serious, unfair </B><I>(both law) </I><B>| personal | old </B><I>It's hard to break down old prejudices. </I><B>| blind, irrational | anti-gay, anti-Catholic, etc. | class, cultural, political, racial, religious, sectarian, sexist </B> </P>
+<P> <U> VERB + PREJUDICE </U><B> have, hold </B><I>We all have prejudices of some kind. </I><B>| air, express </B><I>He sat there airing his personal prejudices. </I><B>| arouse, feed, stir up | appeal to, pander to </B><I>We must not pander to the irrational prejudices of a small minority. </I><B>| confirm | come up against, encounter </B><I>She had never encountered such deep prejudice before. </I><B>| suffer | challenge | overcome | break down, eliminate, eradicate </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a book written to challenge prejudices about disabled people </I><B>| ~ against </B><I>deep-rooted prejudice against homosexuals </I><B>| ~ among </B><I>prejudice among ignorant people </I><B>| ~ towards </B><I>prejudice towards immigrants </I> </P>
+<P> <U> PHRASES </U><B> a victim of prejudice</B> </P>
+</DIV><DIV class="item"><P class="word"><B>prejudice </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> cause sb to have a prejudice </TT> </P>
+<P> <U> ADV. </U><B> unfairly </B> </P>
+<P> <U> PREP. </U><B> against, in favour of </B><I>Reading newspaper reports had unfairly prejudiced the jury in her favour. </I> </P>
+<P> <SUP> 2 </SUP> <TT> weaken sth/make it less fair </TT> </P>
+<P> <U> ADV. </U><B> seriously, severely, substantially </B> </P>
+<P> <U> VERB + PREJUDICE </U><B> be likely to </B><I>She did not disclose evidence that was likely to prejudice her client's case </I> </P>
+</DIV>

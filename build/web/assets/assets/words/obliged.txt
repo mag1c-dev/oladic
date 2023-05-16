@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>obliged </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> forced to do sth </TT> </P>
+<P> <U> VERBS </U><B> be, feel </B> </P>
+<P> <U> ADV. </U><B> virtually </B><I>Libel plaintiffs are virtually obliged to go into the witness box. </I><B>| by law, contractually, legally </B><I>Parents are obliged by law to send their children to school. </I><B>| morally </B><I>I felt morally obliged to do the best I could for her. </I> </P>
+<P> <SUP> 2 </SUP> <TT> grateful </TT> </P>
+<P> <U> VERBS </U><B> be, feel </B> </P>
+<P> <U> ADV. </U><B> much </B> </P>
+<P> <U> PREP. </U><B> for, to </B><I>I'm much obliged to you for helping us. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>acknowledge </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> admit/recognize </TT> </P>
+<P> <U> ADV. </U><B> fully | freely, readily | clearly, explicitly | effectively, implicitly, tacitly </B><I>The peace settlement effectively acknowledged the country's independence. </I><B>| formally, officially | openly, publicly </B><I>He acknowledged publicly that he might have made a mistake. </I><B>| privately | reluctantly, ruefully </B> </P>
+<P> <U> VERB + ACKNOWLEDGE </U><B> fail to, refuse to | be forced to </B><I>Mental illness can exist for years before families are forced to acknowledge the truth. </I> </P>
+<P> <U> PHRASES </U><B> be generally/universally/widely acknowledged </B><I>a truth that is universally acknowledged </I> </P>
+<P> <SUP> 3 </SUP> <TT> reply to letter </TT> </P>
+<P> <U> ADV. </U><B> duly </B><I>The company duly acknowledged receipt of the letter. </I><B>| hereby </B><I>I hereby acknowledge receipt of your letter of 25 July. </I> </P>
+</DIV>

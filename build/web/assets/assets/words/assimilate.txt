@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>assimilate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> learn/understand </TT> </P>
+<P> <U> ADV. </U><B> easily, quickly, readily </B><I>Children assimilate new information very quickly. </I> </P>
+<P> <SUP> 2 </SUP> <TT> become/make sb part of sth </TT> </P>
+<P> <U> ADV. </U><B> fully </B><I>Many new immigrants have not yet assimilated fully into the new culture. </I> </P>
+<P> <U> PREP. </U><B> into</B> </P>
+</DIV>

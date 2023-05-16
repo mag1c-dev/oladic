@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>twin </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> identical | fraternal, non-identical | conjoined, Siamese </B> </P>
+<P> <U> QUANT. </U><B> pair </B><I>a pair of identical twins </I> </P>
+<P> <U> VERB + TWIN </U><B> expect | give birth to, have </B> </P>
+<P> <U> TWIN + NOUN </U><B> boys, girls </B><I>She had twin girls. </I><B>| daughters, sons | brother, sister</B> </P>
+</DIV>

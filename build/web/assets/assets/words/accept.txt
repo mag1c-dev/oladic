@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>accept </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> take/receive </TT> </P>
+<P> <U> ADV. </U><B> gladly, graciously, gratefully, willingly </B><I>She graciously accepted my apology. </I><B>| reluctantly </B> </P>
+<P> <U> VERB + ACCEPT </U><B> be glad to, be happy to | be reluctant to, be unwilling to | be unable to </B><I>I am unfortunately unable to accept your kind invitation. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>I accepted the gift from my sister. </I> </P>
+<P> <SUP> 2 </SUP> <TT> agree/admit </TT> </P>
+<P> <U> ADV. </U><B> readily </B><I>Some people readily accept that they may have to pay for medical treatment. </I><B>| fully </B> </P>
+<P> <U> VERB + ACCEPT </U><B> be happy to, be prepared to, be ready to, be willing to | be reluctant to, be unwilling to | be unable to, refuse to | can/cannot, could (not), will/won't, would (not) </B><I>The university cannot accept responsibility for items lost or stolen on its premises. </I><B>| be forced to </B> </P>
+<P> <U> PHRASES </U><B> be commonly/generally/universally/widely accepted </B><I>It is generally accepted that people are motivated by success. </I> </P>
+</DIV>

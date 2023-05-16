@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tell </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> give sb information </TT> </P>
+<P> <U> ADV. </U><B> bluntly, curtly, flatly </B><I>She told me bluntly it was my own fault. </I><B>| gravely | smugly | truthfully | falsely </B> </P>
+<P> <U> VERB + TELL </U><B> want to | be going to </B><I>I was going to tell you?I just didn't get round to it. </I><B>| try to | hate to </B><I>I hate to tell you, but the car's a write-off. </I><B>| let sb </B><I>I tried to tell them but they wouldn't let me. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>I never told him about the money. </I><B>| of </B><I>No one had told her of the dangers. </I><B>| to </B><I>He told the story to all his friends. </I> </P>
+<P> <SUP> 2 </SUP> <TT> order sb </TT> </P>
+<P> <U> ADV. </U><B> firmly, sternly </B><I>&lsquo;Calm down,&rsquo; he told her firmly. </I> </P>
+</DIV>

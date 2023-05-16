@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>authority </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth with the power to give orders </TT> </P>
+<P> <U> ADJ. </U><B> district, local, regional | government, public | education, health, military, planning, tax </B><I>The government is urging education authorities to spend less money. </I><B>| competent, lawful, relevant, statutory </B> </P>
+<P> <U> AUTHORITY + VERB </U><B> agree sth, claim sth, decide sth, deny sth, promise sth </B><I>The local health authority denied negligence. </I><B>| allow (sb) sth, give (sb) sth, grant (sb) sth </B><I>The local authority has not granted planning permission. </I> </P>
+<P> <SUP> 2 </SUP> <TT> power/right to give orders </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, full, supreme | governmental, judicial, legal, ministerial, parental, presidential </B> </P>
+<P> <U> VERB + AUTHORITY </U><B> have </B><I>Parents have the authority to discipline their children. </I><B>| assume </B><I>He assumed full authority as tsar in 1689. </I><B>| give sb | assert, demonstrate, establish, exercise, exert, show, use, wield </B><I>The new manager obviously felt the need to demonstrate her authority. </I><B>| delegate | give up, relinquish | abuse | challenge, defy, deny, rebel against, reject, undermine </B><I>She had challenged my authority once too often. </I><B>| usurp </B> </P>
+<P> <U> AUTHORITY + NOUN </U><B> figure </B><I>adult authority figures such as parents and teachers </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>I need to talk to someone in authority. </I><B>| under the ~ of </B><I>This can only be done under the authority of the government minister. </I><B>| without ~ </B><I>He took the car without authority. </I><B>| ~ over </B><I>Central government has extensive authority over teachers. </I> </P>
+<P> <U> PHRASES </U><B> an air of authority </B><I>He bore an air of authority. </I><B>| position of authority </B><I>She holds a position of authority in the local church. </I> </P>
+<P> <SUP> 3 </SUP> <TT> person with special knowledge </TT> </P>
+<P> <U> ADJ. </U><B> leading, respected, world | unimpeachable, unquestioned </B> </P>
+<P> <U> VERB + AUTHORITY </U><B> cite, invoke </B><I>Copernicus justified his innovation by citing respected authorities. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>She's a leading authority on genetics. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>reprimand </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> severe | public | verbal, written </B> </P>
+<P> <U> VERB + REPRIMAND </U><B> earn (yourself), get, receive </B><I>The manager earned himself a severe reprimand for criticizing the referee. </I><B>| give sb, issue (sb with) </B><I>She was issued with a reprimand for leaking the news. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a reprimand for a breach of the rules </I> </P>
+</DIV><DIV class="item"><P class="word"><B>reprimand </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> severely | gently | officially | publicly </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She was severely reprimanded for accepting the money. </I> </P>
+</DIV>

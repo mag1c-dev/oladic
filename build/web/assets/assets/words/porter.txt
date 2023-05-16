@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>porter </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> helps lift and carry things </TT> </P>
+<P> <U> ADJ. </U><B> hospital, kitchen, railway </B> </P>
+<P> <U> VERB + PORTER </U><B> act as </B><I>Some Sherpas act as guides and porters for mountaineering expeditions. </I><B>| call, hail </B><I>On arriving at the station, we hailed a porter to carry the bags. </I> </P>
+<P> <U> PORTER + VERB </U><B> carry sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> in charge of the entrance of a large building </TT> </P>
+<P> <U> ADJ. </U><B> head | hall, hotel | night | uniformed </B> </P>
+<P> <U> PHRASES </U><B> porter's desk, porter's lodge </B></P><a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

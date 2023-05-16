@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>palate </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of the mouth </TT> </P>
+<P> <U> ADJ. </U><B> hard | soft | cleft </B><I>Their baby had an operation to repair a cleft palate. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sense of taste </TT> </P>
+<P> <U> ADJ. </U><B> discerning, discriminating, sophisticated | jaded </B><I>Here is a dish that will revive jaded palates. </I> </P>
+<P> <U> VERB + PALATE </U><B> have </B><I>She has a discerning palate. </I><B>| appeal to, suit </B><I>This kind of food appeals to more sophisticated palates. </I><B>| clean, cleanse </B><I>Have an apple to cleanse your palate. </I> </P>
+</DIV>

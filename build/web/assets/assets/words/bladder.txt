@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>bladder </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | irritable, weak </B> </P>
+<P> <U> VERB + BLADDER </U><B> empty </B> </P>
+<P> <U> BLADDER + NOUN </U><B> control | cancer, infection, problem </B><I>He died of bladder cancer. </I> </P>
+</DIV>

@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>rise </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> increase </TT> </P>
+<P> <U> ADJ. </U><B> big, dramatic, huge, large, massive, sharp, strong, substantial | modest, slight, small | threefold, 80 per cent, etc. | appreciable, significant | abrupt, rapid, steep, sudden | slow | steady | inexorable, remorseless </B><I>Unemployment continued its remorseless rise. </I><B>| general, overall | annual, monthly | interest rate, pay, price, sea-level, tax, temperature, wage, etc. </B><I>The union is demanding an across-the-board pay rise of 5%. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B>(= rising) <I>Crime is on the rise. </I><B>| ~ in </B><I>a twofold rise in prices </I><B>| ~ on </B><I>a rise on last year's levels </I> </P>
+<P> <SUP> 2 </SUP> <TT> becoming more powerful/important </TT> </P>
+<P> <U> ADJ. </U><B> meteoric, spectacular, swift </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the rise of capitalism </I><B>| ~ to </B><I>His swift rise to the national team surprised everyone. </I> </P>
+<P> <U> PHRASES </U><B> the rise and fall of sth </B><I>the rise and fall of the Roman Empire </I><B>| rise to fame/power/prominence </B><I>a meteoric rise to fame </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rise </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move upwards </TT> </P>
+<P> <U> ADV. </U><B> majestically </B><I>the cliffs which rise majestically from the ocean </I> </P>
+<P> <U> PREP. </U><B> from </B><I>Smoke rose from the chimney. </I> </P>
+<P> <SUP> 2 </SUP> <TT> stand up </TT> </P>
+<P> <U> ADV. </U><B> slowly </B> </P>
+<P> <U> VERB + RISE </U><B> make to, try to </B><I>He made to rise but found his legs were not strong enough to support him. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>She rose slowly from her chair to greet us. </I> </P>
+<P> <SUP> 3 </SUP> <TT> get out of bed </TT> </P>
+<P> <U> ADV. </U><B> early, late </B><I>He rose early and went for a walk. </I> </P>
+<P> <SUP> 4 </SUP> <TT> increase </TT> </P>
+<P> <U> ADV. </U><B> dramatically, markedly, sharply, significantly, steeply, substantially </B><I>House prices have risen sharply in recent months. </I><B>| a little, slightly | further, higher | steadily | fast, quickly, rapidly </B><I>The cost of health care is rising faster than ever. </I> </P>
+<P> <U> VERB + RISE </U><B> be expected to, be likely to, be projected to, be set to </B><I>Entry standards into the profession are set to rise further. </I><B>| be unlikely to | begin to | continue to </B> </P>
+<P> <U> PREP. </U><B> above </B><I>Air pollution has risen above an acceptable level. </I><B>| by </B><I>Unemployment has risen by 25,000 this month. </I><B>| from, in </B><I>Gas rose in price. </I><B>| in line with </B><I>State benefits will rise in line with inflation. </I><B>| to </B><I>Inflation rose from 2% to 5% last year. </I> </P>
+</DIV>

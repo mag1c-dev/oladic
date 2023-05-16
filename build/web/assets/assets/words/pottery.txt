@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pottery </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> decorated, glazed, painted | hand-thrown | coarse, fine </B> </P>
+<P> <U> QUANT. </U><B> fragment, piece </B><I>fragments of Iron Age pottery </I> </P>
+<P> <U> VERB + POTTERY </U><B> make, manufacture, produce | fire </B><I>the kilns in which the pottery is fired </I> </P>
+<P> <U> POTTERY + NOUN </U><B> kiln </B></P>
+<a href="/collocation-tag/art-works" class="tag">Learn more about ART WORKS</a>
+</DIV>

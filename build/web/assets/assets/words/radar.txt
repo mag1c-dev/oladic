@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>radar </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> enemy, police </B> </P>
+<P> <U> VERB + RADAR </U><B> be equipped with </B> </P>
+<P> <U> RADAR + NOUN </U><B> operator | screen | beam, signal | equipment, scanner, station, system, transmitter </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>navigating by radar </I><B>| on ~ </B><I>The submarine is impossible to detect on radar. </I> </P>
+</DIV>

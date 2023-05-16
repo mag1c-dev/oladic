@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>gale </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fierce, full, great, heavy, howling, severe, strong | Force 9, Force 10, etc. | northerly, westerly, etc. | autumn, winter, etc. | equinoctial | Atlantic, North Sea, etc. </B> </P>
+<P> <U> VERB + GALE </U><B> blow </B><I>It was blowing a gale outside. </I><B>| get caught in </B><I>We got caught in a howling gale. </I> </P>
+<P> <U> GALE + VERB </U><B> blow </B><I>A severe gale was blowing along the coast. </I> </P>
+<P> <U> GALE + NOUN </U><B> force </B><I>gale force winds </I><B>| warning </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The tree had come down in a fierce gale the night before. </I> </P>
+</DIV>

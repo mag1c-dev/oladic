@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>whip </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> driving, riding | bull, horse </B> </P>
+<P> <U> VERB + WHIP </U><B> crack, flick </B><I>He cracked the whip and the horse leapt forward. </I> </P>
+<P> <U> VERB + WHIP </U><B> crack </B><I>A hound yelped briefly as a whip cracked. </I> </P>
+<P> <U> PHRASES </U><B> the crack of a whip</B> </P>
+</DIV><DIV class="item"><P class="word"><B>whip </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> hit sb/sth with a whip </TT> </P>
+<P> <U> ADV. </U><B> soundly </B><I>He was taken back to the jail and soundly whipped. </I> </P>
+<P> <SUP> 2 </SUP> <TT> mix sth until it is light and stiff </TT> </P>
+<P> <U> ADV. </U><B> gently, lightly </B><I>Lightly whip the egg whites and add them to the mixture. </I><B>| up</B> </P>
+</DIV>

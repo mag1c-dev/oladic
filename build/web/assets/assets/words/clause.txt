@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>clause </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a legal document </TT> </P>
+<P> <U> ADJ. </U><B> clawback </B>(= for retrieving money already paid out), <B>confidentiality, escalator </B>(= that allows for a rise in wages or prices under certain conditions), <B>force majeure, indemnity, liability, limitation, penalty </B><I>The penalty clause specifies that late delivery will be fined. </I><B>| escape, exclusion, exemption, get-out, let-out, opt-out </B> </P>
+<P> <U> VERB + CLAUSE </U><B> contain, have </B><I>The contract contains a confidentiality clause. </I><B>| add, include, insert, put in </B><I>We added an opt-out clause to the agreement. </I><B>| delete, take out | amend </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There is some ambiguity in this clause. </I><B>| under a/the ~ </B><I>Under Clause 5.8, the company is responsible for the health of its employees. </I><B>| ~ on </B><I>a clause on pollution </I> </P>
+<P> <SUP> 2 </SUP> <TT> in grammar </TT> </P>
+<P> <U> ADJ. </U><B> main, subordinate | conditional, coordinate, dependent, finite, independent, infinitive, non-finite, relative | non-restrictive, restrictive </B><I>a restrictive relative clause </I><B>| adverbial, nominal, noun </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The completed action is in the main clause. </I> </P>
+</DIV>

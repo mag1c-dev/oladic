@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>slide </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in photography </TT> </P>
+<P> <U> ADJ. </U><B> colour | photographic </B> </P>
+<P> <U> VERB + SLIDE </U><B> show </B><I>He gave a fascinating slide show on climbing in the Himalayas. </I><B>| develop </B> </P>
+<P> <U> SLIDE + NOUN </U><B> film | presentation, show | projector </B> </P>
+<P> <SUP> 2 </SUP> <TT> for use with a microscope </TT> </P>
+<P> <U> ADJ. </U><B> glass | microscope </B> </P>
+<P> <U> VERB + SLIDE </U><B> mount sth on </B> </P>
+<P> <SUP> 3 </SUP> <TT> playground equipment </TT> </P>
+<P> <U> VERB + SLIDE </U><B> go/play on, go down </B><I>He wouldn't go down the slide by himself. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>There were lots on children on the slide. </I> </P>
+<P> <SUP> 4 </SUP> <TT> change to a lower/worse condition </TT> </P>
+<P> <U> ADJ. </U><B> downward | inexorable </B> </P>
+<P> <U> VERB + SLIDE </U><B> halt, prevent, stop </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>to stop the slide in the euro </I><B>| ~ into </B><I>trying to prevent the inexorable slide into war </I><B>| ~ towards </B><I>the market's recent slide towards panic </I> </P>
+</DIV><DIV class="item"><P class="word"><B>slide </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> slowly </B><I>Tears slid slowly down his pale cheek. </I><B>| quickly | easily | smoothly </B><I>a vehicle that will slide smoothly across snow </I><B>| gently | gracefully | noiselessly, quietly, silently </B><I>The moon slid silently behind a cloud. </I><B>| imperceptibly | helplessly </B><I>We slid helplessly down the slope. </I><B>| away, back, backwards, down, forward, forwards, in, out, sideways </B><I>The drawers slide in and out easily. (figurative) The eyes slid away from his own in embarrassment. </I> </P>
+<P> <U> VERB + SLIDE </U><B> begin to </B><I>The melting snow began to slide from the sloping roofs. </I> </P>
+<P> <U> PREP. </U><B> across, along, down, from, into, off, onto, out of, over, to, up, etc. </B><I>She took the note and slid it quickly into her pocket. He slid off the couch and walked over to me. </I> </P>
+<P> <U> PHRASES </U><B> slide open </B><I>The lift doors slid open. </I> </P>
+</DIV>

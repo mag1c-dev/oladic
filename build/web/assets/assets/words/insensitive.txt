@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>insensitive </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not knowing or caring how sb else feels </TT> </P>
+<P> <U> VERBS </U><B> appear, be, seem | become, grow | make sb | think sb </B><I>I don't want to be thought insensitive, but I do think we should go ahead despite the accident. </I> </P>
+<P> <U> ADV. </U><B> extremely, highly, incredibly, remarkably, very | totally | a bit, rather, somewhat </B> </P>
+<P> <U> PREP. </U><B> to </B><I>Years of abuse at boarding school had made him insensitive to others' suffering. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not able to feel/be influenced by sth </TT> </P>
+<P> <U> VERBS </U><B> be | remain </B> </P>
+<P> <U> ADV. </U><B> completely, totally | almost | largely | fairly, relatively </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The machine is relatively insensitive to changes in the atmosphere. </I> </P>
+</DIV>

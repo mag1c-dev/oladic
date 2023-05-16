@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>personnel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> staff </TT> </P>
+<P> <U> ADJ. </U><B> qualified, skilled, trained | key | senior | management | authorized </B><I>Only authorized personnel have access to the computer system. </I><B>| company, corporate | army, military, security (force), service </B><I>an employment agency for ex-service personnel </I><B>| civilian | government, state | hospital, medical | administrative | technical </B> </P>
+<P> <SUP> 2 </SUP> <TT> department of a company </TT> </P>
+<P> <U> VERB + PERSONNEL </U><B> be in, work in </B><I>He's is in personnel, isn't he? </I> </P>
+<P> <U> PERSONNEL + NOUN </U><B> department | director, manager, officer | records</B> </P>
+</DIV>

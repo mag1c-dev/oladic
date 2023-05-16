@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>exterior </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> outside of a building </TT> </P>
+<P> <U> ADJ. </U><B> elegant | plain </B> </P>
+<P> <U> PREP. </U><B> behind an/the ~ </B><I>Hidden behind a plain exterior is a wonderful hotel. </I><B>| on the ~ </B><I>There is an abundance of fine sculpture, both on the exterior and inside. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb's outward behaviour </TT> </P>
+<P> <U> ADJ. </U><B> bland, bluff, calm, charming, confident, cool, glacial </B><I>Her calm exterior hides very passionate feelings. </I> </P>
+<P> <U> EXTERIOR + VERB </U><B> belie, conceal, hide </B><I>His bluff exterior belied a connoisseur of antiques. </I> </P>
+<P> <U> PREP. </U><B> behind sb's ~ </B><I>Behind his cool exterior lurks a reckless and frustrated person. </I><B>| beneath/underneath sb's ~ </B><I>Beneath her charming exterior lies a very determined woman. </I> </P>
+</DIV>

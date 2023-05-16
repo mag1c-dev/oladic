@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>prohibition </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute, total | general | legal, statutory </B> </P>
+<P> <U> VERB + PROHIBITION </U><B> impose | abolish, lift </B> </P>
+<P> <U> PROHIBITION + NOUN </U><B> notice, order </B><I>The prohibition order meant that the book could not be sold in this country. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>prohibition against sales to under-18s of alcohol </I><B>| ~ of </B><I>a treaty for the prohibition of nuclear tests </I><B>| ~ on </B><I>the prohibition imposed on the sale of arms </I> </P>
+</DIV>

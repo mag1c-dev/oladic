@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>necessity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fact that sth must happen; sth that cannot be avoided </TT> </P>
+<P> <U> ADJ. </U><B> overwhelming, sheer | absolute | fundamental, vital | real | dire, pressing, urgent | immediate | strategic | logical, physical, practical </B><I>The people in the rural areas use mud bricks only as an immediate, practical necessity. </I><B>| commercial, economic, financial, historical, military, political, social </B><I>He argued that nuclear weapons were a political necessity. </I> </P>
+<P> <U> VERB + NECESSITY </U><B> recognize, see </B><I>She saw the necessity to make an immediate impression on him. </I><B>| accept (sth as), be convinced of </B><I>They have accepted the necessity of greater state intervention. </I><B>| avoid, obviate, remove, spare | emphasize, highlight, stress </B><I>Observers stressed the necessity for the ceasefire to be observed. </I><B>| be born (out) of </B><I>Culling of the animals was born out of the necessity for successful conservation. </I> </P>
+<P> <U> NECESSITY + VERB </U><B> arise </B><I>These animals don't like water but will swim if the necessity arises. </I><B>| demand (sth) </B><I>Where necessity demands, we can seat more guests in the gallery. </I><B>| force sth </B><I>Necessity forced an urgent solution. </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>The visit will, of necessity, be brief. </I><B>| out of ~ </B><I>He is changing job out of necessity, not because he particularly wants to. </I><B>| through ~ </B><I>Most of the women are forced, through economic necessity, to work in part-time low-paid jobs. </I><B>| without the ~ of </B><I>You can dial direct without the necessity of going through the operator. </I><B>| ~ for </B><I>There's no necessity for you to come. </I><B>| ~ to </B><I>the necessity to earn a living </I> </P>
+<P> <U> PHRASES </U><B> any/no necessity </B><I>The company sees no necessity for a more cautious approach to investment. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth you must have </TT> </P>
+<P> <U> ADJ. </U><B> absolute | vital | real | urgent </B><I>Policies which address these issues are an urgent necessity. </I><B>| bare, basic </B><I>They have nothing but the barest necessities. </I> <B>| daily </B> </P>
+<P> <U> VERB + NECESSITY </U><B> have | lack </B> </P>
+<P> <U> PHRASES </U><B> a necessity of life </B><I>Food is a necessity of life. </I> </P>
+</DIV>

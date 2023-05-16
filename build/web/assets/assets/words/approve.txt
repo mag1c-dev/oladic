@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>approve </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> like sb/sth </TT> </P>
+<P> <U> ADV. </U><B> heartily, thoroughly, very much, wholeheartedly </B><I>I wholeheartedly approve of his actions. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>I very much approve of these new tests. </I> </P>
+<P> <SUP> 2 </SUP> <TT> agree to sth </TT> </P>
+<P> <U> ADV. </U><B> formally, officially </B><I>His appointment has not been formally approved yet. </I><B>| overwhelmingly, unanimously</B> </P>
+</DIV>

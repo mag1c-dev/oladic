@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>cup </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> container </TT> </P>
+<P> <U> ADJ. </U><B> empty | full | half-empty, half-full | broken, chipped, cracked | china, paper, plastic | coffee, tea </B> </P>
+<P> <U> QUANT. </U><B> set </B> </P>
+<P> <U> VERB + CUP </U><B> fill, refill | drain, empty </B><I>She was so thirsty that she drained her cup. </I><B>| lift, pick up, raise </B><I>She raised her cup to her lips. </I><B>| place, put down, replace, set down | drink from/out of </B><I>Customers didn't like drinking out of plastic cups. </I> </P>
+<P> <U> CUP + VERB </U><B> contain sth </B> </P>
+<P> <U> PHRASES </U><B> a cup and saucer </B> </P>
+<P> <SUP> 2 </SUP> <TT> drink </TT> </P>
+<P> <U> ADJ. </U><B> strong </B><I>I like a good strong cup of tea first thing in the morning. </I><B>| fresh </B><I>My coffee was cold, so I ordered a fresh cup. </I> </P>
+<P> <U> VERB + CUP </U><B> offer sb | make (sb) | pour (sb) </B><I>I'm making tea. Can I pour you a cup? </I><B>| help yourself to | stir </B><I>Enrique stirred his fourth cup of coffee of the day. </I><B>| drink, sip </B><I>I drink about ten cups of coffee a day. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B> </P>
+<P> <U> PHRASES </U><B> a nice cup of tea </B><I>You sit down and I'll make you a nice cup of tea. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in sport </TT> </P>
+<P> <U> ADJ. </U><B> challenge | knockout | European, World, etc. </B> </P>
+<P> <U> VERB + CUP </U><B> win </B><I>Who won the cup? </I><B>| lose | present (sb with) </B><I>The cup will be presented to the winning team by the president himself. </I><B>| lift </B><I>He lifted the cup for the sixth time this year </I>(= it was the sixth time he had won)</B><I>. </I> </P>
+<P> <U> CUP + NOUN </U><B> competition </B><I>They were the first Turkish team to win a major cup competition. </I><B>| clash, match </B><I>The team are ready for next week's World Cup clash with Italy. </I><B>| final, quarter-final, semi-finals | win, winner </B> </P>
+<P> <U> PHRASES </U><B> the first, etc. round of the cup</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>fridge </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> domestic </B> </P>
+<P> <U> VERB + FRIDGE </U><B> raid </B><I>The kids tend to raid the fridge when they get home from school. </I><B>| fill, stock </B><I>The fridge was stocked with food and drink. </I><B>| defrost </B> </P>
+<P> <U> FRIDGE + NOUN </U><B> freezer | door</B> </P>
+</DIV>

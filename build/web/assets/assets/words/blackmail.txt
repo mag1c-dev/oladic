@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>blackmail </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> emotional, moral </B> </P>
+<P> <U> BLACKMAIL + NOUN </U><B> threat </B> </P>
+<a href="/collocation-tag/crimes" class="tag">Learn more about CRIMES</a>
+
+</DIV><DIV class="item"><P class="word"><B>blackmail </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> virtually </B> </P>
+<P> <U> VERB + BLACKMAIL </U><B> attempt to, try to </B> </P>
+<P> <U> PREP. </U><B> into </B><I>She says she was virtually blackmailed into giving up her claim to the property. </I> </P>
+</DIV>

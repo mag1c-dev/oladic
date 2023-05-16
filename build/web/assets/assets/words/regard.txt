@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>regard </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> attention to/thought for sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> due, full, proper | scant | particular, specific </B> </P>
+<P> <U> VERB + REGARD </U><B> have </B><I>(often law) When exercising its discretion, the court will have regard to all the circumstances. </I><B>| pay, show </B><I>The manifesto pays scant regard to green issues. </I> </P>
+<P> <U> PREP. </U><B> in/with ~ to </B><I>I am writing with regard to your recent order. </I><B>| without ~ for/to </B><I>an attempt to plan the future of an industry without due regard to market forces </I><B>| ~ for </B><I>a proper regard for human dignity </I> </P>
+<P> <U> PHRASES </U><B> in that/this regard </B><I>I have nothing further to say in this regard </I>(= in regard to what has just been said)</B><I>. </I><B>| a lack of regard </B><I>a lack of regard for public safety </I><B>| little/no regard for/to sb/sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> respect/admiration for sb </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, high | insufficient, low | mutual | critical </B> </P>
+<P> <U> VERB + REGARD </U><B> have, hold sb/sth in </B><I>I have the greatest regard for his abilities. He is held in the highest regard by his colleagues. </I><B>| win </B><I>The film has won critical regard in America. </I></P>
+<P> <SUP> 3 </SUP> <TT> regards: used to send greetings to sb  </TT> </P>
+<P> <U> ADJ. </U><B> best, kind, warm </B><I>(all written) The letter ended, &lsquo;Kindest regards, Felicity.&rsquo; </I> </P>
+<P> <U> VERB + REGARD </U><B> convey, give (sb), send (sb) </B><I>(written) David sends his warmest regards to your parents. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>(written) My regards to your aunt </I>(= please give my regards to your aunt)</B><I>. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>regard </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> (often <B>be regarded</B>) think of sb/sth in a particular way </TT> </P>
+<P> <U> ADV. </U><B> highly, well </B><I>She was highly regarded as a sculptor. </I><B>| generally, universally, widely </B><I>The project was widely regarded as a success. </I><B>| commonly, popularly, usually | conventionally, traditionally </B><I>Foxes were traditionally regarded as vermin. </I><B>| legitimately, properly, reasonably </B><I>Civil contempt is not properly regarded as a criminal offence. </I><B>| hitherto | still | no longer </B> </P>
+<P> <U> VERB + REGARD </U><B> seem to </B><I>He seemed to regard the whole thing as a joke. </I><B>| tend to </B><I>They tend to regard the open expression of emotion as being soft and feminine. </I><B>| come to </B><I>I had come to regard him as a close friend. </I><B>| continue to | be tempted to, be tempting to </B><I>The successful are often tempted to regard their success as a kind of reward. </I><B>| be a mistake to </B><I>It would be a mistake to regard the incident as unimportant. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>Many of her works are regarded as classics. </I><B>| with </B><I>They regarded people outside their own village with suspicion. </I> </P>
+<P> <SUP> 2 </SUP> <TT> look steadily at sb/sth </TT> </P>
+<P> <U> ADV. </U><B> steadily | intently | curiously, suspiciously, thoughtfully, warily </B> </P>
+<P> <U> VERB + REGARD </U><B> continue to </B><I>His eyes continued to regard her steadily. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She regarded the mess with distaste. </I> </P>
+</DIV>

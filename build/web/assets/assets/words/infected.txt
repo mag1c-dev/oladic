@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>infected </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become, get </B> </P>
+<P> <U> ADV. </U><B> badly, heavily | chronically </B> </P>
+<P> <U> PREP. </U><B> with </B><I>patients who are infected with this virus </I> </P>
+</DIV>

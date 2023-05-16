@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>emigration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> mass, massive </B> </P>
+<P> <U> QUANT. </U><B> wave </B><I>He called for a halt to the recent wave of emigration. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>emigration from Europe to America </I><B>| ~ to</B> </P>
+</DIV>

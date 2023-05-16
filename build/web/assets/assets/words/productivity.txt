@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>productivity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | greater, improved, increased | lost </B><I>The strike took a heavy toll in lost productivity. </I><B>| agricultural, labour, manufacturing </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>Farmers are struggling to maintain a level of productivity that generates an acceptable income. </I> </P>
+<P> <U> VERB + PRODUCTIVITY </U><B> boost, improve, increase, raise | decrease, reduce </B> </P>
+<P> <U> PRODUCTIVITY + VERB </U><B> increase, rise | decrease, drop, fall </B> </P>
+<P> <U> PRODUCTIVITY + NOUN </U><B> level | gains, growth, increase | deal </B><I>Management is negotiating a new productivity deal with the union. </I> </P>
+<P> <U> PHRASES </U><B> a decline/reduction in productivity, a gain/an improvement/an increase in productivity, growth in productivity </B><I>Wage increases outpaced growth in productivity. </I> </P>
+</DIV>

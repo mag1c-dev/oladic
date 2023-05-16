@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>desk </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> type of table </TT> </P>
+<P> <U> ADJ. </U><B> big, enormous, high, huge, large, vast | leather-topped | antique | empty </B><I>The empty desk suggested she had already gone home. </I><B>| cluttered, untidy | writing | office, school </B> </P>
+<P> <U> VERB + DESK </U><B> sit at | get up from </B><I>He got up from his desk and went to the window. </I><B>| clear </B><I>My desk gets very cluttered if I don't clear it at the end of each day. </I><B>| arrive on, land on </B><I>A very strange request landed on my desk this morning. </I> </P>
+<P> <U> DESK + NOUN </U><B> drawer | diary, lamp | job </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>He was sitting at his desk working when we got home. </I><B>| behind a/the ~ </B><I>The manager sat frowning behind his desk throughout the whole interview. </I><B>| on a/the ~ </B><I>I left the file on your desk. </I> </P>
+<P> <SUP> 2 </SUP> <TT> place in a building where a service is provided </TT> </P>
+<P> <U> ADJ. </U><B> front, reception </B><I>Leave your valuables at the reception desk. </I><B>| cash, check-in, enquiry/enquiries, help, information, support </B><I>She paid for the book at the cash desk. Staff experiencing problems with their computers should ring the help desk. </I> </P>
+<P> <U> DESK + NOUN </U><B> clerk </B> </P>
+<P> <U> PREP. </U><B> at the &hellip; ~ </B><I>There was a long queue at the check-in desk. </I><B>| on the &hellip; ~ </B><I>We asked the man on the information desk for a map of the city. </I> </P>
+</DIV>

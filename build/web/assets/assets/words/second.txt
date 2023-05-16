@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>second </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> very short moment of time </TT> </P>
+<P> <U> ADJ. </U><B> brief, fleeting, split </B><I>I only saw the man for a split second as he ran past. </I><B>| single | heart-stopping </B><I>For a heart-stopping second he thought he had lost his keys. </I> </P>
+<P> <U> VERB + SECOND </U><B> take </B><I>This will only take a second. </I><B>| have </B><I>Do you have a second, Miss White? </I><B>| wait </B><I>Wait a second?this letter's been sent to me by mistake. </I> </P>
+<P> <U> SECOND + VERB </U><B> pass, tick by </B><I>The seconds ticked by. </I> </P>
+<P> <U> SECOND + NOUN </U><B> hand </B> </P>
+<P> <U> PREP. </U><B> for a ~ </B><I>For a second I thought you were my mother. </I><B>| in a ~ </B><I>I'll be with you in a second. </I><B>| in/within ~s </B><I>Within seconds he had disappeared from view. </I> </P>
+<P> <U> PHRASES </U><B> a fraction of a second </B><I>If he'd reacted a fraction of a second later, he would surely have died. </I><B>| a matter of seconds </B><I>The end of the match is only a matter of seconds away. </I> </P>
+<a href="/collocation-tag/measure" class="tag">Learn more about MEASURE</a>
+<P> <SUP> 2 </SUP> <TT> person/thing that comes next after the first </TT> </P>
+<P> <U> ADJ. </U><B> close, good | bad, distant, poor | equal, joint | creditable, worthy </B><I>The young German runner finished a creditable second. </I> </P>
+<P> <U> VERB + SECOND </U><B> come, finish </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Sunny Boy came a close second to the winner. </I> </P>
+<P> <SUP> 3 </SUP> <TT> university degree </TT> </P>
+<P> <U> ADJ. </U><B> lower, upper | good </B> </P>
+<P> <U> VERB + SECOND </U><B> be awarded, gain, get, obtain </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>He got a good second in history. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>second thought </B><I>noun </I> </P>
+<P> <U> VERB + SECOND THOUGHT </U><B> have ~s | not give sth </B><I>As for the money, don't give it a second thought. </I> </P>
+<P> <U> PREP. </U><B> on ~s </B><I>On second thoughts, maybe I won't apply for the job after all. </I><B>| without a ~ </B><I>He dismissed the rumour without a second thought. </I><B>| ~s about </B><I>We're beginning to have second thoughts about buying a car. </I> </P>
+</DIV>

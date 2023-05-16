@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>colour </B><I>noun </I> </P>
+<P> <U> PREP. </U><B> off ~ </B>(= looking or feeling ill)  </P>
+<P> <SUP> 1 </SUP> <TT> quality that makes sth red, etc. </TT> </P>
+<P> <SUP> 3 </SUP> <TT> interesting or exciting details </TT> </P>
+<P> <U> ADJ. </U><B> bold, bright, brilliant, vivid, </B> </P>
+<P> <U> ADJ. </U><B> local </B><I>a journalist in search of a </I><B>vibrant | dark, deep </B><I>Dark colours bit of local colour suit you best. </I><B>| intense, rich, </B> </P>
+<P> <U> VERB + COLOUR </U><B> add, give sth, lend strong </B><I>the intense colour of new His asides lent colour to the story. leaves </I><B>| light, muted, pale, </B> </P>
+<P> <U> PHRASES </U><B> full of colour pastel, soft, subdued, subtle | dull | garish, gaudy, loud, lurid | autumn/autumnal, earthy, warm | sombre | attractive, beautiful, lovely | complementary, contrasting | matching | basic | primary, secondary | indeterminate, neutral | natural | blue, red, etc. </B><I>The curtains went a strange orange colour when we washed them. </I><B>| eye, hair, skin </B><I>What is her natural hair colour? </I> </P>
+<P> <U> QUANT. </U><B> dash, flash, splash | mass, riot </B><I>The garden is a riot of colou</I>r </B><I>in spring. </I><B>| spot, touch </B> </P>
+<P> <U> VERB + COLOUR </U><B> change </B><I>Th</I>e </B><I>chameleon changes colour t</I>o </B><I>match its surroundings. </I><B>| add </B><I>Th</I>e </B><I>silk cushions add colour to a</I>n </B><I>otherwise dull room</I>. </B> </P>
+<P> <U> COLOUR + VERB </U><B> match (sth) | clash | fade | run </B><I>This colour runs, s</I>o </B><I>wash the shirt separately</I>. </B> </P>
+<P> <U> COLOUR + NOUN </U><B> combination, range, scheme </B><I>We have t</I>o </B><I>choose a colour scheme for th</I>e </B><I>dining room. </I><B>| illustration, photograph, photography, printing, reproduction | monitor, television </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The flowers are pale blu</I>e </B><I>in colour. Is the film in colour o</I>r </B><I>black and white? The book i</I>s </B><I>lavishly illustrated in full colour. </I>| <B>in a ~ </B><I>The scarf is available in si</I>x </B><I>different colours</I>. </B> </P>
+<P> <U> PHRASES </U><B> a combination/range of colours2 </B>redness in the face </B> </P>
+<P> <U> ADJ. </U><B> heightened, high </B><I>You coul</I>d </B><I>tell she was excited by th</I>e </B><I>heightened colour in her cheeks. </I>| <B>faint </B> </P>
+<P> <U> VERB + COLOUR </U><B> have </B><I>You have a bi</I>t </B><I>more colour in your cheeks now. </I>| <B>bring </B><I>The walk brought colour t</I>o </B><I>her face. </I><B>| be drained of, drain of, lose </B><I>His face drained of al</I>l </B><I>colour</I>. </B> </P>
+<P> <U> COLOUR + VERB </U><B> flood sth, rise </B><I>Colour flooded her cheeks. Th</I>e </B><I>colour rose in his face. </I><B>| drain </B><I>Th</I>e </B><I>colour drained from her face whe</I>n </B><I>she saw him. </I><B>| come back, return </B><I>Gradually the colour returned t</I>o </B><I>his cheeks</I>. </B> </P>
+</DIV><DIV class="item"><P class="word"><B>colour </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> heavily, strongly </B><I>His opinions are heavily coloured by his own experiences. </I><B>| naturally</B> </P>
+</DIV>

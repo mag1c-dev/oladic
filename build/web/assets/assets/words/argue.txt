@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>argue </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> disagree </TT> </P>
+<P> <U> ADV. </U><B> fiercely, furiously, heatedly | endlessly </B> </P>
+<P> <U> PREP. </U><B> about </B><I>arguing endlessly about money </I><B>| over </B><I>They were arguing over who should have the car that day. </I><B>| with </B><I>She's always arguing with her mother. </I> </P>
+<P> <SUP> 2 </SUP> <TT> give reasons to support opinion </TT> </P>
+<P> <U> ADV. </U><B> forcefully, passionately, strongly | convincingly, persuasively, plausibly, successfully </B><I>The report argues convincingly that economic help should be given to these countries. </I><B>| sensibly </B> </P>
+<P> <U> VERB + ARGUE </U><B> be disposed to, wish to </B><I>I would wish to argue that appreciation of the arts should be encouraged for its own sake. </I><B>| be prepared to </B><I>Are you prepared to argue that killing is sometimes justified? </I><B>| attempt to, try to | go on to </B><I>In her paper she goes on to argue that scientists do not yet know enough about the nature of the disease. </I><B>| be possible to </B><I>It is possible to argue that the rules are too strict. </I><B>| be difficult to </B> </P>
+<P> <U> PREP. </U><B> against </B><I>She argued against a rise in interest rates. </I><B>| for </B><I>The general argued for extending the ceasefire. </I><B>| in favour of </B><I>They argued in favour of stricter punishments. </I> </P>
+</DIV>

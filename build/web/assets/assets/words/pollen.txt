@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>pollen </B><I>noun </I> </P>
+<P> <U> VERB + POLLEN </U><B> collect, gather </B><I>bees gathering pollen </I> </P>
+<P> <U> POLLEN + NOUN </U><B> grain | count </B><I>Hay fever sufferers have a worse time when the pollen count is high. </I><B>| analysis | record </B><I>The pollen record shows that this plant was never common on the island. </I> </P>
+</DIV>

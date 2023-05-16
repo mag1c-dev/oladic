@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>clock </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> 12/24-hour | atomic, digital, electric | bedside, kitchen | alarm, carriage, cuckoo, grandfather, long-case, time, travelling, wall </B> </P>
+<P> <U> VERB + CLOCK </U><B> set, wind </B><I>I've set my alarm clock for six tomorrow. </I><B>| put back/forward </B><I>He forgot to put his clock forward and turned up an hour late. </I><B>| stop (for example in a game) </B><I>Pressing the &lsquo;Yes&rsquo; or &lsquo;No&rsquo; response button stops the clock. </I><B>| glance at, look at | watch </B><I>employees who are always watching the clock </I>(= wanting their day's work to end) </B> </P>
+<P> <U> CLOCK + VERB </U><B> chime (sth), strike sth, tick </B><I>The clock struck the hour. I could hear a clock ticking somewhere in the house. </I><B>| stop | be fast/slow, gain/keep/lose time </B><I>This clock doesn't keep time. </I><B>| go back/forward </B><I>The clocks go back </I>(= for a return to standard time)</B><I>/forward </I>(= for summer time) </B><I>tonight. </I><B>| say sth </B><I>The clock on the mantelpiece said twelve o'clock. </I><B>| go off </B><I>My alarm clock didn't go off this morning. </I> </P>
+<P> <U> CLOCK + NOUN </U><B> face, tower | radio </B> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>to work against the clock </I>(= to work fast in order to finish before a particular time) <B>| around/round the ~ </B>(= all day and all night) <I>to work around the clock </I><B>| by the ~ </B><I>It's ten o'clock by the kitchen clock. </I> </P>
+<P> <U> PHRASES </U><B> the dial/face/hands of a clock</B> </P>
+</DIV>

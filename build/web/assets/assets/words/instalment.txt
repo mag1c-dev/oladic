@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>instalment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> regular payment </TT> </P>
+<P> <U> ADJ. </U><B> fixed | equal </B><I>a loan repaid in equal annual instalments </I><B>| first, initial | second, third, etc. | final, last | next | annual, monthly, weekly, quarterly </B> </P>
+<P> <U> VERB + INSTALMENT </U><B> pay (off), pay (sth) by/in, pay sth off in </B><I>She sold the car before she had paid the instalments. The tenants agreed to pay off the arrears in instalments. </I><B>| repay (sth) by/in </B> </P>
+<P> <U> INSTALMENT + VERB </U><B> be/become due, be payable by/in </B><I>The next instalment is not due until July. </I> </P>
+<P> <U> INSTALMENT + NOUN </U><B> payment | plan, terms </B><I>We offer an instalment plan. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The amounts are repayable by instalment. </I><B>| in ~ </B><I>Repayment is in ten instalments. </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of a story </TT> </P>
+<P> <U> ADJ. </U><B> first, second, etc. | final, last | daily, weekly | next </B> </P>
+<P> <U> VERB + INSTALMENT </U><B> publish (sth in) </B><I>The &lsquo;Screwtape Letters&rsquo; were published in instalments from May to November 1941. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>the final instalment in the trilogy </I> </P>
+</DIV>

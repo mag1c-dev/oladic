@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>radioactivity </B><I>noun </I> </P>
+<P> <U> QUANT. </U><B> level </B><I>The soil contains 30 times the acceptable level of radioactivity. </I> </P>
+<P> <U> VERB + RADIOACTIVITY </U><B> discharge, produce, release | measure, monitor </B> </P>
+<P> <U> RADIOACTIVITY + VERB </U><B> be present | escape, leak | contaminate sth </B><I>The site was found to be contaminated by radioactivity. </I> </P>
+<P> <U> RADIOACTIVITY + NOUN </U><B> levels</B> </P>
+</DIV>

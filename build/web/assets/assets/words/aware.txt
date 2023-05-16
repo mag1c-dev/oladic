@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>aware </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> conscious </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | make sb </B><I>We need to make people more aware of these problems. </I> </P>
+<P> <U> ADV. </U><B> acutely, keenly, very, well | fully, perfectly </B><I>Mr Bush did not appear fully aware of the importance of this act. </I><B>| dimly, vaguely | hardly, not really </B><I>He was not really aware of what he was doing. </I><B>| horribly, painfully </B><I>Moran was painfully aware of Luke's absence. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>The police are well aware of the dangers. </I> </P>
+<P> <SUP> 2 </SUP> <TT> informed </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> very | environmentally, politically, socially</B> </P>
+</DIV>

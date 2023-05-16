@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>inhabitant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> local | old </B><I>He is Brixham's oldest inhabitant. </I><B>| younger | present | permanent | early </B><I>The island's earliest inhabitants came from India. </I><B>| original | indigenous, native | rural, village | human </B> </P>
+<P> <U> VERB + INHABITANT </U><B> have </B><I>London has over seven million inhabitants. </I> </P>
+<P> <U> INHABITANT + VERB </U><B> live </B><I>77% of the inhabitants lived in the countryside. </I> </P>
+<P> <U> PREP. </U><B> of/with &hellip; ~ </B><I>towns of about 10,000 inhabitants </I> </P>
+</DIV>

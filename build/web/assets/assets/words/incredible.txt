@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>incredible </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> impossible to believe </TT> </P>
+<P> <U> VERBS </U><B> be, seem, sound | find sth </B><I>I find this quite incredible! </I> </P>
+<P> <U> ADV. </U><B> really, truly | absolutely, quite | just, simply | almost </B> </P>
+<P> <U> PREP. </U><B> to </B><I>It seems incredible to me that we didn't think of this before. </I> </P>
+<P> <SUP> 2 </SUP> <TT> extremely good/extremely large </TT> </P>
+<P> <U> VERBS </U><B> be, look, smell, taste | find sth </B> </P>
+<P> <U> ADV. </U><B> really, truly | absolutely, quite | just, simply | pretty </B><I>You're pretty incredible, Belinda. </I> </P>
+</DIV>

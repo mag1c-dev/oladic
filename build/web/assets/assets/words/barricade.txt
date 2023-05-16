@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>barricade </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> human </B> </P>
+<P> <U> VERB + BARRICADE </U><B> build, construct, erect, put up, set up | form </B><I>The protesters formed a human barricade. </I><B>| dismantle, remove, take down | smash, storm </B><I>The army used tanks to storm the barricades. </I><B>| man </B><I>There were six miners manning the barricades. </I> </P>
+<P> <U> PREP. </U><B> behind a/the ~ </B><I>fighting from behind their barricades </I><B>| over a/the ~ </B><I>The two sides watched each other over the barricades. </I><B>| ~ across </B><I>a barricade across the main road </I><B>| ~ against </B><I>Students built a barricade against the police. </I><B>| ~ of </B><I>a barricade of wooden benches </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cultivate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> land </TT> </P>
+<P> <U> ADV. </U><B> intensively </B><I>The land here has been intensively cultivated for generations. </I> </P>
+<P> <SUP> 2 </SUP> <TT> crops </TT> </P>
+<P> <U> ADV. </U><B> successfully </B><I>Olives have been cultivated successfully in southern Australia. </I> </P>
+<P> <SUP> 3 </SUP> <TT> try to develop sth </TT> </P>
+<P> <U> ADV. </U><B> actively, assiduously, carefully, deliberately </B><I>This modern image is actively cultivated by the company. </I><B>| successfully</B> </P>
+</DIV>

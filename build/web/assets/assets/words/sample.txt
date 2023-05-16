@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>sample </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small quantity of sth </TT> </P>
+<P> <U> ADJ. </U><B> blood, DNA, faecal, RNA, rock, serum, tissue, urine, etc. | biopsy, clinical </B> </P>
+<P> <U> VERB + SAMPLE </U><B> collect, take | provide </B><I>All the athletes had to provide a urine sample. </I><B>| analyse, study, test </B> </P>
+<P> <U> SAMPLE + NOUN </U><B> book </B><I>We looked at sample books to choose the furniture fabric. </I><B>| bottle </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>samples of tissue </I> </P>
+<P> <SUP> 2 </SUP> <TT> people in a survey </TT> </P>
+<P> <U> ADJ. </U><B> small | large, wide | population | representative | random </B> </P>
+<P> <U> VERB + SAMPLE </U><B> draw </B><I>a sample drawn from men aged 35?40 </I> </P>
+<P> <U> SAMPLE + VERB </U><B> comprise sth, consist of sth </B><I>Our sample comprised 250 catering workers. </I> </P>
+<P> <U> SAMPLE + NOUN </U><B> size </B><I>A larger sample size yields more reliable data. </I><B>| survey | group </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a wide sample of people </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sample </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> randomly </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The survey was done using a group of 100 children randomly sampled from the school population. </I> </P>
+</DIV>

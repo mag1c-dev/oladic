@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>new </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> recently built/made </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>The car still looks quite new. </I> </P>
+<P> <U> ADV. </U><B> brand, spanking </B><I>a scratch on my brand new car very proud of their spanking new kitchen </I><B>| fairly, quite </B> </P>
+<P> <SUP> 2 </SUP> <TT> different/not familiar </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>These ideas are not entirely new. </I> </P>
+<P> <U> ADV. </U><B> very | completely, entirely, quite | fairly, quite </B> </P>
+<P> <U> PREP. </U><B> to </B><I>It was all very new and strange to me. She's still quite new to the job and needs a lot of help. </I> </P>
+<P> <U> PHRASES </U><B> be nothing new about/in sth </B><I>There is nothing new in teenagers wanting to change the world. </I> </P>
+</DIV>

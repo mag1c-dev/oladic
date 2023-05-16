@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>update </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> monthly, regular, weekly, etc. </B> </P>
+<P> <U> VERB + UPDATE </U><B> give (sb), provide (sb with) </B><I>The report gives an update on the currency crisis. </I><B>| get, receive </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>an update on the political crisis </I><B>| ~ to </B><I>We need an update to the mailing list. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>update </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> constantly, continually, continuously | regularly | annually, monthly, etc. | fully, properly </B><I>The road map has been fully updated. </I><B>| automatically | manually </B><I>updating all the files manually </I> </P>
+<P> <U> VERB + UPDATE </U><B> seek to, try to | wish to </B> </P>
+<P> <U> PREP. </U><B> on </B><I>Could you update me on how the work is progressing? </I><B>| with </B><I>The files are continuously updated with new information. </I> </P>
+</DIV>

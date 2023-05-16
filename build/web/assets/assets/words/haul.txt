@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>haul </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of hauling </TT> </P>
+<P> <U> VERB + HAUL </U><B> give sth </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>When I shout, give a haul on the rope. </I> </P>
+<P> <SUP> 2 </SUP> <TT> distance to be travelled </TT> </P>
+<P> <U> ADJ. </U><B> long, short </B><I>the long haul back to Cape Town a short-haul passenger plane </I><B>| final, last </B><I>the final haul up the hill to the finishing line </I> </P>
+<P> <U> PREP. </U><B> ~ from, ~ to </B> </P>
+<P> <SUP> 3 </SUP> <TT> of fish/stolen goods, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big, large, record </B><I>The thieves got away with a record haul of </I>&pound;</B><I>25 million. </I><B>| arms, drugs </B> </P>
+<P> <U> VERB + HAUL </U><B> get, get away with </B><I>The gang did not expect to get such a large haul. </I> </P>
+<P> <U> HAUL + VERB </U><B> be worth sth </B><I>a haul worth </I>&pound;</B><I>30,000 </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the biggest ever haul of illegal drugs </I> </P>
+</DIV>

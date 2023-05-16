@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>van </B><I>noun</I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> vehicle for transporting goods, etc. </TT> </P>
+<P> <U> ADJ. </U><B> light | transit | camper | delivery, furniture, ice-cream, mail, removal | armoured, police </B> </P>
+<P> <U> VERB + VAN </U><B> drive | park | load, unload </B> </P>
+<P> <U> VAN + NOUN </U><B> driver </B> </P>
+<P> <SUP> 2 </SUP> <TT> type of railway carriage </TT> </P>
+<P> <U> ADJ. </U><B> goods, guard's, luggage</B> </P>
+</DIV>

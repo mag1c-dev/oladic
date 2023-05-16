@@ -1,0 +1,28 @@
+
+<DIV class="item"><P class="word"><B>wave </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on water </TT> </P>
+<P> <U> ADJ. </U><B> big, enormous, giant, great, huge, mountainous | small, tiny | white-capped, white-crested, white-topped | breaking | tidal </B><I>Several villages have been destroyed by a huge tidal wave. </I> </P>
+<P> <U> VERB + WAVE </U><B> ride </B><I>Surfers flocked to the beach to ride the waves. </I> </P>
+<P> <U> WAVE + VERB </U><B> rise | break, fall </B><I>We watched the waves breaking on the shore. </I><B>| lap </B><I>the gentle sound of waves lapping the sand </I><B>| crash, roar, smash </B><I>I could hear the waves crash against the rocks. </I> </P>
+<P> <U> WAVE + NOUN </U><B> energy, power </B> </P>
+<P> <U> PREP. </U><B> in the ~s </B><I>children playing in the waves </I><B>| on the ~s </B><I>There were seagulls bobbing on the waves. </I> </P>
+<P> <U> PHRASES </U><B> the crash/crashing/lap/lapping of the waves, the crest of a wave </B><I>(often figurative) She is on the crest of a wave at the moment following her Olympic success. </I> </P>
+<P> <SUP> 2 </SUP> <TT> movement of energy </TT> </P>
+<P> <U> ADJ. </U><B> electromagnetic, light, radio, seismic, shock, sound </B> </P>
+<P> <U> VERB + WAVE </U><B> emit, generate | deflect </B> </P>
+<P> <U> WAVE + VERB </U><B> bounce off sth, travel </B><I>Sound waves bounce off objects in their path. </I> </P>
+<P> <SUP> 3 </SUP> <TT> increase/spread </TT> </P>
+<P> <U> ADJ. </U><B> big, enormous, huge, massive | fresh, new, next, recent | first, second, etc. </B><I>the first wave of immigration in the 1950s </I><B>| crime </B> </P>
+<P> <U> VERB + WAVE </U><B> send </B><I>Hearing the tune again sent waves of longing through her. </I> </P>
+<P> <U> WAVE + VERB </U><B> sweep (over) sth, wash over/through sb/sth </B><I>With the fall of the Bastille in 1789, a wave of euphoria swept over Europe. A wave of relief washed over him as he saw that the children were safe. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a big wave of refugees </I> </P>
+<P> <SUP> 4 </SUP> <TT> hand movement </TT> </P>
+<P> <U> ADJ. </U><B> quick | cheery, friendly | farewell, parting </B> </P>
+<P> <U> VERB + WAVE </U><B> give (sb), return </B><I>I returned his wave and started to walk towards him. </I> </P>
+<P> <U> PREP. </U><B> with a ~ | ~ of </B><I>He dismissed her thanks with a quick wave of the hand. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wave </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently </B><I>reeds waving gently in the breeze </I><B>| vigorously | cheerfully, cheerily, happily | frantically, wildly </B><I>They stood by the side of the road and waved frantically. </I><B>| vaguely </B><I>He waved a hand vaguely in the air. </I><B>| dismissively | about/around, aside, back, on, through </B><I>She waved cheerfully and he waved back. The guards waved us on. </I> </P>
+<P> <U> VERB + WAVE </U><B> turn and/to </B><I>He turned to wave to his mother. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>We waved at the people on the shore. </I><B>| to </B><I>They waved to us as we passed. She waved him to a seat. </I> </P>
+<P> <U> PHRASES </U><B> wave (sb) goodbye </B><I>people waving goodbye to their friends and relatives </I> </P>
+</DIV>

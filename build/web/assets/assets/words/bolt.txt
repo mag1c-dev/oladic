@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>bolt </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for fastening things together </TT> </P>
+<P> <U> VERB + BOLT </U><B> tighten (up) | loosen | undo, unscrew </B> </P>
+<P> <U> PHRASES </U><B> nuts and bolts </B> </P>
+<P> <SUP> 2 </SUP> <TT> for fastening a door </TT> </P>
+<P> <U> VERB + BOLT </U><B> draw back, pull back, slide back | push home, slide home </B><I>She closed the door quickly and pushed the bolts home. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bolt </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> firmly, securely </B><I>Make sure that the rails are securely bolted in place. </I><B>| together </B><I>The two parts are bolted together. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The yacht's keel is bolted to the hull. </I> </P>
+</DIV>

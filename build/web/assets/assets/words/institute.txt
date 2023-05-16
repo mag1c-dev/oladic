@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>institute </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> professional | independent | government | international, national | economic, education, educational, research, scientific, technical </B> </P>
+<P> <U> VERB + INSTITUTE </U><B> establish, found, set up | open | belong to </B><I>She belongs to the Chartered Institute of Management. </I><B>| join </B> </P>
+<P> <U> INSTITUTE + VERB </U><B> find sth </B><I>The environmental research institute found that the global average temperature had risen by 1.2&deg;C. </I><B>| claim sth, say sth </B><I>The Institute says that an unidentified virus is to blame for the syndrome. </I><B>| publish sth | provide sth </B><I>an institute providing opportunities to veterinary graduates </I> </P>
+<P> <U> PREP. </U><B> at an/the ~ </B><I>She used to give lectures at the Mechanics' Institute. </I><B>| in/within an/the ~ </B><I>He is a key figure in the Institute of Mathematics. </I><B>| ~ for </B><I>the International Institute for Economic Development </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> a founder of an institute, a member of an institute </B></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+</DIV>

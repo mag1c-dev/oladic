@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>deliberation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> careful consideration/discussion of sth </TT> </P>
+<P> <U> ADJ. </U><B> careful </B><I>After careful deliberation, it was agreed to abandon the project. </I><B>| considerable | lengthy, long </B> </P>
+<P> <U> PREP. </U><B> ~ about/on </B><I>your deliberations on his future </I> </P>
+<P> <SUP> 2 </SUP> <TT> speaking/moving slowly and carefully </TT> </P>
+<P> <U> ADJ. </U><B> calm, cool, quiet, slow | great </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>With slow deliberation, he tore the letter into pieces. </I> </P>
+</DIV>

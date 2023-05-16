@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>dial </B><I>noun </I> </P>
+<P> <U> VERB + DIAL </U><B> adjust, set, turn, twiddle, twist </B><I>Set the dial for the number of copies required. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dial </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> direct </B><I>It is possible to dial direct to many countries. </I> </P>
+</DIV>

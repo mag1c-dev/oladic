@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>flask </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> Thermos(R), vacuum | hip | metal, silver | conical, culture, round bottom </B><I>(all science) </I> </P>
+<P> <U> VERB + FLASK </U><B> fill | carry </B><I>When he climbed in the snow he always carried a silver flask of brandy for emergencies. </I><B>| pull out </B><I>She pulled out her flask and drank from it. </I><B>| uncork, unscrew | drink (sth) from, take a swallow from, take a swig from </B> </P>
+<P> <U> FLASK + VERB </U><B> contain sth </B><I>a culture flask containing 4ml of the medium </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>We took a flask of tea with us. </I> </P>
+</DIV>

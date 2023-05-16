@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>input </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of time/knowledge/ideas </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, important, major, significant, substantial | additional | direct | regular | local | specialist, technical </B> </P>
+<P> <U> VERB + INPUT </U><B> have | need | get, receive | provide </B><I>constructive criticism which provided an input into the school's decision-making process </I> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>The report contains a substantial input by the police. </I><B>| ~ from </B><I>input from various interested parties </I><B>| ~ in </B><I>They all had some input in the discussion. </I><B>| ~ into </B><I>her input into the survey </I><B>| ~ on </B><I>The union would like more input on redundancies. </I><B>| ~ to </B><I>an additional input to market analysis </I> </P>
+<P> <SUP> 2 </SUP> <TT> for a computer </TT> </P>
+<P> <U> ADJ. </U><B> data | user | keyboard | computer </B> </P>
+<P> <U> VERB + INPUT </U><B> require </B><I>Early computers required input in the form of punched cards. </I><B>| accept </B><I>The software will accept input from a variety of other programs. </I><B>| process </B><I>It may be beyond the capability of the hardware to process the input. </I><B>| be used as/for </B><I>Decision tables can be used as computer input. </I><B>| check </B><I>Check your input and make sure you have selected only one item. </I> </P>
+<P> <U> INPUT + NOUN </U><B> data | file | field, form, screen </B><I>The cursor is positioned on the first input field of the page. </I><B>| device </B><I>an input device such as a keyboard </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>inputs for the printers </I><B>| ~ from </B><I>input from a mouse </I><B>| ~ to </B><I>input to a computer database </I> </P>
+<P> <U> PHRASES </U><B> input and output</B> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>frontier </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> border between countries </TT> </P>
+<P> <U> ADJ. </U><B> common </B><I>Neither country would guarantee the integrity of their common frontier. </I><B>| eastern, northern, etc. </B><I>There were very few border controls on the south-western frontier. </I><B>| Franco-Spanish, Hispano-French, Spanish-French, French, etc. </B> </P>
+<P> <U> VERB + FRONTIER </U><B> cross </B><I>The army crossed the frontier in the middle of the night. </I><B>| control, defend, guard </B><I>The rebels control the frontier and the surrounding area. </I> </P>
+<P> <U> FRONTIER + NOUN </U><B> controls, post | guard | area, province, region, town, zone | line </B> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>Many people travelling across the frontier were illegal immigrants. </I><B>| along the ~ </B><I>an army grouping along the frontier </I><B>| at the ~ </B><I>There was an army checkpoint at the frontier. </I><B>| on the ~ </B><I>people living on the German frontier </I><B>| over the ~ </B><I>They were forced to retreat back over the frontier. </I><B>| ~ between </B><I>the frontier between India and Pakistan </I><B>| ~ with </B><I>France's frontier with Germany </I> </P>
+<P> <SUP> 2 </SUP> <TT> border between what we know and do not know </TT> </P>
+<P> <U> ADJ. </U><B> final, new </B> </P>
+<P> <U> VERB + FRONTIER </U><B> explore </B><I>Space is the final frontier for us to explore. </I><B>| advance, push back </B><I>The scientists' work will push back the frontiers of physics. </I> </P>
+</DIV>

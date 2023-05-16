@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>demonstration </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> public protest/march </TT> </P>
+<P> <U> ADJ. </U><B> big, huge, large, large-scale, major, massive | mass, popular, public </B><I>mass demonstrations against cuts in the health service The president's decision provoked public demonstrations. </I><B>| street | spontaneous | peaceful </B><I>Thousands gathered for a peaceful demonstration. </I><B>| violent | hostile | protest </B><I>a protest demonstration against the war </I><B>| student | opposition | anti-war, pro-democracy, etc. </B> </P>
+<P> <U> VERB + DEMONSTRATION </U><B> hold, organize, stage </B><I>Taxi drivers staged a demonstration against the new law. </I><B>| go on, join, participate in, take part in | call off </B><I>The demonstration was called off at the last minute. </I><B>| break up, disperse </B><I>Police in riot gear dispersed the demonstration. </I><B>| ban, suppress | provoke, spark (off) </B><I>The minister does not wish to provoke further demonstrations. </I> </P>
+<P> <U> DEMONSTRATION + VERB </U><B> take place | call for sth </B><I>demonstrations calling for an end to sanctions </I><B>| greet </B><I>The visiting president was greeted by hostile demonstrations. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>police intervention at demonstrations </I><B>| during a/the ~ </B><I>Hundreds were arrested during demonstrations in the capital. </I><B>| ~ against, ~ in protest at </B><I>demonstrations in protest at the arrests </I><B>| ~ in favour of, ~ in support of </B><I>student demonstrations in favour of a multi-party system </I> </P>
+<P> <SUP> 2 </SUP> <TT> showing/explaining sth </TT> </P>
+<P> <U> ADJ. </U><B> physical, practical </B><I>physical demonstrations of affection </I><B>| cookery, product, etc. </B> </P>
+<P> <U> VERB + DEMONSTRATION </U><B> do, give sb </B><I>I'll give a quick demonstration of some knitting techniques. </I><B>| watch </B> </P>
+<P> <SUP> 3 </SUP> <TT> sth that shows clearly that sth is true </TT> </P>
+<P> <U> ADJ. </U><B> clear, convincing, dramatic, impressive, perfect, vivid </B><I>The strike was a dramatic demonstration of the power of the workforce. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>journey </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, marathon | brief, short | outward | homeward, return | onward </B><I>The bus driver told us where to change buses for our onward journey. </I><B>| bus, car, rail, railway, train, etc. | five-mile, four-hour, etc. | comfortable, easy, good, pleasant, safe </B><I>I hope you had a good journey. Have a safe journey. </I><B>| arduous, awkward, bad, difficult, gruelling, hard, tedious, terrible, tiring, tortuous | dangerous, hazardous, perilous | overland | cross-country | daily | overnight | epic </B><I>an epic journey across Africa on foot </I><B>| wasted </B><I>The library was closed when I got there, so it was a wasted journey. </I><B>| emotional, sentimental, spiritual </B><I>He made the emotional journey back to the house he grew up in. </I> </P>
+<P> <U> VERB + JOURNEY </U><B> go on, have, make </B><I>He wasn't there and we had a wasted journey. </I><B>| break </B><I>We broke our return journey in San Francisco. </I><B>| begin, set out on | continue, resume </B><I>They continued their journey on foot. </I><B>| complete </B> </P>
+<P> <U> JOURNEY + VERB </U><B> take (sb) </B><I>The journey takes about five hours. His journey took him across central Asia. </I><B>| begin | end </B> </P>
+<P> <U> JOURNEY + NOUN </U><B> time </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>They were on a journey to the Far East. </I><B>| ~ by </B><I>a journey by air/bus/land/rail/sea, etc. </I><B>| ~ across, ~ between, ~ down </B><I>the journey down the Rhine </I><B>| ~ from, ~ of </B><I>a journey of 300 miles a journey of five days </I><B>| ~ through, ~ to </B><I>The bus journey from London to Athens took 60 hours. </I><B>| ~ up </B> </P>
+<P> <U> PHRASES </U><B> be tired after/from a journey, a leg/stage of a journey </B><I>Dawn was breaking as we set out on the last leg of our journey. </I> </P>
+</DIV>

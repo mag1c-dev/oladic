@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>inflation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high | low, moderate | zero | galloping, raging, rampant, rising, runaway, soaring, spiralling, uncontrollable | double-digit </B>(= 10 per cent or more) <B>| consumer-price, price, wage | domestic </B> </P>
+<P> <U> VERB + INFLATION </U><B> cause | fuel, push up, raise | beat, bring down/under control, check, combat, control, curb, cut, fight, get down/under control, keep down, keep in check, keep under control, reduce </B><I>policies to beat inflation It is vital that inflation is kept in check. </I><B>| keep pace with </B><I>Wages are not keeping pace with inflation. </I> </P>
+<P> <U> INFLATION + VERB </U><B> be up | be down </B><I>Inflation is down to its lowest level in three years. </I><B>| exceed sth, reach sth </B><I>Inflation reached a monthly rate of 5%. </I><B>| average sth, be at sth, run at sth, stand at sth </B><I>Inflation is running at 4%. </I><B>| edge up, go up, increase, rise | fall, go down, slow </B><I>Inflation has slowed to 7%. </I><B>| erode sth </B><I>savings eroded by inflation </I> </P>
+<P> <U> INFLATION + NOUN </U><B> figures, rate </B><I>an inflation rate of 2% </I><B>| forecast, target </B> </P>
+<P> <U> PHRASES </U><B> the battle/fight against inflation, a drop/fall in inflation, an increase/a rise in inflation </B><I>an increase in inflation to 3.5% </I><B>| a rate of inflation</B> </P>
+</DIV>

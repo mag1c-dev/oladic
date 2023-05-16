@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>neutral </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not supporting either side </TT> </P>
+<P> <U> VERBS </U><B> be | remain, stay </B> </P>
+<P> <U> ADV. </U><B> strictly </B><I>The government maintained its strictly neutral policy. </I><B>| completely | basically, broadly </B><I>The Russians took a broadly neutral position. </I><B>| politically </B><I>The meeting must be at a politically neutral location. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>neutral about this issue </I> </P>
+<P> <SUP> 2 </SUP> <TT> not showing strong qualities/feelings/colour </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B><I>Her expression seemed neutral. </I><B>| remain | keep sth </B><I>Dolly kept her voice carefully neutral. </I> </P>
+<P> <U> ADV. </U><B> perfectly | fairly, quite, relatively </B><I>She chose fairly neutral make-up. </I><B>| apparently | carefully </B> </P>
+<P> <SUP> 3 </SUP> <TT> not affected by sth </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> culturally, ethically, ideologically, morally, politically </B><I>Behaviour is never culturally neutral. </I> </P>
+<P> <U> PHRASES </U><B> gender neutral </B><I>She argued that the law should always be gender neutral </I>(= apply in exactly the same way to men and women)</B><I>. </I> </P>
+</DIV>

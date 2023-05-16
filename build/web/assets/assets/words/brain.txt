@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>brain </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of the body </TT> </P>
+<P> <U> ADJ. </U><B> human | left, right </B><I>The left brain controls the right-hand side of the body. </I> </P>
+<P> <U> BRAIN + NOUN </U><B> cell, tissue | region | function, process | activity | damage, disease, disorder, failure, haemorrhage, illness, injury, tumour | scan | surgeon, surgery </B> </P>
+<P> <U> PREP. </U><B> in the/your ~ </B><I>Doctors tried to reduce the swelling in his brain. </I><B>| on the/your ~ </B><I>He was found to have a blood clot on his brain. (figurative) He's got football on the brain </I>(= thinks about nothing but football)</B><I>. </I> </P>
+<P> <U> PHRASES </U><B> blow your brains out </B><I>While cleaning his shotgun he had accidentally blown his own brains out. </I> </P>
+<P> <SUP> 2 </SUP> <TT> ability to think/intelligence </TT> </P>
+<P> <U> ADJ. </U><B> fertile, fine, good, great, quick | muddled, tired </B><I>My tired brain couldn't cope with such a complex problem. </I><B>| analytical </B> </P>
+<P> <U> VERB + BRAIN </U><B> rack </B><I>We racked our brains but we couldn't come up with a solution. </I><B>| pick sb's </B>(= ask sb for information because they know more about a subject than you) <I>I need to pick your brains: what can you tell me about credit unions? </I><B>| take </B><I>It doesn't take much brain to work out that both stories can't be true. </I> </P>
+<P> <U> BRAIN + VERB </U><B> function, tick over, work </B><I>It's important to keep your brain ticking over. </I><B>| reel </B><I>His brain reeled as he realized the implication of his dismissal. </I><B>| register sth </B><I>The stopping distance includes the time taken for the brain to register the need to stop. </I> </P>
+<P> <U> BRAIN + NOUN </U><B> power, brainpower </B> </P>
+<P> <U> PREP. </U><B> ~ behind </B><I>the brains behind the robberies </I> </P>
+<P> <U> PHRASES </U><B> brains and brawn/brains and not brawn, etc. </B><I>They relied on brains rather than brawn </I>(= intelligence, not strength)</B><I>. </I><B>| have a brain for sth </B><I>She has a good brain for mathematics. </I> </P>
+</DIV>

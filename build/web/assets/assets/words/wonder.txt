@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>wonder </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling of surprise/admiration </TT> </P>
+<P> <U> ADJ. </U><B> great | childlike, wide-eyed </B> </P>
+<P> <U> VERB + WONDER </U><B> feel | express </B><I>There aren't any words to express properly all the wonder that I feel. </I><B>| gaze in, stare in </B><I>She gazed down in wonder at the city spread below her. </I><B>| be filled with, be full of </B><I>The children's faces were full of wonder as they gazed up at the Christmas tree. </I> </P>
+<P> <U> WONDER + NOUN </U><B> cure, drug </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Neville shook his head in wonder at it all </I><B>| with ~ </B><I>She held her breath with wonder and delight. </I><B>| ~ at </B> </P>
+<P> <U> PHRASES </U><B> a feeling/sense of wonder </B> </P>
+<P> <SUP> 2 </SUP> <TT> amazing thing/person </TT> </P>
+<P> <U> ADJ. </U><B> natural </B><I>Iceland is full hot springs, beautifully coloured rocks, and other natural wonders. </I><B>| scientific | constant, perpetual </B><I>It was a constant wonder to me that my father didn't die of exhaustion. </I><B>| nine days, seven-day </B><I>She was determined to prove she was no seven-day wonder whose promise would remain unfulfilled. </I><B>| boy (also wonder boy)</B><I>(humorous) The new boy wonder of French football </I><B>| one-hit </B><I>(humorous) The band aren't the one-hit wonders some had feared: their second album contains some great rap music. </I> </P>
+<P> <U> PHRASES </U><B> do/work wonders (for sb/sth) </B><I>The change of diet has done wonders for my skin. A good night's sleep and a hearty breakfast worked wonders. </I><B>| the wonders of modern science/technology </B><I>Thanks to the wonders of modern science, many common diseases will soon be things of the past. </I><B>| the wonders of the world </B><I>The palace has been described as the eighth wonder of the world. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wonder </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hazily, idly, vaguely </B><I>I wondered vaguely whether Robert could be the murderer. </I><B>| briefly, fleetingly | apprehensively, uneasily </B><I>I wondered uneasily if anything had happened to the children. </I><B>| bleakly, despairingly | irritably | aloud </B><I>&lsquo;Where's Natasha?&rsquo; she wondered aloud. </I><B>| just </B><I>&lsquo;Why do you ask?&rsquo; &lsquo;I just wondered.&rsquo; </I><B>| often, sometimes </B><I>I sometimes wonder who's crazier, him or me. </I> </P>
+<P> <U> VERB + WONDER </U><B> begin to </B><I>I was just beginning to wonder where you were. </I><B>| cannot/could not help but, can only </B><I>I couldn't help but wonder what he was thinking. </I><B>| make sb </B><I>His obvious hunger made her wonder how long he had been up and about. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>We'd wondered about you as a possible team member. </I> </P>
+</DIV>

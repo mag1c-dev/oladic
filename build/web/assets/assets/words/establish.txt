@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>establish </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> start/create sth </TT> </P>
+<P> <U> VERB + ESTABLISH </U><B> attempt to, seek to, try to </B><I>trying to establish links with local schools </I><B>| help (to), help sb (to) | agree to </B><I>The two countries agreed to establish full diplomatic relations. </I><B>| be able to | be important to </B> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to establish sth, newly/recently established </B><I>He was appointed to the newly established Department of the Environment. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make sth known and accepted </TT> </P>
+<P> <U> ADV. </U><B> firmly, securely </B><I>His position in the organization is now firmly established. </I> </P>
+<P> <U> VERB + ESTABLISH </U><B> attempt to, seek to, try to | help (to), help sb (to) </B><I>The exhibition helped her establish herself as an artist. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>He has now established his reputation as a popular musician. </I> </P>
+<P> <U> PHRASES </U><B> become/get established </B><I>The festival has become established as one of the town's annual events. </I> </P>
+<P> <SUP> 3 </SUP> <TT> make certain of sth </TT> </P>
+<P> <U> ADV. </U><B> conclusively, definitely | empirically </B> </P>
+<P> <U> VERB + ESTABLISH </U><B> attempt to, seek to, try to </B><I>Police are still trying to establish the identity of the dead man. </I><B>| help (to) | be able to | be possible to | be difficult to | be important to </B> </P>
+<P> <U> PHRASES </U><B> an attempt/effort to establish sth</B> </P>
+</DIV>

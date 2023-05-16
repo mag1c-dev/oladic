@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>overview </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, short | broad, general | complete, comprehensive | detailed, in-depth | critical | balanced | historical </B><I>The opening chapter gives a brief historical overview of transport. </I> </P>
+<P> <U> VERB + OVERVIEW </U><B> give (sb), offer (sb), present, provide (sb with) | have </B><I>Only the Head of Sales has an overview of the situation worldwide. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>The seminar aims to provide an overview on new media publishing. </I> </P>
+</DIV>

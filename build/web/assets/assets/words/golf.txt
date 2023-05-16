@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>golf </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> amateur, pro, pro-am, professional </B><I>Amateur golf is very competitive. </I><B>| mini/miniature </B><I>The hotel offers miniature golf and other activities for children. </I> </P>
+<P> <U> QUANT. </U><B> game, round </B> </P>
+<P> <U> VERB + GOLF </U><B> play | take up | watch </B> </P>
+<P> <U> GOLF + NOUN </U><B> course, links | hole </B><I>The eighth at Banff is one of the world's great golf holes. </I><B>| club </B><I>She decided to join a golf club. </I><B>| bag, ball, buggy, cart, club, equipment, glove, shoes, tee, umbrella </B><I>You can borrow golf clubs if you want a game. </I><B>| swing </B><I>His coach says his golf swing needs improving. </I><B>| game, match, tournament | title | handicap </B><I>She has a golf handicap of 18. </I><B>| professional, star | fan/fanatic | season | circuit, scene, tour | clinic, lesson </B><I>The club is holding a golf clinic next week, where golfers can get advice from the pros. </I><B>| correspondent, journalist, reporter, writer | magazine | holiday, package </B><I>Choose from over 100 golf packages in our brochure. </I><B>| widow </B><I>She's been a golf widow since she gave her husband his first set of clubs. </I></B> </P>
+</DIV>

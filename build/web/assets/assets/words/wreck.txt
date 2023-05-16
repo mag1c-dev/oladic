@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>wreck </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a ship </TT> </P>
+<P> <U> VERB + WRECK </U><B> discover, find, locate </B><I>Divers were sent down to try and locate the wreck. </I><B>| raise, salvage </B><I>They're going to try and raise the wreck from the sea bed. </I><B>| salvage sth from | escape (from) </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>They are worried about the oil still in the wreck. </I><B>| on a/the ~ </B><I>Heavy seas prevented salvage teams from landing on the wreck. </I><B>| ~ of </B><I>the wreck of the Titanic </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a car/plane </TT> </P>
+<P> <U> ADJ. </U><B> total | crumpled | blazing, burning </B><I>Explosions ripped through the blazing wreck. </I> </P>
+<P> <U> VERB + WRECK </U><B> be trapped in </B><I>Two passengers are still trapped in the wreck. </I> </P>
+<P> <SUP> 3 </SUP> <TT> of a person/thing </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, total | emotional, nervous </B><I>The interview reduced him to a nervous wreck. </I><B>| gibbering, quivering, shaking, whimpering </B><I>I always turn into a gibbering wreck at interviews. </I><B>| physical </B> </P>
+<P> <U> VERB + WRECK </U><B> feel, look </B><I>I hadn't slept for two days, and I felt a complete physical wreck. </I><B>| reduce sb to | escape (from) | salvage sth from </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>They still hoped to salvage something from the wreck of their marriage. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wreck </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely, totally </B><I>A bomb completely wrecked the building. </I><B>| almost, nearly | effectively </B> </P>
+<P> <U> VERB + WRECK </U><B> threaten to </B><I>a crisis that threatens to wreck the peace talks </I> </P>
+</DIV>

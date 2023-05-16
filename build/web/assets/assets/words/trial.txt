@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>trial </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a court of law </TT> </P>
+<P> <U> ADJ. </U><B> fair </B><I>The men claim they did not receive a fair trial. </I><B>| unfair | full | criminal | fraud, murder, rape | jury | crown court, high court, supreme court | civil | public | show </B><I>A series of show trials of former senior officials of the ousted regime took place. </I><B>| summary </B><I>The rebels were brutally executed after summary trials. </I><B>| controversial, notorious, sensational </B> </P>
+<P> <U> VERB + TRIAL </U><B> come to, face, go on, go to, stand </B><I>He never came to trial for the robbery. She died before the case came to trial. A man has gone on trial accused of murdering his girlfriend. </I><B>| bring sb to, commit sb for, put sb on </B><I>Four people had been arrested and committed for trial. </I><B>| await </B><I>He is in prison awaiting trial on drugs charges. </I><B>| attend </B><I>As a journalist he attended every murder trial of note. </I><B>| order </B><I>The judge ordered a new trial on the grounds that evidence had been withheld. </I><B>| adjourn | halt, stop </B><I>The judge halted the trial when it emerged witnesses had been threatened. </I><B>| tell (in a news report) </B><I>Murder trial told of horrific attack. </I> </P>
+<P> <U> TRIAL + VERB </U><B> proceed, take place | begin, open | continue, resume | collapse </B><I>The trial collapsed after a key prosecution witness admitted lying. </I> </P>
+<P> <U> TRIAL + NOUN </U><B> court, judge, jury, lawyer | verdict | procedure, proceedings, process </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>More than a hundred witnesses gave evidence at the trial. </I><B>| during the ~ </B><I>The letters that were shown during his trial turned out to be forgeries. </I><B>| on ~ </B><I>She is presently on trial at the Old Bailey. </I><B>| without ~ </B><I>Opposition leaders had been jailed without trial. </I><B>| ~ by </B><I>The president faces trial by television tonight when he takes part in a live debate. </I><B>| ~ for </B><I>She faces trial for murder. </I><B>| ~ over </B><I>Three people are to stand trial over the deaths of a young couple. </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of testing sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> clinical, experimental, field </B><I>If clinical trials are successful the drug could be on the market early next year. </I><B>| full-scale, large-scale | controlled, double-blind, randomized | free, home </B><I>We've got this vacuum cleaner on ten days' free trial. </I><B>| speed | Olympic, rowing, soccer, etc. </B> </P>
+<P> <U> VERB + TRIAL </U><B> carry out, conduct | take part in | have </B><I>He had a trial with Chelsea when he was young. </I> </P>
+<P> <U> TRIAL + VERB </U><B> show sth </B><I>The tria</I>l </B><I>showed a dramatic reduction i</I>n </B><I>side effects</I>. </B> </P>
+<P> <U> TRIAL + NOUN </U><B> period </B><I>She agreed to employ me for a trial period. </I><B>| run </B><I>They are treating the trip as a trial run for their 500-mile sponsored ride later this month. </I><B>| data, results | project, scheme | game | separation </B><I>The couple agreed on a trial separation. </I> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>A new stocktaking system is currently under trial at the supermarket. </I> </P>
+<P> <U> PHRASES </U><B> on a trial basis </B><I>The new system will be introduced on a trial basis. </I><B>| trial and error </B><I>We discovered the ideal mix of paint by trial and error. </I><B>| a trial of strength </B><I>The dispute was regarded as a trial of strength by the unions. </I> </P>
+<P> <SUP> 3 </SUP> <TT> experience/person that causes difficulties </TT> </P>
+<P> <U> ADJ. </U><B> sore </B><I>She was a sore trial to her family at times. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B> </P>
+<P> <U> PHRASES </U><B> trials and tribulations </B><I>the trials and tribulations of married life </I> </P>
+</DIV>

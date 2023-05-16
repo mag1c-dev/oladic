@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>hill </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, high, long </B><I>The bus sped down the long hill. </I><B>| little, low, small </B><I>The village is set on a small hill. </I><B>| steep | gentle | rolling, undulating ~s </B><I>The landscape is made up of low, rolling hills. </I><B>| conical, rounded | blue, dark, green, purple | bare, forested, grassy, open, rocky, rugged, wooded | distant, far </B><I>the distant blue hills </I><B>| isolated, lonely | encircling, surrounding ~s </B><I>Troops forced villagers to flee to the surrounding hills. </I><B>| prominent | coastal | chalk </B><I>the chalk hills of southern England </I> </P>
+<P> <U> VERB + HILL </U><B> climb (up), go up </B><I>They climbed a steep hill and came to the village. </I><B>| come down | take to ~s </B><I>(literary) We took to the hills in a variety of four-wheel-drive vehicles. </I> </P>
+<P> <U> HILL + VERB </U><B> overlook sth, rise </B><I>a hill overlooking the wide valley below Wooded hills rise behind the town. </I> </P>
+<P> <U> HILL + NOUN </U><B> climbing, walking | walker | farming | farmer | farm, fort, station </B>(= a small town in the hills, especially in India), <B>town, village </B><I>In the heat of summer the rich fled to the hill stations. </I><B>| country | top </B>(= also <B>hilltop</B>) <B>| start </B>(= starting a vehicle on a slope)  </P>
+<P> <U> PREP. </U><B> down a/the ~ </B><I>A grassy path led down the hill. </I><B>| in the ~s </B><I>There are several lead mines in the hills above Grassington. </I><B>| on a/the ~ </B><I>The church is perched on a hill. </I><B>| over a/the ~ </B><I>Over the hill lies another village. </I><B>| up a/the ~ </B><I>A few yards up the hill, on the left, was a turning. </I><B>| ~ above </B><I>the hills above the town </I> </P>
+<P> <U> PHRASES </U><B> the bottom/foot of a/the hill </B><I>A spring emerges at the bottom of the hill. </I><B>| the top of a/the hill</B> </P>
+</DIV>

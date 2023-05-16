@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>percentage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, large </B><I>The area has a high percentage of unemployed men. </I><B>| low, small </B> </P>
+<P> <U> VERB + PERCENTAGE </U><B> calculate | express sth as </B><I>This figure can be expressed as a percentage of the total. </I> </P>
+<P> <U> PERCENTAGE + NOUN </U><B> point </B><I>Unemployment has fallen by two percentage points this month. </I><B>| rate </B><I>Insurance contributions are paid at a fixed percentage rate on all earnings. </I><B>| figure | increase, rise </B><I>the percentage rise in the average salary </I><B>| decline, fall, reduction | share </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>What percentage of women own a car? </I> </P>
+<P> <U> PHRASES </U><B> in percentage terms </B><I>The numbers are relatively low in percentage terms. </I><B>| on a percentage basis </B><I>The artist's agent receives commission on a percentage basis. </I> </P>
+</DIV>

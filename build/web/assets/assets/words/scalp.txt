@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>scalp </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> itchy | flaky </B> </P>
+<P> <U> VERB + SCALP </U><B> massage | scratch </B> </P>
+<P> <U> SCALP + VERB </U><B> itch | crawl, prickle </B><I>Her scalp crawled with tension. </I><B>| gleam </B><I>His pink scalp gleamed through his sparse hair. </I> </P>
+<P> <U> SCALP + NOUN </U><B> condition, problem </B><I>treatment for hair and scalp problems </I><B>| massage, treatment</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ore </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rich | metal/metallic, mineral | copper, iron, uranium, etc. </B> </P>
+<P> <U> QUANT. </U><B> lode, vein | lump </B> </P>
+<P> <U> VERB + ORE </U><B> extract, mine | dress, extract sth from, refine, smelt </B><I>smelting the ore with charcoal </I> </P>
+<P> <U> ORE + NOUN </U><B> deposits</B> </P>
+</DIV>

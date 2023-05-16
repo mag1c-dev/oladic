@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cider </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dry | sweet | rough, strong </B><I>The cider was very strong and went straight to our heads. </I><B>| farmhouse </B> </P>
+<P> <U> QUANT. </U><B> litre, pint | bottle, glass, jug </B> </P>
+<P> <U> VERB + CIDER </U><B> have </B><I>I'll have a glass of dry cider, please. </I><B>| drink | sip, swig, take a sip/swig of </B> </P>
+<P> <U> CIDER + NOUN </U><B> apples | vinegar</B> </P>
+</DIV>

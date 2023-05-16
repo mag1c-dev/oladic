@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>foreign </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not coming from your own country </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound </B><I>The name sounded foreign. </I> </P>
+<P> <U> ADV. </U><B> slightly </B><I>a slightly foreign accent </I><B>| distinctly </B><I>He was a small man, distinctly foreign in appearance. </I></P>
+<P> <SUP> 2 </SUP> <TT> foreign to sb: not typical of sb/not known to sb  </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem </B> </P>
+<P> <U> ADV. </U><B> very | completely, entirely, quite, totally, utterly </B><I>This kind of behaviour is completely foreign to her. </I> </P>
+</DIV>

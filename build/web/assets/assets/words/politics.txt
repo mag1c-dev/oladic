@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>politics </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> work/ideas connected with getting/using power </TT> </P>
+<P> <U> ADJ. </U><B> county, local </B><I>She was active in local politics for many years. </I><B>| domestic, internal, national </B><I>the country's internal politics the internal politics of the legal profession </I><B>| global, international, world | democratic, electoral, multiparty, parliamentary, party | contemporary, modern | mainstream | practical </B><I>He argued that it was not practical politics to abolish private schools. </I><B>| power </B><I>They took the view that Casper was playing power politics with their jobs at stake. </I><B>| consensus </B><I>Consensus politics places a high value on existing political institutions. </I><B>| conviction | cultural, gender, sexual | office </B> </P>
+<P> <U> VERB + POLITICS </U><B> enter, go into </B><I>They went into politics in the hope of changing society. </I><B>| abandon, retire from </B><I>He abandoned politics and went into business. </I><B>| be interested in | be active in, be engaged in, be/get immersed in, be/get involved in, engage in, participate in | dabble in, play </B><I>(informal) </I><B>| get embroiled in | interfere in, intervene in, meddle in </B><I>As a churchman, he was accused of meddling in politics. </I><B>| dominate </B><I>the issues which have dominated Irish politics </I><B>| reshape </B><I>reforms that are intended to reshape Italian politics </I> </P>
+<P> <U> POLITICS + VERB </U><B> dominate sth </B><I>In their world politics dominates everything. </I> </P>
+<P> <U> PHRASES </U><B> the world of politics </B> </P>
+<P> <SUP> 2 </SUP> <TT> political beliefs </TT> </P>
+<P> <U> ADJ. </U><B> extreme, radical </B><I>His manners were as mild as his politics were extreme. </I><B>| left-wing, right-wing | sectarian | working-class | feminist </B> </P>
+<P> <U> VERB + POLITICS </U><B> discuss, talk (about) </B><I>(informal) Let's not talk politics now. </I> </P>
+<P> <SUP> 3 </SUP> <TT> study of government </TT> </P>
+<P> <U> ADJ. </U><B> comparative </B> </P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+</DIV>

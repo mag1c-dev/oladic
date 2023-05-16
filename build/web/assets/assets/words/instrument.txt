@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>instrument </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> tool for a particular task </TT> </P>
+<P> <U> ADJ. </U><B> precision | sophisticated | reliable | crude | blunt </B><I>The autopsy revealed that the deceased had been hit with a blunt instrument. (figurative) Even though it was a somewhat blunt instrument </I>(= not very precise)</B><I>, our questionnaire provided us with some interesting ideas. </I><B>| sharp | small | delicate | appropriate | research | drawing, measuring, writing | astronomical, flight, flying, mathematical, medical, navigation, navigational, optical, scientific, surgical | cockpit </B> </P>
+<P> <U> QUANT. </U><B> set </B><I>a set of mathematical instruments </I> </P>
+<P> <U> VERB + INSTRUMENT </U><B> use </B><I>All pupils should learn to use drawing instruments. </I><B>| check, read </B><I>to read the instruments and make a note of the wind speed and direction </I><B>| design, develop, devise, invent | build, make </B><I>All the instruments are made from glass capillary tubing. </I> </P>
+<P> <U> INSTRUMENT + VERB </U><B> measure sth </B><I>an instrument that measures light intensity </I> </P>
+<P> <U> INSTRUMENT + NOUN </U><B> check </B><I>The pilot did his instrument checks and taxied towards the runway. </I><B>| maker | panel </B><I>There was a warning light flashing on the instrument panel. </I> </P>
+<P> <U> PHRASES </U><B> an instrument of torture </B><I>medieval instruments of torture such as the rack and the wheel </I> </P>
+<P> <SUP> 2 </SUP> <TT> for playing music </TT> </P>
+<P> <U> ADJ. </U><B> musical | beautiful, fine | classical | modern | period </B><I>baroque music played on period instruments </I><B>| solo | orchestral | brass, keyboard, percussion, string/stringed, wind, woodwind | acoustic, electric, electronic </B> </P>
+<P> <U> VERB + INSTRUMENT </U><B> play (on) </B><I>She plays three musical instruments. The score was written to be played on a keyboard instrument. </I><B>| learn, learn (how) to play | tune </B><I>Ensure the instrument is tuned to concert pitch. </I><B>| make </B><I>an instrument made by a woman guitar maker in Canada </I> </P>
+<P> <U> INSTRUMENT + VERB </U><B> sound </B><I>The instrument sounds like a cello. </I> </P>
+<P> <U> INSTRUMENT + NOUN </U><B> maker </B>&gt; Special page at MUSIC </B> </P>
+<P> <SUP> 3 </SUP> <TT> sb/sth used to make sth happen </TT> </P>
+<P> <U> ADJ. </U><B> chief, key, main, major, prime, principal | good, great </B><I>They agreed that the UN was the best instrument for reaching agreement. </I><B>| ideal | important, valuable | powerful | useful | effective | flexible | mere </B><I>Some cynics say that sport is a mere instrument of capitalist domination. </I><B>| chosen </B><I>The despot claimed to be the chosen instrument of divine providence. </I><B>| divine | political </B> </P>
+<P> <U> VERB + INSTRUMENT </U><B> perceive sb/sth as, regard sb/sth as, see sb/sth as, view sb/sth as </B><I>They saw criminal law as an instrument for improving public morals. </I><B>| use sb/sth as | make sb/sth </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Criminal law is not the best instrument for dealing with family matters. </I><B>| ~ of </B><I>She was accused of making a public service an instrument of private advantage. </I> </P>
+</DIV>

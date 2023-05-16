@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>management </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> managing sth </TT> </P>
+<P> <U> ADJ. </U><B> careful, competent, effective, efficient, firm, good, sound | bad, inefficient, poor | day-to-day, routine | general, overall | business, corporate | personnel, staff | production | project, task | hospital, hotel, school | database, network, systems | asset, economic, financial, investment, money, resource | information | crisis | household | traffic | waste | forest, land | anger, anxiety, stress </B><I>He's been sent on an anger management course to help him control his temper. </I><B>| time </B> </P>
+<P> <U> VERB + MANAGEMENT </U><B> need </B><I>The project needs stronger management. </I><B>| be responsible for </B><I>She is responsible for the day-to-day management of the company. </I> </P>
+<P> <U> MANAGEMENT + NOUN </U><B> company, consultancy, consultant, services | course, studies, training | plan, policy, strategy | expertise, skills | method, philosophy, practice, style, technique </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She is now celebrating ten years in management. </I><B>| under sb's ~ </B><I>The club prospered under Ferguson's management. </I> </P>
+<P> <U> PHRASES </U><B> a board of management, under new management </B><I>The restaurant is under new management. </I> </P>
+<P> <SUP> 2 </SUP> <TT> managers </TT> </P>
+<P> <U> ADJ. </U><B> junior, middle, senior, top </B> </P>
+<P> <U> VERB + MANAGEMENT </U><B> criticize </B><I>The unions have criticized management over their handling of the dispute. </I> </P>
+<P> <U> MANAGEMENT + NOUN </U><B> board, committee, staff, team | meeting | decision | job, position, post, role | hierarchy, structure | buy-out | level </B><I>This decision should be taken at a higher management level. </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>young people in middle management </I> </P>
+<P> <U> PHRASES </U><B> a layer/level/tier of management</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>microphone </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> extension, radio, stick, tie-clip | built-in, camcorder | omnidirectional, unidirectional | hidden </B> </P>
+<P> <U> VERB + MICROPHONE </U><B> speak into, use | check, test </B> </P>
+<P> <U> MICROPHONE + VERB </U><B> pick sth up, record sth </B><I>the microphone picks up the surrounding sounds </I> </P>
+<P> <U> MICROPHONE + NOUN </U><B> socket | stand </B> </P>
+<P> <U> PREP. </U><B> behind a/the ~ </B><I>John Peel is back behind the microphone for a new series. </I><B>| in front of a/the ~ </B><I>Interviewees are placed in front of the microphone and grilled. </I> </P>
+</DIV>

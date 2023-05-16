@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>tired </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> needing rest </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, get | leave sb, make sb </B><I>The walk left me quite tired out. </I> </P>
+<P> <U> ADV. </U><B> awfully, bone </B><I>(informal)</I>, <B>dead, desperately, extremely, really, terribly, very </B><I>Polly suddenly felt bone tired. </I><B>| a bit, a little, pretty, quite, rather | just </B><I>Of course I'm not ill. I'm just tired. </I><B>| enough </B><I>He felt tired enough to go to sleep standing up. </I><B>| mentally, physically | visibly | out </B> </P>
+<P> <U> PREP. </U><B> from </B><I>I'm still a bit tired from the journey. </I> </P>
+<P> <U> PHRASES </U><B> tired and drawn </B><I>He looked tired and drawn. </I></P>
+<P> <SUP> 2 </SUP> <TT> tired of sb/sth: feeling you have had enough  </TT> </P>
+<P> <U> VERBS </U><B> be | become, get, grow </B><I>(formal) She had grown heartily tired of his company. </I> </P>
+<P> <U> ADV. </U><B> heartily, really, very | a bit, a little, rather </B> </P>
+<P> <U> PHRASES </U><B> sick and tired </B><I>(informal) I'm sick and tired of listening to you whine. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>proclamation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> official, public, royal </B> </P>
+<P> <U> VERB + PROCLAMATION </U><B> issue, make </B> </P>
+<P> <U> PROCLAMATION + VERB </U><B> forbid sth, prohibit sth </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The government restricted the use of water by proclamation. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>separation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> being apart </TT> </P>
+<P> <U> ADJ. </U><B> complete, total | clear, rigid, strict | long </B><I>She is visiting her family after a long separation. </I><B>| physical </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the clear separation of powers between the executive and the legislature </I><B>| ~ from </B><I>the separation of children from their parents during the war </I> </P>
+<P> <SUP> 2 </SUP> <TT> when a married couple lives apart </TT> </P>
+<P> <U> ADJ. </U><B> formal, judicial, legal | trial </B> </P>
+<P> <U> SEPARATION + NOUN </U><B> agreement, order </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the separation between Mary and her husband </I><B>| ~ from </B><I>the separation from his wife </I> </P>
+</DIV>

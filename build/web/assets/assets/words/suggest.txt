@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>suggest </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> propose sth/state sth indirectly </TT> </P>
+<P> <U> ADV. </U><B> tentatively </B><I>I tentatively suggested that she might be happier working somewhere else. </I><B>| respectfully, tactfully </B><I>I would respectfully suggest a different explanation for the company's decline. </I><B>| helpfully </B><I>&lsquo;Shall I tell them you're ill?&rsquo; Alice suggested helpfully. </I> </P>
+<P> <U> VERB + SUGGEST </U><B> seem reasonable to </B><I>It seems reasonable to suggest that all life forms on earth share a common origin. </I><B>| be wrong to | be tempting to | dare (to) </B><I>How dare you suggest such a thing? </I> </P>
+<P> <U> PREP. </U><B> as </B><I>She suggested John as chairman. </I><B>| for </B><I>Who would you suggest for the job? </I><B>| to </B><I>He suggested to the committee that they should delay making a decision. </I> </P>
+<P> <U> PHRASES </U><B> can/may I suggest, I (would) suggest </B><I>I would suggest that you see your doctor about this. </I> </P>
+<P> <SUP> 2 </SUP> <TT> show sth in an indirect way </TT> </P>
+<P> <U> ADV. </U><B> strongly </B><I>The evidence suggests quite strongly that the fire was caused by an explosion. </I> </P>
+<P> <U> VERB + SUGGEST </U><B> seem to </B><I>The evidence seems to suggest that he did steal the money. </I> </P>
+</DIV>

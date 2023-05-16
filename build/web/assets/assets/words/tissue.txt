@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>tissue </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> organic material </TT> </P>
+<P> <U> ADJ. </U><B> living | healthy, normal </B><I>Vitamin C helps maintain healthy connective tissue. </I><B>| damaged, diseased | animal, human, plant </B><I>Dyes were extracted by boiling the plant tissue. </I><B>| body, brain, intestinal, muscle, etc. | connective, scar | fat, fatty, fibrous, soft </B><I>She treats skin and soft tissue injuries in casualty. </I> </P>
+<P> <SUP> 2 </SUP> <TT> paper handkerchief </TT> </P>
+<P> <U> ADJ. </U><B> paper | toilet </B> </P>
+<P> <U> QUANT. </U><B> box, pack, packet, wad </B><I>She grabbed a wad of tissues from the box and soaked up the spilt wine. </I> </P>
+<P> <U> VERB + TISSUE </U><B> use </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>He wiped his nose on a tissue. </I><B>| with a/the ~ </B><I>She gently dabbed her eyes with a tissue. </I> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>manipulation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, clever, skilful | conscious, cynical, deliberate, systematic | political </B><I>People think that the investigation was independent, but in fact a lot of political manipulation went on. </I><B>| data, image, text </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The government has disguised the true situation by clever manipulation of the figures. </I> </P>
+</DIV>

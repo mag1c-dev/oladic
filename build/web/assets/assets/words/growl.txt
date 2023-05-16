@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>growl </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> low | husky, soft, throaty | aggressive, threatening </B><I>The dog gave a threatening growl. </I> </P>
+<P> <U> VERB + GROWL </U><B> give, let out | hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He spoke with a deep soft growl in his throat. </I><B>| ~ of </B><I>The growl of the engine. </I></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+</DIV><DIV class="item"><P class="word"><B>growl </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> angrily, savagely </B><I>&lsquo;I'm a desperate man,&rsquo; he growled savagely. </I><B>| softly, throatily </B> </P>
+<P> <U> PREP. </U><B> at </B><I>The dog growled softly at me. </I><B>| with </B><I>Her stomach was growling with hunger. </I> </P>
+</DIV>

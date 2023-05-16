@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>opposition </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> disagreeing with sth/trying to change it </TT> </P>
+<P> <U> ADJ. </U><B> bitter, considerable, determined, fierce, stiff, strong, vehement | violent | growing, mounting | effective, powerful | direct </B><I>a statement in direct opposition to party policy </I><B>| active | organized | political | public | widespread </B> </P>
+<P> <U> VERB + OPPOSITION </U><B> express | mount, put up </B><I>They mounted an effective opposition to the bill. </I><B>| arouse | crush, overcome, stifle, suppress, wear down | be/come/run up against, encounter, face, meet (with), run into </B><I>He is up against stiff opposition from his colleagues. </I><B>| brook </B><I>We will brook no opposition to the strategy. </I><B>| strengthen | weaken </B> </P>
+<P> <U> OPPOSITION + VERB </U><B> come from sb </B><I>Opposition came primarily from students. </I> </P>
+<P> <U> OPPOSITION + NOUN </U><B> force, group, movement </B> </P>
+<P> <U> PREP. </U><B> against/in the face of ~ </B><I>She won against determined opposition from last year's champion. </I><B>| despite/in spite of ~ </B><I>The authorities succeeded despite bitter opposition from teachers. </I><B>| in ~ to </B><I>The warring factions had united in opposition to the common enemy. </I><B>| ~ from </B><I>The proposals met with violent opposition from the environmental lobby. </I><B>| ~ to </B><I>There was fierce public opposition to the plan. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (usually<B>the Opposition</B>) parties not in government </TT> </P>
+<P> <U> OPPOSITION + NOUN </U><B> party | candidate, leader, member, MP, politician, spokesman | bench </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The Conservative Party is now in opposition. </I> </P>
+<P> <U> PHRASES </U><B> the Leader of the Opposition</B> </P>
+</DIV>

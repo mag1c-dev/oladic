@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>artery </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> main, major | blocked, clogged | severed | carotid, coronary, pulmonary, etc. </B> </P>
+<P> <U> VERB + ARTERY </U><B> block | widen </B><I>The surgeon will widen her arteries. </I><B>| rupture, sever </B> </P>
+<P> <U> ARTERY + VERB </U><B> clog up </B><I>Too much fatty food will make your arteries more likely to clog up. </I> </P>
+<P> <U> PHRASES </U><B> hardening of the arteries </B>(= a disease of the arteries) <I>She suffers from hardening of the arteries. </I><B>| veins and arteries </B><I>blood flowing through veins and arteries </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>vessel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> ship/boat </TT> </P>
+<P> <U> ADJ. </U><B> crippled, stranded, stricken, wrecked | seaworthy | sailing, steam | ocean-going, sea-going | fishing | cargo, commercial, container, freight, merchant | naval | escort, patrol, supply, support, survey, transport | passenger | research | foreign </B> </P>
+<P> <U> VERB + VESSEL </U><B> operate </B><I>He was accused of operating the vessel while drunk. </I><B>| register </B><I>The vessel was registered in Bermuda. </I><B>| charter | steer | anchor, moor | sink | ram </B><I>The captain of the boat was accused of ramming a patrol vessel. </I><B>| refloat </B><I>A salvage team failed to refloat the vessel. </I><B>| board </B><I>Police boarded and searched the vessel. </I><B>| swamp </B><I>Huge waves swamped the vessel. </I> </P>
+<P> <U> VESSEL + VERB </U><B> be afloat </B><I>It was one of the largest vessels afloat. </I><B>| sail </B><I>The damaged vessel sailed on for another 50 miles. </I><B>| be bound for sth </B><I>a French vessel bound for Nigeria </I><B>| enter a port, make port </B><I>The vessel finally made port after thirty days at sea. </I><B>| leave a port | carry sb/sth </B><I>The vessel carried a crew of 130. </I><B>| flood | go/lie/run aground, sink </B><I>The vessel flooded and began to sink. </I> </P>
+<P> <U> PREP. </U><B> aboard a/the ~ </B><I>They managed to haul the survivors aboard the vessel. </I><B>| alongside a/the ~ </B><I>A rescue boat managed to come alongside the crippled vessel. </I><B>| on/on board a/the ~ </B><I>A fire broke out on board the vessel. </I> </P>
+<P> <SUP> 2 </SUP> <TT> container for liquids </TT> </P>
+<P> <U> ADJ. </U><B> drinking | empty </B><I>It is a scientific fact that empty vessels make the most noise. </I><B>| ritual, sacred </B><I>ancient bronze ritual vessels </I><B>| bronze, glass, pottery, silver, wooden </B> </P>
+<P> <U> VERB + VESSEL </U><B> fill </B> </P>
+<P> <U> VESSEL + VERB </U><B> contain sth </B>&gt; See <A HREF="blood vessel_noun.htm">BLOOD VESSEL</A> </B> </P>
+</DIV>

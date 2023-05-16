@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>mouse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> animal </TT> </P>
+<P> <U> ADJ. </U><B> field, house | laboratory | white </B> </P>
+<P> <U> VERB + MOUSE </U><B> catch </B> </P>
+<P> <U> MOUSE + VERB </U><B> squeak | run, scamper, scurry | gnaw sth </B><I>A mouse has gnawed its way through the telephone wire. </I> </P>
+<P> <U> MOUSE + NOUN </U><B> droppings | hole | trap </B> </P>
+<P> <U> PHRASES </U><B> as quiet as a mouse </B><I>She crept upstairs, as quiet as a mouse. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for a computer </TT> </P>
+<P> <U> VERB + MOUSE </U><B> click, double click, move, use </B> </P>
+<P> <U> MOUSE + NOUN </U><B> button | click </B><I>Some of these mouse click short cuts are worth learning. </I><B>| cursor, pointer </B> </P>
+<P> <U> PREP. </U><B> with the ~ </B><I>Move the cursor around the screen with the mouse. </I>&gt; Special page at COMPUTER </B> </P>
+</DIV>

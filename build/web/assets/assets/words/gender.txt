@@ -1,0 +1,4 @@
+
+<DIV class="item"><P class="word"><B>gender </B><I>noun </I> </P>
+<P> <U> GENDER + NOUN </U><B> relations | differences, divisions </B><I>She examines the interplay between changing gender divisions and urban change. </I><B>| bias, imbalance, inequality </B><I>The government is working on tackling gender inequalities in employment. </I><B>| identity, role, stereotype </B><I>Managers may value different qualities in men than in women, reinforcing gender stereotypes. </I><B>| issues, politics</B> </P>
+</DIV>

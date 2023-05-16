@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>dismissal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> from a job </TT> </P>
+<P> <U> ADJ. </U><B> automatic, immediate, instant, summary </B><I>His attack on the manager led to his instant dismissal. </I><B>| constructive, unfair, wrongful </B><I>She won her claim for constructive dismissal because she had been pressured into resigning. </I> </P>
+<P> <U> VERB + DISMISSAL </U><B> lead to | call for </B><I>Crash victims are calling for the dismissal of the coach driver. </I><B>| be faced with, be threatened with, face, risk </B><I>They were warned that they risked dismissal if the strike continued. </I><B>| appeal against, claim </B><I>Cooke, who was with the firm 30 years, claims unfair dismissal. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>his dismissal for poor performance </I><B>| ~ on the grounds of </B><I>She is now faced with dismissal on the grounds of misconduct. </I> </P>
+<P> <U> PHRASES </U><B> grounds/reason for dismissal </B> </P>
+<P> <SUP> 2 </SUP> <TT> refusing to consider sth </TT> </P>
+<P> <U> ADJ. </U><B> arrogant, callous, casual, disdainful, easy </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>his callous dismissal of her father's illness </I> </P>
+</DIV>

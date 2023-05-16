@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>drama </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> play/theatre </TT> </P>
+<P> <U> ADJ. </U><B> powerful | classical, contemporary, modern | musical | radio, television/TV | costume, historical | courtroom, hospital, police </B><I>Millions follow this hospital drama twice a week. </I> </P>
+<P> <U> VERB + DRAMA </U><B> write </B><I>It is very difficult to write good drama. </I><B>| produce </B><I>the first episode of a new police drama produced for television </I> </P>
+<P> <U> DRAMA + NOUN </U><B> production | serial, series | festival | critic </B><I>the drama critic for the &lsquo;Sunday Times&rsquo; </I><B>| school, training </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the actors in a drama </I><B>| ~ about </B><I>a powerful television drama about inner-city life </I></P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+<P> <SUP> 2 </SUP> <TT> exciting event </TT> </P>
+<P> <U> ADJ. </U><B> human | real-life </B><I>The actor was involved in a real-life drama when he was held up at gunpoint last night. </I> </P>
+<P> <U> DRAMA + VERB </U><B> unfold </B><I>a collection of people watching the drama unfold outside the nightclub </I> </P>
+<P> <SUP> 3 </SUP> <TT> excitement </TT> </P>
+<P> <U> ADJ. </U><B> high </B> </P>
+<P> <U> QUANT. </U><B> touch </B><I>The argument added a touch of drama to an otherwise dull day. </I> </P>
+<P> <U> VERB + DRAMA </U><B> be full of </B><I>The afternoon was full of drama and excitement. </I><B>| heighten </B><I>The arrival of the police heightened the drama further. </I> </P>
+<P> <U> PHRASES </U><B> a moment of drama</B> </P>
+</DIV>

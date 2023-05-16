@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>U-turn </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> movement in a car </TT> VERB + U-TURN <B>do, execute, make </B> </P>
+<P> <SUP> 2 </SUP> <TT> sudden change of plan </TT> </P>
+<P> <U> ADJ. </U><B> complete | dramatic, spectacular | embarrassing, humiliating | government, policy </B> VERB + U-TURN <B>do, execute, make, perform </B><I>The government has made a spectacular U-turn on taxes. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a U-turn on education policy </I><B>| ~ over </B><I>a government U-turn over plans to cut social security payments </I> </P>
+</DIV>

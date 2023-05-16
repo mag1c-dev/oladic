@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>owner </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sole | part </B><I>I'm part owner of the restaurant. </I><B>| joint | former, original, previous | current, present | new | future, prospective | lawful, legal, rightful </B><I>The stolen painting has now been returned to its rightful owner. </I><B>| private | lucky, proud </B><I>the proud owner of a new stereo </I><B>| car, dog, factory, home, land </B> </P>
+<P> <U> VERB + OWNER </U><B> have </B><I>The car had only one previous owner. </I><B>| trace </B><I>The police have been unable to trace the owner of the vehicle. </I> </P>
+</DIV>

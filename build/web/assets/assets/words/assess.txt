@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>assess </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> form an opinion </TT> </P>
+<P> <U> ADV. </U><B> fully | accurately, correctly, properly </B> </P>
+<P> <U> VERB + ASSESS </U><B> attempt to, try to | help to | be difficult to </B><I>It is difficult to fully assess the damage. </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount/value </TT> </P>
+<P> <U> ADV. </U><B> accurately, correctly, properly </B> </P>
+<P> <U> VERB + ASSESS </U><B> attempt to, try to | be difficult to </B><I>It is difficult to assess the building's value properly without seeing it. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>The legal costs have been assessed at </I>&pound;</B><I>75,000. </I> </P>
+</DIV>

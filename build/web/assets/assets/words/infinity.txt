@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>infinity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> endless space/time </TT> </P>
+<P> <U> VERB + INFINITY </U><B> extend into/to, stretch into/to </B><I>Theoretically, a line can extend into infinity. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>Parallel lines meet at infinity. </I><B>| into ~ </B><I>In this weather the cliff face was a foggy drop into infinity. </I> </P>
+<P> <SUP> 2 </SUP> <TT> number larger than any other </TT> </P>
+<P> <U> VERB + INFINITY </U><B> approach, tend to/towards </B><I>As x approaches infinity y approaches zero. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>The usual convention is to choose the reference point at infinity. </I> </P>
+</DIV>

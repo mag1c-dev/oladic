@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>grid </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> pattern of lines that cross each other </TT> </P>
+<P> <U> ADJ. </U><B> rectangular, square | regular </B> </P>
+<P> <U> GRID + NOUN </U><B> line, pattern, square, system </B><I>The artist drew a set of grid lines over the area to be painted. </I> </P>
+<P> <SUP> 2 </SUP> <TT> system of squares drawn on a map </TT> </P>
+<P> <U> GRID + NOUN </U><B> line, reference, square </B><I>The grid lines on the map run north-south. An Ordnance Survey grid reference gives the position of a place to within 100 metres. </I> </P>
+<P> <SUP> 3 </SUP> <TT> system of electric cables </TT> </P>
+<P> <U> ADJ. </U><B> national | electricity </B> </P>
+<P> <U> GRID + NOUN </U><B> system </B><I>Power can be fed from wind generators into the electricity grid system. </I> </P>
+</DIV>

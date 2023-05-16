@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>empty </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> appear, be, feel, lie, look, seem </B><I>The box lay empty on the bed. </I><B>| become, end up </B><I>The reservoirs could end up empty if this dry weather continues. </I><B>| remain, stand, stay </B><I>The council is letting useful housing stand empty. </I><B>| leave sth </B><I>The house had been left empty for several weeks. </I> </P>
+<P> <U> ADV. </U><B> completely, quite, totally, utterly </B><I>There was a vast expanse of utterly empty sky to look at. </I><B>| almost, nearly, practically, virtually | largely, mostly | half </B><I>a half-empty box of chocolates </I><B>| fairly, relatively </B><I>Some parts of the city are desperately overcrowded while others are relatively empty. </I><B>| apparently | curiously, horribly </B><I>The house felt curiously empty without the children. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>The streets were empty of people. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>empty </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sth empty </TT> </P>
+<P> <U> ADV. </U><B> completely </B><I>The cupboards had all been completely emptied. </I><B>| half | out </B><I>We emptied out the tank. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>He emptied the bottle of its contents. </I> </P>
+<P> <SUP> 2 </SUP> <TT> become empty </TT> </P>
+<P> <U> ADV. </U><B> completely | half </B><I>The hall half emptied as bored businessmen raced for the buffet tables. </I><B>| out </B><I>The room gradually emptied out. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>The castle had a deep moat which emptied into the lake. </I><B>| of </B><I>The streets soon emptied of shoppers. </I> </P>
+</DIV>

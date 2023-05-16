@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>generator </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> diesel, gas, petrol, steam, wind | electrical, electricity, power </B> </P>
+<P> <U> VERB + GENERATOR </U><B> drive, power </B><I>A water turbine drives the generator. </I> </P>
+<P> <U> GENERATOR + VERB </U><B> deliver sth </B><I>The wind generator delivers 120 watts in a strong breeze. </I> </P>
+</DIV>

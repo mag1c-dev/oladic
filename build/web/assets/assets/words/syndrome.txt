@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>syndrome </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acute | clinical </B> </P>
+<P> <U> VERB + SYNDROME </U><B> have, suffer from | develop | cause, produce | diagnose, recognize | be known as </B><I>This phenomenon has become known as the &lsquo;Californian syndrome&rsquo;. </I> </P>
+<P> <U> SYNDROME + VERB </U><B> affect sb, be present in sb, occur </B><I>This syndrome mostly affects women in their forties. </I> </P>
+</DIV>

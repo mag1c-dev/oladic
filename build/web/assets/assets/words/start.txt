@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>start </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> auspicious, bright, encouraging, flying, good, great, impressive, promising, sound, wonderful </B><I>Despite a bright start, Liverpool lost the match. </I><B>| disappointing, disastrous, poor, rocky, shaky, slow, uncertain | false </B><I>After a couple of false starts, she found the job that suited her. </I><B>| fresh, new | early, late | very </B><I>right from the very start </I> </P>
+<P> <U> VERB + START </U><B> make </B><I>I think it's time we made a start. </I><B>| get off to </B><I>The company has got off to an impressive start this financial year. </I><B>| herald, mark </B> </P>
+<P> <U> START + NOUN </U><B> button, date, signal </B> </P>
+<P> <U> PREP. </U><B> at the ~ (of) </B><I>Everyone was in a conciliatory mood at the start of the meeting. </I><B>| from the ~ </B><I>She felt at home in her new job right from the start. </I><B>| ~ to </B><I>The fine winter weather heralded a good start to the year. </I><B>| ~ in </B><I>Moving to a good school gave Sally a fresh start in life. </I> </P>
+<P> <U> PHRASES </U><B> from start to finish </B><I>This is a thoroughly good book from start to finish. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>start </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> suddenly </B><I>Her heart suddenly started to race. </I><B>| immediately | just </B><I>He has just started at school. At that point I just started to hate the man. </I><B>| off, out </B><I>We'll start off by doing some warm-up exercises. </I><B>| (all over) again </B><I>We'll just have to start all over again. </I> </P>
+<P> <U> VERB + START </U><B> decide to, expect to, hope to, intend to, plan to | be due to, be expected to, be scheduled to </B><I>Work is due to start this weekend. </I><B>| be ready to </B><I>By early evening he was ready to start work. </I><B>| be about to, be going to </B><I>A new term was about to start. </I><B>| had better </B><I>You'd better start packing if you're to leave early tomorrow morning. </I> </P>
+<P> <U> PREP. </U><B> by </B><I>Let's start by reviewing what we did last week. </I><B>| from </B><I>Start from the beginning and tell me exactly what happened. </I><B>| on </B><I>I've finished decorating the bathroom, so now I can start on the bedroom. </I><B>| with </B><I>Let's start with this first piece of music. </I> </P>
+<P> <U> PHRASES </U><B> get started </B><I>It's already quite late, so I think we should get started. </I><B>| let's start</B> </P>
+</DIV>

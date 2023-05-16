@@ -1,0 +1,29 @@
+
+<DIV class="item"><P class="word"><B>business </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> buying and selling of goods </TT> </P>
+<P> <U> ADJ. </U><B> big | profitable | private | core </B><I>It's time to focus on the company's core business. </I><B>| retail, wholesale | catering, computer, investment, etc. </B> </P>
+<P> <U> VERB + BUSINESS </U><B> carry on </B><I>(often law)</I>, <B>conduct, do, transact </B><I>a company that has ceased to carry on business He's someone I can do business with </I>(= that I find it easy/pleasant to do business with)</B><I>. </I><B>| work in </B><I>She works in the computer business. </I><B>| go into, set up in | go out of </B><I>The firm went out of business during the recession. </I><B>| put sb/sth out of </B><I>The new regulations will put many small firms out of business. </I> </P>
+<P> <U> BUSINESS + NOUN </U><B> deal, transaction | meeting | lunch | trip | community | executive, manager, partner | contact | affairs, interests, matters | investment | secret </B><I>protecting business secrets </I><B>| plan | acumen | card | hours </B><I>You can call the helpline during normal business hours. </I><B>| school | studies | park </B><I>The company's offices are located in the new business park out of town. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He's in business. What business are you in? (figurative) All we need is a car and we'll be in business </I>(= we'll have everything we need to start what we want to do)</B><I>. </I><B>| on ~ </B><I>going to Paris on business </I> </P>
+<P> <U> PHRASES </U><B> business as usual </B>(= things will continue as normal in spite of a difficult situation) <I>It's business as usual at the factory, even while investigators sift through the bomb wreckage. </I><B>| business or pleasure </B><I>Is the trip to Rome business or pleasure? </I><B>| mix business with pleasure </B><I>When I travel abroad I like to mix business with pleasure. </I><B>| a place of business </B> </P>
+<P> <SUP> 2 </SUP> <TT> amount of trade done </TT> </P>
+<P> <U> ADJ. </U><B> brisk, good </B><I>Business was brisk and they had sold out by midday. </I><B>| bad, slack, slow </B> </P>
+<P> <U> VERB + BUSINESS </U><B> drum up, generate </B><I>She's in Europe drumming up business for her new company. </I><B>| tout for </B><I>insurance salesmen touting for business </I><B>| lose </B><I>We're losing business to our main rivals. </I> </P>
+<P> <U> BUSINESS + VERB </U><B> boom </B><I>Business is booming for estate agents in the south as the property market hots up. </I><B>| pick up </B><I>After a slack period business is now picking up. </I> </P>
+<P> <SUP> 3 </SUP> <TT> firm/shop </TT> </P>
+<P> <U> ADJ. </U><B> large, medium-sized, small | family | international, local | private | state-owned | profitable, successful | mail order, retail, wholesale </B> </P>
+<P> <U> VERB + BUSINESS </U><B> have, own | manage, run </B><I>It was always my dream to run my own business. </I><B>| set up, start </B><I>They decided to start their own business. </I><B>| build up </B><I>We built up the business from nothing. </I><B>| work in </B><I>He works in the family business. </I><B>| take over | expand, grow </B><I>We are looking to grow the business over the next couple of years. </I><B>| join, leave </B> </P>
+<P> <U> BUSINESS + VERB </U><B> do/go well, take off </B><I>After six months the business really took off. </I><B>| expand, grow </B><I>The business is expanding fast. </I><B>| collapse, fail </B> </P>
+<P> <U> BUSINESS + NOUN </U><B> assets, premises | failure </B> </P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+<P> <SUP> 4 </SUP> <TT> work/responsibility </TT> </P>
+<P> <U> ADJ. </U><B> daily </B> </P>
+<P> <U> VERB + BUSINESS </U><B> go about </B><I>market traders going about their daily business </I><B>| make sth </B><I>I shall make it my business to find out who is responsible. </I> </P>
+<P> <U> PHRASES </U><B> have no business doing sth/to do sth </B><I>You have no business </I>(= no right) </B><I>being here. </I><B>| mind your own business </B>(= think about your own affairs and not try to get involved in other people's) <I>&lsquo;What are you reading?&rsquo; &lsquo;Mind your own business!&rsquo; I was just sitting there, minding my own business, when a man started shouting at me. </I><B>| none of your business/no business of yours </B><I>My private life is none of your business </I>(= does not concern you)</B><I>. </I> </P>
+<P> <SUP> 5 </SUP> <TT> important matters </TT> </P>
+<P> <U> ADJ. </U><B> private | important, pressing, urgent | unfinished </B><I>We've got some unfinished business to discuss. </I> </P>
+<P> <U> VERB + BUSINESS </U><B> get down to </B><I>OK, let's get down to business. </I><B>| deal with, discuss, talk </B><I>I'm not going to talk business tonight. </I> </P>
+<P> <U> PHRASES </U><B> any other business </B>(= items discussed at the end of a meeting) <I>I think we've finished item four. Now, is there any other business? </I> </P>
+<P> <SUP> 6 </SUP> <TT> situation/event </TT> </P>
+<P> <U> ADJ. </U><B> whole </B><I>I'll be glad when the whole business is over and done with. </I><B>| awful, bad, dreadful, terrible </B><I>It was an awful business?he couldn't work for months. </I><B>| funny, strange</B> </P>
+</DIV>

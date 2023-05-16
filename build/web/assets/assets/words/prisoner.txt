@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>prisoner </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> virtual </B><I>Without a wheelchair, she is a virtual prisoner in her own home. </I><B>| political | life, life-sentence, long-term | short-term | remand | condemned, convicted, sentenced | escaped | model </B><I>He was a model prisoner, and was released after serving only half of his five-year sentence. </I> </P>
+<P> <U> VERB + PRISONER </U><B> capture, take </B><I>They had captured over 100 prisoners. Many soldiers were taken prisoner. </I><B>| hold, keep </B><I>They were kept prisoner for eight months in a tiny flat. </I><B>| free, release </B> </P>
+<P> <U> PHRASES </U><B> a prisoner of conscience </B><I>The former prisoner of conscience was elected president of the new democracy. </I><B>| a prisoner of war</B> </P>
+</DIV>

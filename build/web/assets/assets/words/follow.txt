@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>follow </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> go after sb/sth </TT> </P>
+<P> <U> ADV. </U><B> closely </B><I>Johnson finished first, closely followed by Stevens and Higgins. </I><B>| dutifully, obediently </B><I>The dog followed obediently at her heels. </I><B>| blindly </B><I>She followed blindly, stumbling over stones in her path. </I><B>| on </B><I>You go ahead and we'll follow on later. </I> </P>
+<P> <U> VERB + FOLLOW </U><B> beckon (to) sb to </B><I>She beckoned him to follow her. </I> </P>
+<P> <SUP> 2 </SUP> <TT> happen after sth </TT> </P>
+<P> <U> ADV. </U><B> closely, quickly, shortly, swiftly </B><I>The next programme will follow shortly. </I><B>| immediately </B><I>in the period immediately following the election </I> </P>
+<P> <SUP> 3 </SUP> <TT> happen/be true as a result of sth </TT> </P>
+<P> <U> ADV. </U><B> not necessarily </B><I>It does not necessarily follow that sleep loss would cause these symptoms. </I> </P>
+<P> <U> PREP. </U><B> (on) from </B><I>Several conclusions follow on from his statement. </I> </P>
+<P> <SUP> 4 </SUP> <TT> accept advice/instructions </TT> </P>
+<P> <U> ADV. </U><B> carefully </B><I>Follow my instructions very carefully. </I><B>| dutifully, obediently </B> </P>
+<P> <SUP> 5 </SUP> <TT> copy </TT> </P>
+<P> <U> ADV. </U><B> faithfully </B><I>The film follows the book faithfully. </I><B>| blindly, slavishly </B><I>It wasn't in his nature to follow blindly. slavishly following the views of his teachers </I> </P>
+<P> <U> VERB + FOLLOW </U><B> be expected to, be likely to </B><I>Banks are expected to follow the building societies in raising mortgage rates. </I> </P>
+<P> <U> PHRASES </U><B> follow suit </B><I>(figurative) </I>(= act or behave in the way that sb else has just done) </B> </P>
+<P> <SUP> 6 </SUP> <TT> understand sth </TT> </P>
+<P> <U> ADV. </U><B> not quite </B><I>I'm sorry, but I don't quite follow you </I>(= understand what you are saying)</B><I>. </I> </P>
+<P> <U> VERB + FOLLOW </U><B> be easy to | be difficult to, be hard to, be impossible to </B><I>His argument was difficult to follow. </I> </P>
+</DIV>

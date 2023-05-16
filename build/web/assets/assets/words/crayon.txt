@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>crayon </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> coloured | wax </B> </P>
+<P> <U> QUANT. </U><B> box </B> </P>
+<P> <U> VERB + CRAYON </U><B> colour sth in with, draw (sth) with, use </B><I>She coloured the picture in with crayons. </I> </P>
+<P> <U> CRAYON + NOUN </U><B> drawing </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The notice was written in crayon. </I> </P>
+</DIV>

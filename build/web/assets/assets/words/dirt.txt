@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>dirt </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> dust/soil/mud </TT> </P>
+<P> <U> ADJ. </U><B> loose </B><I>She brushed the loose dirt off her coat. </I><B>| ingrained | dog </B> </P>
+<P> <U> QUANT. </U><B> speck | streak </B><I>He had streaks of dirt all over his face. </I><B>| layer </B> </P>
+<P> <U> VERB + DIRT </U><B> be covered in/with </B><I>His shoes were covered in dirt. </I><B>| brush off, clean off, remove, wash off | show </B><I>The white rug really shows the dirt. </I> </P>
+<P> <U> DIRT + VERB </U><B> accumulate </B><I>Dirt had accumulated in the corners of the windows. </I> </P>
+<P> <U> DIRT + NOUN </U><B> road, track | floor </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>children playing in the dirt </I> </P>
+<P> <SUP> 2 </SUP> <TT> harmful/unpleasant information about sb </TT> </P>
+<P> <U> VERB + DIRT </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>Do you have any dirt on the new guy? </I> </P>
+<P> <U> PHRASES </U><B> dish the dirt </B>(= tell people unkind/unpleasant things about sb) <I>She just loves to dish the dirt. </I> </P>
+</DIV>

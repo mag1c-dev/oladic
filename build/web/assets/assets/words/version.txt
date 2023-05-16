@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>version </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth based on sth else </B> </TT> </P>
+<P> <U> ADJ. </U><B> current, latest, new, updated, up-to-date | early, initial, original, preliminary, prototype </B><I>an earlier version of this computer software </I><B>| later, subsequent | definitive, final </B><I>the final version of the architectural plans </I><B>| future </B><I>A future version of the camera is currently being developed. </I><B>| basic, standard | primitive, simplified | amended, enhanced, improved, modified, refined, revamped | advanced, complex, elaborate, sophisticated </B><I>a more advanced version of the initial concept </I><B>| high-performance | customized | de luxe, expensive, luxury | cheap, low-cost | miniature | enlarged | compact, cut-down, portable, scaled-down, small-scale | full-blown, full-length, full-size | French, French-language, etc. </B><I>the Japanese-language version of the software </I> </P>
+<P> <U> VERB + VERSION </U><B> develop | bring out, create, come out/up with, introduce, launch, offer, present, produce, release, roll out, unveil </B><I>The company will roll out an enhanced version of its operating system in the new year. </I> </P>
+<P> <U> VERSION + VERB </U><B> be out, come out </B><I>The new version comes out in June. </I><B>| be based on sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> play, film, book, piece of writing, etc. </TT> </P>
+<P> <U> ADJ. </U><B> draft, rough </B><I>Keep a copy of the rough version of your essay. </I><B>| abridged, condensed, short, simplified | unabridged, unsimplified | expanded | authorized, official </B><I>This is the official version of the painter's biography. </I><B>| unauthorized, unofficial | hardback, paperback | CD-ROM, electronic, interactive | French, French-language, etc. | film, movie, musical, screen, stage, television </B><I>The film version does not live up to the original novel. </I><B>| cover </B>(= of a song) <I>The band does a lively cover version of &lsquo;Johnny B. Goode&rsquo;. </I> </P>
+<P> <U> VERB + VERSION </U><B> do </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The children read the novel in its abridged version. </I> </P>
+<P> <SUP> 3 </SUP> <TT> way sth is seen/done by sb </TT> </P>
+<P> <U> ADJ. </U><B> accurate, faithful | full </B><I>Only one newspaper printed the full version of the speech. </I><B>| popular | extreme, radical | watered-down, weak </B><I>Theirs is a watered-down version of socialism. </I> </P>
+<P> <U> VERB + VERSION </U><B> give sb </B><I>She agreed to give her version of events to journalists. </I> </P>
+</DIV>

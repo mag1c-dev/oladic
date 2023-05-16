@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>vent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> air, heating | roof, side </B> </P>
+<P> <U> VERB + VENT </U><B> open, close | fit, install </B> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>Air passes through a vent. </I> </P>
+</DIV>

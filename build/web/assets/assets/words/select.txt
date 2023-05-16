@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>select </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, rigorously | specially | deliberately | arbitrarily, at random, randomly </B><I>The winning entry will be selected at random by computer. </I><B>| automatically </B><I>The program automatically selects and stores the most frequently used data. </I><B>| manually | personally </B> </P>
+<P> <U> VERB + SELECT </U><B> allow sb to, enable sb to </B> </P>
+<P> <U> PREP. </U><B> according to </B><I>The design of the course allows students to select modules according to their interests. </I><B>| for </B><I>She has been selected for the England team. </I><B>| from </B><I>You can select goods from our catalogue. </I> </P>
+<P> <U> PHRASES </U><B> highly selected </B><I>Although this was a very highly selected study group, the results were in agreement with our findings. </I><B>| well selected </B><I>This anthology is well selected and presented. </I> </P>
+</DIV>

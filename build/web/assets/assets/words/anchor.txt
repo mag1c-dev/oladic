@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>anchor </B><I>noun </I> </P>
+<P> <U> VERB + ANCHOR </U><B> cast, drop </B><I>The ship cast anchor in the bay. We dropped anchor off a small island. </I><B>| raise, weigh </B><I>We raised the anchor and set sail. We weighed anchor next morning and sailed south. </I><B>| lie at, ride at </B><I>The ship lay at anchor in the bay. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>the ships at anchor in the harbour </I> </P>
+</DIV><DIV class="item"><P class="word"><B>anchor </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> firmly, securely </B><I>The crane is securely anchored at two points. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The ropes were anchored to the rocks. </I> </P>
+</DIV>

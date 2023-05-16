@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>smog </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | urban | photochemical </B> </P>
+<P> <U> VERB + SMOG </U><B> reduce </B><I>measures to reduce smog </I> </P>
+<P> <U> SMOG + NOUN </U><B> alert | level</B> </P>
+</DIV>

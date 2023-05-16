@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>style </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way that sth is done/made </TT> </P>
+<P> <U> ADJ. </U><B> latest, modern, new | classical, old, old-fashioned, period, traditional </B><I>an old style of management </I><B>| contemporary </B><I>The 16th century house has been renovated and furnished in contemporary style. </I><B>| characteristic, distinctive, individual, inimitable, original </B><I>her inimitable style of humour </I><B>| personal | musical | architectural | teaching | leadership, management, managerial | political | literary, narrative, prose, writing | elegant, lively | flamboyant </B><I>a flamboyant style of dress </I><B>| formal | casual </B><I>a casual style of speech </I><B>| conversational </B><I>The article is written in a conversational style. </I><B>| aggressive </B><I>His aggressive style of play sometimes gets him in trouble. </I><B>| autocratic </B><I>an autocratic style of leadership </I><B>| 18th-century, etc. | Gothic, Renaissance, etc. </B> </P>
+<P> <U> VERB + STYLE </U><B> have </B><I>The two artists have radically different styles. </I><B>| develop, establish, evolve, find, form </B><I>He evolved his style of painting while working as a magazine illustrator. </I><B>| adapt, adjust, alter, change, modify, tailor </B><I>The pianist had to tailor his style to suit the vocalist's distinctive voice. </I><B>| adopt, use | copy, emulate, follow </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>very utilitarian in style </I><B>| in a/the ~ </B><I>The new houses have been built in a traditional style. </I> </P>
+<P> <SUP> 2 </SUP> <TT> good quality </TT> </P>
+<P> <U> ADJ. </U><B> enormous, fine, great, real, terrific | certain </B> </P>
+<P> <U> VERB + STYLE </U><B> have </B><I>He has a certain style. </I><B>| ooze </B><I>The whole house just oozed style. </I><B>| add, give sb/sth </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>Whatever she did, she did it with style. </I> </P>
+<P> <U> PHRASES </U><B> a touch of style </B><I>Long velvet curtains add a touch of style to the main room. </I> </P>
+</DIV>

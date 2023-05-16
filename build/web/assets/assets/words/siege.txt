@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>siege </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> when an army surrounds a town </TT> </P>
+<P> <U> ADJ. </U><B> long, prolonged </B> </P>
+<P> <U> VERB + SIEGE </U><B> lay </B><I>The English forces laid siege to the city of Tournai. </I><B>| withstand </B><I>This fortress could withstand a siege for years if necessary. </I><B>| lift, raise, relieve </B>(= arrive to help the people in a siege) <I>The royal forces marched south to lift the siege of Donnington Castle. </I> </P>
+<P> <U> SIEGE + VERB </U><B> last </B><I>The siege lasted two years. </I> </P>
+<P> <U> SIEGE + NOUN </U><B> warfare | engine </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>wounded at the siege of Edinburgh Castle in 1573 </I><B>| during a/the ~, under ~ </B><I>At the very end of the war, Prague again came under siege. </I><B>| ~ of </B> </P>
+<P> <SUP> 2 </SUP> <TT> when the police, etc. surround a building </TT> </P>
+<P> <U> ADJ. </U><B> four-day, ten-hour, etc. | armed, gun, police </B> </P>
+<P> <U> SIEGE + VERB </U><B> end </B><I>The seven-hour armed siege at the school ended peacefully. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>The terrorists were shot dead during the siege of the embassy. </I> </P>
+<P> <U> PHRASES </U><B> a state of siege </B><I>The police placed the city centre under a virtual state of siege. </I> </P>
+</DIV>

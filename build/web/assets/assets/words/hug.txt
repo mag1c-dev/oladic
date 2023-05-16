@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>hug </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big | affectionate, comforting, friendly, loving, reassuring, warm | quick </B> </P>
+<P> <U> VERB + HUG </U><B> give sb </B><I>He gave the children a quick hug, then got into the car. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>hug </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> close, tight/tightly </B><I>James went to his daughter and hugged her tightly. </I><B>| gently | fiercely </B> </P>
+<P> <U> PREP. </U><B> to </B><I>He reached out and hugged her to him. </I> </P>
+<P> <U> PHRASES </U><B> hug and kiss sb</B> </P>
+</DIV>

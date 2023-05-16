@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>recourse </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> constant, frequent | limited | no other, only </B><I>I have no other recourse than to inform the police. </I><B>| direct </B><I>The study of these creatures has been conducted without direct recourse to living specimens. </I><B>| legal </B> </P>
+<P> <U> VERB + RECOURSE </U><B> have </B><I>The mother of an illegitimate child had no legal recourse to the father. </I><B>| seek </B><I>An order was made against which he sought recourse in the supreme court. </I><B>| avoid </B><I>Their system of dispute resolution avoids recourse to the courts. </I> </P>
+<P> <U> PREP. </U><B> by ~ to </B><I>people who deal with emotional pain by recourse to drugs and alcohol </I><B>| without ~ to </B><I>They tried to settle the dispute without recourse to the courts. </I><B>| ~ against </B><I>Citizens have learnt that they do have recourse against governments. </I><B>| ~ to </B><I>She often had recourse to her dictionary. </I> </P>
+</DIV>

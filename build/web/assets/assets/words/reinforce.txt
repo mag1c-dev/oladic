@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>reinforce </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> support sth that already exists </TT> </P>
+<P> <U> ADV. </U><B> enormously, greatly, massively, powerfully, strongly </B><I>This report strongly reinforces the view that the system must be changed. </I><B>| further | merely, only, simply </B><I>All this simply reinforces my earlier point. </I><B>| constantly, continually, continuously, repeatedly | implicitly | mutually </B><I>Violent behaviour and rejection by society are mutually reinforcing. </I><B>| unwittingly | positively </B> </P>
+<P> <U> VERB + REINFORCE </U><B> help (to), serve to, tend to </B> </P>
+<P> <SUP> 2 </SUP> <TT> make sth stronger </TT> </P>
+<P> <U> ADV. </U><B> heavily </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The door was built of oak, heavily reinforced with iron. </I> </P>
+</DIV>

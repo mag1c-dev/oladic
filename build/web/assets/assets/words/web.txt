@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>web </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> that a spider makes </TT> </P>
+<P> <U> ADJ. </U><B> spider/spider's </B> </P>
+<P> <U> VERB + WEB </U><B> build, make, spin, weave </B> </P>
+<P> <SUP> 2 </SUP> <TT> complicated series/network of sth </TT> </P>
+<P> <U> ADJ. </U><B> complex, complicated, intricate, tangled </B> </P>
+<P> <U> VERB + WEB </U><B> create, form, weave </B><I>The mass media forms a web of communications. </I><B>| be drawn into </B><I>More and more people were drawn into his web of deceit. </I> </P>
+<P> <U> PHRASES </U><B> a web of deceit/deception, a web of intrigue, a web of relationships 3 the Web </B>on the Internet </B> </P>
+<P> <U> VERB + WEB </U><B> access | browse, surf </B> </P>
+<P> <U> WEB + NOUN </U><B> page | browser, server | resource, service | network, ring | design, development | publishing | designer, developer, editor, host, master (also webmaster), user | directory, guide, index | access | tool </B> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>I found this survey on the Web. </I>&gt; Special page at COMPUTER </B> </P>
+</DIV>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>publicity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> media attention </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, extensive, greater, wide, widespread </B><I>The papers have begun to give greater publicity to the campaign against GM food. </I><B>| maximum </B><I>The release of the report was timed to generate maximum publicity. </I><B>| favourable, good, positive | adverse, bad, negative, unfavourable, unwelcome | free | international, local, national </B> </P>
+<P> <U> VERB + PUBLICITY </U><B> give sb/sth | gain, get, receive | attract, generate | seek | avoid, shun </B> </P>
+<P> <U> PUBLICITY + VERB </U><B> surround sth </B><I>There was a lot of negative publicity surrounding the film. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>There has been a lot of unfavourable publicity about the hospital. </I><B>| ~ for </B><I>Taking part in the event will be good publicity for our school. </I><B>| ~ over </B><I>The firm had received bad publicity over a defective product. </I> </P>
+<P> <U> PHRASES </U><B> amid/amidst a storm of publicity </B><I>The chairman resigned amid a storm of publicity over the bonus payments. </I><B>| a blaze of publicity </B><I>The film stars were married in a blaze of publicity. </I><B>| the glare of publicity </B><I>He carried on his life in the full glare of publicity. </I> </P>
+<P> <SUP> 2 </SUP> <TT> advertising </TT> </P>
+<P> <U> ADJ. </U><B> advance </B> </P>
+<P> <U> PUBLICITY + NOUN </U><B> material, photograph, shot </B><I>He's better-looking in his publicity shots than he is in real life. </I><B>| campaign | stunt </B><I>The actress denied that her marriage was just a publicity stunt. </I><B>| agent, officer | machine </B><I>The record company's publicity machine was working flat out. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>I read some publicity about vaccinations while waiting my turn at the doctor's. </I><B>| ~ for </B><I>There have been months of advance publicity for the show. </I> </P>
+<P> <U> PHRASES </U><B> a lack of publicity</B> </P>
+</DIV>

@@ -1,0 +1,35 @@
+
+<DIV class="item"><P class="word"><B>charge </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> price asked for sth </TT> </P>
+<P> <U> ADJ. </U><B> heavy, high | reasonable, small | minimum | fixed, standard | total | annual, daily, etc. | standing </B><I>There is a quarterly standing charge. </I><B>| additional, extra, further | admission, bank, call, call-out, cancellation, commission, cover, handling, hire, interest, maintenance, prescription, service </B> </P>
+<P> <U> VERB + CHARGE </U><B> impose, introduce, levy, make </B><I>We make a small charge for wrapping your gift. </I><B>| waive </B><I>They agreed to waive the cancellation charges. </I><B>| incur </B><I>All cancellations incur a charge. </I><B>| pay | increase | reduce | reverse the ~s </B>(= when telephoning)  </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>This service is available at a nominal charge. </I><B>| for a ~ </B><I>The hotel operates a bus service to the village for a small charge. </I><B>| ~ for </B><I>There is no charge for cashing traveller's cheques. </I><B>| ~ on </B><I>a charge on company profits </I> </P>
+<P> <U> PHRASES </U><B> free of charge </B>(= without any charge) <I>The company will deliver free of charge. </I> </P>
+<P> <SUP> 2 </SUP> <TT> official statement accusing sb of a crime </TT> </P>
+<P> <U> ADJ. </U><B> grave, serious | lesser, reduced </B><I>He was found guilty on a reduced charge of assault. </I><B>| baseless, false, trumped-up | civil, criminal, disciplinary | assault, corruption, drug/drugs, fraud, murder, etc. </B> </P>
+<P> <U> VERB + CHARGE </U><B> bring, file, lay, level, make </B><I>Police have brought a charge of dangerous driving against the man. </I><B>| bring, prefer, press </B>(only used with <B>charges</B>) <B>| drop, withdraw | answer, face </B><I>She is almost certain to face criminal charges. </I><B>| admit </B><I>He has admitted the murder charge. </I><B>| deny, dismiss, refute, reject </B><I>The prime minister dismissed the charge that he had misled Parliament. </I><B>| fabricate, trump up </B><I>He accused the government of fabricating the charges for political reasons. </I><B>| investigate | prove, substantiate </B><I>The charges will be difficult to prove. </I><B>| dismiss, throw out </B><I>The court dismissed the charge against him. </I> </P>
+<P> <U> CHARGE + VERB </U><B> allege sth </B><I>new charges alleging the misuse of funds </I> </P>
+<P> <U> CHARGE + NOUN </U><B> sheet </B><I>At the police station a charge sheet was made out. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She appeared in court on charges of kidnapping and assault. </I><B>| without ~ </B><I>to be detained/held/released without charge </I><B>| ~ against </B><I>The charges against you have been dropped. </I><B>| ~ of </B><I>a charge of armed robbery </I><B>| ~ relating to </B><I>charges relating to the embezzlement of public funds </I> </P>
+<P> <U> PHRASES </U><B> bring/prefer/press charges (against sb) </B><I>Many victims of crime are reluctant to press charges against their attackers. </I> </P>
+<P> <SUP> 3 </SUP> <TT> control </TT> </P>
+<P> <U> ADJ. </U><B> overall </B><I>The conductor has overall charge of the train. </I><B>| personal </B><I>She took personal charge of the files. </I><B>| sole </B><I>Stephen will resume sole charge for the time being. </I><B>| temporary </B> </P>
+<P> <U> VERB + CHARGE </U><B> have | take </B><I>We need somebody to take charge of the financial side. </I><B>| resume | place/put sb in </B><I>John has been put in charge of marketing. </I> </P>
+<P> <U> PREP. </U><B> in ~ (of sb/sth) </B><I>I need to feel more in charge of my life. </I><B>| in/under sb's ~ </B><I>The child is under my charge until the mother returns from abroad. </I> </P>
+<P> <SUP> 4 </SUP> <TT> sudden attack </TT> </P>
+<P> <U> ADJ. </U><B> baton, cavalry </B><I>They were driven back by a police baton charge. </I> </P>
+<P> <U> VERB + CHARGE </U><B> lead </B><I>Allen led the charge, but could they get a goal back? </I><B>| sound </B><I>The bugle sounded the charge. </I> </P>
+<P> <U> CHARGE + VERB </U><B> drive sb back</B> </P>
+</DIV><DIV class="item"><P class="word"><B>charge </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> ask sb to pay money </TT> </P>
+<P> <U> ADV. </U><B> directly </B> </P>
+<P> <U> VERB + CHARGE </U><B> be entitled to, be free to, have a right to </B><I>Firms are free to charge whatever they like for their services. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>Research and development expenditure is charged against profits in the year it is incurred. </I><B>| at </B><I>Stamp Duty will be charged at one per cent. </I><B>| for </B><I>We don't charge for delivery. </I><B>| on </B><I>The bank charges a commission on all foreign currency transactions. </I><B>| to </B><I>The cost is charged directly to the profit and loss account. </I> </P>
+<P> <U> PHRASES </U><B> charge sth to sb's account </B>&pound;</B><I>50 will be charged to your account. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make an official accusation </TT> </P>
+<P> <U> ADV. </U><B> formally | jointly </B><I>The teenagers were jointly charged with attempted murder. </I> </P>
+<P> <U> PREP. </U><B> in connection with </B><I>A man has been charged in connection with the attack. </I><B>| with </B><I>She has not yet been formally charged with the offence. </I> </P>
+<P> <SUP> 3 </SUP> <TT> rush/attack </TT> </P>
+<P> <U> ADV. </U><B> headlong | around/round, in, out </B><I>The children were all charging around outside. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>I was worried that the animal might charge at us. </I><B>| down </B><I>I heard the sound of feet charging down the stairs. </I><B>| into </B><I>She charged into the room. </I><B>| out of, through, towards </B><I>The rhino charged headlong towards us. </I><B>| up</B> </P>
+</DIV>

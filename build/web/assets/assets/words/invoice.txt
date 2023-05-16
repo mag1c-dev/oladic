@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>invoice </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> original | final </B><I>Please pay the final invoice within two weeks. </I><B>| tax, VAT </B><I>The seller has to issue a tax invoice. </I> </P>
+<P> <U> VERB + INVOICE </U><B> issue, raise, send | get, receive | pay </B> </P>
+<P> <U> INVOICE + NOUN </U><B> price, value </B><I>The shipping costs can be as high as 50% of the invoice value of the goods. </I> </P>
+</DIV>

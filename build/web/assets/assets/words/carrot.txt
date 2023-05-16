@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>carrot </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> vegetable </TT> </P>
+<P> <U> ADJ. </U><B> raw | baby | diced, grated </B> </P>
+<P> <U> VERB + CARROT </U><B> eat, have | cook, prepare | peel, scrape | chop, dice, grate </B> </P>
+<P> <U> CARROT + NOUN </U><B> top | cake | juice </B>&gt; Special page at FOOD </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth attractive offered to sb </TT> </P>
+<P> <U> VERB + CARROT </U><B> dangle, hold out, offer (sb) </B><I>They dangled the carrot of a large salary in front of me. </I> </P>
+<P> <U> PHRASES </U><B> a carrot and stick </B><I>to adopt the carrot-and-stick approach </I>(= to persuade sb to try harder by offering them a reward if they do, or a punishment if they do not) </B> </P>
+</DIV>

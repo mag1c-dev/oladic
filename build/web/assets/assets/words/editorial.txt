@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>editorial </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> newspaper | lengthy | hard-hitting </B> </P>
+<P> <U> VERB + EDITORIAL </U><B> write | carry, publish, run </B><I>The paper only occasionally carries editorials. The newspaper ran a hard-hitting editorial criticizing the government's economic policies. </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>He declared his support for the minister in an editorial. </I><B>| ~ on </B><I>an editorial on the problem of crime </I> </P>
+</DIV>

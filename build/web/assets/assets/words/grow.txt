@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>grow </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> increase </TT> </P>
+<P> <U> ADV. </U><B> fast, quickly, rapidly | slowly | steadily | exponentially </B><I>Well before a billionth of a second had elapsed the universe started to grow exponentially. </I> </P>
+<P> <U> VERB + GROW </U><B> seem to | begin to, start to | continue to | be expected to </B> </P>
+<P> <U> PREP. </U><B> by </B><I>Profits are expected to grow by 10% next year. </I><B>| from </B><I>Her media empire grew from quite small beginnings. </I><B>| in </B><I>She continued to grow in confidence </I><B>| into </B><I>The village grew into a town. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a person/animal </TT> </P>
+<P> <U> ADV. </U><B> fast, quickly, rapidly | slowly </B> </P>
+<P> <U> PREP. </U><B> into </B><I>The small puppy quickly grew into a very large dog. </I> </P>
+<P> <SUP> 3 </SUP> <TT> of plants/hair </TT> </P>
+<P> <U> ADV. </U><B> well </B><I>Tomatoes grow best in direct sunlight. </I><B>| fast, quickly, rapidly | slowly | steadily | thickly </B><I>the nettles that grew thickly round the boathouse </I><B>| outwards, upwards </B><I>As the island subsided the reef grew upwards and outwards. </I> </P>
+<P> <U> VERB + GROW </U><B> allow sth to, let sth </B><I>She decided to let her hair grow. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>The tree grew from a small acorn. </I><B>| into </B><I>Small acorns grow into great oak trees. </I> </P>
+<P> <U> PHRASES </U><B> grow unchecked </B><I>A rose in full bloom had been allowed to grow unchecked up one of the walls. </I> </P>
+<P> <SUP> 4 </SUP> <TT> make plants grow </TT> </P>
+<P> <U> ADV. </U><B> organically </B><I>organically grown produce </I> </P>
+<P> <U> VERB + GROW </U><B> be easy to </B><I>an attractive plant which is very hardy and easy to grow </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>absorb </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> liquid/gas/energy, etc. </TT> </P>
+<P> <U> ADV. </U><B> quickly, rapidly | directly, easily, readily </B> </P>
+<P> <U> PREP. </U><B> into </B><I>Nutrients are absorbed into the bloodstream. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make part of sth larger </TT> </P>
+<P> <U> ADV. </U><B> gradually | increasingly </B> </P>
+<P> <U> PHRASES </U><B> be absorbed into sth </B><I>These committees were gradually absorbed into the local government machine. </I> </P>
+<P> <SUP> 3 </SUP> <TT> information/atmosphere </TT> </P>
+<P> <U> ADV. </U><B> easily, readily </B><I>The information is presented so that it can be readily absorbed. </I><B>| passively </B> </P>
+<P> <SUP> 4 </SUP> <TT> interest </TT> </P>
+<P> <U> ADV. </U><B> completely, totally, utterly </B><I>His work absorbed him completely. </I><B>| deeply</B> </P>
+</DIV>

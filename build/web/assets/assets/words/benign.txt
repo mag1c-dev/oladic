@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>benign </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem </B> </P>
+<P> <U> ADV. </U><B> fairly, rather, relatively </B><I>The effects of this chemical are fairly benign. </I><B>| environmentally </B><I>We are looking for an environmentally benign alternative to bleach. </I> </P>
+</DIV>

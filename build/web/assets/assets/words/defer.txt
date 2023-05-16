@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>defer </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> further | indefinitely </B><I>The decision has been deferred indefinitely. </I> </P>
+<P> <U> VERB + DEFER </U><B> agree to, decide to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>Sentence was deferred for six months. </I><B>| pending </B><I>Diagnosis was deferred pending further assessment. </I><B>| till/until </B><I>We agreed to defer discussion of these issues until the next meeting. </I> </P>
+</DIV>

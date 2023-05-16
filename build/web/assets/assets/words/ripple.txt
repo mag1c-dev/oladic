@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>ripple </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little, small </B> </P>
+<P> <U> VERB + RIPPLE </U><B> cause, set off </B><I>The decision caused ripples of concern among the parents. </I><B>| send </B><I>I dropped the pebble in the water, sending ripples across the pond. His remarks sent a ripple of laughter through the audience. </I><B>| feel </B><I>He felt a small ripple of fear pass through him. </I> </P>
+<P> <U> RIPPLE + VERB </U><B> pass/run through sb/sth | spread (across) sth </B><I>He watched the ripples spread across the pool. </I> </P>
+<P> <U> RIPPLE + NOUN </U><B> effect </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>A ripple of unease passed through her. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>ripple </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, smoothly, softly </B> </P>
+<P> <U> PREP. </U><B> across </B><I>Small waves rippled gently across the pond. </I><B>| through </B><I>Shock rippled through her. </I> </P>
+</DIV>

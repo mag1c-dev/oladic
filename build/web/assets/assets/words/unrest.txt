@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>unrest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, serious | violent | widespread </B><I>There was widespread industrial unrest in the north. </I><B>| popular | growing, mounting | fresh, further, renewed </B><I>The murder of a boy by police sparked renewed unrest in the occupied zone. </I><B>| agrarian, civil, ethnic, industrial, labour, political, rural, social | peasant, student </B> </P>
+<P> <U> QUANT. </U><B> period, wave </B><I>The increase in fees sparked a new wave of student unrest. </I> </P>
+<P> <U> VERB + UNREST </U><B> cause, spark (off), stir up | crush, deal with, put down, quell </B><I>The government's attempts to crush serious popular unrest led to civil war. </I> </P>
+<P> <U> PREP. </U><B> during (the) ~ </B><I>Many shops were looted during the unrest. </I><B>| ~ over </B><I>growing unrest over pay levels </I> </P>
+</DIV>

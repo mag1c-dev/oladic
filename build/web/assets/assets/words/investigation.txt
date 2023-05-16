@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>investigation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, close, detailed | extensive </B><I>The authorities conducted an extensive investigation into his tax affairs. </I><B>| full, thorough | criminal, murder, police | scientific | government </B> </P>
+<P> <U> VERB + INVESTIGATION </U><B> carry out, conduct, pursue </B><I>Police are still pursuing their investigations. </I><B>| launch | head, lead | complete </B> </P>
+<P> <U> INVESTIGATION + VERB </U><B> reveal sth, show sth </B><I>Closer investigation showed this idea to be untenable. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>On investigation, the noise turned out to be only a door banging. </I><B>| under ~ </B><I>The singer is currently under investigation for possessing illegal drugs. </I><B>| ~ into </B><I>Police have launched an investigation into the allegations. </I> </P>
+<P> <U> PHRASES </U><B> the subject of an investigation </B><I>The matter is the subject of a police investigation, and we have been advised not to comment. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>snippet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little | interesting </B><I>He passed on any interesting snippets of information he could glean from his colleagues. </I> </P>
+<P> <U> VERB + SNIPPET </U><B> gather, glean | give, pass on </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>The article gave a few snippets from her forthcoming memoirs. </I><B>| ~ of </B><I>a snippet of conversation </I> </P>
+</DIV>

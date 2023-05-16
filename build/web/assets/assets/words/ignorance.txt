@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>ignorance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, total | remarkable | widespread | blissful </B> </P>
+<P> <U> VERB + IGNORANCE </U><B> betray, show </B><I>I tried not to betray my ignorance. He showed a remarkable ignorance of the facts. </I><B>| admit, confess, plead </B><I>I had to confess my ignorance. He pleaded ignorance of any wrongdoing. </I><B>| live in, remain in </B><I>The sisters lived in total ignorance of each other. </I><B>| keep sb in </B><I>He was kept in ignorance of his true identity. </I><B>| be based on </B><I>These attitudes are based on ignorance and fear. </I> </P>
+<P> <U> PREP. </U><B> due to ~ </B><I>mistakes due to ignorance </I><B>| in ~ (of) </B><I>She remained in blissful ignorance of these events. </I><B>| through ~ </B><I>Many lives are lost through ignorance. </I><B>| ~ about </B><I>There is still widespread ignorance about this disease. </I> </P>
+</DIV>

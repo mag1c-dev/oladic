@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>pursuit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> attempt to find sth </TT> </P>
+<P> <U> ADJ. </U><B> relentless, ruthless, single-minded, vigorous | successful </B> </P>
+<P> <U> VERB + PURSUIT </U><B> be engaged in </B> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>people travelling around the country in pursuit of work </I><B>| ~ of </B><I>He is engaged in the ruthless pursuit of wealth. </I> </P>
+<P> <U> PHRASES </U><B> the pursuit of a goal </B><I>He devoted his waking hours to the single-minded pursuit of his goal. </I><B>| the pursuit of excellence/happiness/knowledge/pleasure/truth </B> </P>
+<P> <SUP> 2 </SUP> <TT> attempt to catch sb/sth </TT> </P>
+<P> <U> VERB + PURSUIT </U><B> give </B><I>The police gave pursuit. </I> </P>
+<P> <U> PREP. </U><B> in ~ (of) </B><I>Two boys ran past with a security guard in pursuit. The guard set off in pursuit of the thief. </I> </P>
+<P> <U> PHRASES </U><B> in close/hot pursuit </B><I>Away ran the fox, with the hunters in hot pursuit. </I> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>pursuits</B>) pastime </TT> </P>
+<P> <U> ADJ. </U><B> favourite, popular | active, energetic </B><I>active leisure pursuits </I><B>| country | indoor, outdoor | leisure, recreational | academic, artistic, cultural, educational, intellectual, sporting </B> </P>
+<P> <U> VERB + PURSUIT </U><B> follow </B><I>She has time now to follow her various artistic pursuits. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>heating </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> electric, gas-fired, solar | central, domestic, home, underfloor | water </B> </P>
+<P> <U> VERB + HEATING </U><B> have </B><I>The flat has gas-fired central heating. </I><B>| have on, keep on, leave on, run, use </B><I>We haven't had the heating on this evening. </I><B>| put on, switch on, turn on </B><I>They are afraid to put the heating on because it's so expensive. </I><B>| switch off, turn off </B><I>They have their heating turned off during the morning. </I><B>| turn down/up | fit, install, put in </B><I>We're having central heating installed. </I> </P>
+<P> <U> HEATING + VERB </U><B> be (full) on, be on high/low </B><I>The heating was on but the window was open. The heating's on low. </I><B>| be off | come on | go off </B><I>Our heating goes off at eleven o'clock and comes on again at seven. </I><B>| work </B><I>The heating doesn't work. </I><B>| break down </B><I>The house was very cold because the heating had broken down. </I> </P>
+<P> <U> HEATING + NOUN </U><B> bill | system </B><I>What sort of heating system has your new flat got? </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>pad </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> memo, message, note | drawing, sketch </B> </P>
+<P> <U> PREP. </U><B> on a/the~ </B><I>She doodled on a pad as she spoke. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>pad </B><I>verb </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> be padded be filled/covered with soft material  </TT> </P>
+<P> <U> ADV. </U><B> heavily, thickly </B><I>She was wearing a warm coat and thickly padded gloves. </I><B>| lightly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The shoulder straps are padded with foam. </I> </P>
+<P> <SUP> 2 </SUP> <TT> move quietly </TT> </P>
+<P> <U> ADV. </U><B> silently, softly | barefoot | about/around </B> </P>
+<P> <U> PREP. </U><B> about/around </B><I>padding softly around the house </I><B>| across </B><I>padding barefoot across the carpet </I><B>| along </B><I>The cat padded silently along the track. </I><B>| to, towards</B> </P>
+</DIV>

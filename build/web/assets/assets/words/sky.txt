@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>sky </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, huge | open </B><I>We slept under the open sky. </I><B>| empty | bright, clear, cloudless, sunny </B><I>a week of cloudless skies </I><B>| cloudy, dull, overcast, sullen | starry | azure, black, blue, dark/darkening, grey, pale, leaden | night, morning, etc. | autumn, January, etc. | northern, southern, etc. </B> </P>
+<P> <U> QUANT. </U><B> patch </B><I>a patch of blue sky </I> </P>
+<P> <U> VERB + SKY </U><B> light up </B><I>The fireworks lit up the sky. </I><B>| patrol </B> </P>
+<P> <U> SKY + VERB </U><B> clear (up), lighten </B><I>The rain stopped and the skies cleared. </I><B>| cloud over, darken, turn grey, etc. | be streaked with sth </B><I>The sky was streaked with gold. </I> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>Black clouds spread across the sky. </I><B>| against the ~ </B><I>The eagle was black against the early morning sky. </I><B>| beneath/under a ~ </B><I>a ship tossing under a darkening sky </I><B>| from/out of the ~ </B><I>A strange object dropped out of the sky. </I><B>| in the ~ </B><I>There was a kite high up in the sky. </I><B>| ~ above </B><I>A helicopter appeared in the sky above them. </I><B>| ~ over </B><I>patrolling the skies over the Channel </I> </P>
+<P> <U> PHRASES </U><B> high/low in the sky </B><I>when the sun is low in the sky </I><B>| the sky above/overhead </B><I>Swallows darted about in the sky overhead. </I><B>| take to the skies </B>(= to go into the sky) <I>Some vintage aircraft will be taking to the skies at this weekend's fair. </I> </P>
+</DIV>

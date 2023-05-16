@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>burst </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> short </B><I>a short burst of energy </I><B>| sudden </B><I>a sudden burst of enthusiasm </I><B>| rapid </B><I>a rapid burst of gunfire </I><B>| intense </B><I>an intense burst of anger </I> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>He works in short bursts. </I><B>| ~ of</B> </P>
+</DIV><DIV class="item"><P class="word"><B>burst </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> suddenly | apart </B><I>The ship was burst apart and its crew blasted to pieces. </I> </P>
+<P> <U> VERB + BURST </U><B> be about to, be going to, be ready to </B><I>My whole head felt like a ripe tomato, ready to burst. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>(figurative) He felt he would burst with anger. </I><B>PHRASAL VERBS burst into sth </B> </P>
+<P> <U> ADV. </U><B> suddenly | immediately, instantly, promptly </B><I>She took one look at the mess and promptly burst into tears. </I> </P>
+<P> <U> VERB + BURST </U><B> be about to, be going to, be ready to </B><I>He was just about to burst into song. </I> </P>
+</DIV>

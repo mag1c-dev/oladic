@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>chocolate </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sweet brown food </TT> </P>
+<P> <U> ADJ. </U><B> dark, plain | milk | white | bitter | cooking </B> </P>
+<P> <U> QUANT. </U><B> bar, slab | bit, piece, square </B><I>He broke off a few squares of chocolate. </I><B>| box </B><I>I gave her a box of hand-made Belgian chocolates. </I> </P>
+<P> <U> VERB + CHOCOLATE </U><B> eat, have | break (up) into pieces/squares </B><I>She broke a bar of dark chocolate into four pieces. </I><B>| grate | melt </B><I>Melt 100g of cooking chocolate in a basin over hot water. </I><B>| coat/cover sth in/with, dip sth in, spread/sprinkle (sth with) </B><I>a box of brazil nuts coated in chocolate </I> </P>
+<P> <U> CHOCOLATE + VERB </U><B> melt </B><I>Stir until the chocolate has melted. </I> </P>
+<P> <U> CHOCOLATE + NOUN </U><B> bar, chip | biscuit, cake, eclair, egg, gateau, ice cream, mousse, sauce | factory </B>&gt; Special page at FOOD </B> </P>
+<P> <SUP> 2 </SUP> <TT> small sweet made from chocolate </TT> </P>
+<P> <U> ADJ. </U><B> soft-centred | hand-made </B> </P>
+<P> <U> QUANT. </U><B> box </B> </P>
+<P> <U> CHOCOLATE + NOUN </U><B> box </B> </P>
+<P> <SUP> 3 </SUP> <TT> drink made from powdered chocolate </TT> </P>
+<P> <U> ADJ. </U><B> hot | drinking </B> </P>
+<P> <U> QUANT. </U><B> cup, mug</B> </P>
+</DIV>

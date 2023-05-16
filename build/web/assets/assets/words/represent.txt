@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>represent </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> be a member of a group </TT> </P>
+<P> <U> ADV. </U><B> strongly, well </B><I>Local businesses are well represented on the committee. </I><B>| poorly | adequately | disproportionately </B><I>Women are disproportionately represented among welfare recipients. </I> </P>
+<P> <SUP> 2 </SUP> <TT> act/speak officially for sb </TT> </P>
+<P> <U> ADV. </U><B> legally </B><I>The suspect must appear and may be legally represented. </I> </P>
+<P> <U> VERB + REPRESENT </U><B> choose sb to, elect sb to, select sb to </B><I>He was chosen to represent Scotland in three consecutive World Cup Finals. </I> </P>
+<P> <SUP> 3 </SUP> <TT> show sth </TT> </P>
+<P> <U> ADV. </U><B> accurately </B><I>Representing an image accurately requires a great many bytes of digital information. </I><B>| fairly | falsely | diagrammatically, graphically, schematically, visually </B><I>The data can be represented graphically in a line diagram. </I><B>| symbolically </B> </P>
+<P> <U> VERB + REPRESENT </U><B> be intended to </B><I>It is not clear what these symbols were intended to represent. </I><B>| purport to </B><I>The film purported to represent the lives of ordinary people. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>The film represents women as victims. </I><B>| to </B><I>He admitted falsely representing to police officers that the car had been stolen. </I> </P>
+</DIV>

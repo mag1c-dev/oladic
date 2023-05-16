@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>eruption </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> explosion of a volcano </TT> </P>
+<P> <U> ADJ. </U><B> big, great, major, violent </B><I>It was the biggest eruption of Vesuvius for some years. </I><B>| minor | volcanic </B> </P>
+<P> <U> VERB + ERUPTION </U><B> predict </B> </P>
+<P> <U> ERUPTION + VERB </U><B> happen, occur, take place </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>The temple was destroyed in the violent eruption of 1470 BC. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sudden start of sth loud/violent </TT> </P>
+<P> <U> ADJ. </U><B> sudden </B><I>a sudden eruption of fighting </I> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV>

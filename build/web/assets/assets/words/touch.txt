@@ -1,0 +1,29 @@
+
+<DIV class="item"><P class="word"><B>touch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of touching sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> delicate, gentle, light, slight </B><I>The slightest touch will set off the alarm. </I> </P>
+<P> <U> PREP. </U><B> at sb/sth's ~ </B><I>The door swung open at his touch. You can now do your shopping at the touch of a button. </I> </P>
+<P> <SUP> 2 </SUP> <TT> small detail </TT> </P>
+<P> <U> ADJ. </U><B> final, finishing | decorative, festive, homely, romantic </B><I>The family photos give the room a homely touch. </I><B>| humorous | classy, lovely, nice, professional </B><I>Giving her flowers was a nice touch. </I><B>| feminine, human, idiosyncratic, individual, personal | little </B><I>The decor includes many idiosyncratic little touches. </I> </P>
+<P> <U> VERB + TOUCH </U><B> add, give sth, put </B><I>She's just putting the finishing touches to her painting. </I> </P>
+<P> <SUP> 3 </SUP> <TT> particular ability </TT> </P>
+<P> <U> ADJ. </U><B> golden, magic | deft, sure </B><I>With students she had a sure touch and showed great personal sensitivity. </I><B>| light </B><I>He handles this controversial subject with a light touch. </I><B>| political </B><I>He found his old political touch when the crisis emerged. </I> </P>
+<P> <U> VERB + TOUCH </U><B> find | lose </B><I>Maybe the champion is losing her magic touch. </I> </P>
+<P> <SUP> 4 </SUP> <TT> small amount of sth </TT> </P>
+<P> <U> ADJ. </U><B> little, subtle | welcome </B> </P>
+<P> <U> VERB + TOUCH </U><B> add, bring </B><I>Her speech brought a welcome touch of humour to the evening. </I> </P>
+<P> <U> PREP. </U><B> with a ~ of </B><I>&lsquo;Thanks,&rsquo; she said, with a touch of sarcasm. </I><B>| ~ of </B> </P>
+<P> <SUP> 5 </SUP> <TT> contact </TT> </P>
+<P> <U> ADJ. </U><B> close </B><I>The security staff were in close touch with the local police. </I> </P>
+<P> <U> VERB + TOUCH </U><B> get in </B><I>I'm trying to get in touch with Jane. Do you have her number? </I><B>| keep in, stay in </B><I>It is important to keep in touch with the latest research. Let's keep in touch. </I><B>| put sb in </B><I>I'll put you in touch with someone in your area. </I><B>| lose </B><I>I've lost touch with all my old friends. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Are you still in touch with your friends from college? </I><B>| out of ~ </B><I>This government is increasingly out of touch with ordinary voters. </I><B>| ~ with</B> </P>
+</DIV><DIV class="item"><P class="word"><B>touch </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put your hand on sb/sth; be in contact with sb/sth </TT> </P>
+<P> <U> ADV. </U><B> (not) actually, not even, not quite </B><I>He did not actually touch the substance, but may have inhaled microparticles. </I><B>| barely, hardly, scarcely </B><I>You've hardly touched your food </I>(= not eaten it)</B><I>. </I><B>| almost, nearly, practically </B><I>Their faces were almost touching. </I><B>| just | briefly </B><I>His fingers briefly touched hers. </I><B>| gently, lightly | gingerly | accidentally, inadvertently </B><I>He accidentally touched a live wire attached to overhead power cables. </I><B>| never </B><I>He said I kicked him, but I never touched him! </I> </P>
+<P> <U> VERB + TOUCH </U><B> want to | (not) dare (to) </B><I>Don't you dare touch me! </I><B>| reach out to </B><I>Her hand reached out to touch his cheek. </I><B>| let sb </B><I>He wouldn't let me touch the wound. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>He touched her gently on the arm. </I><B>| with </B><I>She touched him with her hand. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make sb feel a strong emotion </TT> </P>
+<P> <U> ADV. </U><B> deeply </B><I>The story touched me very deeply. </I><B>PHRASAL VERBS touch on/upon sth </B> </P>
+<P> <U> ADV. </U><B> briefly | just, merely </B><I>Photojournalism and the birth of photography are merely touched on in the book. </I> </P>
+<P> <U> VERB + TOUCH </U><B> want to </B><I>I want to touch briefly on another aspect of the problem. </I> </P>
+</DIV>

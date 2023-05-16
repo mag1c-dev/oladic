@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>beef </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fresh | lean | fatty | tender | tough | prime | organic | medium, rare, well done </B><I>&lsquo;How would you like your beef?&rsquo; &lsquo;Rare, please.&rsquo; </I><B>| roast | corned, minced, salted </B><I>a kilo of very lean minced beef </I> </P>
+<P> <U> QUANT. </U><B> bit, piece, slice | fillet, joint, rib, side </B> </P>
+<P> <U> VERB + BEEF </U><B> eat | boil, braise, cook, fry, roast, stew | carve, cut </B><I>carving a joint of beef </I> </P>
+<P> <U> BEEF + NOUN </U><B> stew, stock | cattle | farmer | industry, production</B> </P>
+</DIV>

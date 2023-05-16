@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>communication </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of communicating </TT> </P>
+<P> <U> ADJ. </U><B> effective, good </B><I>Good communication is important for business. </I><B>| poor | direct | open | two-way | interpersonal | regular | electronic, non-verbal, verbal, written | business </B> </P>
+<P> <U> VERB + COMMUNICATION </U><B> have </B><I>I haven't had any communication with him for several years. </I><B>| establish | facilitate, improve | prevent </B><I>measures which prevented the prisoners' communication with the outside world </I> </P>
+<P> <U> COMMUNICATION + VERB </U><B> break down </B><I>Communication between the two sides has broken down. </I> </P>
+<P> <U> COMMUNICATION + NOUN </U><B> skills | breakdown </B> </P>
+<P> <U> PREP. </U><B> in ~ with </B><I>We are in regular communication with the kidnappers. </I><B>| ~ between </B><I>to establish direct communication between the lookout towers </I><B>| ~ by </B><I>communication by letter </I><B>| ~ with </B><I>We need better communication with clients. </I> </P>
+<P> <U> PHRASES </U><B> a breakdown in communication(s), channels/lines of communication </B><I>to keep open the channels of communication </I><B>| a lack of communication, a means/method/system of communication </B><I>Letters are their only means of communication. </I></P>
+<P> <SUP> 2 </SUP> <TT> communications: systems for sending information  </TT> </P>
+<P> <U> ADJ. </U><B> good | online | global, international | mass | radio, rail, road, telephone </B> </P>
+<P> <U> VERB + COMMUNICATION </U><B> have | cut off, disrupt </B> </P>
+<P> <U> COMMUNICATION + NOUN </U><B> centre, links, network, satellite, system, technology </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>They tried to disrupt communications between the two headquarters. </I><B>| ~ with </B><I>Paris has good rail communications with other major cities. </I> </P>
+<P> <SUP> 3 </SUP> <TT> message </TT> </P>
+<P> <U> ADJ. </U><B> formal, official </B> </P>
+<P> <U> VERB + COMMUNICATION </U><B> receive | send </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>He received an official communication about the reorganization of the Ministry. </I><B>| ~ from, ~ to </B><I>a communication from the officer to the general </I> </P>
+</DIV>

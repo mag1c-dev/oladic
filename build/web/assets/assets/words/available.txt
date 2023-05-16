@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>available </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> that you can get, buy, use, etc. </TT> </P>
+<P> <U> VERBS </U><B> be | become | make sth </B><I>The product will now be made available throughout the market. </I> </P>
+<P> <U> ADV. </U><B> easily, freely, readily | widely </B> </P>
+<P> <U> PREP. </U><B> for </B><I>Grants should be available for all students. </I><B>| from </B><I>Details are available from the above address. </I><B>| to </B><I>This information is freely available to anyone wishing to see it. </I> </P>
+<P> <U> PHRASES </U><B> available for hire/sale </B> </P>
+<P> <SUP> 2 </SUP> <TT> free to be seen, talked to, etc. </TT> </P>
+<P> <U> VERBS </U><B> be | become </B><I>She is in a meeting at present, but I will let you know as soon as she becomes available. </I> </P>
+<P> <U> PHRASES </U><B> not available for comment </B><I>The chairman was not available for comment. </I> </P>
+</DIV>

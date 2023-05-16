@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>boom </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> period of sudden increase </TT> </P>
+<P> <U> ADJ. </U><B> great | post-war | consumer, credit, economic, investment, spending | building, housing, property | oil | baby </B> </P>
+<P> <U> VERB + BOOM </U><B> cause, create, fuel, lead to </B><I>The boom was fuelled by accelerated demand for consumer products. </I> </P>
+<P> <U> BOOM + NOUN </U><B> period, time, year | town </B> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>He was born during the post-war baby boom. </I><B>| ~ in </B><I>a boom in house prices </I> </P>
+<P> <U> PHRASES </U><B> boom and bust/slump </B><I>the ordinary business cycle of boom and bust </I> </P>
+<P> <SUP> 2 </SUP> <TT> deep hollow sound </TT> </P>
+<P> <U> ADJ. </U><B> big | deep | distant | sonic </B>(= the explosive sound made when an aircraft flies faster than the speed of sound) <I>We heard the sonic boom of a jet overhead. </I> </P>
+<P> <U> VERB + BOOM </U><B> hear </B> </P>
+<P> <U> BOOM + VERB </U><B> echo </B><I>The deep boom of a foghorn echoed across the bay. </I> </P>
+<P> <U> PREP. </U><B> with a ~</B> </P>
+</DIV>

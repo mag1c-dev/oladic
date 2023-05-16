@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>evening </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of the day </TT> </P>
+<P> <U> ADJ. </U><B> this, tomorrow, yesterday | Friday, Saturday, etc. | April, May, etc. | spring, summer, etc. | long </B><I>the long winter evenings </I><B>| dark | quiet | balmy, beautiful, fine, golden, warm | cold, cool, dry | early, late </B><I>It was early evening and very still. </I> </P>
+<P> <U> VERB + EVENING </U><B> spend </B><I>We spent the evening walking round the town. </I> </P>
+<P> <U> EVENING + VERB </U><B> progress, wear on </B><I>As the evening wore on, Phil became very drunk. </I> </P>
+<P> <U> EVENING + NOUN </U><B> light, star | meal | shift, work | class, course | entertainment, performance | prayer, service | rush hour | news, newspaper, paper </B> </P>
+<P> <U> PREP. </U><B> during the ~, for an/the ~ </B><I>Her parents were out for the evening. </I><B>| in the ~, on Friday, etc. ~ </B> </P>
+<P> <U> PHRASES </U><B> an/the evening off/out </B><I>You deserve an occasional evening out. </I><B>| good evening </B> </P>
+<P> <SUP> 2 </SUP> <TT> event happening in the evening </TT> </P>
+<P> <U> ADJ. </U><B> gala, musical, social | open, parents' </B><I>Prospective students were invited to the school's open evening. </I><B>| convivial, enjoyable, lovely, memorable, pleasant, successful, wonderful </B> </P>
+<P> <U> VERB + EVENING </U><B> hold </B><I>The club will hold a social evening to welcome new members. </I> </P>
+<P> <U> EVENING + NOUN </U><B> clothes, dress, gown, wear </B> </P>
+<P> <U> PREP. </U><B> during the ~, for the ~</B> </P>
+</DIV>

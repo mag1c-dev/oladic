@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>hum </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> faint, soft | low | high-pitched | constant, continuous, steady </B><I>I could hear the constant hum of distant traffic. </I><B>| background </B> </P>
+<P> <U> VERB + HUM </U><B> hear </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the background hum of the air-conditioning </I> </P>
+</DIV><DIV class="item"><P class="word"><B>hum </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> quietly, softly | happily | tunelessly | along </B><I>humming along with the music </I> </P>
+<P> <U> VERB + HUM </U><B> begin to </B><I>He began to hum, somewhat tunelessly. </I> </P>
+<P> <U> PHRASES </U><B> hum to yourself </B><I>She was humming softly to herself. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>rat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> black, brown | laboratory | sewer | water </B> </P>
+<P> <U> RAT + VERB </U><B> scurry, scuttle </B><I>A brown rat scurried across the road. </I><B>| squeak | gnaw </B><I>Rats had gnawed through the wires. </I><B>| carry/spread disease </B> </P>
+<P> <U> RAT + NOUN </U><B> catcher </B><I>The dog was a useful rat catcher in the warehouse. </I><B>| droppings | poison </B> </P>
+<P> <U> PHRASES </U><B> rat-infested </B><I>a rat-infested cellar </I> </P>
+</DIV>

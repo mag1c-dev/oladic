@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>perspective </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in art </TT> </P>
+<P> <U> ADJ. </U><B> distorted | horizontal, vertical </B> </P>
+<P> <U> PREP. </U><B> in ~, out of ~ </B><I>That tree is out of perspective. </I> </P>
+<P> <U> PHRASES </U><B> the laws of perspective </B> </P>
+<P> <SUP> 2 </SUP> <TT> attitude to sth </TT> </P>
+<P> <U> ADJ. </U><B> different, new | broader, wider | proper, true </B><I>We can now see things in their true perspective. </I><B>| cultural, historical, political, social, theoretical, etc. </B> </P>
+<P> <U> VERB + PERSPECTIVE </U><B> get sth in/into, place sth in/into, put sth in/into, see sth in </B><I>Her death put everything else into perspective. </I><B>| gain, get, put </B><I>When you reach middle age you get a different perspective on life. This website puts a completely different perspective on world news. </I><B>| keep | lose | adopt </B><I>The book adopts a historical perspective. </I><B>| shift | provide </B> </P>
+<P> <U> PREP. </U><B> from the ~ of </B><I>We should view this from the perspective of the people involved. </I><B>| in/into ~ </B><I>Let's get this into perspective. </I><B>| ~ in </B><I>a feminist perspective in philosophy </I><B>| ~ on/upon </B><I>It's easy to lose perspective on things when you are under stress. </I> </P>
+<P> <U> PHRASES </U><B> a sense of perspective</B> </P>
+</DIV>

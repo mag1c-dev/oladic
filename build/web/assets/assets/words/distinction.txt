@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>distinction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> clear difference </TT> </P>
+<P> <U> ADJ. </U><B> critical, crucial, important, key, main, major, vital | basic, essential, fundamental, underlying | clear, clear-cut, definite, marked, obvious, real, rigid, sharp, strong | fine, subtle | broad, general | crude, simple | logical, valid | useful | arbitrary, artificial | invidious </B><I>making invidious distinctions between the &lsquo;deserving&rsquo; and the &lsquo;undeserving&rsquo; poor </I><B>| absolute </B><I>Is there always an absolute distinction between right and wrong? </I><B>| conventional, old, traditional </B><I>the conventional distinction between pure and applied science </I><B>| formal | conceptual | theoretical | class, cultural, gender, moral </B> </P>
+<P> <U> VERB + DISTINCTION </U><B> draw, make </B><I>She draws an important distinction between the different kinds of illness. </I><B>| recognize, see </B><I>We can see a sharp distinction between ambition and greed. </I><B>| blur </B><I>blurring the distinction between amateur and professional players </I> </P>
+<P> <U> DISTINCTION + VERB </U><B> lie </B><I>Cultural distinctions lie at the heart of these issues. </I> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>All groups are entitled to this money without distinction </I>(= without a difference being made between them)</B><I>. </I><B>| ~ between </B> </P>
+<P> <SUP> 2 </SUP> <TT> excellence/fame </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great | modest | dubious | rare | unique | added | academic, intellectual, professional, social </B><I>Wearing the county tie was a mark of modest social distinction. </I> </P>
+<P> <U> VERB + DISTINCTION </U><B> have </B><I>He has the dubious distinction of being the first railway baron to go bankrupt. </I><B>| achieve </B><I>She achieved distinction in several fields of scholarship. </I><B>| add </B><I>Fennel leaves add distinction to any dish. </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>She is a historian of great distinction. </I><B>| with ~ </B><I>He served with distinction in the First World War. </I> </P>
+</DIV>

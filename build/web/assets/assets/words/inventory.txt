@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>inventory </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, comprehensive, detailed, full </B> </P>
+<P> <U> VERB + INVENTORY </U><B> compile, draw up, make, produce, take </B><I>The manager is compiling an inventory of all the hotel furniture. </I><B>| list sth on </B> </P>
+<P> <U> INVENTORY + VERB </U><B> list sth </B><I>The inventory lists many rare items. </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>There were no forks in the inventory. </I><B>| on an/the ~ </B><I>That lamp isn't listed on the inventory. </I> </P>
+</DIV>

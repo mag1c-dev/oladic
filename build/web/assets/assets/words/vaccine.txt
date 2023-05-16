@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>vaccine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> effective, safe | measles, rubella, etc. </B><I>The polio vaccine has saved millions of lives. </I><B>| live </B><I>a live vaccine containing the polio virus </I> </P>
+<P> <U> QUANT. </U><B> dose </B><I>one dose of BCG vaccine </I> </P>
+<P> <U> VERB + VACCINE </U><B> give sb | have, receive | develop </B> </P>
+<P> <U> VACCINE + VERB </U><B> protect sb </B><I>The vaccine protects babies and children against tuberculosis. </I><B>| prevent sth </B><I>a vaccine to prevent rubella </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>Researchers are trying to develop a vaccine against the disease. </I><B>| ~ for </B><I>a vaccine for meningitis </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>knot </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> loose, tight | granny, reef, slip, etc. </B> </P>
+<P> <U> VERB + KNOT </U><B> do, tie </B><I>Tie a knot in the rope. </I><B>| undo, untie | loosen, tighten</B> </P>
+</DIV><DIV class="item"><P class="word"><B>knot </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> securely, tightly | loosely | neatly | badly, clumsily | together </B><I>I knotted the ropes together securely. </I> </P>
+<P> <U> PREP. </U><B> around/round </B><I>She knotted the scarf loosely around her neck. </I> </P>
+</DIV>

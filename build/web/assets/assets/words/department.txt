@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>department </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a government </TT> </P>
+<P> <U> ADJ. </U><B> government | education, health, social services, etc. | fire, police </B><I>The Tokyo police department is clamping down on organized crime. </I> </P>
+<P> <U> DEPARTMENT + NOUN </U><B> official, spokesman, spokesperson, spokeswoman, staff </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the Department of the Environment </I> </P>
+<P> <SUP> 2 </SUP> <TT> of an organization </TT> </P>
+<P> <U> ADJ. </U><B> accident and emergency, casualty, outpatient, physiotherapy | design, finance, marketing, personnel, planning, publicity, sales, etc. | biology, English, maths, etc. </B> </P>
+<P> <U> VERB + DEPARTMENT </U><B> manage, run </B><I>Staff criticized the way the history department was run. </I> </P>
+<P> <U> DEPARTMENT + NOUN </U><B> head, manager, staff </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Complaints are dealt with in a different department. </I><B>| within a/the ~ </B><I>to gain promotion within the department </I><B>| ~ of </B><I>the Department of Town Planning </I> </P>
+<P> <U> PHRASES </U><B> the head of (a) department, a member of a department</B> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>assault </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> crime of attacking sb </TT> </P>
+<P> <U> ADJ. </U><B> brutal, savage, vicious, violent | common </B><I>(law) </I><B>| aggravated </B><I>(law)</I>, <B>serious | alleged | attempted | indecent, physical, racial, sexual | police </B> </P>
+<P> <U> QUANT. </U><B> series, wave </B> </P>
+<P> <U> VERB + ASSAULT </U><B> carry out, commit </B><I>assaults committed by teenagers </I><B>| be the victim of, suffer </B> </P>
+<P> <U> ASSAULT + VERB </U><B> happen, take place </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>Better street lighting has helped reduce the number of assaults against women. </I><B>| ~ on/upon </B> </P>
+<P> <U> PHRASES </U><B> allegations of assault </B><I>allegations of police assault on the boy </I><B>| assault and battery </B><I>(law) </I></P>
+<a href="/collocation-tag/crimes" class="tag">Learn more about CRIMES</a>
+
+<P> <SUP> 2 </SUP> <TT> military/verbal attack </TT> </P>
+<P> <U> ADJ. </U><B> all-out, direct, frontal, full-scale, major, massive </B><I>After an all-out assault the village was captured by the enemy. </I><B>| fresh, further | sustained </B><I>She used the article to make a sustained assault on her former political allies. </I><B>| successful | air, amphibious, ground </B><I>air assaults by fighter planes </I><B>| military | verbal </B> </P>
+<P> <U> QUANT. </U><B> series </B> </P>
+<P> <U> VERB + ASSAULT </U><B> carry out, launch (into), lead, make, mount </B><I>Enemy troops launched an assault on the town. He launched into a verbal assault on tabloid journalism. </I><B>| come under </B><I>The factory came under assault from soldiers in the mountains </I><B>| withstand </B><I>The garrison was built to withstand assaults. </I> </P>
+<P> <U> ASSAULT + NOUN </U><B> course </B><I>They took part in a vigorous army assault course. </I><B>| rifle | force </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>Today these values are under assault. </I><B>| ~ on </B><I>a series of assaults on enemy targets </I> </P>
+</DIV><DIV class="item"><P class="word"><B>assault </B><I>ver</I>b </B> </P>
+<P> <U> ADV. </U><B> badly, brutally, savagely, seriously, violently | indecently, physically, sexually, verbally</B> </P>
+</DIV>

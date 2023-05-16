@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>outbreak </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, major, serious | fresh, further, new | occasional, periodic, sporadic | recurrent, repeated | sudden | cholera, salmonella, etc. </B> </P>
+<P> <U> VERB + OUTBREAK </U><B> lead to </B><I>the events that led to the outbreak of World War I </I> </P>
+<P> <U> OUTBREAK + VERB </U><B> occur </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>A new outbreak of smallpox occurred in 1928. </I> </P>
+<P> <U> PHRASES </U><B> an outbreak of disease, an outbreak of rain, an outbreak of war/fighting/hostilities/violence</B> </P>
+</DIV>

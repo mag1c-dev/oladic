@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>irregular </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not regular in size/shape/frequency </TT> </P>
+<P> <U> VERBS </U><B> be, look | become </B> </P>
+<P> <U> ADV. </U><B> highly, very | rather, slightly, somewhat </B><I>The cells are slightly irregular in shape. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not allowed according to the rules </TT> </P>
+<P> <U> VERBS </U><B> be, seem, sound </B> </P>
+<P> <U> ADV. </U><B> highly, most, very </B><I>It would be highly irregular for a police officer to accept money in this way. </I><B>| slightly, somewhat </B><I>some somewhat irregular business practices </I> </P>
+</DIV>

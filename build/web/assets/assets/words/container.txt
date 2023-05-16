@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>container </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> box/bottle/packet, etc. </TT> </P>
+<P> <U> ADJ. </U><B> shallow | airtight, closed, sealed, watertight | insulated | empty | full | durable </B><I>Store food in durable containers with lids. </I><B>| recyclable, refillable | child-proof, child resistant | ideal, suitable, useful </B><I>Tubes are the ideal container for paint as air is excluded. </I><B>| special | storage | aluminium, cardboard, glass, metal, plastic, steel, wooden | food, milk, water </B> </P>
+<P> <U> VERB + CONTAINER </U><B> fill </B><I>Fill the container with water. </I><B>| store sth in </B> </P>
+<P> <U> CONTAINER + VERB </U><B> contain sth, hold sth </B><I>a container holding five litres </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Keep the seeds in an airtight container. </I><B>| ~ for </B><I>childproof containers for dangerous substances </I><B>| ~ of </B><I>a container of milk </I> </P>
+<P> <SUP> 2 </SUP> <TT> large metal box for transporting goods </TT> </P>
+<P> <U> ADJ. </U><B> empty | full | bulk, cargo </B> </P>
+<P> <U> CONTAINER + VERB </U><B> contain sth, hold sth </B><I>containers holding shipments of bananas </I> </P>
+<P> <U> CONTAINER + NOUN </U><B> lorry, ship, truck | port</B> </P>
+</DIV>

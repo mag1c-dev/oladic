@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>empathy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, great, real | total </B> </P>
+<P> <U> VERB + EMPATHY </U><B> feel, have | demonstrate, show | develop, establish </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>The nurse should try to develop empathy between herself and the patient. </I><B>| ~ for </B><I>I felt real empathy for my mother and what she had been through. </I><B>| ~ with </B><I>She had a deep empathy with animals. </I> </P>
+<P> <U> PHRASES </U><B> a feeling of empathy, a lack of empathy</B> </P>
+</DIV>

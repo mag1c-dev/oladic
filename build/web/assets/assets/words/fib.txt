@@ -1,0 +1,4 @@
+
+<DIV class="item"><P class="word"><B>fib </B><I>noun</I> </B> </P>
+<P> <U> VERB + FIB </U><B> tell </B><I>Don't tell fibs</I>! </B> </P>
+</DIV>

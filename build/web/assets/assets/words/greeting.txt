@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>greeting </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> first words you say when you meet sb </TT> </P>
+<P> <U> ADJ. </U><B> formal, friendly, polite </B> </P>
+<P> <U> VERB + GREETING </U><B> call (out), nod, shout, smile, wave </B><I>He jumped to his feet and called out a greeting. They said nothing, but nodded a polite greeting. </I><B>| exchange </B><I>The delegates shook hands and exchanged greetings. </I><B>| acknowledge, respond to, return </B><I>I said &lsquo;Good morning!&rsquo;, but she didn't return the greeting. </I><B>| ignore </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He held out his hand in greeting. </I></P>
+<P> <SUP> 2 </SUP> <TT> greetings: good wishes  </TT> </P>
+<P> <U> ADJ. </U><B> affectionate, personal, warm | birthday, Christmas, New Year, seasonal </B> </P>
+<P> <U> VERB + GREETING </U><B> bring, extend, send (sb) </B><I>He brought Christmas greetings from the whole family. We extend our greetings to you and thank you for listening to us. </I> </P>
+<P> <U> GREETING + NOUN </U><B> card</B> </P>
+</DIV>

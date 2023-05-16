@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>evaluation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> comprehensive, thorough | objective | critical </B><I>a critical evaluation of the film </I><B>| job </B><I>a new pay structure based on job evaluations </I> </P>
+<P> <U> VERB + EVALUATION </U><B> carry out, make </B><I>We've still got to carry out an evaluation of the results. </I> </P>
+<P> <U> EVALUATION + NOUN </U><B> procedure, process | study </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>In their evaluation of the project, they considered only certain aspects of it. </I><B>| under ~ </B><I>The new scheme is still under evaluation. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>snap </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> break suddenly with a sharp noise </TT> </P>
+<P> <U> ADV. </U><B> suddenly </B><I>The branch suddenly snapped. </I> </P>
+<P> <U> PHRASES </U><B> snap (sth) in half/two </B><I>She picked up the pencil and snapped it in two. </I> </P>
+<P> <SUP> 2 </SUP> <TT> move (sth) quickly with a sharp noise </TT> </P>
+<P> <U> PHRASES </U><B> snap (sth) open/shut </B><I>She snapped the lid shut. </I><B>| snap (sth) together </B><I>The plastic pieces snap together to make a replica of a dinosaur. </I> </P>
+<P> <SUP> 3 </SUP> <TT> speak in a quick angry way </TT> </P>
+<P> <U> ADV. </U><B> angrily, impatiently, irritably, sarcastically, sharply | back </B><I>&lsquo;How should I know?&rsquo; Zen snapped back. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He lost his temper and snapped irritably at the children. </I> </P>
+<P> <SUP> 4 </SUP> <TT> lose control </TT> </P>
+<P> <U> ADV. </U><B> finally </B><I>My patience finally snapped. </I> </P>
+</DIV>

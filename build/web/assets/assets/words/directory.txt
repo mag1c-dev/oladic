@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>directory </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> business, shopping, telephone, trade </B><I>I found the company's name in a trade directory. </I> </P>
+<P> <U> VERB + DIRECTORY </U><B> consult, look sb/sth up in | compile, create | edit | produce, publish </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Names are listed alphabetically in the directory. </I><B>| ~ of </B><I>a directory of names and numbers </I> </P>
+</DIV>

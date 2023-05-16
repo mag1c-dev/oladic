@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>inference </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fair, logical, reasonable | obvious </B> </P>
+<P> <U> VERB + INFERENCE </U><B> draw, make </B> </P>
+<P> <U> INFERENCE + VERB </U><B> be based on sth </B><I>inferences based on their answers to a number of set questions </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>In the absence of detailed documentary evidence, we can only make inferences about Minoan religion. </I><B>| ~ from </B><I>The value of data depends on our skill in drawing inferences from it. </I> </P>
+</DIV>

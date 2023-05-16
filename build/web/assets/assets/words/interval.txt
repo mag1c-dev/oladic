@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>interval </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, short </B><I>She ruled for ten years, except for a brief interval. </I><B>| long, wide </B><I>You are advised to leave a wide interval before you have your next child. </I><B>| decent </B> </P>
+<P> <U> PREP. </U><B> at ~s </B><I>At intervals a bell rings and workers stop for a drink. </I><B>| ~ between </B><I>The intervals between his various illnesses grew shorter and shorter. </I> </P>
+<P> <U> PHRASES </U><B> at fixed/frequent/periodic/regular intervals </B><I>Trains run at fixed intervals. He returned home during the day at regular intervals. </I><B>| at hourly/weekly/fortnightly/monthly, etc. intervals </B><I>Meetings are held at monthly intervals. </I> </P>
+</DIV>

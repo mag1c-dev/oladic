@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>discharge </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> substance </TT> </P>
+<P> <U> ADJ. </U><B> thick | nasal, vaginal, etc. | effluent, industrial, sewage, waste | electrical, radioactive </B><I>thunder and lightning caused by an electrical discharge </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a thick discharge from the nose </I> </P>
+<P> <SUP> 2 </SUP> <TT> from court </TT> </P>
+<P> <U> ADJ. </U><B> absolute | conditional </B> </P>
+<P> <U> VERB + DISCHARGE </U><B> give </B><I>He was given an absolute discharge but banned from driving for 12 months. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>discharge </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> from army/navy, etc. </TT> </P>
+<P> <U> ADV. </U><B> dishonourably, honourably </B> </P>
+<P> <U> PREP. </U><B> from </B><I>He was found guilty and dishonourably discharged from the army. </I> </P>
+<P> <SUP> 2 </SUP> <TT> from prison/court </TT> </P>
+<P> <U> ADV. </U><B> conditionally </B><I>He was conditionally discharged after admitting the theft. </I> </P>
+<P> <SUP> 3 </SUP> <TT> gas/liquid </TT> </P>
+<P> <U> ADV. </U><B> directly </B> </P>
+<P> <U> PREP. </U><B> from, into </B><I>Raw sewage was discharged from the treatment plant directly into the river. </I> </P>
+</DIV>

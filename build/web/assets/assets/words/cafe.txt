@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cafe </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pavement, transport </B> </P>
+<P> <U> VERB + CAFE </U><B> go to | manage, run | own </B> </P>
+<P> <U> CAFE + VERB </U><B> serve sth </B><I>a pavement cafe serving drinks and light meals </I> </P>
+<P> <U> PREP. </U><B> in a/the ~</B> </P>
+</DIV>

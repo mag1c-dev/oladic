@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>quarrel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bitter, fierce, serious, violent | family, internal, lovers', private | long-standing, old </B> </P>
+<P> <U> VERB + QUARREL </U><B> pick </B><I>I don't want to pick a quarrel with her. </I><B>| be/become/get involved in </B><I>He got involved in a quarrel with his neighbour. </I><B>| make up, patch up, settle </B> </P>
+<P> <U> QUARREL + VERB </U><B> break out, ensue </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a quarrel about money </I><B>| ~ between </B><I>a quarrel between family members </I><B>| ~ over </B><I>a quarrel over the ownership of a piece of land </I><B>| ~ with </B><I>Our quarrel is not with the people, but with their leader. </I> </P>
+<P> <U> PHRASES </U><B> have no quarrel with sb/sth </B><I>We have no quarrel with their plans, in fact we support them. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>quarrel </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> bitterly, fiercely, violently </B> </P>
+<P> <U> PREP. </U><B> about, over </B><I>What did you two quarrel about? </I><B>| with </B><I>He wished he hadn't quarrelled with Tania. </I> </P>
+</DIV>

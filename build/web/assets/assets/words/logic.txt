@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>logic </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> system of reasoning </TT> </P>
+<P> <U> ADJ. </U><B> formal | deductive, inductive </B> </P>
+<P> <U> VERB + LOGIC </U><B> apply, use </B><I>Philosophers use logic to prove their arguments. </I> </P>
+<P> <SUP> 2 </SUP> <TT> use of reason </TT> </P>
+<P> <U> ADJ. </U><B> compelling, exquisite, impeccable, inexorable </B><I>There is a compelling logic to his main theory. </I><B>| strict | internal, underlying | commercial, economic, political, scientific </B><I>There is sound commercial logic in never giving credit to retailers. </I> </P>
+<P> <U> VERB + LOGIC </U><B> accept, follow, understand </B><I>I can't follow the logic of what you are saying. </I><B>| defy </B><I>It's a stupid decision that completely defies logic. </I><B>| apply, use </B><I>You can't use the same logic in dealing with children. </I> </P>
+<P> <U> PREP. </U><B> ~ behind </B><I>What's the logic behind this decision? </I><B>| ~ in </B><I>There doesn't seem to be any logic in the move. </I> </P>
+</DIV>

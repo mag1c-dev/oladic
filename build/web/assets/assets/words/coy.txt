@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>coy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> pretending to be shy </TT> </P>
+<P> <U> VERBS </U><B> be | go </B> </P>
+<P> <U> ADV. </U><B> all, extremely, very </B><I>He went all coy when I mentioned her name. </I><B>| a bit, a little, rather </B><I>She gave him a rather coy look. </I> </P>
+<P> <SUP> 2 </SUP> <TT> unwilling to say sth directly </TT> </P>
+<P> <U> VERBS </U><B> be | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very | a little, rather </B><I>Alicia was a little coy about how much the new dress had cost. </I><B>| uncharacteristically </B> </P>
+<P> <U> PREP. </U><B> about</B> </P>
+</DIV>

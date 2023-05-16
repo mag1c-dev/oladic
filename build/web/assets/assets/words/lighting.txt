@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>lighting </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bright, good, strong | low, poor, soft, subdued, subtle | adequate | artificial, natural | electric, fluorescent, gas, neon, strip | street | stage | domestic | emergency </B><I>The generator supplies emergency lighting. </I><B>| background | concealed | security </B> </P>
+<P> <U> QUANT. </U><B> level </B> </P>
+<P> <U> VERB + LIGHTING </U><B> have </B><I>The kitchen hasn't really got adequate lighting. </I><B>| fit, instal, put in </B> </P>
+<P> <U> LIGHTING + NOUN </U><B> level | arrangement, scheme, system </B><I>a typical lighting scheme for a house </I><B>| effects | engineer</B> </P>
+</DIV>

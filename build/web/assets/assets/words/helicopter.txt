@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>helicopter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> air force, military, police | civilian, private | rescue | model </B> </P>
+<P> <U> VERB + HELICOPTER </U><B> fly </B><I>He flew helicopters during the Gulf War. </I> </P>
+<P> <U> HELICOPTER + VERB </U><B> fly | hover </B><I>The helicopter hovered above the air strip. </I><B>| take off | land | crash | carry sb </B><I>a helicopter carrying troops </I> </P>
+<P> <U> HELICOPTER + NOUN </U><B> flight | pad | pilot | gunship </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The victims were flown to hospital by helicopter. </I><B>| in a/the ~ </B><I>There were three people in the helicopter when it crashed. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>beg </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> ask sb for food, money, etc. </TT> </P>
+<P> <U> VERB + BEG </U><B> be forced to, have to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>begging for food </I><B>| from </B><I>He had to beg food from passers-by. </I> </P>
+<P> <SUP> 2 </SUP> <TT> ask for sth with great emotion </TT> </P>
+<P> <U> ADV. </U><B> almost, practically </B><I>In the end they almost begged him to take the job. </I><B>| humbly </B><I>We humbly beg Your Majesty to show mercy. </I><B>| silently </B><I>Don't leave me, he begged her silently. </I> </P>
+<P> <U> VERB + BEG </U><B> be forced to, have to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>We went to him to beg for forgiveness. </I><B>| of </B><I>(formal) Do not do that, I beg of you. </I> </P>
+</DIV>

@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>pressure </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> force produced by pressing </TT> </P>
+<P> <U> ADJ. </U><B> gentle, light | firm | downward </B> </P>
+<P> <U> VERB + PRESSURE </U><B> apply, put | reduce </B> </P>
+<P> <SUP> 2 </SUP> <TT> force of a gas or liquid </TT> </P>
+<P> <U> ADJ. </U><B> high, low | air, blood, water </B><I>an instrument for measuring blood pressure </I><B>| atmospheric, barometric </B> </P>
+<P> <U> PRESSURE + VERB </U><B> build up, increase, rise | ease, fall </B> </P>
+<P> <SUP> 3 </SUP> <TT> cause of worry </TT> </P>
+<P> <U> ADJ. </U><B> considerable, constant, intolerable, undue, unrelenting | commercial, competitive, economic, financial, political, social </B><I>The economic pressures on small businesses are intense. </I> </P>
+<P> <U> VERB + PRESSURE </U><B> place/put sb under | cope with, withstand | escape, get away (from) </B><I>It's an ideal place in which to relax and escape the pressures of modern life. </I><B>| reduce </B> </P>
+<P> <U> PRESSURE + VERB </U><B> build up, increase </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>He's felt under pressure since his wife had the operation. </I><B>| ~ on </B><I>There's a lot of pressure on the soldiers preparing for battle. </I> </P>
+<P> <U> PHRASES </U><B> pressure of work </B><I>The holiday was a welcome relief from the pressure of work. </I> </P>
+<P> <SUP> 4 </SUP> <TT> attempt to persuade/influence sb </TT> </P>
+<P> <U> ADJ. </U><B> enormous, great, intense, strong, tremendous </B><I>There is intense pressure on her to resign. </I><B>| growing, increasing, mounting | popular </B><I>The government bowed to popular pressure and repealed the law. </I><B>| peer, peer-group </B><I>She started smoking because of peer pressure. </I> </P>
+<P> <U> VERB + PRESSURE </U><B> bring to bear, exert, place/put (sb under) </B><I>This concession would not have happened but for the pressure that was brought to bear on the authorities. My parents never put any pressure on me to get a job. </I><B>| be brought under, be under, come under, face </B><I>Hospital staff are coming under pressure to work longer hours. </I><B>| resist, withstand | bow to, give in to, respond to </B><I>The editor bowed to pressure from his staff, and the article was suppressed. </I> </P>
+<P> <U> PRESSURE + VERB </U><B> intensify, mount </B> </P>
+<P> <U> PRESSURE + NOUN </U><B> group </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>Management is under pressure to set an example on pay restraint. </I><B>| ~ for </B><I>pressure for change in the country's economy </I><B>| ~ from </B><I>pressure from religious groups </I><B>| ~ on </B><I>pressure on foreign diplomats </I> </P>
+</DIV>

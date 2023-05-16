@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>terrorism </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> urban | international, organized, state </B> </P>
+<P> <U> VERB + TERRORISM </U><B> combat, fight | defeat | give in to </B><I>This government will not give in to terrorism. </I> </P>
+<P> <U> TERRORISM + NOUN </U><B> campaign </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>Public cooperation is vital in the fight against terrorism. </I> </P>
+<P> <U> PHRASES </U><B> an act of terrorism </B></P>
+<a href="/collocation-tag/crimes" class="tag">Learn more about CRIMES</a>
+</DIV>

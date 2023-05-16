@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>music </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> written signs that represent musical sounds </TT> </P>
+<P> <U> ADJ. </U><B> printed, sheet </B> </P>
+<P> <U> QUANT. </U><B> bar, line, sheet </B> </P>
+<P> <U> VERB + MUSIC </U><B> read </B><I>Can you read music? </I> </P>
+<P> <U> MUSIC + NOUN </U><B> score | stand </B><I>Put your music on the music stand. </I><B>| publisher, publishing </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>music for piano, cello and voice </I> </P>
+<P> <U> PHRASES </U><B> play/sing, etc. with/without (the) music</B> </P>
+
+<P> <SUP> 2 </SUP> <TT> arrangement of sounds for singing/playing </TT> </P>
+<P> <U> ADJ. </U><B> beautiful, good, great, wonderful | loud | quiet, soft, sweet </B><I>The soft background music made her feel sleepy. </I><B>| heavy </B><I>Heavy music thundered from the basement. </I><B>| light | serious | tonal | atonal, twelve-note | contrapuntal, polyphonic | original | live | recorded, taped | background | piped | band, choral, instrumental, orchestral, symphonic | guitar, keyboard, organ, piano, vocal, etc. | chamber | church, liturgical, religious, sacred | secular | ballet, film, incidental, theme </B><I>the incidental music for a radio play </I><B>| computer, electronic | Western | traditional | period </B><I>Appropriate period music can be played on visits to a historic building. </I><B>| experimental | avant-garde, Baroque, classical, contemporary, early, medieval, modern | black, calypso, country, dance, disco, ethnic, folk, gospel, indie, jazz, pop/popular, rap, rave, reggae, rock, soul, underground, world </B> </P>
+<P> <U> QUANT. </U><B> piece | bar, line </B> </P>
+<P> <U> VERB + MUSIC </U><B> listen to </B><I>Listening to music is a great way to relax. </I><B>| hear </B><I>She could hear music coming from the upstairs flat. </I><B>| make, perform, play </B><I>We love to make music as a family. </I><B>| play, put on </B><I>Put some music on, would you? </I>(= play a CD/cassette) <B>| turn down/up </B><I>Could you turn that music down? </I><B>| compose, write | arrange | put/set sth to </B><I>Schubert set several poems by Goethe to music. </I><B>| create, produce </B><I>With the guidance of the conductor, an orchestra creates music and harmonies. The city has produced a lot of good music. </I><B>| provide </B><I>a beach party with music provided by a local band </I><B>| broadcast | record | be into, enjoy, like, love </B><I>She's really into rock music. </I><B>| get into </B><I>He got into music </I>(= became involved in the music business) </B><I>by chance. </I> </P>
+<P> <U> MUSIC + VERB </U><B> play </B><I>Calypso music played faintly in the distance. </I><B>| blare, thunder </B><I>disco music blaring out of the open windows of a car </I><B>| come, drift </B><I>The music was coming from next door. </I> </P>
+<P> <U> MUSIC + NOUN </U><B> business, industry | scene </B><I>Birmingham's live music scene </I><B>| world </B><I>She is a rising star in the music world. </I><B>| press </B><I>The album has been praised in the music press. </I><B>| charts </B><I>The band are number one in the music charts. </I><B>| festival | appreciation | fan, lover | critic, director, teacher </B><I>the choir's music director </I><B>| group | centre </B><I>We bought a new television and music centre at the weekend. </I><B>| video | room </B> </P>
+<P> <U> PREP. </U><B> to (the) ~ </B><I>to dance to th</I>e </B><I>musi</I>c </B> </P>
+<P> <U> PHRASES </U><B> in time to (the) music </B><I>They did their exercises in time to the music. </I><B>| music and song </B><I>an evening of Scottish music and song </I><B>| the sound of music </B><I>The sound of pop music drifted through the open window. </I><B>| a style of music, taste in music </B><I>Her taste in music was wide. </I><B>| words and music </B><I>He made up the words and music for the song. </I> </P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+
+</DIV>

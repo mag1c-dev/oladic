@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>precision </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute | great, high </B><I>high precision measurement tools </I><B>| analytical, mathematical, military, surgical, technical </B><I>He organized the team with military precision. </I> </P>
+<P> <U> QUANT. </U><B> degree </B><I>Chimps are able to manipulate objects with a high degree of precision. </I> </P>
+<P> <U> VERB + PRECISION </U><B> call for, demand, require </B><I>surgery which requires great precision </I> </P>
+<P> <U> PRECISION + NOUN </U><B> engineering | bombing </B> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>These items cannot be dated with any precision. </I><B>| ~ in </B><I>a new era of precision in engineering </I> </P>
+<P> <U> PHRASES </U><B> a lack of precision </B><I>Any lack of precision in the contract could give rise to a dispute. </I> </P>
+</DIV>

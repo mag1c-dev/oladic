@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>abundance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, sheer </B><I>We were amazed by the sheer abundance of food. </I><B>| relative </B> </P>
+<P> <U> VERB + ABUNDANCE </U><B> have </B><I>The country has an abundance of natural resources </I><B>| produce, provide </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Exotic plants grew there in great abundance. </I> </P>
+</DIV>

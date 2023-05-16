@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>sergeant </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> officer of low rank in the army/air force </TT> </P>
+<P> <U> ADJ. </U><B> flight, platoon </B></P>
+<a href="/collocation-tag/rank" class="tag">Learn more about RANK</a>
+<P> <SUP> 2 </SUP> <TT> officer in the police </TT> </P>
+<P> <U> ADJ. </U><B> police | detective </B><I>Detective Sergeant Peter Wiles </I><B>| desk, duty, station </B><I>Visitors to the police station should report to the station sergeant. </I> </P>
+<P> <U> PHRASES </U><B> the rank of sergeant</B> </P>
+</DIV>

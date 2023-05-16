@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>plutonium </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> radioactive | civil | military, weapons-grade </B> </P>
+<P> <U> VERB + PLUTONIUM </U><B> extract, produce, recover </B><I>one tonne of plutonium extracted from spent nuclear fuel </I> </P>
+<P> <U> PLUTONIUM + NOUN </U><B> fuel</B> </P>
+</DIV>

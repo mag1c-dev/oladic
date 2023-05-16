@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>posture </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> position of the body </TT> </P>
+<P> <U> ADJ. </U><B> correct, good | bad, poor | erect, upright </B><I>the normal upright posture </I><B>| stiff, stooping | body </B> </P>
+<P> <U> VERB + POSTURE </U><B> have </B><I>She has very good posture. </I><B>| adopt | maintain | change, improve </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He sat in a posture of absolute respect. </I><B>| ~ for </B><I>a poor posture for driving </I> </P>
+<P> <SUP> 2 </SUP> <TT> attitude </TT> </P>
+<P> <U> ADJ. </U><B> defensive | agressive, threatening | military </B> </P>
+<P> <U> VERB + POSTURE </U><B> adopt, assume | maintain </B> </P>
+<P> <U> PREP. </U><B> ~ towards </B><I>to adopt a threatening posture towards an opponent </I> </P>
+</DIV>

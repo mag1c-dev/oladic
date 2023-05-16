@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>gleam </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> soft light </TT> </P>
+<P> <U> ADJ. </U><B> dull, faint | distant </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the distant gleam of the sea </I> </P>
+<P> <U> PHRASES </U><B> a gleam of light </B><I>a faint gleam of light from the doorway </I> </P>
+<P> <SUP> 2 </SUP> <TT> in sb's eyes </TT> </P>
+<P> <U> ADJ. </U><B> cold, dark, strange | predatory, speculative | mischievous, sardonic, wicked | sudden </B> </P>
+<P> <U> VERB + GLEAM </U><B> have </B><I>He had a speculative gleam in his eyes. </I> </P>
+<P> <U> GLEAM + VERB </U><B> come into/enter/light sb's eye/eyes </B><I>A sudden gleam came into her eye as she remembered that tomorrow was her day off. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>A gleam of laughter lit his eyes. </I> </P>
+<P> <U> PHRASES </U><B> a gleam in sb's eye/eyes</B> </P>
+</DIV><DIV class="item"><P class="word"><B>gleam </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> dully, faintly, softly </B><I>Th</I>e </B><I>knife's blade gleamed dully in th</I>e </B><I>dark</I>. </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The long oak table gleamed with polish. </I> </P>
+<P> <U> PHRASES </U><B> gleam golden, white, etc. </B><I>The pebble beach gleamed white in the moonlight. </I> </P>
+</DIV>

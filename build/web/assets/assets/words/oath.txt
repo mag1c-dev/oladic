@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>oath </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> formal promise </TT> </P>
+<P> <U> ADJ. </U><B> sacred, solemn | Hippocratic </B><I>a doctor's Hippocratic oath </I> </P>
+<P> <U> VERB + OATH </U><B> swear, take </B><I>He took an oath of allegiance to his adopted country. </I><B>| break, violate </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>an oath of allegiance/loyalty </I> </P>
+<P> <SUP> 2 </SUP> <TT> in a court of law </TT> </P>
+<P> <U> VERB + OATH </U><B> administer </B><I>Only a judge is allowed to administer the oath. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>He swore on oath that he had never seen me before. </I><B>| under ~ </B><I>Witnesses must testify under oath. </I> </P>
+<P> <SUP> 3 </SUP> <TT> swear word </TT> </P>
+<P> <U> ADJ. </U><B> obscene </B> </P>
+<P> <U> QUANT. </U><B> stream, string </B><I>He muttered a stream of oaths. </I> </P>
+<P> <U> VERB + OATH </U><B> mutter, utter</B> </P>
+</DIV>

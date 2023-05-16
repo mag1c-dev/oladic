@@ -1,0 +1,31 @@
+
+<DIV class="item"><P class="word"><B>measure </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> official action to deal with a problem </TT> </P>
+<P> <U> ADJ. </U><B> appropriate, effective, necessary, practical </B><I>We urge you to adopt all necessary measures to guarantee people's safety. </I><B>| important, key, special | simple | desperate, draconian, drastic, extreme, harsh, radical, repressive, strong, tough | emergency, urgent | interim, short-term, temporary | defensive, precautionary, preventative | disciplinary, punitive | corrective, remedial | safety, security </B><I>New security measures implemented to prevent further violence. </I><B>| austerity, cost-cutting, economy, efficiency | economic, policy | government </B> </P>
+<P> <U> QUANT. </U><B> package, range, series </B><I>a package of measures aimed at cutting pollution </I> </P>
+<P> <U> VERB + MEASURE </U><B> adopt, implement, impose, introduce, take </B><I>Special measures are being taken to protect the local water supplies. </I><B>| propose, suggest </B> </P>
+<P> <U> MEASURE + VERB </U><B> be aimed at sth, be designed to, be intended to </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>tougher measures against racism </I><B>| ~ for </B><I>measures for reducing delays </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount/quantity of sth </TT> </P>
+<P> <U> ADJ. </U><B> broad, considerable, fair, generous, great, significant, substantial, wide </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He poured me a generous measure of whisky. </I> </P>
+<P> <U> PHRASES </U><B> in large/some measure </B><I>His success was due in large measure to your help. </I><B>| in equal measure, in no small measure </B> </P>
+<P> <SUP> 3 </SUP> <TT> unit of size/quantity </TT> </P>
+<P> <U> ADJ. </U><B> accurate, direct, objective, precise </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>an accurate measure of length </I> </P>
+<P> <U> PHRASES </U><B> weights and measures </B> </P>
+<P> <SUP> 4 </SUP> <TT> sign of sth </TT> </P>
+<P> <U> ADJ. </U><B> crude, simple, true, useful </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Landed income was the true measure of the gentry. </I></P>
+<a href="/collocation-tag/measure" class="tag">Learn more about MEASURE</a>
+</DIV><DIV class="item"><P class="word"><B>measure </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> find the size of sth </TT> </P>
+<P> <U> ADV. </U><B> accurately, exactly, precisely | carefully | directly </B><I>Any type of data that could not be directly measured was rejected. </I><B>| easily | experimentally | up </B><I>We need to measure the room up for a new carpet. </I> </P>
+<P> <U> VERB + MEASURE </U><B> be able to, can/cannot </B><I>You can now measure its length more accurately. </I><B>| be easy to, be possible to | be difficult to, be hard to, be impossible to </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She's being measured for her wedding outfit. </I><B>| in </B><I>Cloth is measured in metres. </I> </P>
+<P> <SUP> 2 </SUP> <TT> judge the importance/value/effect of sth </TT> </P>
+<P> <U> ADV. </U><B> easily </B><I>The policy's impact cannot be easily measured. </I><B>| effectively | objectively </B> </P>
+<P> <U> VERB + MEASURE </U><B> can/cannot | be easy to, be possible to | be difficult to, be hard to, be impossible to </B><I>It is hard to measure the benefits to society of this scheme. </I><B>| be used to </B><I>the criteria that are used to measure performance </I> </P>
+<P> <U> PREP. </U><B> according to </B><I>Is it really possible to measure the skills of such jobs according to objective standards? </I><B>| against </B><I>The school's performance is measured against a strict set of criteria. </I><B>| by </B><I>The policy's effectiveness cannot be measured by numbers alone. </I><B>| in terms of </B><I>Success cannot be measured merely in terms of the size of your salary. </I> </P>
+<P> <U> PHRASES </U><B> a method/way of measuring sth</B> </P>
+</DIV>

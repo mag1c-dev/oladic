@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>executive </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person with an important job in business </TT> </P>
+<P> <U> ADJ. </U><B> chief, senior, top </B><I>a top executive in a large corporation </I><B>| junior | key </B><I>contracts to prevent the loss of key executives </I><B>| busy | high-flying, high-powered | female, woman </B><I>The contract gives a female executive maternity leave rights. </I><B>| business, company, corporate, industry | advertising, legal, marketing, media, public relations, sales, television </B> </P>
+<P> <SUP> 2 </SUP> <TT> group of people who run a company/organization </TT> </P>
+<P> <U> ADJ. </U><B> central, national | political | government, party, union </B><I>She is a member of the party's national executive. </I><B>| strong </B><I>Conservatives are by tradition believers in a strong executive. </I><B>| elected </B> </P>
+<P> <U> VERB + EXECUTIVE </U><B> control </B><I>Parliament's ability to control the executive </I> </P>
+<P> <U> EXECUTIVE + VERB </U><B> decide sth </B> </P>
+<P> <U> EXECUTIVE + NOUN </U><B> member | meeting </B> </P>
+<P> <U> PHRASES </U><B> a member of an executive</B> </P>
+</DIV>

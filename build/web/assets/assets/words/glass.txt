@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>glass </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> transparent substance </TT> </P>
+<P> <U> ADJ. </U><B> clear, coloured, opaque, plain, smoked, tinted | broken | flying </B><I>A bomb went off, and many people were injured by flying glass. </I><B>| bulletproof, cut, frosted, plate, safety, stained, toughened </B> </P>
+<P> <U> QUANT. </U><B> piece | pane, sheet | fragment, sliver, splinter </B><I>The floor was littered with fragments of broken glass. </I> </P>
+<P> <U> VERB + GLASS </U><B> blow, make </B><I>watching the Venetian craftsmen blowing glass The factory makes safety glass. </I><B>| break, crack, shatter, smash </B> </P>
+<P> <U> GLASS + VERB </U><B> break, crack, shatter, smash, splinter </B><I>the sound of breaking glass </I> </P>
+<P> <U> GLASS + NOUN </U><B> beads, bottle, bowl, eye, jar, vase | cabinet, case | door, panel, partition, roof, wall | fibre </B><I>a boat made of glass fibre </I> </P>
+<P> <U> PREP. </U><B> behind ~ </B><I>The books were all behind glass </I>(= in glass cases)</B><I>. </I><B>| on ~ </B><I>She cut her foot on some glass. </I><B>| under ~ </B><I>growing fruit under glass </I>(= in a glasshouse) <B>| through ~ </B><I>He could see the light through the frosted glass. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for drinking </TT> </P>
+<P> <U> ADJ. </U><B> brimming, full | half-empty, half-full | empty | beer, brandy, champagne, sherry, whisky, wine | crystal </B><I>a set of crystal glasses </I><B>| tall </B><I>a tall glass of milk </I><B>| fresh </B><I>He poured her a fresh glass of sherry. </I><B>| pint </B><I>beer in a pint glass </I> </P>
+<P> <U> VERB + GLASS </U><B> have </B><I>He had a small glass of lager with his meal. </I><B>| drink, sip </B><I>She sat sipping a glass of champagne. </I><B>| drain, empty | fill, pour, refill, top up </B><I>The waiter filled their glasses. </I><B>| clean, polish, wash </B><I>The butler was polishing the brandy glasses. </I><B>| raise </B><I>She raised the glass to her lips. </I><B>| hand sb </B><I>I handed her a glass of wine. </I><B>| put down, set down </B><I>I put my glass down on the table. </I><B>| clink </B><I>They clinked glasses, still laughing. </I> </P>
+<P> <U> GLASS + VERB </U><B> clink </B><I>He heard glasses clinking in the other room. </I> </P>
+<P> <U> PREP. </U><B> in a/the/sb's ~ </B><I>the red liquid in his glass </I><B>| ~ of </B><I>She had had three glasses of whisky already. </I> </P>
+<P> <U> PHRASES </U><B> (a) glass in (your) hand </B><I>He sat back, glass in hand. </I> </P>
+</DIV>

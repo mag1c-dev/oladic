@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>flea </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cat, dog, etc. </B> </P>
+<P> <U> VERB + FLEA </U><B> get, have | be riddled with | control </B><I>This drug is given to dogs to control fleas. </I> </P>
+<P> <U> FLEA + VERB </U><B> jump | bite | carry/spread disease </B> </P>
+<P> <U> FLEA + NOUN </U><B> bite | collar, powder</B> </P>
+</DIV>

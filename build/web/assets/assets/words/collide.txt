@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>collide </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> nearly | head-on </B><I>Two trains collided head-on. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>His car nearly collided with a bus. </I> </P>
+</DIV>

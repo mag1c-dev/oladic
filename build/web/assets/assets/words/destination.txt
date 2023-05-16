@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>destination </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> eventual, final, ultimate | favourite, popular </B><I>The town is a popular destination for art lovers. </I><B>| ideal, perfect | intended </B><I>We got lost and ended up miles away from our intended destination. </I><B>| exotic | holiday, tourist </B><I>The island is an ideal holiday destination. </I><B>| unknown </B> </P>
+<P> <U> VERB + DESTINATION </U><B> arrive at, reach </B><I>At around 1.00 p.m. we reached our final destination. </I> </P>
+<P> <U> PREP. </U><B> to a/the ~ </B><I>The deposed leader is reported to have fled the capital to an unknown destination. </I><B>| ~ for </B><I>a popular holiday destination for golf enthusiasts </I> </P>
+<P> <U> PHRASES </U><B> the country/port/state of destination </B><I>The goods are examined by customs at the port of destination. </I> </P>
+</DIV>

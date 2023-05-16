@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>cocktail </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mixed alcoholic drink </TT> </P>
+<P> <U> ADJ. </U><B> pre-dinner | champagne </B> </P>
+<P> <U> VERB + COCKTAIL </U><B> mix | have, drink | sip </B> </P>
+<P> <U> COCKTAIL + NOUN </U><B> bar, cabinet | circuit </B><I>a familiar face on the cocktail circuit </I><B>| dress | hour | lounge | party | shaker | waiter, waitress </B> </P>
+<P> <SUP> 2 </SUP> <TT> dish of small pieces of food </TT> </P>
+<P> <U> ADJ. </U><B> prawn, seafood | fruit </B> </P>
+<P> <SUP> 3 </SUP> <TT> mixture of different things </TT> </P>
+<P> <U> ADJ. </U><B> deadly, lethal | heady, powerful </B><I>The show was a heady cocktail of jazz, dance and political satire. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a lethal cocktail of drink and drugs </I> </P>
+</DIV>

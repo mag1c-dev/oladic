@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>announcement </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> formal, official | public | government | dramatic, surprise </B><I>Baker issued his surprise announcement in Paris after two hours of talks. </I> </P>
+<P> <U> VERB + ANNOUNCEMENT </U><B> issue, make </B><I>We will make a formal announcement tomorrow. </I><B>| greet, welcome </B><I>The announcement of the ceasefire was greeted with relief. </I> </P>
+<P> <U> ANNOUNCEMENT + VERB </U><B> come </B><I>The announcement of further job losses comes at a bad time. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In an announcement to Parliament, the minister said that the peace negotiations would continue. </I><B>| ~ about </B><I>an official announcement about the disaster </I><B>| ~ by/from </B><I>an announcement from the prime minister </I> </P>
+</DIV>

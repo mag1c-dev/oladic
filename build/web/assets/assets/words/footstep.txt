@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>footstep </B><I>noun </I><B>(</B>usually <B>footsteps) </B> </P>
+<P> <U> ADJ. </U><B> heavy | light | dragging </B><I>He heard the sound of heavy, dragging footsteps in the corridor. </I><B>| measured, slow | brisk, hurried, hurrying, quick, rapid, running | loud | soft | uncertain | approaching | receding </B> </P>
+<P> <U> VERB + FOOTSTEP </U><B> hear, listen to | listen for </B><I>listening for her mother's footsteps </I><B>| retrace </B><I>I am retracing the footsteps of the lost expedition. </I> </P>
+<P> <U> FOOTSTEP + VERB </U><B> run, walk | halt, stop </B><I>The footsteps halted in the doorway. </I><B>| approach, come </B><I>The footsteps came closer as she listened. </I><B>| recede | pass (on) </B><I>The footsteps passed on, receding down the corridor. </I><B>| descend the stairs | falter | die away, fade (away) </B><I>Her footsteps died away as she walked down the path. </I><B>| crunch, echo, pound, sound </B><I>Hurried footsteps sounded on the stairs. </I> </P>
+<P> <U> PHRASES </U><B> the sound of (sb's) footsteps</B> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>earnings </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high | low, meagre | average | annual, hourly, weekly | gross, pre-tax, taxable | pensionable | after-tax, net </B><I>Her net earnings last year were </I>&pound;</B><I>15,000. </I> </P>
+<P> <U> QUANT. </U><B> level </B><I>Levels of earnings are still rising. </I> </P>
+<P> <U> VERB + EARNINGS </U><B> have </B><I>People with a university education tend to have higher earnings than those with a basic education. </I><B>| calculate | declare </B><I>You must declare all earnings to the tax office. </I><B>| tax </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>Germany's earnings from exports rose by 2%. </I><B>| ~ of </B><I>annual earnings of </I>&pound;</B><I>20,000 </I> </P>
+<P> <U> PHRASES </U><B> earnings-related </B><I>an earnings-related pension scheme </I><B>| growth in earnings </B><I>the growth in average earnings over the last ten years </I><B>| loss of earnings </B><I>She is also claiming compensation for loss of earnings. </I> </P>
+<a href="/collocation-tag/financial" class="tag">Learn more about FINANCIAL</a>
+</DIV>

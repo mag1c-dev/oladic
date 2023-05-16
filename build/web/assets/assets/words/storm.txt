@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>storm </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> period of bad weather </TT> </P>
+<P> <U> ADJ. </U><B> bad, big, devastating, disastrous, ferocious, fierce, great, heavy, raging, severe, terrible, tremendous, violent | approaching, gathering, impending </B><I>the dark clouds of an approaching storm </I><>| freak | autumn, summer, winter | tropical | monsoon | dust, electric/electrical, lightning, magnetic, rain, sand, snow, thunder (also thunderstorm) </B> </P>
+<P> <U> VERB + STORM </U><B> be in for </B><I>I think we're in for a storm </I>(= going to have one)</B><I>. </I> </P>
+<P> <U> STORM + VERB </U><B> hit sth, strike sth </B><I>It was the worst storm to hit London this century. </I><B>| rage </B><I>The storm raged all night. </I><B>| be brewing, be coming </B><I>A storm had been brewing all day. </I><B>| blow up, break, burst </B><I>The storm broke while we were on the mountain. </I><B>| abate, blow itself out, blow over, pass, subside </B><I>The storm blew over after a couple of hours. </I><B>| batter sth, buffet sth, lash sth, ravage sth, sweep sth </B><I>a boat battered by the storm Winter storms swept the coasts. </I><B>| last </B><I>The storm lasted for three days. </I> </P>
+<P> <U> STORM + NOUN </U><B> cloud </B><I>(often figurative) In 1939 the storm clouds gathered over Europe. </I><B>| damage, losses </B><I>Insurance companies face hefty payouts for storm damage. </I> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B> </P>
+<P> <U> PHRASES </U><B> at the height of the storm, the calm/lull before the storm, the eye of the storm </B> </P>
+<P> <SUP> 2 </SUP> <TT> violent display of strong feeling </TT> </P>
+<P> <U> ADJ. </U><B> approaching, coming, gathering </B><I>a gathering storm of discontent </I><B>| political </B> </P>
+<P> <U> VERB + STORM </U><B> arouse, cause, create, provoke, raise, spark | face | ride out, weather </B><I>The government is determined to ride out the political storm sparked by its new immigration policy. </I> </P>
+<P> <U> STORM + VERB </U><B> blow up, break, burst, erupt | blow over, pass </B> </P>
+<P> <U> PREP. </U><B> amid a/the ~ </B><I>The band toured Ireland amid a storm of controversy. </I><B>| ~ between, ~ of </B><I>His comments created a storm of protest in the media. </I><B>| ~ over </B><I>A storm blew up between Britain and America over Venezuela. </I> </P>
+</DIV>

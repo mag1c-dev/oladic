@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>concern </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling of worry </TT> </P>
+<P> <U> ADJ. </U><B> considerable, deep, grave, great, major, serious | growing, mounting | common, widespread | national, public </B><I>public concern about increased taxes </I> </P>
+<P> <U> VERB + CONCERN </U><B> feel </B><I>He felt some concern for her safety. </I><B>| express, show, voice | cause </B><I>The lack of firefighting equipment has caused concern. </I> </P>
+<P> <U> PREP. </U><B> in sb's ~ </B><I>She forgot her own worries in her concern for him. </I><B>| out of ~ | ~ about/over </B><I>She expressed her deep concern about conditions at the factory. </I><B>| ~ for </B><I>Out of concern for her health, we suggested she take a week off work. </I> </P>
+<P> <U> PHRASES </U><B> be of (no) concern to sb </B><I>Increased use of drugs is of great concern to parents. </I><B>| (a) cause for concern </B><I>The president's health is giving serious cause for concern. </I><B>| a lack of concern </B><I>I was surprised by her lack of concern. </I><B>| a matter of concern </B><I>Stress at work is a matter of concern to staff and management. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that worries/affects you </TT> </P>
+<P> <U> ADJ. </U><B> chief, main, major, overriding, paramount, primary </B><I>What are your main concerns as a writer? </I><B>| common </B><I>a common concern for new parents </I> </P>
+<P> <U> PHRASES </U><B> be none of sb's concern </B><I>How much we paid is none of your concern. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>concern </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> affect/involve </TT> </P>
+<P> <U> ADV. </U><B> directly </B> </P>
+<P> <U> PREP. </U><B> in </B><I>Everyone who was directly concerned in </I>(= had some responsibility for) </B><I>the incident has now resigned. </I> </P>
+<P> <SUP> 2 </SUP> <TT> worry sb </TT> </P>
+<P> <U> ADV. </U><B> a lot, really </B><I>It really concerns me that he doesn't eat properly. </I><B>| slightly</B> </P>
+</DIV>

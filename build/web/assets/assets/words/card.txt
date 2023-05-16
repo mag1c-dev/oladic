@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>card </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> giving information </TT> </P>
+<P> <U> ADJ. </U><B> business, calling, visiting | appointment, invitation | identity, membership | index, record, report | flash, flashcard | swipe | smart </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She wrote the main points of her speech on index cards. </I> </P>
+<P> <SUP> 2 </SUP> <TT> used to pay/get money </TT> </P>
+<P> <U> ADJ. </U><B> plastic </B><I>He had a wallet full of plastic cards. </I><B>| cash, charge, cheque (guarantee), credit, debit | phone | ration </B> </P>
+<P> <U> VERB + CARD </U><B> pay by, put sth on, use </B><I>She paid for her holiday by credit card. I'll put the meal on my card. </I><B>| accept, take </B><I>The restaurant accepts all major credit cards. </I><B>| issue (sb with) </B><I>The bank hasn't issued me with a cheque card yet. </I> </P>
+<P> <U> CARD + NOUN </U><B> number | holder | fraud </B> </P>
+<P> <SUP> 3 </SUP> <TT> greetings card </TT> </P>
+<P> <U> ADJ. </U><B> greeting/greetings | birthday, Christmas, get-well, sympathy </B> </P>
+<P> <U> VERB + CARD </U><B> give sb, send sb | sign, write </B><I>Everyone at work signed a card for her. </I><B>| get, receive </B> </P>
+<P> <SUP> 4 </SUP> <TT> used for a game </TT> </P>
+<P> <U> ADJ. </U><B> playing | winning | court, picture | trump </B><I>(figurative) This defender's ability to score vital goals has often proved a trump card. </I><B>| wild </B> </P>
+<P> <U> QUANT. </U><B> deck, pack </B> </P>
+<P> <U> VERB + CARD </U><B> cut, deal, shuffle | pick </B><I>&lsquo;Pick a card,&rsquo; said the conjurer. </I><B>| hold </B><I>(often figurative) The kidnappers hold all the cards </I>(= are in control of the situation)</B><I>. </I> </P>
+<P> <U> CARD + NOUN </U><B> game, player, table 5 cards </B>game </B> </P>
+<P> <U> QUANT. </U><B> game </B> </P>
+<P> <U> VERB + CARD </U><B> play </B><I>We play cards every Friday night. </I><B>| lose/win at </B><I>He always wins at cards. </I> </P>
+<P> <U> CARD + NOUN </U><B> game </B></P>
+<a href="/collocation-tag/playing-card" class="tag">Learn more about PLAYING CARD</a>
+</DIV>

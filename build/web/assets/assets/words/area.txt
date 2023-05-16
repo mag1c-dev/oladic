@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>area </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of place </TT> </P>
+<P> <U> ADJ. </U><B> huge, large, vast, wide | small | local </B><I>She knows the local area very well. </I><B>| surrounding </B><I>The storms hit Edinburgh and the surrounding area. </I><B>| central | geographical | isolated, outlying, remote | rural | built up, inner-city, metropolitan, urban | industrial | residential | coastal, mountain | conservation | deprived </B><I>people living in socially deprived areas </I> </P>
+<P> <U> VERB + AREA </U><B> live in | move into/to </B><I>A lot of new people have moved into the area recently. </I><B>| leave, move away from | cover | be scattered over, be spread over </B><I>Wreckage from the plane was scattered over a large area. </I> </P>
+<P> <U> AREA + NOUN </U><B> manager, office </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>Few homes in the area had electricity. </I><B>| outside an/the ~ </B><I>I live outside the London area. </I><B>| within an/the ~ | ~ around/round </B><I>the area around London </I> </P>
+<P> <SUP> 2 </SUP> <TT> space </TT> </P>
+<P> <U> ADJ. </U><B> dining, lounge, reception | picnic, play | no smoking, smoking | penalty </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>I'll meet you in the reception area. </I> </P>
+<P> <SUP> 3 </SUP> <TT> subject/activity </TT> </P>
+<P> <U> ADJ. </U><B> important, key, main | complex, difficult, problem, sensitive </B><I>Taxation is a very complex area. </I><B>| growth </B><I>The big growth area of recent years has been in health clubs. </I><B>| subject | grey </B><I>The proposals contain too many grey areas </I>(= aspects that are not clear)</B><I>. </I> </P>
+<P> <U> VERB + AREA </U><B> cover </B><I>The course covers two main subject areas. </I><B>| identify </B><I>The primary need is to identify problem areas. </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>There have been some exciting new developments in this area. </I> </P>
+<P> <U> PHRASES </U><B> an area of activity/life </B><I>People with this disability can cope well in most areas of life. </I><B>| an area of concern/difficulty </B><I>We are generally pleased with how the scheme is operating but there are one or two areas of concern. </I><B>| an area of interest/research/study </B> </P>
+<P> <SUP> 4 </SUP> <TT> measurement </TT> </P>
+<P> <U> ADJ. </U><B> large | small | total | floor, surface </B><I>A large building with a floor area of 100m</I>2</B><I>. </I> </P>
+<P> <U> VERB + AREA </U><B> cover, have </B><I>The estate covers an area of 106 acres. </I> </P>
+</DIV>

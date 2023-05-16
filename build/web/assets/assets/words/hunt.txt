@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>hunt </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hunting wild animals </TT> </P>
+<P> <U> ADJ. </U><B> fox, seal, tiger, etc. </B> </P>
+<P> <U> VERB + HUNT </U><B> take part in </B><I>She had never taken part in a fox hunt before. </I> </P>
+<P> <U> HUNT + NOUN </U><B> follower, supporter </B><I>Hunt followers deny the sport is cruel. </I><B>| saboteur </B><I>clashes between hunt supporters and hunt saboteurs </I><B>| meeting </B> </P>
+<P> <SUP> 2 </SUP> <TT> searching for sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> massive, nationwide </B><I>Police launched a nationwide hunt for the woman, amid fears for her safety. </I><B>| police | murder </B><I>Police forces in five counties are now involved in the murder hunt. </I><B>| treasure | witch </B><I>(often figurative) The investigation turned into a full-scale Communist witch hunt. </I> </P>
+<P> <U> HUNT + VERB </U><B> begin, launch </B><I>A massive police hunt was launched for the missing child. </I><B>| lead </B><I>Detectives leading the hunt for the killer believe he may be in hiding. </I><B>| step up </B><I>The mountain rescue team is stepping up its hunt for the missing climbers. </I><B>| call off </B><I>The hunt for survivors has now been called off. </I> </P>
+<P> <U> HUNT + VERB </U><B> begin, be on </B><I>The hunt is on for potential employees with experience of electronic publishing. </I> </P>
+<P> <U> PREP. </U><B> ~ for</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>excavation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> archaeological </B> </P>
+<P> <U> VERB + EXCAVATION </U><B> carry out, conduct </B><I>Further archaeological excavations are now being carried out. </I> </P>
+<P> <U> EXCAVATION + VERB </U><B> reveal sth, uncover sth, unearth sth </B><I>Excavations of the site have revealed an Iron Age settlement. </I><B>| proceed, take place </B><I>More discoveries were made as the excavation proceeded. </I> </P>
+</DIV>

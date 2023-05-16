@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>location </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> exact, precise, specific </B><I>We still do not know the precise location of the crash. </I><B>| secret, undisclosed | convenient, ideal, suitable </B> </P>
+<P> <U> VERB + LOCATION </U><B> show </B><I>The map shows the exact location of the mine. </I> </P>
+<P> <U> PREP. </U><B> at a/the &hellip; ~ </B><I>The meeting is taking place at a secret location. </I><B>| on ~ </B><I>The film is being made on location in India. </I> </P>
+</DIV>

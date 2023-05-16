@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>explosive </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> capable of exploding </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> highly </B><I>a highly explosive mixture of gases </I> </P>
+<P> <SUP> 2 </SUP> <TT> causing strong feelings </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> highly </B><I>Race is a highly explosive issue. </I><B>| potentially </B><I>The political situation is potentially explosive. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>explosive </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high </B><I>a bomb containing 200 lb of high explosive </I><B>| commercial, home-made | chemical, conventional, plastic, semtex </B> </P>
+<P> <U> VERB + EXPLOSIVE </U><B> make, manufacture | plant </B><I>They planted explosives in the tunnel. </I><B>| detonate, set off </B> </P>
+<P> <U> EXPLOSIVE + NOUN </U><B> explosives expert</B> </P>
+</DIV>

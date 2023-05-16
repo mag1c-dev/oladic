@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mercenary </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> foreign </B> </P>
+<P> <U> QUANT. </U><B> army, band </B><I>a small army of mercenaries </I> </P>
+<P> <U> VERB + MERCENARY </U><B> employ, hire, recruit | pay </B> </P>
+<P> <U> MERCENARY + NOUN </U><B> army</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>poet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accomplished, good, great | distinguished, famous, well-known | foremost </B><I>the foremost poet of his generation </I><B>| minor | unknown | aspiring | contemporary | epic, lyric | Romantic, metaphysical </B> </P>
+<P> <U> VERB + POET </U><B> inspire </B><I>These river banks have inspired poets for many centuries. </I> </P>
+<P> <U> POET + VERB </U><B> write sth</B> </P>
+</DIV>

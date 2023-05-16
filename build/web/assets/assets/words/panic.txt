@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>panic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> blind, mad, sheer, total | mild, minor | momentary | growing, mounting, rising | sudden | last-minute </B><I>There was a last-minute panic when nobody could find the tickets. </I><B>| moral </B><I>a moral panic over rising crime rates </I> </P>
+<P> <U> QUANT. </U><B> surge, wave </B><I>I felt a surge of panic when I realized my mistake. </I> </P>
+<P> <U> VERB + PANIC </U><B> feel </B><I>He felt panic rising within him. </I><B>| get into, go into </B><I>She went into a mad panic when she couldn't find the exit. </I><B>| cause, create, spread | fill sb with, throw sb into </B><I>The thought of having to be in charge threw him into a mild panic. </I> </P>
+<P> <U> PANIC + VERB </U><B> break out, spread (across/through, etc. sth), sweep over/through sth </B><I>Panic swept through the crowd. </I><B>| seize sb | grow, rise | subside | ensue </B><I>In the ensuing panic, they lost each other. </I> </P>
+<P> <U> PANIC + NOUN </U><B> attack </B><I>She still has panic attacks, two years after the accident. </I><B>| button </B><I>The shopkeeper pressed the panic button and the police arrived in minutes. </I><B>| buying, selling </B><I>Panic buying turned the petrol shortage into a crisis. </I> </P>
+<P> <U> PREP. </U><B> in (a) ~ </B><I>He jumped out of the car in a panic. People fled in panic. </I><B>| with ~ </B><I>Her mind went blank with panic. </I><B>| ~ about </B><I>panic about food contamination </I><B>| ~ among </B><I>panic among the population </I><B>| ~ over </B><I>The keys were lost during the panic over the fire alarm. </I> </P>
+<P> <U> PHRASES </U><B> a feeling/sense of panic, in a state of panic, a look of panic </B><I>A look of panic spread across the boy's face. </I><B>| a moment of panic, a moment's panic</B> </P>
+</DIV>

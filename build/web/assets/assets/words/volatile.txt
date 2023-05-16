@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>volatile </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> that can easily change </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> dangerously, extremely, highly, very </B><I>Edwards was a dangerously volatile character. </I><B>| increasingly | fairly, quite, rather, somewhat | potentially </B><I>a potentially volatile situation </I><B>| notoriously | politically </B> </P>
+<P> <SUP> 2 </SUP> <TT> that can easily change into a gas </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> highly, very </B><I>a highly volatile liquid </I> </P>
+</DIV>

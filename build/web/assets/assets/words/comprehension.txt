@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>comprehension </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> understanding </TT> </P>
+<P> <U> VERB + COMPREHENSION </U><B> have </B><I>She has no comprehension of the seriousness of the situation. </I><B>| check </B><I>There are exercises for checking comprehension. </I> </P>
+<P> <U> PREP. </U><B> beyond (your) ~ </B><I>Why he can't do it himself is beyond my comprehension. </I><B>| without ~ </B> </P>
+<P> <U> PHRASES </U><B> a lack of comprehension </B><I>He showed a total lack of comprehension. </I> </P>
+<P> <SUP> 2 </SUP> <TT> language exercise </TT> </P>
+<P> <U> ADJ. </U><B> listening, reading </B> </P>
+<P> <U> VERB + COMPREHENSION </U><B> do </B><I>We did a listening comprehension. </I> </P>
+</DIV>

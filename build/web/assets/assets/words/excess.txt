@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>excess </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large amount of sth </TT> </P>
+<P> <U> ADJ. </U><B> large </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The drug can be harmful if taken in excess. </I><B>| in ~ of </B><I>The vehicle had been travelling at speeds in excess of 90 miles per hour. </I><B>| to ~ </B><I>They never smoked or drank to excess. </I><B>| ~ of </B><I>a large excess of gas </I></P>
+<P> <SUP> 2 </SUP> <TT> excesses: harmful actions  </TT> </P>
+<P> <U> ADJ. </U><B> worst </B> </P>
+<P> <U> VERB + EXCESS </U><B> avoid, curb | commit, perpetrate </B><I>the worst excesses committed by the occupying army </I> </P>
+</DIV>

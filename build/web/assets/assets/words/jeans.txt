@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>jeans </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> stretch, tight | baggy, flared | denim | black, blue | bleached, faded, stonewashed | patched, ripped, scruffy, torn | cut-off | designer </B> </P>
+<P> <U> QUANT. </U><B> pair </B><I>She pulled on a pair of faded blue jeans. </I> </P>
+<P> <U> VERB + JEANS </U><B> pull on, pull up | pull off, strip off | zip up | unzip </B> </P>
+<P> <U> JEANS + NOUN </U><B> pocket </B>  </B> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>diplomacy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> managing international relations </TT> </P>
+<P> <U> ADJ. </U><B> careful, shrewd | &lsquo;gunboat &hellip; &rsquo; </B><I>What they could not take by political intrigue they took by &lsquo;gunboat diplomacy&rsquo; </I>(= threatening military action)</B><I>. </I><B>| international | secret | personal </B><I>Churchill's highly personal diplomacy in seeking a meeting with the Russians </I><B>| traditional </B><I>a crisis lying outside the scope of traditional diplomacy </I><B>| preventive | shuttle </B><I>a round of shuttle diplomacy between Washington and Brussels </I><B>| Anglo-French, European, Russian, etc. </B> </P>
+<P> <U> VERB + DIPLOMACY </U><B> use </B><I>prefering to use diplomacy rather than force </I> </P>
+<P> <U> DIPLOMACY + VERB </U><B> go on </B><I>Behind the scenes a lot of secret diplomacy was going on. </I> </P>
+<P> <U> PREP. </U><B> by/through ~ </B><I>We must try and resolve this situation through diplomacy rather than conflict. </I> </P>
+<P> <SUP> 2 </SUP> <TT> skill in dealing with people </TT> </P>
+<P> <U> ADJ. </U><B> great | quiet </B> </P>
+<P> <U> VERB + DIPLOMACY </U><B> have </B><I>We need someone who has tact and diplomacy. </I><B>| exercise, show, use </B><I>I thought you showed great diplomacy in dealing with him. </I><B>| call for, need, require </B><I>Trying to get the divorced couple to agree calls for a great deal of diplomacy. </I> </P>
+<P> <U> PREP. </U><B> by/through ~ </B><I>The way forward in this situation is by diplomacy and negotiation. </I><B>| with ~ </B><I>She handled the awkward situation with her usual quiet diplomacy. </I> </P>
+</DIV>

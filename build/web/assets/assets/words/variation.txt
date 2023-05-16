@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>variation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, dramatic, enormous, extreme, great, major, marked, significant, striking, substantial, tremendous, wide | minor, slight, small, subtle </B><I>subtle variations of colour and design </I><B>| numerous | endless, infinite | complex | random | systematic | local, regional | climatic, cultural, environmental, ethnic, genetic, geographical, hereditary, language, linguistic | annual, daily, day-to day, seasonal, year-to-year </B> </P>
+<P> <U> VERB + VARIATION </U><B> show </B><I>The businesses showed a dramatic variation in how they treated their staff. </I><B>| find, observe </B><I>Considerable variation was found in the terms offered by different banks. </I><B>| analyse </B> </P>
+<P> <U> VARIATION + VERB </U><B> occur </B> </P>
+<P> <U> PREP. </U><B> ~ according to </B><I>variation according to the time of year </I><B>| ~ across </B><I>She is studying language variation across the social range. </I><B>| ~ among </B><I>variation among the students in terms of ability </I><B>| ~ between </B><I>variations between different accents </I><B>| ~ by </B><I>There is little variation by sex or social class in these attitudes. </I><B>| ~ in </B><I>slight variations in pressure </I><B>| ~ with </B><I>temperature variation with altitude </I><B>| ~ within </B><I>There may be striking variations within a species. </I> </P>
+<P> <U> PHRASES </U><B> a range of variation, a variation on a theme </B><I>His numerous complaints are all variations on a theme. </I> </P>
+</DIV>

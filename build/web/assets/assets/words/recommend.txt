@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>recommend </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> say that sb/sth is good </TT> </P>
+<P> <U> ADV. </U><B> highly, thoroughly </B><I>This book is highly recommended by teachers. </I><B>| certainly, definitely </B><I>I definitely recommend this film. </I><B>| heartily | personally </B><I>Consult a solicitor who is personally recommended to you. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>Who would you recommend for the job? </I><B>| to </B><I>I can recommend this book to anyone interested in food. </I> </P>
+<P> <U> PHRASES </U><B> sth has a lot/much to recommend it </B><I>Your idea has much to recommend it. </I> </P>
+<P> <SUP> 2 </SUP> <TT> advise sb to do sth </TT> </P>
+<P> <U> ADV. </U><B> strongly </B><I>I would strongly recommend that you get professional advice. </I><B>| particularly, specifically</B> </P>
+</DIV>

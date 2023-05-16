@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>hot </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> of the weather </TT> </P>
+<P> <U> VERBS </U><B> be | become, get, grow </B><I>The sun shone fiercely down and it grew hotter and hotter. </I> </P>
+<P> <U> ADV. </U><B> baking, blazing, bloody </B><I>(taboo)</I>, <B>boiling, exceedingly, exceptionally, extremely, incredibly, insufferably, intensely, oppressively, really, scorching, stiflingly, swelteringly, unbearably, uncomfortably, unusually, very </B><I>a boiling hot summer's day It was unbearably hot in the car. </I><B>| a bit, fairly, pretty, quite, rather </B><I>This weather's a bit hot for me. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a person </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look </B><I>Don't you feel hot so close to the fire? </I><B>| get, grew </B><I>They had been going steadily up for half an hour and she was beginning to get uncomfortably hot. His face grew hot at the memory of his embarrassment. </I> </P>
+<P> <U> ADV. </U><B> boiling, burning, extremely, really, uncomfortably, very </B><I>I was boiling hot and sweaty. His forehead was burning hot. </I><B>| a bit, quite, rather </B> </P>
+<P> <SUP> 3 </SUP> <TT> of a thing </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | get </B> </P>
+<P> <U> ADV. </U><B> extremely, really, red-, scalding, very, white-</B><I>white-hot metal </I><B>| a bit, fairly, moderately, quite, rather, slightly </B><I>Wash the tablecloth in fairly hot soapy water. Bake in a moderately hot oven. </I><B>| enough, sufficiently </B><I>The ground was hot enough to fry an egg on. </I> </P>
+<P> <SUP> 4 </SUP> <TT> of food: not cold </TT> </P>
+<P> <U> VERBS </U><B> be | keep, stay </B><I>The food should stay hot until we're ready to eat. </I><B>| keep sth </B><I>The containers keep the food hot for five hours. </I><B>| eat sth, serve sth </B><I>Serve hot or cold accompanied by bread and a salad. </I> </P>
+<P> <U> ADV. </U><B> piping, really, scalding, sizzling, steaming, very </B><I>a bowl of piping hot soup Make sure the fat is sizzling hot. </I><B>| a bit, fairly, quite, rather </B> </P>
+<P> <SUP> 5 </SUP> <TT> of food: spicy </TT> </P>
+<P> <U> VERBS </U><B> be, taste </B> </P>
+<P> <U> ADV. </U><B> extremely, really, very </B><I>I love really hot food. </I><B>| a bit, pretty, quite, slightly </B><I>That was a pretty hot curry! </I> </P>
+</DIV>

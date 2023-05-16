@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>accountability </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> greater, increased | local, public </B><I>demands for greater public accountability in the police service </I><B>| democratic, financial, managerial, moral, parliamentary, police, political, professional | government, police </B> </P>
+<P> <U> VERB + ACCOUNTABILITY </U><B> enhance, improve, increase, strengthen | reduce, weaken </B><I>This process of centralization further weakens accountability. </I><B>| ensure </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>to ensure accountability for decisions made </I><B>| ~ to </B><I>police accountability to the public </I> </P>
+<P> <U> PHRASES </U><B> a demand for accountability, a lack of accountability </B><I>the apparent lack of accountability of the security forces </I><B>| a need for accountability </B><I>There is a need for increased professional accountability. </I> </P>
+</DIV>

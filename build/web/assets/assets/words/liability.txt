@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>liability </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> responsibility </TT> </P>
+<P> <U> ADJ. </U><B> full | legal </B> </P>
+<P> <U> VERB + LIABILITY </U><B> have </B><I>They have no legal liability for damage to customers' possessions. </I><B>| accept, acknowledge, admit, assume | deny </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>They have denied liability for the accident. </I></P>
+<P> <SUP> 2 </SUP> <TT> liabilities: money owed  </TT> </P>
+<P> <U> ADJ. </U><B> substantial | financial, tax </B><I>an assessment of the company's financial liabilities </I> </P>
+<P> <U> VERB + LIABILITY </U><B> have | take on, take over </B><I>He wants to know the precise amount of the liabilities he is taking over. </I><B>| cover, discharge, meet </B><I>There is enough money to cover existing liabilities. </I><B>| reduce </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The company has liabilities to its employees. </I> </P>
+</DIV>

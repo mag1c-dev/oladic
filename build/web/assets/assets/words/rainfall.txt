@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>rainfall </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> abundant, excessive, heavy, high </B><I>There have been heavy rainfalls this month. </I><B>| low | moderate | normal | good, poor </B><I>We need a good rainfall to save the crops. </I><B>| annual | average | local | summer, winter </B> </P>
+<P> <U> VERB + RAINFALL </U><B> have </B><I>The area has a high annual rainfall. </I><B>| measure </B><I>Her work includes measuring the local rainfall. </I> </P>
+</DIV>

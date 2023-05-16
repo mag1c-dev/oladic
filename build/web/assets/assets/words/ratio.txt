@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>ratio </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | male/female, pupil/teacher, etc. | benefit-to-risk, power-to-weight, etc. </B> </P>
+<P> <U> VERB + RATIO </U><B> achieve, have </B><I>They have a high ratio of imports to exports. </I><B>| improve, increase </B><I>The hospital is trying to improve its staff/patient ratio. </I><B>| reduce | calculate, find, work out </B> </P>
+<P> <U> RATIO + VERB </U><B> improve | worsen </B><I>the worsening pupil/teacher ratio in our schools </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>We mixed the oil and water in a ratio of one to five. </I><B>| ~ between </B><I>the ratio between the amount of time spent on the work and the profit produced </I><B>| ~ of sth to sth </B><I>the ratio of house prices to incomes </I> </P>
+<P> <U> PHRASES </U><B> in direct ratio to sth </B><I>Their sales rose in direct ration to the amount they spent on advertising. </I> </P>
+</DIV>

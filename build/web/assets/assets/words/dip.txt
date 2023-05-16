@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>dip </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sharp | slight | sudden </B> </P>
+<P> <U> VERB + DIP </U><B> suffer, take </B><I>Share prices have taken a slight dip. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a sharp dip in temperature </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dip </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> in liquid </TT> </P>
+<P> <U> ADV. </U><B> lightly </B><I>She dipped the brush lightly in the varnish. </I> </P>
+<P> <U> PREP. </U><B> in, into </B><I>He dipped his finger in the water </I> </P>
+<P> <SUP> 2 </SUP> <TT> go/move downwards </TT> </P>
+<P> <U> ADV. </U><B> gently </B><I>hills which dip gently to the east </I><B>| steeply | down </B><I>The road dipped steeply down into the town. </I> </P>
+<P> <U> PREP. </U><B> below </B><I>The sun dipped below the horizon. </I> </P>
+<P> <SUP> 3 </SUP> <TT> prices/support, etc. </TT> </P>
+<P> <U> ADV. </U><B> slightly | sharply </B><I>Support dipped sharply to 51%. </I> </P>
+</DIV>

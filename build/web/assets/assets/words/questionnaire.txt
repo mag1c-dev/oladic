@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>questionnaire </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> short, simple | detailed, lengthy | postal </B> </P>
+<P> <U> VERB + QUESTIONNAIRE </U><B> design, draw up, prepare | circulate, distribute, send (out) | receive | complete, fill in/out | reply to, respond to, return, send in </B><I>Most of the staff who responded to the questionnaire were supportive. </I><B>| analyse </B><I>The college is now analysing thousands of questionnaires. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>Local companies were asked to complete a questionnaire about their exports. </I><B>| ~ concerning </B><I>questionnaires concerning people's leisure preferences </I><B>| ~ on </B><I>a questionnaire on the environment </I> </P>
+</DIV>

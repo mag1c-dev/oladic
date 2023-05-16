@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>transplant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bone-marrow, heart, heart-lung, kidney, liver, etc. | double, multi-organ, multiple </B> </P>
+<P> <U> VERB + TRANSPLANT </U><B> have, undergo </B><I>She will have to have a heart-lung transplant within 48 hours. </I><B>| carry out, do, perform | reject </B><I>It is likely that such a transplant will be rejected in older people. </I> </P>
+<P> <U> TRANSPLANT + NOUN </U><B> operation, surgery | surgeon | team | centre, unit | donor </B><I>A suitable transplant donor has been found. </I><B>| candidate, patient, recipient </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>a shortage of kidneys for transplant </I> </P>
+</DIV><DIV class="item"><P class="word"><B>transplant </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> successfully </B> </P>
+<P> <U> PREP. </U><B> from, into </B><I>Organs are transplanted from donors into patients who need them. </I><B>| to </B><I>The Dutch successfully transplanted trees to the East Indies. </I> </P>
+</DIV>

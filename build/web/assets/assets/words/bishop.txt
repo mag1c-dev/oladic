@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>bishop </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> Anglican, Episcopal/Episcopalian, (Greek/Russian) Orthodox, Roman Catholic | diocesan </B><I>He's the diocesan bishop and he has three suffragan bishops to help him. </I><B>| assistant, suffragan </B> </P>
+<P> <U> VERB + BISHOP </U><B> appoint, appoint sb (as), make sb | succeed sb as </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He was appointed Bishop of Ely. </I> </P>
+</DIV>

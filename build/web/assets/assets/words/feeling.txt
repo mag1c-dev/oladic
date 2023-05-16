@@ -1,0 +1,31 @@
+
+<DIV class="item"><P class="word"><B>feeling </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that you feel/sense/believe </TT> </P>
+<P> <U> ADJ. </U><B> strong | definite, distinct | nagging, sneaking/sneaky, vague </B><I>I had a nagging feeling that I had forgotten something. </I><B>| glorious, good, great, marvellous, warm, wonderful </B><I>It was a good feeling to be arriving home again. </I><B>| horrible, nasty, queasy, sick, sinking, terrible, tight, uncomfortable, uneasy </B><I>He suddenly had a terrible sinking feeling in the pit of his stomach. I've got a tight feeling in my stomach. </I><B>| guilty | curious, eerie, odd, peculiar, strange | gut, instinctive </B><I>My gut feeling was that we couldn't trust her. </I><B>| general, popular, public </B><I>The general feeling of the meeting was against the decision. </I> </P>
+<P> <U> VERB + FEELING </U><B> feel, get, have </B><I>He felt a wonderful warm feeling come over him. Do you get the feeling that we're not welcome here? </I><B>| give sb, leave sb with </B><I>She was left with the feeling that he did not care. </I><B>| know </B><I>(informal) &lsquo;I really resent the way he treated me.&rsquo; &lsquo;I know the feeling </I>(= I know how you feel)</B><I>.&rsquo; </I><B>| arouse, evoke, inspire </B><I>a case that has aroused strong public feeling </I> </P>
+<P> <U> FEELING + VERB </U><B> come over sb | be mutual </B><I>&lsquo;I'm going to miss you.&rsquo; &lsquo;The feeling's mutual </I>(= I feel exactly the same)</B><I>.&rsquo; </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>I don't have any strong feelings about it one way or the other. </I><B>| ~ of </B><I>a feeling of excitement </I><B>| ~ on </B><I>What are your feelings on this issue? </I></P>
+<P> <SUP> 2 </SUP> <TT> feelings: emotions  </TT> </P>
+<P> <U> ADJ. </U><B> deep, intense, strong | ambivalent, mixed </B><I>I had mixed feelings about meeting them again. </I><B>| positive, warm | hostile, negative | hurt, injured | inner, innermost, real, true | pent-up </B><I>releasing her pent-up feelings </I><B>| personal | religious | sexual </B> </P>
+<P> <U> VERB + FEELING </U><B> experience, harbour, have, suffer </B><I>She experienced a whole range of feelings. He still harboured feelings of resentment. She was lucky that she had suffered no more than hurt feelings. </I><B>| express, give vent to, release, show, vent </B><I>He finds it difficult to express his feelings. I finally gave vent to my feelings and started yelling at him. </I><B>| articulate, describe, discuss, talk about </B><I>discussing his innermost feelings with me </I><B>| bottle up, hide, mask, repress, suppress </B><I>trying to hide her true feelings </I><B>| banish </B><I>He was determined to banish all feelings of guilt. </I><B>| hurt </B><I>I'm sorry if I've hurt your feelings. </I><B>| spare </B><I>We didn't tell Jane because we wanted to spare her feelings. </I><B>| arouse, engender, evoke, inspire </B><I>The debate aroused strong feelings on both sides. </I><B>| heighten </B><I>It was the practical aspect of life that heightened her feelings of loneliness and loss. </I><B>| understand | reciprocate, return </B><I>Although she did not reciprocate his feelings, she did not discourage him. </I> </P>
+<P> <U> FEELING + VERB </U><B> come into sth </B><I>Personal feelings don't come into it?we have to do what's right. </I><B>| run high </B><I>Feelings were running high </I>(= people were very angry or excited)</B><I>as the meeting continued. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>It makes no difference to my feelings for you. </I><B>| ~ of </B><I>his feelings of grief </I><B>| ~ towards </B><I>her feelings of anger towards him </I> </P>
+<P> <U> PHRASES </U><B> no hard feelings </B><I>(informal) Someone's got to lose. No hard feelings, Dave, eh? </I> </P>
+<P> <SUP> 3 </SUP> <TT> understanding/sensitivity </TT> </P>
+<P> <U> ADJ. </U><B> great, wonderful </B> </P>
+<P> <U> VERB + FEELING </U><B> have | develop </B><I>He had developed a feeling for when not to disturb her. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>She spoke with feeling about the plight of the homeless. </I><B>| ~ for </B><I>She has a wonderful feeling for colour. </I> </P>
+<P> <SUP> 4 </SUP> <TT> sympathy/love </TT> </P>
+<P> <U> VERB + FEELING </U><B> have </B><I>You have no feeling for the sufferings of others. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She still had a lot of feeling for David. </I> </P>
+<P> <SUP> 5 </SUP> <TT> anger </TT> </P>
+<P> <U> ADJ. </U><B> bad, ill </B> </P>
+<P> <U> VERB + FEELING </U><B> cause, create, lead to | stir up </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>Their aim was to stir up feeling against the war. </I><B>| ~ between </B><I>There was a lot of bad feeling between the two groups of students. </I> </P>
+<P> <SUP> 6 </SUP> <TT> ability to feel physically </TT> </P>
+<P> <U> VERB + FEELING </U><B> lose | regain </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>After the accident he lost all feeling in his legs. </I> </P>
+<P> <SUP> 7 </SUP> <TT> atmosphere </TT> </P>
+<P> <U> VERB + FEELING </U><B> create, recreate </B><I>They have managed to recreate the feeling of the original theatre. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Light colours create a feeling of spaciousness. </I> </P>
+</DIV>

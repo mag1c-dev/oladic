@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>crash </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden loud noise </TT> </P>
+<P> <U> ADJ. </U><B> almighty, deafening, great, loud, thunderous | distant | sickening, terrible </B><I>There was a sickening crash as her head hit the ground. </I> </P>
+<P> <U> VERB + CRASH </U><B> hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The plates fell to the floor with an almighty crash. </I><B>| ~ of </B><I>a distant crash of thunder </I> </P>
+<P> <U> PHRASES </U><B> a crash of thunder, the crash of the waves </B> </P>
+<P> <SUP> 2 </SUP> <TT> car/plane, etc. accident </TT> </P>
+<P> <U> ADJ. </U><B> horrific, major, serious </B><I>a major air crash </I><B>| fatal | head-on | high-speed | car, coach, helicopter, plane, train | air, motorway, rail, road </B> </P>
+<P> <U> VERB + CRASH </U><B> cause </B> </P>
+<P> <U> CRASH + VERB </U><B> happen, occur | involve sth </B><I>a crash involving two cars and a lorry </I><B>| kill sb | claim sth </B><I>The crash claimed three lives. </I> </P>
+<P> <U> CRASH + NOUN </U><B> victim | site | landing | barrier </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He was killed in a train crash. </I> </P>
+<P> <SUP> 3 </SUP> <TT> business failure </TT> </P>
+<P> <U> ADJ. </U><B> financial | bank, property, stock market </B><I>the stock market crash of 1987 </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a crash in share prices </I> </P>
+</DIV>

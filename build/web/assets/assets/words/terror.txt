@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>terror </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> great fear </TT> </P>
+<P> <U> ADJ. </U><B> absolute, naked, pure, real, sheer | constant </B> </P>
+<P> <U> VERB + TERROR </U><B> be filled with, feel, have, shake/tremble with </B><I>He was filled with absolute terror at the sight. the sheer terror she felt when she saw him He had a real terror of darkness. </I><B>| bring, inspire, spread </B><I>The explosion brought terror to hundreds of local residents. He inspired terror in everyone he met. </I><B>| live in </B><I>She lived in terror of her father. </I><B>| flee in </B><I>The shots sent the crowd fleeing in terror. </I> </P>
+<P> <U> PREP. </U><B> from ~ </B><I>trembling from terror and excitement </I><B>| in ~ </B><I>He was found hiding in terror. </I><B>| out of ~ </B><I>He cried out, out of pure terror. </I><B>| with ~ </B><I>His face was white with terror. </I> </P>
+<P> <U> PHRASES </U><B> strike terror into (the heart of) sb </B><I>Its fearsome appearance struck terror into their hearts. </I> </P>
+<P> <SUP> 2 </SUP> <TT> violent action for political purposes </TT> </P>
+<P> <U> ADJ. </U><B> political </B> </P>
+<P> <U> VERB + TERROR </U><B> resort to, use </B><I>The group has resorted to terror to try to get what it wants. </I><B>| give in to </B> </P>
+<P> <U> TERROR + NOUN </U><B> campaign | tactics | gang, group </B> </P>
+<P> <U> PHRASES </U><B> an act of terror </B><I>people who carry out acts of terror </I><B>| a campaign of terror </B><I>The bombing formed part of a nationwide campaign of terror. </I><B>| a reign of terror </B><I>The dictator's ten-year reign of terror left over 100,000 dead. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>camouflage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> effective, excellent, good, perfect | protective | army </B><I>He was wearing army camouflage. </I> </P>
+<P> <U> VERB + CAMOUFLAGE </U><B> act as, provide </B><I>The animal's markings provide effective camouflage. </I><B>| wear</B> </P>
+</DIV><DIV class="item"><P class="word"><B>camouflage </B><I>verb </I> </P>
+<P> <U> PREP. </U><B> with </B><I>They camouflaged their truck with fallen pine branches. </I> </P>
+<P> <U> PHRASES </U><B> be carefully/heavily/well camouflaged </B><I>The vehicles were all well camouflaged. </I> </P>
+</DIV>

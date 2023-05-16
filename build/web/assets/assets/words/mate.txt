@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>mate </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> friend </TT> </P>
+<P> <U> ADJ. </U><B> best, good </B><I>They've been good mates ever since they were at school together. </I> </P>
+<P> <U> VERB + MATE </U><B> have </B><I>He's got loads of mates at school. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sexual partner </TT> </P>
+<P> <U> VERB + MATE </U><B> attract, choose, find </B><I>These birds have colourful feathers to attract a mate. </I> </P>
+</DIV>

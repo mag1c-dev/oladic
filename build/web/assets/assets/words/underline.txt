@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>underline </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> draw a line under a word </TT> </P>
+<P> <U> ADV. </U><B> heavily </B><I>The word &lsquo;not&rsquo; was heavily underlined. </I> </P>
+<P> <SUP> 2 </SUP> <TT> emphasize sth </TT> </P>
+<P> <U> ADV. </U><B> clearly | just, merely, only, simply </B><I>This disaster merely underlines the need for a consistent foreign policy. </I><B>| further </B> </P>
+<P> <U> VERB + UNDERLINE </U><B> serve to | seem to | be intended to </B><I>a move intended to underline US concern over the issue </I> </P>
+<P> <U> PHRASES </U><B> underline the fact that &hellip;</B> </P>
+</DIV>

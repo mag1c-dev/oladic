@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>mammal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, small | higher, lower | common | endangered, rare | wild | aquatic, marine, sea | land, terrestrial | carnivorous, grazing, herbivorous | nocturnal | hoofed | warm-blooded </B> </P>
+<P> <U> MAMMAL + NOUN </U><B> species | prey </B> </P>
+<P> <U> PREP. </U><B> among ~s </B><I>deaths among marine mammals </I> </P>
+</DIV>

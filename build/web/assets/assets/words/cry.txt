@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>cry </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> shout/loud noise </TT> </P>
+<P> <U> ADJ. </U><B> great, loud | little, low, small | choked/choking, muffled, stifled, strangled | piercing, shrill | hoarse </B><I>the hoarse cry of a crow </I><B>| agonized, anguished, bitter, despairing, desperate, plaintive, terrible | startled | involuntary | battle, rallying, war, warning | animal, bird </B> </P>
+<P> <U> VERB + CRY </U><B> give, let out, raise, utter </B><I>She gave an agonized cry as they lifted the fallen branch from her leg. He was too weak to raise even the smallest of cries. </I><B>| hear </B> </P>
+<P> <U> CRY + VERB </U><B> go up </B><I>A cry went up when it was discovered their man had escaped. </I><B>| escape </B><I>An involuntary cry escaped her as he entered the room. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He fell to the ground with a cry. </I><B>| ~ for </B><I>(figurative) Her suicide attempt was really a desperate cry for help. </I><B>| ~ of </B><I>a cry of despair/delight </I></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+<P> <SUP> 2 </SUP> <TT> act of crying </TT> </P>
+<P> <U> ADJ. </U><B> good | little </B> </P>
+<P> <U> VERB + CRY </U><B> have </B><I>You'll feel better when you've had a good cry. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>cry </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> produce tears </TT> </P>
+<P> <U> ADV. </U><B> a lot | a little | almost, nearly | never, rarely | bitterly </B><I>He put his head on his arms and cried bitterly. </I><B>| loudly | quietly, silently, softly | uncontrollably | alone </B> </P>
+<P> <U> VERB + CRY </U><B> begin to, start to | make sb | leave sb to </B><I>children who are left to cry alone </I> </P>
+<P> <U> PREP. </U><B> about </B><I>What are you crying about? </I><B>| for </B><I>a child crying for his mother </I><B>| over </B><I>I wasn't going to waste time crying over him! </I><B>| with </B><I>Anna was almost crying with frustration. </I> </P>
+<P> <U> PHRASES </U><B> cry like a baby </B><I>Finally he broke down and cried like a baby. </I><B>| cry your eyes out, cry yourself to sleep, feel like crying </B><I>I felt like crying when I found out what had happened. </I><B>| a shoulder to cry on </B><I>(figurative) He was a fatherly shoulder to cry on when things went wrong. </I> </P>
+<P> <SUP> 2 </SUP> <TT> shout </TT> </P>
+<P> <U> ADV. </U><B> aloud, out | suddenly | angrily, indignantly </B><I>&lsquo;Never!&rsquo; he cried angrily. </I><B>| despairingly, desperately | excitedly | passionately, wildly </B> </P>
+<P> <U> VERB + CRY </U><B> want to </B><I>She wanted to cry out to him not to be so stupid. </I><B>| hear sb </B><I>I heard her cry out in her sleep. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>&lsquo;What do you mean?&rsquo; she cried in agitation. &lsquo;Who's there?&rsquo; she cried in a shrill voice. </I> </P>
+<P> <U> PHRASES </U><B> cry for help </B><I>She cried for help as the fire spread. </I><B>| cry out in anguish/fear/pain</B> </P>
+</DIV>

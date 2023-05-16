@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>rubbish </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> waste material </TT> </P>
+<P> <U> ADJ. </U><B> domestic, household | garden </B> </P>
+<P> <U> QUANT. </U><B> bag, pile | tons </B> </P>
+<P> <U> VERB + RUBBISH </U><B> put out </B><I>I forgot to put the rubbish out last night. </I><B>| collect, remove, take away </B><I>The rubbish is collected on Tuesdays. </I><B>| clear (out), dispose of, dump, throw (away/out) </B><I>He's clearing rubbish out of the attic. Someone had dumped their rubbish by the road. Throw the rubbish in the bin. </I><B>| leave, strew (around) </B><I>There was rubbish strewn around everywhere. </I><B>| pick up </B> </P>
+<P> <U> RUBBISH + VERB </U><B> decay, rot </B> </P>
+<P> <U> RUBBISH + NOUN </U><B> bag, bin, skip | dump, heap, tip | collection, disposal | chute </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth that you think is bad/silly/wrong </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, total, utter </B><I>The film was absolute rubbish. </I><B>| worthless </B><I>Many critics see the paintings as worthless rubbish. </I><B>| old </B><I>The antique shop was just full of old rubbish. </I> </P>
+<P> <U> VERB + RUBBISH </U><B> talk </B><I>Don't talk such rubbish! </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>the usual rubbish about his undiscovered talents </I> </P>
+<P> <U> PHRASES </U><B> a load of (old) rubbish, What rubbish!</B> </P>
+</DIV>

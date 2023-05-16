@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>lack </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> profound, serious, severe | conspicuous, distinct, notable, obvious </B><I>There was a distinct lack of urgency in his manner. </I><B>| complete, sheer, total </B><I>a complete lack of confidence </I><B>| relative | abysmal </B><I>an abysmal lack of knowledge </I> </P>
+<P> <U> PREP. </U><B> by ~ of </B><I>The situation was worsened by lack of communication. </I><B>| for ~ of </B><I>They lost the game, but not for lack of trying. </I><B>| from ~ of </B><I>She thought she would collapse from lack of sleep. </I><B>| through ~ of </B><I>I've lost those skills through lack of practice. </I><B>| ~ of </B><I>I couldn't hide my lack of enthusiasm. </I> </P>
+<P> <U> PHRASES </U><B> no lack of sth </B><I>There is certainly no lack of interest in the subject. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>lack </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> really | completely, entirely </B><I>She completely lacks confidence. </I><B>| apparently </B><I>He apparently lacked the desire to learn. </I><B>| clearly, conspicuously, manifestly, obviously | simply </B><I>Perhaps you simply lack the intelligence to realize just how serious this is? </I><B>| otherwise </B><I>Her high-heeled shoes gave her the height she otherwise lacked. </I><B>| somehow </B><I>His claim somehow lacked conviction. </I> </P>
+<P> <U> VERB + LACK </U><B> appear to, seem to </B><I>His life seemed to lack direction. </I> </P>
+</DIV>

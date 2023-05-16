@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>execution </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> killing sb as an official punishment </TT> </P>
+<P> <U> ADJ. </U><B> public | mass | judicial | extrajudicial | summary | political | mock </B> </P>
+<P> <U> VERB + EXECUTION </U><B> order </B><I>The tribunal ordered the execution of 42 coup plotters. </I><B>| carry out </B><I>Executions were carried out in the prison yard. </I><B>| face </B><I>If caught, the men could face execution. </I><B>| await </B><I>prisoners who are on death row awaiting execution </I><B>| suffer </B><I>(formal) She was taken prisoner and suffered eventual execution. </I><B>| attend, watch, witness </B> </P>
+<P> <U> EXECUTION + VERB </U><B> take place </B><I>A bell was tolled when executions took place. </I> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>execution by hanging </I> </P>
+<P> <U> PHRASES </U><B> a stay of execution </B>(= a delay in an execution being carried out) <I>The judge had granted a stay of execution. </I> </P>
+<P> <SUP> 2 </SUP> <TT> carrying out a plan/order </TT> </P>
+<P> <U> ADJ. </U><B> successful </B><I>the successful execution of the contract </I> </P>
+<P> <U> VERB + EXECUTION </U><B> stay, suspend </B><I>The court has discretion to stay or suspend execution of the order. </I> </P>
+<P> <U> PHRASES </U><B> the execution of your duty </B><I>She was charged with obstruction of a police officer in the execution of his duty. </I><B>| a stay of execution </B>(= a delay in an order being carried out)  </P>
+</DIV>

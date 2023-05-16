@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>sanctuary </b><i>noun </i> </p>
+<p> <u> VERB + SANCTUARY </u><div class="ex"><b> seek </b></div><div class="excontent"><i>Thousands of refugees have sought sanctuary in neighbouring countries. </i></div><div class="ex"><b>| take </b></div><div class="excontent"><i>In former times, criminals could take sanctuary inside a church. </i></div><div class="ex"><b>| give sb, offer (sb) </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> ~ from </b></div><div class="excontent"><i>It had been built as a sanctuary from World War II bombs. </i> </div></p>
+</div>

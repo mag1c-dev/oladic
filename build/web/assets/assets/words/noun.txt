@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>noun </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> plural, singular </B><I>&lsquo;Sheep&rsquo; is both a singular and plural noun. </I><B>| countable | mass, uncountable | feminine, masculine, neuter </B><I>Most feminine nouns in Polish end in the letter &lsquo;a&rsquo;. </I><B>| common, proper </B><I>Proper nouns begin with a capital letter. </I><B>| abstract, concrete </B><I>&lsquo;Happiness&rsquo; is an abstract noun. &lsquo;Car&rsquo; is a concrete noun. </I><B>| collective </B><I>&lsquo;Flock&rsquo; is a collective noun. </I> </P>
+<P> <U> VERB + NOUN </U><B> decline, inflect </B><I>English nouns are not usually inflected. </I><B>| modify, qualify </B><I>a prepositional phrase qualifying a noun </I><B>| follow </B><I>The noun is followed by an intransitive verb. </I><B>| precede </B><I>an adjective preceding the noun </I> </P>
+<P> <U> NOUN + VERB </U><B> end in sth </B><I>Most English plural nouns end in an &lsquo;s&rsquo;. </I><B>| follow sth | precede sth </B> </P>
+<P> <U> NOUN + NOUN </U><B> class, phrase</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>consequence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | far-reaching, important, profound | adverse, bad, catastrophic, damaging, dangerous, devastating, dire, disastrous, fatal, harmful, negative, serious, severe, terrible, tragic, unfortunate, unpleasant | beneficial, good, positive | major, main | direct, immediate | indirect | inevitable, necessary | likely, possible, potential | logical, natural | long-term, short-term | unintended | ecological, economic, electoral, environmental, financial, legal, physical, political, social </B><I>to face up to the physical consequences of ageing </I> </P>
+<P> <U> VERB + CONSEQUENCE </U><B> have, lead to </B><I>The practice had far-reaching environmental consequences. </I><B>| accept, bear, face (up to), suffer, take </B><I>You must accept the full consequences of your behaviour. </I> </P>
+<P> <U> CONSEQUENCE + VERB </U><B> arise, ensue, follow </B><I>the important electoral consequences that will follow from this decision </I> </P>
+<P> <U> PREP. </U><B> as a ~ </B><I>Hundreds of people lost their jobs as a direct consequence of the merger. </I><B>| in ~ (of) </B><I>(formal) The child was born deformed in consequence of an injury to its mother. </I><B>| ~ for </B><I>This could have serious consequences for the economy. </I> </P>
+</DIV>

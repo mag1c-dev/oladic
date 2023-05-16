@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>factory </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large | small | modern | disused | aircraft, car, chemical, clothing, munitions, etc. </B> </P>
+<P> <U> VERB + FACTORY </U><B> open, set up </B><I>capital to set up a ceramics factory </I><B>| close (down), shut (down) </B><I>They had to close the factory down in the recession. </I><B>| manage, run </B> </P>
+<P> <U> FACTORY + VERB </U><B> make sth, produce sth | open | close (down), shut (down) </B><I>The factory closed down ten years ago. </I> </P>
+<P> <U> FACTORY + NOUN </U><B> manager, owner, worker | job, production, work | buildings | closure </B> </P>
+<P> <U> PREP. </U><B> at/in ~ </B><I>He works in a shoe factory. </I> </P>
+</DIV>

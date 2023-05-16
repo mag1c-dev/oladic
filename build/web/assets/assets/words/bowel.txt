@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>bowel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, small </B> </P>
+<P> <U> VERB + BOWEL </U><B> empty, evacuate, move, open </B> </P>
+<P> <U> BOWEL + NOUN </U><B> action, function, habit, movement </B><I>Patients are asked to report any change in bowel habit. He's been having painful bowel movements. </I><B>| frequency | wall | cancer, disease, disorder, obstruction, problems, tumour | biopsy, surgery </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B> </P>
+<P> <U> PHRASES </U><B> irritable bowel syndrome</B> </P>
+</DIV>

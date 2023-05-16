@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>rag </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clean | dirty, filthy, oily, old | bloodstained </B> </P>
+<P> <U> QUANT. </U><B> bundle, heap, pile </B><I>He noticed what looked like a bundle of rags beside the road. </I> </P>
+<P> <U> VERB + RAG </U><B> wipe sth (off) with | be wrapped in </B><I>The gun was wrapped in a dirty rag. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>He wiped his hands on an oily rag. </I><B>| with a ~ </B><I>I cleaned the board with an old rag. </I> </P>
+</DIV>

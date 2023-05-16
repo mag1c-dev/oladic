@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>sandal </b><i>noun</i>  </p>
+<p> <u> ADJ. </u><div class="ex"><b> high-heeled | flat, low-heeled | open, open-toed | strappy </b></div></p>
+<p> <u> QUANT. </u><div class="ex"><b> pair </b></div></p>
+<p> <u> VERB + SANDAL </u><div class="ex"><b> kick off </b></div></p>
+</div>

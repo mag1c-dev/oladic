@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>pact </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bilateral, mutual | defence, military, security | non-agression, peace | electoral, political, social, trade | suicide </B> </P>
+<P> <U> VERB + PACT </U><B> have | conclude, enter into, form, make, strike </B><I>The Social Democrats struck an electoral pact with the Liberals. </I><B>| sign | break </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She died with her lover in a suicide pact. </I><B>| under a/the ~ </B><I>conditions under the recently signed non-aggression pact </I><B>| ~ between </B><I>a defence pact between Pakistan and France </I><B>| ~ with </B><I>He made a pact with the devil. </I> </P>
+</DIV>

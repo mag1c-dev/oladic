@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>accessible </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> able to be reached </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain | make sth </B> </P>
+<P> <U> ADV. </U><B> directly, easily, freely, readily | fully | reasonably, relatively | publicly </B> </P>
+<P> <U> PREP. </U><B> by </B><I>The museum is easily accessible by public transport. </I><B>| for </B><I>All the buildings are accessible for people in wheelchairs. </I><B>| from </B><I>The garden is accessible from the lane. </I><B>| to </B><I>The beach should be accessible to everyone. </I> </P>
+<P> <SUP> 2 </SUP> <TT> easy to understand </TT> </P>
+<P> <U> VERBS </U><B> be | become | make sth </B> </P>
+<P> <U> ADV. </U><B> easily, highly, immediately, readily, very </B><I>It is written in simple language, immediately accessible to the reader. </I><B>| widely </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The cartoon strips are designed to make Shakespeare accessible to children. </I> </P>
+</DIV>

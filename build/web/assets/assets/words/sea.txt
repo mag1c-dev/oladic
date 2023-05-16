@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>sea </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large area of salt water </TT> </P>
+<P> <U> ADJ. </U><B> calm, smooth </B><I>a calm sea after the storm </I><B>| choppy, rough </B><I>The sea was too rough for sailing in small boats. </I><B>| deep | shallow | blue, grey | cold | warm | inland | open </B><I>The fishing boats headed for the open sea. </I> </P>
+<P> <U> VERB + SEA </U><B> cross </B><I>We crossed the Mediterranean Sea on a cruise ship. </I><B>| go to </B>(= become a sailor) <B>| put (out) to </B><I>The ship put to sea </I>(= left port) <I>in deteriorating weather conditions. </I><B>| be lost at </B><I>They were lost at sea when their ship sank en route for Madeira. </I><B>| stare out to </B><I>She stood on the cliff, staring out to sea. </I> </P>
+<P> <U> SEA + VERB </U><B> rise </B><I>In recent years the sea has risen by a couple of inches. </I><B>| recede, retreat </B><I>The sea has retreated a little since the river was diverted. </I> </P>
+<P> <U> SEA + NOUN </U><B> water | bottom, floor | breeze | creature | port (also seaport), voyage | cliff, front, view </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>We spent three weeks at sea. </I><B>| across the ~ </B><I>We sailed across the Black Sea in a yacht. </I><B>| by (the) ~ </B><I>We sent our furniture by sea. They live by the sea. </I><B>| down to the ~ </B><I>We'll go down to the sea for a swim before dinner. </I><B>| in/into the ~ </B><I>I love swimming in the sea! </I><B>| on the ~ </B><I>three ships sailing on the sea </I><B>| out to ~ </B><I>She fell overboard and was swept out to sea. </I> </P>
+<P> <U> PHRASES </U><B> the bottom/edge/middle/surface of the sea, the boom/booming/murmur/roar/sound of the sea </B> </P>
+<P> <SUP> 2 </SUP> <TT> (</B><I>also </I><B>the seas</B>) movement of the waves of the sea </TT> </P>
+<P> <U> ADJ. </U><B> choppy, dangerous, heavy, mountainous, raging, rough, stormy </B><I>A week of heavy seas has created problems for fishermen. </I> </P>
+<P> <U> VERB + SEA </U><B> roam, sail </B><I>He has sailed the seven seas. </I> </P>
+<P> <U> PHRASES </U><B> on the high seas, the seven seas </B> </P>
+<P> <SUP> 3 </SUP> <TT> large amount of sth </TT> </P>
+<P> <U> ADJ. </U><B> vast </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She scanned the vast sea of faces below her. </I> </P>
+</DIV>

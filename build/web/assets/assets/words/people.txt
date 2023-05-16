@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>people </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> more than one person </TT> </P>
+<P> <U> ADJ. </U><B> young | elderly, old | common, ordinary | (very) important </B><I>a line of limousines carrying very important people </I><B>| famous | middle-class, working-class | business, professional, working | unemployed | blind, deaf, disabled </B><I>access for disabled people </I><B>| intelligent | interesting, nice | strange | single | homeless </B> </P>
+<P> <U> VERB + PEOPLE </U><B> meet | attract </B><I>The local tourist board is trying to attract more people to the town. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a particular place/race </TT> </P>
+<P> <U> ADJ. </U><B> local | country | indigenous, native | primitive </B><I>the customs of primitive peoples of the Amazon Basin </I><B>| tribal | Arab, Japanese, Slav, etc. </B><I>the culture of the Basque people </I><B>| black, white </B> </P>
+<P> <U> VERB + PEOPLE </U><B> represent </B><I>I was elected to represent the people of Bristol. </I> </P>
+<P> <U> PHRASES </U><B> the peoples of the world</B> </P>
+</DIV>

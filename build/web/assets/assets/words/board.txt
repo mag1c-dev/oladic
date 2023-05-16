@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>board </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> flat piece of wood, plastic, etc. </TT> </P>
+<P> <U> ADJ. </U><B> chess, dart, drawing, emery, ironing, notice, running, skirting, sounding </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>There's a notice on the board. </I> </P>
+<P> <SUP> 2 </SUP> <TT> group of people who control an organization </TT> </P>
+<P> <U> ADJ. </U><B> advisory, editorial, executive, management | health, school, etc. </B> </P>
+<P> <U> VERB + BOARD </U><B> be on, serve on, sit on </B><I>He sits on the company's management board. </I><B>| join | appoint sb to | resign from | go to </B><I>The project will go to the board for consideration. </I><B>| put sth to, submit sth to, take sth to </B><I>She put her ideas to the board. </I> </P>
+<P> <U> BOARD + NOUN </U><B> member | meeting </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the company's board of directors </I> </P>
+<P> <U> PHRASES </U><B> at board level </B><I>The issue has been discussed at board level. </I><B>| chairman of the board, a member of the board, a seat on the board </B><I>She was promoted and offered a seat on the board. </I> </P>
+<P> <SUP> 3 </SUP> <TT> meals that are provided when you stay in a hotel </TT> </P>
+<P> <U> ADJ. </U><B> full | half </B> </P>
+<P> <U> PHRASES </U><B> board and lodging</B> </P>
+</DIV>

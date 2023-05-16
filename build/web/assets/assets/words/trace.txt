@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>trace </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mark/sign that shows sb/sth happened/existed </TT> </P>
+<P> <U> ADJ. </U><B> archaeological, historical | indelible, permanent | memory </B><I>(technical) </I> </P>
+<P> <U> VERB + TRACE </U><B> leave </B><I>The burglar had left several traces of his presence. Little trace is left of how Stone Age people lived. </I><B>| bear, reveal, show | discover, find </B><I>The search party had found no trace of the missing climbers. </I><B>| obliterate, remove </B><I>Remove all traces of rust with a small wire brush. </I><B>| disappear/sink/vanish without </B><I>The ship seems to have sunk without trace. </I> </P>
+<P> <U> TRACE + VERB </U><B> remain </B><I>Traces still remain of the long-defunct Surrey Iron Railway. </I> </P>
+<P> <U> PREP. </U><B> with/without a ~ of sth </B><I>&lsquo;No thanks,&rsquo; she said, with a trace of irritation in her voice. </I><B>| without ~ </B><I>The plane was lost without a trace over the Atlantic. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very small amount of sth </TT> </P>
+<P> <U> ADJ. </U><B> discernible, faint, minute, slight, small, tiny </B><I>There was not the faintest trace of irony in her voice. </I><B>| unmistakable </B> </P>
+<P> <U> VERB + TRACE </U><B> contain </B><I>The water was found to contain traces of sulphuric acid. </I><B>| detect, find </B> </P>
+<P> <U> TRACE + NOUN </U><B> amount | element, gas, metal, mineral </B><I>Kelp is rich in vitamins and trace elements. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a trace of amusement/anxiety/a smile </I> </P>
+</DIV><DIV class="item"><P class="word"><B>trace </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> find out where sth is/where it comes from </TT> </P>
+<P> <U> ADV. </U><B> successfully </B> </P>
+<P> <U> VERB + TRACE </U><B> be able/unable to, can </B><I>Police have been unable to trace her movements during her final days. </I><B>| attempt to, try to | help (to) | fail to | be difficult to | be possible to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The stolen paintings have been successfully traced to a London warehouse. </I> </P>
+<P> <SUP> 2 </SUP> <TT> find/describe the cause/origin of sth </TT> </P>
+<P> <U> ADV. </U><B> carefully | easily </B><I>Words have over the centuries acquired meanings not easily traced in dictionaries. </I><B>| directly | historically | back </B> </P>
+<P> <U> VERB + TRACE </U><B> can | attempt to, try to | be difficult to </B><I>The origins of the custom are difficult to trace. </I><B>| be possible to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The book traces the history of the game back to an incident in 1863. </I> </P>
+<P> <SUP> 3 </SUP> <TT> mark where the line of sth is with a thin object </TT> </P>
+<P> <U> ADV. </U><B> lightly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>She lightly traced the outline of his face with her finger. </I> </P>
+</DIV>

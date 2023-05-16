@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>combat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fierce, mortal | armed, unarmed | close, hand-to-hand | open | single | aerial </B> </P>
+<P> <U> VERB + COMBAT </U><B> be engaged in, be locked in, engage in </B><I>The troops were locked in hand-to-hand combat. </I><B>| send sb into </B> </P>
+<P> <U> COMBAT + NOUN </U><B> mission | zone | force, troops, unit | aircraft, vehicle | boots, fatigues, gear, jacket, kit, suit, uniform </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He was killed in combat. </I><B>| in ~ with </B><I>The soldiers are in combat with rebel forces. </I><B>| ~ against </B><I>in mortal combat against dragons </I><B>| ~ between </B><I>a fierce combat between two champions </I> </P>
+</DIV>

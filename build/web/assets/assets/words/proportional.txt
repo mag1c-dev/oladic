@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>proportional </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> broadly, roughly </B><I>The amount of food a child needs is roughly proportional to its size. </I><B>| directly </B><I>The speed of the glider is directly proportional to the speed of the wind. </I><B>| inversely </B><I>The amount of force needed is inversely proportional to the rigidity of the material. </I> </P>
+<P> <U> PREP. </U><B> to</B> </P>
+</DIV>

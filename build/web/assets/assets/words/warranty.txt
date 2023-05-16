@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>warranty </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> general | specific </B><I>We can not give a specific warranty for the work done on your property. </I><B>| six-month, two-year, year's, etc. </B> </P>
+<P> <U> VERB + WARRANTY </U><B> give, provide | come with </B><I>The computer comes with a year's warranty on all parts. </I> </P>
+<P> <U> WARRANTY + VERB </U><B> cover sth </B><I>Corrosion is not covered by the warranty. </I><B>| expire, run out </B> </P>
+<P> <U> WARRANTY + NOUN </U><B> period | claim </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>Is your car still under warranty? </I><B>| ~ against </B><I>a warranty against storm damage </I><B>| ~ on </B><I>The warranty on my watch ran out just before it broke. </I> </P>
+<P> <U> PHRASES </U><B> breach of warranty </B><I>He took legal action against the company for breach of warranty. </I> </P>
+</DIV>

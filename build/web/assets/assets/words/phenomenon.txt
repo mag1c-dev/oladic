@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>phenomenon </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> common, universal, widespread | isolated, rare, unique | new, recent | natural | curious, inexplicable, remarkable, strange | complex | observable | cultural, historical, linguistic, mental, physical, political, psychological, social, supernatural, urban </B> </P>
+<P> <U> VERB + PHENOMENON </U><B> investigate </B><I>His job is to investigate supernatural phenomena. </I> </P>
+<P> <U> PHENOMENON + VERB </U><B> emerge, occur </B><I>The phenomenon occurs during early foetal development. </I> </P>
+</DIV>

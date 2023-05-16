@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>confirmation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> further | independent | direct | final | official, written </B> </P>
+<P> <U> VERB + CONFIRMATION </U><B> ask for | need, require | seek </B><I>The police are seeking independent confirmation of certain details of the story. </I><B>| await, wait for | get, have, obtain, receive | give sb, provide (sb with) </B> </P>
+<P> <U> CONFIRMATION + VERB </U><B> come </B><I>Written confirmation came three days later. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She nodded in confirmation. </I> </P>
+<P> <U> PHRASES </U><B> confirmation in writing </B><I>We need confirmation in writing before we can send your order out. </I> </P>
+</DIV>

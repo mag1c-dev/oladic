@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>event </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> sth that happens </B> </TT> </P>
+<P> <U> ADJ. </U><B> big, great, historic, important, key, main, major,  momentous, significant </B><I>Tonight's programme looks back at the main events of the year. </I><B>| dramatic, remarkable | happy | sad, tragic, traumatic | rare  </B><I>Outside big cities, murder is a rare event. </I><B>| subsequent </B><I>Subsequent events proved him wrong. </I><B>| historical, political </B> </P>
+<P> <U> VERB + EVENT </U><B> witness </B><I>When the ship finally reached land, only a few of the crew were left to witness the event. </I><B>| record </B><I>We had a huge party, and hired a photographer to record the event. </I><B>| celebrate, commemorate, mark </B><I>Today is the hospital's fiftieth anniversary, and there will be a party to mark the event. </I> </P>
+<P> <U> EVENT + VERB </U><B> happen, occur, take place, unfold </B><I>TV viewers watched in horror as events unfolded. </I><B>| lead to sth </B><I>These events quickly led to confusion. </I><B>| lead up to sth </B><I>The police are trying to establish a picture of events leading up to the killing. </I> </P>
+<P> <U> PHRASES </U><B> a chain/sequence/series of events, the course of events </B><I>Would it have been possible to change the course of events? </I> </P>
+<P> <SUP> 2 </SUP> <TT> planned social occasion </TT> </P>
+<P> <U> ADJ. </U><B> big, important, main, major, special | popular | prestigious </B><I>The Birmingham meeting is one of the most prestigious events in the racing calendar. </I><B>| inaugural | annual, regular | forthcoming </B><I>Forthcoming events are listed on the back page of the local newspaper. </I><B>| fund-raising, musical, social, sporting middle-distance, sprint </B> </P>
+<P> <U> VERB + EVENT </U><B> enter (for), take part in </B><I>A record number of teams have entered the event. </I><B>| win </B> </P>
+<P> <U> EVENT + VERB </U><B> take place </B><I>The team events will take place later this week. </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>African runners swept the medals in the distance events. </I> </B> </P>
+<P> <U> VERB + EVENT </U><B> hold, organize, stage </B><I>The event will be held in the grounds of the manor house. </I><B>| publicize | attend, support </B><I>I would like to thank everyone who attended our charity evening for supporting the event. </I><B>| boycott </B><I>Several leading players boycotted the event in protest at the reduced prize money. </I> </P>
+<P> <U> EVENT + VERB </U><B> take place </B> </P>
+<P> <SUP> 3 </SUP> <TT> race/competition </TT> </P>
+<P> <U> ADJ. </U><B> big, main </B><I>This race will be the main event of the afternoon. </I><B>| individual, team | men's, women's | field, track | jumping, running, throwing | distance, long-distance,</B> </P>
+</DIV>

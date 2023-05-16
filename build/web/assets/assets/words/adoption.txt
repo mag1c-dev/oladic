@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>adoption </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of child </TT> </P>
+<P> <U> VERB + ADOPTION </U><B> offer sb for, place sb for, put sb up for </B><I>She has decided to put the child up for adoption. </I><B>| be available for </B><I>When will the child be available for adoption? </I> </P>
+<P> <U> ADOPTION + VERB </U><B> go through </B><I>They were so happy when the adoption went through successfully. </I> </P>
+<P> <U> ADOPTION + NOUN </U><B> agency </B> </P>
+<P> <SUP> 2 </SUP> <TT> taking/using sth </TT> </P>
+<P> <U> ADJ. </U><B> general, widespread | formal </B><I>The party announced the formal adoption of George Smith as their </I> </P>
+<P> <U> VERB + ADOPTION </U><B> recommend, urge </B><I>The committee recommended the adoption of new safety procedure </I> </P>
+</DIV>

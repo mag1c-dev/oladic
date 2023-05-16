@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>whale </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> beached, stranded </B> </P>
+<P> <U> QUANT. </U><B> school </B> </P>
+<P> <U> VERB + WHALE </U><B> hunt | harpoon </B> </P>
+<P> <U> WHALE + VERB </U><B> swim | dive | sing | blow (sth) </B><I>We saw a whale blowing a jet of spray high in the air. </I><B>| breach sth </B><I>Ahead, the whale breached the surface of the water. </I><B>| beach itself, be washed up </B> </P>
+<P> <U> WHALE + NOUN </U><B> hunting | meat, oil | stocks </B><I>management and conservation of whale stocks </I> </P>
+</DIV>

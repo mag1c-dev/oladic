@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>promise </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> statement that you will do sth </TT> </P>
+<P> <U> ADJ. </U><B> big </B><I>He makes all kinds of big promises he has little intention of keeping. </I><B>| rash | broken, unfulfilled | empty, false, hollow | vague | binding, firm | campaign, election, pre-election </B> </P>
+<P> <U> VERB + PROMISE </U><B> give sb, make (sb) </B><I>You gave me your promise I could use the car tonight. I'll consider it, but I make no promises. </I><B>| fulfil, honour, keep | break, go back on | extract </B><I>We extracted a promise from them that they would repay the money by May. </I><B>| hold sb to </B><I>The Opposition is determined to hold the government to its election promises. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>They've made all sorts of promises about reforming the health system. </I><B>| ~ of </B><I>promises of support </I> </P>
+<P> <SUP> 2 </SUP> <TT> signs that sb/sth will be successful </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, real </B><I>This new venture holds great promise for the future. </I><B>| early, youthful </B> </P>
+<P> <U> VERB + PROMISE </U><B> hold, show | fulfil, live up to </B><I>His career failed to fulfil its early promise. </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>a pianist of promise </I><B>| ~ as </B><I>She showed great promise as a runner. </I> </P>
+<P> <U> PHRASES </U><B> full of promise </B><I>The year began so full of promise, and ended in disappointment. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>promise </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> faithfully </B><I>She promised faithfully that she would come. </I><B>| solemnly </B> </P>
+<P> <U> VERB + PROMISE </U><B> can/can't | seem to </B><I>The plan seemed to promise a new beginning. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>I've promised my old computer to Jane. </I> </P>
+<P> <U> PHRASES </U><B> as promised </B><I>I am sending you information on holidays as promised. </I><B>| I can't promise anything </B><I>I can't promise anything, but I hope to have it finished next week. </I> </P>
+</DIV>

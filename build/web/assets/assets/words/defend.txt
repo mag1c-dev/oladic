@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>defend </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> protect against attack </TT> </P>
+<P> <U> PREP. </U><B> against </B> </P>
+<P> <U> PHRASES </U><B> heavily defended </B><I>The city was heavily defended against attack. </I> </P>
+<P> <SUP> 2 </SUP> <TT> support </TT> </P>
+<P> <U> ADV. </U><B> fiercely, hotly, robustly, staunchly, stoutly, strenuously, strongly, vigorously </B><I>The company has strenuously defended its decision to reduce the workforce. </I><B>| publicly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>She defended her department against accusations of incompetence. </I> </P>
+<P> <SUP> 3 </SUP> <TT> in sport/competitions </TT> </P>
+<P> <U> ADV. </U><B> successfully </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The champion successfully defended his title against the American challenger. </I> </P>
+</DIV>

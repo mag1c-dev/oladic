@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>plant </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> living thing </TT> </P>
+<P> <U> ADJ. </U><B> attractive | delicate | wild | rare | garden, house, indoor, potted | exotic, tropical | medicinal | food </B><I>food plants of rare butterflies </I><B>| crop | poisonous | perennial | aquatic, desert, marsh | bedding, climbing, flowering, ornamental | herbaceous, leguminous | strawberry, tomato, etc. </B> </P>
+<P> <U> VERB + PLANT </U><B> cultivate, grow | water </B> </P>
+<P> <U> PLANT + VERB </U><B> develop, grow | flourish | die | absorb sth, consume sth </B><I>Plants absorb carbon in the form of carbon dioxide. </I> </P>
+<P> <U> PLANT + NOUN </U><B> roots | growth | life </B><I>Much of the local plant life has been destroyed by the chemicals. </I><B>| species, variety | material, matter, tissue | pot | science </B> </P>
+<P> <SUP> 2 </SUP> <TT> factory </TT> </P>
+<P> <U> ADJ. </U><B> industrial | assembly, manufacturing, production | car | nuclear, power | processing, reprocessing, sewage, treatment, water-treatment </B><I>a waste reprocessing plant </I><B>| chemical, petrochemical </B> </P>
+<P> <U> VERB + PLANT </U><B> build | dismantle | manage, run </B> </P>
+<P> <U> PLANT + NOUN </U><B> manager</B> </P>
+</DIV><DIV class="item"><P class="word"><B>plant </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put plants/seeds in the ground to grow </TT> </P>
+<P> <U> ADV. </U><B> carefully | deliberately </B><I>weeds that had not been deliberately planted </I> </P>
+<P> <U> PREP. </U><B> in </B><I>Carefully plant your cutting in the soil. </I><B>| with </B><I>The garden was planted with roses and other shrubs. </I> </P>
+<P> <U> PHRASES </U><B> densely/thickly planted </B><I>a thickly planted orange grove </I><B>| freshly/newly/recently planted </B> </P>
+<P> <SUP> 2 </SUP> <TT> put sth firmly in a place/position </TT> </P>
+<P> <U> ADV. </U><B> firmly, solidly, squarely </B><I>She planted a kiss squarely on his cheek. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>He was determined to keep both feet firmly planted on dry land. </I> </P>
+</DIV>

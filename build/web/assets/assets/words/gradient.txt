@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>gradient </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> steep | gentle, slight | downhill, uphill </B> </P>
+<P> <U> VERB + GRADIENT </U><B> have </B><I>The road has a fairly steep gradient. </I> </P>
+<P> <U> PREP. </U><B> on a ~ </B><I>The football pitch was on a slight gradient. </I> </P>
+</DIV>

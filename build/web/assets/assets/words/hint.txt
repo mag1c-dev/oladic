@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>hint </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> suggestion </TT> </P>
+<P> <U> ADJ. </U><B> broad, clear, heavy, strong </B><I>He gave a broad hint that he was on the verge of leaving. </I><B>| gentle, subtle, veiled | tantalizing </B> </P>
+<P> <U> VERB + HINT </U><B> drop, give (sb) </B><I>I dropped a few subtle hints about the payment being due. </I><B>| get, take </B><I>OK, I get the hint! Can't you take a hint and leave me alone? </I> </P>
+<P> <U> PREP. </U><B> ~ about, ~ from </B><I>a hint from my boss about my absences from the office </I><B>| ~ to </B><I>Is that a hint to me to leave? </I> </P>
+<P> <SUP> 2 </SUP> <TT> small amount of sth </TT> </P>
+<P> <U> ADJ. </U><B> strong </B><I>a dish with a strong hint of garlic </I><B>| faint, merest, slightest </B><I>The slightest hint of gossip upset her. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>There was a hint of amusement in his voice. </I> </P>
+<P> <U> PHRASES </U><B> at the first hint of sth </B><I>At the first hint of trouble, I will call the police. </I> </P>
+<P> <SUP> 3 </SUP> <TT> piece of advice </TT> </P>
+<P> <U> ADJ. </U><B> handy, helpful, practical, useful </B> </P>
+<P> <U> VERB + HINT </U><B> give (sb) </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>The book gives some useful hints about how to plan your garden. </I><B>| ~ on </B><I>a book full of handy hints on painting and decorating </I> </P>
+</DIV><DIV class="item"><P class="word"><B>hint </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> strongly </B><I>He hinted strongly that he would be resigning soon. </I><B>| discreetly | darkly </B><I>She hinted darkly that all was not well. </I><B>| only </B> </P>
+<P> <U> PREP. </U><B> at </B><I>The problems are only hinted at in the report. </I> </P>
+</DIV>

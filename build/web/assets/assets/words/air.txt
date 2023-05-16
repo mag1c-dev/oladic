@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>air </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> gas/space </TT> </P>
+<P> <U> ADJ. </U><B> hot, warm | chill, cold, cool, crisp | clean, clear, fresh, pure  </B><I>We need some fresh air in this stuffy room! </I><B>| sweet </B><I>The air was sweet with incense. </I><B>| foul/foul-smelling, polluted, stale </B><I>the polluted air of our cities </I> </P>
+<P> </B><I>the musty smell of stale air </I><B>| damp, humid | dry | still </B><I>Nothing moved in the still air. </I><B>| thin </B><I>It's difficult carrying such heavy loads in the thin air of the mountains. </I><B>| thick </B><I>The air was thick with cigarette smoke. </I><B>| country, mountain, sea | evening, morning, night </B><I>Music filled the night air. </I> </P>
+<P> <U> QUANT. </U><B> blast, gust </B><I>We felt a blast of cold air as she opened the door. </I> <B>| current </B><I>warm currents of air </I><B>| breath </B><I>He drew in another breath of air. </I> </P>
+<P> <U> VERB + AIR </U><B> breathe (in), gulp in, suck in </B><I>Land crabs breathe air and cannot swim. She gulped in the fresh mountain air. </I><B>| fight for, gasp for </B><I>She was gasping for air as she ran out of the burning house. </I><B>| smell, sniff </B><I>The dog stretched and sniffed the air. </I><B>| fill, hang in </B><I>The tang of some wild herb hung in the air. </I> </P>
+<P> <U> AIR + VERB </U><B> blow, rise, waft </B><I>The cool night air wafted in the open windows. </I> </P>
+<P> <U> AIR + NOUN </U><B> pollution | quality </B><I>equipment to monitor air quality </I><B>| pressure | current </B> </P>
+<P> <U> PREP. </U><B> in/into the ~ </B><I>I kicked the ball high into the air. </I><B>| through the ~ </B><I>Spicy smells wafted through the air. </I> </P>
+<P> <U> PHRASES </U><B> in the open air </B>(= outside) <I>The market is held in the open air. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for planes </TT> </P>
+<P> <U> AIR + NOUN </U><B> travel | fare | traffic </B><I>We are cleared by Air Traffic Control to taxi and take off. </I><B>| crash, disaster | attack, strike </B><I>Three buildings were bombed last night in an air strike on the city. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B>(= by plane) <I>It only takes three hours by air. </I><B>| from the ~ </B><I>The hideout is clearly visible from the air. </I> </P>
+<P> <U> PHRASES </U><B> in mid-air </B><I>The two planes collided in mid air. </I> </P>
+<P> <SUP> 3 </SUP> <TT> impression </TT> </P>
+<P> <U> VERB + AIR </U><B> have, retain </B><I>You have an air of authority. </I><B>| add, bring, give (sth) </B><I>A stone balcony gives the building an air of elegance. </I> </P>
+<P> <U> PREP. </U><B> with an/the ~ </B><I>He leaned towards Melissa with an air of great confidentiality. </I><B>| ~ of </B> </P>
+</DIV><DIV class="item"><P class="word"><B>air </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> in public, openly, publicly </B><I>The issues were openly aired and discussed by the group. </I> </P>
+</DIV>

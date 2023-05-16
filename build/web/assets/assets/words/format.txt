@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>format </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, small | standard </B> </P>
+<P> <U> VERB + FORMAT </U><B> change </B><I>For this year, we have decided to change the format of the conference slightly. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The book is now available in a slightly smaller format. </I> </P>
+</DIV>

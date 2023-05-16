@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>proceedings </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> court, criminal, judicial, legal | bankruptcy, divorce, extradition, impeachment, libel | appeal, civil, committal, summary </B> </P>
+<P> <U> VERB + PROCEEDINGS </U><B> bring, institute, take | begin, commence, start </B> </P>
+<P> <U> PROCEEDINGS + VERB </U><B> begin, commence </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>decisions made in court proceedings </I><B>| ~ against </B><I>She is bringing divorce proceedings against her husband. </I><B>| ~ before </B><I>in appeal proceedings before a tribunal </I><B>| ~ between </B><I>proceedings between the four parties involved </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>analogy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> appropriate, apt, useful | close, obvious </B><I>A close analogy with the art of singing can be made. </I> </P>
+<P> <U> VERB + ANALOGY </U><B> draw, make, suggest, use </B><I>She drew an analogy between running the economy and a housewife's weekly budget. </I> </P>
+<P> <U> ANALOGY + VERB </U><B> fit, hold </B><I>The Wild West analogy does not fit here. </I> </P>
+<P> <U> PREP. </U><B> by ~ (to/with) </B><I>We can understand this theory by analogy with human beings. </I><B>| ~ between </B><I>She suggested an analogy between the human heart and a pump. </I><B>| ~ for </B><I>The computer is a useful analogy for the brain. </I><B>| ~ with </B><I>There is an analogy here with the way an engine works. </I> </P>
+<P> <U> PHRASES </U><B> argument by/from analogy </B><I>Argument from analogy is not always valid. </I> </P>
+</DIV>

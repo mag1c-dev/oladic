@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cable </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> electric, telephone | overhead, underground | fibre-optic </B> </P>
+<P> <U> QUANT. </U><B> length </B><I>a length of electric cable </I> </P>
+<P> <U> VERB + CABLE </U><B> lay, run </B><I>Roads have to be dug up to lay underground cables. Engineers plan to run the telephone cables under the river. </I><B>| connect </B><I>Connect the cable to the correct terminal. </I> </P>
+<P> <U> CABLE + VERB </U><B> go, run </B><I>a cable running under the road </I><B>| connect sth </B><I>new cables connecting major cities in Europe </I><B>| carry sth </B><I>These fibre-optic cables can carry telephone calls and computer data. </I> </P>
+</DIV>

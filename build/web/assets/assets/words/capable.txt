@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>capable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> having a lot of skill </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B><I>She seems very capable. </I> </P>
+<P> <U> ADV. </U><B> extremely, highly, quite, very </B><I>He has proved himself an extremely capable manager. </I></P>
+<P> <SUP> 2 </SUP> <TT> capable of: able to do sth  </TT> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, prove, seem | become | believe sb, consider sb </B><I>She could hardly believe him capable of such kindness. </I> </P>
+<P> <U> ADV. </U><B> fully, more than, perfectly, quite, well </B><I>She is more than capable of looking after herself. </I><B>| barely, hardly, scarcely </B><I>He was barely capable of writing his own name. </I><B>| reasonably | clearly, obviously | potentially, theoretically | physically </B><I>He was not physically capable of climbing out of the window. </I> </P>
+</DIV>

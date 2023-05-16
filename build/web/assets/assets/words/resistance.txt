@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>resistance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> trying to stop sth </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, stiff, strong, substantial | determined, fierce, heroic, serious, spirited, stubborn | effective | token | active | passive | collective, organized | widespread | armed, military | political | popular, public | guerrilla, peasant </B> </P>
+<P> <U> VERB + RESISTANCE </U><B> mount, offer, put up </B><I>They mounted stiff resistance to the proposal. </I><B>| encounter, meet (with), run into </B><I>The advancing army met with little resistance. </I><B>| break (down), crush, overcome </B> </P>
+<P> <U> RESISTANCE + VERB </U><B> stiffen | collapse, crumble </B> </P>
+<P> <U> RESISTANCE + NOUN </U><B> movement | fighter, forces, group, leader, worker </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>The attacks did not take place without resistance. </I><B>| ~ against </B><I>armed resistance against the Nazis </I><B>| ~ to </B><I>There was fierce resistance to the new laws. </I> </P>
+<P> <U> PHRASES </U><B> the line/path of least resistance </B>(= the easiest way of doing sth), <B>a pocket of resistance </B>(= an area of resistance)  </P>
+<P> <SUP> 2 </SUP> <TT> to a disease/drugs </TT> </P>
+<P> <U> ADJ. </U><B> high | low | disease | antibiotic, drug </B> </P>
+<P> <U> VERB + RESISTANCE </U><B> have | build up, develop </B><I>You need to build up your resistance to colds. </I><B>| lower </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Aids lowers the body's resistance to infection. </I> </P>
+</DIV>

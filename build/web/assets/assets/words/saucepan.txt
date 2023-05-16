@@ -1,0 +1,7 @@
+
+<div class="item"><p class="word first"><b>saucepan (</b><i>also </i><b>pan) </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> non-stick | heavy, heavy-based </b></div></p>
+<p> <u> VERB + SAUCEPAN </u><div class="ex"><b> cover </b></div><div class="excontent"><i>Cover the saucepan and remove from the heat. </i></div><div class="ex"><b>| remove from the heat | add sth to, put sth in/into, return sth to | remove sth from </b></div></p>
+<p> <u> SAUCEPAN + VERB </u><div class="ex"><b> contain sth </b></div><div class="excontent"><i>a pan containing lots of boiling salted water </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> in/into a/the ~ </b></div><div class="excontent"><i>Heat one tablespoon of oil in a saucepan. Pour the pasta into a pan of boiling water. </i> </div></p>
+</div>

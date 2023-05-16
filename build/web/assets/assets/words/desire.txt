@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>desire </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> burning, deep, great, strong, urgent | insatiable, overwhelming </B><I>Most children have an insatiable desire for knowledge. </I><B>| genuine, real | natural | sexual </B> </P>
+<P> <U> VERB + DESIRE </U><B> feel, have </B><I>I suddenly felt an overwhelming desire to laugh </I><B>| express </B><I>The chairman expressed his desire to expand the company. </I><B>| satisfy | be motivated by </B><I>They were motivated by a deep desire for money and fame. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Horses need to satisfy their desire for space and freedom. </I> </P>
+<P> <U> PHRASES </U><B> an object of desire </B><I>He felt he was nothing more to her than an object of desire. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>desire </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> greatly, really, sincerely, very much </B><I>A home of her own was something she had always very much desired. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>gather </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> come together in a group </TT> </P>
+<P> <U> ADV. </U><B> quickly | around/round, together </B> </P>
+<P> <U> PREP. </U><B> about/around/round </B><I>The boys gathered around the car. </I><B>| for </B><I>They are all gathering for a major conference. </I> </P>
+<P> <SUP> 2 </SUP> <TT> bring people/things together </TT> </P>
+<P> <U> ADV. </U><B> hastily, quickly </B><I>She hastily gathered all her belongings together. </I><B>| carefully | together, up </B> </P>
+<P> <SUP> 3 </SUP> <TT> increase </TT> </P>
+<P> <U> ADV. </U><B> quickly, rapidly </B><I>The movement for reform rapidly gathered momentum. </I><B>| slowly | steadily </B> </P>
+<P> <U> VERB + GATHER </U><B> begin to, start to </B><I>As the weeks passed, Charlotte began to gather strength. </I> </P>
+</DIV>

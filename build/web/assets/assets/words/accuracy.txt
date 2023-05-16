@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>accuracy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absolute, complete, deadly, perfect, pinpoint, total, unerring </B><I>The needle has to be positioned with pinpoint accuracy. </I><B>| amazing, considerable, great, high </B><I>(technical)</I>, <B>remarkable, uncanny | reasonable, sufficient | factual, historical, technical </B> </P>
+<P> <U> QUANT. </U><B> degree, level </B><I>The missiles are capable of a very high degree of accuracy. </I> </P>
+<P> <U> VERB + ACCURACY </U><B> improve, increase </B><I>We are hoping to improve the accuracy of our forecasts. </I><B>| check, confirm, test | ensure </B><I>Great care is taken to ensure the accuracy of research data. </I><B>| doubt, question </B><I>Many people began to question the accuracy of his statement. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>It is possible to predict the outcome with reasonable accuracy. </I> </P>
+</DIV>

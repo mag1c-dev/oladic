@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>strain </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> severe demand on strength, resources, etc. </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, heavy, real, severe, terrible, tremendous </B><I>It's a real strain having to get up so early! </I><B>| slight | increasing | constant | excessive, intolerable, unbearable, undue | emotional, financial, mental, nervous, physical, psychological </B><I>The mental strain of sharing an office with Alison was starting to tell. </I><B>| breaking </B><I>a fishing line with a 15lb breaking strain </I> </P>
+<P> <U> VERB + STRAIN </U><B> be/come under, feel, suffer (from) </B><I>Television newsreaders come under enormous strain. After weeks of overtime, she was starting to feel the strain. </I><B>| cause, create, impose, place, put </B><I>Increasing demand is placing undue strain on services. </I><B>| ease, reduce | cope with, stand, take | increase </B> </P>
+<P> <U> STRAIN + VERB </U><B> show, take its toll (on sb), tell (on sb) </B><I>After six weeks of uncertainty, the strain was beginning to take its toll. </I> </P>
+<P> <U> PREP. </U><B> under the ~ </B><I>The ice gave way under the strain. He broke under the strain of having to work twelve hours a day. </I><B>| ~ on </B><I>There's too much strain on the corner of the table. </I> </P>
+<P> <U> PHRASES </U><B> a bit of a strain </B><I>I found it a bit of a strain making conversation with her. </I><B>| signs of strain </B><I>After three years, their marriage was beginning to show signs of strain. </I><B>| stresses and strains </B><I>the stresses and strains of a long day </I><B>| take the strain off sb/out of sth </B><I>The new scheme is designed to take the strain out of shopping. </I> </P>
+<P> <SUP> 2 </SUP> <TT> injury </TT> </P>
+<P> <U> ADJ. </U><B> bad | slight | back, eye, muscle, thigh, etc. </B> </P>
+<P> <U> VERB + STRAIN </U><B> have, be suffering from | get </B><I>You'll get eye strain if you don't put the light on. </I><B>| recover from, shake off </B><I>Gerrard will play if he can shake off a slight thigh strain. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>strain </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make a great effort to do sth </TT> </P>
+<P> <U> ADV. </U><B> hard </B><I>straining hard to understand </I><B>| forward </B><I>I strained forward to get a better view. </I> </P>
+<P> <U> VERB + STRAIN </U><B> have to </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The dogs were straining against the sledge. </I><B>| at </B><I>Several men were straining at a rope, trying to move the stalled vehicle. </I><B>| for </B><I>Their ears strained for any slight sound. </I> </P>
+<P> <U> PHRASES </U><B> strain to hear/see sth </B><I>We had to strain to hear what was being said. </I> </P>
+<P> <SUP> 2 </SUP> <TT> put a lot of pressure on sth </TT> </P>
+<P> <U> ADV. </U><B> seriously, severely </B><I>The dispute severely strained relations between the two countries. </I> </P>
+</DIV>

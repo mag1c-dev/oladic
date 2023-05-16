@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>repair </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, extensive, major | minor | essential, necessary, vital | emergency, immediate, urgent | quick, rapid | constant | temporary | running </B><I>The rally drivers carried small tool-kits for making running repairs. </I><B>| building, house/housing, roof, structural | car, motorway, road, vehicle | electrical, TV | shoe </B> </P>
+<P> <U> VERB + REPAIR </U><B> carry out, do, make | complete </B><I>It is unlikely that the repairs will be completed on time. </I><B>| be in need of, need, require | be closed for </B><I>The museum is currently closed for structural repairs. </I><B>| undergo </B><I>The highway is undergoing major repairs. </I> </P>
+<P> <U> REPAIR + VERB </U><B> cost sth </B> </P>
+<P> <U> REPAIR + NOUN </U><B> work | job </B><I>The damage meant a nine-month repair job. </I><B>| bill, cost | centre, facility, garage, shop, yard </B><I>a repair yard for fishing boats </I><B>| man </B><I>Why don't you get a TV repair man to have a look at it before you buy a new one? </I><B>| kit </B> </P>
+<P> <U> PREP. </U><B> beyond ~ </B><I>The gearbox was damaged beyond repair. </I><B>| under ~ </B><I>We were given a courtesy car to use while our car was under repair. </I><B>| ~ to </B><I>to carry out repairs to the railway track </I> </P>
+<P> <U> PHRASES </U><B> a backlog of repairs </B><I>Investment is needed to reduce the backlog of repairs. </I><B>| in good/poor repair </B><I>The tools are old but in good repair. </I><B>| keep sth in (good) repair </B><I>As a tenant you are required to keep the house in good repair. </I><B>| repair and maintenance </B><I>They are responsible for the repair and maintenance of the buildings. </I><B>| a &hellip; state of repair </B><I>The barn was in a poor state of repair. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>repair </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> properly, successfully </B><I>Most of the damage has now been successfully repaired. </I><B>| poorly | extensively | completely | partially | quickly | regularly </B> </P>
+<P> <U> VERB + REPAIR </U><B> try to | help (to) </B><I>Natural vitamins in the shampoo will help repair damaged hair. </I> </P>
+<P> <U> PHRASES </U><B> the cost of repairing sth </B><I>They estimate the cost of repairing the damaged roads at </I>&pound;</B><I>1 million. </I><B>| have sth repaired </B><I>I'm having my car repaired next week. </I> </P>
+</DIV>

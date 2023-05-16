@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>edge </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place where sth ends </TT> </P>
+<P> <U> ADJ. </U><B> top </B><I>the top edge of the picture frame </I><B>| bottom, lower | inner, inside | outer, outside | front | northern, southern, etc. | very </B><I>Erosion has left the house perched on the very edge of the cliff. </I><B>| cliff, water's </B><I>A row of boats was beached at the water's edge. </I> </P>
+<P> <U> VERB + EDGE </U><B> reach </B><I>We had reached the edge of the map and didn't know which way to go. </I><B>| skirt </B><I>The road skirts the western edge of the forest. </I> </P>
+<P> <U> PREP. </U><B> along the ~, around/round the ~ </B><I>Smoke was making its way around the edges of the door. </I><B>| at the ~ </B><I>Soon we were at the edge of the woods. </I><B>| on the ~ </B><I>She sat on the edge of her bed. </I><B>| over the ~ </B><I>The car rolled over the edge of the cliff. </I> </P>
+<P> <U> PHRASES </U><B> right on the edge </B><I>They live right on the edge of town. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sharp side of sth </TT> </P>
+<P> <U> ADJ. </U><B> sharp | cutting | serrated </B><I>a knife with a serrated edge </I><B>| jagged, ragged, rough | smooth | blunt </B> </P>
+<P> <U> VERB + EDGE </U><B> sharpen </B> </P>
+<P> <SUP> 3 </SUP> <TT> advantage </TT> </P>
+<P> <U> ADJ. </U><B> competitive | slight | decided </B> </P>
+<P> <U> VERB + EDGE </U><B> give sb/sth | gain, have </B><I>to gain a competitive edge over rival suppliers </I> </P>
+<P> <U> PREP. </U><B> ~ over </B><I>The intensive training she had done gave her the edge over the other runners. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>edge </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, cautiously, nervously | quietly | slowly </B> </P>
+<P> <U> PREP. </U><B> along </B><I>He edged carefully along the narrow ledge. </I><B>| towards </B><I>We slowly edged our way towards the exit. </I> </P>
+<P> <U> PHRASES </U><B> edge your way</B> </P>
+</DIV>

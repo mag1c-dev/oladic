@@ -1,0 +1,45 @@
+
+<DIV class="item"><P class="word"><B>order </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way in which people/things are arranged </TT> </P>
+<P> <U> ADJ. </U><B> correct, right | wrong | logical </B><I>The paragraphs are not in a logical order. </I><B>| ascending </B><I>arranged in ascending order of size </I><B>| descending | alphabetical, chronological, numerical, random, reverse | pecking </B><I>the pecking order among the hospital staff </I><B>| word </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The winners were announced in reverse order. </I><B>| in ~ of </B><I>I've listed the tasks in order of priority. </I> </P>
+<P> <SUP> 2 </SUP> <TT> organized state </TT> </P>
+<P> <U> ADJ. </U><B> apple-pie </B>(= perfect) <I>The accounts were in apple-pie order. </I> </P>
+<P> <U> VERB + ORDER </U><B> bring, create, impose </B><I>to bring order out of chaos She attempted to impose some order on the chaos of her files. </I><B>| put/set sth in | leave sth in </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>My notes are in order. </I> </P>
+<P> <U> PHRASES </U><B> in good order </B><I>The house is in good order. </I> </P>
+<P> <SUP> 3 </SUP> <TT> when laws, rules, authority, etc. are obeyed </TT> </P>
+<P> <U> ADJ. </U><B> public </B> </P>
+<P> <U> VERB + ORDER </U><B> keep, maintain, preserve | restore | keep sb/sth in </B><I>Some teachers find it difficult to keep their classes in order. </I><B>| call sb/sth to </B><I>The argument continued until the chairman called them both to order </I>(= ordered them to obey the formal rules of the meeting)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B>(= allowed by the rules) <I>Would it be in order for us to examine the manuscript? </I><B>| out of ~ </B>(= not allowed by the rules) <I>His objection was ruled out of order. </I> </P>
+<P> <U> PHRASES </U><B> law and order, a point of order </B><I>One of the committee members raised a point of order. </I> </P>
+<P> <SUP> 4 </SUP> <TT> way a society is arranged </TT> </P>
+<P> <U> ADJ. </U><B> established, existing, old </B><I>He was seen as a threat to the established order. </I><B>| new | natural </B><I>the natural order of things </I><B>| economic, political, social | world </B><I>a new world order </I> </P>
+<P> <SUP> 5 </SUP> <TT> instruction/demand </TT> </P>
+<P> <U> ADJ. </U><B> direct, specific | executive | sealed </B><I>He opened his sealed orders. </I><B>| court | maintenance, preservation, restraining </B><I>a wildlife preservation order </I> </P>
+<P> <U> VERB + ORDER </U><B> give, issue, make </B><I>(law) The captain gave the order to fire. The judge made an order for the costs to be paid. </I><B>| receive | carry out, execute, follow, obey, take </B><I>The local civilians don't take orders from the military. </I><B>| disobey, ignore, violate | cancel, countermand, rescind, revoke | bark/bawl/shout (out) </B><I>He barked out orders as he left. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The council's functions were established by order. </I><B>| by ~ of </B><I>by order of the police </I><B>| on sb's ~s </B><I>The ship was to set sail at once, on the admiral's orders. </I><B>| under ~s (from) </B><I>A group of soldiers, under orders from the president, took control of the television station. </I><B>| ~s for </B><I>The colonel had given orders for the spy's execution. </I> </P>
+<P> <U> PHRASES </U><B> doctor's orders </B><I>I'm not to drink any alcohol?doctor's orders! </I><B>| get your marching orders </B>(= be ordered to leave), <B>give sb their marching orders </B> </P>
+<P> <SUP> 6 </SUP> <TT> request for sth to be made/supplied/delivered </TT> </P>
+<P> <U> ADJ. </U><B> bulk, large, record | small | firm | advance | back, outstanding | repeat | tall </B>(= difficult to fulfill; unreasonable) <B>| mail, money, postal, standing | export </B> </P>
+<P> <U> VERB + ORDER </U><B> place, put in </B><I>I've placed an order for the CD. </I><B>| cancel | receive, win </B><I>The company won a </I>&pound;</B><I>10 million order for oil-drilling equipment. </I><B>| have | fill, fulfil, meet </B><I>trying to fill all the back orders </I><B>| make sth to </B><I>a cupboard made to order </I> </P>
+<P> <U> ORDER + NOUN </U><B> form </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>We have ten boxes on order. </I><B>| ~ for </B><I>We have a firm order for ten cases of wine. </I> </P>
+<P> <SUP> 7 </SUP> <TT> request for food, etc. in a restaurant, etc. </TT> </P>
+<P> <U> ADJ. </U><B> side </B><I>a side order of mixed salad </I><B>| last ~s </B><I>Last orders at the bar now please! </I> </P>
+<P> <U> VERB + ORDER </U><B> take </B><I>The waiter came to take their orders. </I><B>| give sb </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>an order for steak and fries </I> </P>
+<P> <SUP> 8 </SUP> <TT> group of people living in a religious community </TT> </P>
+<P> <U> ADJ. </U><B> monastic, religious | contemplative | closed </B>(= with little or no contact with the outside world) <B>| Benedictine, Cistercian, etc.</B> </P>
+</DIV><DIV class="item"><P class="word"><B>order </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> tell sb to do sth </TT> </P>
+<P> <U> ADV. </U><B> expressly, specifically | immediately | personally </B><I>The army's Chief of Staff had personally ordered the raid. </I><B>| formally | about, around </B><I>Stop ordering me around! </I><B>| back, home, off, out </B><I>There were seven bookings and two players were ordered off. </I> </P>
+<P> <U> PREP. </U><B> off, out of </B><I>All journalists have been ordered out of the country. </I> </P>
+<P> <SUP> 2 </SUP> <TT> ask for sth </TT> </P>
+<P> <U> ADV. </U><B> direct/directly </B> </P>
+<P> <U> PREP. </U><B> for </B><I>We can order the book for you, if you like. </I><B>| from </B><I>You can order the book direct from the publisher. </I> </P>
+<P> <SUP> 3 </SUP> <TT> organize/arrange sth </TT> </P>
+<P> <U> ADV. </U><B> alphabetically, chronologically, hierarchically, logically </B><I>The entries are ordered alphabetically. </I> </P>
+<P> <U> PREP. </U><B> according to </B><I>Different senses of a word are ordered according to frequency. </I> </P>
+<P> <U> PHRASES </U><B> highly/well ordered </B><I>She led a highly ordered existence, with everything having its own time and place. </I> </P>
+</DIV>

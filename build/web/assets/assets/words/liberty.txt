@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>liberty </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great | complete | basic </B><I>a citizens' charter which gives people basic civil liberties </I><B>| civil, individual, personal, political, religious </B> </P>
+<P> <U> VERB + LIBERTY </U><B> enjoy, have | demand, fight for | win </B><I>The city won its liberty in the sixteenth century. </I><B>| lose </B><I>If found guilty, she is in danger of losing her liberty. </I><B>| defend, protect, safeguard </B><I>The law should protect the liberty of the individual. </I><B>| threaten </B><I>The new legislation threatens individual liberty. </I><B>| erode, restrict </B><I>Our personal liberty is being eroded. </I><B>| deny, deprive sb of, destroy | allow sb, give sb </B><I>The system allows us complete liberty to do the task as we like. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>The escaped prisoner has been at liberty for five days. </I><B>| ~ for </B><I>demanding greater liberty for women </I><B>| ~ from </B><I>liberty from the abuse of police power </I> </P>
+<P> <U> PHRASES </U><B> an infringement of liberty, loss of liberty, a threat to liberty</B> </P>
+</DIV>

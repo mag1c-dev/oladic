@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>consistent </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> always behaving in the same way </TT> </P>
+<P> <U> VERBS </U><B> be | remain </B> </P>
+<P> <U> ADV. </U><B> highly, remarkably, very | absolutely, completely, entirely, quite, wholly </B><I>His attitude isn't absolutely consistent. </I><B>| largely | fairly, reasonably </B> </P>
+<P> <SUP> 2 </SUP> <TT> in agreement with sth </TT> </P>
+<P> <U> VERBS </U><B> be, seem | remain </B> </P>
+<P> <U> ADV. </U><B> completely, entirely, fully, perfectly | broadly, largely | fairly, quite, reasonably | internally </B><I>His argument is not even internally consistent </I>(= different parts of the argument contradict each other)</B><I>. </I><B>| mutually </B><I>It is desirable that domestic and EU law should be mutually consistent. </I><B>| logically </B> </P>
+<P> <U> PREP. </U><B> across </B><I>These findings are consistent across all the studies. </I><B>| with </B><I>The figures are fully consistent with last year's results. </I> </P>
+</DIV>

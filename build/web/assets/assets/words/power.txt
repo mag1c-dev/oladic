@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>power </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> authority/control </TT> </P>
+<P> <U> ADJ. </U><B> absolute, ultimate | considerable, enormous | limited | arbitrary | economic, legal, legislative, political | popular | secular </B> </P>
+<P> <U> VERB + POWER </U><B> come to, rise to </B><I>When did this government come to power? </I><B>| assume, seize, take </B><I>The Crown prince assumed power in his father's place. </I><B>| restore sb to, return sb to | have, hold </B><I>The court has no power to order a psychiatric examination of the child's parents. They held power for 18 years. </I><B>| share | exercise, use, wield | confer, give sb, grant sb </B><I>The new law delegates many of these powers to school governors. </I><B>| fall from, lose </B><I>They fell from power in 1992. </I><B>| give up, relinquish, renounce | delegate, devolve </B> </P>
+<P> <U> POWER + VERB </U><B> be concentrated in (the hands of sb/sth), rest with sb/sth </B><I>The real legislative power still rests with the lower chamber. </I> </P>
+<P> <U> POWER + NOUN </U><B> struggle </B><I>getting the upper hand in a power struggle </I><B>| base </B><I>The party's power base is in the industrial north of the country. </I> </P>
+<P> <U> PREP. </U><B> in (your) ~ </B><I>the party in power They held us in their power. </I><B>| ~ of </B><I>the power of veto </I><B>| ~ over </B><I>The government has limited legal powers over television. </I> </P>
+<P> <U> PHRASES </U><B> abuse of power, the balance of power </B><I>The war brought about a shift in the balance of power. </I><B>| a bid for power, the exercise of power, a position of power </B><I>the father's position of power and influence in the home </I><B>| the power behind the throne </B>(= the person who is really in control) <I>People say that the prime minister's wife is the power behind the throne. </I><B>| power-hungry </B><I>The company was too small to hold two such power-hungry men. </I><B>| a transfer of power </B><I>the transfer of power from a military to a civilian government </I> </P>
+<P> <SUP> 2 </SUP> <TT> ability to do sth </TT> </P>
+<P> <U> ADJ. </U><B> air, military, naval, sea </B><I>an increase in Britain's air power </I><B>| fire </B><I>weapons with enormous fire power </I><B>| bargaining | computing | healing </B><I>the healing power of sleep </I><B>| earning, purchasing | staying </B><I>Having served in four governments, he has the greatest staying power of any politician today. </I><B>| magic, magical, mystical, psychic, supernatural </B><I>They believe he has supernatural powers. </I> </P>
+<P> <U> VERB + POWER </U><B> have | use | develop | lose </B><I>Religion is rapidly losing its power to shape our behaviour. </I> </P>
+<P> <U> PREP. </U><B> beyond sb/sth's ~ </B><I>a task still beyond any computer's power </I><B>| in/within your </B><I>I'm afraid it's not within my power to help you. </I><B>| through the ~ of </B><I>He wants to change the world through the power of prayer. </I><B>| ~s as </B><I>a tribute to his powers as a teacher </I><B>| ~ of </B><I>her powers of observation I lost my power of speech for a while after the accident. </I> </P>
+<P> <U> PHRASES </U><B> at the height/peak/zenith of your powers </B><I>In 1946 Dali was at the peak of his powers. </I><B>| do all/everything in your power </B><I>He did everything in his power to find us somewhere to live. </I> </P>
+<P> <SUP> 3 </SUP> <TT> country with influence </TT> </P>
+<P> <U> ADJ. </U><B> great, major | world | foreign | allied, enemy | occupying | victorious | European, Western, etc. </B><I>major European powers such as France and Germany </I><B>| colonial, industrial, naval </B> </P>
+<P> <SUP> 4 </SUP> <TT> force </TT> </P>
+<P> <U> ADJ. </U><B> great | destructive, terrible </B><I>the destructive power of a hurricane </I> </P>
+<P> <SUP> 5 </SUP> <TT> energy </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>The plane was still climbing at full power. </I><B>| reduced </B><I>The transmitter is operating on reduced power. </I><B>| electric, electrical, hydroelectric, nuclear, solar, steam, tidal, water, wind </B> </P>
+<P> <U> VERB + POWER </U><B> generate, produce </B><I>They use these streams to generate power for the mill. </I><B>| provide (sb/sth with), supply (sb/sth with) </B><I>This wheel provides the power to the cutting machine. </I><B>| use | harness | turn on | cut off, turn off </B> </P>
+<P> <U> POWER + VERB </U><B> drive sth </B><I>Wind power is used to drive the machinery. </I> </P>
+<P> <U> POWER + NOUN </U><B> cable, line, point, supply | tool </B><I>DIY grew in popularity with the advent of power tools. </I><B>| plant, station | worker | cut, failure </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>supplying power for the grinding process </I> </P>
+<P> <U> PHRASES </U><B> a source of power</B> </P>
+</DIV>

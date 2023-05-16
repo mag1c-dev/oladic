@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>abuse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> wrong/bad use of sth </TT> </P>
+<P> <U> ADJ. </U><B> alcohol, drug, solvent, substance </B>(= drugs or solvents)  </P>
+<P> <U> VERB + ABUSE </U><B> be open to </B><I>The legal system is open to abuse. </I> </P>
+<P> <U> PHRASES </U><B> the abuse of power </B> </P>
+<P> <SUP> 2 </SUP> <TT> bad, usually violent treatment of sb </TT> </P>
+<P> <U> ADJ. </U><B> emotional, physical, sex/sexual | child, elder </B><I>victims of child abuse </I><B>| human rights ~s </B><I>allegations of human rights abuses </I><B>| alleged, suspected </B> </P>
+<P> <U> QUANT. </U><B> case </B><I>six cases of suspected child abuse </I> </P>
+<P> <U> VERB + ABUSE </U><B> carry out, subject sb to </B><I>She was subjected to regular sexual abuse. </I><B>| suffer, take </B><I>The child had taken a lot of emotional abuse. </I><B>| suspect sb of </B> </P>
+<P> <U> ABUSE + VERB </U><B> happen, occur, take place </B> </P>
+<P> <U> PHRASES </U><B> an allegation of abuse, a perpetrator of abuse, a victim of abuse </B> </P>
+<P> <SUP> 3 </SUP> <TT> insulting words </TT> </P>
+<P> <U> ADJ. </U><B> verbal | personal, racial </B> </P>
+<P> <U> QUANT. </U><B> stream, torrent </B><I>He was subjected to a torrent of abuse. </I> </P>
+<P> <U> VERB + ABUSE </U><B> hurl, scream, shout, shower sb with, subject sb to, yell | endure </B><I>They had to endure continual racial abuse. </I> </P>
+<P> <U> PHRASES </U><B> heap abuse on sb/sth </B><I>Abuse and scorn were heaped on the proposals. </I><B>| a target for/of abuse </B><I>The team who lost became a target of abuse for angry fans. </I><B>| a term of abuse </B><I>Calling someone stupid is definitely a term of abuse. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>abuse </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> emotionally, mentally, physically, sexually, verbally </B><I>All the children had been physically and emotionally abused. </I> </P>
+</DIV>

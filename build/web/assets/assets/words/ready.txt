@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>ready </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> prepared </TT> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, seem | get </B><I>We were getting ready to go out. </I><B>| get sb </B><I>trying to get the children ready to leave </I><B>| consider sb, declare sb, deem sb, judge sb </B><I>She was concerned to protect the children from the truth until she judged them ready to hear it. </I> </P>
+<P> <U> ADV. </U><B> all </B><I>I was all ready to leave when the phone rang. </I><B>| not quite </B><I>He didn't feel quite ready for marriage. </I><B>| (just) about, almost, nearly, practically </B><I>I think we're just about ready to start. </I><B>| always, ever | not yet | emotionally </B><I>Though Paul had wanted a child, he wasn't emotionally ready for it. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>I feel ready for anything! </I><B>| with </B><I>He's always ready with a quick answer. </I> </P>
+<P> <SUP> 2 </SUP> <TT> prepared and available </TT> </P>
+<P> <U> VERBS </U><B> be, stand </B><I>The suitcases were standing ready by the front door. </I><B>| have sth, hold sth, keep sth, leave sth </B><I>Please have your tickets ready for inspection. holding his gun ready I've left everything ready in the kitchen. </I><B>| get sth, make sth </B><I>I'll get all the boxes ready. The warships were soon made ready. </I><B>| consider sth, declare sth, deem sth, judge sth </B><I>The plane was refuelled and declared ready for service again. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The cases are ready for delivery. </I> </P>
+<P> <SUP> 3 </SUP> <TT> willing </TT> </P>
+<P> <U> VERBS </U><B> appear, be, seem | remain </B> </P>
+<P> <U> ADV. </U><B> more than, only too, very </B><I>Connors was more than ready to oblige. She was only too ready to believe the worst of him. </I><B>| always, ever | apparently | clearly </B> </P>
+<P> <U> PHRASES </U><B> ready and willing </B><I>always ready and willing to help </I> </P>
+</DIV>

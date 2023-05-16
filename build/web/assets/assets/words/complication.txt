@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>complication </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> problem </TT> </P>
+<P> <U> ADJ. </U><B> major | added, additional, further | undue, unnecessary | political </B> </P>
+<P> <U> VERB + COMPLICATION </U><B> add, cause </B><I>The presence of an armed gang added a major complication. </I><B>| avoid </B><I>We always try to avoid any unnecessary complications. </I> </P>
+<P> <U> COMPLICATION + VERB </U><B> arise, occur </B><I>Further complications arose when the newspapers published an interview with the prisoner's family. </I> </P>
+<P> <SUP> 2 </SUP> <TT> medical </TT> </P>
+<P> <U> ADJ. </U><B> acute, dangerous, serious, severe | chronic, long-term | minor | common | rare | local | potential | birth, diabetic, medical, post-operative </B> </P>
+<P> <U> VERB + COMPLICATION </U><B> develop, have, suffer </B><I>She developed complications two weeks after the treatment. </I><B>| die from/of | avoid, prevent </B> </P>
+<P> <U> COMPLICATION + VERB </U><B> develop, occur, arise </B><I>Complications develop if the drug is not used properly. </I><B>| result from sth </B> </P>
+<P> <U> PHRASES </U><B> a risk of complications </B><I>The treatment carries a high risk of complications. </I> </P>
+<P> <U> PREP. </U><B> ~ with </B><I>complications with her pregnancy. </I> </P>
+</DIV>

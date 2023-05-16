@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>sip </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, cautious, little, nervous, small | long | noisy </B> </P>
+<P> <U> VERB + SIP </U><B> have, take </B><I>I took a little sip of my drink. </I> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>He drank the whisky in sips. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sip </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> slowly | thoughtfully | idly </B><I>She sat in the warm sun, idly sipping champagne. </I><B>| appreciatively, gratefully </B><I>He sipped the warm milk appreciatively. </I> </P>
+<P> <U> VERB + SIP </U><B> pause to </B><I>She paused to sip her tea. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He sipped at his beer thoughtfully. </I><B>| from </B><I>She sipped from her glass of water. </I> </P>
+</DIV>

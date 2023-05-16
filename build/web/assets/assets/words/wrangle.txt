@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>wrangle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bitter | complex | legal </B> </P>
+<P> <U> VERB + WRANGLE </U><B> be involved in, get into, have </B> </P>
+<P> <U> WRANGLE + VERB </U><B> ensue | continue, go on </B><I>The legal wrangle continues. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The two countries fell out in a bitter wrangle over imports. </I><B>| ~ between </B><I>The wrangle between the school and the local council has gone on for two years. </I><B>| ~ over, ~ with </B><I>I don't want to get into a wrangle with the committee. </I> </P>
+</DIV>

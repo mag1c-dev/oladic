@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>handicap </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> physical/mental disability </TT> </P>
+<P> <U> ADJ. </U><B> serious, severe | mild | mental, physical, visual </B><I>She can't drive because of her visual handicap. </I> </P>
+<P> <U> VERB + HANDICAP </U><B> be born with, have, suffer (from) </B><I>Over a million people in Great Britain suffer from mental handicap. </I><B>| cause | cope with, overcome </B><I>She has managed to overcome her physical handicaps. </I> </P>
+<P> <U> PREP. </U><B> despite a/the ~ </B><I>Despite her handicap, Jane is able to hold down a full-time job. </I> </P>
+<P> <SUP> 2 </SUP> <TT> disadvantage </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, great, major, real, serious, severe, terrible </B><I>Lack of transport was a major handicap. </I> </P>
+<P> <U> VERB + HANDICAP </U><B> have, suffer </B><I>If you don't speak the language, you've got a real handicap. </I><B>| prove </B><I>His lack of height can prove a handicap against tall players. </I> </P>
+<P> <U> PREP. </U><B> despite a/the ~ | ~ to </B><I>This could be a serious handicap to her education. </I> </P>
+</DIV>

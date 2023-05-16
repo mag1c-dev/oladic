@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>GP </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excellent, good | qualified | experienced | family, local </B><I>Who is your local GP? </I> </P>
+<P> <U> VERB + GP </U><B> register with </B><I>You should register with a GP as soon as possible. </I> </P>
+<P> <U> GP + VERB </U><B> refer sb </B><I>The GP referred her to a specialist. </I></P>
+<a href="/collocation-tag/doctor" class="tag">Learn more about DOCTOR</a>
+</DIV>

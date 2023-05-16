@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>rank </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> level of importance </TT> </P>
+<P> <U> ADJ. </U><B> high, senior, superior, upper | middle | inferior, junior, low </B><I>the lowest ranks of the aristocracy </I> <B>| first, second </B><I>He is in the first rank of university teachers. </I><B>| social | Cabinet, ministerial </B><I>a government minister of Cabinet rank </I> </P>
+<P> <U> VERB + RANK </U><B> achieve, attain, be promoted to, get to, reach, rise to </B><I>She joined the navy, where she rose to the rank of captain. </I><B>| have, hold </B><I>He held officer rank in the air force for many years. </I><B>| be stripped of </B><I>He was stripped of his rank by a military court. </I> </P>
+<P> <U> PREP. </U><B> above a/the ~ </B><I>He never rose above the rank of lieutenant. </I> <B>| below a/the ~ </B><I>police officers below the rank of sergeant </I><B>| in ~ </B><I>He is higher in rank than I am. </I><B>| ~ in </B><I>all ranks in society </I><B>| ~ of </B><I>She reached the rank of captain. </I> </P>
+<P> <U> PHRASES </U><B> of high/low, etc. rank </B><I>officers of senior rank </I> </P>
+<P> <SUP> 2 </SUP> <TT> group/line of things/people </TT> </P>
+<P> <U> ADJ. </U><B> front, rear | massed, serried </B><I>the serried ranks of hotel staff </I> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>The president moved slowly along the ranks of men. </I><B>| in a/the ~ </B><I>standing in the second rank The soldiers marched in three ranks of ten. </I> </P>
+<P> <U> PHRASES </U><B> break ranks </B>(= to leave a line of soldiers, police, etc.) <I>The police broke ranks and started hitting people with their batons. </I><B>| rank on/upon rank (of sth) </B><I>Rank upon rank of caravans filled the field. </I>  </B> </P>
+<P> <SUP> 3 </SUP> <TT> (</B><I>also </I><B>the ranks</B>) ordinary members of a large group </TT> </P>
+<P> <U> VERB + RANK </U><B> be admitted into/to, enter, join, swell </B><I>Each month thousands more swell the ranks of the unemployed. </I><B>| serve in </B><I>They had served in the ranks of the Sultan's army. </I><B>| come up from/through, rise from/through </B><I>He came up through the ranks to become a general. </I> </P>
+<P> <U> PREP. </U><B> among/within the ~s of </B><I>There is much disaffection among the ranks of the party. </I><B>| beyond/outside the ~s </B><I>The group has little influence over those outside its own ranks. </I><B>| in the ~s </B><I>There are few women in the highest ranks of the organization. </I></P>
+<a href="/collocation-tag/rank" class="tag">Learn more about RANK</a>
+</DIV><DIV class="item"><P class="word"><B>rank </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> high/highly, low </B><I>These subjects ranked low for most students. </I> </P>
+<P> <U> PREP. </U><B> above </B><I>She ranks above any other musician of her generation. </I><B>| according to </B><I>The children were ranked according to academic ability. </I><B>| alongside </B><I>This city ranks alongside London as one of the great tourist centres of the world. </I><B>| among </B><I>He ranks among the greatest boxers of all time. </I><B>| as </B><I>Their performance ranks as the best of the year. </I><B>| below, with </B><I>This ranks with the great paintings of the nineteenth century. </I> </P>
+<P> <U> PHRASES </U><B> be ranked/rank number two, three, etc. </B><I>the tennis player ranked number two in the world </I><B>| high-/low-ranking </B><I>He is a high-ranking officer in the Indian Army. </I><B>| rank sth in order of sth </B><I>ranked in order of size </I><B>| rank in the top 10, 100, etc. </B><I>She is now ranked in the top five hockey players in Britain. </I><B>| rank second, third, etc. </B><I>The company ranks second among food manufacturers. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>shell </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on eggs/nuts/some animals </TT> </P>
+<P> <U> ADJ. </U><B> broken, empty, hard, outer, protective, thick </B><I>(figurative) She had built up a protective shell of indifference around herself. </I><B>| egg (also eggshell) | cockle, conch, cowrie, fossil, mollusc, mussel, oyster, scallop, sea (also seashell), snail </B><I>The garden was littered with empty snail shells. </I><B>| coconut, walnut </B> </P>
+<P> <U> VERB + SHELL </U><B> have </B><I>creatures that have shells </I><B>| come out of, emerge from </B><I>(often figurative) He's really come out of his shell since he met Marie. </I><B>| go (back) into, retreat into, withdraw into </B><I>The snail went back into its shell. </I><B>| remove sth from </B><I>Remove the mussels from their shells. </I> </P>
+<P> <SUP> 2 </SUP> <TT> explosive weapon </TT> </P>
+<P> <U> ADJ. </U><B> heavy | unexploded | anti-aircraft, artillery, cannon, howitzer, mortar </B> </P>
+<P> <U> VERB + SHELL </U><B> load | fire </B> </P>
+<P> <U> SHELL + VERB </U><B> fall, land | blow up, burst, crash, explode | hit sth, strike sth </B><I>Two shells hit the roof. </I><B>| blow sth apart/off, blow sb/sth up </B> </P>
+<P> <U> SHELL + NOUN </U><B> fire </B><I>They braved heavy shell fire to rescue the wounded. </I><B>| case/casing, fragments, splinter | crater, hole </B> </P>
+<P> <SUP> 3 </SUP> <TT> outer walls of a building </TT> </P>
+<P> <U> ADJ. </U><B> concrete | burnt-out, empty, hollow </B><I>The fire reduced the school to a hollow shell. </I> </P>
+</DIV>

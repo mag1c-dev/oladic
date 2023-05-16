@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>fruit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of a plant </TT> </P>
+<P> <U> ADJ. </U><B> fresh | ripe, unripe | rotten | candied, crystallized, dried | canned, tinned | exotic, tropical | citrus </B><I>citrus fruits such as limes and lemons </I> </P>
+<P> <U> QUANT. </U><B> piece </B><I>Finish the meal with a piece of fresh fruit. </I> </P>
+<P> <U> VERB + FRUIT </U><B> eat, have | bear </B><I>The crab apple bears a small, bitter fruit. </I><B>| pick | core, peel, prepare </B> </P>
+<P> <U> FRUIT + NOUN </U><B> tree | juice, salad 2 the fruits </B>good result/reward </B> </P>
+<P> <U> VERB + FRUIT </U><B> enjoy </B><I>Their work left them enough time to enjoy the fruits of their success. </I><B>| reap </B><I>He was now reaping the fruits of all his hard work. </I> </P>
+<P> <U> PHRASES </U><B> the first fruits of sth </B><I>the first fruits of the government's health campaign </I> </P>
+</DIV>

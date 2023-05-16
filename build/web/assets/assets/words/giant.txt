@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>giant </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> very large man </TT> </P>
+<P> <U> PHRASES </U><B> a gentle giant </B><I>Some people are intimidated by his size, but in fact he's a gentle giant. </I><B>| a giant of a man </B><I>He was a giant of a man, standing nearly seven feet tall. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that is very large/important </TT> </P>
+<P> <U> ADJ. </U><B> corporate, multinational | car, chemicals, financial, food, industrial, oil, retail, etc. </B><I>The oil giant Esso is planning to set up a new refinery in the port. </I><B>| literary </B><I>Camus is considered to be one of the twentieth century's literary giants. </I> </P>
+<P> <U> PREP. </U><B> ~ among/amongst </B><I>The Amazon is a giant amongst rivers. </I><B>| ~ of </B><I>The company is now one of the giants of the computer industry. </I> </P>
+</DIV>

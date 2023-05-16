@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>veil </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of material for covering a woman's head </TT> </P>
+<P> <U> ADJ. </U><B> bridal </B><I>The bridal veil was fringed with lace. </I> </P>
+<P> <U> VERB + VEIL </U><B> wear | lift (back), remove, take off </B> </P>
+<P> <U> VEIL + VERB </U><B> cover sth </B><I>A veil covered her face. </I> </P>
+<P> <U> PREP. </U><B> behind a/the ~ </B><I>I couldn't see her face behind the veil. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that stops you knowing the full truth about sth </TT> </P>
+<P> <U> VERB + VEIL </U><B> lift </B><I>The government has decided to lift the veil on its plans. </I><B>| draw </B><I>It would be better to draw a veil over what happened next </I>(= not talk about it)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> behind/under ~ of </B><I>The work is carried out behind a veil of secrecy. </I> </P>
+</DIV>

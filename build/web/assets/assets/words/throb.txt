@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>throb </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, heavy | dull | steady </B><I>the steady throb of the engine </I> </P>
+<P> <U> VERB + THROB </U><B> feel, hear</B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a throb of pai</I>n </B> </P>
+</DIV><DIV class="item"><P class="word"><B>throb </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> painfully | angrily </B><I>The vein at his temple throbbed angrily. </I><B>| rhythmically </B> </P>
+<P> <U> VERB + THROB </U><B> begin to, start to </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Her head throbbed with pain. </I> </P>
+</DIV>

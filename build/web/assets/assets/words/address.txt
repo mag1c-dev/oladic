@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>address </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> where you live/work </TT> </P>
+<P> <U> ADJ. </U><B> home, private | business | contact </B><I>Please leave a contact address. </I><B>| forwarding, return </B><I>There was no return address on the back of the envelope. </I><B>| postal | full </B><I>Please write your full postal address. </I><B>| false, wrong </B><I>He gave a false address to the police. </I><B>| correct, right | useful | secret | fashionable </B><I>Cheyne Walk was a very fashionable address. </I> </P>
+<P> <U> VERB + ADDRESS </U><B> give, leave, write </B> </P>
+<P> <U> ADDRESS + NOUN </U><B> book </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>I'm afraid there's nobody called Williams at this address. </I> </P>
+<P> <U> PHRASES </U><B> a change of address </B><I>Please inform us of any change of address. </I><B>| name and address, no fixed address </B><I>a man of no fixed address </I> </P>
+<P> <SUP> 2 </SUP> <TT> speech </TT> </P>
+<P> <U> ADJ. </U><B> short | inaugural, keynote, opening | public </B><I>a public address system </I><B>| radio, televised/television | election | presidential </B> </P>
+<P> <U> VERB + ADDRESS </U><B> deliver, give </B><I>The prime minister delivered the keynote address at the conference. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He gave details of the policy in an address to party members. </I><B>| ~ by </B><I>an address by the Chancellor of the University </I><B>| ~ to </B><I>a radio address to the nation </I> </P>
+</DIV><DIV class="item"><P class="word"><B>address </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> write name and address </TT> </P>
+<P> <U> ADV. </U><B> correctly, properly | personally </B><I>The minister did not reply to my letter although I addressed it to him personally. </I> </P>
+<P> <U> PREP. </U><B> to </B> </P>
+<P> <U> PHRASES </U><B> a stamped addressed envelope </B><I>Please send a stamped addressed envelope and we will send you a copy of our brochure. </I> </P>
+<P> <SUP> 2 </SUP> <TT> say sth to sb </TT> </P>
+<P> <U> ADV. </U><B> by name, directly </B><I>She did not address him by name. He never addressed her directly. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>He addressed his comments to the chairman. </I> </P>
+<P> <SUP> 3 </SUP> <TT> deal with problem </TT> </P>
+<P> <U> ADV. </U><B> directly, explicitly, specifically | fully | adequately </B><I>These concerns were not adequately addressed in the report. </I><B>| successfully </B> </P>
+<P> <U> VERB + ADDRESS </U><B> seek to </B><I>the problems we are seeking to address </I><B>| fail to </B> </P>
+<P> <U> PHRASES </U><B> address yourself to sth </B><I>The authors of the book address themselves to the question of unemployment. </I> </P>
+</DIV>

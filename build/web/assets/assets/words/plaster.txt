@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>plaster </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> smooth covering for a wall </TT> </P>
+<P> <U> ADJ. </U><B> fresh | chipped, cracked, crumbling, peeling </B> </P>
+<P> <U> QUANT. </U><B> chunk, flake </B><I>Each blow of the hammer removed a great chunk of plaster. </I> </P>
+<P> <U> VERB + PLASTER </U><B> apply </B><I>Apply the plaster evenly. </I> </P>
+<P> <U> PLASTER + VERB </U><B> come off (sth), fall off (sth), peel off (sth) </B><I>Plaster was peeling off the ceiling. </I> </P>
+<P> <U> PLASTER + NOUN </U><B> cast </B><I>A plaster cast of Madame Fournier stood in the artist's studio. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for covering a cut </TT> </P>
+<P> <U> ADJ. </U><B> sticking </B> </P>
+<P> <U> VERB + PLASTER </U><B> put on | peel off, take off </B> </P>
+<P> <SUP> 3 </SUP> <TT> for protecting broken bones </TT> </P>
+<P> <U> PLASTER + NOUN </U><B> cast </B><I>Her broken leg was put in a plaster cast </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Your arm will have to be in plaster for at least six weeks. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>visibility </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> how far you can see </TT> </P>
+<P> <U> ADJ. </U><B> clear, good, excellent, high | bad, limited, low, poor, zero </B> </P>
+<P> <U> VERB + VISIBILITY </U><B> reduce </B><I>The sand in the air reduced visibility to a hundred yards. </I> </P>
+<P> <U> VISIBILITY + VERB </U><B> be down to sth </B><I>Visibility was down to 25 yards. </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>We set a course in good visibility and calm seas. </I> </P>
+<P> <SUP> 2 </SUP> <TT> obviousness in public life </TT> </P>
+<P> <U> ADJ. </U><B> high | greater, increased, increasing </B> </P>
+<P> <U> VERB + VISIBILITY </U><B> increase, raise </B><I>We aim to raise the visibility of ethnic minorities in our organization. </I> </P>
+</DIV>

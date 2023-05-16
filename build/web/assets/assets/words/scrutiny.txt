@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>scrutiny </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, close, detailed, intense, rigorous, serious, thorough </B><I>The company has come under intense scrutiny because of its environmental record. </I><B>| international, judicial, media, parliamentary, public, scientific </B><I>The activities of the committee are subject to public scrutiny. </I> </P>
+<P> <U> VERB + SCRUTINY </U><B> be subjected to, come under, submit to, undergo | be open to, be subject to | bear </B><I>The testimony of the chief witness doesn't bear scrutiny. </I> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The company is under scrutiny by the Inland Revenue. </I><B>| ~ by </B><I>I realized I was being subjected to intense scrutiny by a group of children. </I> </P>
+</DIV>

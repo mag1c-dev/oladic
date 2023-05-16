@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>copper </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> molten | beaten | unalloyed | burnished </B><I>Her hair shone like burnished copper. </I> </P>
+<P> <U> VERB + COPPER </U><B> mine | produce | be alloyed with </B><I>silver alloyed with copper </I> </P>
+<P> <U> COPPER + VERB </U><B> be alloyed with sth </B><I>copper alloyed with arsenic </I> </P>
+<P> <U> COPPER + NOUN </U><B> mine | miner | mining, smelting | deposit, ore | alloy, sulphate | coin, ingot, pipe, plate, wire | engraving </B> </P>
+<P> <U> PREP. </U><B> in ~ </B>(= using copper) <I>She works mainly in copper. </I> </P>
+<P> <U> PHRASES </U><B> an alloy of copper and/with sth </B><I>Brass is an alloy of copper and zinc. </I> </P>
+</DIV>

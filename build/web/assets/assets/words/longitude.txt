@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>longitude </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> calculate, determine </B> </P>
+<P> <U> PREP. </U><B> at (a) ~ </B><I>The town is at longitude 28&deg; west. </I> </P>
+<P> <U> PHRASES </U><B> a line of longitude </B><I>This line of longitude cuts through the jungle. </I> </P>
+</DIV>

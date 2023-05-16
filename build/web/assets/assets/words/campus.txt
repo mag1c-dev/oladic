@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>campus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large | small | college, university </B> </P>
+<P> <U> VERB + CAMPUS </U><B> have </B><I>De Montfort University has campuses in Milton Keynes and Leicester. </I> </P>
+<P> <U> CAMPUS + NOUN </U><B> novel </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>Students at the Belfast campus have access to excellent sports facilities. </I><B>| off ~ </B><I>They moved off campus to share a flat in the town. </I><B>| on ~ </B><I>She lives on campus. </I> </P>
+</DIV>

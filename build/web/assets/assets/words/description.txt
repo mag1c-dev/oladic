@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>description </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, comprehensive, detailed, full </B><I>The catalogue gives a full description of each product. </I><B>| accurate, apt, exact, excellent, fair, fitting, good, perfect </B><I>&lsquo;Like a fish out of water&rsquo; was an apt description of how I felt in my new job. </I><B>| vivid </B><I>a vivid description of life in Ancient Rome </I><B>| graphic, lurid </B><I>She gave us a lurid description of the birth. </I><B>| lengthy, long | brief, short | basic, simple | vague | objective </B><I>A report is generally an objective description rather than a statement of opinion. </I><B>| physical | job </B><I>There was no mention of any cleaning in my job description. </I> </P>
+<P> <U> VERB + DESCRIPTION </U><B> give (sb), issue, provide (sb with) </B><I>Police have issued a description of the gunman. She was able to provide a description of the intruder. </I><B>| fit </B><I>A man fitting your description was seen entering the building. </I><B>| beggar, defy </B><I>His face was so odd that it defies description. </I> </P>
+<P> <U> DESCRIPTION + VERB </U><B> apply to sb, fit sb </B><I>I realized to my horror that the description of the killer fitted me. </I> </P>
+</DIV>

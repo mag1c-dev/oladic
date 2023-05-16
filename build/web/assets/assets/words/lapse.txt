@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>lapse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small error </TT> </P>
+<P> <U> ADJ. </U><B> minor | momentary, temporary | sudden | memory, mental </B><I>I keep suffering these mental lapses. </I> </P>
+<P> <U> VERB + LAPSE </U><B> have, suffer </B><I>I had a momentary lapse when I couldn't remember his name. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a lapse in attention </I><B>| ~ of </B><I>sudden lapses of concentration </I> </P>
+<P> <SUP> 2 </SUP> <TT> bad behaviour </TT> </P>
+<P> <U> ADJ. </U><B> curious, odd </B><I>It was an odd lapse for one who is normally so polite. </I> </P>
+<P> <SUP> 3 </SUP> <TT> passing of time </TT> </P>
+<P> <U> ADJ. </U><B> brief, considerable | time </B> </P>
+<P> <U> PHRASES </U><B> ~ of </B><I>after a considerable lapse of time a time lapse of three months </I> </P>
+</DIV>

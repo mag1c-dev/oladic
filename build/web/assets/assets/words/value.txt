@@ -1,0 +1,30 @@
+
+<DIV class="item"><P class="word"><B>value </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount of money that sth is worth </TT> </P>
+<P> <U> ADJ. </U><B> high, low </B><I>the high value of the dollar </I><B>| full, total | real, true | nominal </B><I>a share with a nominal value of </I>&pound;</B><I>20 </I><B>| face </B><I>At yesterday's auction an old coin sold for many times more than its face value of 20 pence. </I><B>| residual </B><I>a residual value of 10% of its original cost </I><B>| resale </B><I>Regular servicing will add to the resale value of your PC. </I> </P>
+<P> <U> VERB + VALUE </U><B> place, put, set </B><I>It's hard to put a value on a company with large assets and turnover but low profits. </I><B>| add | increase, raise | double, triple, etc. </B><I>Dramatic developments on the stock market tripled the value of his shares. </I><B>| lower, reduce | hold, keep </B><I>The piano has held its value. </I><B>| calculate, work out </B> </P>
+<P> <U> VALUE + VERB </U><B> double, triple, etc. | appreciate, go up, increase | decrease, depreciate, fall, go down </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The land has dropped in value. </I><B>| to the ~ of </B><I>Jewellery to the value of a million pounds was stolen last night. </I> </P>
+<P> <U> PHRASES </U><B> an increase/a rise in value, a drop/fall/reduction in value </B> </P>
+<P> <SUP> 2 </SUP> <TT> how much sth is worth compared with its price </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good, great, outstanding | poor </B> </P>
+<P> <U> PHRASES </U><B> value for money </B><I>Though a little more expensive, the larger model gives better value for money. </I> </P>
+<P> <SUP> 3 </SUP> <TT> importance </TT> </P>
+<P> <U> ADJ. </U><B> enormous, great, high, immense, incalculable, tremendous | doubtful, dubious, limited, low </B><I>His published account of his travels is of dubious value to other explorers. </I><B>| lasting | main, real, true | practical, sentimental, symbolic </B> </P>
+<P> <U> VERB + VALUE </U><B> have </B><I>The stolen necklace only had sentimental value for her. </I><B>| attach, place, put, set </B><I>He places a high value on marriage. </I> </P>
+<P> <U> VALUE + VERB </U><B> be, lie </B><I>The real value of the book lies in its wonderful characterization. </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>He didn't say anything of value. </I><B>| ~ to </B><I>Pottery fragments are of great value to archaeologists. </I> </P>
+<P> <SUP> 4 </SUP> <TT> values: set of beliefs  </TT> </P>
+<P> <U> ADJ. </U><B> dominant </B><I>the dominant values of a society </I><B>| conservative, conventional, traditional | common, shared, universal </B><I>What shared values do you have with your friends? </I><B>| human | aesthetic, cultural, educational, ethical, moral, political, social, spiritual </B><I>We need to be guided by our moral values. </I><B>| family </B><I>The party's election campaign emphasized its belief in family values. </I><B>| middle-class, Victorian, Western | parental </B><I>the rejection of parental values by a child </I><B>| democratic, liberal </B> </P>
+<P> <U> QUANT. </U><B> set </B><I>a prevailing set of cultural values </I> </P>
+<P> <U> VERB + VALUE </U><B> have, hold </B><I>They hold very middle-class values. </I><B>| cherish, encourage, foster </B><I>Is it the role of schools to foster spiritual values? </I><B>| hold onto, preserve </B><I>a society that has failed to preserve its traditional values </I> </P>
+<P> <U> VALUE + NOUN </U><B> system </B><I>a common value system </I> </P>
+</DIV><DIV class="item"><P class="word"><B>value </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> decide how much sth is worth </TT> </P>
+<P> <U> ADV. </U><B> officially </B> </P>
+<P> <U> PREP. </U><B> at </B><I>The company has recently been valued at $6 billion. </I> </P>
+<P> <SUP> 2 </SUP> <TT> think sb/sth is very important </TT> </P>
+<P> <U> ADV. </U><B> greatly, highly, particularly | increasingly | positively | negatively </B><I>Housework is negatively valued as a retreat from a disliked alternative?employment work. </I><B>| rightly </B><I>the fear of losing the independence that they rightly value </I><B>| socially </B><I>one of the most socially valued roles in contemporary society?being a parent </I> </P>
+<P> <U> VERB + VALUE </U><B> learn to </B><I>learning to value the ordinary things in life </I> </P>
+<P> <U> PREP. </U><B> as </B><I>I value her very highly as a friend. </I><B>| for </B><I>He hated to be valued for his looks alone. </I> </P>
+</DIV>

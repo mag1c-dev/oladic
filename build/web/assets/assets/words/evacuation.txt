@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>evacuation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large-scale, mass | emergency, immediate | casualty | wartime </B> </P>
+<P> <U> EVACUATION + NOUN </U><B> area, zone | order | plan, programme, scheme | procedures </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>the evacuation of civilians from the area </I> </P>
+</DIV>

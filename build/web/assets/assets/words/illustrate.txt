@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>illustrate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put pictures in sth </TT> </P>
+<P> <U> ADV. </U><B> heavily, lavishly, richly | fully | attractively, beautifully, delightfully, handsomely, superbly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The new edition is heavily illustrated with photographs of aircraft. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make sth clear using examples/pictures </TT> </P>
+<P> <U> ADV. </U><B> amply | admirably, aptly, neatly, nicely, well </B><I>The dire consequences of chronic underfunding are nowhere better illustrated than in the nation's schools. </I><B>| perfectly | merely, simply </B><I>His question merely illustrates his ignorance of the subject. </I><B>| clearly, dramatically, graphically, strikingly, vividly | brutally, starkly, tragically </B><I>The case tragically illustrates the dangers of fireworks. </I> </P>
+<P> <U> VERB + ILLUSTRATE </U><B> serve to </B><I>Two examples serve to illustrate this point. </I><B>| be chosen to, be designed to, be intended to </B> </P>
+<P> <U> PREP. </U><B> to </B><I>a way of illustrating to the chairman the folly of his decision </I> </P>
+</DIV>

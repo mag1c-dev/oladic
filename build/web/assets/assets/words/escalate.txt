@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>escalate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> become/make sth worse </TT> </P>
+<P> <U> ADV. </U><B> rapidly | steadily </B><I>Violence between the two sides has been steadily escalating. </I><B>| suddenly </B> </P>
+<P> <U> PREP. </U><B> into </B><I>The conflict could escalate rapidly into a full-scale war. </I> </P>
+<P> <SUP> 2 </SUP> <TT> increase </TT> </P>
+<P> <U> ADV. </U><B> sharply </B><I>The cost of raw materials has escalated sharply. </I> </P>
+</DIV>

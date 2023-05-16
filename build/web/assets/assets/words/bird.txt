@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>bird </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> wild | exotic, rare | game | predatory | migratory | land, sea, seabird | tropical, wading, woodland </B><I>Seabirds flocked above our heads. </I> </P>
+<P> <U> QUANT. </U><B> flock </B> </P>
+<P> <U> BIRD + VERB </U><B> flit, fly, glide, soar, swoop (down) </B><I>We watched a bird of prey swoop down on a mouse. </I><B>| flap its wings | flock | migrate </B><I>The birds migrate in September. </I><B>| chirp, sing, twitter, warble | peck </B><I>birds pecking at the corn </I><B>| build a nest, nest </B><I>birds nesting on the roof of the church </I><B>| breed, lay eggs | moult </B> </P>
+<P> <U> BIRD + NOUN </U><B> call | sanctuary | life </B><I>an area with a very varied bird life </I><B>| watcher, watching </B> </P>
+<P> <U> PHRASES </U><B> a bird of passage </B>(= a migratory bird), <B>a bird of prey </B>(= a predatory bird), <B>a breed/species/type of bird</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>diversity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, extraordinary, great, immense, rich, wide </B><I>There is need for greater diversity and choice in education. the rich diversity of the city's cultural life </I><B>| growing, increased, increasing | biological, genetic </B><I>the need to preserve biological diversity </I><B>| cultural, ethnic, linguistic, political, regional </B> </P>
+<P> <U> VERB + DIVERSITY </U><B> create | encourage, promote </B><I>Our party believes in encouraging cultural diversity, not division. </I><B>| maintain, preserve, protect </B><I>The producer was under pressure to maintain a diversity in his output. </I><B>| decrease, increase | allow (for) </B><I>Tyrannies do not allow diversity and disagreement. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>diversity in the style of the reports </I><B>| ~ of </B><I>There is a wide diversity of views on this subject. </I> </P>
+</DIV>

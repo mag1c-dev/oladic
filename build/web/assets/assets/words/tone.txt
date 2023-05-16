@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>tone </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> quality of a sound, especially of the human voice </TT> </P>
+<P> <U> ADJ. </U><B> deep, low | falling, rising </B><I>The rising tone of her voice emphasized her panic. </I><B>| hushed, quiet, subdued </B><I>speaking in hushed tones </I><B>| clear, ringing | sharp, shrill, stentorian, strident | gravelly | dry, even, expressionless, flat, level, measured, neutral </B><I>The question was posed in a flat tone. </I><B>| normal, reasonable | brisk, businesslike, matter-of-fact </B><I>She answered him in a brisk, matter-of-fact tone. </I><B>| commanding, firm, forthright | formal | sepulchral, solemn | dramatic, urgent | casual, offhand | bright, conversational | gentle, mild, pleasant, soft, sympathetic, warm </B><I>Her tone was mild, almost conversational. </I><B>| dulcet, honeyed </B><I>(both often ironic) We heard the dulcet tones of the sergeant, bawling at us to get on parade. </I><B>| clipped, cool, curt, frigid, hard, harsh, icy </B><I>In cool, clipped tones, he told her what had happened. </I><B>| aggressive, biting, contemptuous, disapproving, dismissive, ironic, mocking, patronizing, sarcastic, sardonic, scathing, threatening </B><I>His tone was faintly mocking. </I><B>| aggrieved, reproachful, shocked | bantering, conciliatory, conspiratorial, reverential, wheedling </B> </P>
+<P> <U> VERB + TONE </U><B> adopt, speak in, take </B><I>When she heard my accent, she adopted a warmer tone. Don't you take that tone with me. </I><B>| soften | change | interpret </B><I>Her tone was hard to interpret. </I> </P>
+<P> <U> TONE + VERB </U><B> change </B><I>His tone changed dramatically when he saw the money. </I><B>| convey sth, imply sth, indicate sth, suggest sth | betray sb/sth, give away sb/sth </B><I>Her tone betrayed her impatience. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>&lsquo;You ought to have thought of them,&rsquo; she said in a reproachful tone. </I><B>| in ~s of </B><I>&lsquo;I don't believe it!&rsquo; cried Henry in tones of utter amazement. </I> </P>
+<P> <U> PHRASES </U><B> a tone of voice </B><I>I didn't like his tone of voice; I felt he was being condescending. </I> </P>
+<P> <SUP> 2 </SUP> <TT> general quality/style of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> dominant, general, overall, prevailing </B><I>The general tone of the report was favourable. </I><B>| moral, political, social </B><I>The newspaper sets a high moral tone in its editorial about politicians' private lives. </I><B>| favourable | negative | comic, humorous </B> </P>
+<P> <U> VERB + TONE </U><B> set </B><I>Her enthusiastic speech set the tone for the day's conference. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>His letter was ver</I>y </B><I>negative in tone</I>. </B> </P>
+<P> <SUP> 3 </SUP> <TT> shade of a colour </TT> </P>
+<P> <U> ADJ. </U><B> light, muted, neutral, pale, pastel, soft </B><I>muted tones of grey and brown </I><B>| dark, deep | rich, warm | earthy, flesh, grey, natural, silvery | colour | skin </B><I>What is your natural skin tone? </I> </P>
+<P> <SUP> 4 </SUP> <TT> on the telephone </TT> </P>
+<P> <U> ADJ. </U><B> dial/dialling, engaged </B> </P>
+<P> <U> VERB + TONE </U><B> get </B><I>I keep getting the engaged tone. </I> </P>
+</DIV>

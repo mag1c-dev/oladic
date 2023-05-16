@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>saver </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> existing </b></div><div class="excontent"><i>Only children whose parents are existing savers may open an account. </i></div><div class="ex"><b>| small </b></div><div class="excontent"><i>encouraging small savers to invest in UK companies </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> ~ with </b></div><div class="excontent"><i>savers with the United Bank </i> </div></p>
+</div>

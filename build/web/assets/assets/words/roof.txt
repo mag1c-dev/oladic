@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>roof </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> conical, flat, gabled, mansard, pitched, pointed, sloping, steep | corrugated iron, glass, slate, thatched, tiled, tin | car, church, etc. </B> </P>
+<P> <U> VERB + ROOF </U><B> support </B><I>The roof is supported by stone columns. </I> </P>
+<P> <U> ROOF + VERB </U><B> slope </B><I>The roof slopes down to the top of the windows. </I><B>| cave in, fall in, collapse </B><I>Five people were killed when the roof fell in. </I><B>| leak </B> </P>
+<P> <U> ROOF + NOUN </U><B> space </B><I>The burglars removed tiles to climb into the roof space. </I><B>| covering, slate, tile | beams, rafters, structure, timbers | insulation | garden, terrace </B><I>The hotel has a charming roof garden. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There are small windows in the roof. </I><B>| on a/the ~ </B><I>There's a cat on the roof. </I><B>| under your ~ </B>(= in your house) <I>I won't have that man under my roof again! </I> </P>
+<P> <U> PHRASES </U><B> under one/the same roof </B>(= in the same building) <I>We're good friends but we could never live under the same roof. </I> </P>
+</DIV>

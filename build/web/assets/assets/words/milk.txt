@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>milk </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fresh | curdled, off, sour </B><I>The milk has gone off/turned sour. </I><B>| full-cream, full-fat, whole | low-fat, semi-skimmed | non-fat, skimmed | creamy | cold, warm | cow's, goat's, etc. | breast | baby, formula | coconut, soya | condensed, evaporated </B><I>a tin of condensed milk </I><B>| dried, powdered | pasteurized, unpasteurized | homogenized | long-life, UHT | organic </B> </P>
+<P> <U> QUANT. </U><B> litre, pint | bottle, carton, cup, glass, jug </B> </P>
+<P> <U> VERB + MILK </U><B> drink, have, take </B><I>Do you take milk in your coffee? </I><B>| add | pour | spill | deliver </B><I>They've stopped delivering milk in our area. </I><B>| boil, heat, scald | produce | express </B><I>She expressed some milk so her husband could do the night feeding. </I> </P>
+<P> <U> MILK + NOUN </U><B> powder | pudding, shake (also milkshake) | chocolate | product | bottle, churn, jug | production, yield | float, round </B> </P>
+<P> <U> PHRASES </U><B> the top of the milk </B>(= the creamy part at the top of a milk bottle)  </P>
+</DIV>

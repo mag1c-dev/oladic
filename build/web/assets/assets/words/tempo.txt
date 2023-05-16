@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>tempo </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> speed of an activity/event </TT> </P>
+<P> <U> ADJ. </U><B> increasing </B> </P>
+<P> <U> VERB + TEMPO </U><B> increase, raise, step up </B><I>United stepped up the tempo in the second half. </I><B>| slow (down) </B> </P>
+<P> <U> TEMPO + VERB </U><B> quicken | slacken | change </B> </P>
+<P> <U> PHRASES </U><B> the tempo of life </B><I>They soon adapted to the tempo of life on the island. </I> </P>
+<P> <SUP> 2 </SUP> <TT> speed of a piece of music </TT> </P>
+<P> <U> ADJ. </U><B> fast, quick | slow | moderate | waltz, etc. </B> </P>
+<P> <U> VERB + TEMPO </U><B> change </B> </P>
+<P> <U> TEMPO + NOUN </U><B> indications, markings </B> </P>
+<P> <U> PREP. </U><B> at a &hellip; ~ </B><I>They took the last movement at an unusually slow tempo. </I> </P>
+</DIV>

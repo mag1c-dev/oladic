@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>occupation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> job </TT> </P>
+<P> <U> ADJ. </U><B> full-time | dangerous, hazardous | female, male </B><I>Agricultural work is traditionally seen as a male occupation. </I><B>| low-paid, well-paid | high-status, low-status | sedentary | managerial, professional, technical | skilled, unskilled | manual, non-manual | blue-collar, white-collar | industrial, service </B><I>service occupations such as cleaning and catering </I> </P>
+<P> <U> VERB + OCCUPATION </U><B> choose, find | take up | follow </B><I>The people interviewed followed a variety of occupations </I><B>| give up </B><I>He gave up his occupation as a farmer and became a teacher. </I><B>| resume | provide (sb with) </B> </P>
+<P> <U> PHRASES </U><B> a range of occupations </B><I>The college provides training in a wide range of occupations. </I> </P>
+<P> <SUP> 2 </SUP> <TT> control of another country </TT> </P>
+<P> <U> ADJ. </U><B> continuing | military </B> </P>
+<P> <U> VERB + OCCUPATION </U><B> begin, take up | be/remain in | give up </B><I>The invaders have given up occupation of large parts of the territories. </I><B>| resume </B> </P>
+<P> <U> OCCUPATION + VERB </U><B> begin, end </B> </P>
+<P> <U> OCCUPATION + NOUN </U><B> force, power | zone </B> </P>
+<P> <U> PREP. </U><B> during the ~ </B><I>During the occupation, the church was used as a mosque. </I><B>| under ~ </B><I>Large parts of Britain were under Roman occupation. </I> </P>
+<P> <SUP> 3 </SUP> <TT> living in a room, house, etc. </TT> </P>
+<P> <U> ADJ. </U><B> exclusive | joint, multiple </B><I>the conversion of big old buildings to multiple occupation </I><B>| peaceful </B><I>the right to peaceful occupation of the property </I><B>| land | illegal, unlawful </B><I>illegal occupation of the premises </I> </P>
+<P> <U> VERB + OCCUPATION </U><B> take up </B><I>You can only take up occupation once the tenancy has been signed. </I><B>| be/remain in, enjoy | share | give up | resume </B> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>He intends to remain in occupation of the building for as long as possible. </I> </P>
+<P> <U> PHRASES </U><B> ready for occupation </B><I>The flats will be ready for occupation by March. </I><B>| unfit for occupation </B><I>The houses were judged to be unfit for human occupation. </I> </P>
+</DIV>

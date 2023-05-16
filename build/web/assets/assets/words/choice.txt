@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>choice </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of choosing </TT> </P>
+<P> <U> ADJ. </U><B> careful, good, informed, right, wise </B><I>a careful choice of words </I><B>| bad, wrong | difficult, hard, stark </B><I>She faced the stark choice of backing the new scheme or losing her job. </I><B>| natural | moral </B><I>Doctors have to make moral choices every day of their lives. </I><B>| career </B> </P>
+<P> <U> VERB + CHOICE </U><B> make | be faced with, face </B> </P>
+<P> <U> PREP. </U><B> by/from/out of ~ </B>(= because you have chosen) <I>I wouldn't have come to this bar by choice! </I><B>| of ~ </B>(= that is/should be chosen by a particular group of people for a particular purpose) <I>It's the software of choice for business use. </I><B>| of your ~ </B>(= that you choose yourself) <I>First prize will be a meal for two at a restaurant of your choice. </I><B>| ~ about </B><I>to make choices about their future </I> </P>
+<P> <SUP> 2 </SUP> <TT> chance/ability to choose </TT> </P>
+<P> <U> ADJ. </U><B> clear | free </B><I>Students have a free choice from a range of subjects. </I><B>| first </B><I>You can have first choice of all the rooms. </I><B>| multiple </B><I>a test with multiple choice questions </I><B>| consumer, parental </B> </P>
+<P> <U> VERB + CHOICE </U><B> have </B><I>I now had a clear choice: either I accept their terms or I leave. </I><B>| exercise </B><I>Everyone in a democracy has the right to exercise choice. </I><B>| give sb, present sb with </B><I>We gave her the choice, and she decided she'd like a bike for her birthday. </I><B>| extend </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>He had no choice about that. </I><B>| ~ as to </B><I>to extend parental choice as to which schools children should attend </I><B>| ~ between </B><I>She has a choice between three different universities. </I><B>| ~ of </B><I>a choice of wines </I> </P>
+<P> <U> PHRASES </U><B> freedom of choice, have little/no choice but to do sth </B><I>I had no choice but to cancel my holiday. </I><B>| have no choice in the matter </B><I>The way he behaved meant that we had no choice in the matter. </I><B>| leave sb with little/no choice </B><I>Your decision leaves me with no choice but to resign. </I> </P>
+<P> <SUP> 3 </SUP> <TT> things from which you can/must choose </TT> </P>
+<P> <U> ADJ. </U><B> good, wide | limited | available </B><I>a range of available choices </I> </P>
+<P> <U> VERB + CHOICE </U><B> have, offer </B><I>We offer a choice of ten different holiday destinations. </I> </P>
+<P> <U> CHOICE + VERB </U><B> be available (to sb), be open to sb </B><I>a range o</I>f </B><I>choices available to buyer</I>s </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The shop has a ver</I>y </B><I>limited choice of ties</I>. </B> </P>
+<P> <U> PHRASES </U><B> be spoilt for choice </B>(= to have a large number of things from which to choose)  </P>
+<P> <SUP> 4 </SUP> <TT> sb/sth that is chosen </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good, happy </B><I>It was a happy choice of venue </I><B>| obvious </B><I>Bill is the obvious choice for captain of the team. </I><B>| popular | first, second </B><I>Our first choice for a holiday is the north of Scotland. </I> </P>
+<P> <U> PREP. </U><B> ~ as </B><I>Mary is a popular choice as chair of the committee. </I><B>| ~ for </B><I>I think she's a very good choice for captain. </I> </P>
+</DIV>

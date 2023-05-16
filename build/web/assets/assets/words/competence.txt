@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>competence </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> ability to do sth well </TT> </P>
+<P> <U> ADJ. </U><B> great | basic | administrative, managerial, professional, social, technical | communicative, language, linguistic, reading </B> </P>
+<P> <U> VERB + COMPETENCE </U><B> have | demonstrate, display, prove, show </B><I>She shows a high level of technical competence. </I><B>| lack | achieve, acquire, develop, gain </B><I>He gradually developed the competence to deal with the more difficult cases. </I><B>| challenge, question </B> </P>
+<P> <U> PREP. </U><B> beyond sb's ~ </B><I>I'm afraid the work is beyond his competence. </I><B>| within sb's ~ </B><I>This should be well within your competence. </I><B>| ~ as </B><I>Students had questioned her competence as a teacher. </I><B>| ~ for </B><I>He displayed great competence for the job. </I><B>| ~ in </B><I>competence in English </I> </P>
+<P> <U> PHRASES </U><B> a level/standard of competence </B> </P>
+<P> <SUP> 2 </SUP> <TT> power to deal with sth </TT> </P>
+<P> <U> ADJ. </U><B> formal | exclusive </B> </P>
+<P> <U> VERB + COMPETENCE </U><B> have </B><I>The commission has no formal competence in cultural matters. </I> </P>
+<P> <U> PREP. </U><B> outside sb/sth's ~ </B><I>matters that fall outside the court's competence </I><B>| within sb/sth's ~ </B><I>The decisions come within the competence of the council. </I> </P>
+<P> <U> PHRASES </U><B> an area of competence</B> </P>
+</DIV>

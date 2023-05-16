@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>fish </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> animal that lives and breathes in water </TT> </P>
+<P> <U> ADJ. </U><B> freshwater, marine, salt-water, sea | tropical | predatory </B> </P>
+<P> <U> QUANT. </U><B> school, shoal </B> </P>
+<P> <U> VERB + FISH </U><B> catch, land </B><I>He landed one very big fish. </I><B>| breed, farm, have, keep </B><I>fish farmed in Scotland He keeps tropical fish. </I> </P>
+<P> <U> FISH + VERB </U><B> swim | hatch | bite </B><I>The fish aren't biting </I>(= biting at the bait) </B><I>today. </I> </P>
+<P> <U> FISH + NOUN </U><B> species | bowl, pond, tank | food | stocks </B><I>the depletion of fish stocks </I> </P>
+<P> <SUP> 2 </SUP> <TT> fish as food </TT> </P>
+<P> <U> ADJ. </U><B> fresh | dried, frozen, salted, smoked | oily | red, white </B> </P>
+<P> <U> QUANT. </U><B> bit, piece | fillet </B> </P>
+<P> <U> VERB + FISH </U><B> eat, have | clean, fillet, gut, prepare, skin </B><I>I cleaned and filleted the fish. </I><B>| marinade | bake, cook, fry, grill, poach, steam | flake </B><I>Remove the skin and flake the cooked fish. </I> </P>
+<P> <U> FISH + VERB </U><B> taste </B><I>This fish tastes funny. </I> </P>
+<P> <U> FISH + NOUN </U><B> bone | cake, dish, finger, oil, paste, pie, sauce, soup, stock | market, shop | knife, slice </B> </P>
+<P> <U> PHRASES </U><B> fish and chips, fish in batter </B>&gt; Special page at FOOD </B> </P>
+</DIV>

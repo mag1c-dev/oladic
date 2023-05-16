@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>limitation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> limiting of sth </TT> </P>
+<P> <U> ADJ. </U><B> important, major, serious, severe | family | damage </B><I>an exercise in damage limitation </I><B>| arms </B><I>talks on arms limitation </I><B>| budget, budgetary, financial </B> </P>
+<P> <U> VERB + LIMITATION </U><B> impose, place | remove | accept </B><I>a limitation of your personal freedom </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>limitations on one's freedom of action </I><B>| ~ to </B><I>There should be no limitations to progress in the talks. </I></P>
+<P> <SUP> 2 </SUP> <TT> limitations: sth that sb cannot do  </TT> </P>
+<P> <U> ADJ. </U><B> important, major, serious, severe | inherent | physical, technical </B> </P>
+<P> <U> VERB + LIMITATION </U><B> have </B><I>She has serious limitations as a mother. </I><B>| overcome, transcend </B><I>At times his technique seems to transcend the limitations of the piano. </I><B>| know, recognize </B><I>Please don't ask me to sing?I know my limitations! </I><B>| expose, reveal, show </B><I>The team's technical limitations were exposed by the Italians. </I><B>| accept </B><I>You've just got to accept your limitations. </I> </P>
+<P> <U> PREP. </U><B> despite sb's/sth's ~ </B><I>It's a useful book despite its limitations. </I> </P>
+</DIV>

@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>volunteer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sb who offers to do sth </TT> </P>
+<P> <U> ADJ. </U><B> unpaid </B><I>The office is staffed by unpaid volunteers. </I><B>| full-time, part-time | committed, dedicated, enthusiastic, willing | qualified, trained | potential, prospective, would-be | conservation, Red Cross </B> </P>
+<P> <U> QUANT. </U><B> army, band, group, network, team </B><I>An army of volunteers cooked meals for the children. </I> </P>
+<P> <U> VERB + VOLUNTEER </U><B> appeal for, ask for, call for, look for </B><I>The charity is appealing for volunteers to take elderly patients to and from hospital. </I><B>| find, get, recruit </B><I>We can't get any volunteers to help in the gardens. </I><B>| provide </B><I>The local community provided volunteers to repair the road. </I><B>| encourage | need, want | work as </B> </P>
+<P> <U> VOLUNTEER + VERB </U><B> come forward </B><I>Hundreds of volunteers have come forward to offer their help. </I><B>| man sth, staff sth | carry sth out | provide support, support sb </B><I>The support our volunteers provide cannot be measured in purely practical terms. </I> </P>
+<P> <U> VOLUNTEER + NOUN </U><B> staff, worker | carer, driver, helper </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>He worked as a volunteer for Oxfam. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in the armed forces </TT> </P>
+<P> <U> ADJ. </U><B> army, civilian </B> </P>
+<P> <U> VERB + VOLUNTEER </U><B> recruit | serve as </B> </P>
+<P> <U> VOLUNTEER + NOUN </U><B> army, militia, unit</B> </P>
+</DIV><DIV class="item"><P class="word"><B>volunteer </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> kindly </B><I>Barbara Forrest has kindly volunteered to lead a guided walk to Bolton Abbey. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>We volunteered as witnesses. </I><B>| for </B><I>I volunteered for service in the Air Force. </I> </P>
+</DIV>

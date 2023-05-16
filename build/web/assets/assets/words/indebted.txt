@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>indebted </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling grateful to sb </TT> </P>
+<P> <U> VERBS </U><B> be, feel | remain </B> </P>
+<P> <U> ADV. </U><B> deeply, greatly, much, profoundly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>I am deeply indebted to all the doctors and nurses who treated me. </I> </P>
+<P> <SUP> 2 </SUP> <TT> owing money to sb </TT> </P>
+<P> <U> VERBS </U><B> be | remain </B> </P>
+<P> <U> ADV. </U><B> heavily, highly, severely </B><I>The company is heavily indebted. highly indebted countries </I> </P>
+<P> <U> PREP. </U><B> to </B><I>indebted to the bank </I> </P>
+</DIV>

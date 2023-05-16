@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tunnel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, short | narrow, wide | dark | subterranean, underground | connecting, entrance, escape, service | rail, railway, road | wind </B><I>a wind tunnel for aerodynamic experiments </I> </P>
+<P> <U> VERB + TUNNEL </U><B> go through, use | disappear into, enter, go into </B><I>The train disappeared into a tunnel. </I><B>| come out of | bore, build, construct, dig, excavate </B><I>They've built a new tunnel through the mountain. The initial section of tunnel had to be dug by hand. </I> </P>
+<P> <U> TUNNEL + VERB </U><B> run </B><I>A service tunnel runs between the two buildings. </I> </P>
+<P> <U> TUNNEL + NOUN </U><B> mouth, roof, wall </B> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B> </P>
+<P> <U> PHRASES </U><B> a labyrinth/maze/network/system of tunnels </B><I>The badger sett had twelve entrances to what must have been a labyrinth of tunnels. </I> </P>
+</DIV>

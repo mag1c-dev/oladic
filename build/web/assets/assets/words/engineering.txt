@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>engineering </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy, light | conventional | precision | advanced | aeronautical, agricultural, chemical, civil, design, ecological, electrical, electronic, genetic, mechanical, process, software, systems, etc. </B> </P>
+<P> <U> QUANT. </U><B> piece </B><I>The bridge is a fine piece of engineering. </I> </P>
+<P> <U> ENGINEERING + NOUN </U><B> company, firm, group | industry | services | work/works </B><I>Train services on Sunday will be restricted, because of engineering works. </I> </P>
+<P> <U> PHRASES </U><B> a feat of engineering </B><I>The new building is a remarkable feat of engineering. </I></P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+</DIV>

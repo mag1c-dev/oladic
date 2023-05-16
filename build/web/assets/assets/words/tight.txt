@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>tight </B><I>adj., adv. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not loose </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, get, go </B><I>Those jeans have got too tight and I can't wear them any more. The rope suddenly went tight. </I><B>| hold (on) </B><I>&lsquo;Hold tight!&rsquo; She increased her grip. </I><B>| clamp sth, clench sth, close sth, draw sth, pull sth, shut sth, stretch sth, tie sth </B><I>His jaw was clenched tight. Every muscle in her face was drawn tight. Shut your eyes tight. The cloth was stretched tight over the frame. </I><B>| clutch sth, grip sth, hold sth, keep sth </B><I>He held his children tight. Keep the rope tight. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | a bit, fairly, pretty, quite, rather, reasonably | enough </B><I>You didn't tie it tight enough. </I> </P>
+<P> <SUP> 2 </SUP> <TT> with not much time/money to spare </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | get </B><I>I think we'd better leave?time's getting very tight. </I> </P>
+<P> <U> ADV. </U><B> extremely, particularly, really, very | a bit, fairly, pretty, rather </B> </P>
+<P> <SUP> 3 </SUP> <TT> controlled very strictly </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain </B><I>Security at the airport remains tight. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | increasingly | fairly, pretty, quite | enough </B><I>Are the controls tight enough? </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tight </B><I>adj., adv. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not loose </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, get, go </B><I>Those jeans have got too tight and I can't wear them any more. The rope suddenly went tight. </I><B>| hold (on) </B><I>&lsquo;Hold tight!&rsquo; She increased her grip. </I><B>| clamp sth, clench sth, close sth, draw sth, pull sth, shut sth, stretch sth, tie sth </B><I>His jaw was clenched tight. Every muscle in her face was drawn tight. Shut your eyes tight. The cloth was stretched tight over the frame. </I><B>| clutch sth, grip sth, hold sth, keep sth </B><I>He held his children tight. Keep the rope tight. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | a bit, fairly, pretty, quite, rather, reasonably | enough </B><I>You didn't tie it tight enough. </I> </P>
+<P> <SUP> 2 </SUP> <TT> with not much time/money to spare </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | get </B><I>I think we'd better leave?time's getting very tight. </I> </P>
+<P> <U> ADV. </U><B> extremely, particularly, really, very | a bit, fairly, pretty, rather </B> </P>
+<P> <SUP> 3 </SUP> <TT> controlled very strictly </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain </B><I>Security at the airport remains tight. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | increasingly | fairly, pretty, quite | enough </B><I>Are the controls tight enough? </I> </P>
+</DIV>

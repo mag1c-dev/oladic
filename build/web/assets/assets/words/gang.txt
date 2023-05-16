@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>gang </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of criminals </TT> </P>
+<P> <U> ADJ. </U><B> street </B><I>a street gang known as the Hooligans </I><B>| armed, criminal, organized, terror/terrorist </B><I>The robbery was carried out by an armed gang. </I><B>| teenage | rival </B><I>Fights had ensued between rival gangs of football fans. </I> </P>
+<P> <U> VERB + GANG </U><B> belong to, join </B><I>A lot of the lads belong to gangs. He pressed me to join his gang. </I> </P>
+<P> <U> GANG + NOUN </U><B> attack, fight, violence, warfare </B><I>a gang fight between two rival teenage gangs </I><B>| leader, member | life </B><I>a tale of LA gang life </I><B>| rape </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>We were in the same gang. </I><B>| ~ of </B><I>a gang of skinheads </I> </P>
+<P> <U> PHRASES </U><B> a member of a gang </B> </P>
+<P> <SUP> 2 </SUP> <TT> group of friends </TT> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>You probably go with a gang of friends to the same pub most Saturdays. </I> </P>
+<P> <U> PHRASES </U><B> one of the gang </B><I>Her friends made me feel welcome and treated me as one of the gang. </I> </P>
+</DIV>

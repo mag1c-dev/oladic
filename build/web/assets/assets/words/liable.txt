@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>liable </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | remain | make sb, render sb </B><I>Failure to provide insurance rendered him liable to prosecution. </I><B>| find sb, hold sb </B><I>They could be found liable for the entire amount. </I> </P>
+<P> <U> ADV. </U><B> strictly | fully | potentially | personally | jointly, severally </B><I>(law) Partners are jointly and severally </I>(= together and individually) </B><I>liable for a partnership's debts. </I><B>| vicariously </B><I>Under this rule, if Y is employed by X, X will be vicariously liable for the actions of Y. </I><B>| criminally, financially, legally </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She's fully liable for the company's debts. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>excuse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> reason given </TT> </P>
+<P> <U> ADJ. </U><B> perfect, wonderful | good, legitimate, valid | convincing, plausible, reasonable | feeble, flimsy, lame, pathetic, poor | convenient, easy </B><I>The children provided a convenient excuse for missing the party. </I><B>| standard, usual | every </B><I>She seized on every excuse to avoid doing the work. </I><B>| the slightest </B><I>He became moody and unreasonable, flailing out at Katherine at the slightest excuse. </I> </P>
+<P> <U> VERB + EXCUSE </U><B> have </B><I>He had no excuse for being so late. </I><B>| give, make, offer </B><I>She made some feeble excuse about the car having broken down. You don't have to make excuses for her </I>(= try to think of reasons for her behaviour)</B><I>. It's late. I'm afraid I'll have to make my excuses </I>(= say I'm sorry, give my reasons and leave)</B><I>. </I><B>| give sb, offer sb, provide (sb with) </B><I>Delivering the stuff for Rodney gave me an excuse to take the car. Her mother's illness provided her with an excuse to stay at home. </I><B>| need | look for | find, invent, make up, seize on, think up </B><I>She had to find a valid excuse for leaving the room. He made up a rather lame excuse for the work being late. </I><B>| use sth as </B><I>The political crisis is being used as an excuse to dock people's pay. </I><B>| run out of </B><I>He's run out of excuses for not tidying his room. </I><B>| accept, believe | reject </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>He invented a pathetic excuse about losing his watch. </I><B>| ~ for </B><I>It's just an excuse for a party. </I> </P>
+<P> <U> PHRASES </U><B> there is no excuse for &hellip; </B><I>There's no excuse for such behaviour. </I> </P>
+<P> <SUP> 2 </SUP> <TT> bad example of sth </TT> </P>
+<P> <U> ADJ. </U><B> pathetic, poor </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Why get involved with that pathetic excuse for a human being? </I> </P>
+</DIV>

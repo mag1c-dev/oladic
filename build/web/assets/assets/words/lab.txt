@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>laboratory </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> up-to-date, well-equipped | commercial, industrial | school, university | biology, chemistry, physics, science | chemical, pharmaceutical | analytical, clinical, development, experimental, forensic, medical, nuclear, pathology, photographic, public health, quality control, research, testing </B> </P>
+<P> <U> VERB + LABORATORY </U><B> build, establish, set up </B><I>She has donated money to establish a pharmaceutical laboratory. </I><B>| run </B><I>He runs his own research laboratory. </I><B>| work in </B><I>They work in a laboratory studying growth patterns. </I> </P>
+<P> <U> LABORATORY + NOUN </U><B> assistant, chemist, manager, scientist, technician, worker | apparatus, bench, equipment, facilities | animal | analysis, experiment, investigation, measurement, simulation, study, test, testing, trial, work </B><I>laboratory tests on animals </I><B>| science, subject | practices, procedures | data, evidence, findings, report, results | conditions, setting </B><I>The athletes' reflexes were tested under laboratory conditions. simulated driving in a laboratory setting </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The effects of weathering can be simulated in the laboratory. </I> </P>
+</DIV>

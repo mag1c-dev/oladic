@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>imitation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> copy of a thing </TT> </P>
+<P> <U> ADJ. </U><B> accurate, good, passable | cheap, crude, pale, poor </B><I>Accept no cheap imitations of our product! Their version of jazz funk is a pale imitation of the real thing. </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of copying sth </TT> </P>
+<P> <U> ADJ. </U><B> faithful, slavish | direct </B><I>Children are seen as learning to write by direct imitation of adult models. </I> </P>
+<P> <U> PREP. </U><B> in ~ of </B><I>The poems, some in imitation of Ossian, are graceful if unremarkable. </I> </P>
+<P> <SUP> 3 </SUP> <TT> copy of sb's speech/behaviour </TT> </P>
+<P> <U> ADJ. </U><B> fair, good, passable | poor </B> </P>
+<P> <U> VERB + IMITATION </U><B> do, give, perform </B><I>He does a very good imitation of George W. Bush. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>consensus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad, clear, common, general, overwhelming, strong | emerging, growing | tacit, unspoken | international, national | political, social </B> </P>
+<P> <U> QUANT. </U><B> degree, level </B> </P>
+<P> <U> VERB + CONSENSUS </U><B> achieve, arrive at, reach | break </B><I>He was the first to break the consensus and criticize the proposal. </I> </P>
+<P> <U> CONSENSUS + VERB </U><B> exist </B><I>No clear consensus exists over the next stage of the scheme. </I><B>| emerge </B><I>A general consensus on the problem is beginning to emerge. </I> </P>
+<P> <U> CONSENSUS + NOUN </U><B> view </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>They have always governed by consensus. </I><B>| ~ about/on/over </B><I>It is difficult to reach a consensus about electoral reform. </I><B>| ~ among/between </B><I>no consensus among the members </I> </P>
+<P> <U> PHRASES </U><B> a consensus of opinion </B><I>The general consensus of opinion is that a high-fat diet is bad for you. </I><B>| a lack of consensus</B> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>colony </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> country ruled by another country </TT> </P>
+<P> <U> ADJ. </U><B> overseas </B><I>Britain's overseas colonies </I><B>| self-governing | penal, plantation </B> </P>
+<P> <U> VERB + COLONY </U><B> establish </B><I>Settlers established a new colony in the early 18th century. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> group of animals/plants </TT> </P>
+<P> <U> ADJ. </U><B> huge, large, thriving | small | breeding | ant, bird, seal, etc. | coral </B> </P>
+<P> <U> VERB + COLONY </U><B> form </B><I>Some of the insects will leave to form a new colony. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The birds nest in huge colonies. </I><B>| ~ of </B><I>a colony of ants </I> </P>
+</DIV>

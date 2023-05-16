@@ -1,0 +1,39 @@
+
+<DIV class="item"><P class="word"><B>credit card </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> valid </B><I>Your credit card is no longer valid. </I> </P>
+<P> <U> VERB + CREDIT CARD </U><B> pay by, use </B><I>We paid by credit card. </I><B>| accept, take </B><I>Do you accept credit cards? </I><B>| issue | put sth on </B><I>I put the bill on my credit card. </I> </P>
+<P> <U> CREDIT CARD + VERB </U><B> expire </B><I>My credit card expires at the end of June. </I> </P>
+<P> <U> CREDIT CARD + NOUN </U><B> details, number </B><I>Can you give me your credit card number? </I> </P>
+<P> <U> PREP. </U><B> on your ~ </B><I>He ran up a huge bill on his credit card. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>credit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> buy now?pay later; money borrowed/lent </TT> </P>
+<P> <U> ADJ. </U><B> long-term, short-term | interest-free | foreign | bank | consumer, export, trade </B> </P>
+<P> <U> VERB + CREDIT </U><B> have, use </B><I>When poorer people use credit, mail order is the key source. </I><B>| get, obtain </B><I>If you don't have a regular income you may be unable to get credit. </I><B>| extend, give sb, grant (sb), offer (sb) </B><I>Most shops selling furniture or electrical goods will offer credit. </I><B>| deny sb, refuse sb </B><I>The bank refused further credit to the company. </I><B>| arrange | expand </B><I>We propose to expand credit in order to create demand. </I> </P>
+<P> <U> CREDIT + NOUN </U><B> account, agreement, arrangement, facilities, system, terms | limit </B><I>Your credit limit is now </I>&pound;</B><I>2,000. </I><B>| period | sale, transaction, transfer | rating, scoring, standing </B><I>He has a bad credit rating </I>(= seems unlikely to pay the money back)</B><I>. </I><B>| risk </B><I>He's a bad credit risk. </I><B>| control | crunch, squeeze | institution, market, union | note </B><I>If damaged items have to be returned, the manufacturer may issue a credit note. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>I bought it on credit. </I> </P>
+<P> <U> PHRASES </U><B> a letter of credit </B>(= a letter from one bank to another that enables you to obtain money) <I>I have arranged for my branch to send a letter of credit to the branch nearest the hotel. </I> </P>
+<P> <SUP> 2 </SUP> <TT> money in a bank account </TT> </P>
+<P> <U> ADJ. </U><B> direct </B><I>I'm paid by direct credit into my bank account. </I> </P>
+<P> <U> VERB + CREDIT </U><B> have </B><I>I have three credits on my bank statement. </I> </P>
+<P> <U> CREDIT + NOUN </U><B> balance </B><I>a credit balance of </I>&pound;</B><I>265 </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>My account is in credit. </I><B>| ~ of </B><I>a credit of </I>&pound;</B><I>35 </I> </P>
+<P> <SUP> 3 </SUP> <TT> praise/approval </TT> </P>
+<P> <U> ADJ. </U><B> great | full | eternal, everlasting | due </B><I>We should give due credit to all who helped make the event a success. </I> </P>
+<P> <U> VERB + CREDIT </U><B> give sb | claim, get, receive, take </B><I>Why should she get all the credit? </I><B>| do sb, reflect </B><I>Your concern does you credit. The success of the venture reflects great credit on the organizers. </I><B>| deserve </B> </P>
+<P> <U> PREP. </U><B> to sb's ~ </B><I>To her eternal credit, she gave them a home. </I><B>| ~ for </B><I>At least give him credit for trying. </I> </P>
+<P> <U> PHRASES </U><B> give credit where credit is due 4 the credits </B>list of people who worked on a film, etc. </B> </P>
+<P> <U> ADJ. </U><B> opening | final | film </B> </P>
+<P> <U> CREDIT + VERB </U><B> roll </B><I>We left the cinema before the final credits began to roll. </I> </P>
+<P> <SUP> 5 </SUP> <TT> sb/sth that brings honour to sb/sth else </TT> </P>
+<P> <U> ADJ. </U><B> great </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>He's a great credit to the school. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>credit </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put money in the bank </TT> </P>
+<P> <U> PREP. </U><B> with </B><I>The bank credited the oil company with </I>&pound;</B><I>500,000. </I> </P>
+<P> <U> PHRASES </U><B> credit sth to sb's account </B> </P>
+<P> <SUP> 2 </SUP> <TT> with an achievement/quality </TT> </P>
+<P> <U> PREP. </U><B> with </B><I>I credited you with a little more sense. </I> </P>
+<P> <U> PHRASES </U><B> be credited as/with sth </B><I>She is generally credited as having written over 50 novels. </I><B>| be credited to sb </B><I>The work has been credited to a sixteenth century bishop. </I><B>| be generally/widely credited with sth </B><I>He is widely credited with having started the Middle East peace process. </I> </P>
+<P> <SUP> 3 </SUP> <TT> believe </TT> </P>
+<P> <U> VERB + CREDIT </U><B> can/could hardly/scarcely </B><I>I could hardly credit it when she told me she was leaving. </I><B>| be hard to </B><I>I find what he says rather hard to credit. </I> </P>
+</DIV>

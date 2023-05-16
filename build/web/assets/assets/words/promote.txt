@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>promote </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> encourage sth </TT> </P>
+<P> <U> ADV. </U><B> strongly </B><I>The idea of equal opportunities was strongly promoted by many Labour MPs. </I><B>| actively, directly | indirectly | deliberately, intentionally </B><I>They claimed that the authorities had deliberately promoted and condoned the violence. </I> </P>
+<P> <U> VERB + PROMOTE </U><B> aim to, seek to, try to | help (to) </B><I>Basketball stars from the United States have helped promote the sport in Italy and Spain. </I><B>| be designed to </B><I>measures designed to promote economic growth </I><B>| be likely to | serve to, tend to </B><I>Bonus payments to staff serve to promote commitment to the company. </I> </P>
+<P> <U> PREP. </U><B> through </B><I>Young people's awareness of agricultural issues is promoted through publicity material. </I> </P>
+<P> <U> PHRASES </U><B> be aimed at promoting sth, be widely promoted, a campaign/scheme to promote sth, efforts/measures to promote sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> advertise sth </TT> </P>
+<P> <U> ADV. </U><B> aggressively, heavily </B><I>The new products have been very heavily promoted. </I><B>| widely </B> </P>
+<P> <U> PREP. </U><B> as </B><I>The town is now being promoted as a holiday destination. </I><B>| through </B><I>The company's products have been promoted mainly through advertising in newspapers. </I> </P>
+</DIV>

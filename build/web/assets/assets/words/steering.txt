@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>steering </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy, light | power/power-assisted </B> </P>
+<P> <U> VERB + STEERING </U><B> have </B><I>Does the car have power steering? </I> </P>
+<P> <U> STEERING + NOUN </U><B> column, wheel</B> </P>
+</DIV><DIV class="item"><P class="word"><B>steering wheel </B><I>noun </I> </P>
+<P> <U> VERB + STEERING WHEEL </U><B> grip, hold | turn </B><I>Turn the steering wheel hard to the right. </I><B>| grab </B><I>He grabbed the steering wheel from her to prevent the car going off the road. </I><B>| lose control of</B> </P>
+</DIV>

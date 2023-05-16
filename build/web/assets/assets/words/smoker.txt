@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>smoker </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chain, heavy | regular | light | passive </B><I>the risk of lung cancer in passive smokers </I><B>| cigar, cigarette, pipe </B> </P>
+<P> <U> SMOKER + NOUN </U><B> a smoker's cough</B> </P>
+</DIV>

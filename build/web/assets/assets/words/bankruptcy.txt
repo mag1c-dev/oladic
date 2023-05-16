@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>bankruptcy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> personal </B> </P>
+<P> <U> VERB + BANKRUPTCY </U><B> face </B><I>Small travel operators are facing bankruptcy. </I><B>| be close to, be on the brink/verge of | be driven/forced/thrown into, go into | file for, petition for </B><I>The company has been forced to file for bankruptcy. </I><B>| declare </B><I>It is the only country to have declared bankruptcy. </I><B>| be saved from, escape (from) </B> </P>
+<P> <U> BANKRUPTCY + NOUN </U><B> order, proceedings </B><I>The defendant has a bankruptcy order against him. </I> </P>
+<P> <U> PHRASES </U><B> the threat of bankruptcy</B> </P>
+</DIV>

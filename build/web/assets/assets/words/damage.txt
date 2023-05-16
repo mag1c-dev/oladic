@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>damage </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> harm/injury </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, serious, severe, substantial, untold | minor, slight | extensive, widespread | irreparable, irreversible, lasting, long-term, permanent </B><I>The incident did permanent damage to relations between the two countries. </I><B>| criminal, malicious, wilful </B><I>He was prosecuted for criminal damage to a vehicle. </I><B>| accidental </B><I>The insurance policy covers the building for accidental damage. </I><B>| emotional, environmental, mechanical, psychological, structural | brain </B><I>She suffered serious brain damage at birth. </I> </P>
+<P> <U> VERB + DAMAGE </U><B> cause, do, inflict </B><I>The earthquake caused widespread damage to property. They inflicted severe psychological damage on their opponents. </I><B>| suffer | repair | prevent </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>The palace suffered extensive damage by fire in 1825. </I> <B>| ~ from </B><I>Crops are sprayed with chemicals to prevent damage from insects. </I><B>| ~ to </B><I>lasting damage to the environment </I> </P>
+<P> <U> PHRASES </U><B> the cost/value of the damage </B><I>The cost of the damage is estimated at around $2 billion. </I><B>| the extent of the damage </B><I>At the moment it is difficult to assess the extent of the damage. </I> </P>
+<P> <SUP> 2 </SUP> <TT> damages: money you can claim from sb  </TT> </P>
+<P> <U> ADJ. </U><B> heavy, substantial </B> </P>
+<P> <U> VERB + DAMAGE </U><B> incur, suffer </B><I>damages incurred by the unfairly sacked workers </I><B>| claim, seek, sue (sb) for </B><I>He decided to sue the company for damages. </I><B>| assess </B><I>The court will assess the damages. </I> <B>| apportion, award (sb) | pay (sb) | obtain, receive, recover, win | be liable for, be liable in </B><I>(law) If goods are lost in transit, the carrier will be liable for damages. </I> </P>
+<P> <U> DAMAGE + NOUN </U><B> action, claim </B><I>A woman is to bring a civil damages action against the men she alleges murdered her son. </I><B>| award </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>They are claiming </I>&pound;</B><I>45 million in damages. </I><B>| ~ for </B><I>He received damages for personal injury. </I><B>| ~ of </B><I>She was awarded damages of </I>&pound;</B><I>90,000. </I> </P>
+<P> <U> PHRASES </U><B> an action/a claim for damages </B><I>The judge upheld her claim for damages against her former employer. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>damage </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly, seriously, severely </B><I>The building was badly damaged by fire. </I><B>| slightly | irreparably, permanently </B><I>She may have damaged her health irreparably. </I> </P>
+</DIV>

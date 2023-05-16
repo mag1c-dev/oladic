@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>height </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> how tall sb/sth is </TT> </P>
+<P> <U> ADJ. </U><B> full, maximum </B><I>He drew himself up to his full height and glared at us. </I><B>| considerable, great, towering </B><I>Her great height was rather a handicap. </I><B>| average, medium, middle </B><I>a man of middle height </I> </P>
+<P> <U> VERB + HEIGHT </U><B> measure | grow to, reach </B><I>The plants grow to a maximum height of 24 inches. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The wall is 2.5 metres in height. </I> </P>
+<P> <SUP> 2 </SUP> <TT> distance above the ground/sea level </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great </B><I>The object had clearly fallen from a considerable height. </I><B>| ceiling, chest, head, shoulder, waist, etc. </B><I>Bring your hands to shoulder height. </I> </P>
+<P> <U> VERB + HEIGHT </U><B> gain | lose </B><I>The plane was beginning to lose height. </I><B>| maintain </B><I>The pilot was unable to maintain height. </I><B>| attain, climb to, reach, rise to </B><I>The balloon reached a height of 20,000 feet. </I> </P>
+<P> <U> PREP. </U><B> at a ~ of </B><I>The animal lives in lakes near Mexico City, at a height of 6,000 to 7,000 feet above sea level. </I> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>heights</B>) high place </TT> </P>
+<P> <U> ADJ. </U><B> mountain, rocky </B><I>The condor soars above the mountain heights. </I> </P>
+<P> <U> VERB + HEIGHT </U><B> scale </B><I>They were the first expedition to scale the heights of Everest. </I><B>| be afraid of, have no head for | have a head for </B><I>A steeplejack has to have a good head for heights. </I> </P>
+<P> <U> PREP. </U><B> from a ~ </B><I>The pattern of the ancient fields is clearly visible from a height. </I> </P>
+<P> <U> PHRASES </U><B> a fear of heights 4 heights </B>high level of achievement </B> </P>
+<P> <U> ADJ. </U><B> commanding, dizzy, giddy, lofty </B><I>They have risen to the dizzy heights of the semi-finals. </I><B>| new </B><I>The group's popularity reached new heights when they got a top ten hit. </I> </P>
+<P> <U> VERB + HEIGHT </U><B> reach, rise to, scale </B><I>She rose to undreamed-of heights of power and fame. </I> </P>
+</DIV>

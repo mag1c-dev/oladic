@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>dock </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place for loading/unloading ships </TT> </P>
+<P> <U> ADJ. </U><B> commercial | coal, fish, etc. </B> </P>
+<P> <U> VERB + DOCK </U><B> build, construct | arrive at/in | enter </B> </P>
+<P> <U> DOCK + NOUN </U><B> company | strike | worker </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>A car pulled up at the dock. </I><B>| in ~ </B><I>The ship is in dock for repairs. </I><B>| on a/the ~ </B><I>the cargo stacked on the dock </I></P>
+<P> <SUP> 2 </SUP> <TT> the dock: in a court of law  </TT> </P>
+<P> <U> VERB + DOCK </U><B> enter, go into, step into | appear in, be in </B><I>She was in the dock on charges of attempted fraud. </I><B>| be put in, end up in, land in </B><I>After a night of drunken revelry they ended up in the dock. </I> </P>
+<P> <U> PREP. </U><B> from the ~ </B><I>an outburst from the dock </I><B>| in the ~ </B><I>The defendant stood in the dock. </I> </P>
+</DIV>

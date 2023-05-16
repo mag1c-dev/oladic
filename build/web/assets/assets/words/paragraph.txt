@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>paragraph </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> new | introductory, opening </B> </P>
+<P> <U> VERB + PARAGRAPH </U><B> begin, start </B><I>Start each paragraph on a new line. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The identity of the murderer is revealed in the very last paragraph. </I><B>| in accordance with/under ~ </B><I>(law) Cancellation charges will apply in accordance with paragraph 4 above. </I><B>| ~ about </B><I>a paragraph about the writer's reaction to his mother's death </I> </P>
+</DIV>

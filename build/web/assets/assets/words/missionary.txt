@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>missionary </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> foreign | pioneer | evangelical, medical | Baptist, Catholic, Christian, Jesuit, Protestant </B> </P>
+<P> <U> VERB + MISSIONARY </U><B> work as | send (sb as) </B><I>sending clergy as missionaries to Latin America </I><B>| pray for </B> </P>
+<P> <U> MISSIONARY + NOUN </U><B> work | zeal </B><I>He argued the case for reorganization with missionary zeal. </I> </P>
+<P> <U> PREP. </U><B> as a ~ </B><I>He spent 15 years as a missionary in Africa. </I> </P>
+</DIV>

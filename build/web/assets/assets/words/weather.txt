@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>weather </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> beautiful, excellent, fair, fine, glorious, good, ideal, lovely, </B> perfect, superb | adverse, <B>appalling, atrocious, awful, bad, dismal, dreadful, foul, gloomy, grim, inclement, inhospitable,  lousy, miserable, nasty, rotten, rough, terrible, vile, wretched | hot, humid, muggy, sultry, warm | mild | bright, clear, sunny | calm | dry | reliable, settled | changeable, fickle, uncertain, unpredictable, unsettled | extreme, fierce, harsh, severe, violent, wild | bitter, cold, freezing, frosty, icy, wintry | cool | cloudy, grey | damp, rainy, wet | foggy | blustery, stormy, windy | unseasonable/unseasonal, unseasonably/unseasonally &hellip; </B><I>a spell of unseasonally wet weather. </I> </P>
+<P> <U> QUANT. </U><B> spell </B> </P>
+<P> <U> VERB + WEATHER </U><B> brave </B><I>Deciding to brave the weather, he grabbed his umbrella and went out. </I> </P>
+<P> <U> WEATHER + VERB </U><B> clear (up), improve, let up, warm up </B><I>We'll go just as soon as this weather lets up. </I><B>| hold out, keep up </B><I>If the weather holds out we could go swimming later. </I><B>| threaten </B><I>Bad weather threatened. </I><B>| break, deteriorate, worsen </B><I>It was warm and sunny until the weekend, but then the weather broke. </I><B>| become sth, get sth, turn sth </B><I>Next day the weather turned cold. </I><B>| remain sth, stay sth | close in, set in </B><I>The weather closed in and the climbers had to take shelter. I wanted to mend the roof before the cold weather set in. </I><B>| allow, permit </B><I>I sat outside as often as the weather allowed. We're having a barbecue next Saturday, weather permitting. </I>(You cannot say &lsquo;weather allowing&rsquo;.) <B>| prevent sth </B><I>Stormy weather prevented any play in today's tennis. </I><B>| change </B> </P>
+<P> <U> WEATHER + NOUN </U><B> conditions </B><I>The plane crashed into the sea in adverse weather conditions. </I><B>| patterns, system </B><I>the effects of global warming on the world's weather patterns The Atlantic weather systems had been kind. </I><B>| forecast, report | data, records | satellite, station | chart, map </B> </P>
+<P> <U> PHRASES </U><B> a change in the weather </B><I>We hadn't bargained for such a dramatic change in the weather. </I><B>|  in all weathers </B><I>The lifeboat crews go out in all weathers. </I><B>| the vagaries of the weather </B><I>She packed all kinds of clothes to cope with the vagaries of the English weather. </I><B>| whatever the weather </B><I>He swims in the sea every day, whatever the weather. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>weather </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> pass safely through sth </TT> </P>
+<P> <U> ADV. </U><B> successfully, well </B><I>Their company had weathered the recession well. </I> </P>
+<P> <U> VERB + WEATHER </U><B> manage to </B><I>(figurative) The company has managed to weather the storm. </I> </P>
+<P> <SUP> 2 </SUP> <TT> change in appearance because of the sun/air/wind </TT> </P>
+<P> <U> ADV. </U><B> badly </B><I>Some of the stone has weathered quite badly. </I> </P>
+</DIV>

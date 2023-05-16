@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>adjustment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small change made </TT> </P>
+<P> <U> ADJ. </U><B> delicate, fine, minor, slight, small | important, major, significant | appropriate, necessary | automatic | financial </B> </P>
+<P> <U> VERB + ADJUSTMENT </U><B> make </B><I>The mechanic made the necessary adjustments to the engine. </I><B>| need, require </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a cut of 1.5% in real terms (after adjustment for inflation) </I><B>| ~ in </B><I>adjustments in the exchange rates </I><B>| ~ to </B><I>a few minor adjustments to the timetable </I> </P>
+<P> <SUP> 2 </SUP> <TT> process of changing </TT> </P>
+<P> <U> ADJ. </U><B> successful | emotional, personal, social </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The company's adjustment to the new markets has been successful. </I> </P>
+<P> <U> PHRASES </U><B> a period of adjustment </B><I>There was a long period of adjustment under the new boss. </I><B>| the process of adjustment </B><I>The process of adjustment to life in another country can be very difficult. </I> </P>
+</DIV>

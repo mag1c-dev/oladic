@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>carbon dioxide </B><I>noun </I> </P>
+<P> <U> VERB + CARBON DIOXIDE </U><B> absorb, take in </B><I>Trees absorb carbon dioxide and produce oxygen. </I><B>| emit, give out, produce, release | form, give </B><I>How is carbon dioxide formed? Coke burns with oxygen to give carbon dioxide. </I> </P>
+<P> <U> CARBON DIOXIDE + NOUN </U><B> emissions </B> </P>
+<P> <U> PHRASES </U><B> a build-up of carbon dioxide, emissions of carbon dioxide</B> </P>
+</DIV><DIV class="item"><P class="word"><B>carbon </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pure </B><I>Diamonds are crystals of pure carbon. </I><B>| organic | radioactive | activated </B> </P>
+<P> <U> CARBON + NOUN </U><B> content </B><I>iron with a high carbon content </I><B>| atom, isotope | fibre </B> </P>
+<P> <U> PHRASES </U><B> a form of carbon</B> </P>
+</DIV>

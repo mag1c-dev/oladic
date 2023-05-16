@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>concentrated </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> of your attention </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> totally </B><I>Kate sat up fully, her attention now totally concentrated. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a substance </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> highly, very </B><I>The liquid is found in a highly concentrated form. </I> </P>
+<P> <SUP> 3 </SUP> <TT> found in one place </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> heavily, highly, particularly, strongly, very | increasingly | largely, mainly, mostly, overwhelmingly, primarily | disproportionately </B><I>These jobs are disproportionately concentrated in the service sector. </I><B>| geographically </B><I>The immigrant community is strongly concentrated geographically. </I> </P>
+<P> <U> PREP. </U><B> at, in </B><I>Most of the country's industry is concentrated in the north. </I><B>| within </B><I>Childbearing is concentrated within the first decade of married life. </I> </P>
+</DIV>

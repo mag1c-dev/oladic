@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>unease </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, great, growing | certain, some, vague </B><I>She felt a vague unease. </I><B>| general, public </B> </P>
+<P> <U> VERB + UNEASE </U><B> feel | express, show </B><I>They expressed their deep unease about the lack of security arrangements. </I><B>| hide </B><I>I smiled to hide my unease. </I><B>| sense </B><I>He sensed a certain unease in her. </I><B>| cause, create </B> </P>
+<P> <U> UNEASE + VERB </U><B> grow, rise </B> </P>
+<P> <U> PREP. </U><B> ~ about/at/over </B><I>Many felt unease about the methods used. </I> </P>
+<P> <U> PHRASES </U><B> a feeling/sense of unease, a source of unease </B><I>He looked in vain for the source of his unease. </I> </P>
+</DIV>

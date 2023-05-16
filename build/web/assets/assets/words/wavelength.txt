@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>wavelength </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, medium, short | infrared, ultraviolet | visible | acoustic, radio </B> </P>
+<P> <U> VERB + WAVELENGTH </U><B> tune in to </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Radio One has broadcast on this wavelength for years. </I> </P>
+</DIV>

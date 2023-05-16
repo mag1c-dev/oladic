@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fishing </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, great </B><I>This stretch of the river is renowned for its good fishing. </I><B>| coarse, deep-sea, drift-net, fly-, sea </B><I>One of his hobbies was fly-fishing. </I><B>| game, salmon, shark, trout, etc. </B><I>She has been big game fishing off the coast of Kenya. </I><B>| commercial, industrial </B> </P>
+<P> <U> VERB + FISHING </U><B> go </B><I>He goes fishing every weekend. </I> </P>
+<P> <U> FISHING + NOUN </U><B> basket, equipment, gear, line, rod, stool, tackle | boat, craft, fleet, smack, trawler, vessel | hamlet, harbour, port, station, town, village | area, grounds, spot, zone </B><I>the rich fishing grounds off the coast of Namibia Just below that bridge is a good fishing spot. </I><B>| activity </B><I>controls on fishing activity </I><B>| quotas | agreement </B><I>The two countries have signed a new fishing agreement. </I><B>| ban | rights </B><I>Fishing rights are held by the local angling club. </I><B>| licence </B><I>You need a fishing licence to fish in the lake. </I><B>| expedition, holiday, trip | club | lodge | business, industry, trade | methods, techniques </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Ecuador announced a ban on fishing for shrimps. </I> </P>
+</DIV>

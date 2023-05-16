@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>constituency </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> district that elects an MP </TT> </P>
+<P> <U> ADJ. </U><B> important, key | local | marginal </B>(= won or lost by only a small number of votes) <I>The Tories are concentrating their campaign in the key marginal constituencies. </I><B>| target | electoral, parliamentary | inner-city, urban | suburban | county, rural | multi-member, single-member </B><I>Japan's electoral system of multi-member constituencies </I> </P>
+<P> <U> VERB + CONSTITUENCY </U><B> be elected for/to, represent </B><I>She was elected to a rural constituency. He represents a constituency in the north of England. </I> </P>
+<P> <U> CONSTITUENCY + NOUN </U><B> boundaries | MP </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the people in this constituency </I> </P>
+<P> <SUP> 2 </SUP> <TT> group in society likely to support a particular party </TT> </P>
+<P> <U> ADJ. </U><B> broad, wider | natural, traditional </B><I>These people are Labour's natural constituency. </I><B>| political, social </B> </P>
+<P> <U> VERB + CONSTITUENCY </U><B> appeal to </B><I>The party needs to appeal to a broader constituency. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~</B> </P>
+</DIV>

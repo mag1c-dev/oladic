@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>basketball </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> college, professional </B> </P>
+<P> <U> QUANT. </U><B> game </B> </P>
+<P> <U> VERB + BASKETBALL </U><B> play | watch </B> </P>
+<P> <U> BASKETBALL + NOUN </U><B> championship, match | court | coach, player, star, team | referee, umpire </B></B> </P>
+</DIV>

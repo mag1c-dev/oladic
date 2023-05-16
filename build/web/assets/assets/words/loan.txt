@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>loan </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, massive | long-term, short-term | interest-free, low-interest | secured, unsecured </B><I>As it was an unsecured loan, their property was not at risk. </I><B>| outstanding </B><I>They used the inheritance to pay off their outstanding loan. </I><B>| personal | bank | bridging, temporary </B> </P>
+<P> <U> VERB + LOAN </U><B> apply for, ask for, request | arrange, get, raise, take out </B><I>She had to take out a bridging loan until she could sell her house. </I><B>| give sb, grant sb, make sb </B><I>My bank manager offered to make me a loan. </I><B>| receive | pay off, repay | secure, underwrite </B> </P>
+<P> <U> LOAN + VERB </U><B> average sth, total sth </B><I>loans totalling a million pounds </I> </P>
+<P> <U> LOAN + NOUN </U><B> application | agreement, arrangement, deal | charges, interest, rate | repayment </B><I>They were struggling to meet their monthly loan repayments. </I><B>| commitments | facility, service </B><I>The bank provides personal loan facilities at competitive rates. </I><B>| period </B><I>The book must be returned by the end of the loan period. </I><B>| shark </B><I>He ran up massive debts borrowing from loan sharks. </I> </P>
+<P> <U> PREP. </U><B> on ~ (from) </B><I>The paintings are on loan from the Wallace Collection. </I><B>| ~ from </B><I>a loan from my brother </I> </P>
+<P> <U> PHRASES </U><B> give sb/have the loan of sth </B><I>He's given us the loan of his car for the weekend. </I><B>| security against/for a loan </B><I>He had to use his house as security for the loan. </I>&gt; Special page at BUSINESS </B> </P>
+</DIV>

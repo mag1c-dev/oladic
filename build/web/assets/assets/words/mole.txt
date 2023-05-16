@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>mole </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> animal </TT> </P>
+<P> <U> MOLE + VERB </U><B> dig, burrow, tunnel </B> </P>
+<P> <SUP> 2 </SUP> <TT> person </TT> </P>
+<P> <U> VERB + MOLE </U><B> plant </B><I>They suspected that a mole had been planted in the organization. </I> </P>
+<P> <SUP> 3 </SUP> <TT> mark on the skin </TT> </P>
+<P> <U> ADJ. </U><B> hairy </B> </P>
+<P> <U> VERB + MOLE </U><B> remove</B> </P>
+</DIV>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>function </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> purpose/special duty of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> crucial, essential, important, useful, valuable, vital | chief, main, major, primary, prime | dual </B><I>The committee has a dual function, both advisory and regulatory. </I><B>| bodily, brain, liver, mental, etc. </B><I>Fortunately, his head injuries left his bodily functions unimpaired. </I> </P>
+<P> <U> VERB + FUNCTION </U><B> have | carry out, fulfil, perform, serve </B><I>All members carry out their own particular functions. The club serves a useful function as a meeting place. </I> </P>
+<P> <SUP> 2 </SUP> <TT> important social event </TT> </P>
+<P> <U> ADJ. </U><B> charity, official, social </B><I>The princess attended a charity function in aid of cancer research. </I> </P>
+<P> <U> VERB + FUNCTION </U><B> hold | attend, go to </B> </P>
+<P> <U> FUNCTION + NOUN </U><B> room </B><I>The wedding reception will be held in the Swan Hotel's function room. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>function </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> effectively, efficiently, smoothly, successfully, well | perfectly | correctly, normally, properly </B><I>All the instruments were functioning normally. </I><B>| adequately, satisfactorily </B><I>Problems arise when the body's immune system is not functioning adequately. </I><B>| independently </B><I>Can we devise a system in which judges function independently of party poltics? </I><B>| actually </B><I>This model does not describe accurately the way a market economy actually functions. </I><B>| still </B><I>The bombs continued to fall, but somehow the city still functioned. </I> </P>
+<P> <U> VERB + FUNCTION </U><B> be able/unable to, can/could </B><I>When nutrients are in short supply the body cannot function properly. </I><B>| begin to | continue to | cease to </B> </P>
+<P> <U> PHRASES </U><B> fully functioning </B><I>The group has now become a fully functioning political organization. </I> </P>
+</DIV>

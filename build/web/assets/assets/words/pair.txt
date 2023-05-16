@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>pair </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> two things the same </TT> </P>
+<P> <U> ADJ. </U><B> matching </B><I>a matching pair of vases </I><B>| identical </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Answer one question in each pair. </I><B>| in ~s </B><I>These candlesticks only come in pairs. </I><B>| ~ of </B><I>a pair of shoes </I> </P>
+<P> <U> PHRASES </U><B> one of a pair </B><I>one of a pair of crystal vases </I> </P>
+<P> <SUP> 2 </SUP> <TT> people who are connected </TT> </P>
+<P> <U> ADJ. </U><B> inseparable | good | happy </B>(= a newly married couple) <B>| odd </B><I>They make an odd pair. </I> </P>
+<P> <U> VERB + PAIR </U><B> match </B><I>The pair were matched for age. </I><B>| make </B><I>I thought they would make a good pair so I arranged for them to meet. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The students worked in pairs. </I> </P>
+<P> <SUP> 3 </SUP> <TT> male and female animal </TT> </P>
+<P> <U> ADJ. </U><B> breeding </B> </P>
+<P> <U> PAIR + VERB </U><B> breed, mate </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a pair of swans nesting by the river </I> </P>
+</DIV>

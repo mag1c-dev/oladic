@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>custody </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> legal right/duty to take care of sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> child </B><I>a bitter child custody dispute </I><B>| joint, sole | safe </B><I>If valuables are placed in the safe, the hotel is responsible for their safe custody. </I> </P>
+<P> <U> VERB + CUSTODY </U><B> ask for, claim, demand, fight for, seek | award sb, give sb, grant sb </B><I>The parents were given joint custody of the two children. </I><B>| gain, get | have </B> </P>
+<P> <U> CUSTODY + NOUN </U><B> battle, dispute | hearing </B> </P>
+<P> <U> PREP. </U><B> ~ of </B> </P>
+<P> <SUP> 2 </SUP> <TT> being guarded/kept in prison </TT> </P>
+<P> <U> ADJ. </U><B> military, police </B><I>The man died while in police custody. </I><B>| protective </B><I>The opposition leader has been taken into protective custody. </I> </P>
+<P> <U> VERB + CUSTODY </U><B> be remanded in, be taken into </B><I>A man has been remanded in custody charged with the murder of an eight-year-old girl. </I><B>| be held in, be kept in, be/remain in | escape from | be released from </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She will remain in custody while reports are prepared about her mental condition. </I><B>| out of ~ </B><I>trying to keep young people out of custody </I> </P>
+</DIV>

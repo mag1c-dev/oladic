@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>taste </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> flavour </TT> </P>
+<P> <U> ADJ. </U><B> delicious, fresh, pleasant, refreshing | distinctive | pungent, rich, strong | bland, mild | foul, nasty, unpleasant | bitter, creamy, metallic, salty, sharp, smooth, sour, spicy, sweet | authentic </B><I>You need to use fresh herbs to get the authentic Italian taste. </I> </P>
+<P> <U> VERB + TASTE </U><B> have </B><I>The soup had a very salty taste. </I><B>| leave </B><I>The drink left a bitter taste in his mouth. (figurative) The whole business left a nasty taste in my mouth. </I><B>| spoil </B><I>Don't have a cigarette now?you'll spoil the taste of your food! </I><B>| enhance, improve | enjoy, savour </B><I>She savoured the taste of the champagne. </I><B>| disguise, take away </B><I>I had a strong coffee to take away the nasty taste of the food. </I> </P>
+<P> <U> TASTE + NOUN </U><B> buds 2 a taste </B>small amount </B> </P>
+<P> <U> ADJ. </U><B> little | real </B><I>That job gave me my first real taste of teaching. </I><B>| first </B> </P>
+<P> <U> VERB + TASTE </U><B> get, have </B><I>Have a taste of this cake. </I><B>| give sb, provide (sb with) </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>This was her first taste of success. </I> </P>
+<P> <U> PHRASES </U><B> a taste of things to come </B><I>The new appraisal scheme is only a taste of things to come. </I> </P>
+<P> <SUP> 3 </SUP> <TT> liking </TT> </P>
+<P> <U> ADJ. </U><B> catholic, eclectic, varied, wide | modest, simple | advanced, cultured, educated, sophisticated | expensive, extravagant | eccentric, esoteric, strange | acquired, natural </B><I>Art is an acquired taste?no one is born knowing that Michelangelo is wonderful. </I><B>| natural | local, national | modern | personal, private | aesthetic, artistic, literary, musical, reading, sexual | audience, consumer, contemporary, popular, public, Western </B><I>Her msuic appeals to popular taste. </I> </P>
+<P> <U> VERB + TASTE </U><B> have </B><I>They have a taste for adventure. </I><B>| like, share </B><I>You obviously share her taste in reading. </I><B>| acquire, cultivate, develop, get | lose </B><I>I've lost my taste for travelling. </I><B>| indulge </B><I>Now he is retired he has time to indulge his tastes for writing and politics. </I><B>| demonstrate, display </B><I>Her choice of outfit demonstrated her taste for the outrageous. </I><B>| appeal to, cater for, match, meet, satisfy, suit </B><I>a range of hotels to suit all tastes and budgets </I> </P>
+<P> <U> TASTE + VERB </U><B> lie </B><I>It all depends on where your tastes lie. </I><B>| change, differ, vary </B><I>Lifestyles differ and tastes vary. </I> </P>
+<P> <U> PREP. </U><B> for your ~ </B><I>The theatre was too modern for my taste. </I><B>| to ~ </B>(= according to how much of sth as you want) <I>Add salt and pepper to taste. </I><B>| to your ~ </B><I>If fishing is not to your taste, there are many other leisure activities on offer. </I><B>| ~ for </B><I>People with a taste for complex plots will enjoy this book. </I><B>| ~ in </B><I>young people's tastes in music </I> </P>
+<P> <U> PHRASES </U><B> a man/woman of &hellip; tastes </B><I>a man of advanced tastes </I><B>| a matter of (personal) taste </B><I>What type of bicycle you should buy is very much a matter of personal taste. </I> </P>
+<P> <SUP> 4 </SUP> <TT> ability to make good choices </TT> </P>
+<P> <U> ADJ. </U><B> excellent, exquisite, good, great, impeccable </B><I>Her work is executed with impeccable taste. </I><B>| appalling, bad, deplorable, doubtful, dubious, poor, terrible </B> </P>
+<P> <U> VERB + TASTE </U><B> reflect, show </B><I>The house reflected his taste. </I><B>| exercise </B><I>The designer has exercised good taste in her use of different fonts. </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>That joke was in very poor taste. </I><B>| with ~ </B><I>The room had been decorated with great taste. </I><B>| ~ in </B><I>She has terrible taste in clothing. </I> </P>
+<P> <U> PHRASES </U><B> an arbiter of taste </B><I>Contemporary arbiters of taste dismissed his paintings as rubbish. </I><B>| in the best/worst possible taste </B><I>The love scenes are all done in the best possible taste. </I><B>| a lack of taste </B><I>The remark showed a deplorable lack of taste. </I><B>| a man/woman of taste, taste and decency </B><I>The film was judged to offend against standards of public taste and decency. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>taste </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> strongly </B><I>The water tasted strongly of chemicals. </I><B>| faintly, slightly </B><I>The fish tasted faintly of garlic. </I> </P>
+<P> <U> PREP. </U><B> like </B><I>The fruit tasted rather like mango. </I><B>| of </B><I>a cake which tasted of almonds </I> </P>
+<P> <U> PHRASES </U><B> taste awful/bitter/foul/horrible, taste delicious/good/sweet/wonderful, taste funny</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hold-up </B><I>noun</I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> robbery </TT> </P>
+<P> <U> ADJ. </U><B> armed | bank </B> VERB + HOLD-UP <B>carry out </B> </P>
+<P> <SUP> 2 </SUP> <TT> delay </TT> </P>
+<P> <U> ADJ. </U><B> lengthy | traffic</B> </P>
+</DIV>

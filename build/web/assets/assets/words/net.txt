@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>net </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine, fine-mesh | safety | fishing | mosquito </B> </P>
+<P> <U> VERB + NET </U><B> mend </B><I>The fishermen were mending their nets. </I><B>| cast, spread (out) | haul in | slip through </B><I>(often figurative) We tried to contact all former students but one or two slipped through the net. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Unfortunately the animals are often caught in fishing nets. </I><B>| into a/the ~ </B><I>The ball went into the net. </I><B>| over the ~ </B><I>to hit the ball over the net </I> </P>
+</DIV>

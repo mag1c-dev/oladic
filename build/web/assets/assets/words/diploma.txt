@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>diploma </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> college, university | graduate, postgraduate, professional | higher | national </B><I>The college offers the Higher National Diploma in computer studies. </I><B>| full-time, part-time | one-year, two-year, etc. </B> </P>
+<P> <U> VERB + DIPLOMA </U><B> study for, take | have, hold | be awarded, gain, get, obtain, receive | award (sb), confer (on sb) </B><I>The university awards diplomas in higher education. </I><B>| lead to </B><I>The course leads to a diploma in psychiatric nursing. </I> </P>
+<P> <U> DIPLOMA + NOUN </U><B> course, programme, studies | holder </B><I>Diploma holders have a far better chance of employment than those with no qualification. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a diploma in hotel management </I><B>| ~ of </B><I>diploma of higher education </I> </P>
+<P> <U> PHRASES </U><B> at diploma level </B><I>Most students here are studying for a qualification at diploma level. </I> </P>
+</DIV>

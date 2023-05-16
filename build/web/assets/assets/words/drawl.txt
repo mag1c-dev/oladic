@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>drawl </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> flat, nasal, slow, soft | Brooklyn, Southern, etc. </B> </P>
+<P> <U> PHRASES </U><B> in a ~ </B><I>&lsquo;Howdy, pardner,&rsquo; he said in his slow Texan drawl. </I><B>| with a ~ </B><I>She spoke with soft Southern drawl. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>drawl </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> lazily, sardonically, slowly, softly </B><I>&lsquo;Come in,&rsquo; he drawled softly. </I> </P>
+</DIV>

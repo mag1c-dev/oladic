@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>shot </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of firing a gun </TT> </P>
+<P> <U> ADJ. </U><B> fine, good | lucky | random | fatal | warning | first, opening  </B><I>(often figurative) the opening shot in the party election campaign </I><B>| cannon, gun, pistol, rifle </B><I>I heard a pistol shot. </I> </P>
+<P> <U> QUANT. </U><B> series, volley </B><I>A volley of shots rang out. </I> </P>
+<P> <U> VERB + SHOT </U><B> aim | fire, take </B><I>I took a few more shots at the target, but missed every time. </I> </P>
+<P> <U> SHOT + VERB </U><B> ring out | hit sb/sth, strike sb/sth </B><I>The shot hit him in the upper chest. </I><B>| kill sb/sth | miss (sb/sth) </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a shot from his semi-automatic rifle </I><B>| ~ to </B><I>She was killed by a single shot to the head. </I> </P>
+<P> <SUP> 2 </SUP> <TT> person who shoots a gun, etc. </TT> </P>
+<P> <U> ADJ. </U><B> crack, good, excellent </B><I>She is a crack shot with a rifle. </I><B>| bad, poor </B> </P>
+<P> <SUP> 3 </SUP> <TT> act of kicking/hitting a ball </TT> </P>
+<P> <U> ADJ. </U><B> fine, good, great, superb | poor, wayward | long </B> </P>
+<P> <U> VERB + SHOT </U><B> crack/get in, have, take, try </B><I>Go on?take another shot. </I><B>| miss | mishit | block, parry, save </B><I>The goalkeeper parried his first shot but he scored from the rebound. </I> </P>
+<P> <U> SHOT + VERB </U><B> be on target | go wide, miss </B><I>My first shot went wide, but my second was right on target. </I> </P>
+<P> <U> PREP. </U><B> ~ at/on </B><I>Their captain tried a long shot on goal. </I><B>| ~ from </B><I>his right-footed shot from outside the penalty area a superb shot from Rivaldo </I> </B> </P>
+<P> <SUP> 4 </SUP> <TT> photograph; picture in a film </TT> </P>
+<P> <U> ADJ. </U><B> camera | aerial, close-up, long, still, tracking, wide-angle, zoom | location | opening | action, crowd | fashion, publicity | cover </B> </P>
+<P> <U> VERB + SHOT </U><B> get, take </B><I>I got some great shots of the runners as they crossed the line. </I> </P>
+<P> <U> SHOT + VERB </U><B> show sth </B><I>a wide-angle shot showing the Houses of Parliament </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a shot from a low angle </I><B>| ~ of </B><I>a publicity shot of the band performing </I> </P>
+<P> <SUP> 5 </SUP> <TT> injection of a drug </TT> </P>
+<P> <U> ADJ. </U><B> booster </B> </P>
+<P> <U> VERB + SHOT </U><B> give sb | get, have </B><I>Have you had all your shots for your holiday yet? </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a shot of penicillin The applause acted on her like a shot of adrenalin. </I> </P>
+</DIV>

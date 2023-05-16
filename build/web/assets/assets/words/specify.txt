@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>specify </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> clearly | fully | carefully | exactly, precisely </B><I>She did not specify precisely how many people were involved in the incident. </I><B>| explicitly | correctly </B><I>Are all the details correctly specified? </I><B>| uniquely </B><I>Each computer is uniquely specified by its serial number. </I><B>| otherwise </B><I>Unless otherwise specified, all fields have a maximum length of 20 characters. </I> </P>
+<P> <U> VERB + SPECIFY </U><B> allow sb to | require sb to | be used to | be possible to </B><I>It should be possible to specify the range of values of x which would satisfy this equation. </I><B>| be difficult to</B> </P>
+</DIV>

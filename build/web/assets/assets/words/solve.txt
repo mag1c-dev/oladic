@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>solve </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely </B><I>The mystery has not yet been completely solved. </I><B>| largely | half, partially, partly | hardly | not necessarily </B><I>Being with peers and friends does not necessarily solve this feeling of loneliness. </I><B>| adequately, satisfactorily </B><I>This question has never been satisfactorily solved. </I><B>| effectively | convincingly | easily, readily | quickly | elegantly, neatly | magically, somehow | eventually, finally | never </B> </P>
+<P> <U> VERB + SOLVE </U><B> attempt to, try to | help (to), help sb (to) </B><I>We were given clues to help us solve the puzzle. </I><B>| be designed to </B><I>a scheme designed to solve the housing problem </I><B>| fail to | be difficult to </B> </P>
+<P> <U> PREP. </U><B> by </B><I>We hope the difficulty can be solved by getting the two sides together to discuss the issues. </I><B>| with </B><I>The problem cannot be solved with spending cuts alone. </I> </P>
+<P> <U> PHRASES </U><B> an attempt to solve sth</B> </P>
+</DIV>

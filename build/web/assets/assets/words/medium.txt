@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>medium </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> means of expressing/communicating sth </TT> </P>
+<P> <U> ADJ. </U><B> communication </B><I>Radio is an important communication medium in many countries. </I><B>| mass | print, written </B> </P>
+<P> <U> PREP. </U><B> through the ~ of </B><I>The government communicates through the medium of television. </I> </P>
+<P> <U> PHRASES </U><B> a medium of communication </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth used for a particular purpose </TT> </P>
+<P> <U> ADJ. </U><B> storage </B><I>An optical disk is just another kind of electronic storage medium. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>she used her novels as a medium for encouraging political debate. </I><B>| ~ of </B><I>the medium of study </I> </P>
+<P> <U> PHRASES </U><B> a medium of instruction </B>(= a language used for teaching) <I>English is the medium of instruction in many African countries. </I> </P>
+<P> <SUP> 3 </SUP> <TT> material/form that an artist, etc. uses </TT> </P>
+<P> <U> ADJ. </U><B> mixed media </B><I>mixed media artwork </I> </P>
+<P> <U> PREP. </U><B> through a/the ~ | ~ of </B><I>to express yourself through the medium of paint/poetry/drama </I> </P>
+</DIV>

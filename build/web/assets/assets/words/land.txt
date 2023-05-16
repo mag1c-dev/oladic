@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>land </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> surface of the earth </TT> </P>
+<P> <U> ADJ. </U><B> dry </B><I>It was good to be on dry land again after months at sea. </I> </P>
+<P> <U> VERB + LAND </U><B> reach </B><I>The explorers reached land after a long voyage. </I><B>| sight </B><I>In the distance the crew sighted land. </I><B>| reclaim </B><I>The new project will reclaim the land from the sea. </I> </P>
+<P> <U> LAND + NOUN </U><B> mass </B><I>chains of volcanoes running along the edge of continental land masses </I><B>| animal, mammal | battle, war | forces </B><I>With the land forces defeated, everything now rested on the navy. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>It's impossible to reach this beach by land because of the high cliffs. </I><B>| on ~ </B><I>Some animals can live both on land and in water. </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of ground </TT> </P>
+<P> <U> ADJ. </U><B> good, prime </B><I>prime building land </I><B>| fertile, rich </B><I>rich agricultural land land that is rich in mineral deposits </I><B>| marginal, poor </B><I>animals grazing on marginal land that was previously heath or moorland </I><B>| arid, dry, hard, parched </B><I>The land was very dry and hard after the long, hot summer. </I><B>| marshy | barren | derelict, waste (also wasteland) </B><I>A new shopping centre will be built on the derelict land. </I><B>| contaminated | empty, unused, vacant | uncultivated, virgin, wild | agricultural, arable, cultivated, farm (also farmland), farming | grazing | industrial | building, housing | green belt | rural, urban | private | public | common </B><I>This used to be common land, where everyone had the right to graze animals. </I><B>| open </B><I>They finally got out of the town and reached open land. </I><B>| flat, low-lying | hill, undulating | coastal, forest, meadow </B> </P>
+<P> <U> QUANT. </U><B> parcel, piece, plot, scrap, strip, tract </B><I>Every scrap of land is used for growing food. The college owns vast tracts of land. </I> </P>
+<P> <U> VERB + LAND </U><B> have, hold, own </B><I>The inhabitants of a village held land in common. </I><B>| acquire, buy, purchase | sell | cultivate, farm, plough, work | irrigate | clear </B><I>The land has been cleared ready for building. </I><B>| develop </B><I>They were refused permission to develop the land. </I><B>| occupy </B><I>During the war their lands were occupied by the enemy. </I><B>| seize | allocate, distribute, redistribute | grant sb </B><I>He was granted land by the king. </I> </P>
+<P> <U> LAND + VERB </U><B> adjoin sth </B><I>a piece of land adjoining a disused railway line </I> </P>
+<P> <U> LAND + NOUN </U><B> owner, ownership | acquisition, purchase | reclamation | development | use | prices, values | dispute 3 the land </B>farming land </B> </P>
+<P> <U> VERB + LAND </U><B> live off </B><I>It's very fertile countryside where you can just live off the land. </I><B>| farm, work (on) </B><I>His family had always worked the land. </I><B>| leave </B><I>Many people leave the land to find work in towns and cities. </I><B>| get/go back to </B><I>He's tired of living in cities, and wants to get back to the land. </I> </P>
+<P> <SUP> 4 </SUP> <TT> country </TT> </P>
+<P> <U> ADJ. </U><B> ancestral, native </B><I>the tribe's ancestral lands </I><B>| distant </B><I>He travelled to many distant lands. </I><B>| alien, foreign, strange </B><I>She was all alone in a strange land. </I><B>| promised </B><I>(often figurative) the promised land of progressive education </I><B>| cloud cuckoo, never-never </B><I>(both figurative) Anyone who thinks this legislation will be effective is living in cloud cuckoo land. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>land </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> of an aircraft </TT> </P>
+<P> <U> ADV. </U><B> safely </B><I>The pilot managed to land the plane safely. </I> </P>
+<P> <U> VERB + LAND </U><B> be due to | come down to </B><I>The plane slowly came down to land. </I><B>| be forced to </B><I>The plane was forced to land in a nearby field. </I><B>| manage to </B> </P>
+<P> <U> PREP. </U><B> at </B><I>We are due to land at Heathrow at 12.15. </I> </P>
+<P> <SUP> 2 </SUP> <TT> fall to the ground </TT> </P>
+<P> <U> ADV. </U><B> awkwardly, badly </B><I>I landed awkwardly and twisted my ankle. </I><B>| expertly, neatly </B><I>He tensed himself for the jump and landed expertly on the other side. </I><B>| heavily | lightly </B> </P>
+<P> <U> PREP. </U><B> on </B><I>She fell and landed heavily on her back. </I> </P>
+</DIV>

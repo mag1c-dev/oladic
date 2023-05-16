@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ceasefire </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete | immediate | unilateral </B> </P>
+<P> <U> VERB + CEASEFIRE </U><B> call for, demand, order </B><I>The UN has passed a resolution calling for an immediate ceasefire. </I><B>| achieve, secure | agree (to), declare, sign | broker, negotiate | call </B><I>A 24-hour ceasefire was called to allow the distribution of aid. </I><B>| observe | break, violate </B> </P>
+<P> <U> CEASEFIRE + VERB </U><B> come/go into effect | hold, last </B><I>There are concerns that the ceasefire might not hold. </I> </P>
+<P> <U> CEASEFIRE + NOUN </U><B> agreement, terms </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>a ceasefire between the government and the rebels </I> </P>
+<P> <U> PHRASES </U><B> a violation of a ceasefire</B> </P>
+</DIV>

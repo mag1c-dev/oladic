@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>seat belt </B><I>noun </I> </P>
+<P> <U> VERB + SEAT BELT </U><B> wear </B><I>By law, you are obliged to wear seat belts. </I><B>| fasten, put on | undo, unfasten</B> </P>
+</DIV><DIV class="item"><P class="word"><B>seat </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for sitting on </TT> </P>
+<P> <U> ADJ. </U><B> empty, spare, vacant </B><I>There were no empty seats left in the hall. Do you have a spare seat in your car? </I><B>| comfortable, comfy | cushioned | bicycle, car | back, front, rear </B><I>I always feel sick if I sit in the back seat of the car. </I><B>| driver's, driving, passenger | baby, child, safety | pillion </B><I>I had a terrifying journey on the pillion seat of a Honda 750. </I><B>| aisle, window </B><I>I always ask for an aisle seat when I fly. </I><B>| lavatory, toilet | good, ringside </B><I>I got to the theatre early to get a good seat. We had ringside seats for the boxing match. </I> </P>
+<P> <U> VERB + SEAT </U><B> get, have, take </B><I>Please take a seat. Is this seat taken? </I><B>| book, reserve </B><I>Is it possible to book seats for the play? </I><B>| save </B><I>Can you save me a seat if you get there first? </I><B>| occupy, sit on </B><I>The best seats were occupied by the friends and families of the performers. It is very uncomfortable to sit on these seats. </I><B>| resume </B><I>The audience resumed their seats for the second half of the play. </I><B>| give up, vacate </B><I>He gave up his seat on the bus to a pregnant woman. </I><B>| lean back in, recline in, settle back in | settle into </B><I>We had hardly settled into our seats when the first goal was scored. </I><B>| get (up) out of | put back, recline </B> </P>
+<P> <U> SEAT + NOUN </U><B> cover | reservation </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The man in the passenger seat seemed to be asleep. </I><B>| on a/the ~ </B><I>I found my gloves lying on the back seat. </I><B>| out of a/the ~ </B><I>He leapt out of his seat when he saw the rat. </I><B>| ~ for </B><I>I managed to get some seats for the ballet. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in Parliament, etc. </TT> </P>
+<P> <U> ADJ. </U><B> congressional, parliamentary, Senate | marginal | safe | Labour, Tory, etc. </B> </P>
+<P> <U> VERB + SEAT </U><B> gain, win | lose </B><I>He lost his seat in the last election. </I><B>| keep, retain | regain | contest | resign </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a seat in Parliament </I><B>| ~ on </B><I>a seat on the local council </I> </P>
+</DIV><DIV class="item"><P class="word"><B>seat </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> comfortably </B><I>He seated himself comfortably at the foot of the bed. The car seats six comfortably. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>Ramirez was seated at a table near the window. </I><B>| on </B><I>She seated herself on the sofa. </I> </P>
+<P> <U> PHRASES </U><B> be seated </B><I>Please be seated. </I><B>| be seated cross-legged, remain/stay seated </B><I>Please remain seated until your name is called. </I> </P>
+</DIV>

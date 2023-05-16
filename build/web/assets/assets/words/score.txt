@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>score </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a game, competition, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big, excellent, good, high, perfect, record, top | bad, low, poor | average, mean | close, level </B><I>The score was close in the final match. </I><B>| overall, total | final | cricket, football, etc. </B> </P>
+<P> <U> VERB + SCORE </U><B> achieve, finish with, get, have | give (sb) </B><I>He got round the course in 72, giving him an average score of 70. </I><B>| make, take </B><I>A goal in the last few minutes took the score to 4?2. </I><B>| keep, record </B><I>I'll keep (the) score. </I><B>| level, tie </B><I>Figo levelled the scores with a curling free kick. </I> </P>
+<P> <U> SCORE + VERB </U><B> be, stand at </B><I>At half-time the score stood at 3?0. </I> </P>
+<P> <U> SCORE + NOUN </U><B> card (also scorecard), chart, sheet </B><I>Inamoto had a good game but failed to get his name on the score sheet </I>(= failed to score)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>the best score for years against Italy </I> </P>
+<P> <SUP> 2 </SUP> <TT> in a test </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good, high, perfect, record, top | bad, low, poor | average, mean | aggregate, overall, total | IQ, test </B> </P>
+<P> <U> VERB + SCORE </U><B> achieve, get, have, obtain | give sb | boost, increase </B><I>Some scientists claim that vitamins will boost your child's IQ score. </I> </P>
+<P> <U> SCORE + VERB </U><B> range </B><I>Most ten-year-olds had scores ranging between 50 and 70. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She got an unusually low score for creativity. </I> </P>
+<P> <SUP> 3 </SUP> <TT> written music </TT> </P>
+<P> <U> ADJ. </U><B> full | music/musical | orchestral, piano, vocal </B><I>the vocal score of &lsquo;The Magic Flute&rsquo; </I><B>| film </B> </P>
+<P> <U> VERB + SCORE </U><B> play, read, write </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>a mistake in the piano score </I> </P>
+</DIV><DIV class="item"><P class="word"><B>score </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> win points/goals, etc. </TT> </P>
+<P> <U> ADV. </U><B> nearly | easily </B><I>Cunningham broke away and ran some 40 metres to score easily. </I> </P>
+<P> <U> VERB + SCORE </U><B> try to | manage to | fail to, have yet to </B><I>Peter Walker has yet to score this season. </I><B>| look likely to </B><I>Villa always looked the team most likely to score. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>The England team failed to score against Italy on Saturday. </I><B>| for </B><I>She has not yet scored for her new club. </I><B>| with </B><I>He scored with a neat header. </I> </P>
+<P> <U> PHRASES </U><B> come close to scoring </B><I>It was Robertson who came closest to scoring. </I><B>| open the scoring </B><I>Zidane opened the scoring in the seventh minute of the game. </I> </P>
+<P> <SUP> 2 </SUP> <TT> gain marks in a test </TT> </P>
+<P> <U> ADV. </U><B> highly, well </B><I>In the key area of negotiation, women scored highly. </I> </P>
+</DIV>

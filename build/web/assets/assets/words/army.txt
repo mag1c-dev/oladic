@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>army </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of soldiers </TT> </P>
+<P> <U> ADJ. </U><B> great, huge, large, mighty, powerful | small | professional, regular, standing | reserve | conscript | volunteer | disciplined | modern | allied | enemy | opposing | foreign | national | private | guerrilla | rebel | advancing, invading, occupying, victorious | defeated, retreating </B> </P>
+<P> <U> VERB + ARMY </U><B> have | go into, join </B><I>After leaving school Mike went into the army. </I><B>| leave | be in command of, command, lead </B><I>He was in command of the British Army in Egypt. He led the army into battle. </I><B>| drill, train | amass, build up, raise, recruit </B><I>The king was unable to raise an army. </I><B>| equip, supply | mobilize | deploy, field </B><I>The French army was deployed in the Western Desert. </I><B>| concentrate | crush, decimate, defeat, put to flight, rout </B><I>The army was finally defeated in the autumn. </I><B>| demobilize, disband </B><I>The emperor was deposed and his army disbanded. </I> </P>
+<P> <U> ARMY + VERB </U><B> gather | advance, march </B><I>A huge army marched on London. </I><B>| camp | go into action, invade | attack, clash, fight </B><I>The two opposing armies clashed in battle. </I><B>| occupy | flee, pull back, retreat, withdraw </B> </P>
+<P> <U> ARMY + NOUN </U><B> captain, chief, commander, general, officer | corps, personnel, unit | barracks, base, camp, headquarters | career | patrol | greatcoat, uniform | wife </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>Her husband is in the army. </I> </P>
+<P> <SUP> 2 </SUP> <TT> large group </TT> </P>
+<P> <U> ADJ. </U><B> vast </B><I>a vast army of personnel </I><B>| small </B><I>a small army of volunteers </I><B>| growing, increasing | reserve </B> </P>
+<P> <U> PREP. </U><B> of </B><I>He argued that unemployment created a useful reserve army of labour. </I> </P>
+</DIV>

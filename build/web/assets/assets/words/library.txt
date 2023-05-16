@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>library </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> building </TT> </P>
+<P> <U> ADJ. </U><B> large, small | excellent, good | public | private | branch, county, local, national, regional | mobile </B><I>A number of councils operate mobile libraries. </I><B>| well-stocked | circulating </B><I>(historical)</I>, <B>lending, subscription </B><I>In 1784 he established his first circulating library. </I><B>| reference | general | special, specialist | academic, research | college, departmental, school, university | copyright </B><I>It is a copyright library and receives three copies of all books published in Britain. </I> </P>
+<P> <U> VERB + LIBRARY </U><B> have </B><I>The school has an excellent library. </I><B>| go to, use, visit </B><I>How often do you go to the library? </I><B>| borrow sth from, get/take sth out of </B><I>I got this very interesting book out of the library. </I><B>| return sth to, take sth back to </B><I>Do you have any books to take back to the library? </I><B>| be available at/from </B><I>Do you know about the other services available at your local library? </I><B>| have access to </B><I>Everyone in the country should have access to a lending library. </I> </P>
+<P> <U> LIBRARY + VERB </U><B> have sth, hold sth </B><I>The library has an extensive collection of books on French history. </I> </P>
+<P> <U> LIBRARY + NOUN </U><B> book | shelf | catalogue | ticket | assistant, staff | user | facilities, provision, resources, service </B><I>the need to improve library provision </I><B>| skills </B><I>teaching library skills to schoolchildren </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>a holiday programme for children at the local library </I><B>| in a/the ~ </B><I>I've been reading newspapers in the library. </I> </P>
+<P> <SUP> 2 </SUP> <TT> collection of books, etc. </TT> </P>
+<P> <U> ADJ. </U><B> considerable, extensive | fine, impressive, magnificent, valuable | personal | film, music, photographic, picture, video </B> </P>
+<P> <U> VERB + LIBRARY </U><B> have, possess </B><I>The family possessed an extensive library. </I><B>| amass, build (up) </B><I>She had built up an impressive library of art books. </I><B>| add to </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a personal library of over 1,000 volumes </I> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>book </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for reading </TT> </P>
+<P> <U> ADJ. </U><B> latest, new, recent | forthcoming | hardback,  paperback | printed </B><I>one of the earliest printed books </I><B>| rare | second-hand | delightful, excellent, fascinating, fine, good, great, interesting, remarkable, useful </B><I>There's nothing like curling up with a mug of tea and a good book. </I><B>| famous, important, influential | controversial </B><I>a controversial book about the royal family </I><B>| favourite </B><I>a survey to find the nation's favourite children's book </I><B>| library | set </B><I>&lsquo;Emma&rsquo; was one of our set books for A level. </I><B>| children's, comic, cookery, guide, hymn, phrase, picture, prayer, reference, school, story, text, textbook | travel | address, autograph, cheque, exercise, log, order, phone/telephone, sketch </B> </P>
+<P> <U> QUANT. </U><B> copy </B><I>How many copies of the book did you order? </I> </P>
+<P> <U> VERB + BOOK </U><B> be deep/engrossed/immersed in, flick/skim through, look at, read | look up from </B><I>She looked up from her book and smiled at him. </I> <B>| co-author, write | bring out, publish, put out | reprint | edit, proofread, revise | translate | illustrate | bind | ban, censor | dedicate, inscribe </B><I>The book is dedicated to his mother. Her name was inscribed in the book. The collector had many books inscribed to him by famous authors. </I><B>| review | borrow, have out, take out </B>(= from a library) <I>How many books have you got out? </I><B>| return, take back </B>(= to a library) <B>| renew </B><I>Do you want to renew any of your library books? </I><B>| stock | plagiarize </B> </P>
+<P> <U> BOOK + VERB </U><B> appear, come out </B><I>His latest book will appear in December. </I><B>| be/go out of print </B> </P>
+<P> <U> BOOK + NOUN </U><B> title | shop, bookshop | review, reviewer | club </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>These issues are discussed in his latest book. </I><B>| ~ about/on </B><I>She's busy writing a book on astrology. </I><B>| ~ by </B><I>a book by Robert Grout </I><B>| ~ for </B><I>a book for new parents </I><B>| ~ from </B><I>a new book from the publishing company, Bookworm </I><B>| ~ of </B><I>a book of walks in London </I> 2 books </B>company records </B> </P>
+<P> <U> ADJ. </U><B> account </B> </P>
+<P> <U> VERB + BOOK </U><B> audit, do, keep </B><I>She does the books for us. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>book </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> early, in advance </B><I>There are few places on the course, so it is essential to book in advance. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>Book with Suntours and kids go free! </I> </P>
+<P> <U> PHRASES </U><B> be booked solid </B>(= be fully booked), <B>be booked up, be fully booked</B> </P>
+</DIV>

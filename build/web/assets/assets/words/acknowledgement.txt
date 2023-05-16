@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>acknowledgement </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief | explicit | tacit | open, public | formal, official | belated | welcome </B> </P>
+<P> <U> VERB + ACKNOWLEDGEMENT </U><B> amount to, be </B><I>This amounted to an acknowledgement that she had been wrong. </I><B>| get, receive </B><I>I wrote to them but never got any acknowledgement. </I><B>| grunt, nod, wave </B><I>She merely nodded acknowledgement of his statement. </I> </P>
+<P> <U> PREP. </U><B> in ~ (of) </B><I>He raised his hand to her in acknowledgement. </I><B>| ~ from </B><I>She is still waiting for some acknowledgement from her fellow academics. </I> </P>
+<P> <U> PHRASES </U><B> with due acknowledgement </B><I>He borrowed from a number of sources, with due acknowledgement. </I> </P>
+</DIV>

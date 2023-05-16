@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>aggressive </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> likely to fight/argue with other people </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound | become, get | make sb </B><I>Watching violence on TV makes some children more aggressive. </I> </P>
+<P> <U> ADV. </U><B> extremely, particularly, really, very | increasingly | quite, rather | openly </B><I>Her mood became openly aggressive when his name was mentioned. </I> </P>
+<P> <U> PREP. </U><B> towards </B><I>He warned that his dog was aggressive towards strangers. </I> </P>
+<P> <SUP> 2 </SUP> <TT> behaving in a determined way </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>the company's highly aggressive marketing techniques </I><B>| fairly, somewhat</B> </P>
+</DIV>

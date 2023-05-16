@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>venture </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> exciting | new | profitable, successful | costly, expensive, unprofitable | ill-fated, unsuccessful | ambitious, bold, brave, high-risk, risky, speculative | collaborative, cooperative, joint | private | non-commercial | business, commercial, financial, publishing, tourism/tourist, trading </B> </P>
+<P> <U> VERB + VENTURE </U><B> embark on, undertake </B><I>The directors of the company refused to undertake such a risky venture. </I><B>| establish, set up </B><I>The company has set up a joint venture with a firm in Austria. </I><B>| join (in), join sb in </B><I>His son Mark will be joining him in the new venture. </I> </P>
+<P> <U> VENTURE + NOUN </U><B> capital, funds, money </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>a cooperative venture by firms at the science park </I>&gt; Special page at BUSINESS </B> </P>
+</DIV><DIV class="item"><P class="word"><B>venture </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> cautiously </B><I>She ventured cautiously into the room. </I><B>| rarely, seldom | far, further (afield) </B><I>Some of the men ventured further out to sea. </I><B>| abroad, forth, out, outside </B><I>A few people ventured out into the street. </I> </P>
+<P> <U> VERB + VENTURE </U><B> dare (to) </B><I>She would not have dared venture here alone. </I> </P>
+<P> <U> PREP. </U><B> away from, beyond, into, out of </B><I>They rarely ventured beyond their local market town. </I> </P>
+</DIV>

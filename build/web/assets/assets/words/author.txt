@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>author </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> best-selling | prolific | famous, well-known | anonymous </B><I>the anonymous author of this pamphlet </I><B>| children's </B><I>Primarily a children's author, she has also written books for adults. </I> </P>
+<P> <U> VERB + AUTHOR </U><B> read </B><I>Stephen King is an author I've never read. </I> </P>
+<P> <U> AUTHOR + VERB </U><B> write (sth) </B><I>The author was writing in the seventeenth century. </I> </P>
+</DIV>

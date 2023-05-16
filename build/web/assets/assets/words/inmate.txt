@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>inmate </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fellow | former </B><I>a former inmate of Gloucester jail </I><B>| young | male, female | camp, prison </B> </P>
+<P> <U> VERB + INMATE </U><B> move, transfer </B><I>The inmates were moved to an undisclosed location. </I> </P>
+<P> <U> INMATE + VERB </U><B> escape </B> </P>
+<P> <U> INMATE + NOUN </U><B> population </B> </P>
+<P> <U> PREP. </U><B> among ~ </B><I>drug and alcohol misuse among inmates </I> </P>
+</DIV>

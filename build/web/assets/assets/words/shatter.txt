@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>shatter </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> break into very small pieces </TT> </P>
+<P> <U> ADV. </U><B> completely </B> </P>
+<P> <U> PHRASES </U><B> shatter (sth) into pieces </B><I>The mirror shattered into a thousand pieces. </I> </P>
+<P> <SUP> 2 </SUP> <TT> destroy sth completely </TT> </P>
+<P> <U> ADV. </U><B> completely </B><I>an event that completely shattered her life </I><B>| abruptly, brutally, rudely, suddenly </B><I>The moment was abruptly shattered by the sound of Mia's loud voice. </I> </P>
+</DIV>

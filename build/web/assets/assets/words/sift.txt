@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>sift </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> pass sth through a sieve </TT> </P>
+<P> <U> ADV. </U><B> finely </B><I>Sift the flour finely before adding it to the mixture. </I><B>| in, together </B><I>Beat the mixture until smooth, then sift in the remaining sugar. </I> </P>
+<P> <SUP> 2 </SUP> <TT> examine sth very carefully </TT> </P>
+<P> <U> ADV. </U><B> carefully, methodically </B> </P>
+<P> <U> PREP. </U><B> through </B><I>They spent days carefully sifting through the evidence. </I> </P>
+</DIV>

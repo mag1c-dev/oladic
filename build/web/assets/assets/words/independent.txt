@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>independent </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not needing other people </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem | become | remain | make sb </B><I>Travelling in Asia has made her a lot more independent. </I> </P>
+<P> <U> ADV. </U><B> fiercely, sturdily, very </B><I>Many disabled people are fiercely independent. </I><B>| completely | fairly, pretty, quite | economically, financially </B> </P>
+<P> <U> PREP. </U><B> of </B><I>By the age of eighteen he was completely independent of his parents. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not influenced or controlled by anyone else </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain | make sth | declare sth </B><I>In 1961 the country was declared independent. </I> </P>
+<P> <U> ADV. </U><B> completely, entirely, fully, genuinely, quite, totally, truly, wholly | almost, fairly, largely, virtually | increasingly | effectively, essentially </B><I>The country has pursued an effectively independent line on military issues. </I><B>| nominally, supposedly | newly </B><I>newly independent countries </I><B>| politically </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The country became fully independent from France in 1960. </I><B>| of </B><I>an organization that is independent of the government </I> </P>
+</DIV>

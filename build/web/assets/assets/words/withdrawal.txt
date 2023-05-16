@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>withdrawal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> removing/leaving </TT> </P>
+<P> <U> ADJ. </U><B> imminent | immediate, rapid, sudden | gradual, phased | complete, full, total, unconditional, wholesale | partial | strategic, tactical | voluntary | ignominious </B><I>The UN were faced with an ignominious withdrawal or a long-term military presence. </I><B>| military, troop </B> </P>
+<P> <U> VERB + WITHDRAWAL </U><B> call for, demand </B><I>The party is calling for the phased withdrawal of troops from the island. </I><B>| agree to | announce | make </B><I>The police were forced to make a tactical withdrawal. </I> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>a withdrawal by government troops </I><B>| ~ from </B><I>the army's withdrawal from the occupied territories </I> </P>
+<P> <SUP> 2 </SUP> <TT> from a bank account </TT> </P>
+<P> <U> ADJ. </U><B> cash </B> </P>
+<P> <U> VERB + WITHDRAWAL </U><B> make </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>She made a withdrawal of </I>&pound;</B><I>250 from her bank account. </I> </P>
+<P> <SUP> 3 </SUP> <TT> stopping </TT> </P>
+<P> <U> ADJ. </U><B> alcohol, drug </B> </P>
+<P> <U> VERB + WITHDRAWAL </U><B> suffer </B> </P>
+<P> <U> WITHDRAWAL + NOUN </U><B> symptoms </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>She was still suffering withdrawal from nicotine. </I> </P>
+</DIV>

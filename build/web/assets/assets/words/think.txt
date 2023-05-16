@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>think </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long | hard </B> </P>
+<P> <U> VERB + THINK </U><B> give sth, have </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>I've had a long, hard think about it. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>think </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> have an opinion </TT> </P>
+<P> <U> ADV. </U><B> really | personally </B><I>I personally think it's all been a lot of fuss over nothing. </I><B>| honestly </B><I>Did you honestly think I would agree to that? </I><B>| never </B><I>I never thought you would carry out your threat. </I> </P>
+<P> <U> VERB + THINK </U><B> be inclined to </B><I>I'm inclined to think we've been a little harsh on her. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>I still don't know what he really thinks about it. </I><B>| of </B><I>What did you think of the film? </I> </P>
+<P> <SUP> 2 </SUP> <TT> have an idea </TT> </P>
+<P> <U> ADV. </U><B> suddenly </B> </P>
+<P> <U> PREP. </U><B> of </B><I>I suddenly thought of a way I could help. </I> </P>
+<P> <SUP> 3 </SUP> <TT> consider/reflect </TT> </P>
+<P> <U> ADV. </U><B> carefully, deeply, (long and) hard </B><I>She thought long and hard before accepting his offer. </I><B>| fleetingly | rationally </B><I>He seemed to have lost the ability to think rationally. </I><B>| frantically </B><I>What can I do now? he thought frantically. </I><B>| contemptuously, despairingly, dully, glumly, grimly, guiltily, indignantly, irritably, miserably, resentfully | ruefully, wistfully, wryly </B> </P>
+<P> <U> VERB + THINK </U><B> dread to, hate to, shudder to, tremble to </B><I>I hate to think what would have happened if we hadn't arrived. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>Think about what you are going to do next. </I><B>| of </B><I>I often think of Jane. </I> </P>
+</DIV>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>decline </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> catastrophic, considerable, dramatic, drastic, massive, marked, precipitate, precipitous, rapid, serious, sharp, significant, steep, substantial | gentle, gradual, modest, slight, slow | continuing, progressive, steady </B><I>a steady decline in manufacturing </I><B>| general, long-term, overall | absolute, inevitable, inexorable, irreversible, terminal </B><I>an industry in terminal decline </I><B>| economic, industrial, moral, political, urban </B><I>the moral decline of the nation </I><B>| national </B> </P>
+<P> <U> VERB + DECLINE </U><B> fall into, go into, suffer </B><I>The cloth trade went into gradual decline. </I><B>| cause, lead to </B><I>The increased gold price lead to the decline of his jewellery business. </I><B>| arrest, halt, stop </B><I>We must halt this decline in health services. </I><B>| prevent | accelerate | see </B><I>We have seen a sharp decline in educational standards over recent years. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The motor industry is still in decline. </I><B>| on the ~ </B><I>This area has been on the decline for some years now. </I><B>| ~ in </B><I>a steep decline in sales </I><B>| ~ of </B><I>the decline of British farming </I> </P>
+<P> <U> PHRASES </U><B> the decline and fall of sth </B><I>the decline and fall of a great civilization </I> </P>
+</DIV><DIV class="item"><P class="word"><B>decline </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> refuse </TT> </P>
+<P> <U> ADV. </U><B> politely | absolutely </B><I>I absolutely decline to discuss my dealings with him or anyone. </I> </P>
+<P> <SUP> 2 </SUP> <TT> become smaller/weaker </TT> </P>
+<P> <U> ADV. </U><B> considerably, dramatically, drastically, markedly, sharply, significantly, steeply </B><I>The economy has declined sharply in recent years. </I><B>| a little, slightly | fast, rapidly </B><I>The market for these products is declining fast. </I><B>| steadily | gradually, slowly | further </B> </P>
+<P> <U> PREP. </U><B> by </B><I>Profits declined by 6% this year. </I><B>| from, to </B><I>The number of full-time staff has declined from 300 to just 50. </I> </P>
+<P> <U> PHRASES </U><B> decline in importance/numbers/size </B><I>This section of the market has slowly declined in importance. </I> </P>
+</DIV>

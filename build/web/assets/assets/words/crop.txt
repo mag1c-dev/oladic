@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>crop </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plants grown for food </TT> </P>
+<P> <U> ADJ. </U><B> agricultural | cash, commercial, export | fodder, food, forage </B><I>Fodder crops are used to feed livestock. </I><B>| subsistence | staple | traditional </B><I>the replacement of traditional crops with cash crops for export </I><B>| spring, winter | standing </B><I>Rivers burst their banks and flooded standing crops. </I><B>| arable, cereal, fruit, root, vegetable </B> </P>
+<P> <U> VERB + CROP </U><B> grow, produce </B><I>Most of the farmers grow arable crops. </I><B>| plant, sow | bring in, gather, harvest, reap | damage, destroy </B><I>Summer flash floods destroyed the crops. </I><B>| rotate | spray </B><I>Crops are sprayed with highly toxic chemicals to prevent insect damage. </I> </P>
+<P> <U> CROP + VERB </U><B> fail </B><I>Isolated communities were extremely vulnerable if crops failed. </I> </P>
+<P> <U> CROP + NOUN </U><B> rotation </B><I>Crop rotation helps prevent soil erosion. </I><B>| damage, failure | production, yield </B><I>to boost crop yields </I><B>| spraying </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a crop of carrots </I> </P>
+<P> <SUP> 2 </SUP> <TT> total amount of grain, fruit, etc. grown </TT> </P>
+<P> <U> ADJ. </U><B> abundant, bumper, excellent, good, heavy, record | poor | early </B><I>Bring strawberry plants indoors for an early crop. </I><B>| potato, rice, etc. </B> </P>
+<P> <U> VERB + CROP </U><B> gather, get, harvest, have, reap </B><I>a record crop was harvested We had a very good crop of apples last year. </I><B>| bear, produce, yield </B><I>It takes three to five years for a new plantation to bear a crop. </I> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV><DIV class="item"><P class="word"><B>crop </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> closely </B><I>His hair was closely cropped. </I> </P>
+<P> <U> PHRASES </U><B> crop sth short </B><I>His hair had been cropped short and he looked different. </I> </P>
+</DIV>

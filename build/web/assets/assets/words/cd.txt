@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>CD </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> budget, full-price, mid-price | double | audio, music, multimedia, photo </B> </P>
+<P> <U> VERB + CD </U><B> insert </B><I>She inserted a CD into the machine. </I><B>| play, put on | record </B><I>You can record your own CD if you have the right equipment. </I><B>| burn, burn sth onto, copy, duplicate, record | listen to | release </B><I>The band's new CD is released next week. </I> </P>
+<P> <U> CD + NOUN </U><B> drive | player, sound system | burner, maker, recorder, rewriter, ripper, writer | burning, duplication, recording | cover, sleeve | format </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>That was the first album to come out on CD. </I><B>| on a/the ~ </B><I>How many tracks are on the CD? </I><B>| ~ of</B> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>painting </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of painting </TT> </P>
+<P> <U> ADJ. </U><B> acrylic, oil, watercolour | finger | miniature | abstract, decorative, figurative, genre, landscape, life, portrait, still-life, surrealist </B> </P>
+<P> <U> VERB + PAINTING </U><B> do </B><I>I'll do some painting this afternoon. </I><B>| take up </B><I>When she retired she took up painting. </I> </P>
+<P> <U> PAINTING + NOUN </U><B> style, technique | course </B> </P>
+<P> <U> PHRASES </U><B> painting and decorating </B><I>The firm specializes in painting and decorating. </I> </P>
+<P> <SUP> 2 </SUP> <TT> picture </TT> </P>
+<P> <U> ADJ. </U><B> fine, good, great | famous, well-known | valuable | original </B><I>The design is based on an original painting by Matisse. </I><B>| miniature | Cubist, Impressionist, Old Master, etc. | avant-garde | abstract, figurative, figure, genre, landscape, life, nude, still-life, surrealist | ceiling, fresco, wall | acrylic, gouache, oil, watercolour </B> </P>
+<P> <U> QUANT. </U><B> series | collection, exhibition </B> </P>
+<P> <U> VERB + PAINTING </U><B> do, execute, paint, work on </B><I>Degas did several paintings of ballet dancers. </I><B>| frame | hang, put up | display, exhibit, show | collect </B><I>She collects paintings by nineteenth-century Australian artists. </I><B>| clean, conserve, restore | copy, reproduce </B> </P>
+<P> <U> PAINTING + VERB </U><B> depict sb/sth, portray sb/sth, show sb/sth | hang </B><I>His most famous paintings hang in the Tate Gallery. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The woman in the painting is the artist's mistress. </I><B>| ~ by </B><I>a painting by Gauguin </I><B>| ~ in </B><I>a fine painting in oils </I><B>| ~ of </B><I>paintings of flowers </I></P>
+<a href="/collocation-tag/art-works" class="tag">Learn more about ART WORKS</a>
+</DIV>

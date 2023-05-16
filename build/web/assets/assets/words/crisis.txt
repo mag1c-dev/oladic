@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>crisis </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> acute, grave, major, serious, severe, terrible, worst </B><I>the worst economic crisis for fifty years </I><B>| growing, mounting | impending, looming | international, national | constitutional, economic, financial, fiscal, political | cash, debt, energy, hostage, housing, oil, refugee </B><I>the Third World debt crisis </I><B>| family, personal | identity | mid-life </B> </P>
+<P> <U> VERB + CRISIS </U><B> be faced with, be hit by, face, go through, have </B><I>(informal)</I>, <B>suffer </B><I>With competition from cheap imports, the British coal industry is facing a serious crisis. He's having a mid-life crisis. </I><B>| cause, create, lead to, precipitate, provoke, spark off | deal with, defuse, ease, handle, overcome, resolve, respond to, solve, tackle </B><I>Union leaders are taking immediate steps to defuse the crisis. attempts to ease the town's housing crisis </I><B>| survive, weather | avert, prevent | aggravate </B> </P>
+<P> <U> CRISIS + VERB </U><B> arise </B><I>waiting for the next crisis to arise </I><B>| deepen, worsen | be over </B><I>As soon as the crisis was over, she relaxed. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>Three people died during the hostage crisis. </I><B>| in (a/the) ~ </B><I>The government is in crisis. She's no good in a crisis. </I><B>| ~ in </B><I>the growing crisis in education </I><B>| ~ over </B><I>a crisis over pensions </I> </P>
+<P> <U> CRISIS + NOUN </U><B> point </B><I>The team's dismal season has reached crisis point. </I><B>| management </B><I>an expert in crisis management </I> </P>
+<P> <U> PHRASES </U><B> a crisis of confidence </B><I>The company is suffering a severe crisis of confidence. </I><B>| at/in moments/times of crisis </B><I>In times of crisis it's good to have someone you can rely on for advice. </I> </P>
+</DIV>

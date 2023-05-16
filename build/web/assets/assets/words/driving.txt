@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>driving licence </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> current | clean | full | provisional </B> </P>
+<P> <U> VERB + DRIVING LICENCE </U><B> have, hold | lose</B> </P>
+</DIV><DIV class="item"><P class="word"><B>driving </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, safe </B><I>a new campaign to promote safe driving </I><B>| aggressive, bad, careless, dangerous, reckless </B><I>She was charged with reckless driving. </I><B>| drink, drunk, drunken </B><I>Police stopped 30 motorists for drink driving on New Year's Eve. </I> </P>
+<P> <U> VERB + DRIVING </U><B> be banned from, be disqualified from </B><I>He was banned from driving for six months after failing a breath test. </I> </P>
+<P> <U> DRIVING + NOUN </U><B> seat | instructor, lesson | test | offence | charge </B><I>There wasn't enough evidence for a dangerous driving charge. </I><B>| ban </B><I>She was given a large fine and a two-year driving ban. </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>present </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | remain </B> </P>
+<P> <U> ADV. </U><B> ever </B><I>the ever present risk of pollution </I> </P>
+<P> <U> PHRASES </U><B> past and present </B><I>a list of all club members, past and present </I> </P>
+</DIV><DIV class="item"><P class="word"><B>present </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> anniversary, birthday, Christmas, wedding </B> </P>
+<P> <U> VERB + PRESENT </U><B> buy | get, receive | give sb, send sb | wrap (up) | open, unwrap </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a present for my daughter </I><B>| ~ from, ~ to </B><I>It's a present to us all from Granny. </I> </P>
+<P> <U> PHRASES </U><B> make sb a present of sth </B><I>My nephew loves this bike so I'm going to make him a present of it. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>present </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> clearly, well </B><I>The arguments were well researched and clearly presented. </I><B>| attractively, neatly | orally, visually </B><I>The results can be presented visually in the form of a graph. </I> </P>
+<P> <U> VERB + PRESENT </U><B> aim to, attempt to, seek to, try to </B><I>We have tried to present both sides of the debate. </I><B>| be designed to </B><I>Hotel brochures are designed to present the most attractive aspects of the hotel. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>He likes to present himself as a radical politician. </I><B>| to </B><I>He presented the information to his colleagues. </I> </P>
+</DIV>

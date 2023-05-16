@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>microscope </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> binocular, electron, optical </B> </P>
+<P> <U> MICROSCOPE + NOUN </U><B> slide </B><I>Place the specimen on a microscope slide. </I> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>a section of a potato as seen through a microscope </I><B>| under a/the ~ </B><I>examining bacteria under the microscope </I> </P>
+</DIV>

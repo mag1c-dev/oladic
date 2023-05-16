@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>scratch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, long, nasty, terrible | light, little, minor, slight, small, superficial </B><I>His only injuries were some minor scratches above his eye. </I> </P>
+<P> <U> VERB + SCRATCH </U><B> have </B> </P>
+<P> <U> SCRATCH + NOUN </U><B> mark </B> </P>
+<P> <U> PREP. </U><B> without a ~ </B><I>She emerged from the wrecked vehicle without a scratch. </I><B>| ~ on </B><I>I've got some nasty scratches on my legs. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>scratch </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly </B><I>The table had been badly scratched. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He kept scratching at his nose. </I><B>| on </B><I>I scratched my arm on a rose bush. </I><B>| with </B><I>She scratched his face with her nails. </I> </P>
+</DIV>

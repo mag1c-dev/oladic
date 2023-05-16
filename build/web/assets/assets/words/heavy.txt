@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>heavy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> weighing a lot </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem </B><I>My suitcase was beginning to feel very heavy. </I><B>| become, get </B><I>You're getting too heavy to carry! </I><B>| make sth </B><I>The bottles of wine made the bag even heavier. </I><B>| find sth </B><I>I didn't find it too heavy to carry. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | fairly, pretty, quite, rather </B><I>Be careful. That box is rather heavy. </I> </P>
+<P> <SUP> 2 </SUP> <TT> worse than usual </TT> </P>
+<P> <U> VERBS </U><B> be | become, get </B><I>The rain was getting quite heavy. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very </B><I>The traffic's really heavy on the bypass. </I><B>| fairly, pretty, quite</B> </P>
+</DIV>

@@ -1,0 +1,27 @@
+
+<DIV class="item"><P class="word"><B>push </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of pushing </TT> </P>
+<P> <U> ADJ. </U><B> big, hard | gentle, little </B> </P>
+<P> <U> VERB + PUSH </U><B> give sb/sth </B><I>She gave him a gentle push towards the door. </I> </P>
+<P> <U> PHRASES </U><B> at the push of a button </B><I>The machine washes and dries at the push of a button. </I> </P>
+<P> <SUP> 2 </SUP> <TT> effort to do/obtain sth </TT> </P>
+<P> <U> ADJ. </U><B> big | final </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>the final push against the enemy </I><B>| ~ for </B><I>There has been a big push for better public transport. </I><B>| ~ towards </B><I>a push towards organic food </I> </P>
+</DIV><DIV class="item"><P class="word"><B>push </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> use force to move sb/sth away from you </TT> </P>
+<P> <U> ADV. </U><B> firmly, hard </B><I>You'll have to push harder if you want it to move. </I><B>| roughly, violently | gently | carefully | deliberately </B><I>He was deliberately pushed into the path of the vehicle. </I><B>| hastily, hurriedly, quickly | slowly | suddenly | just, merely, simply </B><I>Jack flung himself at Steve, but he simply pushed him away. </I><B>| aside, away, back, down, home, inside, over, together </B><I>She leaned on the door and pushed the bolt home. They pushed the two desks together. </I> </P>
+<P> <U> VERB + PUSH </U><B> try to | manage to | begin to </B> </P>
+<P> <U> PREP. </U><B> across, against </B><I>The fans pushed against the barrier. </I><B>| at </B><I>She pushed at the door but it wouldn't budge. </I><B>| into, off, out of </B><I>He pushed her roughly out of the door. </I><B>| through, to </B><I>The woman had been pushed violently to the ground. </I><B>| towards, under </B><I>She found a note pushed under the door. </I> </P>
+<P> <U> PHRASES </U><B> push sth open/shut </B><I>He managed to push the window open a few inches. </I> </P>
+<P> <SUP> 2 </SUP> <TT> move forward by pushing people </TT> </P>
+<P> <U> ADV. </U><B> roughly | blindly </B> </P>
+<P> <U> VERB + PUSH </U><B> try to | begin to </B><I>I began to push my way through the crowd. </I> </P>
+<P> <U> PREP. </U><B> past </B><I>She pushed blindly past him and made for the door. </I><B>| through </B><I>pushing through the crowd </I> </P>
+<P> <U> PHRASES </U><B> push and shove </B><I>People were pushing and shoving to get to the front. </I><B>| push your way </B><I>A man pushed his way to the front of the crowd. </I> </P>
+<P> <SUP> 3 </SUP> <TT> put pressure on sb/yourself </TT> </P>
+<P> <U> ADV. </U><B> hard </B><I>Lucy should push herself a little harder. </I><B>| too far </B><I>Her parents are very tolerant, but sometimes she pushes them too far. </I><B>| around </B><I>Don't allow yourself to be pushed around by that bully. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>Her parents pushed her into accepting the job. </I> </P>
+<P> <U> PHRASES </U><B> push sb/yourself to the limit </B><I>He felt he was being pushed to the limits of his self-control. </I> <B>PHRASAL VERBS push for sth </B> </P>
+<P> <U> ADV. </U><B> hard </B><I>They're pushing hard for a ban on GM foods. </I> </P>
+<P> <U> VERB + PUSH </U><B> have to </B><I>I'm going to have to push you for an answer. </I> </P>
+</DIV>

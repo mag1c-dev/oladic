@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>reliance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, total | considerable, great, heavy, strong </B><I>Too heavy a reliance on a particular market may be dangerous for the company. </I><B>| excessive, undue | misplaced | continued, continuing | growing, increasing | increased | reduced | self</B> </P>
+<P> <U> QUANT. </U><B> degree </B><I>a high degree of reliance on newspaper reports </I> </P>
+<P> <U> VERB + RELIANCE </U><B> place </B><I>I don't think you should place too much reliance on these figures. </I><B>| act in </B><I>(law) </I><B>| increase | reduce | eliminate </B><I>the means by which individuals might reduce or eliminate reliance on the state </I><B>| encourage </B><I>They believe that modern farming techniques encourage an excessive reliance on harmful chemicals. </I><B>| lead to </B> </P>
+<P> <U> PREP. </U><B> in ~ on/upon </B><I>(law) He acted in complete reliance on the account of a couple of eyewitnesses. </I><B>| ~ on/upon </B><I>the increased reliance of the university on private funds </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>differ </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> be different </TT> </P>
+<P> <U> ADV. </U><B> considerably, enormously, fundamentally, greatly, markedly, radically, sharply, significantly, substantially, widely </B><I>The two approaches differ markedly Opinions differ widely on this issue. </I><B>| little | slightly, somewhat | clearly </B> </P>
+<P> <U> PREP. </U><B> according to </B><I>Conditions of employment differ according to the type of company you are working for. </I><B>| between </B><I>Social organization differs significantly between the different groups. </I><B>| from </B><I>His ideas differ little from those of his father. </I><B>| in </B><I>The models differ in size and shape. </I> </P>
+<P> <SUP> 2 </SUP> <TT> have a different opinion </TT> </P>
+<P> <U> VERB + DIFFER </U><B> agree to </B><I>In the end we agreed to differ. </I><B>| beg to </B><I>I beg to differ </I>(= I disagree with you)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> about/over </B><I>The two sides still differ over details of the plan. </I><B>| on </B><I>The two parties differ on all the major issues. </I><B>| with </B><I>It didn't seem right that I should differ with him. </I> </P>
+</DIV>

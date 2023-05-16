@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>signal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sign/action/sound that sends a </B>message </TT> </P>
+<P> <U> ADJ. </U><B> clear, unmistakable | agreed,  pre-arranged | conflicting, confusing, contradictory, mixed | wrong </B><I>Laughing when you should be crying sends out the wrong signals to people. </I><B>| alarm, danger, distress, warning | hand, non-verbal, semaphore, smoke, verbal, visual </B> </P>
+<P> <U> VERB + SIGNAL </U><B> arrange </B><I>He had arranged a signal for the band to begin. </I><B>| give (sb), make, send (out) </B><I>When I give the signal, run! </I> <B>| interpret (sth as), read, see sth as </B><I>The remark was seen as a signal that their government was ready to return to the peace talks. </I> <B>| pick up, respond to </B><I>Interviewers quickly learn to pick up non-verbal signals. </I><B>| act as </B><I>The insect's bright colours act as warning signals to its predators. </I> </P>
+<P> <U> SIGNAL + VERB </U><B> come from sth </B><I>trying to read the signals coming from the patient </I><B>| indicate sth </B><I>the signals that can indicate danger </I> </P>
+<P> <U> PREP. </U><B> at/on a ~ </B><I>At a pre-arranged signal, everyone started cheering. </I> <B>| ~ for </B><I>She made a signal for the car to stop. </I><B>| ~ from/to </B><I>Wait for the signal from the leader of your group. </I> </P>
+<P> <SUP> 2 </SUP> <TT> set of lights for drivers </TT> </P>
+<P> <U> ADJ. </U><B> railway, traffic </B> </P>
+<P> <U> VERB + SIGNAL </U><B> operate </B> </P>
+<P> <U> SIGNAL + VERB </U><B> be (on) red/green </B><I>The traffic signals were on red. </I><B>| fail </B> </P>
+<P> <U> SIGNAL + NOUN </U><B> box | failure </B> </P>
+<P> <SUP> 3 </SUP> <TT> series of radio waves, chemical messages, etc. </TT> </P>
+<P> <U> ADJ. </U><B> faint, weak | strong | high-frequency, low-frequency | acoustic, analogue, audio, chemical, digital, electrical, electronic, light, radar, radio, sonar, sound, television/TV, video, wireless </B> </P>
+<P> <U> VERB + SIGNAL </U><B> carry, pass </B><I>The nerves carry these signals to the brain. </I><B>| convert (sth into), scramble, unscramble </B><I>The signal is scrambled into code before it is sent. </I><B>| emit, generate, send, transmit | detect, pick up, receive, respond to </B><I>This equipment can detect very low frequency signals. </I> </P>
+<P> <U> SIGNAL + VERB </U><B> travel </B><I>A light signal can travel well over 16km before it halves in intensity. </I><B>| fade </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a faint signal from the satellite </I><B>| ~ to </B> </P>
+</DIV><DIV class="item"><P class="word"><B>signal </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move your arms to give a signal </TT> </P>
+<P> <U> ADV. </U><B> frantically, wildly </B><I>She signalled frantically to us. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>He raised his hand and signalled for the waiter. </I><B>| to </B><I>She signalled to the bus driver to stop. </I> </P>
+<P> <SUP> 2 </SUP> <TT> show/mark sth </TT> </P>
+<P> <U> ADV. </U><B> clearly </B><I>These changes clearly signal the end of the welfare state as we know it. </I><B>| effectively | not necessarily </B><I>A change of mind in one instance does not necessarily signal a change in overall policy. </I> </P>
+</DIV>

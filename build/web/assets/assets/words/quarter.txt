@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>quarter </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> one of four equal parts into which sth is divided </TT> </P>
+<P> <U> VERB + QUARTER </U><B> break/cut/divide/fold sth into ~s </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a quarter of a century/mile/million a quarter of an hour a quarter of all potential customers </I> </P>
+<P> <SUP> 2 </SUP> <TT> period of three months </TT> </P>
+<P> <U> ADJ. </U><B> first, second, third, fourth/last </B><I>Profits fell during the third quarter. </I><B>| current, previous </B> </P>
+<P> <U> PREP. </U><B> during the ~ </B> </P>
+<P> <SUP> 3 </SUP> <TT> part of a town </TT> </P>
+<P> <U> ADJ. </U><B> old | Arab, Chinese, Latin, etc. | diplomatic, historic, industrial, residential 4 quarters </B>place to live in </B> </P>
+<P> <U> ADJ. </U><B> comfortable, spacious | confined, cramped, modest | private </B><I>the president's private quarters </I><B>| living, sleeping | officers', servants', soldiers' | married </B><I>The corporal and his family lived in married quarters. </I> </P>
+<P> <U> VERB + QUARTER </U><B> be confined to </B><I>He was confined to quarters as a punishment. </I> </P>
+</DIV>

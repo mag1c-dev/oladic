@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>mule </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pack </B> </P>
+<P> <U> QUANT. </U><B> team </B> </P>
+<P> <U> VERB + MULE </U><B> ride (on) | drive | saddle </B> </P>
+<P> <U> MULE + VERB </U><B> bray | carry sth </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>They travelled across the mountains by mule. </I><B>| on a/the ~ </B><I>a man on a mule </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>appreciate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> recognize good qualities </TT> </P>
+<P> <U> ADV. </U><B> really | fully, properly </B><I>The sound quality was poor so we couldn't fully appreciate the music. </I> </P>
+<P> <SUP> 2 </SUP> <TT> be grateful </TT> </P>
+<P> <U> ADV. </U><B> deeply, greatly, really, very much </B><I>We do really appreciate your help. </I> </P>
+<P> <SUP> 3 </SUP> <TT> understand </TT> </P>
+<P> <U> ADV. </U><B> fully, properly </B><I>I fully appreciate your concern. We will do all in our power to help. </I><B>| easily, readily </B><I>The problems should be easily appreciated. </I> </P>
+<P> <U> VERB + APPRECIATE </U><B> fail to </B><I>The government failed to appreciate the fact that voters were angry. </I> </P>
+<P> <U> PHRASES </U><B> be generally/widely appreciated </B><I>It is generally appreciated that the rail network needs a complete overhaul. </I> </P>
+</DIV>

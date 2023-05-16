@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cripple </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> injure </TT> </P>
+<P> <U> ADV. </U><B> for life, permanently </B><I>As a child she contracted polio and was crippled for life. </I> </P>
+<P> <U> PHRASES </U><B> be crippled with </B><I>He's eighty and crippled with arthritis. </I><B>| leave sb crippled </B><I>The disease left him crippled. </I> </P>
+<P> <SUP> 2 </SUP> <TT> damage </TT> </P>
+<P> <U> ADV. </U><B> financially </B><I>The industry has been financially crippled by these policies. </I> </P>
+</DIV>

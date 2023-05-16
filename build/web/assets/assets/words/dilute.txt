@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>dilute </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> liquid </TT> </P>
+<P> <U> ADV. </U><B> highly </B><I>The fragrances are highly diluted. </I><B>| slightly </B><I>Dilute the juice slightly with water. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>The perfumes are diluted in vegetable oils. </I><B>| with </B> </P>
+<P> <SUP> 2 </SUP> <TT> effect/quality </TT> </P>
+<P> <U> ADV. </U><B> considerably, substantially </B><I>The effect of this policy has now been considerably diluted. </I> </P>
+</DIV>

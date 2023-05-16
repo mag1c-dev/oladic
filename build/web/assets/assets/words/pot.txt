@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>pot </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for cooking </TT> </P>
+<P> <U> ADJ. </U><B> cooking </B> </P>
+<P> <U> VERB + POT </U><B> scour | cover </B><I>Cook gently in a covered pot for 3 to 4 hours. </I> </P>
+<P> <U> POT + VERB </U><B> brim (over) with sth </B><I>The waiter brought over a steaming pot brimming with seafood. </I><B>| bubble, steam </B><I>He could hear the pot bubbling on the stove. </I> </P>
+<P> <U> PREP. </U><B> for the ~ </B><I>Local people kill these animals for the pot </I>(= to eat)</B><I>. </I><B>| in/into a/the ~ </B><I>Put all the ingredients in a large pot. </I><B>| ~ of </B><I>a pot of soup </I> </P>
+<P> <U> PHRASES </U><B> pots and pans </B> </P>
+<P> <SUP> 2 </SUP> <TT> for tea/coffee </TT> </P>
+<P> <U> ADJ. </U><B> steaming | fresh | coffee, tea (also teapot) </B> </P>
+<P> <U> VERB + POT </U><B> brew, make, put on </B><I>I'll make a fresh pot of tea. </I><B>| share | fill, refill, top up </B><I>She refilled the teapot with boiling water. </I><B>| empty </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Is there any more tea in the pot? </I><B>| ~ of </B> </P>
+<P> <SUP> 3 </SUP> <TT> container for storing/growing things, etc. </TT> </P>
+<P> <U> ADJ. </U><B> ceramic, clay, earthenware, glass, iron, pewter, plastic, terracotta | flower, plant | jam, paint, pepper, yogurt | chamber | chimney | lobster </B> </P>
+<P> <U> VERB + POT </U><B> grow sth in, plant sth in </B> </P>
+<P> <U> POT + VERB </U><B> be filled with sth, be full of sth, contain sth </B><I>a clay pot full of oil </I> </P>
+<P> <U> POT + NOUN </U><B> plant </B> </P>
+<P> <U> PREP. </U><B> in/into a/the ~ </B><I>Plants in pots require more water than you might think. </I><B>| ~ of </B><I>a pot of glue/jam </I> </P>
+</DIV>

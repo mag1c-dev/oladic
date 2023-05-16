@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>veteran </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sb who has served in the army, navy, etc. </TT> </P>
+<P> <U> ADJ. </U><B> war | army, navy | retired | disabled, wounded | Vietnam, World War Two, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a veteran of World War Two </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb with long experience of an activity, etc. </TT> </P>
+<P> <U> ADJ. </U><B> seasoned </B><I>He's the seasoned veteran, who has taken the children to the museum many times. </I><B>| industry </B> </P>
+<P> <U> VETERAN + NOUN </U><B> campaigner, leader, politician </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a veteran of numerous political campaigns </I> </P>
+</DIV>

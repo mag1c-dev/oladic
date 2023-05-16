@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>circumstance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> (usually <B>circumstances</B>) facts/events that affect sth </TT> </P>
+<P> <U> ADJ. </U><B> favourable </B><I>The scheme might work better with more favourable circumstances. </I><B>| adverse, difficult, tragic, trying, unfavourable </B><I>people facing adverse circumstances He died in tragic circumstances. </I><B>| normal </B><I>In normal circumstances I would let you use my car, but today I need it. </I><B>| exceptional, special, unusual </B><I>Only if the circumstances are exceptional will we accept late applications. </I><B>| mysterious, suspicious </B><I>She died in rather suspicious circumstances. </I><B>| extenuating, mitigating </B><I>His sentence was reduced because of the extenuating circumstances. </I><B>| changed, changing, different | unavoidable, unforeseen | economic, financial, political, social </B><I>life in the changing economic circumstances of China </I> </P>
+<P> <U> QUANT. </U><B> set </B><I>an unfortunate set of circumstances that made her life difficult </I> </P>
+<P> <U> CIRCUMSTANCE + VERB </U><B> change | conspire, dictate sth </B><I>I felt that circumstances were conspiring against me. Circumstances dictate that I should leave this town forever. </I> </P>
+<P> <U> PREP. </U><B> according to ~ </B><I>The amount paid will vary according to circumstances. </I><B>| due to &hellip; ~s </B><I>Due to unforeseen circumstances, we have had to reschedule the concert. </I><B>| in &hellip; ~s </B><I>She died in suspicious circumstances. </I><B>| in/under the ~s </B><I>In the circumstances, you'd better ring the police. </I><B>| ~ surrounding </B><I>The bank will investigate the circumstances surrounding the robbery. </I> </P>
+<P> <U> PHRASES </U><B> by/through force of circumstance </B><I>The survivors ate plants and insects through force of circumstance. </I><B>| circumstances beyond our control </B><I>The delays were due to circumstances beyond our control. </I><B>| a combination of circumstances </B><I>We lost our position in the market due to a combination of circumstances. </I><B>| in/under no circumstances </B><I>Under no circumstances should you leave the door unlocked. </I><B>| a victim of circumstance </B><I>He was simply a victim of circumstance. </I> </P>
+<P> <SUP> 2 </SUP> <TT> circumstances: amount of money you have  </TT> </P>
+<P> <U> ADJ. </U><B> desperate, reduced, straitened | domestic, family, personal </B> </P>
+<P> <U> CIRCUMSTANCE + VERB </U><B> improve | worsen </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>He was a writer living in straitened circumstances. </I> </P>
+</DIV>

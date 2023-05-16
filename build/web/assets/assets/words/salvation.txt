@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>salvation </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> individual, personal | eternal </b></div></p>
+<p> <u> VERB + SALVATION </u><div class="ex"><b> bring | seek | attain, find | work out </b></div><div class="excontent"><i>I can't solve her problems for her?she'll have to work out her own salvation. </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> ~ from </b></div><div class="excontent"><i>salvation from sin </i></div><div class="ex"><b>| ~ through </b></div><div class="excontent"><i>The medieval Church believed in salvation through faith and works. </i> </div></p>
+</div>

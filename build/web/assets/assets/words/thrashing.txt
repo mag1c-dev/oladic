@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>thrashing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hitting </TT> </P>
+<P> <U> ADJ. </U><B> good, sound </B> </P>
+<P> <U> VERB + THRASHING </U><B> give | get </B><I>He got a sound thrashing once his father found out. </I><B>| deserve </B> </P>
+<P> <SUP> 2 </SUP> <TT> defeat </TT> </P>
+<P> <U> VERB + THRASHING </U><B> give | have, suffer, take </B><I>The team suffered a 4-0 thrashing on Sunday. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Richmond clinched promotion with a 50-3 thrashing of Roundhay. </I> </P>
+</DIV>

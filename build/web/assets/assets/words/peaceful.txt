@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>peaceful </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> without war/violence </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very | wholly </B><I>The aims of the organization are wholly peaceful. </I><B>| largely | comparatively, fairly, quite, reasonably, relatively </B> </P>
+<P> <SUP> 2 </SUP> <TT> quiet and calm </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very | utterly | comparatively, fairly, quite, relatively | blissfully, delightfully, serenely </B><I>The time without her in the house had been blissfully peaceful. </I> </P>
+</DIV>

@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>sacrifice </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> giving sth up </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, heavy, real | financial, personal | heroic | supreme, ultimate </B><I>Soldiers who die for their country have made the supreme sacrifice. </I> </P>
+<P> <U> VERB + SACRIFICE </U><B> make </B> </P>
+<P> <SUP> 2 </SUP> <TT> part of a ceremony </TT> </P>
+<P> <U> ADJ. </U><B> animal, human | religious, ritual | blood | pagan </B> </P>
+<P> <U> VERB + SACRIFICE </U><B> perform | offer (sth as) </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Food and wine were offered as sacrifices to the gods. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sacrifice </B><I>verb </I> </P>
+<P> <U> VERB + SACRIFICE </U><B> be obliged to, have to | be prepared to, be willing to </B><I>She was prepared to sacrifice having a family in order to pursue her career. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>soldiers who sacrificed their lives for their country </I> </P>
+<P> <U> PHRASES </U><B> sacrifice sth for the sake of sth </B><I>Comfort has been sacrificed for the sake of improved performance. </I> </P>
+</DIV>

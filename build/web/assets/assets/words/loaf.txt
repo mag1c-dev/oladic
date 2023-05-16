@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>loaf </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> fresh, stale | cut, sliced | brown, white, wholemeal, etc. </B> </P>
+<P> <U> VERB + LOAF </U><B> bake | cut, slice </B> </P>
+<P> <U> LOAF + NOUN </U><B> tin </B> </P>
+<P> <U> PHRASES </U><B> a loaf of bread</B> </P>
+</DIV>

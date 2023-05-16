@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>duration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, short | long | indefinite | maximum | overall, total </B><I>We took four trains, and the overall duration of the journey was 72 hours. </I><B>| average, expected, likely </B><I>the expected duration of the disease </I> </P>
+<P> <U> PREP. </U><B> for the ~ (of) </B><I>She stayed there for the duration of the journey. </I><B>| of &hellip; ~ </B><I>The next contract will be of shorter duration. </I><B>| throughout the ~ of </B><I>This continued throughout the duration of their marriage. </I> </P>
+</DIV>

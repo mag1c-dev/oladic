@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>thin </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> of solid things: not thick </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, wear </B><I>The fabric was wearing thin. (figurative) That joke is wearing a little thin. </I> </P>
+<P> <U> ADV. </U><B> extremely, incredibly, very, wafer-</B><I>a plate of wafer-thin bread and butter </I><B>| a bit, fairly, a little, quite, rather, relatively | enough </B><I>a sliver of rock thin enough to be translucent </I> </P>
+<P> <SUP> 2 </SUP> <TT> not fat </TT> </P>
+<P> <U> VERBS </U><B> be, look | become, get, grow </B> </P>
+<P> <U> ADV. </U><B> extremely, painfully, pathetically, pitifully, terribly, very </B><I>The old horse was painfully thin. </I><B>| fairly, quite, rather </B><I>She's tall and quite thin. </I> </P>
+<P> <SUP> 3 </SUP> <TT> of liquids </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem </B><I>The paint looks a bit thin. </I><B>| become, get </B><I>Be careful that the mixture doesn't get too thin. </I> </P>
+<P> <U> ADV. </U><B> terribly, very | a bit, rather</B> </P>
+</DIV>

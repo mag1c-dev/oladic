@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>climax </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> exciting/important event, point in time, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big, dramatic, exciting, grand, great, powerful, thrilling | fitting </B> </P>
+<P> <U> VERB + CLIMAX </U><B> come to, reach </B><I>The crisis reached its climax in the 1970s. </I><B>| approach, near, rise to, build up to, work up to </B><I>The story gradually builds up to a powerful climax. </I><B>| bring sth to </B><I>The affair was brought to a climax when the chairman resigned. </I><B>| mark </B><I>Yesterday marked the climax of the celebrations. </I> </P>
+<P> <U> CLIMAX + VERB </U><B> come </B><I>The climax came at the end of the second act of the play. </I> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>The hero dies at the climax of the opera. </I><B>| in a/the ~ </B><I>In a dramatic climax, our team lost the match by one goal. </I><B>| ~ to </B><I>His promotion was a fitting climax to a worthy career. </I> </P>
+<P> <SUP> 2 </SUP> <TT> highest point of sexual pleasure </TT> </P>
+<P> <U> ADJ. </U><B> sexual </B> </P>
+<P> <U> VERB + CLIMAX </U><B> achieve, reach </B><I>She found it hard to achieve a/reach climax. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>handle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long, short | carrying </B><I>The table folds up and comes complete with a carrying handle. </I><B>| door | knife, fork, pickaxe, etc. </B> </P>
+<P> <U> VERB + HANDLE </U><B> have | pull, push, try, turn </B><I>You have to turn the handle and then pull it towards you. He tried the handle but the door was locked. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>His initials were on the knife handle. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>handle </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> touch sth with your hands </TT> </P>
+<P> <U> ADV. </U><B> carefully, with care </B><I>A label on the crate read: &lsquo;Handle with care&rsquo;. </I><B>| carelessly </B><I>Garden tools can be hazardous if carelessly handled. </I><B>| roughly </B><I>Many of the prisoners were roughly handled; some were killed. </I> </P>
+<P> <SUP> 2 </SUP> <TT> deal with sb/sth </TT> </P>
+<P> <U> ADV. </U><B> competently, efficiently, properly, skilfully, successfully, well </B><I>I think you handled that situation very well. </I><B>| badly | carefully, delicately </B><I>This issue may need to be handled carefully. </I><B>| easily </B><I>Her next question was not so easily handled. </I><B>| routinely </B><I>The library routinely handles a wide variety of enquiries. </I> </P>
+<P> <U> VERB + HANDLE </U><B> be able/unable to, can/could, know how to </B><I>This was a problem that I just couldn't handle. She knew how to handle publicity. </I><B>| be designed to, be equipped to </B><I>He wasn't mentally equipped to handle this situation. </I><B>| learn how to | be easy to | be difficult to, be hard to </B><I>Large meetings are notoriously less productive and more difficult to handle. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She handled the crisis with total assurance. </I> </P>
+</DIV>

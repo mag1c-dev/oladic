@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>observation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> examination </TT> </P>
+<P> <U> ADJ. </U><B> careful, close, detailed | direct | systematic | casual | empirical, scientific | clinical | astronomical </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>She was admitted to hospital for observation. </I><B>| under ~ </B><I>The police have had him under observation for several weeks. </I><B>| ~ of </B><I>The survey was based on direct observation of over 500 schools. </I> </P>
+<P> <U> PHRASES </U><B> powers of observation </B><I>an artist with acute powers of observation </I> </P>
+<P> <SUP> 2 </SUP> <TT> remark </TT> </P>
+<P> <U> ADJ. </U><B> general | astute, keen, shrewd | interesting </B> </P>
+<P> <U> VERB + OBSERVATION </U><B> make </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>He smiled, and made some observation about the weather. </I><B>| ~ on </B><I>her witty observations on life </I> </P>
+</DIV>

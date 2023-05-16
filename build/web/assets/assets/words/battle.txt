@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>battle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> between armies </TT> </P>
+<P> <U> ADJ. </U><B> bloody, fierce | pitched </B><I>The two armies fought a pitched battle on the plain. </I><B>| decisive | great, important, major | famous, historic | land, naval, sea </B> </P>
+<P> <U> VERB + BATTLE </U><B> fight (in) | win | lose | do, give, go into, join </B><I>Charles V refused to give battle. The two armies joined battle. </I><B>| send sb into </B><I>Many young men were sent into battle without proper training. </I> </P>
+<P> <U> BATTLE + VERB </U><B> begin, take place | rage | continue | be over, end </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>Napoleon was defeated at the Battle of Waterloo. </I><B>| in (a/the) ~ </B><I>He died in battle. </I> </P>
+<P> <SUP> 2 </SUP> <TT> violent fight between two groups </TT> </P>
+<P> <U> ADJ. </U><B> fierce | pitched | running | gun </B> </P>
+<P> <U> VERB + BATTLE </U><B> fight </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>Police fought a pitched battle against demonstrators. </I><B>| ~ between </B><I>a gun battle between police and drug smugglers </I><B>| ~ with </B><I>Scores of people have been hurt in running battles with police. </I> </P>
+<P> <SUP> 3 </SUP> <TT> struggle </TT> </P>
+<P> <U> ADJ. </U><B> bitter, fierce | real </B><I>There's now a real battle at the top of the First Division. </I><B>| constant, continuing, long, long-running, ongoing, prolonged | losing, uphill </B><I>We seem to be fighting a losing battle. </I><B>| successful | court, legal </B> </P>
+<P> <U> VERB + BATTLE </U><B> be engaged in, do, fight </B><I>Are you prepared to do battle with your insurance company over the claim? </I><B>| face | win | lose </B> </P>
+<P> <U> BATTLE + VERB </U><B> begin | be over, end </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>his long battle against cancer </I><B>| ~ between </B><I>a fierce battle between developers and the local community </I><B>| ~ for </B><I>the battle for human rights </I><B>| ~ over </B><I>The government now faces a new battle over tax increases. </I><B>| ~ with </B><I>They are engaged in a long-running legal battle with their neighbours. </I> </P>
+<P> <U> PHRASES </U><B> a battle of ideas/words, a battle of wills/wits, a battle royal </B>(= a major battle in which all available forces take part), <B>fight your own battles </B><I>My parents believed in leaving me to fight my own battles. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>battle </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard | bravely </B><I>The child battled bravely for her life. </I><B>| in vain </B><I>Doctors battled in vain to save his life. </I><B>| constantly | away </B><I>We'll keep battling away and hope that the goals start to come. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>Rescuers battled against torrential rain and high winds. </I><B>| for </B><I>battling for control of the party </I><B>| over </B><I>Residents are battling over plans for a new supermarket. </I><B>| through </B><I>We battled through the snowstorm. </I><B>| with </B><I>Riot police battled with 4,000 students. battling with leukaemia </I> </P>
+<P> <U> PHRASES </U><B> battle it out </B><I>Competitors battled it out against the clock. </I><B>| battle your way </B><I>He battled his way to the bar. </I> </P>
+</DIV>

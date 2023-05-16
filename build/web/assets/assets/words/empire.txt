@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>empire </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> group of countries </TT> </P>
+<P> <U> ADJ. </U><B> big, great, large, mighty, vast | colonial, overseas </B><I>the decline of the old colonial empires </I> </P>
+<P> <U> VERB + EMPIRE </U><B> establish, found | dismantle </B><I>The Japanese empire was quickly dismantled. </I><B>| expand | lose </B><I>By now Britain had lost its empire. </I> </P>
+<P> <U> EMPIRE + VERB </U><B> grow | collapse, crumble, disintegrate </B><I>The mighty empire finally crumbled. </I> </P>
+<P> <U> PHRASES </U><B> the break-up/decline/fall of an empire, part of an empire </B><I>a country that is still part of the empire </I> </P>
+<P> <SUP> 2 </SUP> <TT> group of companies/organizations </TT> </P>
+<P> <U> ADJ. </U><B> big, huge, large | little </B>(= used to criticize sb's attitude to the things they control) <I>All the bureaucrats jealously guarded their own little empires. </I><B>| business, commercial, financial, industrial, media </B> </P>
+<P> <U> VERB + EMPIRE </U><B> build (up), create </B><I>He has built a huge business empire from humble beginnings. </I> </P>
+<P> <U> EMPIRE + VERB </U><B> collapse, crumble </B> </P>
+<P> <U> PHRASES </U><B> the collapse of an empire</B> </P>
+</DIV>

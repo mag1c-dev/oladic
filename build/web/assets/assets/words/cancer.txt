@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cancer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> breast, cervical, lung, prostate, skin, etc. </B> </P>
+<P> <U> VERB + CANCER </U><B> have, suffer from | contract, get, develop | cause | screen sb for </B><I>Most of the women employees have now been screened for breast cancer. </I><B>| diagnose | die from/of </B> </P>
+<P> <U> CANCER + VERB </U><B> spread </B><I>The cancer has spread to his stomach. </I> </P>
+<P> <U> CANCER + NOUN </U><B> cell | patient, sufferer, victim | risk </B><I>The cancer risk among smokers was found to be higher. </I><B>| research | drug, treatment </B> </P>
+<P> <U> PHRASES </U><B> a battle/struggle against cancer </B><I>He died after an 18-month battle against cancer. </I>&gt; Special page at ILLNESS </B> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>commodity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> product/raw material </TT> </P>
+<P> <U> ADJ. </U><B> basic, important, primary | cheap | expensive | rare, scarce </B><I>Coal is becoming a rare commodity. </I><B>| export, marketable, saleable | perishable | agricultural, industrial </B><I>basic agricultural commodities </I> </P>
+<P> <U> VERB + COMMODITY </U><B> produce </B> </P>
+<P> <U> COMMODITY + NOUN </U><B> market | futures, prices | export, trade, trading | broker, trader </B> </P>
+<P> <U> PHRASES </U><B> trade in commodities </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth that is useful </TT> </P>
+<P> <U> ADJ. </U><B> precious, valuable </B><I>Time is a very valuable commodity. </I><B>| rare, scarce</B> </P>
+</DIV>

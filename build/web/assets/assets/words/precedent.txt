@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>precedent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bad, dangerous, unfortunate | good, important | historical | judicial, legal </B> </P>
+<P> <U> VERB + PRECEDENT </U><B> serve as </B><I>This case could could serve as a precedent for others against the tobacco companies. </I><B>| have | create, establish, provide, set </B><I>This lowering of standards sets a dangerous precedent for future developments. </I><B>| cite, quote | find | base sth on, use sth as </B><I>The judge based his decision on precedents set during the Middle Ages. </I><B>| follow </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>The achievements of this period were without precedent in history. </I><B>| ~ for </B><I>Many precedents can be found for this decision. </I> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>philosopher </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> distinguished, eminent, famous, great </B><I>the great philosophers of ancient Greece </I><B>| ancient, classical | contemporary, modern | Eastern, Western | professional | experimental, legal, moral, natural </B><I>(historical)</I>, <B>political, social </B><I>a talk by a distinguished moral philosopher He called himself a &lsquo;natural philosopher&rsquo;: today we would say a &lsquo;scientist&rsquo;. </I><B>| sceptical </B> </P>
+<P> <U> PHRASES </U><B> a philosopher of religion/science</B> </P>
+</DIV>

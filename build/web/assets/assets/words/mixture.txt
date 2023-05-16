@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mixture </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fascinating, good, interesting, intriguing | bizarre, curious, extraordinary, odd, peculiar, strange | eclectic </B><I>an eclectic mixture of architectural styles </I><B>| judicious </B><I>a judicious mixture of young and experienced players </I><B>| rich | chaotic, confusing | complex | explosive | heady, potent </B><I>a heady mixture of desire and fire </I><B>| cake </B> </P>
+<P> <U> VERB + MIXTURE </U><B> be made from/of/with </B><I>The cloth is made from a mixture of linen and cotton. </I><B>| pour, spoon, spread, stir </B><I>Pour the cake mixture into the tin. </I> </P>
+<P> <U> MIXTURE + VERB </U><B> contain sth, have sth </B><I>The mixture contains some ingredients that are difficult to find. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He looked at me with a mixture of amazement and horror. </I><B>| ~ of </B><I>The pond contains a mixture of goldfish and carp. </I> </P>
+</DIV>

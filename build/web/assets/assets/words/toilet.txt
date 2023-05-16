@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>toilet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> public | communal, shared </B><I>There was a communal toilet on the landing for the four flats. </I><B>| indoor, inside | outside | flush/flushing </B><I>The caravan is equipped with a sink and a flush toilet. </I><B>| gents', ladies', men's, women's | disabled </B> </P>
+<P> <U> VERB + TOILET </U><B> go to, use </B><I>I need to go to the toilet. </I><B>| be desperate for, need </B><I>Do you need the toilet? </I><B>| flush (sth down) </B><I>Someone's forgotten to flush the toilet. He flushed the letter down the toilet. </I><B>| block, clog | unblock </B> </P>
+<P> <U> TOILET + NOUN </U><B> bowl, seat | paper, roll, tissue | brush, cleaner | facilities | training </B> </P>
+<P> <U> PREP. </U><B> in the ~, on the ~</B> </P>
+</DIV>

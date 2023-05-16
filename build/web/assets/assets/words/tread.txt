@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>tread </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sound you make when you are walking </TT> </P>
+<P> <U> ADJ. </U><B> firm, heavy </B><I>I heard his heavy tread moving about upstairs. </I><B>| light, soft | measured, slow, steady </B> </P>
+<P> <U> VERB + TREAD </U><B> hear </B> </P>
+<P> <U> TREAD + VERB </U><B> move </B> </P>
+<P> <U> PREP. </U><B> with a &hellip; ~ </B><I>A policeman walked by with a slow, measured tread. </I> </P>
+<P> <U> PHRASES </U><B> the tread of feet </B><I>The streets have echoed to the tread of feet for more than ten centuries. </I> </P>
+<P> <SUP> 2 </SUP> <TT> on a tyre </TT> </P>
+<P> <U> ADJ. </U><B> tyre, wheel | deep, shallow | worn </B> </P>
+<P> <U> TREAD + VERB </U><B> be worn </B><I>The tyre tread has been worn below the legal limit. </I> </P>
+<P> <U> TREAD + NOUN </U><B> depth, pattern, width </B> </P>
+<P> <U> PHRASES </U><B> a breadth/depth/width of tread</B> </P>
+</DIV><DIV class="item"><P class="word"><B>tread </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> heavily </B><I>He came down the stairs, treading as heavily as he could. </I><B>| gently, lightly, softly | carefully, gingerly, warily </B><I>She trod gingerly. It would be risky to hurry. (figurative) The government will have to tread carefully in handling this issue. </I><B>| down </B><I>She planted the seeds and trod the earth down. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>Billy trod in a big puddle. </I><B>| into </B><I>Some cake crumbs had been trodden into the carpet. </I><B>| on </B><I>Be careful not to tread on the flowers. </I> </P>
+</DIV>

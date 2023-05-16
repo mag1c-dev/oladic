@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>consultation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> close | extensive, full, wide | proper | joint </B><I>a joint consultation with doctors and patients </I><B>| public </B><I>There will be a period of public consultation before a decision is reached. </I> </P>
+<P> <U> VERB + CONSULTATION </U><B> have, hold </B><I>The prime minister will hold a consultation with all the relevant groups. </I> </P>
+<P> <U> CONSULTATION + NOUN </U><B> document, paper | period </B> </P>
+<P> <U> PREP. </U><B> in ~ with </B><I>The scheme was developed in close consultation with the local community. </I><B>| without ~ </B><I>They have taken this decision without any consultation. </I><B>| ~ about/on </B><I>The company has promised wide consultation on its expansion plans. </I><B>| ~ between </B><I>a consultation between teachers and parents </I><B>| ~ with </B><I>We need more consultation with trade unions. </I> </P>
+</DIV>

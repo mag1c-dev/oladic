@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>complaint </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of complaining </TT> </P>
+<P> <U> ADJ. </U><B> bitter, serious | common, familiar, frequent | formal, official | consumer, customer </B> </P>
+<P> <U> VERB + COMPLAINT </U><B> have </B><I>I have a complaint about the food. </I><B>| bring, file, lodge, make, register, voice </B><I>He brought a complaint against his former manager. They filed a complaint with the European Commission. </I><B>| get, have, receive </B><I>We have had some serious complaints from parents. </I><B>| deal with, handle, hear, investigate, respond to </B><I>The tribunal heard complaints against the director. </I><B>| resolve | reject </B> </P>
+<P> <U> COMPLAINT + VERB </U><B> arise </B><I>complaints arising from late payment </I><B>| concern sth, relate to sth </B> </P>
+<P> <U> COMPLAINT + NOUN </U><B> complaints procedure </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a complaint about working conditions </I><B>| ~ against </B><I>a complaint against the police </I><B>| ~ from </B><I>a complaint from the neighbours </I><B>| ~ of </B><I>a complaint of unfair dismissal </I><B>| ~ to </B><I>to make a complaint to the authorities </I> </P>
+<P> <U> PHRASES </U><B> cause/grounds for complaint </B><I>The way I was treated gave me no cause for complaint. </I><B>| a chorus of complaint, a letter of complaint, a matter of complaint </B> </P>
+<P> <SUP> 2 </SUP> <TT> illness </TT> </P>
+<P> <U> ADJ. </U><B> mild, minor | chronic | common </B><I>Not being able to sleep at night is a very common complaint. </I><B>| back, chest, etc. | medical </B> </P>
+<P> <U> VERB + COMPLAINT </U><B> have, suffer from </B><I>He has a minor skin complaint. </I> </P>
+</DIV>

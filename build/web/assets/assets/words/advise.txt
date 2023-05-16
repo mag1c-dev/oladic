@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>advise </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> tell sb what you think they should do </TT> </P>
+<P> <U> ADV. </U><B> strenuously, strongly </B><I>I strongly advise you not to do this. </I><B>| badly, wrongly </B><I>We were badly advised by our solicitor. </I><B>| properly | legally </B> </P>
+<P> <U> PREP. </U><B> about </B><I>We can advise parents about education. </I><B>| against </B><I>They advised me against sending cash by post. </I><B>| on </B><I>We will be happy to advise on any financial matters. </I> </P>
+<P> <U> PHRASES </U><B> be ill/well advised to do sth </B><I>John would be ill advised to rely on their support. You would be better advised to consult an accountant. </I> </P>
+<P> <SUP> 2 </SUP> <TT> inform sb of sth </TT> </P>
+<P> <U> VERB + ADVISE </U><B> be pleased to </B><I>I am pleased to advise you that your application has been accepted. </I><B>| regret to </B> </P>
+<P> <U> PREP. </U><B> of </B> </P>
+<P> <U> PHRASES </U><B> keep sb advised </B><I>Please keep me advised of new developments in this case. </I> </P>
+</DIV>

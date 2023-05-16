@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>degree </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> measurement of angles </TT> </P>
+<P> <U> VERB + DEGREE </U><B> rotate (through), spin (through), turn (through) </B><I>The car had spun through 180 degrees on impact. </I> </P>
+<P> <U> DEGREE + NOUN </U><B> angle </B><I>Place the shelf at a 90 degree angle to the wall. </I> </P>
+<P> <U> DEGREE + NOUN </U><B> through &hellip; ~s </B><I>If you study the sky through 360 degrees you will see a whole range of colours. </I> </P>
+<P> <SUP> 2 </SUP> <TT> measurement of temperature </TT> </P>
+<P> <U> VERB + DEGREE </U><B> reach </B><I>Temperatures inside the burning building are estimated to have reached 600 degrees centigrade. </I> </P>
+<P> <U> PREP. </U><B> at &hellip; ~s </B><I>Water boils at 100 degrees centigrade. </I> </P>
+<P> <U> PHRASES </U><B> degrees above/below zero, degrees Celsius/centigrade/Fahrenheit, minus 10, 20, etc. degrees </B> </P>
+<P> <SUP> 3 </SUP> <TT> amount/level </TT> </P>
+<P> <U> ADJ. </U><B> considerable, exceptional, extraordinary, great, high, large, remarkable, substantial, surprising, unusual, the utmost </B><I>the utmost degree of freedom </I><B>| fair, moderate, modest </B><I>It was possible to date these remains with a fair degree of accuracy. </I><B>| low, minimal, slight, small </B><I>He would try anything to make her even the smallest degree happier. </I><B>| lesser </B><I>The tax changes will especially hit those on high incomes and, to a lesser degree, small businesses. </I><B>| varying </B><I>keen amateurs who work hard, with varying degrees of success </I><B>| alarming, dangerous, extreme </B><I>His arguments are simplistic to an extreme degree. </I><B>| acceptable, adequate, meaningful, real, significant </B><I>The book fails to answer the question with any acceptable degree of certainty. </I><B>| appropriate, necessary, proper, requisite, right | unacceptable </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~s </B><I>The party leaders were all found to be corrupt in varying degrees. </I><B>| of &hellip; ~ </B><I>employees of various degrees of ability </I><B>| to a &hellip; ~ </B><I>The boss sometimes follows her instincts to a dangerous degree. </I><B>| with a &hellip; ~ of </B><I>We all tried to find out about the bus service, with varying degrees of success. </I><B>| ~ of </B><I>There is a degree of risk in any sport. </I> </P>
+<P> <U> PHRASES </U><B> by (slow) degrees </B><I>By slow degrees, the company's turnover dwindled to nothing. </I><B>| in (an) equal degree </B><I>I felt excitement and sadness in equal degree as I waved goodbye to my colleagues. </I><B>| a greater or lesser degree </B><I>We were all disappointed to a greater or lesser degree. </I><B>| to the nth degree </B>(= to an extreme degree) <I>The children tested her patience to the nth degree. </I> </P>
+<P> <SUP> 4 </SUP> <TT> qualification </TT> </P>
+<P> <U> ADJ. </U><B> college, university | first, ordinary, undergraduate | higher, master's, postgraduate, research | BA, BEd, BSc, MA, MSc, PhD, etc. | honours | pass | good, poor | first-class, (lower/upper) second-class, third-class </B><I>Candidates must have at least an upper second class honours degree. </I><B>| honorary | business, medical, history, law, philosophy, etc. | professional </B><I>Candidates must hold a professional degree in architecture. </I><B>| external | combined, joint, joint/combined subject, joint honours </B><I>a joint honours degree in Business Studies and Modern Languages </I><B>| modular | part-time </B> </P>
+<P> <U> VERB + DEGREE </U><B> have, hold | do, take </B><I>He took a degree in law then joined a law firm. </I><B>| be awarded, gain, get, obtain, receive | award sb, confer on sb </B><I>The university conferred on him the honorary degree of Doctor of Laws. </I> </P>
+<P> <U> DEGREE + NOUN </U><B> course, level </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a degree in economics </I> </P>
+</DIV>

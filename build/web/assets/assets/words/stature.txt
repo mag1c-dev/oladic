@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>stature </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> height </TT> </P>
+<P> <U> ADJ. </U><B> great, imposing | diminutive, short, slight, small | full </B><I>The statue shows King Richard in full stature beside his horse. </I><B>| physical </B> </P>
+<P> <U> VERB + STATURE </U><B> have | lack </B><I>The president lacks physical stature. </I> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>He was a man of great stature who carried himself well. </I> </P>
+<P> <U> PHRASES </U><B> a lack of stature </B><I>Despite his lack of stature, he became a successful footballer. </I><B>| small in stature </B><I>Both her parents are fairly small in stature. </I> </P>
+<P> <SUP> 2 </SUP> <TT> importance </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, growing | full | public | international, world | political </B> </P>
+<P> <U> VERB + STATURE </U><B> gain in, grow in, rise in </B><I>She has grown in stature since winning the Tchaikovsky Piano Competition. </I><B>| achieve </B><I>Geomorphology has now achieved full stature as a branch of geology. </I><B>| enhance </B><I>The election result enhanced the party's stature. </I><B>| diminish | rise to &hellip; </B><I>Her reputation has risen to world stature. </I> </P>
+<P> <U> STATURE + VERB </U><B> grow, increase, rise </B><I>His political stature increased during the crisis. </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>a writer of international stature </I> </P>
+</DIV>

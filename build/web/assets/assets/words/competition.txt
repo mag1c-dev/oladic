@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>competition </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> event in which people try to win sth </TT> </P>
+<P> <U> ADJ. </U><B> international, national | knock-out | dancing, piano, sporting, etc. </B> </P>
+<P> <U> VERB + COMPETITION </U><B> win </B><I>She won an international dancing competition. </I><B>| lose | have, hold, stage </B><I>We're going to have a competition to see who can swim the furthest. </I><B>| enter, take part in | withdraw from </B> </P>
+<P> <U> COMPETITION + VERB </U><B> take place | be open to sb </B><I>The competition is open to all readers of the magazine </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>I won the car in a competition. </I><B>| ~ between </B><I>a competition between the best teams in the country </I><B>| ~ for </B><I>a competition for the best chef </I> </P>
+<P> <SUP> 2 </SUP> <TT> trying to achieve the same thing/gain an advantage </TT> </P>
+<P> <U> ADJ. </U><B> cut-throat, fierce, intense, keen, serious, severe, stiff, strong, tough </B><I>intense competition for the contract </I><B>| direct </B><I>Public transport is run in direct competition with the private sector. </I><B>| fair, free, healthy, open | domestic | foreign, global, international, overseas | economic </B> </P>
+<P> <U> VERB + COMPETITION </U><B> be up against, face | go into </B><I>to go into competition with British Telecom </I><B>| beat off, fight off </B><I>to fight off competition from foreign firms </I> </P>
+<P> <U> PREP. </U><B> against ~ </B><I>They won the order against fierce international competition. </I><B>| in ~ with </B><I>We are in competition with some very large companies. </I><B>| in the face of ~ </B><I>The gas companies are having to lay off staff in the face of stiff competition from oil. </I><B>| ~ among/between </B><I>There is a lot of competition between rival airlines. </I><B>| ~ for, ~ from </B><I>We face strong competition from other countries. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>wrinkle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine </B> </P>
+<P> <U> VERB + WRINKLE </U><B> have | get | prevent </B><I>Is there anything you can do to prevent wrinkles? </I> </P>
+<P> <U> WRINKLE + VERB </U><B> appear, form </B><I>Fine wrinkles started to appear round her eyes. </I> </P>
+<P> <U> PREP. </U><B> without a ~ </B><I>Her skin was still without a wrinkle. </I> </P>
+</DIV>

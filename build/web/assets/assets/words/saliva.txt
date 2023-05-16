@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>saliva </b><i>noun </i> </p>
+<p> <u> QUANT. </u><div class="ex"><b> dribble </b></div><div class="excontent"><i>He wiped a dribble of saliva from his chin. </i> </div></p>
+<p> <u> VERB + SALIVA </u><div class="ex"><b> produce | swallow </b></div></p>
+<p> <u> SALIVA + VERB </u><div class="ex"><b> dribble, drip, drool | flow </b></div><div class="excontent"><i>The smell of food causes the saliva to flow. </i> </div></p>
+</div>

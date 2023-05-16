@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>planet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> distant | alien, unknown | another </B><I>He looked like something from another planet! </I> </P>
+<P> <U> PLANET + VERB </U><B> orbit </B><I>How many planets orbit the sun? </I> </P>
+<P> <U> PREP. </U><B> from a/the ~ </B><I>creatures from an alien planet </I><B>| on a/the ~ </B><I>She believes there is life on other planets. </I> </P>
+</DIV>

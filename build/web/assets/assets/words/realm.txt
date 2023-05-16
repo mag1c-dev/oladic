@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>realm </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> area of activity/interest/knowledge </TT> </P>
+<P> <U> ADJ. </U><B> whole </B><I>the whole realm of human intellect </I><B>| new | international | public | domestic, private | political, social, spiritual </B> </P>
+<P> <U> VERB + REALM </U><B> be/lie in, belong in/to | open up </B><I>The research has opened up new realms for investigation. </I><B>| enter, move into | descend into/to </B><I>(disapproving) Most readers are likely to lose interest when he descends into the realms of </I>(= starts discussing) </B><I>rhetorical terminology. </I><B>| move from/out of </B><I>The euro has moved from the realms of theory into reality. </I> </P>
+<P> <U> PREP. </U><B> beyond/out of/outside the ~ of </B><I>His ambitions are way beyond the realms of possibility. </I><B>| in/within the ~ of </B><I>The idea belongs in the realm of science fiction. </I> </P>
+<P> <U> PHRASES </U><B> the realms of fantasy/possibility </B> </P>
+<P> <SUP> 2 </SUP> <TT> country ruled by a king/queen </TT> </P>
+<P> <U> VERB + REALM </U><B> defend </B><I>They fought to defend the realm. </I> </P>
+<P> <U> PREP. </U><B> beyond/outside the ~ </B><I>wealth acquired outside the realm </I><B>| in/within the ~ </B><I>peace within the realm </I><B>| throughout the ~ </B><I>There was rejoicing throughout the realm. </I> </P>
+<P> <U> PHRASES </U><B> a part of the realm, the defence of the realm </B><I>Royal taxation usually had to be for the defence of the realm. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>injustice </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cruel, grave, great, gross, terrible | perceived | racial, social </B> </P>
+<P> <U> VERB + INJUSTICE </U><B> experience, suffer </B><I>He suffered the injustice of being punished for a crime which he did not commit. </I><B>| regard sth as </B><I>The trial was regarded as the greatest injustice of the post-war criminal justice system. </I><B>| cause </B><I>(law)</I>, <B>commit, do (sb/yourself) </B><I>She remains adamant that an injustice was done. We may have been doing him an injustice </I>(= criticizing him unfairly)</B><I>. This work is good. </I><B>| expose </B><I>a novel that sets out to expose social injustice </I><B>| fight against, protest against, speak out against, struggle against, work against </B><I>She was acclaimed for speaking out against injustice. </I><B>| correct, remedy </B><I>people who work hard to correct society's injustices </I><B>| stop </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>a terrible injustice by the police </I><B>| ~ to </B><I>It would be an injustice to the man to imprison him for life. </I> </P>
+<P> <U> PHRASES </U><B> the injustice of it all </B><I>She was overwhelmed by the injustice of it all </I>(= of the situation)</B><I>. </I><B>| a sense of injustice, a victim of injustice</B> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>fund </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sum of money collected for a particular purpose </TT> </P>
+<P> <U> ADJ. </U><B> large | appeal, charitable, charity </B><I>The newspaper launched an appeal fund for victims of the disaster. </I><B>| benevolent, campaign, investment, memorial, pension, prize, social, trust </B><I>a benevolent fund for retired actors </I> </P>
+<P> <U> VERB + FUND </U><B> create, establish, launch, set up, start </B><I>They set up an investment fund to provide money for their retirement. </I><B>| administer, manage | draw on </B><I>They don't want to draw on the fund unless they have to. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There is currently over </I>&pound;</B><I>200,000 in the fund. </I><B>| into a/the ~ </B><I>The money received is paid directly into a pension fund. </I> </P>
+<P> <U> FUND + NOUN </U><B> holder, manager 2 funds </B>money that is available and can be spent </B> </P>
+<P> <U> ADJ. </U><B> sufficient | insufficient | limited </B><I>There are only limited funds available. </I><B>| unlimited | surplus | available | government, private, public </B> </P>
+<P> <U> VERB + FUND </U><B> have </B><I>We have insufficient funds to pay for the building work. </I><B>| be out of, be short of </B><I>We are short of funds at the moment, so we are not going on holiday. </I><B>| appeal for </B><I>The school is appealing for funds to invest in new equipment. </I><B>| borrow, boost, build up, collect, generate, get, obtain, raise, receive, secure | allocate, lend, make available, provide, release </B><I>Funds will be made available to ensure the provision of hospital services. </I><B>| channel, direct, use </B><I>The government is to channel more funds into local development schemes. </I> </P>
+<P> <U> FUND + NOUN </U><B> raiser fund-raiser | raising, fund-raising</B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a charity event to raise funds for local schools </I><B>| ~ from </B><I>Funds from the event will support the work of the hospice. </I> </P>
+<P> <U> PHRASES </U><B> access to funds </B><I>The current account offers savers instant access to funds. </I><B>| a flow of funds </B><I>the flow of funds between various economic sectors </I><B>| a lack/shortage of funds </B><I>The project was hampered by lack of funds. </I> &gt; Special page at BUSINESS </B> </P>
+</DIV><DIV class="item"><P class="word"><B>fund </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> largely, mainly | entirely </B><I>The venture is funded entirely by its board of directors. </I><B>| partially, partly | generously, properly, well | fully </B><I>a new, fully funded training scheme </I><B>| adequately | inadequately, poorly | centrally, directly </B><I>The school opted out of local authority control and is funded directly by the government. </I><B>| publicly | externally, independently, privately | jointly </B><I>a scheme jointly funded by central and local government </I> </P>
+<P> <U> VERB + FUND </U><B> be used to, help (to) </B><I>This money will help to fund administration costs. </I><B>| agree to | refuse to</B> </P>
+</DIV>

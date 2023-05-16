@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>officer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in the army, navy, etc. </TT> </P>
+<P> <U> ADJ. </U><B> air force, army, military, naval | commanding, high-ranking, ranking, senior, superior </B><I>The decision rests with the ranking officer </I>(= the most senior officer present)</B><I>. </I><B>| junior, petty | commissioned, non-commissioned | recruiting | duty </B><I>He telephoned the duty officer at regimental headquarters. </I><B>| uniformed | retired </B> </P>
+<P> <U> VERB + OFFICER </U><B> salute </B><I>to salute a superior officer </I> </P>
+<P> <U> OFFICER + VERB </U><B> command sth </B><I>the officer commanding the infantry </I> </P>
+<P> <U> OFFICER + NOUN </U><B> cadet, corps </B></P>
+<a href="/collocation-tag/rank" class="tag">Learn more about RANK</a>
+<P> <SUP> 2 </SUP> <TT> in the government or other organization </TT> </P>
+<P> <U> ADJ. </U><B> chief, principal, senior | full-time, part-time | presiding, responsible, supervising </B><I>Report the incident to the responsible officer. the officer responsible for implementing the scheme </I><B>| regional | administrative, customs, environmental health, financial, liaison, medical, press, trading standards, training, welfare </B> </P>
+<P> <U> VERB + OFFICER </U><B> be, work as | be appointed (as), become | have </B><I>The charity has a full-time press officer working with the national newspapers. </I> </P>
+<P> <SUP> 3 </SUP> <TT> policeman/policewoman </TT> </P>
+<P> <U> ADJ. </U><B> police | chief, senior, superior | junior | investigating | duty </B><I>We spoke to the duty officer at the police station. </I><B>| uniformed | plain-clothes | undercover </B> </P>
+<P> <U> OFFICER + VERB </U><B> investigate sth </B><I>officers investigating the murder </I><B>| patrol sth | raid sth, swoop on sth </B><I>(informal) Officers raided an address in south London, seizing bomb-making equipment. </I><B>| seize sth | arrest sb </B> </P>
+</DIV>

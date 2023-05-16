@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>unconscious </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a state that is like sleep </TT> </P>
+<P> <U> VERBS </U><B> appear, be, lie, look </B><I>They found her lying unconscious on the floor. </I><B>| become | remain | batter sb, beat sb, kick sb, knock sb, leave sb, render sb </B><I>He was knocked unconscious by the impact. The attack left her unconscious. </I> </P>
+<P> <U> ADV. </U><B> deeply | completely | almost | still 2 unconscious of sb/sth </B>not aware of sb/sth </B> </P>
+<P> <U> VERBS </U><B> appear, be, seem </B> </P>
+<P> <U> ADV. </U><B> quite, totally </B><I>Parents are often quite unconscious of the ways in which they influence their children. </I> </P>
+<P> <SUP> 3 </SUP> <TT> done without you being aware of it </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> deeply | quite, totally, wholly </B><I>These impulses are often totally unconscious. </I><B>| largely</B> </P>
+</DIV>

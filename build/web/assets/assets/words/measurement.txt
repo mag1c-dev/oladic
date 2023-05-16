@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>measurement </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accurate, careful, exact, objective, precise </B><I>It is important to take precise measurements of the structure. Objective measurement is difficult with such poor equipment. </I><B>| laboratory, scientific | imperial, metric | length, pressure, temperature, etc. | body, bust, chest, waist </B> </P>
+<P> <U> VERB + MEASUREMENT </U><B> carry out, get, make, obtain, perform, record, take </B> </P>
+<P> <U> MEASUREMENT + NOUN </U><B> system, technique | scale, unit | error </B> </P>
+<P> <U> PHRASES </U><B> a scale/unit of measurement</B> </P>
+</DIV>

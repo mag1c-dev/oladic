@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>castle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> grand, great, magnificent, splendid | strong | turreted | historic | ancient, medieval | royal | ruined | fairy/fairy-tale, fantasy </B> </P>
+<P> <U> VERB + CASTLE </U><B> approach </B><I>They had to approach the castle through thick swamps. </I><B>| build, fortify | attack, besiege, lay siege to | capture, seize, take | defend, hold </B><I>Edinburgh castle was loyally held in the queen's name. </I> </P>
+<P> <U> CASTLE + VERB </U><B> perch, stand </B><I>The castle perches on a high rocky outcrop. </I><B>| overlook sth </B><I>The castle overlooks the town. </I> </P>
+<P> <U> CASTLE + NOUN </U><B> gate, grounds, keep, tower, wall | ruins </B> </P>
+<P> <U> PREP. </U><B> in a/the ~</B> </P>
+</DIV>

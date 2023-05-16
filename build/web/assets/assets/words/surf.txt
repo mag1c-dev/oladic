@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>surf </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | distant </B><I>the roar of distant surf </I> </P>
+<P> <U> VERB + SURF </U><B> ride </B><I>dolphins riding the surf </I> </P>
+<P> <U> SURF + VERB </U><B> break, roll (in) </B><I>the sound of surf breaking on the beach </I><B>| roar, thunder </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>The children splashed about in the surf. </I> </P>
+<P> <U> PHRASES </U><B> the roar/thunder of (the) surf</B> </P>
+</DIV>

@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>screen </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on a TV, computer, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big </B><I>(often figurative)</I>, <B>giant, huge, large </B><I>big screen entertainment </I>(= at the cinema) <B>| small </B><I>(often figurative) She appears regularly on the small screen </I>(= on television)</B><I>. </I><B>| blank </B><I>I sat gazing at the blank screen, trying to think of something to write. </I><B>| computer, television/TV, video </B> </P>
+<P> <U> VERB + SCREEN </U><B> appear on | fill </B><I>The star's lovely face filled the screen. </I><B>| gaze at, look at, stare at, watch </B> </P>
+<P> <U> SCREEN + VERB </U><B> flicker </B><I>The screen flickered, and then everything went dark. </I> </P>
+<P> <U> PREP. </U><B> off ~ </B><I>They play deadly rivals in the show but they are good friends off screen. </I><B>| on (the) ~ </B><I>She is remembered mainly for her performances on screen. Information can be viewed on screen or printed out. The image came up on the screen for a few seconds. </I> </P>
+<P> <U> PHRASES </U><B> stage and screen </B><I>stars of stage and screen </I> </P>
+<P> <SUP> 2 </SUP> <TT> partition </TT> </P>
+<P> <U> ADJ. </U><B> folding </B><I>The room was divided by a folding screen. </I> </P>
+<P> <U> VERB + SCREEN </U><B> put up </B> </P>
+<P> <U> PREP. </U><B> behind a/the ~ </B><I>His desk was discreetly placed behind a screen. </I><B>| ~ between </B><I>There is a screen between the two beds. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>screen </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> hide sth </TT> </P>
+<P> <U> ADV. </U><B> well | completely | partly | effectively | neatly </B><I>The shed is neatly screened by a hedge. </I><B>| off </B><I>One part of the room was screened off. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>The building is completely screened from the road by high bushes. </I> </P>
+<P> <SUP> 2 </SUP> <TT> check sb/sth for faults/illnesses </TT> </P>
+<P> <U> ADV. </U><B> carefully </B><I>All foster parents are carefully screened. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>All pregnant women are to be screened for the infection. </I> </P>
+<P> <SUP> 3 </SUP> <TT> show sth on television/in a cinema </TT> </P>
+<P> <U> ADV. </U><B> live </B><I>The programme will be screened live on BBC1. </I> </P>
+</DIV>

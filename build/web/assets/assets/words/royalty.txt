@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>royalty </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money paid to an author, etc. </TT> </P>
+<P> <U> ADJ. </U><B> advance </B> </P>
+<P> <U> VERB + ROYALTY </U><B> pay | earn, get, receive | charge </B> </P>
+<P> <U> ROYALTY + NOUN </U><B> cheque, payment </B> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>She earns a lot in royalties. </I><B>| ~ from/on </B><I>He has received royalties on previous inventions. </I> </P>
+<P> <U> PHRASES </U><B> an advance on royalties </B> </P>
+<P> <SUP> 2 </SUP> <TT> members of the royal family </TT> </P>
+<P> <U> ADJ. </U><B> minor </B> </P>
+<P> <U> PHRASES </U><B> in the presence of royalty </B><I>She behaved as if she were in the presence of royalty. </I> </P>
+</DIV>

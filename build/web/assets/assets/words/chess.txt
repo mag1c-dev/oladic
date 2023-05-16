@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>chess </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> computer, machine </B> </P>
+<P> <U> QUANT. </U><B> game </B> </P>
+<P> <U> VERB + CHESS </U><B> play </B> </P>
+<P> <U> CHESS + NOUN </U><B> board, piece, set, table | move | position | grandmaster, master, player | buff | championship, match, tournament | club | computer | world </B><I>a star of the chess world </I> </P>
+</DIV>

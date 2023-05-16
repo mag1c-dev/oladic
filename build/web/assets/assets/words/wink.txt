@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>wink </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad | little | conspiratorial, knowing </B> </P>
+<P> <U> VERB + WINK </U><B> direct, give sb, throw sb </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>&lsquo;Know what I mean?&rsquo; he said with a wink. </I><B>| ~ at </B><I>He directed a conspiratorial wink at his son. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wink </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> broadly </B><I>He winked broadly at Lucinda. </I><B>| conspiratorially, saucily, wickedly </B><I>She winked saucily at Jack. </I><B>| back </B> </P>
+<P> <U> VERB + WINK </U><B> see sb </B><I>I saw him wink at her. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>She winked at me, and I winked back. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>gene </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> dominant, recessive | abnormal, defective, mutant | human </B> </P>
+<P> <U> VERB + GENE </U><B> carry, have </B><I>people who carry the gene that causes this disease </I><B>| pass on </B><I>The gene is passed on to their children. </I> </P>
+<P> <U> GENE + VERB </U><B> be responsible for sth, cause sth, control sth, influence sth </B><I>Genes control the development of an embryo. </I><B>| mutate </B> </P>
+<P> <U> GENE + NOUN </U><B> pool </B><I>Scientists have estimated that a gene pool of at least 300 animals is necessary to maintain a healthy tiger population. </I><B>| defect, mutation </B><I>Gene mutations are alterations in the DNA code. </I><B>| sequence | therapy </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>An individual may pass on to future generations its genes for tallness. </I> </P>
+</DIV>

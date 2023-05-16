@@ -1,0 +1,32 @@
+
+<DIV class="item"><P class="word"><B>release </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> freeing sb from prison, etc. </TT> </P>
+<P> <U> ADJ. </U><B> immediate </B><I>There have been calls for his immediate and unconditional release. </I><B>| imminent | early | unconditional </B> </P>
+<P> <U> VERB + RELEASE </U><B> grant sb </B><I>He was granted early release. </I><B>| secure </B><I>A public outcry secured her release from detention. </I> </P>
+<P> <U> RELEASE + NOUN </U><B> date </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>his release from hospital </I> </P>
+<P> <U> PHRASES </U><B> release on bail/parole </B> </P>
+<P> <SUP> 2 </SUP> <TT> freeing sb from an emotion, a pain, etc. </TT> </P>
+<P> <U> ADJ. </U><B> welcome </B><I>She saw death as a welcome release from pain. </I><B>| emotional </B> </P>
+<P> <U> VERB + RELEASE </U><B> give (sb) </B><I>Crying gave some emotional release. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B> </P>
+<P> <U> PHRASES </U><B> a feeling/sense of release, a release of tension </B><I>All societies have social mechanisms for the release of tension. </I> </P>
+<P> <SUP> 3 </SUP> <TT> book/film/record/piece of news </TT> </P>
+<P> <U> ADJ. </U><B> latest, new, recent | commercial | book, CD, film's, news, press, record, video </B> </P>
+<P> <U> RELEASE + VERB </U><B> be/come out </B><I>The new CD releases will be out on Friday. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>release </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> allow sb to be free </TT> </P>
+<P> <U> ADV. </U><B> quickly | immediately | eventually, finally | conditionally, unconditionally </B> </P>
+<P> <U> PREP. </U><B> from </B><I>She was released from prison last week. </I> </P>
+<P> <U> PHRASES </U><B> newly/recently released </B> </P>
+<P> <SUP> 2 </SUP> <TT> allow sth to escape </TT> </P>
+<P> <U> ADV. </U><B> accidentally </B><I>The factory had accidentally released a quantity of toxic waste into the sea. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>the gases that are released from aerosols </I><B>| into </B><I>How much radiation was released into the air? </I> </P>
+<P> <SUP> 3 </SUP> <TT> make sth less tight </TT> </P>
+<P> <U> ADV. </U><B> suddenly </B><I>She laughed, the tension inside her suddenly released. </I> </P>
+<P> <SUP> 4 </SUP> <TT> make sth available </TT> </P>
+<P> <U> ADV. </U><B> officially </B><I>Figures to be officially released this week reveal that long-term unemployment is still rising. </I> </P>
+<P> <U> VERB + RELEASE </U><B> refuse to </B><I>Police have refused to release the name of the dead man. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Details of the attack have not yet been released to the public. </I> </P>
+<P> <U> PHRASES </U><B> newly/recently released </B><I>newly released recordings </I><B>| originally/previously released </B><I>The album was originally released in 1974. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>instability </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> increased | growing, increasing | continuing | inherent, internal | economic, financial, political, social | emotional, mental </B> </P>
+<P> <U> QUANT. </U><B> degree </B><I>The increased inflation will inject a degree of instability into the economy. </I> </P>
+<P> <U> VERB + INSTABILITY </U><B> cause, create </B><I>Racism causes political instability and violence. </I><B>| avoid </B><I>The law was introduced to avoid instability during the transition. </I> </P>
+<P> <U> INSTABILITY + VERB </U><B> arise, occur </B><I>Instability may arise at times of change. </I> </P>
+<P> <U> PHRASES </U><B> a period of instability </B><I>a long period of economic instability </I><B>| a source of instability</B> </P>
+</DIV>

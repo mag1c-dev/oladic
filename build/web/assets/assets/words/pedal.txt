@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>pedal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accelerator, brake, clutch | foot </B><I>To stop the machine push the foot pedal. </I><B>| bicycle | organ, piano | wah/wah-wah </B><I>Some guitar players tend to overuse the wah-wah pedal. </I> </P>
+<P> <U> VERB + PEDAL </U><B> press, push, put your foot on, step on, use, work </B><I>Her foot was working the pedal of the sewing machine. </I><B>| release, take your foot off </B> </P>
+<P> <U> PEDAL + VERB </U><B> control sth, operate sth </B> </P>
+<P> <U> PEDAL + NOUN </U><B> boat, car, cycle | bin </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>with one foot on the pedal </I> </P>
+</DIV><DIV class="item"><P class="word"><B>pedal </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fast, furiously, hard, like mad, madly </B><I>He pedalled furiously up the hill. </I><B>| slowly | away </B><I>She pedalled away as fast as she could. </I> </P>
+<P> <U> PREP. </U><B> along, down, up </B><I>He pedalled along the lane and up the hill. </I> </P>
+</DIV>

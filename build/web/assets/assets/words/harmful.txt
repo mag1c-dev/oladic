@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>harmful </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | consider sth </B><I>She actually considered fresh air harmful. </I> </P>
+<P> <U> ADV. </U><B> extremely, particularly, positively, very </B><I>These products are often positively harmful. </I><B>| quite | possibly, potentially </B><I>A lot of these chemicals are potentially very harmful. </I><B>| allegedly | (not) necessarily </B><I>Not all virus infections are necessarily harmful to vines. </I><B>| intrinsically | environmentally, socially </B><I>These pesticides are environmentally harmful. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>pesticides that are harmful to the environment </I> </P>
+</DIV>

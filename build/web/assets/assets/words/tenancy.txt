@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>tenancy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> weekly, yearly, etc. | life | shorthold | joint | assured, protected, secure | business, council, local authority </B> </P>
+<P> <U> VERB + TENANCY </U><B> hold (sth on) </B><I>The tenancy is held in joint names. The land was held on a yearly tenancy. </I><B>| take over | grant (sb) | terminate | renew | create </B><I>shorthold tenancy created by the Housing Act of 1980 </I> </P>
+<P> <U> TENANCY + VERB </U><B> end, expire </B> </P>
+<P> <U> TENANCY + NOUN </U><B> agreement </B> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>The club occupies the land under a protected tenancy. </I> </P>
+</DIV>

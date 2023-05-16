@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fortnight </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> next | last, past, previous | whole </B> </P>
+<P> <U> VERB + FORTNIGHT </U><B> spend </B><I>We've spent the last fortnight in Spain. </I> </P>
+<P> <U> FORTNIGHT + VERB </U><B> elapse, go by, pass </B><I>A fortnight passed and we still hadn't heard from them. </I> </P>
+<P> <U> PREP. </U><B> after a/the ~, during a/the ~, for a/the ~, in a/the ~ </B><I>We hope to leave in the next fortnight. </I><B>| over a/the ~, within a/the ~</B> </P>
+</DIV>

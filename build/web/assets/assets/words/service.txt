@@ -1,0 +1,35 @@
+
+<DIV class="item"><P class="word"><B>service </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> system that provides sth the public needs </TT> </P>
+<P> <U> ADJ. </U><B> efficient, excellent, good, valuable | adequate | bad, inadequate, poor, terrible | complete, comprehensive, full | standard | basic | reduced | back-up, support | emergency, essential </B><I>A passer-by called the emergency services </I>(= the ambulance/fire /police services)</B><I>. Essential services </I>(= the supply of water, gas, electricity) </B><I>will be maintained. </I><B>| vital </B><I>providing a vital service to the public </I><B>| available </B><I>Find out what services are available in your area. </I><B>| public | advisory, banking, counselling, financial, information, medical, news, rescue, telephone, etc. | ambulance, diplomatic, fire, foreign, health, intelligence, library, police, postal, prison, probation, prosecution, secret, security, social </B><I>She works for the social services </I> </P>
+<P> <U> VERB + SERVICE </U><B> offer (sb), provide (sb with) </B><I>We offer a comprehensive service to home buyers. </I><B>| operate, run | maintain | guarantee | improve | expand, extend </B><I>We need to expand this valuable service to other cities. </I><B>| cut back on, run down </B><I>This government has systematically run down public services since it took office. </I><B>| suspend | axe, cut | restore | make use of, use </B><I>people who use the library service </I><B>| complain about </B> </P>
+<P> <U> SERVICE + VERB </U><B> improve | deteriorate </B> </P>
+<P> <U> SERVICE + NOUN </U><B> industry, sector </B> </P>
+<P> <U> PREP. </U><B> in/out of ~ (used of buses, trains, etc.) </B> </P>
+<P> <U> PHRASES </U><B> goods and services </B> </P>
+<P> <SUP> 2 </SUP> <TT> work of serving a customer </TT> </P>
+<P> <U> ADJ. </U><B> efficient, excellent, first-class, first-rate, good, professional, quality | bad, poor, terrible | prompt, quick | slow | friendly, personal | customer | after-sales </B><I>We offer excellent after-sales service on all our goods. </I><B>| room </B><I>If you would like a meal in your room, please call room service. </I> </P>
+<P> <U> VERB + SERVICE </U><B> give (sb), offer (sb), provide (sb with) </B><I>Our main concern is to provide quality customer service. </I><B>| get | guarantee </B><I>We guarantee first-class service. </I><B>| complain about </B><I>complaining about poor service </I> </P>
+<P> <SUP> 3 </SUP> <TT> working for a country, company, etc. </TT> </P>
+<P> <U> ADJ. </U><B> meritorious, outstanding | faithful | long | active </B><I>He died on active service. </I><B>| military, national | domestic </B><I>a job in domestic service </I><B>| community, public | voluntary | jury </B> </P>
+<P> <U> VERB + SERVICE </U><B> do </B><I>All 18-year-old males are required to do a year's military service. </I><B>| see </B><I>He saw service during the First World War. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>service to the community </I> </P>
+<P> <U> PHRASES </U><B> conditions of service </B> </P>
+<P> <SUP> 4 </SUP> <TT> work done for sb; help given to sb </TT> </P>
+<P> <U> ADJ. </U><B> great, immense, invaluable, valuable | professional </B> </P>
+<P> <U> VERB + SERVICE </U><B> be of, do sb, perform, render </B><I>May I be of service to you? You have done us a great service. payment for services rendered </I><B>| offer (sb), provide (sb with) </B><I>She offered her services as a childminder. </I> </P>
+<P> <U> PREP. </U><B> at your ~ </B><I>The cabin staff are at your service throughout the flight. </I><B>| ~s of </B><I>We need the services of a good lawyer. </I><B>| ~ to </B><I>He was given an award for his services to the disabled. </I> </P>
+<P> <SUP> 5 </SUP> <TT> the services: the armed forces  </TT> </P>
+<P> <U> ADJ. </U><B> armed </B> </P>
+<P> <U> VERB + SERVICE </U><B> go into, join </B><I>Most of the boys went straight into the services. </I> </P>
+<P> <SUP> 6 </SUP> <TT> bus, train etc. </TT> </P>
+<P> <U> ADJ. </U><B> efficient, good, reliable | fast | frequent, regular | direct | full | limited, reduced </B><I>We will be operating a reduced service while engineering work takes place. </I><B>| scheduled </B><I>changes to scheduled services </I><B>| bus, coach, ferry, rail, taxi, train, tram, tube, underground </B> </P>
+<P> <U> VERB + SERVICE </U><B> lay on, offer (sb), provide (sb with) </B><I>Bus companies are planning to lay on extra services. </I><B>| operate, run | extend, improve | suspend | axe, cut | restore | use | complain about </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>This bus is not in service. </I><B>| out of ~ | ~ between </B><I>The company offers direct, fast and frequent services between large towns and cities. </I><B>| ~ from, ~ to </B> </P>
+<P> <SUP> 7 </SUP> <TT> religious ceremony </TT> </P>
+<P> <U> ADJ. </U><B> church, religious | funeral, marriage, memorial, etc. | afternoon, evening, morning </B> </P>
+<P> <U> VERB + SERVICE </U><B> attend, go to | hold</B> </P>
+</DIV><DIV class="item"><P class="word"><B>service </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully, properly </B><I>The car was fully serviced last month. </I><B>| regularly </B> </P>
+<P> <U> PHRASES </U><B> have/get sth serviced </B><I>You should get all gas appliances regularly serviced. </I> </P>
+</DIV>

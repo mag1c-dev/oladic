@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>voyage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> epic, great, long | arduous, hazardous, nightmare | outward | homeward, return | maiden | ocean, sea | transatlantic, round-the-world </B> </P>
+<P> <U> VERB + VOYAGE </U><B> embark on, go on, make, set out on, undertake </B> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>Lady Franklin kept a journal during the voyage. </I><B>| on a/the ~ </B><I>There were mainly scientists on the voyage. The Titanic sank in April 1912 on its maiden voyage from Southampton to New York. </I><B>| ~ from, ~ to </B> </P>
+<P> <U> PHRASES </U><B> a voyage of discovery </B><I>(often figurative) Going to college can be a voyage of discovery. </I> </P>
+</DIV>

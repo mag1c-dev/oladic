@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>swerve </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sudden </B><I>The car made a sudden swerve to the left. </I> </P>
+<P> <U> VERB + SWERVE </U><B> make</B> </P>
+</DIV><DIV class="item"><P class="word"><B>swerve </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> sharply, violently | suddenly | away </B> </P>
+<P> <U> PREP. </U><B> across </B><I>The car veered out of control and swerved across the road. </I><B>| into </B><I>A lorry suddenly swerved into her path. </I><B>| off </B><I>The vehicle swerved off the road. </I> </P>
+<P> <U> PHRASES </U><B> swerve to avoid sb/sth </B><I>The car swerved sharply to avoid the bus. </I> </P>
+</DIV>

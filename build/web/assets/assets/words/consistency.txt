@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>consistency </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> always having the same standard/opinions, etc. </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, total | great, remarkable | internal </B> </P>
+<P> <U> QUANT. </U><B> degree, level </B> </P>
+<P> <U> VERB + CONSISTENCY </U><B> show </B><I>He has shown remarkable consistency in his exam results. </I><B>| achieve, ensure, maintain | lack </B> </P>
+<P> <U> PREP. </U><B> ~ in/of </B><I>a consistency in/of approach </I><B>| ~ with </B><I>to maintain consistency with past practice </I> </P>
+<P> <SUP> 2 </SUP> <TT> thickness/firmness of a liquid substance </TT> </P>
+<P> <U> ADJ. </U><B> thick, thin | soft, stiff | creamy, smooth | sticky | dropping </B><I>Add milk to produce a soft dropping consistency. </I><B>| correct, right </B><I>Knead the dough to the right consistency. </I> </P>
+<P> <U> VERB + CONSISTENCY </U><B> have </B><I>The mixture should have the consistency of thick cream. </I><B>| give, produce</B> </P>
+</DIV>

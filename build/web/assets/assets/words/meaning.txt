@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>meaning </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> what sth means </TT> </P>
+<P> <U> ADJ. </U><B> clear, exact, precise </B><I>The context makes the meaning clear. What is the exact meaning of this phrase? </I><B>| correct, true | original | double, hidden </B><I>There's often a double meaning in jokes and riddles. I'm sure there's no hidden meaning in what he says. </I><B>| figurative, metaphorical, symbolic | literal </B> </P>
+<P> <U> VERB + MEANING </U><B> get, grasp, understand </B><I>I can't grasp the meaning of this quotation. </I><B>| decipher, interpret, work out </B><I>Historians are trying to decipher the meaning of the documents. </I><B>| assign, attribute </B><I>She assigns a meaning to his words they just didn't have. </I><B>| bear, carry, have </B><I>Some of the symbols carry meaning and some just represent sounds. a word that has more than one meaning </I><B>| take on </B><I>The word &lsquo;gay&rsquo; took on its modern meaning in the 1960s. </I><B>| communicate, convey, express </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>ambiguity in the meaning of a phrase </I><B>| with a/the ~ </B><I>I am using the word with its original meaning. </I><B>| ~ behind </B><I>the meaning behind an event </I> </P>
+<P> <U> PHRASES </U><B> a nuance/shade of meaning </B><I>It is difficult for a non-Italian to grasp all the nuances of meaning. </I> </P>
+<P> <SUP> 2 </SUP> <TT> purpose/importance </TT> </P>
+<P> <U> ADJ. </U><B> deep, real, true </B><I>She's searching for the deeper meaning of life. </I><B>| spiritual </B><I>He found spiritual meaning through religion. </I> </P>
+<P> <U> VERB + MEANING </U><B> have </B><I>Her work no longer had any meaning for her. </I><B>| find | lose </B><I>After his death, she felt life had lost all meaning. </I><B>| give sth </B><I>Falling in love gave meaning to his life. </I> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>Young people can feel that life is without meaning. </I> </P>
+</DIV>

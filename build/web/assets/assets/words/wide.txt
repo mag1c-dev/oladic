@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>wide </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> covering a large area or range </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> enormously, exceptionally, extraordinarily, extremely, remarkably, unusually, very </B><I>a very wide range of clothing </I><B>| increasingly | fairly, quite, reasonably, relatively | sufficiently | surprisingly </B> </P>
+<P> <SUP> 2 </SUP> <TT> fully open </TT> </P>
+<P> <U> VERBS </U><B> be | fling sth, open sth, spread sth </B><I>He stood up and flung wide the door to the study. Open your mouth really wide. He spread his hands wide in appeal. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Their eyes were wide with fear. </I> </P>
+<P> <SUP> 3 </SUP> <TT> not close </TT> </P>
+<P> <U> VERBS </U><B> be | shoot | fall, land </B> </P>
+<P> <U> ADV. </U><B> very | just </B> </P>
+<P> <U> PREP. </U><B> of </B><I>Her shot fell just wide of the target. </I> </P>
+<P> <U> PHRASES </U><B> wide of the mark </B><I>(figurative) </I>(= not accurate) </B><I>Their predictions turned out to be very wide of the mark. </I> </P>
+</DIV>

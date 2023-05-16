@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>donkey </B><I>noun</I> </B> </P>
+<P> <U> VERB + DONKEY </U><B> ride </B> </P>
+<P> <U> DONKEY + VERB </U><B> bray | graze </B> </P>
+<P> <U> DONKEY + NOUN </U><B> cart | ride</B> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>finance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money needed to fund sth </TT> </P>
+<P> <U> ADJ. </U><B> cheap </B>(= borrowed at low interest) <B>| necessary | additonal, extra, further </B><I>the need to obtain additional finance </I><B>| long-term, medium-term, short-term | independent | joint | external, outside | international | private (sector), public (sector) | bridging </B><I>You may require bridging finance until the sale of your own property is completed. </I><B>| capital </B>(= money that is paid) <B>| credit, debt, loan </B>(= money that is borrowed) <B>| equity </B>(= money from issuing shares) <B>| bank </B><I>the availability of bank finance </I>(= bank loans) <I>for small businesses </I><B>| housing, mortgage </B> </P>
+<P> <U> VERB + FINANCE </U><B> get, obtain, raise </B><I>She struggled to get the necessary finance for her training. </I><B>| allocate, arrange, provide | need, require </B> </P>
+<P> <U> FINANCE + VERB </U><B> be available </B><I>the finance available to local government </I> </P>
+<P> <U> FINANCE + NOUN </U><B> company, house | sector </B><I>The banking and finance sector was booming. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Several banks are providing finance for the housing programme. </I> </P>
+<P> <U> PHRASES </U><B> a source of finance </B> </P>
+<P> <SUP> 2 </SUP> <TT> managing money </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>the world of high finance </I>(= finance involving large companies or countries) <B>| company, corporate | (local) government, public, state | consumer, personal </B><I>that most emotive of personal finance issues?taxation </I><B>| international | capital </B>(= paying money for sth) <B>| credit, debt, loan </B>(= borrowing money for sth) <B>| equity </B>(= issuing shares to get money)  </P>
+<P> <U> FINANCE + NOUN </U><B> director, minister, officer </B><I>Local government finance officers found the tax very difficult to administer. </I><B>| committee, department 3 finances </B>money available </B> </P>
+<P> <U> ADJ. </U><B> healthy, sound </B><I>Our family finances are not very healthy at the moment. </I><B>| shaky </B><I>The company's finances are looking a bit shaky. </I><B>| company | government, public, state | family, household, personal, private </B> </P>
+<P> <U> VERB + FINANCE </U><B> have </B><I>We don't have the finances to go on holiday this year. </I><B>| lack | raise </B><I>They are not sure how they will raise the finances to go on the trip. </I><B>| deal with, handle, manage, plan, run </B><I>how to plan your finances for a comfortable retirement </I><B>| get/keep in order, sort out </B><I>The company was under pressure to get its finances in order. </I><B>| boost, improve | be a drain on, put a strain on, strain, stretch </B><I>Buying a new car need not put a strain on your finances. </I> </P>
+<P> <U> FINANCE + VERB </U><B> be in a mess </B><I>Their finances are in a mess: they plan to call in an accountant. </I> </P>
+<P> <U> PHRASES </U><B> the state of sb's finances </B>&gt; Special page at BUSINESS </B> </P>
+</DIV><DIV class="item"><P class="word"><B>finance </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> entirely, wholly | largely, mainly | partially, partly | privately, publicly </B><I>The new roads will be financed privately. </I><B>| jointly </B><I>financed jointly by the British and French governments </I><B>| directly | properly </B><I>the introduction of a properly financed dog warden scheme </I> </P>
+<P> <U> VERB + FINANCE </U><B> help (to) | be needed to, be required to </B><I>the </I>&pound;</B><I>37 million needed to finance the redevelopment </I><B>| be used to</B> </P>
+</DIV>

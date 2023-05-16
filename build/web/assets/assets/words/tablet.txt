@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tablet </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> pill </TT> </P>
+<P> <U> ADJ. </U><B> Ecstasy, paracetamol, saccharin, sleeping, vitamin, etc. </B><I>Take two paracetamol tablets with water. </I> </P>
+<P> <U> VERB + TABLET </U><B> take </B> </P>
+<P> <U> PHRASES </U><B> in tablet form </B><I>The drug is now available in tablet and capsule form. </I> </P>
+<P> <SUP> 2 </SUP> <TT> slab </TT> </P>
+<P> <U> ADJ. </U><B> clay, stone, wax, etc. | commemorative, memorial </B><I>We had a memorial tablet put up on the church wall. </I> </P>
+</DIV>

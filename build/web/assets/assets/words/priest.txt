@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>priest </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in Christianity </TT> </P>
+<P> <U> ADJ. </U><B> local, parish, village | celibate | married | woman | Anglican, (Roman) Catholic, Jesuit, etc. </B> </P>
+<P> <U> VERB + PRIEST </U><B> become, be ordained (as) </B> </P>
+<P> <U> PRIEST + VERB </U><B> celebrate sth, officiate (at sth) </B><I>the priest who was celebrating Mass </I> </P>
+<P> <SUP> 2 </SUP> <TT> in some other religions </TT> </P>
+<P> <U> ADJ. </U><B> chief, high </B><I>a ceremony led by the High Priest (figurative) He was considered the high priest of finance at that time. </I><B>| temple | Brahmin, Buddhist, etc.</B> </P>
+</DIV>

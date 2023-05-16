@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>faculty </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> natural ability of the body/mind </TT> </P>
+<P> <U> ADJ. </U><B> higher </B><I>the evolution of man's higher faculties </I><B>| cognitive, intellectual, mental, rational </B><I>He is not in full possession of all his mental faculties. </I><B>| creative, critical, imaginative, moral | human </B> </P>
+<P> <U> VERB + FACULTY </U><B> be in possession of, have </B><I>She is over eighty but still has all her faculties. </I><B>| lose | develop </B><I>trying to develop the student's critical faculties </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>our faculty for picking up speech even in noisy environments </I> </P>
+<P> <SUP> 2 </SUP> <TT> university department </TT> </P>
+<P> <U> ADJ. </U><B> Arts, English, law, medical, etc. </B> </P>
+<P> <U> FACULTY + NOUN </U><B> board, head, member </B> </P>
+<P> <U> PREP. </U><B> across ~ </B><I>collaboration across faculties </I><B>| in a/the ~ </B><I>students who are doing degrees in the Arts Faculty </I><B>| ~ of </B><I>the Faculty of Arts </I> </P>
+</DIV>

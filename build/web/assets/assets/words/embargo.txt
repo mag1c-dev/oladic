@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>embargo </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, strict, total | selective | international | economic | arms, oil, trade </B> </P>
+<P> <U> VERB + EMBARGO </U><B> impose, place, put | enforce, tighten | lift </B><I>The government has agreed to lift the embargo imposed ten years ago. </I><B>| break, violate </B><I>We knew the arms embargo was being broken. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>the international embargo against the country </I><B>| ~ on </B><I>a strict embargo on oil imports </I> </P>
+</DIV>

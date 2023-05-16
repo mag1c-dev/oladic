@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>marble </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cool </B><I>The hotel is traditionally furnished, with cool marble floors. </I><B>| coloured | veined | polished | carved </B> </P>
+<P> <U> QUANT. </U><B> block, slab </B> </P>
+<P> <U> VERB + MARBLE </U><B> carve (sth from/in), make sth from/in/(out) of </B><I>a statue of Cupid carved in black marble </I><B>| quarry </B> </P>
+<P> <U> MARBLE + NOUN </U><B> quarry </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>sculptures in polished white marble </I> </P>
+</DIV>

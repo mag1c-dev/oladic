@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ship </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> wooden | enemy | cargo, container, cruise, merchant, pirate, sailing, supply </B> </P>
+<P> <U> QUANT. </U><B> fleet </B> </P>
+<P> <U> VERB + SHIP </U><B> board, come/go aboard, come/go on board | sail | steer | moor </B><I>The ship is now permanently moored on the Thames in London. </I><B>| build, launch | load (sth onto), unload (sth from) </B><I>The dockers were loading the cargo onto the ship. </I><B>| christen, name | abandon </B><I>The captain gave the order to abandon ship. </I><B>| go down with </B><I>The captain went down with his ship. </I><B>| scuttle, sink, torpedo | jump </B><I>Some of the crew jumped ship </I>(= left it illegally) </B><I>at Gibraltar and disappeared. </I> </P>
+<P> <U> SHIP + VERB </U><B> carry sb/sth </B><I>a ship carrying more than a thousand people </I><B>| arrive, dock | anchor, be/lie at anchor </B><I>Their ship lay at anchor at the mouth of the harbour. </I><B>| depart, go, leave, put to sea, sail, set sail | be wrecked, collide with sth, hit sth, run aground | capsize | go down, sink </B> </P>
+<P> <U> PREP. </U><B> aboard/on/on board a/the ~ </B><I>They are now on a ship bound for New York. </I><B>| by ~ </B><I>There was no time to send the goods by ship. </I><B>| ~ to/(bound) for </B> </P>
+<P> <U> PHRASES </U><B> the bow/stern of a ship, the captain/crew of a ship, the deck of a ship</B> </P>
+</DIV>

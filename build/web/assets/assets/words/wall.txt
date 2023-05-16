@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>wall </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | long, short | thick, thin | massive | back, front, side | bare, blank </B><I>to stare at a blank wall </I><B>| exterior, external, outer, outside | inner, inside, interior, internal | adjoining | dividing, partition, party | boundary, perimeter | retaining </B><I>They built a retaining wall around the pond. </I><B>| load-bearing </B><I>If a load-bearing wall is weakened, the building could fall down. </I><B>| pannelled | bathroom, kitchen, etc. | brick, masonry, stone, etc. | city, garden, harbour, sea </B> </P>
+<P> <U> VERB + WALL </U><B> build, erect, put up | demolish, destroy, pull down | climb (over), scale </B><I>The burglars must have scaled the side wall. </I><B>| jump down from, jump over | cover, line, paint, paper, plaster </B><I>She covered her walls with pictures of film stars. </I> </P>
+<P> <U> WALL + VERB </U><B> stand | enclose sth, surround sth | face sth </B><I>the wall facing the door </I> </P>
+<P> <U> WALL + NOUN </U><B> clock, light | cupboard, unit | covering, decoration, hanging, tile </B> </P>
+<P> <U> PREP. </U><B> against a/the ~ </B><I>She leant against the wall. </I><B>| behind a/the ~ </B><I>Nobody can see behind the wall. </I><B>| on a/the ~ </B><I>She hung the photos on the wall. </I><B>| ~ along </B><I>the wall along the seafront </I><B>| ~ around/round </B><I>high walls around the prison </I><B>| ~ of </B><I>(figurative) a solid wall of fog </I> </P>
+</DIV>

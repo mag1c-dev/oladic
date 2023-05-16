@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>regret </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, bitter, deep, genuine, great, profound, real, sincere </B><I>Her biggest regret was that she had never had children. She expressed deep regret at the incident. </I> </P>
+<P> <U> QUANT. </U><B> pang, stab, tinge, twinge </B> </P>
+<P> <U> VERB + REGRET </U><B> feel, have </B><I>I have absolutely no regrets about resigning. </I><B>| express, show </B> </P>
+<P> <U> PREP. </U><B> to your ~ </B><I>To my regret, I lost touch with her years ago. </I><B>| with ~ </B><I>It is with deep regret that we announce the death of Mr Fred Fisher. </I><B>| without ~ </B><I>She thought of them without regret. </I><B>| ~ about/over </B><I>She showed no regret about leaving her country. </I><B>| ~ at </B><I>my sincere regret at what has happened </I><B>| ~ for </B><I>She enjoyed living alone, but felt a tiny pang of regret for her mother's cooking. </I> </P>
+<P> <U> PHRASES </U><B> expression of regret </B><I>The police offered no expression of regret at his wrongful arrest. </I><B>| a matter for/of regret </B><I>I never learned to play an instrument and that's a matter of some regret. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>regret </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> bitterly, deeply, greatly, really, very much </B><I>The president said that his country deeply regretted the incident. </I><B>| rather | immediately, instantly </B><I>I immediately regretted not asking for his name and address. </I><B>| later </B><I>Pierre told them some things he later regretted telling. </I><B>| never </B> </P>
+<P> <U> VERB + REGRET </U><B> begin to | come to, live to </B><I>She knew that she would live to regret this decision. </I> </P>
+</DIV>

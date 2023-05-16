@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>echo </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> distant, faint | clear, distinct, strong </B><I>(often figurative) There are distinct echoes of Elvis Presley in his vocal style. </I><B>| hollow | returning </B><I>The bat compares the sound of its cry with the sound of the returning echo. </I> </P>
+<P> <U> VERB + ECHO </U><B> hear, listen for/to </B><I>We could just hear a faint echo. </I><B>| produce, send back, send out </B><I>Their footsteps on the bare boards sent out hollow echoes. </I><B>| find </B><I>(figurative) The political upheavals find an echo in the art of the time. </I> </P>
+<P> <U> ECHO + VERB </U><B> sound </B><I>A faint echo sounded in the cave. </I><B>| die (away) </B><I>The echo slowly died away. </I><B>| come back, return </B><I>An echo came back from the walls of the building. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>the echo from a brick wall </I> </P>
+</DIV><DIV class="item"><P class="word"><B>echo </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> come back as an echo </TT> </P>
+<P> <U> ADV. </U><B> faintly | loudly | eerily, strangely, weirdly | flatly, hollowly </B><I>The sound echoed hollowly through the tall empty house. </I><B>| still | back </B><I>Their voices echoed back across the water. </I> </P>
+<P> <U> VERB + ECHO </U><B> seem to </B> </P>
+<P> <U> PREP. </U><B> across </B><I>The protest seemed to echo across the room. </I><B>| around/round </B><I>His voice echoed around the room. </I><B>| down </B><I>Her footsteps echoed down the corridor. </I><B>| in </B><I>Her screams still echoed in his ears. </I><B>| off </B><I>The call echoed off the walls of the cave. </I><B>| through </B><I>Laughter echoed through the house. </I><B>| with </B><I>The great hall echoed with laughter. </I> </P>
+<P> <SUP> 2 </SUP> <TT> repeat/agree with sb/sth </TT> </P>
+<P> <U> ADV. </U><B> exactly | faithfully, wholeheartedly | widely </B><I>an opinion that is widely echoed in the tabloid press </I><B>| clearly | merely, only, simply </B><I>In his statement, the minister merely echoed the views of the chief police officer. </I><B>| disbelievingly, incredulously </B><I>&lsquo;He's gone!&rsquo; Viv echoed incredulously. </I> </P>
+<P> <U> VERB + ECHO </U><B> seem to </B><I>They had ideas which seem to echo our own. </I> </P>
+</DIV>

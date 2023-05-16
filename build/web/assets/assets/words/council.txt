@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>council </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> local government </TT> </P>
+<P> <U> ADJ. </U><B> local | metropolitan, rural, urban | borough, city, community, county, district, municipal, parish, provincial, regional, town | elected </B> </P>
+<P> <U> VERB + COUNCIL </U><B> elect | control </B><I>Many county councils are now controlled by the Conservatives. </I><B>| apply to </B><I>Students should apply to their local council for a grant. </I> </P>
+<P> <U> COUNCIL + NOUN </U><B> elections | member | meeting | chamber | tax </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She's on the borough council. </I> </P>
+<P> <U> PHRASES </U><B> a seat on a council </B><I>Our party won the majority of seats on the city councils. </I> </P>
+<P> <SUP> 2 </SUP> <TT> group chosen to give advice, money, etc. </TT> </P>
+<P> <U> ADJ. </U><B> advisory, funding, research | arts, sports </B> </P>
+<P> <U> VERB + COUNCIL </U><B> create, establish, form, found, set up, start | apply to </B><I>As a struggling young composer she applied to the Scottish Arts Council for a grant. </I> </P>
+<P> <U> COUNCIL + VERB </U><B> award sb sth, give sb sth </B><I>In Britain, the Arts Council gives grants to theatres. </I> </P>
+<P> <U> COUNCIL + NOUN </U><B> member </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>setting up a new council for the arts </I></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+</DIV>

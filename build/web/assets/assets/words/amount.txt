@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>amount </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, copious ~s, enormous, huge, large, massive, significant, substantial, tremendous, vast </B><I>a considerable amount of money He drank copious amounts of beer. </I><B>| disproportionate, excessive, inordinate | increasing | fair </B><I>There was a fair amount of traffic on the roads. </I><B>| limited, minute, moderate, negligible, small, tiny | full, total </B><I>You must pay back the full amount of money that you owe. </I><B>| maximum, minimum </B><I>He aimed to cause the maximum amount of embarrassment. </I><B>| exact | equal, equivalent </B><I>Mix the colours in equal amounts. an amount equivalent to 0.3% per annum </I><B>| varying </B><I>Tap water also contains varying amounts of rust and grit. </I> </P>
+<P> <U> VERB + AMOUNT </U><B> double, increase | decrease, limit, reduce </B><I>They want to limit the amount of cash available. </I> </P>
+<P> <U> AMOUNT + VERB </U><B> double, increase </B><I>The amount of reclaimed glass used in industry has doubled in the last five years. </I><B>| decrease, fall </B><I>The average amount of pocket money received by teenagers fell to </I>&pound;</B><I>4 a week this year. </I> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV>

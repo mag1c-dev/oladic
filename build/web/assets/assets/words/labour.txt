@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>labour </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> work </TT> </P>
+<P> <U> ADJ. </U><B> manual, physical | forced, hard </B><I>He was sentenced to four years hard labour for his crime. </I> </P>
+<P> <U> VERB + LABOUR </U><B> withdraw </B><I>The miners are threatening to withdraw their labour. </I> </P>
+<P> <U> LABOUR + NOUN </U><B> market </B><I>an increasingly competitive labour market </I> </P>
+<P> <SUP> 2 </SUP> <TT> workers </TT> </P>
+<P> <U> ADJ. </U><B> cheap | casual | skilled, unskilled | child, migrant, slave </B><I>It is thought that Stonehenge was built using slave labour. </I> </P>
+<P> <U> LABOUR + NOUN </U><B> force </B><I>the size of the labour force </I><B>| cost/costs | relations </B> </P>
+<P> <SUP> 3 </SUP> <TT> giving birth </TT> </P>
+<P> <U> ADJ. </U><B> difficult, easy | long, short </B><I>The baby was born after a long labour. </I> </P>
+<P> <U> VERB + LABOUR </U><B> go into </B><I>She went into labour two weeks early. </I><B>| induce </B><I>Labour was induced when the baby was ten days overdue. </I> </P>
+<P> <U> LABOUR + NOUN </U><B> room, ward | pains </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She was in labour for ten hours. </I> </P>
+</DIV>

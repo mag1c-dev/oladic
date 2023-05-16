@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>round </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> series of events </TT> </P>
+<P> <U> ADJ. </U><B> ceaseless, endless, long </B><I>Life to him was one long round of parties. </I><B>| fresh, further, new </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a fresh round of peace talks </I> </P>
+<P> <SUP> 2 </SUP> <TT> regular series of visits, etc. </TT> </P>
+<P> <U> ADJ. </U><B> daily, weekly | milk, paper </B> </P>
+<P> <U> VERB + ROUND </U><B> do, make </B><I>The milkman does his round very early. </I> </P>
+<P> <U> PREP. </U><B> on sb's ~ </B><I>a doctor on his round </I> </P>
+<P> <SUP> 3 </SUP> <TT> number of drinks </TT> </P>
+<P> <U> VERB + ROUND </U><B> buy, order </B><I>I bought the last round. </I> </P>
+<P> <U> PHRASES </U><B> It's my round. </B>(= It's my turn to buy the drinks.), <B>a round of drinks </B><I>We just had time for one more round of drinks. </I> </P>
+<P> <SUP> 4 </SUP> <TT> part of a competition </TT> </P>
+<P> <U> ADJ. </U><B> first, second, etc. </B><I>Italy qualified for the second round of the tournament by beating Germany. </I><B>| opening, preliminary | final | qualifying </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Australia were knocked out in the second round. </I> </P>
+<P> <SUP> 5 </SUP> <TT> (in golf) one game </TT> </P>
+<P> <U> VERB + ROUND </U><B> have, play, shoot </B> </P>
+<P> <U> PHRASES </U><B> a round of golf </B><I>We had a good round of golf today. </I> </P>
+<P> <SUP> 6 </SUP> <TT> bullet/bullets </TT> </P>
+<P> <U> ADJ. </U><B> live | blank </B> </P>
+<P> <U> VERB + ROUND </U><B> fire </B><I>The soldiers fired several blank rounds into the crowd. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>round </B><I>verb </I><B>PHRASAL VERBS round sth off </B> </P>
+<P> <U> ADV. </U><B> nicely </B><I>A coffee would round the meal off nicely. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>We rounded off the day with a picnic. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>hammering </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> noise </TT> </P>
+<P> <U> ADJ. </U><B> loud </B> </P>
+<P> <U> VERB + HAMMERING </U><B> hear </B> </P>
+<P> <U> PREP. </U><B> ~ at/on </B><I>a loud hammering on the door </I> </P>
+<P> <SUP> 2 </SUP> <TT> very bad defeat </TT> </P>
+<P> <U> ADJ. </U><B> real </B> </P>
+<P> <U> VERB + HAMMERING </U><B> give sb | take </B><I>They took a real hammering at the hands of their opponents. </I> </P>
+</DIV>

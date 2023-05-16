@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>pet </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> domestic, family, household </B> </P>
+<P> <U> VERB + PET </U><B> have, keep </B> </P>
+<P> <U> PET + NOUN </U><B> shop | cat, dog, rabbit, etc. | owner | food</B> </P>
+</DIV>

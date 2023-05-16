@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>registry </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> public | private | central </B><I>a central registry for all applicants </I><B>| district, national, regional | land, companies' </B><I>The deed of transfer must be entered at the land registry. </I><B>| land </B><I>fees for land registry </I> </P>
+<P> <U> VERB + REGISTRY </U><B> enter sth at/in, lodge sth at/in, register sth at </B><I>The certificate will have to be lodged at the registry. </I> </P>
+<P> <U> REGISTRY + VERB </U><B> have sth, hold sth, keep sth </B><I>The registry holds records of all major operations. </I> </P>
+<P> <U> REGISTRY + NOUN </U><B> fee | office | staff </B> </P>
+<P> <U> PHRASES </U><B> at a/the ~ </B><I>The map is kept at the local land registry. </I> </P>
+</DIV>

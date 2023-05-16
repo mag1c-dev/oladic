@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>defendant </B><I>noun </I> </P>
+<P> <U> VERB + DEFENDANT </U><B> charge </B><I>The defendant was charged with disturbing the peace. </I><B>| sue </B><I>a defendant being sued by an insurance company </I><B>| convict, find guilty </B><I>The defendant was convicted of murder. The jury found the defendant guilty on all counts. </I><B>| sentence </B><I>The defendant was sentenced to three years in prison. </I><B>| acquit, find not guilty | release </B> </P>
+<P> <U> DEFENDANT + VERB </U><B> plead guilty/not guilty </B> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>the plaintiff's claim against the defendant </I><B>| for the ~ </B><I>Several witnesses gave evidence for the defendant. </I><B>| ~ in </B><I>a defendant in bankruptcy proceedings </I> </P>
+</DIV>

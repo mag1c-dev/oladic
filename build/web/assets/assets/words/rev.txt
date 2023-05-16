@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>rev </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high | low </B><I>The engine is almost silent at low revs. </I><B>| engine </B> </P>
+<P> <U> VERB + REV </U><B> do </B><I>On average the engine does 4,000 revs per minute. </I> </P>
+<P> <U> REV + NOUN </U><B> counter </B> </P>
+<P> <U> PHRASES </U><B> revs a/per minute </B>&gt; See <A HREF="revolution_noun.htm">REVOLUTION</A> </B> </P>
+</DIV>

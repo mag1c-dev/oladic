@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>ash </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> powder that is left after sth has burnt </TT> </P>
+<P> <U> ADJ. </U><B> glowing, hot, red-hot, smouldering </B><I>the glowing ashes of the dying fire </I><B>| cold, dead </B><I>The fire had died to cold ashes. </I><B>| fine </B><I>Fine ash covered the hill near the volcano. </I><B>| bonfire, cigarette, coal, volcanic, wood </B> </P>
+<P> <U> QUANT. </U><B> cloud </B><I>A cloud of ash rose from the volcano. </I> </P>
+<P> <U> VERB + ASH </U><B> flick, tap (used about cigarette ash) </B><I>He flicked ash into the ashtray. </I><B>| reduce sth to, turn to ~es </B><I>a village reduced to ashes by war (figurative) All her dreams had turned to ashes. </I> </P>
+<P> <U> ASH + VERB </U><B> fall </B><I>Ash from the volcano fell over a wide area. </I> </P>
+<P> <U> PHRASES </U><B> rise from the ashes </B><I>(figurative) The party had risen, like a phoenix, from the ashes of electoral disaster. </I></P>
+<P> <SUP> 2 </SUP> <TT> ashes: remains of a dead body  </TT> </P>
+<P> <U> VERB + ASH </U><B> scatter </B><I>His ashes were scattered on his beloved farm. </I> </P>
+</DIV>

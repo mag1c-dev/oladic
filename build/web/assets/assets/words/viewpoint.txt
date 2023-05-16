@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>viewpoint </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> alternative, contrasting, different, differing, opposite </B><I>The magazine likes to publish articles with alternative viewpoints. </I><B>| narrow </B><I>I find his viewpoint on this matter very narrow. </I><B>| extreme | personal | ideological, political | commercial | scientific </B> </P>
+<P> <U> VERB + VIEWPOINT </U><B> express, present, put forward | adopt, take </B><I>He always takes the opposite viewpoint to the rest of the group. </I><B>| share </B><I>I understand her viewpoint, but do not share it. </I><B>| support </B><I>He quoted recent test results to support his viewpoint. </I><B>| look at/see/view sth from </B><I>Seen from the student's viewpoint, the oral exam can be frightening. </I><B>| see, understand </B> </P>
+<P> <U> PREP. </U><B> from the ~ of </B><I>From the viewpoint of teachers, there has been a great increase in work. </I> </P>
+<P> <U> PHRASES </U><B> from a purely &hellip; viewpoint </B><I>From a purely commercial viewpoint, the film was a failure. </I> </P>
+</DIV>

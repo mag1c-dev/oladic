@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cinema </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place where you go to see a film </TT> </P>
+<P> <U> ADJ. </U><B> packed </B><I>The cinema was packed every night for &lsquo;Shrek&rsquo;. </I><B>| multiplex </B><I>a new multiplex cinema on the edge of town </I> </P>
+<P> <U> VERB + CINEMA </U><B> go to </B><I>How often do you go to the cinema? </I><B>| be on at </B><I>What's on at the cinema tonight? </I> </P>
+<P> <U> CINEMA + NOUN </U><B> screen | audience | advertising, commercial | chain </B> </P>
+<P> <SUP> 2 </SUP> <TT> films in general </TT> </P>
+<P> <U> ADJ. </U><B> commercial, Hollywood, mainstream, popular | art, arthouse, independent | avant-garde, modernist, realist, social | silent </B><I>She started making films in the last years of silent cinema. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>gesture </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> movement that expresses sth </TT> </P>
+<P> <U> ADJ. </U><B> dramatic, expansive, expressive, extravagant, flamboyant, melodramatic, sweeping, theatrical </B><I>She made an expansive gesture with her arms. </I><B>| abrupt | careless, vague </B><I>He responded with a vague gesture in the direction of the pub. </I><B>| obscene, rude | angry, defiant, threatening | dismissive, impatient, irritable | helpless | imperious | placatory </B> </P>
+<P> <U> VERB + GESTURE </U><B> make </B><I>The children made rude gestures at them. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>They communicate entirely by gesture. </I><B>| in a ~ </B><I>He waved his arms in a melodramatic gesture. </I><B>| with a ~ </B><I>She waved us away with an impatient gesture. </I><B>| ~ of </B><I>a gesture of despair </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that shows other people what you think/feel </TT> </P>
+<P> <U> ADJ. </U><B> nice </B><I>I thought it was a nice gesture to send everyone a card. </I><B>| bold </B><I>a bold gesture of reconciliation </I><B>| dramatic, extravagant, grand </B><I>He had the respect of his people without the need for grand gestures. </I><B>| conciliatory, friendly, goodwill | charitable, philanthropic | empty, small, symbolic, token </B><I>Words and empty gestures are not enough?we demand action! a token gesture of their good intentions </I><B>| futile | political </B> </P>
+<P> <U> PREP. </U><B> as a ~ </B><I>Several hostages were released as a goodwill gesture. </I><B>| in a ~ </B><I>In a dramatic gesture, the prime minister refused to attend the meeting. </I><B>| ~ against </B><I>The invasion attempt was intended as a political gesture against his opponents. </I><B>| ~ of </B><I>His gift was a gesture of friendship. </I><B>| ~ towards </B><I>The president's speech was seen as a conciliatory gesture towards former enemies. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>gesture </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> vaguely | wildly | expansively | abruptly, impatiently | helplessly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>She gestured at him to step back. </I><B>| about/around </B><I>He gestured around the room, lost for words. </I><B>| for </B><I>He gestured abruptly for Virginia to get in the car. </I><B>| to </B><I>Mrs Davis gestured to the waiter. </I><B>| towards </B><I>He gestured vaguely towards the house. </I><B>| with </B><I>gesturing wildly with her hands </I> </P>
+</DIV>

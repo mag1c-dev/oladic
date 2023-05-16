@@ -1,0 +1,27 @@
+
+<DIV class="item"><P class="word"><B>nail </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on the fingers/toes </TT> </P>
+<P> <U> ADJ. </U><B> long | short | sharp | healthy, strong | brittle | broken | manicured, well-kept | painted, polished </B>(See also <B>fingernail </B>and <B>toenail.) </B> </P>
+<P> <U> VERB + NAIL </U><B> bite, chew | do, manicure </B><I>Do your nails after your bath as they will be softer. </I><B>| scrub | clip, cut, trim | file | paint, polish, varnish | dig </B><I>He screamed as she dug her nails into his shoulders. </I> </P>
+<P> <U> NAIL + VERB </U><B> break, split | bite/dig into sth </B> </P>
+<P> <U> NAIL + NOUN </U><B> brush | clippers, scissors | file | polish, varnish </B> </P>
+<P> <U> PREP. </U><B> under your ~ </B><I>There was dirt under his nails. </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of metal </TT> </P>
+<P> <U> ADJ. </U><B> long | small | six-inch, etc. | loose | protruding | bent | rusty | brass, iron, etc. | masonry, upholstery, wood </B> </P>
+<P> <U> VERB + NAIL </U><B> drive (in), hammer (in), knock (in) | pull out, remove </B> </P>
+<P> <U> NAIL + NOUN </U><B> head | hole | bomb</B> </P>
+</DIV><DIV class="item"><P class="word"><B>nail </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on the fingers/toes </TT> </P>
+<P> <U> ADJ. </U><B> long | short | sharp | healthy, strong | brittle | broken | manicured, well-kept | painted, polished </B>(See also <B>fingernail </B>and <B>toenail.) </B> </P>
+<P> <U> VERB + NAIL </U><B> bite, chew | do, manicure </B><I>Do your nails after your bath as they will be softer. </I><B>| scrub | clip, cut, trim | file | paint, polish, varnish | dig </B><I>He screamed as she dug her nails into his shoulders. </I> </P>
+<P> <U> NAIL + VERB </U><B> break, split | bite/dig into sth </B> </P>
+<P> <U> NAIL + NOUN </U><B> brush | clippers, scissors | file | polish, varnish </B> </P>
+<P> <U> PREP. </U><B> under your ~ </B><I>There was dirt under his nails. </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of metal </TT> </P>
+<P> <U> ADJ. </U><B> long | small | six-inch, etc. | loose | protruding | bent | rusty | brass, iron, etc. | masonry, upholstery, wood </B> </P>
+<P> <U> VERB + NAIL </U><B> drive (in), hammer (in), knock (in) | pull out, remove </B> </P>
+<P> <U> NAIL + NOUN </U><B> head | hole | bomb</B> </P>
+</DIV><DIV class="item"><P class="word"><B>nail varnish (</B><I>also </I><B>nail polish) </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chipped, cracked </B> </P>
+<P> <U> VERB + NAIL VARNISH </U><B> have on, wear </B><I>She wore red nail varnish. </I><B>| apply, put on | remove, take off</B> </P>
+</DIV>

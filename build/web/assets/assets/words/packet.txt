@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>packet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> empty | cereal, cigarette, cornflake, crisp, seed | pay, wage </B><I>a weekly pay packet </I>(= wage) </B><I>of </I>&pound;</B><I>200 </I> </P>
+<P> <U> VERB + PACKET </U><B> open, undo | take sth from/out of </B> </P>
+<P> <U> PACKET + VERB </U><B> contain sth </B><I>a packet containing seeds </I> </P>
+<P> <U> PACKET + NOUN </U><B> soup </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Follow the instructions on the packet. </I><B>| ~ of </B><I>a packet of crisps </I> </P>
+</DIV>

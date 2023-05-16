@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>observer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> casual </B><I>To the casual observer, it would have looked like any other domestic argument. </I><B>| informed | accurate, acute, astute, careful, experienced, keen, seasoned, shrewd | sceptical | sympathetic | detached, impartial, neutral | external, independent, outside </B><I>Independent observers will monitor the elections. </I><B>| foreign, international | American, Western, etc. | industry, military </B><I>Some military observers fear the US could get entangled in another war. </I><B>| human </B> </P>
+<P> <U> VERB + OBSERVER </U><B> send </B><I>sending observers to check the conduct of the elections </I><B>| attend sth as | impress, puzzle, strike, surprise </B><I>The suddenness of this move surprised many observers. </I> </P>
+<P> <U> OBSERVER + VERB </U><B> attend sth </B><I>The talks were attended by observers from eight Arab countries and Israel. </I><B>| monitor sth </B> </P>
+<P> <U> OBSERVER + NOUN </U><B> status </B><I>The country was granted observer status at the summit. </I> </P>
+<P> <U> PREP. </U><B> as an ~ </B><I>I attended the conference as an observer. </I> </P>
+</DIV>

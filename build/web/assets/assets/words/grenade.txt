@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>grenade </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hand, smoke, stun | rocket-propelled | live </B> </P>
+<P> <U> VERB + GRENADE </U><B> be armed with, carry, have </B><I>The hijackers were armed with hand grenades. </I><B>| hold </B><I>She was holding the grenade above her head, ready to throw. </I><B>| hurl, lob, throw, toss </B><I>I tossed the grenade through the open door. </I><B>| pull the pin out of </B> </P>
+<P> <U> GRENADE + VERB </U><B> fall, land | explode, go off </B> </P>
+<P> <U> GRENADE + NOUN </U><B> attack | launcher</B> </P>
+</DIV>

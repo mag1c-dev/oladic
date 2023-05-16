@@ -1,0 +1,28 @@
+
+<DIV class="item"><P class="word"><B>play </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> activity done for fun </TT> </P>
+<P> <U> ADJ. </U><B> outdoor | creative, imaginative, pretend </B> </P>
+<P> <U> PLAY + NOUN </U><B> area | equipment | scheme </B><I>The local council runs some good play schemes. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>Children spend hours at play. </I><B>| in ~ </B><I>I only said it in play </I>(= not seriously)</B><I>. </I> </P>
+<P> <SUP> 2 </SUP> <TT> drama </TT> </P>
+<P> <U> ADJ. </U><B> one-act | radio, television | musical | miracle, morality, mystery, nativity, passion </B><I>The children always perform a nativity play every Christmas. </I> </P>
+<P> <U> VERB + PLAY </U><B> review </B><I>The play is reviewed in most of today's papers. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a play about teenage runaways </I></P>
+<a href="/collocation-tag/performing" class="tag">Learn more about PERFORMING</a>
+<P> <SUP> 3 </SUP> <TT> in sport </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good | fair | dangerous, dirty, foul, rough, violent </B><I>He was sent off for foul play. </I> </P>
+<P> <U> VERB + PLAY </U><B> stop </B><I>Rain stopped play 40 minutes into the match. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The ball is still in play. </I><B>| out of ~ </B><I>He kicked the ball out of play. </I> </P>
+<P> <U> PHRASES </U><B> at close/start of play (in cricket) </B><I>At close of play he had scored 38 not out. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>play </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> of children </TT> </P>
+<P> <U> VERB + PLAY </U><B> let sb </B><I>The other children wouldn't let him play. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>Let's play at pirates! </I><B>| with </B><I>a little girl playing with her toys </I> </P>
+<P> <SUP> 2 </SUP> <TT> game/sport </TT> </P>
+<P> <U> ADV. </U><B> brilliantly, excellently, superbly, well | badly </B> </P>
+<P> <U> VERB + PLAY </U><B> learn to | teach sb to | be difficult to, be easy to | see sb, watch sb </B> </P>
+<P> <U> PREP. </U><B> against </B><I>United are difficult to play against. </I><B>| at </B><I>I've never played John at tennis. </I><B>| for </B><I>He plays for Aston Villa. </I><B>| in </B><I>She has played in every match this season. </I><B>| with </B><I>playing cards with her mother </I> </P>
+<P> <SUP> 3 </SUP> <TT> music </TT> </P>
+<P> <U> ADV. </U><B> brilliantly, excellently, superbly, well | badly | live </B><I>The band will be playing live in the studio. </I> </P>
+<P> <U> VERB + PLAY </U><B> learn to </B><I>learning to play the violin </I><B>| teach sb to | be easy to, be difficult to </B><I>a piece that is relatively easy to play </I><B>| hear sb </B><I>Have you ever heard her play? </I> </P>
+</DIV>

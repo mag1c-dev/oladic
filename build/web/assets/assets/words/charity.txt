@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>charity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> local, national | registered | private | animal, cancer, conservation, educational, housing, medical </B> </P>
+<P> <U> VERB + CHARITY </U><B> donate (money) to, give (money) to, support | go to </B><I>All the proceeds from the sale will go to charity. </I><B>| ask for | accept </B><I>They are proud people who don't accept charity. </I><B>| depend on, live on </B><I>They have no money and are forced to live on charity. </I> </P>
+<P> <U> CHARITY + NOUN </U><B> appeal, auction, ball, concert, event, match, show | school | shop | work | worker </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>The school raised over a hundred pounds for charity. </I><B>| ~ for </B><I>a charity for sick children </I> </P>
+<P> <U> PHRASES </U><B> an act of charity</B> </P>
+</DIV>

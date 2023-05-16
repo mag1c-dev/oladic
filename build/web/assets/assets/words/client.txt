@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>client </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big </B><I>The company needs to focus on its biggest clients. </I><B>| new | potential, prospective | established, existing, regular | business, corporate | private </B> </P>
+<P> <U> VERB + CLIENT </U><B> serve </B><I>A new branch has been opened to serve clients in East London. </I><B>| act for, represent | take on </B><I>She's so busy that she's not taking on any new clients. </I><B>| attract </B><I>a campaign to attract new clients </I> </P>
+<P> <U> PREP. </U><B> on behalf of ~ </B><I>On behalf of my client, I would like to remind you of your obligations in this matter. </I> </P>
+</DIV>

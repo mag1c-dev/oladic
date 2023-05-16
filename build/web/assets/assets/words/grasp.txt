@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>grasp </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> holding sth </TT> </P>
+<P> <U> ADJ. </U><B> firm, strong </B><I>She felt a firm grasp on her hand. </I> </P>
+<P> <U> VERB + GRASP </U><B> slip from </B><I>As she jumped forward, the ball slipped from her grasp. </I><B>| prise sth from, rip sth from, snatch sth from, wrench sth from, wrest sth from </B><I>She wrenched the bottle from his grasp. </I> </P>
+<P> <U> PREP. </U><B> beyond your ~ </B><I>The key was on a high shelf, just beyond her grasp. </I><B>| in your ~ </B><I>He kept the letter firmly in his grasp. </I><B>| from sb's ~ </B><I>The robber tried to free the case from her grasp. </I><B>| out of sb's ~ </B><I>She kicked the gun out of his grasp. </I><B>| within (your) ~ </B><I>(often figurative) Just when victory seemed within grasp, the referee blew his whistle. </I> </P>
+<P> <SUP> 2 </SUP> <TT> understanding </TT> </P>
+<P> <U> ADJ. </U><B> fine, firm, good, impressive, proper, sound | limited, poor | intellectual </B><I>The task was beyond the intellectual grasp of some of the students. </I><B>| intuitive </B><I>We have no intuitive grasp of the immensity of time. </I> </P>
+<P> <U> VERB + GRASP </U><B> have | get </B><I>Working with native speakers helped me get a good grasp of the language. </I> </P>
+<P> <U> PREP. </U><B> beyond your ~ </B><I>These ideas are all beyond his grasp. </I><B>| within your ~ | ~ of </B><I>a poor grasp of mathematics </I> </P>
+</DIV><DIV class="item"><P class="word"><B>grasp </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> take hold of sb/sth suddenly and firmly </TT> </P>
+<P> <U> ADV. </U><B> firmly, tightly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>Her hands were grasping at his coat. </I><B>| by </B><I>She grasped him tightly by the wrist. </I> </P>
+<P> <U> PHRASES </U><B> grasp hold of sb/sth </B><I>She grasped hold of the banister to support herself. </I> </P>
+<P> <SUP> 2 </SUP> <TT> understand sth </TT> </P>
+<P> <U> ADV. </U><B> fully </B><I>He had not fully grasped the fact that he was the one who would pay for all this. </I><B>| not really </B><I>I hadn't really grasped what they were talking about. </I><B>| quickly | easily, readily </B><I>a means by which students can more easily grasp the basics of science </I> </P>
+<P> <U> VERB + GRASP </U><B> try to | be unable to, fail to </B><I>She failed to grasp the significance of these facts. </I><B>| quick to </B><I>He was quick to grasp the basic principles. </I><B>| be difficult to, be hard to </B><I>Some of these concepts are very difficult to grasp. </I> </P>
+</DIV>

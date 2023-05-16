@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>reserve </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> supply of sth available to be used in the future </TT> </P>
+<P> <U> ADJ. </U><B> great, huge, large, substantial, vast | sufficient | low, small | existing | additional | last </B><I>It took my last reserves of strength and will to swim to the lifeboat. </I><B>| untapped </B><I>The region is thought to have some of the world's largest untapped oil reserves. </I><B>| hidden </B><I>She had hidden reserves of courage. </I><B>| capital, cash, contingency, currency, financial, foreign currency/exchange, gold, international </B><I>In the face of a severe crisis relating to international reserves, the government devalued the currency twice. </I><B>| coal, energy, gas, oil | timber | food | fat </B><I>The birds build up fat reserves to help them survive the winter. </I> </P>
+<P> <U> VERB + RESERVE </U><B> have </B><I>We have only a small reserve of coal. </I><B>| hold sth in, leave sth in, keep sth in </B><I>The crack troops were held in reserve behind the front line. </I><B>| dig into, dip into, draw on/upon, tap, use </B><I>He had to draw on reserves of strength just to finish the race. </I><B>| call on/up/upon, summon (up) </B><I>her ability to summon up reserves of concentration and energy </I><B>| build (up) | deplete, exhaust </B><I>The company has depleted its reserves to make the purchase. </I><B>| pay sth out of </B><I>The dividend had to be paid out of reserves. </I><B>| take </B> </P>
+<P> <U> RESERVE + VERB </U><B> be available | dwindle, fall </B> </P>
+<P> <U> RESERVE + NOUN </U><B> currency, funds | tank </B><I>The plane was fitted with fuel reserve tanks for long-distance flights. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The rail company has two trains in service and one in reserve. </I> </P>
+<P> <SUP> 2 </SUP> <TT> protected area for plants/animals, etc. </TT> </P>
+<P> <U> ADJ. </U><B> national | bird, forest, game, natural/nature, wildlife </B> </P>
+<P> <U> VERB + RESERVE </U><B> create, establish </B> </P>
+<P> <SUP> 3 </SUP> <TT> quality/feeling </TT> </P>
+<P> <U> ADJ. </U><B> deep, strong | natural </B><I>They made him feel at ease, despite his natural reserve. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>Any contract should be treated with reserve until it has been checked. </I><B>| without ~ </B><I>She trusted him without reserve </I>(= completely)</B><I>. </I> </P>
+<P> <SUP> 4 </SUP> <TT> extra player; second team </TT> </P>
+<P> <U> VERB + RESERVE </U><B> play in </B><I>He will continue to train and may play in the reserves next season. </I> </P>
+<P> <U> RESERVE + NOUN </U><B> side, team | goalkeeper, striker, etc. | game, match </B> </P>
+<P> <SUP> 5 </SUP> <TT> extra military force </TT> </P>
+<P> <U> ADJ. </U><B> army | strategic | volunteer </B> </P>
+<P> <U> RESERVE + NOUN </U><B> force, police</B> </P>
+</DIV><DIV class="item"><P class="word"><B>reserve </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> exclusively, expressly, specially, specifically, strictly </B><I>The star has a ski slope reserved exclusively for her. </I><B>| normally, usually </B><I>a ceremony normally reserved for heads of state </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The car park is reserved for customers only. </I> </P>
+</DIV>

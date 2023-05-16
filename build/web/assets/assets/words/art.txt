@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>art </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> paintings, drawings, etc. </TT> </P>
+<P> <U> ADJ. </U><B> great, high | abstract, avant-garde, commercial, conceptual, figurative, fine, graphic, performance, pop/popular, sacred, visual | contemporary, modern </B> </P>
+<P> <U> VERB + ART </U><B> create, produce </B><I>one of the greatest works of art ever produced </I> </P>
+<P> <U> ART + NOUN </U><B> gallery | collector, critic, dealer, historian, lover | treasure, work, artwork | college, school | form </B><I>Cinema became accepted as an art form. </I><B>| history | market | world </B><I>Many people from the art world attended the painter's funeral. </I></P>
+<P> <SUP> 2 </SUP> <TT> the arts: art, music, theatre, literature, etc.  </TT> </P>
+<P> <U> ADJ. </U><B> creative, decorative, dramatic, performing, plastic, visual </B> </P>
+<P> <U> PHRASES </U><B> arts and crafts </B><I>an exhibition of Peruvian arts and crafts </I><B>| funding for the arts, a patron of the arts, sponsorship of the arts 3 arts </B>not sciences </B> </P>
+<P> <U> ART + NOUN </U><B> subject | degree </B> </P>
+<P> <U> PHRASES </U><B> arts and sciences </B> </P>
+<P> <SUP> 4 </SUP> <TT> ability/skill </TT> </P>
+<P> <U> VERB + ART </U><B> master, perfect </B><I>I've never mastered the art of making bread. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Television has ruined the art of conversation. </I> </P>
+<P> <U> PHRASES </U><B> get sth down to a fine art </B>(= learn to do it very well) <I>She's got the business of buying Christmas presents down to a fine art. </I></P>
+<a href="/collocation-tag/art-works" class="tag">Learn more about ART WORKS</a>
+</DIV>

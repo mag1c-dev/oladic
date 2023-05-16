@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>ditch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, wide | shallow, small | open </B><I>The drainage system consisted of a few open ditches to facilitate run-off. </I><B>| muddy | drainage, irrigation | roadside </B> </P>
+<P> <U> VERB + DITCH </U><B> dig </B> </P>
+<P> <U> DITCH + VERB </U><B> run </B><I>The ditch ran parallel to the road. </I><B>| surround sth </B><I>His lettuce garden was surrounded by a deep ditch. </I> </P>
+<P> <U> PREP. </U><B> in/into a ~ </B><I>I tripped and fell into a muddy ditch. </I> </P>
+</DIV>

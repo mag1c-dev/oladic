@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>moisture </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excess | earth, soil | body </B> </P>
+<P> <U> QUANT. </U><B> bead, drop, droplet </B> </P>
+<P> <U> VERB + MOISTURE </U><B> absorb, draw (in/up) </B><I>Wind is caused by the sun drawing up moisture from the earth. </I><B>| conserve, hold (in), retain | lose </B> </P>
+<P> <U> MOISTURE + VERB </U><B> get in, penetrate sth </B><I>Tiles stop moisture penetrating your walls. </I><B>| evaporate </B> </P>
+<P> <U> MOISTURE + NOUN </U><B> loss | content </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>the moisture in the soil </I> </P>
+</DIV>

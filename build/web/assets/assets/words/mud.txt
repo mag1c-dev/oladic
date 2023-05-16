@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>mud </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep | glutinous, thick | hard | liquid, soft, sticky, wet | dried, dry </B><I>footprints left in the hard dried mud </I><B>| black, brown, grey, red </B> </P>
+<P> <U> VERB + MUD </U><B> be caked in/with, be covered in/with, be plastered with, be smeared with, be streaked with mud </B><I>Her boots were caked in mud. </I><B>| get/become bogged (down) in, get stuck in </B><I>Several cars got bogged down in the mud. </I><B>| churn sth into, turn (sth) to </B><I>The cars had churned the lane into mud. </I><B>| wallow in </B><I>pigs wallowing in the mud </I><B>| spatter (sb/sth with) </B> </P>
+<P> <U> MUD + VERB </U><B> ooze </B><I>Wet mud oozed up between their toes. </I><B>| crack </B><I>The mud in the dried-up river bed had cracked. </I> </P>
+<P> <U> MUD + NOUN </U><B> brick, floor, house, hut | flats </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>She fell in the mud. </I><B>| through the ~ </B><I>We squelched through the mud. </I> </P>
+<P> <U> PHRASES </U><B> a layer of mud, a sea of mud</B> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>fingerprint </B><I>noun </I> </P>
+<P> <U> QUANT. </U><B> set </B><I>The police were able to obtain a set of fingerprints from the suspect. </I> </P>
+<P> <U> VERB + FINGERPRINT </U><B> leave </B><I>She was careful not to leave any fingerprints. </I><B>| check (sth) for, dust sth for, examine sth for, look for </B><I>The car is being examined for fingerprints. </I><B>| find | obtain, take </B><I>The investigator questioned him and took his fingerprints. </I><B>| match </B><I>The suspect's fingerprints have been matched with those found at the scene of the crime. </I> </P>
+</DIV>

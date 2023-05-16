@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>outrage </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> great anger </TT> </P>
+<P> <U> ADJ. </U><B> genuine | widespread | international | public | moral </B><I>Media reports generated moral outrage. </I> </P>
+<P> <U> VERB + OUTRAGE </U><B> be greeted with, cause, generate, provoke, spark </B><I>The news was greeted with outrage. </I><B>| feel | express, voice </B><I>Shopkeepers voiced their outrage at the new tax. </I> </P>
+<P> <U> OUTRAGE + VERB </U><B> be directed at sb/sth </B><I>Much of the outrage was directed at foreign nationals. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The guests all shouted in outrage. </I><B>| with ~ </B><I>She was trembling with outrage. </I><B>| ~ at </B><I>Campaigners have expressed outrage at the decision. </I><B>| ~ over </B><I>There is widespread public outrage over the massacre. </I> </P>
+<P> <U> PHRASES </U><B> cries/howls of outrage </B><I>The announcement provoked howls of outrage. </I><B>| a feeling/sense of outrage </B> </P>
+<P> <SUP> 2 </SUP> <TT> cruel/shocking act </TT> </P>
+<P> <U> VERB + OUTRAGE </U><B> commit, perpetrate </B><I>the outrages committed by the invading army </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>The new law on pensions is an outrage against the elderly. </I> </P>
+</DIV>

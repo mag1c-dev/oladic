@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>borough </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> county, metropolitan, municipal </B> </P>
+<P> <U> BOROUGH + NOUN </U><B> council, councillor </B> </P>
+<P> <U> PREP. </U><B> in/within a/the ~ </B><I>to establish unemployment committees in all metropolitan boroughs </I><B>| throughout a/the ~ </B><I>There are factories scattered throughout the borough. </I><B>| ~ of </B><I>the London borough of Lambeth </I> </P>
+</DIV>

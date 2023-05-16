@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>maturity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> adult behaviour </TT> </P>
+<P> <U> ADJ. </U><B> great, growing, increasing </B><I>I can see an increasing maturity in how she understands the world. </I><B>| emotional, intellectual </B> </P>
+<P> <U> VERB + MATURITY </U><B> have | show </B><I>She has shown great maturity in her behaviour this term. </I><B>| grow in </B><I>These latest paintings show how the artist has really grown in maturity. </I><B>| lack </B> </P>
+<P> <SUP> 2 </SUP> <TT> full growth </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>It can take years for these plants to reach full maturity. </I><B>| physical, psychological, sexual </B> </P>
+<P> <U> VERB + MATURITY </U><B> approach, come to, grow to, reach </B><I>The insects lay eggs when they approach maturity. </I> </P>
+</DIV>

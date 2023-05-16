@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>stitch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in sewing </TT> </P>
+<P> <U> ADJ. </U><B> blanket, chain, cross, running, seam, tacking, zigzag, etc. </B> </P>
+<P> <U> VERB + STITCH </U><B> do, put, sew (sth) with </B><I>Can you do chain stitch? Put a stitch in the corner of the pocket to keep it in place. The edge was sewn with blanket stitch. </I><B>| remove, take out </B> </P>
+<P> <SUP> 2 </SUP> <TT> in knitting </TT> </P>
+<P> <U> ADJ. </U><B> knitted | cable, garter, plain, purl, slip, stocking, tuck, etc. </B> </P>
+<P> <U> VERB + STITCH </U><B> knit | cast on, cast off | drop, pick up </B> </P>
+<P> <SUP> 3 </SUP> <TT> in a wound </TT> </P>
+<P> <U> ADJ. </U><B> dissolvable, dissolving, self-dissolving </B> </P>
+<P> <U> VERB + STITCH </U><B> have </B><I>I had to have five stitches when I cut my finger. </I><B>| insert, put in | remove, take out | have out </B><I>When are you having your stitches out? </I> </P>
+<P> <U> STITCH + VERB </U><B> dissolve </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>He had twenty stitches in a head wound. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>desert </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> arid, barren, dry </B><I>green fields surrounded by arid desert </I><B>| vast | inhospitable | Arctic, polar | cultural </B><I>(figurative) The theatre and cinema closed and the town became a cultural desert. </I> </P>
+<P> <U> VERB + DESERT </U><B> become, turn into/to </B><I>The land loses its protective cover of vegetation and soon turns into desert. </I><B>| cross </B><I>He became the first person to cross the desert on foot. </I> </P>
+<P> <U> DESERT + VERB </U><B> stretch </B><I>The desert stretched for endless miles on all sides of us. </I> </P>
+<P> <U> DESERT + NOUN </U><B> area, country, land, landscape, region </B><I>vast tracts of desert land </I><B>| conditions | heat | sand, soil | floor, surface | plain | animal, plant </B> </P>
+<P> <U> PREP. </U><B> across/through the ~ </B><I>their journey across the desert </I><B>| in the ~ </B><I>cold nights in the desert </I><B>| into the ~ </B><I>He drove off into the desert. </I> </P>
+</DIV>

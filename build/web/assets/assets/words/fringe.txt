@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>fringe </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hair </TT> </P>
+<P> <U> ADJ. </U><B> heavy, thick | light, wispy </B> </P>
+<P> <U> VERB + FRINGE </U><B> grow | cut, trim </B><I>My fringe needs trimming. </I><B>| brush, push </B><I>She kept brushing her fringe off her forehead. </I> </P>
+<P> <U> PREP. </U><B> from beneath/under your ~ </B><I>She stared at us from beneath her fringe. </I><B>| in a ~ </B><I>She has her hair pulled forward in a fringe. </I> </P>
+<P> <SUP> 2 </SUP> <TT> outer edge of a place/group/society, etc. </TT> </P>
+<P> <U> ADJ. </U><B> outer | marginal | eastern, western, etc. | coastal, urban | delinquent, lunatic </B><I>the delinquent fringe of the Nationalist Party </I> </P>
+<P> <U> VERB + FRINGE </U><B> keep to, remain on, stand on </B><I>He has always remained on the fringes of mainstream politics. </I> </P>
+<P> <U> FRINGE + NOUN </U><B> area | group | meeting | theatre, venue </B><I>He moved from fringe theatre to mainstream when he was chosen to play a leading role on Broadway. </I> </P>
+<P> <U> PREP. </U><B> along the ~ </B><I>the forests along the eastern fringe of the Andes </I><B>| around the ~ </B><I>new housing around the urban fringe </I><B>| at the ~ </B><I>They pitched their tents at the fringe of the open fields. </I><B>| beyond the ~ </B><I>Beyond this marginal fringe no agriculture is possible. </I><B>| on the ~(s) </B><I>These people live on the fringes of society. </I> </P>
+</DIV>

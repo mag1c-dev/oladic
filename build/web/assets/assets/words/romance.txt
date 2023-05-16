@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>romance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> love affair </TT> </P>
+<P> <U> ADJ. </U><B> brief | broken | whirlwind </B><I>They married after a whirlwind romance. </I><B>| holiday | teenage </B> </P>
+<P> <U> VERB + ROMANCE </U><B> have </B><I>They had a brief romance in the eighties. </I> </P>
+<P> <U> ROMANCE + VERB </U><B> blossom </B> </P>
+<P> <SUP> 2 </SUP> <TT> romantic feeling </TT> </P>
+<P> <U> ADJ. </U><B> true </B> </P>
+<P> <U> VERB + ROMANCE </U><B> find </B><I>People find romance in strange places. </I> </P>
+<P> <U> ROMANCE + VERB </U><B> be in the air </B><I>Could romance be in the air for the young prince? </I> </P>
+<P> <U> PHRASES </U><B> love and romance </B><I>Most of her songs are about love and romance. </I> </P>
+</DIV>

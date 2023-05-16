@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>consultant </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sb who gives advice </TT> </P>
+<P> <U> ADJ. </U><B> business, design, financial, management, public relations | independent, outside </B> </P>
+<P> <U> VERB + CONSULTANT </U><B> act as </B><I>He was happy to act as a consultant to the company. </I><B>| bring in, employ (sb as), engage (sb as), hire (sb as), use </B><I>We brought in a management consultant to sort out the mess. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a consultant in design, printing and advertising </I><B>| ~ on </B><I>a consultant on business ethics </I><B>| ~ to/with </B><I>They work as consultants to a software company. </I></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+
+<P> <SUP> 2 </SUP> <TT> hospital doctor of high rank </TT> </P>
+<P> <U> ADJ. </U><B> hospital, NHS </B><I>She is now a hospital consultant. </I> </P>
+<P> <U> CONSULTANT + NOUN </U><B> cardiologist, gynaecologist, obstetrician, paediatrician, pathologist, physician, psychiatrist, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a consultant in psychiatry </I></P>
+<a href="/collocation-tag/doctor" class="tag">Learn more about DOCTOR</a>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>parachute </B><I>noun </I> </P>
+<P> <U> VERB + PARACHUTE </U><B> pack </B> </P>
+<P> <U> PARACHUTE + VERB </U><B> open | fail to open </B> </P>
+<P> <U> PARACHUTE + NOUN </U><B> descent, drop, jump </B><I>He made his first parachute jump at the age of seventy. </I><B>| instructor </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Supplies were dropped by parachute. </I> </P>
+</DIV>

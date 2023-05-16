@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>lorry </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, heavy, huge, large | ten-ton, etc. | articulated | open | long-distance | diesel | army | breakdown, container, delivery, gritting, refrigerated, tipper </B> </P>
+<P> <U> QUANT. </U><B> convoy </B> </P>
+<P> <U> VERB + LORRY </U><B> drive </B> </P>
+<P> <U> LORRY + VERB </U><B> carry sth </B><I>a refrigerated lorry carrying beer </I> </P>
+<P> <U> LORRY + NOUN </U><B> driver | load</B> </P>
+</DIV>

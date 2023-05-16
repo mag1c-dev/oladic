@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>silt </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine </B><I>The water contains fine silt. </I> </P>
+<P> <U> VERB + SILT </U><B> deposit </B><I>During the annual floods the river deposits its silt on the fields. </I> </P>
+<P> <U> SILT + NOUN </U><B> deposit</B> </P>
+</DIV>

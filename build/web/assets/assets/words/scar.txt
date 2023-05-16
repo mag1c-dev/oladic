@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>scar </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, large, long | puckered | disfiguring, ugly, unsightly | permanent | emotional, mental, psychological </B><I>Her mental scars will take time to heal. </I> </P>
+<P> <U> VERB + SCAR </U><B> leave | bear </B><I>(often figurative) The countryside still bears the scars of the recent hurricane. </I> </P>
+<P> <U> SCAR + VERB </U><B> form | heal </B> </P>
+<P> <U> SCAR + NOUN </U><B> tissue </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>The cut left a permanent scar on his arm. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>scar </B><I>verb </I><B>(</B>often <B>be scarred) </B> </P>
+<P> <U> ADV. </U><B> badly, deeply, hideously </B><I>His face was badly scarred by the fire. </I><B>| emotionally, mentally, physically, psychologically </B><I>She was both physically and mentally scarred by the accident. </I><B>| permanently </B> </P>
+<P> <U> PREP. </U><B> with </B><I>(figurative) Their minds were scarred with bitterness. </I> </P>
+<P> <U> PHRASES </U><B> be scarred for life, leave sb scarred </B><I>The accident left him permanently scarred. </I> </P>
+</DIV>

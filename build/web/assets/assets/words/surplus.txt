@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>surplus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large </B><I>a large grain surplus </I><B>| small </B> </P>
+<P> <U> VERB + SURPLUS </U><B> produce </B> </P>
+<P> <U> SURPLUS + NOUN </U><B> cash, stock </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The pension fund is in surplus. </I> </P>
+</DIV>

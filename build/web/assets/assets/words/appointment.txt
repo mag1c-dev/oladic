@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>appointment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> agreement to meet sb </TT> </P>
+<P> <U> ADJ. </U><B> important, pressing, urgent | first, initial | follow-up | business | dental, hair | hospital, outpatient </B><I>The hospital needs to allow more time for outpatient appointments. </I> </P>
+<P> <U> VERB + APPOINTMENT </U><B> have | arrange, book, fix, make </B><I>I'd like to make an appointment to see the doctor, please. </I><B>| get </B><I>I didn't know if I would get an appointment at such short notice. </I><B>| give sb </B><I>Tom has been given an appointment at the local hospital. </I><B>| keep </B><I>He failed to keep his appointment. </I><B>| break, miss </B><I>She has already broken three appointments. </I><B>| cancel </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Viewing is only allowed by appointment. </I><B>| with/without an ~ </B><I>He called without an appointment. </I><B>| ~ with </B><I>an appointment with a doctor </I> </P>
+<P> <SUP> 2 </SUP> <TT> job/position </TT> </P>
+<P> <U> ADJ. </U><B> permanent, temporary | senior | academic, cabinet, court, diplomatic, ecclesiastical, executive, government, judicial, military, ministerial, political, public, university </B> </P>
+<P> <U> VERB + APPOINTMENT </U><B> hold </B><I>Employees may not hold any other appointments. </I><B>| give sb, offer sb </B><I>He was offered an appointment in the Education Department. </I><B>| accept | obtain | take up </B><I>He takes up his appointment in January. </I><B>| resign </B><I>Miss Green resigned her appointment as our regional representative. </I><B>| secure </B><I>By reorganizing the Church hierarchy, the king was able to secure the appointment of men whom he personally favoured. </I> </P>
+<P> <SUP> 3 </SUP> <TT> choosing sb for job </TT> </P>
+<P> <U> ADJ. </U><B> key </B><I>The company has announced five key appointments at its Teesside plant. </I><B>| formal, official | staff </B> </P>
+<P> <U> VERB + APPOINTMENT </U><B> make | announce | confirm </B><I>The board has confirmed the appointment of Howard Kendall as Sales Manager. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>the first appointments to the new government </I> </P>
+</DIV>

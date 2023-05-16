@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>gate </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> entrance, front, main | back, postern </B>(in a castle), <B>side | inner, outer | double, five-bar/five-barred, portcullis </B><I>a wide driveway with double gates </I><B>| great </B><I>The great gates of the abbey were shut fast. </I><B>| heavy | high | narrow | ornamental | open | iron, metal, steel, wooden, wrought-iron | city, factory, farm, garden, park, prison, school, etc. | security | sluice </B> </P>
+<P> <U> QUANT. </U><B> set </B><I>a set of ornamental gates </I> </P>
+<P> <U> VERB + GATE </U><B> open | bar, close, fasten, lock, shut </B><I>Don't forget to shut the gate when you leave. The defenders had closed and barred all the city gates. </I><B>| go through </B><I>Go through the gate and continue down the track. </I> </P>
+<P> <U> GATE + VERB </U><B> open, swing open </B><I>The heavy gate swung open. </I><B>| close, shut </B><I>The gate shut behind him. </I> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>He led us through a gate into a little garden. </I> </P>
+</DIV>

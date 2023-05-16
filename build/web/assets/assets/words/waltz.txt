@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>waltz </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> slow | Viennese </B> </P>
+<P> <U> VERB + WALTZ </U><B> dance, do | play </B> </P>
+<P> <U> WALTZ + NOUN </U><B> rhythm, time</B> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>stake </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> (</B><I>also </I><B>stakes</B>) amount that could be won/lost </TT> </P>
+<P> <U> ADJ. </U><B> big, high | low, small | political </B> </P>
+<P> <U> VERB + STAKE </U><B> play for </B><I>They always play for high stakes. </I><B>| raise | lower </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>The minister will face the enquiry with his reputation at stake. </I> </P>
+<P> <SUP> 2 </SUP> <TT> share of a company, etc. </TT> </P>
+<P> <U> ADJ. </U><B> controlling, large, majority, significant, substantial | minority, small | direct | financial, equity </B> </P>
+<P> <U> VERB + STAKE </U><B> have | acquire, buy, take | sell | build up, increase, lift, raise | cut, reduce </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>She acquired a four per cent direct stake in the business. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>bare </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not covered by clothing </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>He was standing there, completely bare! </I> </P>
+<P> <U> ADV. </U><B> completely </B> </P>
+<P> <SUP> 2 </SUP> <TT> not containing/covered by anything </TT> </P>
+<P> <U> VERBS </U><B> be, look | remain | leave sth </B><I>You shouldn't have left the wires bare. </I><B>| lay sth, strip sth </B><I>The earth had been laid bare. The walls have been stripped bare. </I> </P>
+<P> <U> ADV. </U><B> very | completely, quite </B><I>The room was completely bare. </I><B>| almost, rather | strangely </B><I>The room looked strangely bare without the furniture. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>The house was almost bare of furniture. </I> </P>
+</DIV>

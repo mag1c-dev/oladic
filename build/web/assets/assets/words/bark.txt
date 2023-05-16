@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>bark </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on a tree </TT> </P>
+<P> <U> ADJ. </U><B> rough | tree | birch, cinnamon, willow, etc. </B> </P>
+<P> <U> VERB + BARK </U><B> peel off, strip </B><I>The people strip the bark and use it in medicines. </I> </P>
+<P> <U> BARK + VERB </U><B> peel off </B><I>The bark peels off in summer. </I> </P>
+<P> <U> BARK + NOUN </U><B> chippings </B> </P>
+<P> <SUP> 2 </SUP> <TT> of a dog </TT> </P>
+<P> <U> ADJ. </U><B> loud, noisy </B> </P>
+<P> <U> VERB + BARK </U><B> give </B><I>The dog gave a loud bark. </I> </P>
+<P> <SUP> 3 </SUP> <TT> loud sound/voice </TT> </P>
+<P> <U> ADJ. </U><B> short | harsh </B> </P>
+<P> <U> VERB + BARK </U><B> give </B><I>He gave a harsh bark of laughter. </I> </P>
+<P> <U> PHRASES </U><B> a bark of laughter</B> </P>
+</DIV><DIV class="item"><P class="word"><B>bark </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> excitedly, frantically, furiously, loudly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>The dog was barking furiously at a cat. </I> </P>
+</DIV>

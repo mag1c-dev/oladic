@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>graft </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on part of the body </TT> </P>
+<P> <U> ADJ. </U><B> bone, skin </B> </P>
+<P> <U> VERB + GRAFT </U><B> do </B><I>Doctors are hoping to do a bone graft to repair the damaged bone. </I> </P>
+<P> <U> GRAFT + VERB </U><B> take </B><I>If the skin graft takes, then surgeons will do another operation a few weeks later. </I> </P>
+<P> <SUP> 2 </SUP> <TT> hard work </TT> </P>
+<P> <U> ADJ. </U><B> hard </B><I>Starting a new business involves a lot of hard graft. </I> </P>
+<P> <U> VERB + GRAFT </U><B> do </B><I>Most of the graft was done for them by their assistants. </I> </P>
+</DIV>

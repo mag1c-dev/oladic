@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>pain </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> physical pain </TT> </P>
+<P> <U> ADJ. </U><B> acute, agonizing, awful, excruciating, extreme, great, </B> intense, severe, sharp, terrible, <B>unbearable | burning, searing, shooting, stabbing, throbbing  </B><I>She had a burning pain in one eye. </I> <B>| dull, little, slight | chronic, </B> constant, nagging, persistent | <B>sudden | intermittent | physical </B> | abdominal, back, chest, leg, <B>muscle, shoulder, stomach </B><I>She's been off work with back pain. He went to the doctor with chest pains. </I><B>| growing, labour, period </B> </P>
+<P> <U> QUANT. </U><B> spasm, stab </B> </P>
+<P> <U> VERB + PAIN </U><B> be in, be racked with, experience, feel, get, go through, have, suffer (from) </B><I>He was obviously in a great deal of pain. Can you feel any pain? Marathon runners are used to going through pain. He was taken to hospital suffering from severe abdominal pain. </I><B>| cause, give sb, inflict </B><I>His back gives him great pain. It's wrong to inflict pain on any animal. </I><B>| increase, make worse | alleviate, control, deaden, do something for, dull, ease, help, kill, relieve, stop </B><I>Your doctor should be able to do something for the pain. </I><B>| bear, endure, put up with, stand, take | cry out in, cry with, groan with, scream with | be contorted with, contort in </B><I>His face was contorted with pain as he crossed the finish line. </I> </P>
+<P> <U> PAIN + VERB </U><B> begin, come </B><I>The pains began shortly after she started work as a gardener. </I><B>| shoot through/up </B><I>A sharp pain shot up his leg. </I><B>| grow stronger, increase, intensify | disappear, go, stop, wear off </B><I>Has the pain gone yet? A few hours after he'd had his tooth out, the pain began to wear off. </I><B>| come back, return </B> </P>
+<P> <U> PAIN + NOUN </U><B> control, relief | threshold </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a pain in her side </I> </P>
+<P> <U> PHRASES </U><B> aches and pains </B><I>Eucalyptus oil is good for easing muscular aches and pains. </I><B>| a cry of pain, a threshold for/of pain </B><I>I have a very low threshold for pain. </I> </P>
+<P> <SUP> 2 </SUP> <TT> unhappiness </TT> </P>
+<P> <U> ADJ. </U><B> great, intense, terrible | emotional </B> </P>
+<P> <U> VERB + PAIN </U><B> cause (sb), give sb, inflict </B><I>Through her drug addiction she had inflicted a lot of pain on the family. </I><B>| feel, go through | get over </B><I>It took him several years to get over the pain of losing his job. </I><B>| ease | spare sb </B><I>We hoped to spare her the pain of having to meet her attacker. </I><B>| express | conceal </B><I>He tried to conceal his pain from her. </I><B>| bear, endure | be worth </B><I>The government has to persuade the people that the economic reforms are worth the pain. </I> </P>
+</DIV>

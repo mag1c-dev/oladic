@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>inheritance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money/property </TT> </P>
+<P> <U> ADJ. </U><B> large | small | rightful </B><I>(literary) He accused his younger brother of trying to steal his rightful inheritance. </I><B>| shared </B> </P>
+<P> <U> VERB + INHERITANCE </U><B> leave sb </B><I>She left him an inheritance of </I>&pound;</B><I>100,000. </I><B>| come into, enter (into/on/upon) </B><I>(literary)</I>, <B>receive </B><I>When he was 21 he came into a large inheritance. </I><B>| claim </B><I>When his father died, he returned to England to claim his inheritance. </I><B>| renounce | challenge </B><I>Jealous relatives tried to challenge her inheritance. </I><B>| steal | restore (sb to) </B><I>The Earl of Arundel's heir was restored to his inheritance and granted the lordship of Chirk. </I><B>| divide </B><I>The inheritance was divided equally among all the sons. </I><B>| share (in) </B><I>Under their law, all children shared in the inheritance. </I> </P>
+<P> <U> INHERITANCE + NOUN </U><B> tax | law </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>The system involved inheritance by the eldest son. </I><B>| ~ through </B><I>inheritance through marriage </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth from the past/your family </TT> </P>
+<P> <U> PREP. </U><B> common </B><I>a common inheritance of language and culture </I><B>| cultural | genetic, physical | classical </B><I>the influence of the classical inheritance </I>(= the culture of ancient Greece and Rome) </B><I>on Renaissance thought </I> </P>
+</DIV>

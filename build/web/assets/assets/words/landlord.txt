@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>landlady, landlord </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sb who lets a house/room </TT> </P>
+<P> <U> ADJ. </U><B> resident | absentee </B><I>The house has an absentee landlord, who visits the property once a year. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb who owns/runs a pub </TT> </P>
+<P> <U> ADJ. </U><B> pub </B><I>He left the army and became a pub landlord. </I> </P>
+<P> <U> LANDLADY, LANDLORD + VERB </U><B> serve sb </B><I>The landlady came over to serve me. </I> </P>
+</DIV>

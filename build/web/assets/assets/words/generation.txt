@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>generation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> people/period of time </TT> </P>
+<P> <U> ADJ. </U><B> current, present | new, younger | older </B><I>The older generation prefer a darker and more traditional kind of clothing. </I><B>| coming, future, later, next, rising </B><I>The forest will be preserved for future generations. </I><B>| earlier, former, last, past, preceding, previous </B><I>These children seem to have a stronger sense of purpose than the previous generation. the wisdom of past generations </I><B>| first, second, etc. </B><I>The second generation of immigrants often adopted British forenames. </I><B>| subsequent, succeeding, successive </B><I>Succeeding generations have added to the stock of stories and legends. </I><B>| whole </B><I>The First World War slaughtered a whole generation. </I> </P>
+<P> <U> VERB + GENERATION </U><B> belong to </B><I>people who belong to a younger generation </I> </P>
+<P> <U> GENERATION + NOUN </U><B> gap </B><I>I was aware of a real generation gap between us. </I> </P>
+<P> <U> PREP. </U><B> for a ~ </B><I>The consequences of the radioactive leakage may not become apparent for a generation or more. </I><B>| for ~s </B><I>This kind of apple has been grown for generations. </I> </P>
+<P> <U> PHRASES </U><B> from generation to generation </B><I>The recipe for making the liqueur has been handed down from generation to generation. </I><B>| from one generation to the next </B> </P>
+<P> <SUP> 2 </SUP> <TT> production of sth </TT> </P>
+<P> <U> ADJ. </U><B> electricity, gas, income, power </B><I>different methods of power generation </I> </P>
+</DIV>

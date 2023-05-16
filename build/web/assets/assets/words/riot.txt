@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>riot </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> major, serious | full-scale | violent | inner-city, urban | prison | race | student | bread, food </B><I>Shortages eventually led to food riots. </I> </P>
+<P> <U> VERB + RIOT </U><B> cause, provoke, spark (off), start </B><I>The city's housing and unemployment problems sparked serious riots. </I><B>| put down, quell </B> </P>
+<P> <U> RIOT + VERB </U><B> begin, break out, erupt, occur, start </B><I>Prison riots broke out over worsening conditions. </I> </P>
+<P> <U> RIOT + NOUN </U><B> police, squad | gear, shield | control </B> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>He was killed in the riots. </I><B>| ~ against/over </B><I>a riot against bread prices </I> </P>
+<P> <U> PHRASES </U><B> run riot </B><I>Fans ran riot after the match, overturning cars and looting shops. </I> </P>
+</DIV>

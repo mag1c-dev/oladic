@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>maze </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complex, intricate, tortuous </B> </P>
+<P> <U> VERB + MAZE </U><B> be/get lost in | find your way through </B><I>He found his way through the complex maze of corridors. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~, through a/the ~ </B><I>I followed him through a maze of narrow alleys. </I><B>| ~ of </B><I>I was lost in a maze of passages. </I> </P>
+</DIV>

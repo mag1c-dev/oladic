@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>rendezvous </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> arrangement to meet sb </TT> </P>
+<P> <U> ADJ. </U><B> secret </B> </P>
+<P> <U> VERB + RENDEZVOUS </U><B> have | arrange | keep </B><I>Although it was late, there was still enough time to keep the rendezvous. </I><B>| make </B><I>She made the rendezvous with only minutes to spare. </I><B>| miss </B> </P>
+<P> <U> PREP. </U><B> ~ with </B><I>I have a rendezvous with Peter at a restaurant on the harbour. </I> </P>
+<P> <U> PHRASES </U><B> a place for a rendezvous </B> </P>
+<P> <SUP> 2 </SUP> <TT> place where people meet </TT> </P>
+<P> <U> ADJ. </U><B> popular </B><I>The cafe is a popular rendezvous for young lovers. </I><B>| secret | pre-arranged </B> </P>
+<P> <U> VERB + RENDEZVOUS </U><B> make your way (back) to/towards </B><I>The platoon made its way to the pre-arranged rendezvous in the desert. </I> </P>
+<P> <U> RENDEZVOUS + NOUN </U><B> point</B> </P>
+</DIV>

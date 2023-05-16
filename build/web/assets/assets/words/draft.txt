@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>draft </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> early, first, initial, original, preliminary | rough | final </B> </P>
+<P> <U> VERB + DRAFT </U><B> draw up, prepare, produce, write </B><I>She produced an initial draft of her plans. </I><B>| approve </B><I>The preliminary draft of the agreement has been approved. </I> </P>
+<P> <U> DRAFT + NOUN </U><B> agreement, bill, budget, constitution, contract, document, law, legislation, letter, plan, proposal, report, treaty </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>These details were not included in the preliminary draft. </I> </P>
+<P> <U> PHRASES </U><B> in draft form </B><I>The document is still in draft form. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>draft </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, properly | badly, poorly </B><I>Some of the clauses in the contract had been very poorly drafted. </I> </P>
+</DIV>

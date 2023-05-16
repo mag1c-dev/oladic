@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>statistics </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> annual, monthly | latest | reliable | vital | bald, raw </B><I>The bald statistics tell us nothing about the underlying trends. </I><B>| government, national, official, police | accident, crime, criminal, economic, health, population, transport, unemployment, etc. </B> </P>
+<P> <U> VERB + STATISTICS </U><B> prepare, produce | keep </B><I>We no longer keep statistics on former employees. </I><B>| release </B> </P>
+<P> <U> STATISTICS + VERB </U><B> indicate sth, prove sth, reveal sth, show sth, tell sb sth | suggest sth </B> </P>
+<P> <U> STATISTICS + NOUN </U><B> office </B> </P>
+<P> <U> PREP. </U><B> according to ~ </B><I>According to official statistics, the island had 37 inhabitants. </I><B>| ~ on </B><I>The government has released new statistics on the cost of living. </I> </P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+</DIV>

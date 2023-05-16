@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>faith </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> trust in sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> enormous, great, tremendous | absolute, complete, implicit, total, unshakeable | blind </B><I>He seems to have a blind faith in his boss. </I><B>| abiding </B><I>an artist whose work reflects his abiding faith in humanity </I><B>| touching </B><I>She showed a touching faith in my ability to resolve any and every difficulty. </I><B>| public </B><I>Business crime undermines public faith in the business system. </I> </P>
+<P> <U> VERB + FAITH </U><B> have | place, pin, put </B><I>He distrusted political systems and placed his faith in the genius of individuals. She did not pin much faith on their chances of success. </I><B>| show | lose </B><I>people who lose faith in themselves </I><B>| shake, undermine | destroy | restore </B><I>trying to restore faith in the political system </I><B>| regain | retain </B><I>If the company can retain its customers' faith it could become the market leader. </I><B>| affirm, express, proclaim </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Her faith in human nature had been badly shaken. </I> </P>
+<P> <U> PHRASES </U><B> an act of faith, a leap of faith </B><I>These reforms are totally untested and will require a leap of faith on the part of teachers. </I><B>| have every faith in sb </B> </P>
+<P> <SUP> 2 </SUP> <TT> strong religious belief </TT> </P>
+<P> <U> ADJ. </U><B> religious | genuine, strong, true | simple | unquestioning | active </B><I>a large decline in the number of people who have an active faith of any sort </I><B>| personal </B> </P>
+<P> <U> VERB + FAITH </U><B> have | come to, find </B><I>He found faith gradually, rather than in a sudden conversion. </I><B>| lose | shake, undermine | regain | proclaim </B> </P>
+<P> <U> FAITH + NOUN </U><B> healer, healing </B> </P>
+<P> <U> PREP. </U><B> through ~ </B><I>They believe that people can come to salvation through faith. </I><B>| ~ in </B><I>After her son's death she lost her faith in God. </I> </P>
+<P> <U> PHRASES </U><B> an article of faith </B><I>(often figurative) Manchester United's greatness was an article of faith for him </I>(= a belief that could not be questioned)</B><I>. </I> </P>
+<P> <SUP> 3 </SUP> <TT> religion </TT> </P>
+<P> <U> ADJ. </U><B> living </B><I>Christianity is a living faith which has shaped the history of Britain. </I><B>| world </B><I>The study of other world faiths is an important part of religious education. </I><B>| Catholic, Jewish, Muslim, etc. </B> </P>
+<P> <U> VERB + FAITH </U><B> profess | practise </B><I>Christians were allowed to practise their faith unmolested by the authorities. </I><B>| keep alive, uphold </B><I>Their aim was to keep alive the traditional Jewish faith. </I><B>| hand on, pass on, preach, spread, teach </B><I>the role of parents in passing on the faith to their children feeling the call to preach the faith to others </I> </P>
+<P> <U> PHRASES </U><B> people of different faiths </B> </P>
+<P> <SUP> 4 </SUP> <TT> intention to do right </TT> </P>
+<P> <U> ADJ. </U><B> bad, good </B><I>The judge did not find any bad faith </I>(= intention to do wrong) </B><I>on the part of the defendants. </I> </P>
+<P> <U> VERB + FAITH </U><B> keep </B><I>As club manager he was not prepared to keep faith with </I>(= keep a promise to) </B><I>the players who had failed him. </I><B>| break </B>(= break a promise to sb)  </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>We printed the report in good faith, but have now learnt that it was incorrect. </I> </P>
+</DIV>

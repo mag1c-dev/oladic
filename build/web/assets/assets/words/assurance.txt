@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>assurance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> promise </TT> </P>
+<P> <U> ADJ. </U><B> absolute, categorical, clear, firm, full | further, repeated | formal, official, personal, verbal, written </B><I>He gave me his personal assurance that the vehicle was safe. </I> </P>
+<P> <U> VERB + ASSURANCE </U><B> have </B><I>We now have a firm assurance of support from the government. </I><B>| give sb, offer sb, provide | gain, get, obtain, receive | ask for, demand, seek, want | accept, be satisfied with </B><I>They accepted his assurance that patients would be treated as soon as possible. </I><B>| go back on, renege on </B><I>He accused the minister of reneging on assurances given earlier. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>an assurance about the safety of this equipment </I><B>| ~ by/from </B><I>assurances from the head teacher </I> </P>
+<P> <U> PHRASES </U><B> despite/in spite of assurances </B><I>Despite assurances from the government, the chemicals are known to be dangerous. </I> </P>
+<P> <SUP> 2 </SUP> <TT> feeling of calm and confidence </TT> </P>
+<P> <U> ADJ. </U><B> calm, quiet </B><I>She spoke with calm assurance. </I> </P>
+<P> <U> VERB + ASSURANCE </U><B> have | show </B><I>Even at a very young age she showed a great deal of assurance. </I> </P>
+</DIV>

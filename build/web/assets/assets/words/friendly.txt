@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>friendly </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> behaving in a kind/pleasant way </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem | become </B> </P>
+<P> <U> ADV. </U><B> exceptionally, extremely, genuinely, really, very </B><I>Frank was a genuinely friendly sort. </I><B>| perfectly </B><I>He seemed detached, almost bored, but perfectly friendly. </I><B>| almost </B><I>For once he seemed almost friendly. </I><B>| quite, reasonably | not exactly, not particularly </B><I>Her manner was not exactly friendly </I><B>| naturally </B> </P>
+<P> <U> PREP. </U><B> to, towards </B><I>He was always friendly towards me. </I> </P>
+<P> <SUP> 2 </SUP> <TT> being friends </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become, get | remain </B> </P>
+<P> <U> ADV. </U><B> very | pretty, quite </B><I>They were quite friendly when they worked together. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She's very friendly with Maureen. </I> </P>
+<P> <U> PHRASES </U><B> be on friendly terms (with sb) </B><I>We have managed to remain on friendly terms. </I> </P>
+<P> <SUP> 3 </SUP> <TT> easy to use/helpful/not harmful </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> environmentally </B><I>environmentally friendly cleaning products </I> </P>
+<P> <U> PHRASES </U><B> child-/family-friendly </B><I>Employers are being encouraged to adopt family-friendly measures like flexible hours. </I><B>| ozone-friendly, user-friendly</B> </P>
+</DIV>

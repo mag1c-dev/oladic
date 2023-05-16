@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>hazy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not clear because the air is difficult to see through </TT> </P>
+<P> <U> VERBS </U><B> be, look </B><I>The distant mountains looked hazy and mysterious. </I><B>| become | remain </B> </P>
+<P> <U> ADV. </U><B> very | a little, quite, rather, slightly </B><I>Generally, it will be rather hazy today, with some hill fog. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The summers were hazy with pollution. </I> </P>
+<P> <SUP> 2 </SUP> <TT> confused </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>I have only a very hazy idea about how the economy works. </I><B>| a bit, fairly, a little, rather, somewhat </B><I>My memory of that day is somewhat hazy now. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>I'm a bit hazy about my family history. </I> </P>
+</DIV>

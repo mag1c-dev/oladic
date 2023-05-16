@@ -1,0 +1,31 @@
+
+<DIV class="item"><P class="word"><B>field </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on a farm </TT> </P>
+<P> <U> ADJ. </U><B> cultivated, green, ploughed </B><I>looking out on the green fields of Shropshire We had to walk across a ploughed field. </I><B>| enclosed | open | surrounding | fertile | arable | paddy, rice | corn, wheat, etc. </B> </P>
+<P> <U> VERB + FIELD </U><B> work in </B><I>People were working in the fields. </I><B>| cultivate, work </B><I>Despite the war, they continued to work the fields. </I><B>| plough | plant </B><I>He planted fields full of sunflowers. </I><B>| graze in </B> </P>
+<P> <U> PREP. </U><B> across/through a/the ~ </B><I>walking across the field </I><B>| (out) in a/the ~ </B><I>tractors working out in the field </I><B>| ~ of </B><I>a field of wheat </I> </P>
+<P> <SUP> 2 </SUP> <TT> subject/activity </TT> </P>
+<P> <U> ADJ. </U><B> chosen, specialist </B><I>All of them are experts in their chosen field. </I><B>| research </B> </P>
+<P> <U> VERB + FIELD </U><B> work in </B><I>people who work in this field </I><B>| open up </B><I>This discovery has opened up a whole new field of research. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There has been no solid research in this field. </I><B>| outside a/sb's ~ </B><I>I can't answer that?I'm afraid it's outside my field </I>(= outside the subject I am studying/know sth about)</B><I>. </I><B>| ~ of </B><I>now working in the field of computer science </I> </P>
+<P> <U> PHRASES </U><B> an expert/a leader in the field, a field of research/study </B> </P>
+<P> <SUP> 3 </SUP> <TT> practical work </TT> </P>
+<P> <U> VERB + FIELD </U><B> work in </B> </P>
+<P> <U> FIELD + NOUN </U><B> investigation, research, study, trial | methods | trip </B><I>We went on a geology field trip. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>essential reading for those working in the field </I> </P>
+<P> <SUP> 4 </SUP> <TT> for playing a sport </TT> </P>
+<P> <U> ADJ. </U><B> playing, sports | football, rugby, etc. </B> </P>
+<P> <U> VERB + FIELD </U><B> take </B><I>Today they take the field </I>(= go on to the field to play a match) </B><I>against county champions Essex. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>people walking their dogs on the school's playing field </I><B>| off the ~ </B><I>Players need discipline both on and off the field </I>(= when playing and in other areas of their lives)</B><I>. </I></P>
+<P> <SUP> 5 </SUP> <TT> the field: competitors in a sport/business  </TT> </P>
+<P> <U> ADJ. </U><B> strong </B> </P>
+<P> <U> VERB + FIELD </U><B> head, lead </B><I>She managed to head the field across the finishing line of the London Marathon. They lead the field in home entertainment systems. </I> </P>
+<P> <U> FIELD + VERB </U><B> include sb </B><I>The strong field includes three world record holders. </I> </P>
+<P> <U> PREP. </U><B> ahead of the ~ </B><I>His superb technique puts him head and shoulders ahead of the field. </I> </P>
+<P> <SUP> 6 </SUP> <TT> in science </TT> </P>
+<P> <U> ADJ. </U><B> electric, electromagnetic, energy, force, gravitational, magnetic </B><I>the earth's magnetic field </I> </P>
+<P> <U> FIELD + NOUN </U><B> strength </B> </P>
+<P> <SUP> 7 </SUP> <TT> computing </TT> </P>
+<P> <U> ADJ. </U><B> display, input </B> </P>
+<P> <U> VERB + FIELD </U><B> create </B><I>You will need to create separate fields for first name, surname and address. </I><B>| move between </B><I>the use of keys to move between fields </I>&gt; Special page at COMPUTER </B> </P>
+</DIV>

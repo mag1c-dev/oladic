@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>technology </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> current, existing, present-day | emerging, the latest, modern, new </B><I>small businesses that are involved with emerging technologies </I><B>| basic, low | advanced, complex, high, leading-edge, sophisticated, state-of-the-art, up-to-date, white-hot | alternative, innovative </B><I>a car based on alternative technology </I><B>| efficient | communication/communications, computer, digital, energy, information, management, manufacturing, nuclear, production, software, telecommunications | educational, environmental, medical, military </B> </P>
+<P> <U> VERB + TECHNOLOGY </U><B> have </B><I>We now have the technologies to transplant limbs. </I><B>| adopt, apply, employ, exploit, introduce, take advantage of, use </B><I>exploiting existing technologies more fully </I><B>| create, develop, improve | be based on </B><I>a car engine based on technology developed for aeroplanes </I><B>| invest in </B><I>The company is investing heavily in new technologies. </I> </P>
+<P> <U> TECHNOLOGY + VERB </U><B> develop </B><I>Telecommunications technology is developing fast. </I><B>| allow sth, enable sth </B><I>This technology enables computers to read handwriting. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the technology for the extraction of iron ore </I> </P>
+<P> <U> PHRASES </U><B> advances in technology </B><I>recent advances in medical technology </I><B>| the impact of (a) technology, science and technology</B> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>wake, waken </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> stop being asleep </TT> </P>
+<P> <U> ADV. </U><B> early, late </B><I>She had woken even earlier than usual. </I><B>| suddenly | up </B><I>I woke up quite late this morning. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>She had just woken up from a deep sleep. </I> </P>
+<P> <U> PHRASES </U><B> wake (up) to find sth </B><I>Any minute now she'd wake up to find herself at home safe in bed. </I><B>| wake (up) with a start </B><I>She woke with a start from a terrible nightmare. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make sb stop sleeping </TT> </P>
+<P> <U> ADV. </U><B> gently </B><I>I woke him gently. </I><B>| up </B> </P>
+<P> <U> VERB + WAKE, WAKEN </U><B> be careful not to </B><I>Be careful not to wake the children! </I> </P>
+</DIV>

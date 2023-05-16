@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>towel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clean, fresh | damp, wet | dry | rolled-up | fluffy, soft, thick | paper | bath, bathroom, beach, hand, kitchen, tea | roller | sanitary </B> </P>
+<P> <U> VERB + TOWEL </U><B> drape, wrap </B><I>He had a towel draped across his shoulders. </I> </P>
+<P> <U> TOWEL + VERB </U><B> hang </B><I>Several towels hung over the side of the bath. </I> </P>
+<P> <U> TOWEL + NOUN </U><B> rail </B><I>a heated towel rail </I> </P>
+</DIV>

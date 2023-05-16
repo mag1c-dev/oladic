@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>accent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad, marked, pronounced, strong, thick </B><I>She had a pronounced Scottish accent. </I><B>| slight | country, foreign, local, regional | plummy, posh, public school | cockney | American, middle-class, northern, etc. </B> </P>
+<P> <U> QUANT. </U><B> hint, trace </B><I>Her French was excellent, without a trace of an accent. </I> </P>
+<P> <U> VERB + ACCENT </U><B> have, speak in/with | acquire | affect, assume, imitate, put on </B><I>She put on a posh accent when she answered the phone. </I><B>| cultivate | lose </B><I>He lost his northern accent after moving south. </I> </P>
+<P> <U> PREP. </U><B> in an ~ </B><I>She spoke in a broad Midlands accent. </I><B>| with/without an ~ </B><I>a tall man with an American accent </I> </P>
+</DIV>

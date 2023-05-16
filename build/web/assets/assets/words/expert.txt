@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>expert </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> real | leading | acknowledged, recognized | professional, qualified | self-proclaimed, self-styled | so-called | international, world </B><I>She is a world expert on butterflies. </I><B>| local | independent, outside | computer, financial, gardening, health, legal, marketing, medical, military, scientific, technical, etc. </B> </P>
+<P> <U> QUANT. </U><B> committee, panel, team </B><I>A panel of experts will answer questions from the television audience. </I> </P>
+<P> <U> VERB + EXPERT </U><B> consult, take advice from, talk to </B> </P>
+<P> <U> EXPERT + VERB </U><B> advise sb/sth, agree sth, argue sth, believe sth, claim sth, fear sth, predict sth, reckon sth, recommend sth, say sth </B><I>Experts agree that a balanced diet is the key to great health. </I> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>He's an expert at getting his own way. </I><B>| ~ in </B><I>an expert in skin care </I><B>| ~ on </B><I>an expert on European art </I> </P>
+</DIV>

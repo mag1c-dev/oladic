@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>evil </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem | become </B> </P>
+<P> <U> ADV. </U><B> really, truly, very | wholly | basically, inherently, intrinsically </B><I>He believes that all people are basically evil. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>evil </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great | lesser </B><I>This sort of job is a lesser evil than unemployment. </I><B>| moral, social </B><I>combating the social evils of poverty, disease and ignorance </I> </P>
+<P> <U> VERB + EVIL </U><B> do </B><I>His simple message was that God will punish those that do evil. </I><B>| combat, fight, resist, turn (away) from </B><I>You can always choose to resist evil. </I> </P>
+<P> <U> PHRASES </U><B> the forces of evil </B><I>a perpetual struggle between the forces of good and the forces of evil </I><B>| good and evil </B><I>not a simple choice between good and evil </I><B>| the root of all evil </B><I>He sees money as the root of all evil. </I> </P>
+</DIV>

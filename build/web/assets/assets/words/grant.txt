@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>grant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, substantial | small | full </B><I>The full student maintenance grant was rather less than </I>&pound;</B><I>2,000. </I> <B>| annual | capital, lump-sum, purchase </B><I>The school has received a large capital grant to improve its buildings. </I><B>| maintenance | emergency </B><I>emergency grants for special needs for items such as cookers and clothing </I><B>| discretionary | mandatory | student | project, research </B><I>There is a lot of competition for research grants. </I><B>| clothing, conservation, (home) improvement, land, maternity, renovation, training, etc. | Arts Council, EU, government, local authority, etc. </B> </P>
+<P> <U> VERB + GRANT </U><B> apply for | be eligible for, qualify for </B><I>You may be eligible for a clothing grant. </I><B>| get, obtain, receive </B><I>You can get a grant if you've lived in the area for three years. </I><B>| award (sb), give sb, make (sb), offer (sb), provide (sb with) </B><I>The government has awarded a 3.5 million pound grant for the restoration of the opera house. </I><B>| refuse sb | cut </B><I>The theatre's annual grant from the Arts Council has been cut. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a grant for a youth project </I><B>| ~ from </B><I>a grant from the local authority </I> </P>
+</DIV><DIV class="item"><P class="word"><B>grant </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> expressly, specifically </B><I>the rights expressly granted by the terms of the lease </I><B>| effectively </B><I>The law effectively grants the company immunity from prosecution. </I> </P>
+<P> <U> VERB + GRANT </U><B> agree to, decide to | refuse to </B><I>The judge refused to grant him bail. </I><B>| be willing to</B> </P>
+</DIV>

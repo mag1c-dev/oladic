@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>admission </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> entrance </TT> </P>
+<P> <U> ADJ. </U><B> free, half-price | emergency </B><I>emergency admissions to hospital </I><B>| cinema, hospital, school, university </B> </P>
+<P> <U> VERB + ADMISSION </U><B> apply for, seek </B><I>He's applied for admission to the local college. </I><B>| gain </B><I>to gain admission to university </I><B>| grant sb | refuse sb </B> </P>
+<P> <U> ADMISSION + NOUN </U><B> charge, fee, price | criteria, policy | procedure | rate </B><I>hospital admission rates </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>On admission to hospital, you will be examined by a doctor. </I><B>| ~ to </B> </P>
+<P> <SUP> 2 </SUP> <TT> statement admitting sth </TT> </P>
+<P> <U> ADJ. </U><B> clear, frank, full </B><I>This is a clear admission that you were wrong. </I><B>| tacit | grudging </B> </P>
+<P> <U> VERB + ADMISSION </U><B> make </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>She has made no admission of any involvement in the plot. </I> </P>
+<P> <U> PHRASES </U><B> an admission of defeat/failure/guilt/liability </B><I>She saw his leaving the company as an admission of failure. </I><B>| by sb's own admission </B><I>By his own admission he should never have driven so fast. </I> </P>
+</DIV>

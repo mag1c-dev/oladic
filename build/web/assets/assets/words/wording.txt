@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>wording </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> actual, exact, precise, specific | clear | appropriate | vague | ambiguous </B><I>The wording was deliberately ambiguous. </I> </P>
+<P> <U> VERB + WORDING </U><B> alter, change | think about </B><I>We need to think carefully about the wording of the request. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>What's the exact wording of the clause? </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>interruption </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, minor, short, temporary </B><I>The game continued after a short interruption because of rain. </I><B>| major | constant, endless, repeated </B><I>I found it hard to work with all the noise and constant interruptions. </I> </P>
+<P> <U> VERB + INTERRUPTION </U><B> ignore </B><I>He ignored her interruption and carried on talking. </I> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>Can I please have this conversation on the phone without interruptions? </I><B>| ~ from </B><I>He continued speaking despite regular interruptions from the Opposition. </I><B>| ~ to </B><I>The birth of her son was a minor interruption to her career. </I> </P>
+</DIV>

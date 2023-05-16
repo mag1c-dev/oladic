@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>vaccination </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> flu, measles, rubella, smallpox, etc. </B> </P>
+<P> <U> VERB + VACCINATION </U><B> have | give sb </B> </P>
+<P> <U> VACCINATION + NOUN </U><B> campaign, programme </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>a vaccination against tetanus </I> </P>
+</DIV>

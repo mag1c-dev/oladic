@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>automatic </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> working by itself </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>The machine is fully automatic. </I> </P>
+<P> <U> ADV. </U><B> completely, fully, totally </B> </P>
+<P> <SUP> 2 </SUP> <TT> certain to happen </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> almost, virtually </B><I>Promotion was almost automatic after two or three years. </I> </P>
+</DIV>

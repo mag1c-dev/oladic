@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>specification </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, detailed, full | clear, exact | standard | high </B><I>The yachts are built to the highest specifications. </I><B>| strict | original | design, technical | customer | contract, job, product, service </B><I>The manager has drafted job specifications for each of the positions. </I> </P>
+<P> <U> VERB + SPECIFICATION </U><B> draft, draw up, lay down, write | meet </B><I>The aircraft have to meet the strict specifications laid down by the FAA. </I> </P>
+<P> <U> PREP. </U><B> (according) to the/your ~s </B><I>Each vehicle can be equipped according to your specifications. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>prayer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little, short | private, silent | special | fervent | evening, morning | daily | family </B> </P>
+<P> <U> VERB + PRAYER </U><B> offer (up), say, send up, utter </B><I>I sent up a quick prayer and entered the interview room. </I><B>| remember sb in </B><I>Let us remember them in our prayers today. </I><B>| hear | answer </B><I>Does God answer our prayers? </I><B>| kneel in </B><I>The congregation knelt in prayer. </I><B>| join in, meet for </B><I>local groups meeting for prayer </I><B>| have </B><I>We had family prayers before breakfast. </I><B>| attend </B><I>Students are required to attend prayers twice a week. </I> </P>
+<P> <U> PRAYER + NOUN </U><B> book | mat, rug | meeting, service </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>He spends an hour each day at prayer. </I><B>| in ~ </B><I>She moved her lips in silent prayer. </I><B>| ~ for </B><I>a prayer for peace </I><B>| ~ of </B><I>I said a prayer of grateful thanks to God. </I><B>| ~ to </B> </P>
+<P> <U> PHRASES </U><B> the answer to (all) sb's prayers </B>(= exactly what sb needs) <I>The letter was the answer to her prayers. </I> </P>
+</DIV>

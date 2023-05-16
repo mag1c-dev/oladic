@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>restoration </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> returning sth to its original condition </TT> </P>
+<P> <U> ADJ. </U><B> complete, full | extensive </B><I>Many of the older paintings have undergone extensive restoration. </I> </P>
+<P> <U> VERB + RESTORATION </U><B> carry out | undergo | await, be in need of, need </B><I>This historic watermill is currently awaiting restoration. </I> </P>
+<P> <U> RESTORATION + NOUN </U><B> programme, project, work </B> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>The palace is closed for restoration. </I><B>| under ~ </B><I>a steam engine under restoration </I> </P>
+<P> <SUP> 2 </SUP> <TT> bringing sth back into use/existence </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>the full restoration of Sino-US relations </I><B>| immediate </B><I>Protesters called for the immediate restoration of civil liberties. </I> </P>
+<P> <U> PHRASES </U><B> the restoration of diplomatic relations, the restoration of the monarchy</B> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>persist </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> continue doing sth </TT> </P>
+<P> <U> ADV. </U><B> doggedly, stubbornly </B> </P>
+<P> <U> PREP. </U><B> in </B><I>If you persist in upsetting her, I will have to punish you. </I><B>| with </B><I>The detective stubbornly persisted with his questions. </I> </P>
+<P> <SUP> 2 </SUP> <TT> continue to exist </TT> </P>
+<P> <U> ADV. </U><B> still, to this day </B><I>a belief that persists to this day </I><B>| indefinitely </B> </P>
+<P> <U> VERB + PERSIST </U><B> be likely to | tend to | be allowed to </B><I>This situation cannot be allowed to persist. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>If symptoms persist for more than a few days, see a doctor. </I><B>| into </B><I>These practices persisted into the Middle Ages. </I><B>| through/throughout </B><I>The depression persisted through much of the 1930s. </I><B>| until </B><I>The snows persisted until the second month of the new year. </I> </P>
+</DIV>

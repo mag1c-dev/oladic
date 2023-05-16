@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>distinct </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | remain | keep sth </B><I>It is necessary to keep these two issues distinct. </I><B>| regard/see sth as </B> </P>
+<P> <U> ADV. </U><B> very | completely, entirely, quite, totally, wholly | fairly | essentially, fundamentally | clearly | analytically, conceptually, formally </B>(= distinct in form), <B>qualitatively </B><I>Political power should be regarded as analytically distinct from economic power. </I><B>| anatomically, geographically, historically </B><I>geographically distinct regions </I> </P>
+<P> <U> PREP. </U><B> from </B><I>The various dialects are quite distinct from one another. </I> </P>
+<P> <U> PHRASES </U><B> as distinct from </B><I>She was studying lung cancer, as distinct from other types of cancer. </I> </P>
+</DIV>

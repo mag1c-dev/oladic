@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>hedge </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low, tall, thick | boundary, garden, roadside </B><I>Establish which boundary hedges are yours, and which belong to a neighbour. </I><B>| beech, box, hawthorn, privet, yew, etc. </B><I>a thick hawthorn hedge </I> </P>
+<P> <U> VERB + HEDGE </U><B> plant | clip, trim </B><I>Trim the hedge and collect the trimmings. </I> </P>
+<P> <U> HEDGE + NOUN </U><B> clippings, trimmings | trimmer</B> </P>
+</DIV>

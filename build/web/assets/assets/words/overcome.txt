@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>overcome </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> defeat/conquer sb/sth </TT> </P>
+<P> <U> ADV. </U><B> completely | successfully | not entirely </B><I>These problems were never entirely overcome. </I><B>| largely | partially | easily | quickly | gradually | eventually, finally </B><I>He eventually overcame his disability. </I> </P>
+<P> <U> VERB + OVERCOME </U><B> be able to | help (to), help sb (to) </B><I>Therapy helped her overcome her fear. </I><B>| be designed to </B><I>methods designed to overcome these problems </I><B>| attempt to, battle to, struggle to, try to | manage to </B> </P>
+<P> <U> PHRASES </U><B> an attempt to overcome sth 2 be/feel overcome </B>become weak/ill; lose control </B> </P>
+<P> <U> ADV. </U><B> completely, quite </B><I>She felt quite overcome by their kindness. </I><B>| almost, nearly </B><I>She felt almost overcome by a tide of relief. </I><B>| visibly </B><I>The officers on duty were visibly overcome, many of them in tears. </I><B>| suddenly </B> </P>
+<P> <U> PREP. </U><B> by </B><I>Several firefighters had been overcome by smoke and fumes. </I><B>| with </B><I>He was suddenly overcome with remorse for the harm he had done. </I> </P>
+</DIV>

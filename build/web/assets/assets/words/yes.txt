@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>yes </B><I>noun, exclamation </I> </P>
+<P> <U> ADJ. </U><B> resounding, unequivocal, unqualified </B><I>When the villagers were asked if they wanted the factory to be built, the answer was a resounding yes. </I><B>| simple </B> </P>
+<P> <U> VERB + YES </U><B> answer, say </B><I>In reply to his question, most of them answered yes. Please say yes! </I><B>| vote </B> </P>
+<P> <U> YES + NOUN </U><B> vote </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He answered with a yes. </I><B>| ~ to </B><I>They voted yes to strike action. </I> </P>
+<P> <U> PHRASES </U><B> yes or no </B><I>I need a simple yes or no. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>yes </B><I>noun, exclamation </I> </P>
+<P> <U> ADJ. </U><B> resounding, unequivocal, unqualified </B><I>When the villagers were asked if they wanted the factory to be built, the answer was a resounding yes. </I><B>| simple </B> </P>
+<P> <U> VERB + YES </U><B> answer, say </B><I>In reply to his question, most of them answered yes. Please say yes! </I><B>| vote </B> </P>
+<P> <U> YES + NOUN </U><B> vote </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He answered with a yes. </I><B>| ~ to </B><I>They voted yes to strike action. </I> </P>
+<P> <U> PHRASES </U><B> yes or no </B><I>I need a simple yes or no. </I> </P>
+</DIV>

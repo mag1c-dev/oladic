@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>break </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> short rest/holiday </TT> </P>
+<P> <U> ADJ. </U><B> short | coffee, lunch, tea | Christmas, Easter </B><I>Are you going away for the Easter break? </I> </P>
+<P> <U> VERB + BREAK </U><B> have, take </B><I>We'll take a break now and resume in half an hour. </I><B>| need </B> </P>
+<P> <U> BREAK + NOUN </U><B> time </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>I'll see you at break. </I><B>| during (a/the) ~ </B><I>I had a word with John during the break. </I><B>| without a ~ </B><I>We worked all day without a break. </I><B>| ~ for </B><I>a break for lunch </I><B>| ~ from </B><I>a break from looking after the children </I> </P>
+<P> <SUP> 2 </SUP> <TT> change/interruption in sth </TT> </P>
+<P> <U> ADJ. </U><B> clean, complete | career | commercial </B> </P>
+<P> <U> VERB + BREAK </U><B> make </B><I>His new work makes a break with the past. I wanted to leave but was nervous about making the break. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a break from tradition </I><B>| ~ in </B><I>a break in the weather </I><B>| ~ with </B> </P>
+<P> <SUP> 3 </SUP> <TT> opportunity </TT> </P>
+<P> <U> ADJ. </U><B> big, lucky </B> </P>
+<P> <U> VERB + BREAK </U><B> get </B><I>I always knew I would get my lucky break one day. </I><B>| give sb </B><I>He's the director who gave her her first big break. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>break </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> easily | in half, in two </B><I>She broke the chocolate bar in two and gave a piece to me. </I><B>| up </B><I>She broke the chocolate up into small pieces. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>The glass broke into hundreds of pieces. </I><B>PHRASAL VERBS break down </B> </P>
+<P> <SUP> 1 </SUP> <TT> fail </TT> </P>
+<P> <U> ADV. </U><B> completely, irretrievably </B><I>They were divorced on the grounds that their marriage had broken down irretrievably. </I> </P>
+<P> <SUP> 2 </SUP> <TT> start crying </TT> </P>
+<P> <U> PHRASES </U><B> break down and cry/weep, break down in tears </B><I>She broke down in tears as she spoke to reporters. </I><B>break off </B> </P>
+<P> <U> ADV. </U><B> abruptly </B><I>He broke off abruptly when Jo walked in. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>She broke off from the conversation to answer the telephone. </I> </P>
+</DIV>

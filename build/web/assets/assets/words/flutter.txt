@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>flutter </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> quick, light movement </TT> </P>
+<P> <U> ADJ. </U><B> little </B> </P>
+<P> <U> VERB + FLUTTER </U><B> give </B><I>His heart gave a little flutter as the ladder slipped a couple of inches. </I> </P>
+<P> <SUP> 2 </SUP> <TT> state of nervous excitement </TT> </P>
+<P> <U> VERB + FLUTTER </U><B> be in, feel </B><I>She felt a flutter of excitement. </I><B>| get in | cause </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>They arrived in a flutter. </I><B>| ~ of</B> </P>
+</DIV>

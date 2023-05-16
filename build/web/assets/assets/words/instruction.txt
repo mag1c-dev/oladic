@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>instruction </B><I>noun </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> instructions information on how to do sth  </TT> </P>
+<P> <U> ADJ. </U><B> comprehensive, full | adequate | clear, explicit | detailed, precise, specific, step-by-step | complex | simple | general | special | careful | printed, verbal, written | pack, packet | technical | safety | operating, cooking, washing | manufacturer's </B> </P>
+<P> <U> QUANT. </U><B> list, series, set </B> </P>
+<P> <U> VERB + INSTRUCTION </U><B> read </B><I>You should always read the instructions on medicines thoroughly. </I><B>| understand | follow </B><I>These fondant decorations are easy to master if you follow our simple step-by-step instructions. </I><B>| give (sb), leave (sb), supply </B><I>He gave her detailed instructions on the procedure to be followed. instructions supplied with a product </I><B>| repeat | come with </B><I>Did it come with any instructions about assembling it? </I> </P>
+<P> <U> INSTRUCTION + VERB </U><B> tell sb sth </B><I>instructions that tell you where everything goes </I> </P>
+<P> <U> INSTRUCTION + NOUN </U><B> book/booklet, leaflet, manual </B><I>I had to refer to the instruction booklet. </I> </P>
+<P> <U> PREP. </U><B> according to the ~ </B><I>Microwave ovens should be serviced according to the manufacturer's instructions. </I><B>| in accordance with the ~, in the ~ </B><I>It tells you in the instructions not to let the machine get too hot. </I><B>| ~ about, ~ as to </B><I>The organizer will give instructions as to what to do. </I><B>| ~ on </B><I>instructions on how to use the photocopier </I> </P>
+<P> <U> PHRASES </U><B> follow (sb's) instructions to the letter </B><I>The jockey followed his trainer's instructions to the letter </I>(= followed them in every detail)</B><I>. </I></P>
+<P> <SUP> 2 </SUP> <TT> instructions: sth that sb tells/permits you to do  </TT> </P>
+<P> <U> ADJ. </U><B> clear, explicit, express, specific | firm, strict </B><I>I have strict instructions not to let anyone else in. </I><B>| direct | special | fresh, new | further | final | written </B> </P>
+<P> <U> VERB + INSTRUCTION </U><B> be under, have | act on/under </B><I>She is acting under direct instructions from the president. </I><B>| carry out, comply with, follow, obey </B><I>Failure to obey a policeman's instructions may amount to an offence. </I><B>| disobey | ignore | await, wait (for) </B><I>He remained under cover and waited further instructions from headquarters. </I><B>| accept </B><I>Solicitors may not accept instructions in cases where they would have a conflict of interests. </I><B>| receive | give (sb), issue, leave (sb), send (sb) </B><I>The government has issued specific instructions on reducing waste disposal. </I><B>| bark (out), shout, yell </B><I>The director sat in his chair barking instructions at the cast. </I><B>| repeat </B> </P>
+<P> <U> PREP. </U><B> according to the ~ </B><I>We acted according to the instructions we received. </I><B>| in accordance with the ~, on (sb's) ~ </B><I>She was released on instruction from the Foreign Ministry. </I><B>| under (sb/sth's) ~ </B><I>Under Charlemagne's instructions, many classical texts were recopied. </I><B>| with/without ~ </B><I>They were not empowered to negotiate without instructions. </I><B>| ~ from, ~ to </B><I>an instruction to Lieutenant-General Gough from General Clark </I> </P>
+<P> <U> PHRASES </U><B> carry out/follow/obey (sb's) instructions to the letter </B>(= follow them in every detail)  </P>
+<P> <SUP> 3 </SUP> <TT> in a computer </TT> </P>
+<P> <U> QUANT. </U><B> series, set </B> </P>
+<P> <U> VERB + INSTRUCTION </U><B> carry out, execute </B><I>The chip runs at speeds of up to 100MHz and executes two instructions per clock cycle. </I> </P>
+<P> <SUP> 4 </SUP> <TT> teaching </TT> </P>
+<P> <U> ADJ. </U><B> proper | formal, informal | advanced, basic | further | individual, individualized | practical, professional, technical | moral, religious | flying </B> </P>
+<P> <U> QUANT. </U><B> course </B> </P>
+<P> <U> VERB + INSTRUCTION </U><B> get, have, receive </B><I>She had no formal instruction in music. </I><B>| need | offer (sb) </B><I>The Cleveland Clog Dancers were on hand to offer instruction on the important steps. </I><B>| give (sb), provide (sb with) </B> </P>
+<P> <U> PREP. </U><B> for the ~ of </B><I>The information is for the instruction of passengers. </I><B>| under ~ </B><I>drivers under instruction </I><B>| ~ by </B><I>The two-day course features instruction by leading professionals and academics. </I><B>| ~ in </B><I>He claimed that he was not capable of giving instruction in poetry. </I><B>| ~ on </B><I>basic instruction on using the Internet </I> </P>
+<P> <U> PHRASES </U><B> a medium of instruction </B><I>The medium of instruction throughout the course is English. </I> </P>
+</DIV>

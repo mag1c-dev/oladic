@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>reverse </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> opposite </TT> </P>
+<P> <U> ADJ. </U><B> exact </B> </P>
+<P> <U> VERB + REVERSE </U><B> do </B><I>If you tell children to do something, they will often do the exact reverse. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B>(= on the opposite side) <I>The coin has a date on one side and the emperor's head on the reverse. </I> </P>
+<P> <SUP> 2 </SUP> <TT> gear </TT> </P>
+<P> <U> VERB + REVERSE </U><B> put sth in/into, throw sth into </B><I>I put the car in reverse. </I> </P>
+<P> <U> REVERSE + NOUN </U><B> gear </B> </P>
+<P> <SUP> 3 </SUP> <TT> problem </TT> </P>
+<P> <U> ADJ. </U><B> major, serious </B> </P>
+<P> <U> VERB + REVERSE </U><B> experience, have, meet with, suffer </B><I>Their forces have suffered serious reverses in recent months. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>reverse </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move backwards </TT> </P>
+<P> <U> ADV. </U><B> carefully </B><I>She carefull</I>y </B><I>reversed the lorry up the narro</I>w </B><I>driveway. </I><B>| slowly | in, out </B> </P>
+<P> <U> PREP. </U><B> into </B><I>The car reversed into </I>a </B><I>hedge. </I><B>| out of </B><I>He reversed slowl</I>y </B><I>out of the garage</I>. </B> </P>
+<P> <SUP> 2 </SUP> <TT> change sth to the opposite </TT> </P>
+<P> <U> ADV. </U><B> dramatically, radically | completely, exactly, totally </B><I>The decline in this industry has now been completely reversed. </I><B>| almost | partially, partly | simply </B><I>To solve the puzzle, simply reverse the order of the numbers. </I><B>| quickly, rapidly | suddenly </B> </P>
+<P> <U> VERB + REVERSE </U><B> seek to, try to | fail to</B> </P>
+</DIV>

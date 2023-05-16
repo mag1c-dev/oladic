@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>depression </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> unhappiness/mental illness </TT> </P>
+<P> <U> ADJ. </U><B> black, deep, serious, severe | acute, chronic | mild | clinical  | manic | post-natal </B> </P>
+<P> <U> QUANT. </U><B> bout, fit, period </B><I>The actor says he suffers frequent bouts of depression. In a fit of depression, she threw away all her favourite books. A period of acute depression can sometimes follow childbirth. </I> </P>
+<P> <U> VERB + DEPRESSION </U><B> develop, fall into, go into, succumb to </B><I>She fell into a black depression and refused to leave her room. </I><B>| experience, have, suffer (from) </B><I>She was diagnosed as having clinical depression. </I><B>| be treated for </B><I>His wife had left him and he was being treated for depression. </I><B>| come out of, get over </B><I>She was gradually coming out of her depression. </I><B>| cause, lead to </B><I>Bereavement can often lead to depression. </I><B>| relieve, treat </B><I>a new drug used to treat depression </I> </P>
+<P> <U> DEPRESSION + VERB </U><B> deepen | lift </B><I>Her depression has lifted now. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He may have killed himself in depression. </I><B>| with ~ </B><I>He's been off work for months with depression. </I> </P>
+<P> <U> PHRASES </U><B> (a) cause for depression </B><I>These results should not be a cause for depression. </I><B>| the depths of depression </B><I>I was in the depths of depression after receiving my exam results. </I><B>| feelings of depression, the onset of depression </B><I>The onset of depression often follows a traumatic event. </I><B>| a state of depression </B><I>He was in a state of acute depression. </I><B>| symptoms of depression, treatment for depression </B><I>She had been receiving medical treatment for depression. </I> &gt; Special page at ILLNESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> period of reduced economic activity </TT> </P>
+<P> <U> ADJ. </U><B> great, major, serious, severe | economic </B><I>The country is experiencing a severe economic depression. </I> </P>
+<P> <U> VERB + DEPRESSION </U><B> be in the grip of, experience | go into </B><I>The housing market has gone into depression. </I><B>| face </B> </P>
+<P> <U> DEPRESSION + VERB </U><B> deepen </B><I>The depression seems to be deepening. </I> <B>| end </B> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>Many people lost their jobs in the great depression of the 1930s. </I> </P>
+<P> <U> PHRASES </U><B> the depths of a depression, a period of depression </B><I>periods of severe economic depression </I> </P>
+<P> <SUP> 3 </SUP> <TT> hollow part in the surface of sth </TT> </P>
+<P> <U> ADJ. </U><B> shallow, slight | deep </B> </P>
+<P> <U> PREP. </U><B> ~ in, ~ on </B><I>From the air, the photos show a shallow depression on the planet's surface. </I> </P>
+</DIV>

@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>sleep </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> condition of rest </TT> </P>
+<P> <U> ADJ. </U><B> deep | light | REM </B> </P>
+<P> <U> VERB + SLEEP </U><B> drift into/off to, drop off to, get to, go (back) to | cry/sob yourself to | get, sleep, snatch </B><I>Close your eyes and get some sleep now. Tom was in the front room sleeping the sleep of the dead. I snatched a few hours' sleep in the afternoon. </I><B>| need | survive on </B><I>They seem to survive on only a few hours' sleep a night. </I><B>| induce, lull/send sb to </B><I>using drugs to induce sleep The quiet music soon sent her to sleep. </I><B>| drift in and out of </B><I>He drifted in and out of sleep all night. </I><B>| lose </B><I>Don't lose sleep over it?we'll sort everything out in the morning. </I><B>| disrupt | catch up on </B><I>I used Saturday to catch up on my sleep. </I><B>| feign </B><I>I feigned sleep when the ticket inspector came round. </I> </P>
+<P> <U> SLEEP + VERB </U><B> come </B><I>Sleep came to her in snatches. </I><B>| overcome sb, overtake sb </B><I>Sleep finally overtook me. </I> </P>
+<P> <U> SLEEP + NOUN </U><B> pattern | deprivation, loss | apnoea </B> </P>
+<P> <U> PREP. </U><B> during ~ </B><I>your heart rate during sleep </I><B>| in your ~ </B><I>He often walks and talks in his sleep. </I> </P>
+<P> <U> PHRASES </U><B> a lack of sleep </B><I>suffering from a lack of sleep </I><B>| a wink of sleep </B><I>I won't get a wink of sleep with that noise downstairs. </I> </P>
+<P> <SUP> 2 </SUP> <TT> period of sleep </TT> </P>
+<P> <U> ADJ. </U><B> long | little, short | dead, deep, heavy, sound | good, restful | light | disturbed, exhausted, fitful, restless, uneasy </B><I>I woke up early after a disturbed sleep. </I><B>| dreamless, peaceful | drunken | beauty </B><I>Sorry but I need my beauty sleep. </I> </P>
+<P> <U> VERB + SLEEP </U><B> need | have </B><I>Did you have a good sleep? </I><B>| be in </B><I>I was in a deep sleep when the phone rang. </I><B>| drift into, fall into, sink into </B><I>I immediately fell into a dead sleep. </I><B>| awake/awaken/wake (sb) from </B><I>He woke from a fitful sleep with a headache. </I> </P>
+<P> <U> PHRASES </U><B> a (good/poor) night's sleep </B><I>You'll feel better after a good night's sleep. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sleep </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> properly, soundly, well </B><I>I haven't slept properly for weeks. The children were all sleeping soundly. Did you sleep well last night? </I><B>| peacefully, quietly | easier, easily, quiet </B><I>When the murderer is caught we can all sleep easier in our beds at night. </I><B>| badly, fitfully, uneasily | deeply, heavily </B><I>He was exhausted and slept deeply. </I><B>| lightly </B><I>She always slept very lightly so I had to be careful not to wake her. </I><B>| barely, hardly, scarcely </B><I>She felt as if she had hardly slept. </I><B>| a little | alone | together </B> </P>
+<P> <U> VERB + SLEEP </U><B> be unable to, can't/couldn't </B><I>I couldn't sleep so I got up and went downstairs. </I><B>| try to </B><I>You must be very tired. Try to sleep a little. </I><B>| let sb | put sb/sth to </B><I>You should always put babies to sleep on their backs. We had to have our dog put to sleep </I>(= humanely killed because it was so ill)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>I only slept for four hours that night. </I><B>| through </B><I>She slept right through the storm. </I><B>| with </B><I>Everyone knows she sleeps with the boss. </I> </P>
+<P> <U> PHRASES </U><B> not sleep a wink </B>(= not sleep at all) <I>I didn't sleep a wink last night. </I><B>| sleep late </B><I>Let them sleep late on Saturday morning if they want to. </I><B>| sleep like a baby/log </B>(= sleep very well), <B>sleep rough </B><I>the problem of young people who sleep rough in the streets </I> </P>
+</DIV>

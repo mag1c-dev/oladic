@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>total </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> annual, monthly | combined, cumulative, grand, overall, sum </B><I>His two goals give him a grand total of 32 for the season. The sum total of my knowledge of biology is not impressive. </I><B>| final | high, huge, large, record </B><I>a record total of victories </I><B>| low, small | global, national, world/worldwide | jobless, unemployment </B><I>Britain's jobless total rose by 20,000 last month. </I> </P>
+<P> <U> VERB + TOTAL </U><B> add up to, give, make (up) </B><I>Their earnings were </I>&pound;</B><I>250, </I>&pound;</B><I>300 and </I>&pound;</B><I>420, giving a total of </I>&pound;</B><I>970. </I><B>| bring, take </B><I>A donation of </I>&pound;</B><I>250 has been received, bringing the total to </I>&pound;</B><I>3,750. </I><B>| achieve </B><I>The Greens achieved a total of 18 seats. </I> </P>
+<P> <U> TOTAL + VERB </U><B> rise | fall </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>In total, they spent 420 hours on the project. </I><B>| out of a ~ of </B><I>180 vehicles out of a total of 900 examined were not roadworthy. </I><B>| ~ of</B> </P>
+</DIV>

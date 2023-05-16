@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>shirt </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clean, crisp, fresh </B><I>He wears a crisp white shirt to the office every day. </I><B>| baggy | unbuttoned | long-sleeved, short-sleeved | button-down, collarless, open-necked | unironed | football, polo, rugby, sports | Hawaiian </B> </P>
+<P> <U> VERB + SHIRT </U><B> button up, unbutton | pull off | tuck in </B><I>He tucked his shirt into his trousers. </I><B>| wash | iron </B> </P>
+<P> <U> SHIRT + NOUN </U><B> button, collar, cuff, front, pocket, sleeve, tail </B> </P>
+<P> <U> PHRASES </U><B> in (your) shirtsleeves </B>(= not wearing a jacket)   </B> </P>
+</DIV>

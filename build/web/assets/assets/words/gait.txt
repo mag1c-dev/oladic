@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>gait </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rolling, strolling, stumbling, waddling </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He walked with a rolling gait. </I> </P>
+</DIV>

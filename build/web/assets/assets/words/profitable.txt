@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>profitable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> making a profit </TT> </P>
+<P> <U> VERBS </U><B> be, prove, seem </B><I>confident that the venture will prove profitable </I><B>| become | remain | make sth | keep sth </B><I>What can be done to keep the business profitable? </I> </P>
+<P> <U> ADV. </U><B> extremely, highly, hugely, immensely, very </B><I>a highly profitable chain of shops </I><B>| barely | quite, relatively | enough, sufficiently </B><I>The business is not really profitable enough. </I><B>| financially | potentially </B> </P>
+<P> <SUP> 2 </SUP> <TT> helpful </TT> </P>
+<P> <U> VERBS </U><B> be | find sth </B><I>Some churches have found it profitable to hold services during the week. </I> </P>
+<P> <U> ADV. </U><B> very | mutually </B><I>Cooperation could be mutually profitable. </I><B>| potentially</B> </P>
+</DIV>

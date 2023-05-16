@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>tangle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bewildering, confused </B><I>a confused tangle of voices </I><B>| dense, matted </B><I>a dense tangle of undergrowth </I> </P>
+<P> <U> VERB + TANGLE </U><B> get into </B><I>He got into a tangle with his budget figures. </I><B>| sort out, unravel </B><I>The legal tangle was never really unravelled. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>This string's in a tangle. </I> </P>
+</DIV>

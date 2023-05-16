@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>cynicism </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bitter, weary </B><I>He spoke in a tone of weary cynicism. </I><B>| widespread </B> </P>
+<P> <U> QUANT. </U><B> hint, note, touch, trace </B><I>There was not a trace of cynicism in his voice. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>She viewed his new interest in her with cynicism. </I><B>| ~ about </B><I>There is now widespread cynicism about the political system. </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>radiator </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> equipment used for heating a room </TT> </P>
+<P> <U> ADJ. </U><B> central heating, convector, storage </B> </P>
+<P> <U> VERB + RADIATOR </U><B> turn off/on | bleed </B><I>You'll need to bleed the radiators to remove the airlocks. </I> </P>
+<P> <U> RADIATOR + VERB </U><B> leak </B> </P>
+<P> <U> RADIATOR + NOUN </U><B> key, valve </B> </P>
+<P> <SUP> 2 </SUP> <TT> equipment for keeping an engine cool </TT> </P>
+<P> <U> ADJ. </U><B> car </B> </P>
+<P> <U> VERB + RADIATOR </U><B> top up </B><I>Top up the radiator before making a long journey. </I> </P>
+<P> <U> RADIATOR + NOUN </U><B> grille</B> </P>
+</DIV>

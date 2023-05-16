@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>witness </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who sees sth </TT> </P>
+<P> <U> ADJ. </U><B> eye (also eyewitness) </B><I>An eyewitness account described the plane as a &lsquo;fireball&rsquo;. </I><B>| crucial, key, material, vital </B><I>As the last person to see her alive, he was a material witness in the case. </I><B>| independent | credible, reliable, unimpeachable | unreliable </B> </P>
+<P> <U> VERB + WITNESS </U><B> appeal for </B><I>The police are appealing for witnesses. </I><B>| trace </B><I>Police have so far failed to trace any witnesses to the attack. </I> </P>
+<P> <U> WITNESS + VERB </U><B> come forward </B><I>Two witnesses came forward with evidence. </I> </P>
+<P> <U> WITNESS + NOUN </U><B> account, statement </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>a witness to murder </I> </P>
+<P> <SUP> 2 </SUP> <TT> in a court of law </TT> </P>
+<P> <U> ADJ. </U><B> chief, main, principal </B><I>the defence's chief witness </I><B>| hostile | reluctant, unwilling | defence | prosecution, state | expert | character | civilian, police </B> </P>
+<P> <U> VERB + WITNESS </U><B> call </B><I>The defence called their first witness. </I><B>| appear as </B><I>She appeared as a character witness. </I><B>| swear in | cross-examine, examine, interrogate, interview, question | hear | discredit | intimidate, threaten </B><I>A judicial enquiry was ordered, but witnesses were threatened and none would testify. </I><B>| suborn </B><I>He was charged with conspiracy to suborn witnesses. </I> </P>
+<P> <U> WITNESS + VERB </U><B> take the stand </B><I>The next witness took the stand. </I><B>| give evidence, testify | make a statement, state sth | identify sb </B><I>She was the only witness to identify Peters as the attacker. </I> </P>
+<P> <U> WITNESS + NOUN </U><B> box, stand | summons </B> </P>
+<P> <U> PHRASES </U><B> a witness for the defence/prosecution </B> </P>
+<P> <SUP> 3 </SUP> <TT> of a signature </TT> </P>
+<P> <U> VERB + WITNESS </U><B> act as </B> </P>
+<P> <U> WITNESS + VERB </U><B> sign </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>Would you be willing to act as a witness to my signature when I sign my will? </I> </P>
+</DIV>

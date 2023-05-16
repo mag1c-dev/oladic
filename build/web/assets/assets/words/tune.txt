@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>tune </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little </B><I>He hummed a little tune as he washed the dishes. </I><B>| good, nice | familiar, popular, traditional, well-known, well-loved | catchy, memorable | lively, uplifting | dance, hymn | signature, theme </B> </P>
+<P> <U> VERB + TUNE </U><B> give sb, hum, play (sb), sing, whistle </B><I>She gave us a tune on the piano. </I><B>| hum/sing along with | compose, write | pick out </B><I>The kids were picking out a popular tune on the old piano. </I><B>| carry, hold </B><I>He wasn't allowed in the choir because he couldn't hold a tune. </I> </P>
+<P> <U> PHRASES </U><B> to the tune of sth </B><I>The crowd were singing &lsquo;Give us jobs, not more cuts!&rsquo; to the tune of &lsquo;Happy Birthday To You&rsquo;. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tune </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> adjust an engine/a machine </TT> </P>
+<P> <U> ADV. </U><B> permanently </B> </P>
+<P> <U> PREP. </U><B> to </B><I>a laser that is permanently tuned to the correct frequency </I> </P>
+<P> <U> PHRASES </U><B> finely/highly tuned </B><I>a finely tuned engine </I> </P>
+<P> <SUP> 2 </SUP> <TT> adjust a television/radio </TT> </P>
+<P> <U> ADV. </U><B> in </B><I>Don't forget to tune in to our special election programme this evening. </I> </P>
+<P> <U> PREP. </U><B> for, to </B><I>I tuned to the BBC for the late news. </I> </P>
+<P> <U> PHRASES </U><B> badly tuned </B><I>He heard everything through a screen of interference, like on a badly tuned radio. </I><B>| stay tuned </B><I>Stay tuned for the news. </I> </P>
+</DIV>

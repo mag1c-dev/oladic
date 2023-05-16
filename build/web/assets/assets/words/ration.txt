@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>ration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> daily, monthly | double, entire, extra, full </B><I>Pregnant women received a double ration of milk. </I><B>| meagre </B><I>The refugees queued up for their meagre rations of soup. </I><B>| emergency, short, starvation, wartime ~s </B><I>We've been put on short rations. </I><B>| cigarette, food, petrol, etc. </B> </P>
+<P> <U> VERB + RATION </U><B> give sb, hand out, provide (sb with) | get, receive | consume, have, use up </B><I>You've had your ration of sweets for the day! </I><B>| cut, reduce </B><I>The guards are going to cut our rations again. </I> </P>
+<P> <U> RATION + NOUN </U><B> book, card, coupon </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>living on starvation rations </I><B>| ~ of </B><I>our daily ration of bread </I> </P>
+</DIV><DIV class="item"><P class="word"><B>ration </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> strictly </B><I>These foods had to be strictly rationed. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The soldiers were rationed to one litre of water each per day. </I> </P>
+</DIV>

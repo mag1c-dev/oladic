@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>puff </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of air/smoke/wind </TT> </P>
+<P> <U> ADJ. </U><B> little, tiny </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a little puff of smoke </I> </P>
+<P> <SUP> 2 </SUP> <TT> on a cigarette/pipe, etc. </TT> </P>
+<P> <U> ADJ. </U><B> long | short </B> </P>
+<P> <U> VERB + PUFF </U><B> have, take </B><I>He took a long puff at his cigar and began his story. </I> </P>
+<P> <U> PREP. </U><B> ~ at/on </B><I>a puff on her cigarette </I> </P>
+</DIV><DIV class="item"><P class="word"><B>puff </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> smoke </TT> </P>
+<P> <U> ADV. </U><B> furiously, vigorously </B> </P>
+<P> <U> ADV. </U><B> contentedly, happily | thoughtfully | away </B><I>He puffed away at his cigar. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>She puffed furiously at her cigarette. </I><B>| on </B><I>My father sat puffing contentedly on his pipe. </I> </P>
+<P> <SUP> 2 </SUP> <TT> breathe loudly </TT> </P>
+<P> <U> ADV. </U><B> hard </B><I>She was puffing quite hard by the time she reached the office. </I><B>| loudly </B> </P>
+<P> <U> PREP. </U><B> along, from </B><I>She was still puffing from the climb. </I><B>| up </B><I>puffing up the hill </I> </P>
+<P> <U> PHRASES </U><B> huff and puff/puff and pant </B><I>She puffed and panted behind the others. </I><B>| puffing and blowing </B><I>Far behind us, puffing and blowing, came Matt. </I> </P>
+</DIV>

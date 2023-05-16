@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>attraction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fact of attracting/being attracted </TT> </P>
+<P> <U> ADJ. </U><B> fatal, irresistible, obvious, powerful, strong | mutual </B><I>They shared a powerful mutual attraction. </I><B>| gravitational, magnetic, physical, sexual </B> </P>
+<P> <U> VERB + ATTRACTION </U><B> feel </B><I>the strong attraction that she felt for him </I><B>| see </B><I>I could now see the attraction of a steady job and regular income. </I><B>| have, hold </B><I>Long holidays hold no attraction for him. </I><B>| exert </B><I>All matter exerts a gravitational attraction. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the attraction between two people </I><B>| ~ to/towards </B><I>His attraction to you is obvious. </I> </P>
+<P> <U> PHRASES </U><B> the centre of attraction </B><I>Sophie was plainly the centre of attraction in the room. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that attracts people </TT> </P>
+<P> <U> ADJ. </U><B> added, big, chief, great, main, major, obvious, special, star </B><I>The main attraction of the place is the nightlife. </I><B>| popular, tourist </B> </P>
+<P> <U> VERB + ATTRACTION </U><B> have </B><I>A freelance career has the attraction of flexibility. </I><B>| be, prove </B><I>Feeding the animals proved a popular attraction for visitors to the farm. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The lack of heat was an attraction for cyclists. </I> </P>
+</DIV>

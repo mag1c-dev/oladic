@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>slack </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> loose </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, go </B><I>Let the reins go slack. </I><B>| leave sth </B><I>Leave the thread slightly slack to allow for movement. </I> </P>
+<P> <U> ADV. </U><B> very | completely </B><I>Some of the ropes were completely slack. </I><B>| a bit, fairly, slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> not busy </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain </B><I>The antiques business remained slack. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | a bit, fairly, pretty, rather </B><I>This season has been pretty slack for local hotels so far. </I> </P>
+<P> <SUP> 3 </SUP> <TT> lazy </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> very | a bit, rather </B> </P>
+<P> <U> PREP. </U><B> in </B><I>She knew she had been very slack in her church attendance recently. </I> </P>
+</DIV>

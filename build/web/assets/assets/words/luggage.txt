@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>luggage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | hand </B> </P>
+<P> <U> QUANT. </U><B> item, piece </B><I>You are only allowed one piece of hand luggage. </I> </P>
+<P> <U> VERB + LUGGAGE </U><B> carry | claim, collect | check in </B><I>They like you to check your luggage in an hour before the flight. </I><B>| load, pack, unload </B><I>She packed all the luggage into the boot of the car. </I> </P>
+<P> <U> LUGGAGE + NOUN </U><B> compartment, locker | rack | trolley, van | label </B> </P>
+<P> <U> PREP. </U><B> in your ~ </B><I>I always carry a first-aid kit in my luggage. </I> </P>
+</DIV>

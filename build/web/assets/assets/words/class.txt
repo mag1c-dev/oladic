@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>class </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lesson/group of students </TT> </P>
+<P> <U> ADJ. </U><B> big, large | small | advanced, beginners', elementary, intermediate | biology, history, etc. | evening </B> </P>
+<P> <U> VERB + CLASS </U><B> attend, go to, take </B><I>He's taking classes in pottery. </I><B>| miss | hold </B><I>The institute holds evening classes throughout the year. </I><B>| conduct, give, take, teach </B><I>Who's taking the class today? </I><B>| dismiss </B><I>Class dismissed! </I><B>| observe, sit in on </B> </P>
+<P> <U> CLASS + NOUN </U><B> member, teacher | size </B> </P>
+<P> <U> PREP. </U><B> in (a/the) ~ </B><I>We'll start the exercise in class and you can finish it for homework. Which history class are you in? </I><B>| ~ in </B><I>She's going to evening classes in Italian. </I> </P>
+<P> <U> PHRASES </U><B> the back/front of the class </B><I>He sat at the back of the class. </I><B>| be/come top of the class </B><I>She came top of the class in maths. </I> </P>
+<P> <SUP> 2 </SUP> <TT> social/economic group </TT> </P>
+<P> <U> ADJ. </U><B> lower, lower-middle, middle, upper, upper-middle, working </B><I>sections of the working class </I><B>| chattering </B><I>(informal)</I>, <B>educated, landed, landowning, privileged, professional, ruling </B><I>topics being discussed at the breakfast tables of the chattering classes </I><B>| dominant | social </B><I>Membership of gardening clubs is drawn from all social classes. </I> </P>
+<P> <U> CLASS + NOUN </U><B> structure, system | consciousness | interests | conflict, differences, divisions, struggle, war </B> </P>
+<P> <SUP> 3 </SUP> <TT> group of things </TT> </P>
+<P> <U> ADJ. </U><B> large, small | distinct | rare </B> </P>
+<P> <U> VERB + CLASS </U><B> form </B><I>These writers form a distinct class in Russian literature. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a rare class of butterflies </I> </P>
+<P> <U> PHRASES </U><B> be in a class of your own/in a different class </B>(= to be much better than sb/sth)  </P>
+<P> <SUP> 4 </SUP> <TT> high quality/style </TT> </P>
+<P> <U> ADJ. </U><B> great, real </B><I>a player of great class </I> </P>
+<P> <U> VERB + CLASS </U><B> have </B><I>She's got real class. </I> </P>
+<P> <U> PHRASES </U><B> a touch of class </B><I>Th</I>e </B><I>musical entertainment added </I>a </B><I>touch of class to the occasion</I>. </B> </P>
+</DIV>

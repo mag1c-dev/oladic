@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>plug </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> electric </TT> </P>
+<P> <U> ADJ. </U><B> electric | mains | three-pin, two-pin </B><I>The iron is fitted with a three-pin plug. </I><B>| jack | fused </B> </P>
+<P> <U> VERB + PLUG </U><B> pull (out), take out | fit, wire | be fitted with | change </B> </P>
+<P> <SUP> 2 </SUP> <TT> for a sink, etc. </TT> </P>
+<P> <U> ADJ. </U><B> basin, bath, sink </B> </P>
+<P> <U> VERB + PLUG </U><B> put in | pull out </B> </P>
+<P> <U> PLUG + NOUN </U><B> hole (also plughole) </B> </P>
+</DIV>

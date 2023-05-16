@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>pat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> affectionate, friendly | reassuring </B> </P>
+<P> <U> VERB + PAT </U><B> give sb/sth </B><I>He gave the dog a pat. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He gave her a reassuring pat on the shoulder. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>pat </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, lightly | affectionately </B> </P>
+<P> <U> PREP. </U><B> on </B><I>He patted her gently on the shoulder. </I> </P>
+</DIV>

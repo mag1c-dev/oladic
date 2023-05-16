@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>violent </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> using physical strength intended to hurt/kill </TT> </P>
+<P> <U> VERBS </U><B> be | become, get, grow, turn </B> </P>
+<P> <U> ADV. </U><B> exceptionally, extremely, particularly, really, terribly, very | increasingly | almost | a bit, fairly, pretty, quite, rather </B><I>She started to get a bit violent. </I><B>| gratuitously </B><I>The film is contrived, sentimental and gratuitously violent. </I><B>| potentially </B><I>dealing with potentially violent incidents </I><B>| physically, sexually </B> </P>
+<P> <U> PREP. </U><B> to, towards </B><I>He was violent towards his wife on several occasions. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very strong </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> exceptionally, extremely, very </B><I>an exceptionally violent storm </I><B>| almost </B><I>He felt a strong, almost violent, dislike for the stranger. </I><B>| fairly, quite</B> </P>
+</DIV>

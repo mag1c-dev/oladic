@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>truce </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, temporary </B><I>A temporary truce had been reached earlier that year. </I><B>| permanent | three-day, week-long, etc. | fragile, uneasy | electoral, party, political </B> </P>
+<P> <U> VERB + TRUCE </U><B> call, declare, offer, propose </B><I>The guerrillas have called a one-month truce. </I><B>| agree (to/on), conclude, make, negotiate, reach </B><I>The priest helped to negotiate a truce between the warring sides. </I><B>| maintain | break, violate </B> </P>
+<P> <U> TRUCE + VERB </U><B> hold, last, prevail | collapse </B><I>The two-day truce collapsed in intense shellfire. </I><B>| expire, lapse </B><I>They renewed the war as soon as the truce expired. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>during a wartime electoral truce </I><B>| ~ among/between </B><I>An uneasy truce prevailed between them at dinner. </I><B>| ~ with </B><I>the fragile truce with France </I> </P>
+<P> <U> PHRASES </U><B> a flag of truce</B> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>upgrade </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> significantly, substantially | constantly </B><I>We are constantly upgrading our software to meet customers' needs. </I> </P>
+<P> <U> PREP. </U><B> from, to </B><I>customers who want to upgrade from version 4.2 to version 4.5 </I><B>| with </B><I>All the machines can be upgraded with the new processors. </I> </P>
+</DIV>

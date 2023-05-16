@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>murderer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> alleged | convicted | mass, multiple, serial | real </B><I>He protested his innocence and promised to help police track down the real murderer. </I><B>| notorious | child </B> </P>
+<P> <U> VERB + MURDERER </U><B> hunt, track down | catch, find, reveal (sb as), uncover </B> </P>
+<P> <U> MURDERER + VERB </U><B> strike </B><I>The murderer has struck again. </I><B>| kill sb </B> </P>
+<P> <U> PHRASES </U><B> the identity of the murderer </B><I>The identity of her murderer has not yet been revealed. </I> </P>
+</DIV>

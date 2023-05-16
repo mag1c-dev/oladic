@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>paint </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> thick | runny, thin | fresh | dry, wet | emulsion, enamel, gloss, matt, metallic, satin, spray | lead, lead-based, oil-based, water-based | acrylic, oil, poster </B><I>an artist working with acrylic paints </I> </P>
+<P> <U> QUANT. </U><B> blob, speck, splash, spot </B><I>Specks of paint found at the scene were found to match the accused's car. </I><B>| coat </B><I>I'll give the walls a fresh coat of paint. </I><B>| layer </B><I>The artist has used several layers of paint to create the stormy sky. </I><B>| lick </B><I>(informal) A lick of paint will do wonders for the room. </I><B>| jar, pot, tube | box, set </B><I>a set of watercolour paints </I> </P>
+<P> <U> VERB + PAINT </U><B> apply, put on, spray | daub with, spatter with, splash with | remove, scrape off, strip (off) | mix | dilute, thin </B> </P>
+<P> <U> PAINT + VERB </U><B> dry | blister, chip, crack, flake (off), peel </B><I>Paint was peeling from the walls. </I> </P>
+<P> <U> PAINT + NOUN </U><B> brush (also paintbrush) | pot | manufacturer, shop | job </B><I>We did a quick paint job on the car and hoped the damage wasn't noticeable. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>paint </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully | badly, crudely </B><I>The walls had been painted very badly. a crudely painted human figure </I><B>| beautifully, exquisitely | brightly, gaily </B><I>the cheerful, brightly painted doors </I><B>| garishly, gaudily </B> </P>
+<P> <U> PREP. </U><B> in </B><I>an artist who usually paints in oils </I><B>| on </B><I>I like to paint on canvas. </I><B>| with </B><I>Paint the box all over with varnish. </I> </P>
+<P> <U> PHRASES </U><B> freshly/newly painted, paint sth blue, white, etc. </B><I>We painted the walls light green. </I> </P>
+</DIV>

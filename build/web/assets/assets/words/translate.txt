@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>translate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> change sth from one language to another </TT> </P>
+<P> <U> ADV. </U><B> literally </B><I>&lsquo;Tiramisu&rsquo; literally translates as &lsquo;pull-me-up&rsquo;. </I><B>| accurately, correctly | freely, loosely, roughly | generally, normally, usually | variously </B><I>a Greek word variously translated as &lsquo;summit&rsquo;, &lsquo;top&rsquo; and &lsquo;finishing stroke&rsquo; </I> </P>
+<P> <U> VERB + TRANSLATE </U><B> attempt to, try to | be difficult to </B><I>This word is difficult to translate. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>The word &lsquo;sensus&rsquo; can be translated as &lsquo;feeling&rsquo;. </I><B>| for </B><I>I don't speak Italian?can you translate for me? </I><B>| from </B><I>The book has been translated from the Japanese by Livia Yamaguchi. </I><B>| into </B><I>an expression that is difficult to translate into English </I> </P>
+<P> <U> PHRASES </U><B> widely translated </B><I>The novel has been widely translated. </I> </P>
+<P> <SUP> 2 </SUP> <TT> change into a different form </TT> </P>
+<P> <U> ADV. </U><B> directly | effectively | easily | automatically </B><I>Teacher expectations do not automatically translate themselves into student results. </I> </P>
+<P> <U> VERB + TRANSLATE </U><B> attempt to, try to </B><I>trying to translate the theory into simple concepts </I><B>| be difficult to </B> </P>
+<P> <U> PREP. </U><B> into </B><I>A small increase in local spending will translate into a big rise in council tax. </I> </P>
+<P> <U> PHRASES </U><B> translate sth into action/practice </B><I>attempting to translate these ideas into action </I> </P>
+</DIV>

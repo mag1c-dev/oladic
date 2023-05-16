@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>law </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> official rule/rules </TT> </P>
+<P> <U> ADJ. </U><B> administrative, case, civil, common, constitutional, contract, criminal, international, statute, etc. </B>(see also <B>martial law) </B> </P>
+<P> <U> VERB + LAW </U><B> become </B><I>Parliament voted for the bill to become law. </I><B>| enforce, uphold </B><I>It's the job of the police to enforce the law. </I><B>| obey, observe | break, flout, violate | adopt, enact, pass | annul, repeal | interpret </B><I>Judges interpret this law in different ways. </I> </P>
+<P> <U> LAW + VERB </U><B> allow sth, forbid sth, prohibit sth </B><I>The law forbids gambling of any kind. </I><B>| permit sth | require sth </B><I>The wearing of a crash helmet is required by law. </I><B>| govern sth </B><I>the law governing school attendance </I> </P>
+<P> <U> LAW + NOUN </U><B> court | enforcement </B> </P>
+<P> <U> PREP. </U><B> above the ~ </B><I>No one is above the law. </I><B>| against the ~ </B><I>What you did was clearly against the law. </I><B>| by ~ </B><I>By law, you are obliged to install smoke alarms in the factory. </I><B>| within the ~ </B><I>The company is operating entirely within the law. </I><B>| ~ against </B><I>a local law against keeping horses </I><B>| ~ concerning </B><I>the law concerning industrial action ballots </I><B>| ~ on </B><I>A law on hunting will cause a lot of disagreements. </I><B>| ~ relating to </B><I>the law relating to the sale of goods </I> </P>
+<P> <U> PHRASES </U><B> as the law stands </B><I>As the law stands, you can get married while still too young to have a driving licence. </I><B>| law and order </B><I>Martial law was imposed to prevent the breakdown of law and order. </I><B>| the letter of the law </B><I>In spite of the difficulties it would cause her family, the judge stuck to the letter of the law and jailed her. </I><B>| take the law into your own hands </B><I>When police failed to arrest the suspect, local people took the law into their own hands and beat him up. </I> </P>
+<P> <SUP> 2 </SUP> <TT> subject of study/profession </TT> </P>
+<P> <U> VERB + LAW </U><B> practise </B> </P>
+<P> <U> LAW + NOUN </U><B> firm </B></P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+</DIV>

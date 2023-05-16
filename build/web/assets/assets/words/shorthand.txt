@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>shorthand </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> system of writing </TT> </P>
+<P> <U> VERB + SHORTHAND </U><B> learn | do, take, take/write sth down in </B><I>Her secretary was taking shorthand. He took the speech down in shorthand. </I><B>| transcribe </B> </P>
+<P> <U> SHORTHAND + NOUN </U><B> typist, writer </B><I>A shorthand writer will make a transcript. </I><B>| notes | notation </B> </P>
+<P> <SUP> 2 </SUP> <TT> quick way of talking about sth </TT> </P>
+<P> <U> ADJ. </U><B> convenient, useful </B> </P>
+<P> <U> VERB + SHORTHAND </U><B> use sth as </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The term &lsquo;machine&rsquo; is used as a convenient shorthand for the total hardware and software system. </I> </P>
+</DIV>

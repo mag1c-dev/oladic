@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>threshold </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> doorway </TT> </P>
+<P> <U> VERB + THRESHOLD </U><B> cross </B> </P>
+<P> <U> PREP. </U><B> across/over the ~ </B><I>He hesitated before stepping across the threshold. </I><B>| on the ~ </B><I>She stood on the threshold, unsure whether to enter. </I> </P>
+<P> <SUP> 2 </SUP> <TT> level </TT> </P>
+<P> <U> ADJ. </U><B> high, low | maximum, minimum | critical | earnings, tax | boredom, pain </B><I>She has an extremely low boredom threshold. </I> </P>
+<P> <U> VERB + THRESHOLD </U><B> have | reach </B><I>The number of people with the disease is reaching a critical threshold. </I><B>| cross, exceed | set </B><I>They earn wages below the decency threshold set by the EU. </I><B>| raise | lower </B> </P>
+<P> <U> THRESHOLD + NOUN </U><B> level, value </B><I>Below a certain threshold level a person will not be able to detect sound. </I> </P>
+<P> <U> PREP. </U><B> above/below a/the ~ </B><I>Her wages are below the income tax threshold. </I> </P>
+</DIV>

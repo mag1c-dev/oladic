@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>dimension </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> (often <B>dimensions</B>) measurements </TT> </P>
+<P> <U> ADJ. </U><B> approximate | exact, precise </B><I>It is important to measure the exact dimensions of the room. </I><B>| overall | compact </B><I>Despite the unit's compact dimensions, there's still plenty of room for expansion. </I><B>| considerable </B><I>a structure of considerable dimensions </I><B>| fourth, second, third </B><I>The fourth dimension, time, is also finite in extent. </I><B>| physical, space/spatial, temporal/time | horizontal, vertical </B> </P>
+<P> <U> VERB + DIMENSION </U><B> check, measure </B><I>Can we just check the dimensions of the bedroom again? </I> </P>
+<P> <U> PHRASES </U><B> in two/three dimensions </B><I>a model in three dimensions </I> </P>
+<P> <SUP> 2 </SUP> <TT> aspect </TT> </P>
+<P> <U> ADJ. </U><B> added, additional, different, extra, further, new | distinct </B><I>In looking at population ageing we will consider two distinct dimensions. </I><B>| wider </B><I>There is a wider dimension to the question. </I><B>| crucial, essential, important, main, major, significant | global, international, local, national, regional </B><I>Communication via the Internet gives an important international dimension to the project. </I><B>| aesthetic, class, cultural, economic, ethical, historical, human, ideological, moral, personal, political, religious, social, spiritual </B> </P>
+<P> <U> VERB + DIMENSION </U><B> add, give (sth) </B><I>Her illness adds an extra dimension to the problem. </I><B>| have </B><I>The affair had a different dimension now. </I><B>| acquire, take on </B><I>The crisis acquired a new dimension. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>the spiritual dimension to our lives </I> </P>
+</DIV>

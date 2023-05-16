@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>clay </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | fine | soft | damp, sticky, wet | china, modelling </B> </P>
+<P> <U> QUANT. </U><B> lump </B> </P>
+<P> <U> VERB + CLAY </U><B> mould, shape </B><I>She moulded the clay into the shape of a head. </I><B>| bake, fire | be made from/in/(out) of, make/mould sth from/in/out of </B><I>a figure made of clay </I> </P>
+<P> <U> CLAY + NOUN </U><B> modelling | mould </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>plants that grow in damp clay </I> </P>
+</DIV>

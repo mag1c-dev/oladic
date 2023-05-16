@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>diagnosis </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accurate, correct, right | incorrect, wrong | definite, definitive, firm, positive | provisional, tentative </B><I>Without the results of the blood test, the doctor could only make a tentative diagnosis. </I><B>| early </B><I>Early diagnosis is critical for successful treatment. </I><B>| initial | final | clinical, medical, psychiatric </B><I>clinical diagnosis of schizophrenia </I><B>| AIDS, cancer, etc. | fault </B> </P>
+<P> <U> VERB + DIAGNOSIS </U><B> establish, give, make, reach </B><I>The doctor cannot give a diagnosis without knowing the full medical history. </I><B>| confirm </B><I>Further tests have confirmed the diagnosis. </I> </P>
+<P> <U> PREP. </U><B> after ~, before ~ </B><I>Patients may suffer from some of the symptoms years before diagnosis. </I><B>| ~ of </B><I>the diagnosis of the disease a diagnosis of cancer </I> </P>
+<P> <U> PHRASES </U><B> a method of diagnosis </B><I>They are using new methods of diagnosis. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mutation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chance, random | common | cell, gene/genetic </B> </P>
+<P> <U> VERB + MUTATION </U><B> carry, contain </B><I>The protein contained a mutation. </I><B>| suffer </B><I>The genetic material has suffered a mutation. </I><B>| introduce </B><I>Mutations were introduced in the region using various techniques. </I><B>| cause, produce </B> </P>
+<P> <U> MUTATION + VERB </U><B> arise, occur | affect sth </B><I>These cells carry a mutation affecting the prevention mechanism. </I><B>| cause sth, lead to sth, result in sth </B> </P>
+<P> <U> MUTATION + NOUN </U><B> rate</B> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>thinking </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> using your mind to think </TT> </P>
+<P> <U> ADJ. </U><B> deep, hard, serious </B><I>This topic requires a lot of deep thinking. </I><B>| good </B><I>Yes, we'll phone them instead?that's good thinking </I>(= a good idea)</B><I>. </I><B>| clear, logical | muddled | quick | forward </B><I>The school would have made better use of the money with a little forward thinking. </I><B>| positive | abstract, analytical, critical | creative, independent, innovative, original | lateral | wishful </B><I>His claims to be a millionaire are just wishful thinking. </I> </P>
+<P> <U> QUANT. </U><B> piece </B><I>a brilliant piece of lateral thinking </I> </P>
+<P> <U> VERB + THINKING </U><B> do </B><I>We have some hard thinking to do before we agree to the plan. </I><B>| apply </B><I>The book shows you how to apply critical thinking to your studies. </I> </P>
+<P> <U> PREP. </U><B> ~ behind </B><I>It was difficult to see what the thinking was behind their eventual decision. </I> </P>
+<P> <SUP> 2 </SUP> <TT> opinion </TT> </P>
+<P> <U> ADJ. </U><B> contemporary, current, modern | fresh, new | conventional, old, traditional | divergent | government | Labour, Republican, etc. | economic, educational, historical, political, scientific, etc. </B><I>Traditional educational thinking placed importance on learning by rote. </I><B>| feminist, socialist, etc. | military, strategic </B> </P>
+<P> <U> VERB + THINKING </U><B> develop, shape | clarify, explain | change </B><I>They are unlikely to have changed their thinking so soon. </I><B>| dominate </B><I>His writings on motorized warfare dominated strategic thinking in the 1930s. </I> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>contemporary trends in feminist thinking </I><B>| ~ about/on </B><I>What is the current Conservative thinking on social security? </I> </P>
+<P> <U> PHRASES </U><B> a shift in sb's thinking </B><I>There's been a shift in government thinking on genetically-modified food. </I><B>| to sb's way of thinking </B>(= in sb's opinion) <I>To my way of thinking, it would just be a massive waste of money. </I> </P>
+</DIV>

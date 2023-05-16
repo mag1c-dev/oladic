@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>egg </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of birds/as food </TT> </P>
+<P> <U> ADJ. </U><B> fresh | addled, bad, rotten | free-range, organic | chicken, duck, hen's, quail's, etc. | chocolate, Easter | boiled, fried, hard-boiled, poached, scrambled, soft-boiled | Scotch </B> </P>
+<P> <U> QUANT. </U><B> clutch </B><I>She lays a clutch of four eggs on average. </I><B>| box </B> </P>
+<P> <U> VERB + EGG </U><B> lay, produce | hatch | incubate | emerge from, hatch from | boil, cook, fry, poach, scramble | break, crack </B><I>Crack two eggs into the mixture. </I><B>| separate </B><I>Separate the eggs, putting the whites to one side. </I><B>| beat, whisk | brush sth with, glaze sth with </B><I>Brush the pastry with a little beaten egg. </I> </P>
+<P> <U> EGG + VERB </U><B> hatch | break, crack </B> </P>
+<P> <U> EGG + NOUN </U><B> shell (also eggshell) | white, yolk | box | mayonnaise, noodles, pasta, sandwich </B> </P>
+<P> <U> PHRASES </U><B> the white/yolk of an egg </B>&gt; Special page at FOOD </B> </P>
+<P> <SUP> 2 </SUP> <TT> cell from which a new young creature is formed </TT> </P>
+<P> <U> ADJ. </U><B> fertilized | unfertilized </B> </P>
+<P> <U> VERB + EGG </U><B> fertilize </B><I>Only one sperm fertilizes an egg. </I> </P>
+<P> <U> EGG + NOUN </U><B> donor </B> </P>
+<P> <U> PHRASES </U><B> the nucleus of an egg</B> </P>
+</DIV>

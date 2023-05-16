@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>chat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief, little, quick, short | long | cosy, fireside, friendly, good, nice | casual, informal | quiet | interesting | idle | confidential, private </B> </P>
+<P> <U> VERB + CHAT </U><B> have </B><I>We had a nice chat over a cup of tea. </I> </P>
+<P> <U> CHAT + NOUN </U><B> show </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a chat about his new job </I><B>| ~ between </B><I>a chat between Mr Blair and a journalist </I><B>| ~ to/with </B><I>I'll have a chat to John about it. a friendly chat with a neighbour </I> </P>
+</DIV><DIV class="item"><P class="word"><B>chat </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> briefly | amicably, casually, easily, informally </B><I>You will have a chance to circulate and chat informally. </I><B>| politely | away </B><I>They chatted away to each other. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>We chatted briefly about the weather. </I><B>| to </B><I>George was in the kitchen chatting to some friends. </I><B>| with </B><I>I spent a happy half-hour chatting with a friend. </I> </P>
+</DIV>

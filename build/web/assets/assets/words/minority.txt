@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>minority </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, significant, sizeable, substantial | small, tiny | vociferous </B><I>the view of a small but vociferous minority </I><B>| ethnic, national, racial, religious | oppressed, persecuted </B> </P>
+<P> <U> VERB + MINORITY </U><B> belong to | discriminate against </B> </P>
+<P> <U> MINORITY + NOUN </U><B> opinion, view | community, group | government </B> </P>
+<P> <U> PREP. </U><B> among a/the ~ </B><I>You are definitely among the minority. </I><B>| from a/the~ </B><I>people from ethnic minorities </I><B>| in a/the ~ </B><I>We are in the minority on this issue. </I><B>| ~ of </B><I>a sizeable minority of the population </I> </P>
+<P> <U> PHRASES </U><B> only a minority </B><I>Only a tiny minority of holidays are affected. </I> </P>
+</DIV>

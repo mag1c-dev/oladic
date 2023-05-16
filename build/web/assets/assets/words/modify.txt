@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>modify </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> considerably, drastically, greatly, heavily, profoundly, radically, significantly, substantially </B><I>The original text has been modified so radically that it is barely recognizable. </I><B>| a little, partially, partly, slightly, somewhat | gradually | constantly | specially | appropriately, suitably | accordingly | chemically, genetically </B><I>genetically modified organisms </I> </P>
+<P> <U> VERB + MODIFY </U><B> have to, need to </B><I>You may need to modify your plans a little. </I> </P>
+<P> <U> PHRASES </U><B> highly modified, in a modified form </B><I>These ideas are still used today, though in a slightly modified form. </I><B>| a modified version </B><I>using a highly modified version of the program </I> </P>
+</DIV>

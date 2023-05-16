@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>entity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> discrete, distinct, independent, separate, single </B><I>Church and empire were fused in a single entity. </I><B>| basic | abstract | artificial | physical | living | business, corporate, economic, legal, national, political, social </B><I>A company is a separate legal entity. </I> </P>
+<P> <U> VERB + ENTITY </U><B> form </B><I>The two companies will combine to form a new entity. </I> </P>
+</DIV>

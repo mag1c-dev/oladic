@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>objective </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, seem | remain </B> </P>
+<P> <U> ADV. </U><B> truly, very | completely, purely, totally, wholly </B><I>It is impossible to be completely objective. </I><B>| fairly, quite, reasonably | apparently | supposedly</B> </P>
+</DIV><DIV class="item"><P class="word"><B>objective </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> key, main, major, primary, prime, principal | broad, overall, overriding, ultimate | limited, narrow | long-term, short-term | clear, specific | stated </B><I>The legislation has failed to achieve its stated objectives. </I><B>| common </B><I>The two groups are pursuing a common objective. </I><B>| economic, educational, environmental, military, political, strategic | business, policy </B> </P>
+<P> <U> VERB + OBJECTIVE </U><B> accomplish, achieve, attain, fulfil, meet, reach, succeed in </B><I>The department needs more money to fulfil its objectives. </I><B>| fail in | agree, define, establish, formulate, identify, set, specify </B><I>We need to establish a clear objective. </I><B>| declare, state | clarify | promote, pursue </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>The party is radical in its objectives. </I><B>| ~ of </B><I>We succeeded in our prime objective of cutting costs. </I> </P>
+</DIV>

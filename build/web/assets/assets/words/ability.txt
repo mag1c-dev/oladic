@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>ability </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> skill/power to do sth </TT> </P>
+<P> <U> ADJ. </U><B> exceptional, extraordinary, great, outstanding, remarkable, uncanny | inherent, innate, natural </B><I>discovering the natural abilities of each child </I><B>| proven | academic, acting, artistic, athletic, creative, intellectual, linguistic, mathematical, musical, reading, technical | mental, physical </B> </P>
+<P> <U> VERB + ABILITY </U><B> have | demonstrate, show </B><I>Both players demonstrated their ability to hit the ball hard. </I><B>| acquire, develop | lack | lose </B><I>I seem to have lost my ability to attract clients. </I><B>| appreciate, recognize </B><I>Fox's abilities were soon recognized. </I> </P>
+<P> <U> PHRASES </U><B> to the best of your ability </B><I>We will keep you informed to the best of our ability. </I> </P>
+<P> <SUP> 2 </SUP> <TT> speed with which sb learns </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>The school does nothing for children of high ability. </I><B>| limited, low | average, mixed </B><I>It is much more difficult to teach a mixed-ability class. </I> </P>
+<P> <U> VERB + ABILITY </U><B> assess, test </B> </P>
+<P> <U> PHRASES </U><B> a level of ability </B><I>There was a high level of ability among the school leavers. </I><B>| a range of ability/abilities </B><I>I taught a wide range of abilities. </I> </P>
+</DIV>

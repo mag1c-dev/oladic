@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>wire </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> metal as thin thread </TT> </P>
+<P> <U> ADJ. </U><B> taut, tight | loose, slack | fine, thin | thick | flexible, soft | stiff | rusty | barbed, chicken </B>(= wire mesh used to make fences), <B>razor | piano | perimeter | trip, tripwire  </B> <I>The bomb was attached to a tripwire laid across the road. </I><B>| high </B>(= in a circus) <I>One man rode a bicycle along the high wire as the climax to the act. </I> </P>
+<P> <U> QUANT. </U><B> length, piece, strand </B> </P>
+<P> <U> VERB + WIRE </U><B> cut </B><I>They cut the perimeter wire and escaped. </I><B>| stretch </B><I>The wire was stretched between two poles. </I> </P>
+<P> <U> WIRE + NOUN </U><B> grill, mesh, netting | basket, brush, cage, coat hanger, fence, fencing, frame, rack </B><I>Cool the cakes on a wire rack. </I><B>| cutters, wire-cutters</B> </P>
+<P> <U> PREP. </U><B> behind a/the ~ </B><I>Behind the wire, the prisoners were exercising. </I><B>| under a/the ~ </B><I>We got in under the wire. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for electricity </TT> </P>
+<P> <U> ADJ. </U><B> electric, electrical, electricity </B><I>Don't place carpets over electrical wires. overhead electricity wires </I><B>| earth, live, neutral </B><I>Don't touch that wire. It's live. </I><B>| overhead | telegraph, telephone | fuse | bare, exposed </B><I>Watch out for bare wires. </I><B>| insulated, plastic-coated, plastic-covered | frayed </B> </P>
+<P> <U> VERB + WIRE </U><B> attach, connect </B><I>The wire was attached to a pin in the plug. </I><B>| disconnect </B><I>He disconnected the wire from the clock. </I><B>| run </B><I>The electrician ran a wire from the kitchen to the bedroom. </I> </P>
+<P> <U> WIRE + VERB </U><B> go, lead, run, trail </B><I>Where does this wire go? There were wires trailing everywhere. </I><B>| show </B><I>Surely the wires shouldn't show like that? </I> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>the flow of electrical currents along a wire </I><B>| down a/the ~ </B><I>A dry laugh echoed down the telephone wire. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wire </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> correctly, properly </B><I>You should check that the socket is correctly wired. </I><B>| in, up </B><I>She was wired up to a heart monitor. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>Many homes were wired for lighting only. </I><B>| into, to </B><I>The Christmas tree lights are all wired to one plug. </I> </P>
+</DIV>

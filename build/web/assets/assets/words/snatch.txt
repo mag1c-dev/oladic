@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>snatch </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brief </B> </P>
+<P> <U> VERB + SNATCH </U><B> catch, hear, overhear </B><I>We caught snatches of conversation from the room next door. </I><B>| hum, sing </B><I>He was humming a snatch of a song from &lsquo;Cabaret&rsquo;. </I> </P>
+<P> <U> PREP. </U><B> in ~es </B><I>She learnt to sleep in brief snatches. </I> </P>
+<P> <U> PHRASES </U><B> a snatch of conversation/music/song</B> </P>
+</DIV><DIV class="item"><P class="word"><B>snatch </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> almost | quickly | away, up </B><I>She leapt to her feet, snatching up her bag. </I> </P>
+<P> <U> VERB + SNATCH </U><B> try to </B> </P>
+<P> <U> PREP. </U><B> at </B><I>He snatched at her arm as she walked past. </I><B>| from </B><I>She almost snatched the letter from my hand. </I> </P>
+</DIV>

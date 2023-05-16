@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>enterprise </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plan/project </TT> </P>
+<P> <U> ADJ. </U><B> great | exciting | ambitious, difficult, hazardous | common, cooperative, joint </B><I>The programme is a joint enterprise with the National Business School. </I> </P>
+<P> <U> VERB + ENTERPRISE </U><B> embark on/upon, start, undertake </B><I>They are willing to undertake a new enterprise. </I><B>| abandon </B> </P>
+<P> <U> ENTERPRISE + VERB </U><B> fail, succeed </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>The team leader will be the most important factor in this difficult enterprise. </I> </P>
+<P> <SUP> 2 </SUP> <TT> a business </TT> </P>
+<P> <U> ADJ. </U><B> large, large-scale, medium-sized, small, small-scale | profitable, successful | family, private | public, state, state-owned | multinational | agricultural, business, commercial, economic, farming, industrial, manufacturing </B><I>the complex organization of a business enterprise </I> </P>
+<P> <U> VERB + ENTERPRISE </U><B> control, manage, run </B><I>He runs a successful small enterprise. </I><B>| invest in </B> </P>
+<P> <U> ENTERPRISE + VERB </U><B> expand, grow, succeed | fail </B> </P>
+<P> <U> PREP. </U><B> in/within an ~ </B><I>something that affects all the workers in the enterprise </I> </P>
+<P> <SUP> 3 </SUP> <TT> development of businesses </TT> </P>
+<P> <U> ADJ. </U><B> free, private </B><I>The Act will encourage private enterprise. </I><B>| local | corporate, individual, municipal </B> </P>
+<P> <U> VERB + ENTERPRISE </U><B> encourage, promote </B> </P>
+<P> <U> ENTERPRISE + NOUN </U><B> culture </B><I>The government has promoted the small firm and the enterprise culture. </I> </P>
+<P> <SUP> 4 </SUP> <TT> abilities/imagination </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>I thought she showed great enterprise. </I> </P>
+<P> <U> VERB + ENTERPRISE </U><B> show </B> </P>
+<P> <U> PHRASES </U><B> a spirit of enterprise</B> </P>
+</DIV>

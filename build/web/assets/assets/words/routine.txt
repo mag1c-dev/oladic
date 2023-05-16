@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>routine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fixed, set | inflexible, rigid, strict | dull, humdrum, monotonous | familiar, normal, old, regular, usual | daily, day-to-day | domestic, exercise, school, work </B> </P>
+<P> <U> VERB + ROUTINE </U><B> establish, get into, settle into </B><I>It took me a week to settle into a routine. </I><B>| follow, go through </B><I>We go through the same old routine every morning. </I><B>| break, change, vary </B> </P>
+<P> <U> PHRASES </U><B> a change from the/in/of routine </B><I>The children were confused by the change of routine. </I><B>| a matter of routine </B><I>Bags of all visitors to the museum are searched as a matter of routine. </I> </P>
+</DIV>

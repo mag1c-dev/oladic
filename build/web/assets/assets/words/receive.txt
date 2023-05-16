@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>receive </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> get/accept sth </TT> </P>
+<P> <U> ADV. </U><B> gratefully </B><I>All donations will be gratefully received. </I> </P>
+<P> <U> VERB + RECEIVE </U><B> be entitled to </B><I>You might be entitled to receive housing benefit. </I><B>| expect to </B><I>You can expect to receive compensation for all direct expenses arising out of the accident. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>I received a parcel from my mother. </I> </P>
+<P> <SUP> 2 </SUP> <TT> react to sth in a particular way </TT> </P>
+<P> <U> ADV. </U><B> well </B><I>The play was very well received. </I><B>| badly </B><I>The speech was badly received by republican leaders. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The news was received with dismay. </I> </P>
+</DIV>

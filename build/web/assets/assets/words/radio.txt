@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>radio </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cab, car </B><I>There were calls for cab radios to link train drivers and signal boxes. </I><B>| CB, mobile, portable, transistor, two-way | FM, long-wave, short-wave | army, police | community, local, national, state </B> </P>
+<P> <U> VERB + RADIO </U><B> listen to | turn on, tune in to | tune </B><I>His radio is permanently tuned to Radio 1. </I><B>| turn down/up </B> </P>
+<P> <U> RADIO + VERB </U><B> announce sth, report sth </B><I>The radio announced that the president had been assassinated. </I><B>| blare (out), play (sth) </B><I>He drove along with his windows open and the radio blaring out. </I> </P>
+<P> <U> RADIO + NOUN </U><B> receiver, set | alarm, cassette (player) | message, signal, waves | operator | system | transmitter | silence </B><I>The troops maintained a strict radio silence while they moved into position. </I><B>| station | advertisement, broadcast, interview, news, programme, report, show, transmission | frequency | amateur, ham </B><I>The distress call was picked up by a young radio ham. </I><B>| drama, play </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>The message was sent by radio. </I><B>| on the ~ </B><I>We were listening to a show on the radio. </I> </P>
+</DIV>

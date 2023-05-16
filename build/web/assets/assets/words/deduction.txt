@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>deduction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> working things out from the facts </TT> </P>
+<P> <U> ADJ. </U><B> brilliant | logical | reasonable </B> </P>
+<P> <U> VERB + DEDUCTION </U><B> make </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>She arrived at this conclusion by logical deduction. </I><B>| ~ about </B><I>We can make some deductions about the history of the ruins. </I> </P>
+<P> <U> PHRASES </U><B> powers of deduction </B><I>a detective with excellent powers of deduction </I><B>| a process of deduction </B><I>She arrived at the solution by a simple process of deduction. </I> </P>
+<P> <SUP> 2 </SUP> <TT> taking an amount from a total/the amount taken </TT> </P>
+<P> <U> ADJ. </U><B> monthly, weekly </B><I>monthly deductions for health insurance </I><B>| tax </B> </P>
+<P> <U> VERB + DEDUCTION </U><B> make </B><I>The company automatically makes tax deductions from your salary. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>deductions for travel costs </I><B>| ~ from </B><I>deductions from his wages </I> </P>
+</DIV>

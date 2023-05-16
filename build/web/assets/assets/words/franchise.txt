@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>franchise </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> right to vote in elections </TT> </P>
+<P> <U> ADJ. </U><B> democratic | universal </B><I>the fight for a universal franchise </I><B>| limited, restricted | parliamentary </B> </P>
+<P> <U> VERB + FRANCHISE </U><B> qualify for </B><I>It was decided that all men in the armed forces should qualify for the franchise. </I><B>| exercise </B><I>He had to exercise the franchise on behalf of other council members. </I><B>| enlarge, extend, widen </B><I>After the Second World War the franchise was extended to all adults over eighteen. </I><B>| restrict </B> </P>
+<P> <SUP> 2 </SUP> <TT> permission to sell a company's goods/services </TT> </P>
+<P> <U> ADJ. </U><B> catering, fast food, rail, television, etc. </B> </P>
+<P> <U> VERB + FRANCHISE </U><B> have, hold </B><I>the company that holds the rail franchise for the south-east of the country </I><B>| acquire, buy, win </B><I>The company has just won a television franchise. </I><B>| award (sb), give sb, grant sb </B><I>The franchise was awarded to a French company. </I><B>| auction, sell </B><I>TV franchises will be auctioned to the highest bidder. </I><B>| retain | lose </B><I>The ITV licensee lost its franchise to Carlton TV. </I> </P>
+<P> <U> FRANCHISE + NOUN </U><B> system | business, company, operation | holder | agreement | auction, bid | fee </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The diving school has acquired a franchise for scuba equipment. </I> </P>
+<P> <U> PHRASES </U><B> on a franchise basis </B><I>Catering in the schools is run on a franchise basis. </I> </P>
+</DIV>

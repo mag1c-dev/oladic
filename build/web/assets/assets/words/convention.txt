@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>convention </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way sth is done </TT> </P>
+<P> <U> ADJ. </U><B> accepted, established, long-standing, old, traditional, well-established </B><I>It's an established convention that the part of the prince is played by a woman. </I><B>| normal, standard, usual | polite </B><I>Her work refuses any concession to polite conventions of &lsquo;good taste&rsquo;. </I><B>| arbitrary | rigid, strict | cultural, legal, social </B><I>the rigid social conventions of Victorian Britain </I><B>| dramatic, fictional, literary, narrative, operatic, poetic </B><I>The novel refuses to conform to the narrative conventions of 19th century realism. </I><B>| orthographic, punctuation, rhetorical </B> </P>
+<P> <U> QUANT. </U><B> set </B> </P>
+<P> <U> VERB + CONVENTION </U><B> adhere to, conform to, follow, keep to, observe </B><I>They followed the Greek convention of pinning gifts of money to the bride's dress. </I><B>| be bound by, be hidebound by </B><I>Life with the Leighs was not hidebound by rules or convention. </I><B>| break (with), cut through, defy, flout </B><I>She knew that she had broken an important social convention. He had the freedom of spirit to cut through convention. No young politician can afford to flout convention in this way. </I> </P>
+<P> <U> CONVENTION + VERB </U><B> demand sth, dictate sth </B><I>Convention dictated that dangerous physical action is the part of heroes, not heroines. </I> </P>
+<P> <U> PREP. </U><B> according to/by ~ </B><I>By convention, the Queen gives the Royal Assent to all measures passed by Parliament. </I> </P>
+<P> <U> PHRASES </U><B> a break with convention </B><I>In a surprising break with convention, she wore a red wedding dress. </I><B>| a matter of convention </B> </P>
+<P> <SUP> 2 </SUP> <TT> conference </TT> </P>
+<P> <U> ADJ. </U><B> annual | international, national | Democratic, Republican, etc. | careers, constitutional, party, political </B><I>A constitutional convention was elected to try to agree on a new form of government. </I> </P>
+<P> <U> VERB + CONVENTION </U><B> arrange, have, hold, organize | attend, go to | address </B><I>He addressed the annual Republican convention. </I> </P>
+<P> <U> CONVENTION + VERB </U><B> take place </B> </P>
+<P> <U> CONVENTION + NOUN </U><B> centre | delegate</B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>She was at th</I>e </B><I>Democratic convention</I>. </B> </P>
+<P> <U> PHRASES </U><B> delegates to a convention </B> </P>
+<P> <SUP> 3 </SUP> <TT> international agreement </TT> </P>
+<P> <U> ADJ. </U><B> global, international | European, UN/United Nations, etc. | climate, human rights, etc. | draft </B> </P>
+<P> <U> VERB + CONVENTION </U><B> adopt, ratify, sign </B><I>Over 60 countries have yet to ratify the climate convention. </I><B>| adhere to, comply with </B><I>Most countries have adhered to the convention. </I><B>| breach </B><I>This practice breaches the arms convention. </I> </P>
+<P> <U> CONVENTION + VERB </U><B> apply, govern sth </B><I>a convention governing the conditions under which mining is permitted </I><B>| establish sth </B><I>The convention established procedures for the transport of toxic waste. </I><B>| ban sth </B> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>This is forbidden under the European Convention on Human Rights. </I><B>| ~ between </B><I>the 1869 convention between Turkey and Persia </I><B>| ~ for </B><I>the Berne Convention for the Conservation of European Wildlife </I><B>| ~ on </B><I>the 1951 United Nations Convention on refugees </I> </P>
+<P> <U> PHRASES </U><B> a breach of a convention</B> </P>
+</DIV>

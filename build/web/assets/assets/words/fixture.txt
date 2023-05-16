@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>fixture </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sporting event </TT> </P>
+<P> <U> ADJ. </U><B> important, major | difficult | away, home | annual, regular | opening | final | international | friendly | league | sporting </B> </P>
+<P> <U> VERB + FIXTURE </U><B> play </B><I>playing an important fixture this evening </I><B>| fulfil </B><I>The club was fined for not fulfilling its fixtures at the weekend. </I><B>| make sth </B><I>There are plans to make the race an annual fixture. </I><B>| arrange, schedule | stage </B><I>The golf club has staged many international fixtures. </I><B>| postpone </B> </P>
+<P> <U> FIXTURE + NOUN </U><B> list </B><I>a full fixture list of friendly matches </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>a home fixture against Leeds </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth fixed in a house </TT> </P>
+<P> <U> ADJ. </U><B> original </B><I>an exceptional example of Victorian architecture with the original fixtures and fittings intact </I><B>| permanent </B><I>(often figurative) The new conductor is now a permanent fixture in the orchestra. </I> </P>
+<P> <U> PHRASES </U><B> fixtures and fittings</B> </P>
+</DIV>

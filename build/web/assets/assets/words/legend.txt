@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>legend </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> well-known story </TT> </P>
+<P> <U> ADJ. </U><B> ancient | Greek, Roman, etc. | local </B> </P>
+<P> <U> VERB + LEGEND </U><B> become, pass into </B><I>The story of how she was rescued has already passed into legend. </I><B>| tell (sb) </B><I>He told us the legend of the ghostly horseman. </I> </P>
+<P> <U> LEGEND + VERB </U><B> live on </B><I>The legend of his supernatural origins lives on. </I> </P>
+<P> <U> PREP. </U><B> according to ~ </B><I>According to ancient legend, the river is a goddess. </I><B>| in (a/the) ~ </B><I>There have always been stories of human giants in Celtic legend and mythology. </I><B>| ~ about </B><I>legends about the Vikings </I><B>| ~ of </B><I>The story is part of the ancient legend of King Arthur. </I> </P>
+<P> <U> PHRASES </U><B> legend has it that &hellip; </B><I>Legend has it that the Bridge of Sighs got its name from the cries of prisoners being led across it. </I><B>| myths and legends </B><I>the myths and legends of Mexico </I><B>| the subject of legend </B><I>The unusual shell has long been the subject of legend. </I> </P>
+<P> <SUP> 2 </SUP> <TT> famous person/event </TT> </P>
+<P> <U> ADJ. </U><B> living </B><I>pop stars who become living legends </I><B>| basketball, motoring, racing, sporting, etc.</B> </P>
+</DIV>

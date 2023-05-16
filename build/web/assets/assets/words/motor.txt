@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>motor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, powerful | small | diesel, electric | outboard </B><I>a boat with a powerful outboard motor </I> </P>
+<P> <U> VERB + MOTOR </U><B> start, turn on | turn off </B> </P>
+<P> <U> MOTOR + VERB </U><B> run, work </B><I>He left the motor running. </I><B>| drive sth </B><I>A powerful motor drives the mill wheel. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>television </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cable, closed-circuit, digital, high-definition, satellite, terrestrial | commercial, state | local, national | live </B><I>Millions watched the events on live television. </I><B>| black-and-white, colour | portable </B> </P>
+<P> <U> VERB + TELEVISION </U><B> watch </B><I>The children watched television for most of the evening. </I> </P>
+<P> <U> TELEVISION + VERB </U><B> broadcast sth, screen sth </B><I>The state television screened pictures of the trial. </I> </P>
+<P> <U> TELEVISION + NOUN </U><B> chat show, comedy, documentary, drama, film, news, programme, series, show | debate, interview | advert/advertisement, commercial | audience, viewer | personality, presenter | actor, director | character | cameraman, crew | journalist | appearance </B><I>She recalled her first television appearance forty years ago. </I><B>| career | coverage, exposure </B><I>The Olympics receive extensive television coverage. </I><B>| adaptation </B><I>a television adaptation of the popular novel </I><B>| camera | aerial | channel, network, station | licence | business, company, industry, service | monitor, receiver, set | screen | aerial </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She works in television. </I><B>| in front of the ~ </B><I>He spends hours in front of the television every night. </I><B>| on ~ </B><I>We were watching the news on television. </I> </P>
+</DIV>

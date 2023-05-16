@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>exploration </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a place </TT> </P>
+<P> <U> ADJ. </U><B> gas, mineral, oil, petroleum | polar, space | offshore </B><I>the heavy cost of offshore oil exploration </I><B>| archaeological, scientific | speculative | extensive | detailed </B> </P>
+<P> <U> VERB + EXPLORATION </U><B> carry out </B><I>Extensive exploration was carried out using the latest drilling technology. </I><B>| continue </B> </P>
+<P> <U> EXPLORATION + VERB </U><B> take place </B><I>areas where mineral exploration is taking place </I> </P>
+<P> <U> EXPLORATION + NOUN </U><B> activity, drilling </B><I>Exploration activity slowed during the 1970s. </I><B>| programme | company </B><I>an oil exploration company </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>speculative exploration for oil </I> </P>
+<P> <SUP> 2 </SUP> <TT> of an idea/subject </TT> </P>
+<P> <U> ADJ. </U><B> brief | extensive | deep, full | careful, detailed </B><I>My ideas on semantics needed more careful exploration. </I><B>| creative, critical </B><I>creative exploration of music as a medium in education </I><B>| intellectual | personal </B><I>her personal exploration of spirituality </I> </P>
+<P> <U> VERB + EXPLORATION </U><B> need | continue</B> </P>
+</DIV>

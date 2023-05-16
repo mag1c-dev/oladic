@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>slow </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, prove, seem | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, incredibly, remarkably, very | interminably | a bit, comparatively, fairly, a little, pretty, quite, rather, relatively | agonizingly, desperately, frustratingly, painfully, tediously, tortuously </B><I>Filming was painfully slow. </I><B>| notoriously </B><I>Civil court proceedings are notoriously slow. </I><B>| noticeably </B><I>He was noticeably slow to respond. </I><B>| necessarily </B><I>Genetic evolution is necessarily slow. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>They are extremely slow at reaching decisions. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>slow </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> considerably, markedly, noticeably, sharply, significantly </B><I>Sales have slowed down quite markedly. </I><B>| barely, hardly </B><I>The roadblocks hardly slowed them at all. </I><B>| a bit, a little, slightly | gradually | deliberately </B><I>She very deliberately slowed her steps. </I><B>| down, up </B> </P>
+<P> <U> VERB + SLOW </U><B> begin to | try to </B><I>Rachel tried to slow her breathing. </I><B>| be expected to </B><I>Economic growth is expected to slow. </I> </P>
+<P> <U> PHRASES </U><B> slow to a crawl/walk/snail's pace, slow to a halt/stop </B><I>The two of them had slowed almost to a stop. </I> </P>
+</DIV>

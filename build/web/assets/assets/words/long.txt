@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>long </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem </B><I>That dress looks a bit long to me. </I> </P>
+<P> <U> ADV. </U><B> really, very | extra </B><I>Economy class can be uncomfortable for those with extra-long legs. </I><B>| a bit, fairly, quite, rather </B><I>His journey to work is quite long. </I><B>| enough </B><I>Are you sure two hours will be long enough? </I> </P>
+</DIV><DIV class="item"><P class="word"><B>long </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> desperately </B><I>He longed desperately to be back at home. </I><B>| secretly </B><I>They were the words she had secretly longed to hear. </I><B>| always </B><I>She had always longed to go abroad. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>He hated the city and longed for the mountains. </I> </P>
+</DIV>

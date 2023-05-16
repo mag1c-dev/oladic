@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>wreckage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> mangled, tangled, twisted | blazing, burning, smoking | aircraft </B> </P>
+<P> <U> QUANT. </U><B> bit, piece </B><I>Pieces of wreckage have been found up to three miles away. </I> </P>
+<P> <U> VERB + WRECKAGE </U><B> scatter, spread </B><I>The crash left wreckage spread over a wide area. </I><B>| be strewn with </B><I>The runway is still strewn with wreckage. </I><B>| sight </B><I>Wreckage has been sighted fifteen miles north of the island. </I><B>| survey </B><I>He surveyed the wreckage of his expensive equipment. </I><B>| search, sift through </B><I>Police are searching the wreckage for clues to the cause of the accident. </I><B>| examine | clear </B><I>The wreckage has now been cleared from the motorway. </I><B>| be buried in, be trapped in </B><I>Several people are still trapped in the wreckage. </I><B>| crawl from | cut sb (free) from, free sb from, pull sb from </B><I>He had to be cut from the wreckage by firemen. </I><B>| find sth among </B><I>The remains of an explosive device were found among the wreckage. </I><B>| recover sth from, rescue/save sb/sth from, salvage sth from </B><I>Another body has been recovered from the wreckage. (figurative) Could nothing be rescued from the wreckage of her dreams? </I> </P>
+<P> <U> WRECKAGE + VERB </U><B> be strewn </B><I>Wreckage was strewn over a wide area. </I> </P>
+<P> <U> PREP. </U><B> amidst/among/amongst the ~ </B><I>Bodies lay among the tangled wreckage. </I><B>| in the ~ </B><I>Her body was discovered in the wreckage. </I><B>| ~ from </B><I>A search is going on for wreckage from the blazing aircraft. </I> </P>
+</DIV>

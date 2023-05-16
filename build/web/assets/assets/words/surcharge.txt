@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>surcharge </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> small | tax </B><I>a corporate tax surcharge </I> </P>
+<P> <U> VERB + SURCHARGE </U><B> add, impose, levy, put </B><I>A surcharge of 40 francs was added to our bill. A surcharge is levied on late applications. </I><B>| pay </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>There is a surcharge for excess baggage. </I><B>| ~ on </B><I>There is a 2% surcharge on credit card users. </I> </P>
+</DIV>

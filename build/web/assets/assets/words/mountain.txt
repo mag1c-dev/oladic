@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>mountain </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> very high hill </TT> </P>
+<P> <U> ADJ. </U><B> big, great, high, huge, large, lofty, massive, tall, towering | small | steep | low | beautiful, dramatic, fine, majestic, spectacular | surrounding </B><I>The surrounding mountains make the city difficult to evacuate. </I><B>| distant | isolated, remote | inland | jagged, rocky, rugged | snow-capped, snow-covered, snowy | holy </B><I>the holy mountain of the Lapp community </I> </P>
+<P> <U> QUANT. </U><B> chain, range </B><I>a chain/range of mountains </I> </P>
+<P> <U> VERB + MOUNTAIN </U><B> ascend, climb, come/go up, scale | come/go down, descend, walk down | walk in </B><I>We enjoy walking in the mountains. </I><B>| cross (over) </B> </P>
+<P> <U> MOUNTAIN + VERB </U><B> rise, soar, tower </B><I>The mountains here rise to well over 2,000m. </I><B>| fall </B><I>The mountains fall to the east to the flat expanse of the plateau. </I><B>| surround sth </B><I>Towering mountains surrounded the village. </I><B>| shake </B><I>The earth tremor made the mountains shake. </I> </P>
+<P> <U> MOUNTAIN + NOUN </U><B> chain, range | area, country, environment, region </B><I>Between the two towns was 50 miles of mountain country. </I><B>| height </B><I>We crossed the rugged mountain heights. </I><B>| pass, path, road, route, track | landscape, scenery | crag, face, flank, peak, ridge, side, slope, top, valley, wall | cave | lake, stream | air </B><I>Many people come to the resort simply to enjoy the fresh mountain air. </I><B>| pasture | barrier </B><I>The invading army could only penetrate the mountain barrier at one point. </I><B>| village | fastness, fortress, stronghold | hut, lodge, resort | folk, men, people | climber, climbing, walking, walks | guide | rescue, rescue team | bike, biker, biking | sickness | boot | goat, gorilla, hare, sheep </B> </P>
+<P> <U> PREP. </U><B> across/over/through the ~ </B><I>a pass through the mountains </I><B>| down/up a/the ~ </B><I>She arranged to meet the others halfway up the mountain. </I><B>| in the ~s </B><I>This type of goat lives high up in the mountains. </I> </P>
+<P> <U> PHRASES </U><B> the flank/side/slope of a mountain, the foot/bottom/top of a mountain </B> </P>
+<P> <SUP> 2 </SUP> <TT> large amount/number of sth </TT> </P>
+<P> <U> ADJ. </U><B> great | debt | paper | butter, food, etc. </B><I>They revealed a solution to reduce Europe's butter mountain. </I> </P>
+<P> <U> VERB + MOUNTAIN </U><B> generate | reduce </B> </P>
+<P> <U> PHRASES </U><B> a mountain of paper/paperwork </B><I>The enquiry generated a mountain of paperwork. </I> </P>
+</DIV>

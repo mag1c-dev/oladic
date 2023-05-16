@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>reading </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth you can read </TT> </P>
+<P> <U> ADJ. </U><B> compelling, compulsive, fascinating, good, interesting | depressing, disturbing | heavy, serious | light | compulsory, essential, required | recommended, suggested | background, introductory | further | bedtime, holiday </B><I>some light holiday reading </I> </P>
+<P> <U> VERB + READING </U><B> be, make (for) </B><I>Their story makes compulsive reading. </I> </P>
+<P> <U> READING + NOUN </U><B> list </B> </P>
+<P> <SUP> 2 </SUP> <TT> activity of reading </TT> </P>
+<P> <U> ADJ. </U><B> extensive </B><I>After extensive reading on the subject she set to work on an article. </I><B>| careful, close, critical </B><I>A close reading of the text reveals several contradictions. </I><B>| serious | map </B><I>My map-reading skills are not the best. </I> </P>
+<P> <U> VERB + READING </U><B> do, get down to </B><I>I haven't had time to do much reading lately. In the holidays I'll get down to some serious reading. </I> </P>
+<P> <U> READING + NOUN </U><B> material, matter | ability, age, knowledge, skills </B><I>He has a reading age of eight. She has a good reading knowledge of Russian. </I><B>| glasses, light, room </B> </P>
+<P> <U> PREP. </U><B> ~ about/on </B><I>His reading about Ruskin led him to the works of Turner. </I> </P>
+<P> <SUP> 3 </SUP> <TT> reading in public </TT> </P>
+<P> <U> ADJ. </U><B> public | Bible, poetry </B> </P>
+<P> <U> VERB + READING </U><B> give </B><I>Dickens gave many public readings from his works. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We met at a reading of his poetry. </I><B>| ~ from/of </B><I>readings from the Koran </I> </P>
+<P> <SUP> 4 </SUP> <TT> figure/measurement shown on an instrument </TT> </P>
+<P> <U> ADJ. </U><B> high, low | zero | normal | accurate, correct | false | meter, thermometer </B> </P>
+<P> <U> VERB + READING </U><B> get, obtain, take | give </B><I>The dials were giving higher readings than we had expected. </I> </P>
+</DIV>

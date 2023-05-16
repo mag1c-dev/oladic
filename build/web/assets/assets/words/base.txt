@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>base </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lowest part </TT> </P>
+<P> <U> ADJ. </U><B> firm, solid, strong </B> </P>
+<P> <U> VERB + BASE </U><B> have </B><I>The statue has a solid concrete base. </I> </P>
+<P> <SUP> 2 </SUP> <TT> original idea/situation </TT> </P>
+<P> <U> ADJ. </U><B> firm, secure, solid, sound, strong | economic, ideological </B><I>His arguments have a sound economic base. </I> </P>
+<P> <U> VERB + BASE </U><B> have | establish, give sb, provide (sb with) </B><I>These policies give us a solid base for winning the next election. </I><B>| use sth as </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>He used the notes as a base for his lecture. </I> </P>
+<P> <SUP> 3 </SUP> <TT> of support/income/power </TT> </P>
+<P> <U> ADJ. </U><B> solid, sound | broad, narrow </B><I>These policies have a broad base of support. </I><B>| power </B><I>a politician with a rural power base </I><B>| commercial, economic, financial, industrial, manufacturing, tax </B><I>The country has a sound commercial base. </I><B>| client, customer </B> </P>
+<P> <U> VERB + BASE </U><B> have | develop, expand, improve, increase </B><I>The company is trying to expand its customer base. </I> </P>
+<P> <U> BASE + VERB </U><B> grow | shrink </B> </P>
+<P> <SUP> 4 </SUP> <TT> main place </TT> </P>
+<P> <U> ADJ. </U><B> excellent, ideal, perfect </B> </P>
+<P> <U> VERB + BASE </U><B> have </B><I>The company has its base in New York. </I><B>| establish, set up </B><I>The company has set up its new base in the north. </I> </P>
+<P> <U> BASE + NOUN </U><B> camp </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>an ideal base for mountain expeditions </I> </P>
+<P> <SUP> 5 </SUP> <TT> military centre </TT> </P>
+<P> <U> ADJ. </U><B> foreign </B><I>Demonstrators demanded the removal of foreign bases. </I><B>| air, air force, military, missile, NATO, naval, RAF </B> </P>
+<P> <U> VERB + BASE </U><B> have | build, establish </B><I>The Americans established a naval base on the island in the 1960s. </I> </P>
+<P> <U> PREP. </U><B> at a/the~ </B><I>equipment kept at the base </I><B>| on a/the ~ </B><I>people living on the air force base </I><B>| to (the) ~ </B><I>The planes have all returned to base. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>base </B><I>verb </I><B>PHRASAL VERBS base sth on/upon sth </B> </P>
+<P> <U> ADV. </U><B> closely, firmly | broadly, loosely </B><I>The novels are all loosely based on the author's life. </I><B>| largely </B><I>Their research was based largely on anecdotal evidence. </I> </P>
+</DIV>

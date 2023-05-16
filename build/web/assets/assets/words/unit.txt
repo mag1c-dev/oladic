@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>unit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> single thing </TT> </P>
+<P> <U> ADJ. </U><B> large, small | basic, fundamental </B><I>The family is the basic unit of society. </I><B>| discrete, individual, single </B> </P>
+<P> <U> VERB + UNIT </U><B> break sth down into, divide sth into </B><I>Large departments were broken down into smaller units. </I> </P>
+<P> <SUP> 2 </SUP> <TT> fixed amount </TT> </P>
+<P> <U> ADJ. </U><B> basic, standard | monetary | lexical, linguistic </B> </P>
+<P> <U> UNIT + NOUN </U><B> cost, length, weight </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a unit of currency a unit of length fifty units of electricity </I> </P>
+<P> <U> PHRASES </U><B> per unit </B><I>Electricity is ten pence per unit. </I> </P>
+<P> <SUP> 3 </SUP> <TT> group of people </TT> </P>
+<P> <U> ADJ. </U><B> cohesive </B><I>The new manager changed a talented collection of individuals into a cohesive unit. </I><B>| baby, casualty, emergency, intensive care, maternity, psychiatric, surgical, etc. </B><I>She works in the maternity unit at the local hospital. </I><B>| army, enemy, military | intelligence | policy | research | family, social </B><I>the role of the family unit in the community </I> </P>
+<P> <U> VERB + UNIT </U><B> be attached to </B><I>The cancer research unit is attached to the local university. </I> </P>
+<P> <SUP> 4 </SUP> <TT> piece of furniture/equipment </TT> </P>
+<P> <U> ADJ. </U><B> cooking, kitchen, sink, storage | air-conditioning, control, power, processing, shower </B><I>the central processing unit in a computer </I> </P>
+<P> <U> VERB + UNIT </U><B> install </B><I>We're having new kitchen units installed. </I> </P>
+</DIV>

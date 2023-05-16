@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>hunting </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> chasing wild animals </TT> </P>
+<P> <U> ADJ. </U><B> big-game, deer, fox (also fox-hunting), etc. </B><I>He was killed by a lion while big-game hunting in Africa. </I><B>| commercial </B><I>commercial hunting of minke whales </I> </P>
+<P> <U> VERB + HUNTING </U><B> go </B><I>Local people go hunting in the woods. </I><B>| ban </B><I>Should fox-hunting be banned? </I> </P>
+<P> <U> HUNTING + NOUN </U><B> knife, rifle | ground </B><I>These waters are a hunting ground for sharks. </I><B>| lodge </B><I>The king built a large hunting lodge in the mountains. </I><B>| trip | season </B> </P>
+<P> <SUP> 2 </SUP> <TT> trying to find sth </TT> </P>
+<P> <U> ADJ. </U><B> bargain, house, job, treasure </B><I>Archaeologists have called for a ban on treasure hunting in the region. </I> </P>
+<P> <U> VERB + HUNTING </U><B> go </B><I>We went bargain hunting at the antique market. </I> </P>
+<P> <U> HUNTING + NOUN </U><B> ground </B><I>(figurative) Crowded markets are a happy hunting ground for pickpockets. </I> </P>
+</DIV>

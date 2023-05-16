@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>turf </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> green | soft, springy | artificial | hallowed, home (of a sports pitch) </B><I>the hallowed turf of Wembley the team's first success of the season on home turf </I> </P>
+<P> <U> QUANT. </U><B> piece, sod </B><I>primitive cottages made of sods of turf and sticks </I> </P>
+<P> <U> VERB + TURF </U><B> cut </B><I>They still cut turf here for fuel. </I><B>| lay </B><I>laying turf to create a lawn </I> </P>
+<P> <U> TURF + NOUN </U><B> fire</B> </P>
+</DIV>

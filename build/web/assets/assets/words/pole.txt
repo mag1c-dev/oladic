@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>pole </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> North, South | geographic, geomagnetic, magnetic </B><I>The north magnetic pole lies to the west of the geographic North Pole. </I><B>| opposite </B><I>(figurative) The two authors represent the opposite poles of fictional genius </I> </P>
+<P> <U> PREP. </U><B> between the (two) ~s of </B><I>(figurative) an artistic compromise between the poles of abstraction and representation </I><B>| from ~ to ~ </B><I>The meridian is an imaginary line drawn from pole to pole. </I> </P>
+<P> <U> PHRASES </U><B> be poles apart </B><I>(figurative) In temperament, she and her sister are poles apart </I>(= completely different)</B><I>. </I> </P>
+</DIV>

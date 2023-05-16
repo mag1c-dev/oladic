@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>oats </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> rolled | porridge </B> </P>
+<P> <U> QUANT. </U><B> field </B> </P>
+<P> <U> VERB + OATS </U><B> grow | sow | cut, harvest </B> </P>
+<P> <U> OATS + VERB </U><B> grow</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>swelling </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> marked </B><I>There is a marked swelling of the lymph nodes. </I><B>| slight </B> </P>
+<P> <U> VERB + SWELLING </U><B> reduce </B> </P>
+<P> <U> SWELLING + VERB </U><B> occur | go down, subside</B> </P>
+</DIV>

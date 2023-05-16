@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>continent </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> Antarctic, Australian, African, etc. </B> </P>
+<P> <U> VERB + CONTINENT </U><B> cross </B><I>the first railway to cross the North American continent </I> </P>
+<P> <U> CONTINENT + VERB </U><B> drift </B><I>The evidence that the continents have drifted is overwhelming. </I> </P>
+<P> <U> PREP. </U><B> across a/the ~ </B><I>He travelled across continents in his quest for adventure. </I><B>| on the ~ </B><I>Wolves are still found on the continent of Europe. </I> </P>
+</DIV>

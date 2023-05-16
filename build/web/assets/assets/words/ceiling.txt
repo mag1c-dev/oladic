@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>ceiling </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> top surface inside a room </TT> </P>
+<P> <U> ADJ. </U><B> high, low | domed, sloping, suspended, vaulted | painted </B><I>The palace is famous for its 17th-century painted ceilings. </I> </P>
+<P> <U> CEILING + VERB </U><B> collapse </B> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>a fly on the ceiling </I> </P>
+<P> <U> PHRASES </U><B> from ceiling to floor/from floor to ceiling </B><I>The bathroom has mirrors from ceiling to floor. </I> </P>
+<P> <SUP> 2 </SUP> <TT> top limit on wages/prices, etc. </TT> </P>
+<P> <U> ADJ. </U><B> expenditure, price </B> </P>
+<P> <U> VERB + CEILING </U><B> impose, place, put, set </B><I>They have put a ceiling on the price of petrol. </I><B>| abolish | lift, raise </B><I>The government has decided to lift price ceilings on bread, milk and other staples. </I><B>| lower </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a ceiling on imports </I> </P>
+</DIV>

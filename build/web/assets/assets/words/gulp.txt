@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>gulp </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount you swallow when you gulp </TT> </P>
+<P> <U> ADJ. </U><B> deep, great, huge, large, long </B> </P>
+<P> <U> VERB + GULP </U><B> take </B><I>She took a large gulp of wine from the bottle. </I> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>She drank the tea in great gulps. </I><B>| ~ of </B> </P>
+<P> <SUP> 2 </SUP> <TT> act of gulping </TT> </P>
+<P> <U> ADJ. </U><B> loud, noisy </B> </P>
+<P> <U> VERB + GULP </U><B> give </B><I>He gave a loud gulp and stopped mid-sentence. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>&lsquo;I'm afraid I've broken it,&rsquo; she said with a gulp. </I> </P>
+<P> <U> PHRASES </U><B> at a/one gulp, in one/a single gulp </B><I>He downed half the contents of the glass in one loud gulp. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>gulp </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> eat/drink sth quickly </TT> </P>
+<P> <U> ADV. </U><B> greedily | noisily | down </B><I>She gulped down her coffee and left. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make a swallowing movement </TT> </P>
+<P> <U> ADV. </U><B> nervously </B><I>&lsquo;Do you know where she is?&rsquo; asked Chris. The man gulped nervously and nodded. </I> </P>
+<P> <U> PHRASES </U><B> gulp for air/breath </B><I>Keith swam to the surface and gulped for air. </I> </P>
+</DIV>

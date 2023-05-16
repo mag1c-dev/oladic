@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>instant </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> almost </B><I>His response was almost instant. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>instant </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> short period of time </TT> </P>
+<P> <U> ADJ. </U><B> brief, fleeting </B><I>For a brief instant, I thought she was going to fall. </I><B>| one, single </B><I>His news was too important to be contained for a single instant longer. </I> </P>
+<P> <U> VERB + INSTANT </U><B> pause for </B><I>He paused for an instant before continuing. </I> </P>
+<P> <U> PREP. </U><B> for an ~ </B><I>Just for an instant I thought he was going to refuse. </I><B>| in an ~ </B><I>It was all over in an instant. </I><B>| ~ after/before </B><I>She woke up in the instant before the phone rang. </I> </P>
+<P> <SUP> 2 </SUP> <TT> single point in time </TT> </P>
+<P> <U> ADJ. </U><B> (any) given, (any) one </B><I>At any given instant the distribution of molecular speeds is always constant under the same conditions. </I><B>| very </B><I>He took out his keys to lock the door. At that very instant the door flew open and a man ran into the room. </I> </P>
+<P> <U> PREP. </U><B> at &hellip; ~ </B><I>The bomb could go off at any instant. </I> </P>
+</DIV>

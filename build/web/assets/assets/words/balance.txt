@@ -1,0 +1,31 @@
+
+<DIV class="item"><P class="word"><B>balance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> even combination/distribution </TT> </P>
+<P> <U> ADJ. </U><B> correct, equal, even, exact, ideal, necessary, optimum, perfect, proper, right </B><I>With children, it is important to achieve the right balance between love and discipline. </I><B>| comfortable, equitable, excellent, good, happy, harmonious, healthy </B><I>a healthy balance of foods </I><B>| acceptable, adequate, appropriate, fair, reasonable, sensible </B><I>How do you find an acceptable balance between closeness and distance in a relationship? </I><B>| careful, delicate, fine, subtle </B><I>Being a good boss requires a fine balance between kindness and authority. </I><B>| fragile, precarious, uneasy | overall </B><I>It is the overall balance of the diet that is important. </I><B>| ecological, natural </B><I>Pulling up all the plants will disturb the natural balance of the pond. </I><B>| hormonal, nutritional | ethnic, gender, social </B><I>There is an even gender balance amongst staff and students </I>(= equal numbers of men and women)</B><I>. </I> </P>
+<P> <U> VERB + BALANCE </U><B> require | seek | achieve, create, find, strike </B><I>We need to strike a balance between these conflicting interests. </I><B>| keep, maintain, sustain </B><I>You have to maintain a balance in your life or else you'll go crazy. </I><B>| disturb, upset </B><I>Tourists often disturb the delicate balance of nature on the island. </I><B>| redress, restore | affect | alter, change, shift </B> </P>
+<P> <U> BALANCE + VERB </U><B> change, shift </B> </P>
+<P> <U> PREP. </U><B> on ~ </B>(= after considering all the information) <I>On balance, the company has had a successful year. </I><B>| in ~ </B><I>It is important to keep the different aspects of your life in balance. </I><B>| ~ between </B><I>the balance between academic and practical work </I><B>| ~ of </B><I>the balance of animals and plants in the environment </I> </P>
+<P> <U> PHRASES </U><B> the balance of nature </B> </P>
+<P> <SUP> 2 </SUP> <TT> division of power/influence </TT> </P>
+<P> <U> ADJ. </U><B> changing, shifting | military, political </B> </P>
+<P> <U> VERB + BALANCE </U><B> hold </B><I>to hold the balance of power </I>(= to be in a position where your support would be just enough to give overall power to one group or another) <B>| affect | change, shift | swing, tilt, tip </B>(= to influence a result/decision) <I>In an interview, smart presentation can tip the balance in your favour. </I> </P>
+<P> <U> BALANCE + VERB </U><B> change, shift </B> </P>
+<P> <U> PHRASES </U><B> the balance of advantage </B><I>The balance of advantage has shifted from the unions to employers. </I><B>| the balance of forces/power </B><I>the changing balance of power between the working and middle class </I><B>| checks and balances </B><I>Democracy depends on a system of checks and balances. </I> </P>
+<P> <SUP> 3 </SUP> <TT> of the body </TT> </P>
+<P> <U> ADJ. </U><B> excellent, good | poor </B> </P>
+<P> <U> VERB + BALANCE </U><B> have </B><I>Gymnasts have excellent balance. </I><B>| affect </B><I>Tightness in one set of muscles will affect your whole balance. </I><B>| keep </B><I>I struggled to keep my balance on my new skates. </I><B>| lose </B><I>She lost her balance and fell. </I><B>| recover, regain | knock sb off, throw sb off </B><I>The sudden movement threw him off balance. </I> </P>
+<P> <U> PREP. </U><B> off ~ </B> </P>
+<P> <U> PHRASES </U><B> a sense of balance </B><I>Cats have a very good sense of balance. </I> </P>
+<P> <SUP> 4 </SUP> <TT> money </TT> </P>
+<P> <U> ADJ. </U><B> account, bank | cash, money | credit, favourable, healthy, positive | debit, negative | cleared, net </B><I>Interest is calculated on the daily cleared balance and paid direct to your account. </I><B>| opening | final, outstanding | trade </B> </P>
+<P> <U> VERB + BALANCE </U><B> have </B><I>Everyone likes to have a healthy bank balance. </I><B>| ask for, request </B><I>He asked the cashier for the balance of his current account. </I><B>| check </B><I>I'll need to check my bank balance before I spend so much money. </I><B>| show | achieve | be due </B><I>The final balance is due six weeks before departure. </I><B>| pay </B><I>I'll pay the balance later. </I><B>| use </B><I>The balance of the proceeds will be used for new equipment. </I><B>| bring forward, carry forward </B><I>the balance brought forward from the previous year </I> </P>
+<P> <U> BALANCE + NOUN </U><B> sheet </B><I>the company's balance sheet </I> </P>
+<P> <U> PHRASES </U><B> the balance of payments </B>(= the difference between the amount of money coming into and going out of a country), <B>the balance of trade </B>(= the difference in value between imports and exports)  </P>
+</DIV><DIV class="item"><P class="word"><B>balance </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> keep steady </TT> </P>
+<P> <U> ADV. </U><B> carefully, precariously </B> </P>
+<P> <U> PREP. </U><B> on </B><I>He balanced the glasses carefully on the tray. </I> </P>
+<P> <SUP> 2 </SUP> <TT> compare two things; give them equal value </TT> </P>
+<P> <U> VERB + BALANCE </U><B> have to, need to | seek to, try to </B><I>The plan seeks to balance two important objectives. </I><B>| manage to </B> </P>
+<P> <U> PREP. </U><B> against </B><I>We have to balance the risks of the new strategy against the possible benefits. </I><B>| with </B><I>She tries to balance the needs of her children with those of her employer. </I> </P>
+</DIV>

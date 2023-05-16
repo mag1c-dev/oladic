@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>advance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> forward movement </TT> </P>
+<P> <U> ADJ. </U><B> rapid | Allied, British, German, etc. </B> </P>
+<P> <U> VERB + ADVANCE </U><B> make </B><I>The regiment made an advance on the enemy lines. </I><B>| order </B><I>The general ordered an advance to the front line. </I><B>| halt, resist, stop </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>the advance on Leningrad </I><B>| to ~, towards ~ </B><I>the Russian advance towards Berlin </I> </P>
+<P> <SUP> 2 </SUP> <TT> development </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, dramatic, enormous, great, spectacular, substantial, tremendous | important, major, notable, remarkable, significant | rapid, steady </B><I>rapid advances in science and technology </I><B>| recent | economic, educational, medical, political, scientific, social, technical, technological | theoretical </B> </P>
+<P> <U> VERB + ADVANCE </U><B> make </B><I>We need more money if we are to make any further advances in this area of science. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>two major advances in orthopaedic medicine </I><B>| on ~ </B><I>an advance on the existing techniques </I><B>| towards ~ </B><I>an advance towards a better understanding of God </I> </P>
+<P> <SUP> 3 </SUP> <TT> money </TT> </P>
+<P> <U> ADJ. </U><B> large | cash </B> </P>
+<P> <U> VERB + ADVANCE </U><B> give, pay </B><I>The publishers have paid me an advance. </I><B>| get, receive </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>an advance of </I>&pound;</B><I>10,000 </I><B>| ~ on </B><I>He was paid </I>&pound;</B><I>5,000 as an advance on royalties. </I></P>
+<P> <SUP> 4 </SUP> <TT> advances: sexual  </TT> </P>
+<P> <U> ADJ. </U><B> amorous, sexual </B> </P>
+<P> <U> VERB + ADVANCE </U><B> make </B><I>He made amorous advances to one of his students. </I> </P>
+<P> <U> PREP. </U><B> ~ to</B> </P>
+</DIV><DIV class="item"><P class="word"><B>advance </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move forward </TT> </P>
+<P> <U> ADV. </U><B> quickly, rapidly | cautiously, slowly </B> </P>
+<P> <U> PREP. </U><B> from </B><I>advancing from the south </I><B>| into </B><I>The troops advanced into central Europe. </I><B>| on/upon </B><I>The army advanced on the capital. </I><B>| towards </B><I>He advanced towards me in aggressive style. </I> </P>
+<P> <SUP> 2 </SUP> <TT> develop </TT> </P>
+<P> <U> ADV. </U><B> considerably, greatly, significantly | rapidly </B> </P>
+<P> <U> PREP. </U><B> beyond </B><I>Society needs to advance beyond prejudice and superstition. </I> </P>
+</DIV>

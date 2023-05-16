@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>rope </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strong | slack | guy, mooring, skipping, tow </B><I>I tripped over the guy rope of the tent in the dark. </I> </P>
+<P> <U> QUANT. </U><B> length, piece </B> </P>
+<P> <U> VERB + ROPE </U><B> knot, tie (sth together with) </B><I>He tied the planks together with a strong rope. </I><B>| tighten | loosen | coil (up) | pull (at/on) </B> </P>
+<P> <U> PHRASES </U><B> a coil of rope</B> </P>
+</DIV>

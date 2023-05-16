@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>guardian </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person/institution that guards/protects sth </TT> </P>
+<P> <U> ADJ. </U><B> self-appointed </B><I>She has become the self-appointed guardian of the nation's conscience. </I><B>| moral </B> </P>
+<P> <U> VERB + GUARDIAN </U><B> act as </B><I>The village people act as guardians of the land. </I> </P>
+<P> <SUP> 2 </SUP> <TT> person who is responsible for a child </TT> </P>
+<P> <U> ADJ. </U><B> legal </B> </P>
+<P> <U> VERB + GUARDIAN </U><B> appoint, appoint sb (as) </B><I>The court appoints a legal guardian for the child. </I><B>| act as</B> </P>
+</DIV>

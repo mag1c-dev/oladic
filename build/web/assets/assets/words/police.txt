@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>police </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> armed, mounted | plain-clothes, uniformed | anti-riot, riot | paramilitary, secret, security | federal, local, national, state </B> </P>
+<P> <U> VERB + POLICE </U><B> call | alert, tell </B> </P>
+<P> <U> POLICE + VERB </U><B> arrest sb | patrol sth | interview sb, question sb | investigate sth | appeal for sth </B><I>Police have appealed for witnesses to come forward. </I> </P>
+<P> <U> POLICE + NOUN </U><B> chief, constable, officer | spokesman | headquarters, station | cell </B><I>He spent the night in a police cell after his arrest. </I><B>| custody | car, helicopter, van, vehicle </B><I>an unmarked police car </I><B>| driver, marksman | dog, horse | authorities, force, service | unit | enquiries, investigation | escort </B><I>The visiting fans returned to the railway station under police escort. </I><B>| patrol </B><I>A routine police patrol spotted signs of a break-in at the offices. </I><B>| raid </B><I>Nine arrests were made in a series of police raids across the city. </I><B>| presence </B><I>There was a huge police presence at the demonstration. </I><B>| protection </B><I>All prosecution witnesses were given police protection. </I><B>| cordon, lines </B><I>Some protesters managed to break through the police cordon. </I><B>| chase | informer | brutality, harassment </B> </P>
+<P> <U> PHRASES </U><B> helping the police with their enquiries </B><I>No arrest has been made, but a man is helping the police with their enquiries. </I> </P>
+</DIV>

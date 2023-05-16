@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>spelling </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> correct, incorrect | conventional, usual | alternative, different, variant | American, English, etc. | phonetic </B> </P>
+<P> <U> VERB + SPELLING </U><B> use | check | correct | improve </B> </P>
+<P> <U> SPELLING + NOUN </U><B> error, mistake | test | checker | dictionary, rule | variant | reform </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>In American spelling &lsquo;travelled&rsquo; only has one &lsquo;l&rsquo;. </I><B>| ~ for/of </B><I>The document uses the British spelling for caesium. </I> </P>
+<P> <U> PHRASES </U><B> be good/poor, etc. at spelling</B> </P>
+</DIV>

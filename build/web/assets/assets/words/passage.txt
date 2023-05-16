@@ -1,0 +1,32 @@
+
+<DIV class="item"><P class="word"><B>passage </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> narrow way through </TT> </P>
+<P> <U> ADJ. </U><B> long, short | narrow, small | wide | twisting, winding | connecting, side | subterranean, underground | dark, secret </B> </P>
+<P> <U> VERB + PASSAGE </U><B> clear </B><I>to clear a passage for ships through the ice </I><B>| force </B><I>He forced a passage for the singer through the crowd. </I> </P>
+<P> <U> PREP. </U><B> along/down/through a/the~ </B><I>We ran through the dark passage. </I><B>| in/into a/the ~ </B><I>Someone was waiting outside in the passage. </I><B>| ~ between </B><I>the passage between the cottage and the house </I><B>| ~ from </B><I>There is an underground passage from the church to the house. </I><B>| ~ through </B><I>a narrow passage through the bushes </I><B>| ~ to </B> </P>
+<P> <U> PHRASES </U><B> the end of a passage </B><I>There was a door at the end of the passage. </I><B>| a maze of passages </B><I>the maze of secret passages which wound their way under the building </I> </P>
+<P> <SUP> 2 </SUP> <TT> tube in the body </TT> </P>
+<P> <U> ADJ. </U><B> nasal | back </B>(= rectum)  </P>
+<P> <U> VERB + PASSAGE </U><B> block, obstruct | clear </B> </P>
+<P> <SUP> 3 </SUP> <TT> extract from a book/speech </TT> </P>
+<P> <U> ADJ. </U><B> lengthy, long | short | opening | famous, well-known | descriptive, purple </B> </P>
+<P> <U> VERB + PASSAGE </U><B> quote, read </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There's a lot of slang in this passage. </I><B>| ~ from </B><I>a passage from the Bible </I> </P>
+<P> <SUP> 4 </SUP> <TT> extract from a piece of music </TT> </P>
+<P> <U> ADJ. </U><B> lengthy, long | short | opening | fast, slow | loud | quiet, soft | solo </B> </P>
+<P> <U> VERB + PASSAGE </U><B> play, quote </B><I>In the 15th symphony he quotes a passage from Rossini's &lsquo;William Tell&rsquo; overture. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ | ~ from </B> </P>
+<P> <SUP> 5 </SUP> <TT> movement/progress </TT> </P>
+<P> <U> ADJ. </U><B> rapid, speedy | slow | safe | smooth | free </B><I>The UN Security Council has demanded free passage for families fleeing from the fighting. </I> </P>
+<P> <U> VERB + PASSAGE </U><B> deny sb, refuse sb </B> </P>
+<P> <U> PREP. </U><B> ~ across </B><I>the slow passage of a snail across the veranda </I><B>| ~ down </B><I>Steps cut in the hillside give walkers an easy passage down the mountain. </I><B>| ~ from &hellip; to &hellip; </B><I>We are not aware of our passage from consciousness to sleep. </I><B>| ~ into </B><I>Portugal's passage into the next round of the tournament </I><B>| ~ out of </B><I>a safe passage out of the war zone </I><B>| ~ over </B><I>State-of-the-art suspension guarantees a smooth passage over the bumpiest road. </I><B>| ~ through </B><I>They denied him passage through the territory. </I> </P>
+<P> <U> PHRASES </U><B> the passage of time </B><I>The problems only got worse with the passage of time. </I><B>| a rite of passage </B><I>Marriage is seen as a rite of passage. </I> </P>
+<P> <SUP> 6 </SUP> <TT> journey by ship </TT> </P>
+<P> <U> ADJ. </U><B> long, short | rough, stormy | homeward, outward | sea </B> </P>
+<P> <U> VERB + PASSAGE </U><B> have | book | work </B><I>He worked his passage </I>(= he worked to pay for his journey) </B><I>to Australia. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>During the passage, she taught herself basic Arabic. </I><B>| on sb's/the ~ </B><I>We met him on our outward passage. </I><B>| ~ across </B><I>a rough passage across the Atlantic </I><B>| ~ to </B><I>We had a stormy passage to India. </I> </P>
+<P> <SUP> 7 </SUP> <TT> of a bill through Parliament </TT> </P>
+<P> <U> ADJ. </U><B> smooth | speedy </B> </P>
+<P> <U> VERB + PASSAGE </U><B> begin, complete </B><I>The bill will complete its passage in November. </I> </P>
+<P> <U> PREP. </U><B> during the ~ </B><I>There was much controversy during the passage of the bill. </I><B>| ~ through </B><I>a strategy to ensure the bill's smooth passage through Parliament </I> </P>
+</DIV>

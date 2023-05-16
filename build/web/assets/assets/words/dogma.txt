@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>dogma </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> old | rigid | party, political, religious </B><I>The newspaper seeks to be independent of political dogma. </I> </P>
+<P> <U> VERB + DOGMA </U><B> accept | question, reject </B><I>People are beginning to question the old dogmas. </I> </P>
+</DIV>

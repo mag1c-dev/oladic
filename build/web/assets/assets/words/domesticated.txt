@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>domesticated </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> used to living with people </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>These animals are only partly domesticated. </I> </P>
+<P> <U> ADV. </U><B> fully | partly </B> </P>
+<P> <SUP> 2 </SUP> <TT> able to cook/clean, etc. </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> very | thoroughly </B><I>He is thoroughly domesticated and cooks a delicious chicken casserole. </I><B>| quite</B> </P>
+</DIV>

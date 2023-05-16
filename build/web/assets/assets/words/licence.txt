@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>licence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> valid | special | car, driving | marriage | export, gaming, import, operating, trade, trading </B><I>The government is currently granting no operating licences to foreig </I><B>| television/TV | gun | software, user </B><I>The CD-ROM comes with a single-user licence. </I><B>| entertainment, music </B><I>The bar was refused a music licence. </I><B>| hotel, refreshment, restaurant </B> </P>
+<P> <U> VERB + LICENCE </U><B> have, hold </B><I>You have to have a licence to sell beer. Applicants must hold a valid driving licence. </I><B>| buy, gain, get, obtain, win </B><I>You can buy a TV licence at the post office. She gained her private pilot's licence. I got my driving licence when I was eighteen. The company has won the licence to run trains from the south coast to London. </I><B>| apply for, make an application for | grant (sb), issue | refuse sb | revoke, take away </B><I>He's had his licence taken away. </I><B>| renew | lose </B><I>She lost her driving licence when she was caught drink-driving. </I> </P>
+<P> <U> LICENCE + VERB </U><B> expire, run out </B><I>The licence expires at the end of the year. </I> </P>
+<P> <U> LICENCE + NOUN </U><B> fee, holder </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>All these details are specified in the licence. </I><B>| under a/the ~ </B><I>The weapons were exported under a special export licence. </I><B>| under ~ </B><I>They are Italian trains, but they will be built in Britain under licence. </I><B>| ~ for </B><I>a licence for software manufacture </I><B>| ~ from </B><I>a licence from the Performing Rights Society </I> </P>
+<P> <U> PHRASES </U><B> the holder of a licence</B> </P>
+</DIV>

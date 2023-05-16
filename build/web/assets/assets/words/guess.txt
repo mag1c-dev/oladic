@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>guess </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fair, good, reasonable, safe </B><I>April is the best guess for first deliveries. </I><B>| calculated, educated, informed, inspired, intelligent </B><I>As a vet, he could make an educated guess as to what was wrong with his stomach. </I><B>| rough, wild </B><I>At a rough guess, I'd say we're about twenty miles from home. </I><B>| lucky </B><I>&lsquo;How did you know?&rsquo;&lsquo;It was just a lucky guess.&rsquo; </I> </P>
+<P> <U> VERB + GUESS </U><B> have, hazard, make, take </B><I>If you don't know the answer, have a guess. If I might hazard a guess &hellip; </I><B>| give sb </B><I>&lsquo;Where's Tom?&rsquo; &lsquo;I'll give you three guesses!&rsquo; </I>(= the answer is fairly obvious and you should guess it easily) </B> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>At a guess, I'd say there's a problem with the fuel pump. </I><B>| ~ about/as to/at </B><I>He made a wild guess as to how much the piano might cost. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>guess </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> correctly, right | incorrectly, wrong </B><I>Jane had guessed wrong about who was responsible for the fire. </I><B>| never </B><I>You'll never guess what she told me. </I> </P>
+<P> <U> VERB + GUESS </U><B> can/could </B><I>Can you guess his age? </I><B>| can only </B><I>We can only guess how fast a dinosaur might have run. </I><B>| try to | be easy to, not be difficult to, not be hard to </B><I>It's not hard to guess where they went. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>I was only guessing at her age. </I><B>| from </B><I>She guessed from his expression that he had not won. </I> </P>
+<P> <U> PHRASES </U><B> could/might/should have guessed </B><I>So it was Rob who broke the window? I might have guessed! </I><B>| let me guess </B><I>What star sign are you? No, let me guess. </I> </P>
+</DIV>

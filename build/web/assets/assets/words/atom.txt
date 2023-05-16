@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>atom </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> charged, unstable </B><I>positively charged atoms </I><B>| carbon, nitrogen, etc. </B> </P>
+<P> <U> VERB + ATOM </U><B> split </B><I>The scientist Ernest Rutherford was the first person to split the atom. </I> </P>
+<P> <U> ATOM + NOUN </U><B> bomb</B> </P>
+</DIV>

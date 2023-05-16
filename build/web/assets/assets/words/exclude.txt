@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>exclude </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> rigorously | altogether, completely, entirely, totally | not absolutely, not wholly </B><I>The possibility of error cannot be absolutely excluded. </I><B>| virtually | largely | permanently | apparently | clearly | automatically </B><I>Unlawfully obtained evidence is not automatically excluded from a criminal trial. </I><B>| necessarily | deliberately | explicitly, expressly, specifically | effectively </B><I>By excluding children from pubs we are effectively excluding many parents. </I><B>| systematically | unfairly </B> </P>
+<P> <U> VERB + EXCLUDE </U><B> attempt to, be designed to, purport to, seek to </B><I>a clause that seeks to exclude liability for death or serious injury </I><B>| tend to </B><I>tending to exclude certain groups from full participation in society </I> </P>
+<P> <U> PREP. </U><B> from </B><I>Women were excluded from the council. </I> </P>
+<P> <U> PHRASES </U><B> feel excluded </B><I>Many local people felt excluded from decisions that affected their own community. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>storey </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> lower | top, upper </B> </P>
+<P> <U> VERB + STOREY </U><B> have </B><I>The house has three storeys. </I><B>| occupy </B><I>The kitchen occupies the lower storey. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>I live on the top storey. </I> </P>
+<P> <U> PHRASES </U><B> 5/10, etc. storeys high </B><I>The building is four storeys high. </I> </P>
+</DIV>

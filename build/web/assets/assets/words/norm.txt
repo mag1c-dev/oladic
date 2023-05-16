@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>norm </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accepted, established | ethical, moral | cultural, social | statistical | community, family, group </B> </P>
+<P> <U> VERB + NORM </U><B> conform to </B><I>Their behaviour conforms to the group norm. </I><B>| break, challenge | deviate from, differ from </B> </P>
+<P> <U> PREP. </U><B> above the ~, below the ~, over the ~ </B><I>They want to discourage pay settlements over the norm. </I><B>| ~ for </B><I>On-screen editing has become the norm for all student work. </I><B>| ~ of </B><I>accepted norms of behaviour </I> </P>
+<P> <U> PHRASES </U><B> a deviation/departure from the norm, an exception to the norm, the norm rather than the exception </B><I>In the inner-city areas, poverty is the norm rather than the exception. </I> </P>
+</DIV>

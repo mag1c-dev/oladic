@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>special </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> daily </B><I>The restaurant has an extensive menu and daily specials. </I><B>| television, TV </B><I>There are lots of TV Christmas specials for children this year. </I><B>| Christmas, election | football</B> </P>
+</DIV><P><B>Special Page</B></P>
+<UL>
+	<LI><A HREF="SpecialPage_Business.htm"><B>Business</B></A></LI>
+	<LI><A HREF="SpecialPage_Clothes.htm"><B>Clothes</B></A></LI>
+	<LI><A HREF="SpecialPage_Colours.htm"><B>Colours</B></A></LI>
+	<LI><A HREF="SpecialPage_Computers.htm"><B>Computers</B></A></LI>
+	<LI><A HREF="SpecialPage_Food.htm"><B>Food</B></A></LI>
+	<LI><A HREF="SpecialPage_Fruit.htm"><B>Fruit</B></A></LI>
+	<LI><A HREF="SpecialPage_Illnesses.htm"><B>Illnesses</B></A></LI>
+	<LI><A HREF="SpecialPage_Meetings.htm"><B>Meetings</B></A></LI>
+	<LI><A HREF="SpecialPage_Music.htm"><B>Music</B></A></LI>
+	<LI><A HREF="SpecialPage_Sport.htm"><B>Sport</B></A></LI>
+</UL>
+</DIV>

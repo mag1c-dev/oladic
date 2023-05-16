@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>inquest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | fresh | coroner's </B> </P>
+<P> <U> VERB + INQUEST </U><B> conduct, hold | order </B><I>The court ordered a fres</I>h </B><I>inquest into the tragedy. </I><B>| open | adjourn | attend </B> </P>
+<P> <U> INQUEST + VERB </U><B> open | hear sth </B><I>An elderly woman froze to death, an inquest heard yesterday. </I><B>| decide sth, find sth </B><I>An inquest found that the deceased had died of a drugs overdose. </I><B>| return a verdict </B><I>The inquest returned a verdict of accidental death. </I> </P>
+<P> <U> INQUEST + NOUN </U><B> jury | verdict </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>A verdict o</I>f </B><I>suicide was recorded at th</I>e </B><I>inquest. </I><B>| ~ into </B><I>an inquest int</I>o </B><I>the team's poor performance </I><B>| ~ on </B><I>an inquest on three fisherme</I>n </B> </P>
+</DIV>

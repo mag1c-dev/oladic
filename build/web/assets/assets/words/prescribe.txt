@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>prescribe </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> drugs </TT> </P>
+<P> <U> ADV. </U><B> legally </B><I>The drug can no longer be legally prescribed. </I><B>| medically, medicinally </B> </P>
+<P> <U> PREP. </U><B> for </B><I>drugs prescribed for high blood pressure This drug is often prescribed for women with heart trouble. </I> </P>
+<P> <SUP> 2 </SUP> <TT> what should/should not be done </TT> </P>
+<P> <U> ADV. </U><B> narrowly, rigidly, strictly, tightly </B><I>The curriculum is rigidly prescribed from an early age. Everything about her life was strictly prescribed </I>(= there were strict rules about what she could and could not do)</B><I>. </I> </P>
+</DIV>

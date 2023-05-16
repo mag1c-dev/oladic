@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>quote </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> words taken from a book, etc. </TT> </P>
+<P> <U> ADJ. </U><B> famous, memorable, quotable | direct, verbatim </B><I>a direct quote from this morning's paper </I> </P>
+<P> <U> VERB + QUOTE </U><B> take </B><I>quotes taken from various lifestyle magazines </I> </P>
+<P> <U> QUOTE + VERB </U><B> come from sth </B><I>The quote of the week comes from Mae West. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a quote from Albert Einstein </I> </P>
+<P> <SUP> 2 </SUP> <TT> price that will be charged for a piece of work </TT> </P>
+<P> <U> ADJ. </U><B> written | free </B> </P>
+<P> <U> VERB + QUOTE </U><B> give (sb) | get, obtain </B><I>Always get a written quote before proceeding with work. </I><B>| accept </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a quote for the hire of the equipment </I> </P>
+</DIV><DIV class="item"><P class="word"><B>quote </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> repeat exactly what sb has said/written </TT> </P>
+<P> <U> ADV. </U><B> at length, extensively </B><I>She quotes extensively from the author's diaries. </I><B>| in full </B><I>The passage is quoted in full. </I><B>| accurately, exactly | directly | approvingly, with approval | above, below, earlier, here, previously </B><I>The new text of Article 92, quoted above, gives member states more discretion on this issue. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>She is wrongly quoted as saying &lsquo;Play it again, Sam.&rsquo; </I><B>| from </B><I>quoting from Shakespeare/&lsquo;Hamlet&rsquo; </I> </P>
+<P> <SUP> 2 </SUP> <TT> give sth as an example </TT> </P>
+<P> <U> ADV. </U><B> frequently, often </B> </P>
+<P> <U> PREP. </U><B> as </B><I>an example that is often quoted as evidence of mismanagement </I><B>| on </B><I>Don't quote me on this but I think the figure is in excess of </I>&pound;</B><I>2 billion. </I> </P>
+<P> <U> PHRASES </U><B> widely quoted </B><I>the most widely quoted and influential study in this field </I> </P>
+</DIV>

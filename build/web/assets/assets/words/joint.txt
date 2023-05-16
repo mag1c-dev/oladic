@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>joint </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in the body </TT> </P>
+<P> <U> ADJ. </U><B> elbow, hip, knee, etc. | inflamed, painful, rheumatic, stiff, swollen | artificial </B> </P>
+<P> <U> VERB + JOINT </U><B> replace </B><I>He's going to have his hip joint replaced. </I> </P>
+<P> <U> JOINT + VERB </U><B> ache | move </B><I>The joint should be able to move freely. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>You've got fluid in the joint. </I><B>| ~ between </B><I>the joint between the lower and upper parts of the arm </I> </P>
+<P> <U> PHRASES </U><B> put sth out of joint </B><I>She fell and put her knee out of joint. </I> </P>
+<P> <SUP> 2 </SUP> <TT> connecting point </TT> </P>
+<P> <U> ADJ. </U><B> airtight, watertight | leaking </B> </P>
+<P> <U> VERB + JOINT </U><B> make, seal </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>a joint between two lengths of copper </I> </P>
+<P> <SUP> 3 </SUP> <TT> piece of meat </TT> </P>
+<P> <U> ADJ. </U><B> bacon </B> </P>
+<P> <U> VERB + JOINT </U><B> cook, roast | carve </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a joint of beef/lamb/pork </I> </P>
+</DIV>

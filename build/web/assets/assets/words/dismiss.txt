@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>dismiss </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> decide sth is not important </TT> </P>
+<P> <U> ADV. </U><B> quickly | out of hand, summarily </B><I>He dismissed her suggestion out of hand. </I><B>| easily, lightly, readily </B><I>Children's fears should never be dismissed lightly. </I><B>| contemptuously </B><I>She contemptuously dismissed their complaints. </I> </P>
+<P> <U> VERB + DISMISS </U><B> cannot/could not, unable to | be difficult to, be easy to, be possible to </B><I>It was not easy to dismiss the matter from his thoughts. </I><B>| try to </B> </P>
+<P> <U> PREP. </U><B> as, from </B><I>She dismissed their arguments as irrelevant. She tried to dismiss the idea from her mind. </I> </P>
+<P> <SUP> 2 </SUP> <TT> remove sb from a job </TT> </P>
+<P> <U> ADV. </U><B> fairly | unfairly, wrongfully </B><I>The court ruled that Ms Hill had been unfairly dismissed. </I><B>| constructively | summarily </B> </P>
+<P> <U> PREP. </U><B> from </B><I>He was summarily dismissed from his job. </I> </P>
+</DIV>

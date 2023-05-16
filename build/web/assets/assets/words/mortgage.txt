@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>mortgage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, huge | small | cheap </B><I>Banks often offer their employees cheap mortgages. </I><B>| endowment, fixed-rate, repayment </B> </P>
+<P> <U> VERB + MORTGAGE </U><B> have </B><I>We've got a big mortgage. </I><B>| get, raise </B><I>(formal)</I>, <B>take out </B><I>They were having trouble getting a mortgage. We'll have to take out a second mortgage to pay for this holiday! </I><B>| pay, pay off, redeem, repay </B><I>He didn't earn enough to support his family and pay the mortgage. There are penalties if you want to redeem your mortgage early. </I><B>| be in arrears with, fall behind with, get behind with </B><I>They were in arrears with their mortgage, so their home was repossessed. </I> </P>
+<P> <U> MORTGAGE + NOUN </U><B> (interest) payment, repayment </B><I>They were struggling to keep up with their mortgage repayments. </I><B>| rate </B><I>a rise in mortgage rates </I><B>| lender </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a mortgage of </I>&pound;</B><I>80,000 </I><B>| ~ on </B><I>I couldn't get a mortgage on the property. </I> </P>
+</DIV>

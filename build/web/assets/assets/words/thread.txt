@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>thread </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of cotton, etc. </TT> </P>
+<P> <U> ADJ. </U><B> strong | delicate, fine, fragile, thin | loose | matching | cotton, silk, etc. | embroidery, sewing | warp, weft </B> </P>
+<P> <U> QUANT. </U><B> length, piece </B> </P>
+<P> <U> VERB + THREAD </U><B> spin | catch, pull </B><I>You've pulled a thread in your jumper. </I> </P>
+<P> <U> PHRASES </U><B> hanging by a thread </B><I>(often figurative) The player's career is hanging by a thread after this latest injury to his knee. </I> </P>
+<P> <SUP> 2 </SUP> <TT> connection between ideas, parts of a story, etc. </TT> </P>
+<P> <U> ADJ. </U><B> central, main | common, connecting | consistent, continuous | narrative | loose </B><I>Apart from one or two loose threads, the police now had the complete picture of what happened. </I> </P>
+<P> <U> VERB + THREAD </U><B> follow, trace </B><I>I found it hard to follow the main thread of his argument. </I><B>| lose </B><I>The speaker lost his thread halfway through the talk. </I><B>| keep </B><I>She struggled against all the interruptions to keep the thread of her argument. </I><B>| draw together, pick up, pull together, weave </B><I>The author eventually picks up the various threads of the plot and weaves them into a masterly conclusion. </I> </P>
+<P> <U> THREAD + VERB </U><B> run through sth </B><I>A continuous thread runs through all the versions of the legend. </I><B>| emerge </B><I>On studying the different historians' accounts, common threads emerge. </I><B>| unravel </B><I>As the film progresses, the threads of the plot slowly begin to unravel. </I> </P>
+</DIV>

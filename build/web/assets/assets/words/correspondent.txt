@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>correspondent </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> reporter </TT> </P>
+<P> <U> ADJ. </U><B> newspaper, television | business, education, foreign, health, industrial, legal affairs, media, parliamentary, political, royal, science, sports, war | special </B><I>A report from our special correspondent at the UN. </I><B>| American, Moscow, New York Times, etc. </B> </P>
+<P> <U> CORRESPONDENT + VERB </U><B> write (sth)</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>port </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bustling, busy | Channel, coastal, foreign, sea | cargo, coal, commercial, ferry, fishing </B> </P>
+<P> <U> VERB + PORT </U><B> come into, reach </B><I>The vessel reached port the next morning. </I><B>| leave </B> </P>
+<P> <U> PORT + NOUN </U><B> area | authority | facilities </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Bad weather kept the ship in port for three more days. </I><B>| into ~ </B><I>trying to steer the boat into port </I> </P>
+<P> <U> PHRASES </U><B> a port of call </B><I>Our next port of call was Piraeus. </I> </P>
+</DIV>

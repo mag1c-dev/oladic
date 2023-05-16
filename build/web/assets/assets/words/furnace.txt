@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>furnace </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> blazing, fiery, hot, red-hot | electric, gas | glass, steel | blast </B> </P>
+<P> <U> VERB + FURNACE </U><B> fire </B><I>enough coal to fire the furnaces </I> </P>
+<P> <U> FURNACE + VERB </U><B> burn, glow </B><I>The furnaces glowed fiercely. </I><B>| roar </B><I>A dark shed, lit only by the glow of roaring furnaces. </I> </P>
+</DIV>

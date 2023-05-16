@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>smooth </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> without bumps </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look | become | wear sth </B><I>The steps had been worn smooth by the thousands of passing feet. </I> </P>
+<P> <U> ADV. </U><B> beautifully, exceptionally, extremely, really, very </B><I>her beautifully smooth complexion </I><B>| completely, perfectly | almost | fairly, quite | deceptively </B><I>the deceptively smooth surface of the glacier </I> </P>
+<P> <SUP> 2 </SUP> <TT> without problems </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become </B> </P>
+<P> <U> ADV. </U><B> extremely, incredibly, really, remarkably, very </B><I>The project got off to a remarkably smooth start. </I><B>| completely | not entirely </B><I>The process of negotiation was not entirely smooth. </I><B>| almost | fairly, quite, reasonably, relatively </B><I>a fairly smooth transition to democracy </I> </P>
+</DIV><DIV class="item"><P class="word"><B>smooth </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, gently </B><I>She smoothed his hair gently. </I><B>| back, down, out </B><I>Her mother smoothed back Alice's hair. Use an iron to smooth out any creases. </I> </P>
+</DIV>

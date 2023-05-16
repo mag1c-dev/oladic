@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>dentist </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good | qualified, registered | NHS, private </B> </P>
+<P> <U> VERB + DENTIST </U><B> register with </B><I>She couldn't get treatment because she wasn't registered with the dentist. </I></P>
+<a href="/collocation-tag/doctor" class="tag">Learn more about DOCTOR</a>
+</DIV>

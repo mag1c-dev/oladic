@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>calorie </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> empty </B><I>Sweets and biscuits have a lot of empty calories in them. </I> </P>
+<P> <U> VERB + CALORIE </U><B> contain, have | consume, eat | burn (off) </B><I>You need to exercise more to burn off the calories. </I><B>| count, watch </B><I>Some people count calories all their lives. I'm trying to watch my calories at the moment. </I> </P>
+<P> <U> CALORIE + NOUN </U><B> content, intake </B><I>foods with a high calorie content </I> </P>
+<P> <U> PHRASES </U><B> high/low calorie </B><I>a low calorie drink </I><B>| high/low in calories </B><I>Fruit is relatively low in calories. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>whimper </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little, small | frightened, pathetic </B> </P>
+<P> <U> VERB + WHIMPER </U><B> give </B><I>The animal gave a pathetic little whimper. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>whimper </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> softly </B><I>The dog whimpered softly. </I><B>| pathetically </B> </P>
+<P> <U> VERB + WHIMPER </U><B> begin to, start to | hear sb </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The boy was whimpering with pain. </I> </P>
+<P> <U> PHRASES </U><B> whimper like a child </B><I>He stirred in her arms, whimpering like a child. </I> </P>
+</DIV>

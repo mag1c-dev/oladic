@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>policy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plan of action </TT> </P>
+<P> <U> ADJ. </U><B> clear, coherent | conscious, deliberate </B><I>a deliberate policy to involve people of all ages in the scheme </I><B>| strict | controversial | official, public | government, party | company | domestic, internal, national, regional | open-door </B><I>an open-door policy for migrant workers </I><B>| agricultural, conservation, economic, educational, energy, environmental, financial, fiscal, foreign, housing, industrial, military, social, transport, etc. </B> </P>
+<P> <U> VERB + POLICY </U><B> develop, formulate, frame, shape | establish, implement, introduce | adopt, carry out, follow, pursue </B><I>The government followed a policy of restraint in public spending. </I><B>| have, operate </B><I>The company operates a strict no-smoking policy. </I> </P>
+<P> <U> POLICY + VERB </U><B> be aimed at sth </B><I>a policy aimed at halting economic recession </I> </P>
+<P> <U> POLICY + NOUN </U><B> decision, making | change, review | document, statement </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The company's policy of expansion has created many new jobs. </I><B>| ~ on </B><I>the party's policy on housing </I> </P>
+<P> <U> PHRASES </U><B> a matter of policy </B><I>It is a matter of company policy that we do not disclose the names of clients. </I> </P>
+<P> <SUP> 2 </SUP> <TT> insurance contract </TT> </P>
+<P> <U> ADJ. </U><B> insurance | contents, life, motor, etc. </B> </P>
+<P> <U> VERB + POLICY </U><B> take out | renew </B> </P>
+<P> <U> POLICY + VERB </U><B> cover sb/sth </B><I>The policy covers (you for) accidental loss or damage. </I><B>| expire </B> </P>
+<P> <U> POLICY + NOUN </U><B> holder | schedule </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>risks defined in the policy </I><B>| under a/the ~ </B><I>the types of claims covered under the policy </I> </P>
+</DIV>

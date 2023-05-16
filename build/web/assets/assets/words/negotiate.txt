@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>negotiate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> try to reach an agreement </TT> </P>
+<P> <U> ADV. </U><B> carefully </B><I>a carefully negotiated series of concessions </I><B>| successfully | freely | individually, separately </B><I>Rents are individually negotiated between landlord and tenant. </I><B>| jointly | directly </B><I>negotiating directly with the rebels </I><B>| secretly | constantly, continually </B><I>The parameters of the job are being continually negotiated. </I> </P>
+<P> <U> VERB + NEGOTIATE </U><B> be able to | be prepared to, be willing to </B><I>Are the employers really willing to negotiate? </I><B>| attempt to, seek to, try to | manage to | help (to) </B> </P>
+<P> <U> PREP. </U><B> between </B><I>to negotiate between the two sides </I><B>| for </B><I>We are negotiating for the release of the prisoners. </I><B>| on </B><I>They have refused to negotiate on this issue. </I><B>| on behalf of </B><I>negotiating on behalf of Britain </I><B>| with </B><I>I managed to negotiate successfully with the authorities. </I> </P>
+<P> <SUP> 2 </SUP> <TT> successfully get over/past sth </TT> </P>
+<P> <U> ADV. </U><B> easily, safely </B><I>He safely negotiated the slippery stepping stones. </I> </P>
+<P> <U> VERB + NEGOTIATE </U><B> be difficult to </B><I>The flight of steps was quite difficult to negotiate with a heavy suitcase. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>gold </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> yellow metal </TT> </P>
+<P> <U> ADJ. </U><B> pure | real | solid | fool's | 9-carat, 18-carat, etc. | molten | beaten, rolled | burnished | tarnished </B> </P>
+<P> <U> VERB + GOLD </U><B> extract, mine, produce | look for, pan for, prospect for </B><I>He spent weeks panning for gold in the river. </I><B>| discover, find, strike | be set in </B><I>The rubies were set in 18-carat gold. </I> </P>
+<P> <U> GOLD + NOUN </U><B> mine, miner, mining, prospecting, prospector | rush </B><I>a gold rush town </I><B>| deposit, dust, nugget | bar, bullion, ingot | leaf, plate | market, reserves, stocks </B><I>falling government gold stocks </I><B>| standard </B><I>The currency was tied to the gold standard. </I> </P>
+<P> <U> PHRASES </U><B> a vein of gold </B><I>In the afternoon he struck a rich vein of gold. </I> </P>
+<P> <SUP> 2 </SUP> <TT> (</B><I>also </I><B>gold medal</B>) in sports </TT> </P>
+<P> <U> ADJ. </U><B> Olympic </B> </P>
+<P> <U> VERB + GOLD </U><B> get, take, win </B><I>She got a gold in the long jump. </I><B>| go for </B><I>She's going for gold this time. </I> </P>
+</DIV>

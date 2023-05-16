@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>bury </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> dead person </TT> </P>
+<P> <U> PHRASES </U><B> be dead and buried </B><I>Those people are now all dead and buried. (figurative) Their ambitions were finally dead and buried. </I><B>| bury sb alive </B> </P>
+<P> <SUP> 2 </SUP> <TT> hide in the ground </TT> </P>
+<P> <U> ADV. </U><B> deep | underground </B><I>The waste is buried deep underground. </I> </P>
+<P> <SUP> 3 </SUP> <TT> cover </TT> </P>
+<P> <U> ADV. </U><B> completely </B><I>a fallen tree trunk almost completely buried in the long grass </I> </P>
+<P> <U> PHRASES </U><B> be buried alive </B><I>The miners were buried alive when the tunnel collapsed. </I><B>| be/get buried beneath/under sth </B><I>The building was now buried under three metres of soil. Your letter got buried under a pile of papers. </I> </P>
+<P> <SUP> 4 </SUP> <TT> put sth deeply into sth </TT> </P>
+<P> <U> ADV. </U><B> deep/deeply </B><I>He slumped forward, the knife buried deep in his chest. (figurative) her deeply buried pain </I> </P>
+<P> <U> PHRASES </U><B> lie/remain buried </B><I>(often figurative) The king is dead and lies buried at Jedburgh Abbey. What secrets lie buried in the past? </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>complement </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth that goes well with sth else </TT> </P>
+<P> <U> ADJ. </U><B> ideal, natural, necessary, perfect </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>This wine is the perfect complement to fish. </I> </P>
+<P> <SUP> 2 </SUP> <TT> total number that makes a group complete </TT> </P>
+<P> <U> ADJ. </U><B> full | large | normal </B> </P>
+<P> <U> VERB + COMPLEMENT </U><B> take </B><I>We've taken our full complement of trainees this year. </I> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV><DIV class="item"><P class="word"><B>complement </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> well | perfectly </B><I>The flavours in the dish complement each other perfectly. </I> </P>
+</DIV>

@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>challenge </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth new and difficult </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, enormous, great, huge, radical, real, serious, significant, strong | difficult, tough | major, main | fresh, new | exciting, interesting | economic, environmental, intellectual, political, technical, technological </B><I>Liszt's piano music presents an enormous technical challenge. </I> </P>
+<P> <U> VERB + CHALLENGE </U><B> be, pose, present | face, meet, respond to, rise to, take on/up </B><I>The gallery has risen to the challenge of exhibiting the works of young artists. He has taken on some exciting new challenges with this job. </I> </P>
+<P> <U> CHALLENGE + VERB </U><B> face sb </B><I>the challenges facing nurses in casualty </I> </P>
+<P> <SUP> 2 </SUP> <TT> that shows that sb refuses to accept sth </TT> </P>
+<P> <U> ADJ. </U><B> serious | direct | effective | legal </B> </P>
+<P> <U> VERB + CHALLENGE </U><B> be, present, represent </B><I>The demonstration represents a direct challenge to the new law. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>a legal challenge to the president's power </I> </P>
+<P> <SUP> 3 </SUP> <TT> invitation to compete </TT> </P>
+<P> <U> ADJ. </U><B> leadership, title </B><I>his title challenge to the heavyweight champion </I> </P>
+<P> <U> VERB + CHALLENGE </U><B> issue, mount </B><I>plans to mount a leadership challenge within the party </I><B>| accept, take up </B><I>I accepted his challenge to a game of chess. </I><B>| beat off, fight off </B><I>Our team will have to fight off the challenge from better trained teams. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>a challenge from the other political party </I> </P>
+</DIV><DIV class="item"><P class="word"><B>challenge </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> question whether sth is right/true </TT> </P>
+<P> <U> ADV. </U><B> directly </B><I>The newspaper was directly challenging the government's legitimacy. </I><B>| seriously | effectively </B><I>She was effectively challenging the whole basis on which society was run. </I><B>| successfully </B><I>The story was completely untrue and was successfully challenged in court. </I> </P>
+<P> <U> PREP. </U><B> on </B><I>She challenged him on his old-fashioned views. </I> </P>
+<P> <SUP> 2 </SUP> <TT> invite sb to compete, argue, etc. </TT> </P>
+<P> <U> ADV. </U><B> seriously </B><I>No one has seriously challenged the champion. </I><B>| successfully, unsuccessfully </B> </P>
+<P> <U> PREP. </U><B> for </B><I>She was poised to challenge for the party leadership. </I><B>| to </B><I>The count challenged him to a duel. </I> </P>
+</DIV>

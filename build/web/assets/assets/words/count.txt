@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>count </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of counting </TT> </P>
+<P> <U> VERB + COUNT </U><B> do, have </B><I>We did a quick count of the children and there were none missing. </I> </P>
+<P> <U> PREP. </U><B> for a ~ </B><I>Raise your leg and hold it there for a count of ten. </I> </P>
+<P> <U> PHRASES </U><B> at the last/latest count </B><I>At the last count she had 43 cats! </I> </P>
+<P> <SUP> 2 </SUP> <TT> measurement/total </TT> </P>
+<P> <U> ADJ. </U><B> high | low | blood, calorie, cell, pollen, sperm </B><I>The pollen count is very high in the spring. </I><B>| body, head </B><I>The movie depends on good dialogue rather than violence and a high body count. The firm now has a head count of around 70 staff. </I> </P>
+<P> <U> VERB + COUNT </U><B> keep </B><I>Keep a count of your calorie intake for one week. </I><B>| lose </B><I>I've lost count of the times I've heard that joke. </I> </P>
+<P> <U> COUNT + VERB </U><B> go up, increase, rise | drop, go down </B><I>Her white cell count has gone down again. </I> </P>
+</DIV>

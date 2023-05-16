@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>coverage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, extensive, massive </B><I>There's been massive television coverage of the World Cup. </I><B>| comprehensive, full | detailed, in-depth | wide, widespread | national, international, worldwide | limited | media, news, newspaper, press, radio, television/TV </B><I>The television company was given a special award for its news coverage. </I><B>| live </B><I>There's live coverage of the match on BBC1. </I><B>| exclusive </B> </P>
+<P> <U> VERB + COVERAGE </U><B> give sth, provide (sth with) </B><I>The minister's resignation was given widespread coverage. </I><B>| attract, get, have, receive </B><I>The wedding had wide press coverage. </I> </P>
+<P> <U> COVERAGE + VERB </U><B> focus on sth </B><I>Media coverage of the march focused on the few fights that broke out. </I> </P>
+</DIV>

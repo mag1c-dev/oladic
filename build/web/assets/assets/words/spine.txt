@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>spine </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> backbone </TT> </P>
+<P> <U> ADJ. </U><B> fractured | cervical, lumbar </B> </P>
+<P> <U> VERB + SPINE </U><B> bend, curve | straighten | stiffen | slide along/down/up </B><I>(figurative) An icy chill slid up my spine. </I> </P>
+<P> <U> PREP. </U><B> in the/your ~ </B><I>the nerves in the spine </I> </P>
+<P> <U> PHRASES </U><B> the base of the spine, curvature of the spine, send shivers along/down your spine </B> </P>
+<P> <SUP> 2 </SUP> <TT> sharp point on some plants/animals </TT> </P>
+<P> <U> ADJ. </U><B> pointed, sharp | fine | poisonous, venomous | savage </B><I>Once embedded in the skin, these savage spines are difficult to dislodge. </I> </P>
+<P> <U> VERB + SPINE </U><B> bear, carry, have</B> </P>
+</DIV>

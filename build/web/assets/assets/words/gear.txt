@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>gear </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a vehicle </TT> </P>
+<P> <U> ADJ. </U><B> bottom, top </B><I>driving along in top gear </I><B>| high, low | first, second, etc. | reverse </B> </P>
+<P> <U> VERB + GEAR </U><B> engage, select </B><I>Engage first gear and move off. </I><B>| change, change into, move into, put/slam/slip sth into, shift (into), switch </B><I>It's difficult to steer and change gear at the same time. She put the car into first gear and drove off. (figurative) The party organization is moving into top gear as the election approaches. </I><B>| move up, step up </B><I>(often figurative) Coming out of the final bend, the runner stepped up a gear to overtake the rest of the pack. </I><B>| crash, grind </B><I>He was crashing the gears because he was so nervous. </I> </P>
+<P> <U> GEAR + NOUN </U><B> change </B><I>She made a smooth gear change. </I><B>| lever, stick (also gearstick) </B> </P>
+<P> <U> PREP. </U><B> in (a/the) ~ </B><I>driving along in third gear Some drivers leave the car in gear when parking on hills. </I><B>| out of ~ </B><I>Leave the car out of gear. </I> </P>
+<P> <SUP> 2 </SUP> <TT> equipment/clothes </TT> </P>
+<P> <U> ADJ. </U><B> camping, climbing, fishing, running, sports, swimming, walking | breathing </B><I>firemen in breathing gear </I><B>| landing, winding </B><I>the plane's landing gear </I><B>| combat, riot | outdoor | designer </B><I>wearing expensive designer gear </I> </P>
+<P> <U> VERB + GEAR </U><B> be dressed in, have on, wear </B><I>She had her running gear on. </I><B>| put on, take off </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>a group of young men in combat gear </I> </P>
+</DIV><DIV class="item"><P class="word"><B>gear </B><I>verb </I><B>be geared to/towards sth </B> </P>
+<P> <U> ADV. </U><B> completely, entirely, exclusively, totally </B><I>an economy exclusively geared towards tourism </I><B>| primarily | specifically </B><I>Our training programmes are geared specifically to the needs of older workers. </I><B>| clearly</B> </P>
+</DIV>

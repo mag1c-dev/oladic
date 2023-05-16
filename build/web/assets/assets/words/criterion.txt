@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>criterion </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sole | main | strict, stringent | objective | eligibility, selection </B> </P>
+<P> <U> QUANT. </U><B> range, set </B> </P>
+<P> <U> VERB + CRITERION </U><B> fulfil, meet, satisfy </B><I>She failed to meet the stringent selection criteria. </I><B>| establish, lay down | adopt, apply, use </B><I>The other groups agreed to adopt our criteria. </I> </P>
+<P> <U> PREP. </U><B> according to a/the ~ </B><I>Team members will be selected according to strict criteria. </I><B>| by a/the ~ </B><I>By this criterion, very few people are suitable. </I><B>| ~ for </B><I>The report lays down criteria for disciplining staff. </I><B>| ~ of </B><I>What are the criteria of success for a training scheme? </I> </P>
+</DIV>

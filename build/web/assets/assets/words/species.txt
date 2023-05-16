@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>species </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> living | extinct | common | rare | different, distinct | related </B><I>closely related species of beetle </I><B>| native | alien | wild | dominant | endangered, threatened | protected | animal, bird, fish, insect, mammal/mammalian, plant, tree, etc. </B><I>The area is rich in different plant species. </I><B>| human </B><I>the development of the human species </I> </P>
+<P> <U> SPECIES + VERB </U><B> be found, grow, live, occur </B><I>Similar species of fish occur in Mongolia. </I><B>| be threatened with extinction, become extinct, die out | survive </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a native species of fish </I> </P>
+<P> <U> PHRASES </U><B> a member of a species</B> </P>
+</DIV>

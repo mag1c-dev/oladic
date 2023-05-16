@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>decorate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make sth attractive </TT> </P>
+<P> <U> ADV. </U><B> beautifully, elaborately, elegantly, gaily, intricately, lavishly, ornately, richly </B><I>The room was lavishly decorated with tinsel and holly. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>Decorate the cake with raspberries and whipped cream. </I> </P>
+<P> <SUP> 2 </SUP> <TT> with paint/wallpaper </TT> </P>
+<P> <U> ADV. </U><B> nicely, pleasantly, tastefully </B><I>The bedrooms are tastefully decorated. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>The room is decorated in pale blues and greens. </I> </P>
+<P> <SUP> 3 </SUP> <TT> give sb a medal </TT> </P>
+<P> <U> PREP. </U><B> for </B><I>He was decorated for bravery. </I> </P>
+<P> <U> PHRASES </U><B> highly decorated </B><I>the most highly decorated unit in the British Army </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>paradox </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> apparent | central | curious </B> </P>
+<P> <U> VERB + PARADOX </U><B> pose, present </B><I>The facts pose something of a paradox. </I><B>| explain, resolve </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>The paradox about time is that it seems to go faster as we become older and less active. </I><B>| ~ between </B><I>the paradox between the real and the ideal </I><B>| ~ in </B><I>the paradox in the relationship between creativity and psychosis </I> </P>
+<P> <U> PHRASES </U><B> by a curious paradox </B><I>By a curious paradox, the team became less motivated the more games it won. </I> </P>
+</DIV>

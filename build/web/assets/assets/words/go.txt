@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>go </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> happen </TT> </P>
+<P> <U> ADV. </U><B> smoothly, well </B><I>Everything went very smoothly. </I><B>| badly </B> </P>
+<P> <SUP> 2 </SUP> <TT> pass </TT> </P>
+<P> <U> ADV. </U><B> quickly, slowly </B><I>The holiday went very quickly. </I><B>| by </B><I>The days seemed to go by very slowly. </I> </P>
+<P> <SUP> 3 </SUP> <TT> look/taste good with sth </TT> </P>
+<P> <U> ADV. </U><B> well | together </B><I>Leeks and potatoes go well together in a soup. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>That tie goes well with that shirt. </I><B>PHRASAL VERBS go down </B> </P>
+<P> <U> ADV. </U><B> badly, well </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The novel went down well with the public. </I><B>go on </B> </P>
+<P> <U> ADV. </U><B> endlessly </B> </P>
+<P> <U> PREP. </U><B> about </B><I>He goes on endlessly about his health problems. </I><B>| at </B><I>Stop going on at me about that money. </I><B>| with </B><I>We'll go on with the presentations after lunch. </I> </P>
+<P> <U> PHRASES </U><B> go on and on </B><I>The journey just seemed to go on and on. </I> </P>
+</DIV>

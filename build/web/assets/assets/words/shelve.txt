@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>shelve </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put sth to one side and leave it for a while </TT> </P>
+<P> <U> ADV. </U><B> quietly </B><I>Plans to expand the company have had to be quietly shelved. </I> </P>
+<P> <U> VERB + SHELVE </U><B> be forced to, have to </B> </P>
+<P> <SUP> 2 </SUP> <TT> slope </TT> </P>
+<P> <U> ADV. </U><B> gently, steeply </B><I>The ground shelves quite steeply here. </I><B>| down </B><I>The beach shelves gently down to the sea. </I> </P>
+<P> <U> PREP. </U><B> to, towards</B> </P>
+</DIV>

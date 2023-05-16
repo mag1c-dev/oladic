@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>shrapnel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> flying </B><I>He was hit in the arm by flying shrapnel. </I> </P>
+<P> <U> QUANT. </U><B> piece </B> </P>
+<P> <U> VERB + SHRAPNEL </U><B> be hit by, be shattered by, be wounded/killed by </B> </P>
+<P> <U> SHRAPNEL + VERB </U><B> fly, whistle </B><I>The bomb exploded, sending shrapnel whistling through the trees. </I> </P>
+<P> <U> SHRAPNEL + NOUN </U><B> wound </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>the shrapnel from the grenade </I> </P>
+</DIV>

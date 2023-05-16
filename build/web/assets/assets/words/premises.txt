@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>premises </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> new </B><I>The company is moving to new premises next month. </I><B>| suitable | bigger, large | cramped, modest | city-centre | purpose-built | adjoining, neighbouring | temporary | private, residential | business, church, club, commercial, company, factory, hospital, hotel, industrial, office, retail, school, shop </B> </P>
+<P> <U> VERB + PREMISES </U><B> enter </B><I>The police have the power to enter the premises at any time. </I><B>| find | own | acquire, lease | move to | occupy, use | leave, vacate </B> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>Smoking is strictly forbidden on school premises. </I> </P>
+</DIV>

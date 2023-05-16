@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>learner </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> quick, slow </B><I>She was a quick learner, and her German got better by the day. </I><B>| advanced, intermediate </B><I>a book for advanced learners of English </I><B>| adult, older | young </B><I>The book has been written with the interests of young learners in mind. </I><B>| language | foreign </B> </P>
+<P> <U> LEARNER + NOUN </U><B> driver</B> </P>
+</DIV>

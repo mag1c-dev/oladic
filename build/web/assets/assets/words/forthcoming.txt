@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>forthcoming </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> available </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>Help was duly forthcoming. </I> </P>
+<P> <U> ADV. </U><B> duly | readily | immediately </B> </P>
+<P> <SUP> 2 </SUP> <TT> willing to give information </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> unusually | not very </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She wasn't very forthcoming about where she'd been. </I> </P>
+</DIV>

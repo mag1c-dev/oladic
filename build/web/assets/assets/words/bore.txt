@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>bore </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person </TT> </P>
+<P> <U> ADJ. </U><B> awful, crashing, dreadful, real, terrible, utter </B><I>Her husband is a crashing bore. </I> </P>
+<P> <U> PHRASES </U><B> a bit of a bore 2 a bore </B>sth that you have to do </B> </P>
+<P> <U> ADJ. </U><B> awful, great, real, terrible </B><I>It's an awful bore having to meet my aunt for lunch. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bore </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> easily </B><I>I'm very easily bored. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>I won't bore you with too many details. </I> </P>
+<P> <U> PHRASES </U><B> bore sb out of their (tiny) mind, bore sb rigid/silly/stiff, bore sb to death/distraction/tears </B><I>That lecture bored me to tears! </I> </P>
+</DIV>

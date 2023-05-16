@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>unfamiliar </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not well-known to you </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, sound </B> </P>
+<P> <U> ADV. </U><B> very | completely, quite, totally | not entirely | slightly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The language was completely unfamiliar to me. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not having knowledge or experience of sth </TT> </P>
+<P> <U> VERBS </U><B> appear, be, seem </B> </P>
+<P> <U> ADV. </U><B> very | completely, quite | relatively </B> </P>
+<P> <U> PREP. </U><B> with </B><I>We were quite unfamiliar with the town. </I> </P>
+</DIV>

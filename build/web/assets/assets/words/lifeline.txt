@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>lifeline </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> rope </TT> </P>
+<P> <U> VERB + LIFELINE </U><B> throw sb | catch, cling to </B><I>He clung to the lifeline and the woman pulled him towards the bank. </I> </P>
+<P> <SUP> 2 </SUP> <TT> important help </TT> </P>
+<P> <U> ADJ. </U><B> real, vital </B><I>Visits from loved ones are a vital lifeline for prisoners. </I><B>| financial </B><I>The state pension is their financial lifeline. </I> </P>
+<P> <U> VERB + LIFELINE </U><B> give sb, hold out, offer (sb), provide (sb with), throw sb (out) </B><I>The organization provides a real lifeline for many women in poverty. He threw me a lifeline when he offered me a job. </I><B>| have </B><I>With this one unexpected victory, the club now has a lifeline. </I> </P>
+</DIV>

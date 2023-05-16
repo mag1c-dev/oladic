@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>thrust </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> strong push </TT> </P>
+<P> <U> ADJ. </U><B> backward, downward, forward, upward | aggressive, fierce, powerful | knife </B><I>The realization that she was gone was like a knife thrust. </I><B>| pelvic </B> </P>
+<P> <U> VERB + THRUST </U><B> make </B><I>The Third Army made an aggressive thrust towards the front line. </I> </P>
+<P> <U> PHRASES </U><B> ~ into </B><I>a thrust into the unknown </I></P>
+<P> <SUP> 2 </SUP> <TT> the thrust: main part/ideas  </TT> </P>
+<P> <U> ADJ. </U><B> broad, central, general, main, major </B><I>She explained the broad thrust of the party's policies. </I><B>| dramatic, intellectual, narrative, political </B><I>The dramatic thrust of the film centres around the conflict between the brothers. </I> </P>
+<P> <U> VERB + THRUST </U><B> direct </B><I>He's going to direct the main thrust of his work towards reforming welfare policy. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>thrust </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> deep/deeply | hard | suddenly </B><I>She suddenly thrust out her arm. </I><B>| aside, away, back, forward, out </B> </P>
+<P> <U> PREP. </U><B> at </B><I>He thrust a piece of paper at me. </I><B>| into </B><I>She thrust her hands deep into her pockets. </I> </P>
+<P> <U> PHRASES </U><B> thrust your way </B><I>She thrust her way through the dense undergrowth. </I> </P>
+</DIV>

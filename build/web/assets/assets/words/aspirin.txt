@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>aspirin </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> soluble </B> </P>
+<P> <U> QUANT. </U><B> dose </B> </P>
+<P> <U> VERB + ASPIRIN </U><B> take </B><I>She took an aspirin and went to bed. </I><B>| dissolve </B><I>Dissolve two aspirin in water. </I> </P>
+<P> <U> ASPIRIN + VERB </U><B> dissolve </B><I>Aspirin dissolves quickly. </I> </P>
+</DIV>

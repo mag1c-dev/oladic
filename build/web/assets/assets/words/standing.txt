@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>standing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> reputation </TT> </P>
+<P> <U> ADJ. </U><B> good, high | low | equal | public | international | academic, economic, financial, legal, moral, political, professional, social </B> </P>
+<P> <U> VERB + STANDING </U><B> have </B><I>Professor Greenan has a high standing in the academic world. </I><B>| enhance, improve | damage, diminish </B> </P>
+<P> <U> STANDING + VERB </U><B> decline, fall | rise </B> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>She married into a family of higher social standing. </I><B>| ~ among </B><I>her low standing among her fellow scientists </I><B>| ~ as </B><I>His standing as a film director has risen in recent years. </I><B>| ~ in/within </B><I>his international standing in cancer research </I><B>| ~ with </B><I>She was appointed for her high moral standing with the general public. </I> </P>
+<P> <U> PHRASES </U><B> in good standing with sb </B><I>a knight in good standing with the king </I> </P>
+<P> <SUP> 2 </SUP> <TT> length of time that sth has existed </TT> </P>
+<P> <U> ADJ. </U><B> long | many years', 25 years', etc. </B><I>Their relationship is of many years' standing. </I> </P>
+<P> <U> PREP. </U><B> of &hellip; ~</B> </P>
+</DIV>

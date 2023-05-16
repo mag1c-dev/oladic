@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>construction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> roads/buildings </TT> </P>
+<P> <U> ADJ. </U><B> gigantic, huge, large, massive </B><I>massive constructions of bamboo and paper </I><B>| basic, simple </B><I>It has a basic construction of brick under a tiled roof. </I><B>| complex | heavy </B><I>the heavy construction industry </I><B>| solid </B><I>walls of solid construction </I><B>| careful </B><I>The drainage system needs careful construction. </I><B>| brick, fibreglass, steel, timber, timber-frame, wooden </B><I>a two-storey brick construction a schoolhouse of brick construction </I><B>| bridge, building, canal, house/housing, railway, road </B><I>Road and bridge construction is underway. </I> </P>
+<P> <U> VERB + CONSTRUCTION </U><B> begin, start | complete </B><I>Construction of the new road has now been completed. </I> </P>
+<P> <U> CONSTRUCTION + VERB </U><B> be underway </B> </P>
+<P> <U> CONSTRUCTION + NOUN </U><B> industry, sector | company, firm, group | project, programme | contract | job | work | worker | site, yard | costs | materials | method, process, technique </B> </P>
+<P> <U> PREP. </U><B> during (the) ~ </B><I>Major engineering challenges will be faced during construction. </I><B>| under ~ </B><I>A new factory is under construction. </I> </P>
+<P> <SUP> 2 </SUP> <TT> grammar </TT> </P>
+<P> <U> ADJ. </U><B> grammatical, linguistic, sentence, syntactic | active, passive | adjectival, infinitive, predicative </B> </P>
+<P> <SUP> 3 </SUP> <TT> interpretation </TT> </P>
+<P> <U> ADJ. </U><B> literal | logical, sensible | proper, true </B><I>ruling on the proper construction to be given to section 78 of the Act </I><B>| strict </B><I>a strict construction of the clause </I><B>| ideological, social, theoretical </B><I>changes in the social construction of marriage </I>(= the meaning of marriage in society) </B> </P>
+<P> <U> VERB + CONSTRUCTION </U><B> give sth, put on sth </B><I>What construction do you put on this letter </I>(= what do you think it means)</B><I>? </I> </P>
+</DIV>

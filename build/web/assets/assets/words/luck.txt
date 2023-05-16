@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>luck </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> better, good | pure, sheer </B><I>It was sheer luck that we met like that. </I><B>| bad, ill, rotten, tough </B><I>It was rotten luck to be ill on the day of the interview. </I> </P>
+<P> <U> QUANT. </U><B> piece, stroke </B><I>By a stroke of luck I came across it in a local bookshop. </I> </P>
+<P> <U> VERB + LUCK </U><B> bring (sb), give sb </B><I>This ring has always brought me good luck. </I><B>| try </B><I>I decided to try my luck at the roulette wheel. </I> </P>
+<P> <U> LUCK + VERB </U><B> run out </B><I>It looks as though our luck's finally run out. </I><B>| hold </B><I>If our luck holds, we should win. </I><B>| improve, turn </B><I>He went on gambling, sure his luck was about to turn. </I> </P>
+<P> <U> PREP. </U><B> by &hellip; ~ </B><I>By ill luck, my flight had been cancelled. </I><B>| for ~ </B><I>I always carry it with me, just for luck. </I><B>| in ~ </B><I>You're in luck?there are just two tickets left. </I><B>| out of ~ </B><I>I had hoped there would be another train, but I was out of luck. </I><B>| with ~ </B><I>With luck, we'll get there before it closes. </I> </P>
+<P> <U> PHRASES </U><B> beginner's luck </B><I>I don't know why I did so well?it must be beginner's luck. </I><B>| better luck next time </B><I>If you didn't win a prize, better luck next time. </I><B>| can't believe your luck </B><I>He couldn't believe his luck when the other candidate for the job withdrew. </I><B>| just my luck </B><I>Just my luck to get the broken chair! </I> </P>
+</DIV>

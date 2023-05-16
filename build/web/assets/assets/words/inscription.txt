@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>inscription </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> faded | famous | dedicatory, funerary, memorial, monumental | Greek, Latin, etc. </B> </P>
+<P> <U> VERB + INSCRIPTION </U><B> bear, carry, have </B><I>The monument carries the inscription: &lsquo;To the fallen in two world wars&rsquo;. </I><B>| carve, engrave </B><I>an inscription carved in the stone </I> </P>
+<P> <U> INSCRIPTION + VERB </U><B> bear sth, read sth, record sth, say sth, show sth, tell sb sth </B><I>The inscription bears the date 1655. The simple inscription on her grave reads: &lsquo;She sleeps in peace.&rsquo; </I> </P>
+</DIV>

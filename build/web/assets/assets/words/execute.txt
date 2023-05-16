@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>execute </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> kill sb as an official punishment </TT> </P>
+<P> <U> ADV. </U><B> summarily | extrajudicially, illegally | publicly | wrongly </B><I>innocent people who are wrongly executed </I> </P>
+<P> <U> PREP. </U><B> for </B><I>He was executed for treason. </I> </P>
+<P> <SUP> 2 </SUP> <TT> perform/carry out sth </TT> </P>
+<P> <U> ADV. </U><B> beautifully, boldly, brilliantly, cleanly, meticulously, neatly, skilfully, successfully, well </B><I>The movement was beautifully executed. </I><B>| poorly</B> </P>
+</DIV>

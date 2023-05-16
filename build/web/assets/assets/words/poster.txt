@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>poster </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cinema, circus, election | wanted </B><I>The police have put up wanted posters describing the man. </I> </P>
+<P> <U> VERB + POSTER </U><B> display, exhibit, put up, stick up | be covered with, be plastered with </B><I>His walls are plastered with posters of rock stars. </I><B>| take down | design | print </B> </P>
+<P> <U> POSTER + VERB </U><B> appear, go up </B><I>Huge election posters suddenly went up all over the town. </I><B>| feature sth, show sth | advertise sth </B> </P>
+<P> <U> POSTER + NOUN </U><B> campaign </B><I>Detectives have launched a massive poster campaign to help in the search for two killers. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>the picture on the poster </I><B>| ~ for </B><I>posters for tonight's concert </I><B>| ~ of </B><I>a poster of James Dean </I> </P>
+</DIV>

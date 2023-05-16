@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>concession </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth you agree to in order to end an argument </TT> </P>
+<P> <U> ADJ. </U><B> important, key, major, significant, substantial | limited, minor, small | special </B> </P>
+<P> <U> VERB + CONCESSION </U><B> grant (sb/sth), make, offer (sb/sth) | get, obtain, win </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>The pressure group has won a number of concessions on environmental policy. </I><B>| ~ to </B><I>The firm will be forced to make concessions to the union. </I> </P>
+<P> <U> PHRASES </U><B> make no concessions to sb/sth </B><I>They made no concessions to his disability. </I> </P>
+<P> <SUP> 2 </SUP> <TT> special right to do sth </TT> </P>
+<P> <U> ADJ. </U><B> trade </B> </P>
+<P> <U> VERB + CONCESSION </U><B> grant (sb/sth) | obtain, secure, win </B><I>The company has just won a mining concession in the north of the country. </I> </P>
+<P> <SUP> 3 </SUP> <TT> lower charge for certain groups of people </TT> </P>
+<P> <U> ADJ. </U><B> tax, travel </B> </P>
+<P> <U> CONCESSION + VERB </U><B> be available to </B><I>travel concessions available to older people </I> </P>
+</DIV>

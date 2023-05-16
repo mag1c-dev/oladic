@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>barometer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> instrument that measures air pressure </TT> </P>
+<P> <U> ADJ. </U><B> aneroid, digital | high, low | steady </B><I>The barometer has been steady for three days now. </I> </P>
+<P> <U> VERB + BAROMETER </U><B> check, read | tap </B><I>He tapped the barometer and noted where the needle was pointing. </I> </P>
+<P> <U> BAROMETER + VERB </U><B> rise | drop, fall </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth that shows the state of sth </TT> </P>
+<P> <U> ADJ. </U><B> accurate, good, reliable, sensitive, useful </B><I>Infant mortality is a highly sensitive barometer of socio-economic conditions. </I><B>| political </B> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV>

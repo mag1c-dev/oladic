@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>shift </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> change </TT> </P>
+<P> <U> ADJ. </U><B> distinct, dramatic, fundamental, major, marked, profound, pronounced, radical, significant, substantial | discernible | slight, subtle | gradual | abrupt, sudden | decisive, irreversible, long-term | climate, cultural, demographic, ideological, policy, population </B> </P>
+<P> <U> VERB + SHIFT </U><B> be, represent </B><I>These proposals represent a dramatic shift in policy. </I><B>| bring about, cause, lead to, produce, result in | mark, see </B><I>The moment marked a significant shift in attitudes to the war. </I><B>| detect </B><I>I detected a subtle shift towards our point of view. </I><B>| explain </B><I>one factor which may explain the president's policy shift </I> </P>
+<P> <U> SHIFT + VERB </U><B> occur, take place </B><I>These climate shifts occurred over less than a decade. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>the many shifts between verse and prose that occur in Shakespeare </I><B>| ~ (away) from </B><I>the shift away from direct taxation </I><B>| ~ in </B><I>a shift in public opinion </I><B>| ~ to </B><I>a sudden shift to the right in British politics </I><B>| ~ towards </B><I>a shift towards part-time farming </I> </P>
+<P> <SUP> 2 </SUP> <TT> division of the working day </TT> </P>
+<P> <U> ADJ. </U><B> double, long, split </B><I>I agreed to work double shifts for a few weeks. </I><B>| day, early, late, night | eight-hour, ten-hour, etc. | afternoon, evening, morning, weekend </B> </P>
+<P> <U> VERB + SHIFT </U><B> be/come/go on, do, work (in) ~s </B><I>I'm doing the early shift this week. I didn't realize that I'd have to work shifts. The clinic is staffed by ten doctors who work in shifts. </I><B>| change (your) ~s </B><I>It was 8.00 a.m. and the nurses were changing shifts. My husband has changed his shifts, from the afternoon shift to the night one. </I><B>| be/go/come off </B> </P>
+<P> <U> SHIFT + NOUN </U><B> work | supervisor, manager, worker | pattern, system </B><I>They'd altered his shift pattern twice in the past fortnight. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>a decision for the chief nurse on each shift </I> </P>
+</DIV><DIV class="item"><P class="word"><B>shift </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move </TT> </P>
+<P> <U> ADV. </U><B> slightly </B><I>Julie shifted her position slightly and smiled. </I><B>| impatiently, restlessly, uncomfortably, uneasily </B><I>She shifted uncomfortably in her chair. </I><B>| away </B> </P>
+<P> <U> PREP. </U><B> from </B><I>She shifted her gaze away from the group of tourists. </I><B>| onto </B><I>He shifted his weight onto his left foot. </I><B>| to </B><I>Her eyes shifted to his face. </I> </P>
+<P> <U> PHRASES </U><B> shift from foot to foot </B> </P>
+<P> <SUP> 2 </SUP> <TT> change </TT> </P>
+<P> <U> ADV. </U><B> dramatically, markedly </B><I>The emphasis has shifted markedly in recent years. </I><B>| slightly | effectively | simply </B><I>We cannot simply shift the responsibility onto someone else. </I><B>| gradually, slowly | rapidly | suddenly | constantly, continually </B><I>constantly shifting alliances </I> </P>
+<P> <U> VERB + SHIFT </U><B> attempt to, try to </B><I>trying to shift the blame onto the government </I><B>| tend to | begin to </B> </P>
+<P> <U> PREP. </U><B> (away) from </B><I>I felt the advantage had suddenly shifted away from us. </I><B>| onto, to </B><I>His sympathies rapidly shifted to the side of the workers. </I><B>| towards </B><I>These changes will shift the balance in higher education more towards science subjects. </I> </P>
+</DIV>

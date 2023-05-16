@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>chain </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> line of rings joined together </TT> </P>
+<P> <U> ADJ. </U><B> long </B><I>She wore a long gold chain round her neck. </I><B>| rusty | bicycle | daisy, paper </B> </P>
+<P> <U> QUANT. </U><B> length </B> </P>
+<P> <U> CHAIN + VERB </U><B> clank </B> </P>
+<P> <U> CHAIN + NOUN </U><B> mail </B>(= armour made of chains)  </P>
+<P> <U> PREP. </U><B> in ~s </B><I>The prisoner was led away in chains. </I><B>| off sb's/the ~ </B><I>Let the dog off its chain. </I><B>| on a/the ~ </B><I>They kept the dog on a chain all day long. </I> </P>
+<P> <U> PHRASES </U><B> a chain of office </B><I>The mayor was wearing his chain of office. </I><B>| a chain on the door </B><I>Put the chain on the door before you go to bed. </I><B>| a link in the chain </B> </P>
+<P> <SUP> 2 </SUP> <TT> number of things in a line </TT> </P>
+<P> <U> ADJ. </U><B> island, mountain | human </B> </P>
+<P> <U> VERB + CHAIN </U><B> form </B><I>The people formed a human chain to pass the supplies up the beach. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a chain of volcanic islands </I> </P>
+<P> <U> PHRASES </U><B> a chain of command </B>(= a system by which instructions are passed from one person to another)  </P>
+<P> <SUP> 3 </SUP> <TT> group of shops, etc. owned by the same company </TT> </P>
+<P> <U> ADJ. </U><B> big, large | small | hotel, supermarket, etc. </B> </P>
+<P> <U> CHAIN + NOUN </U><B> store </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a chain of clothes shops </I> </P>
+<P> <U> PHRASES </U><B> part of a chain </B><I>This hotel is part of a large chain. </I> </P>
+<P> <SUP> 4 </SUP> <TT> number of connected events/situations </TT> </P>
+<P> <U> ADJ. </U><B> complex </B><I>the complex chain of events that led to the war </I><B>| unbroken </B><I>There has been an unbroken chain of great violinists in the family. </I><B>| causal | food </B><I>efforts to ensure that dioxins do not enter the food chain </I> </P>
+<P> <U> CHAIN + NOUN </U><B> reaction </B> </P>
+<P> <U> PHRASES </U><B> a chain of events</B> </P>
+</DIV>

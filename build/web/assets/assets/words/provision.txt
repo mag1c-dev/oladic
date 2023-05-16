@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>provision </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> supply </TT> </P>
+<P> <U> ADJ. </U><B> private, state | educational, housing, nursery, pension, service, welfare, etc. </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Several firms are responsible for the provision of cleaning services. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for a future situation; in a legal document </TT> </P>
+<P> <U> ADJ. </U><B> full | adequate </B><I>It is important to make adequate provision for your retirement. </I><B>| detailed | express, particular, special, specific | relevant | constitutional, legal, legislative, statutory </B> </P>
+<P> <U> VERB + PROVISION </U><B> make | contain </B><I>provisions contained in the contract </I> </P>
+<P> <U> PROVISION + VERB </U><B> apply </B><I>The same provisions apply to foreign-owned companies. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>They had made all kinds of provisions against bad weather. </I><B>| ~ for </B><I>The Act contains detailed provisions for appeal against the court's decision. </I></P>
+<P> <SUP> 3 </SUP> <TT> provisions: food and drink  </TT> </P>
+<P> <U> VERB + PROVISION </U><B> buy, stock up on/with </B><I>We went into town to stock up on provisions. </I> </P>
+</DIV>

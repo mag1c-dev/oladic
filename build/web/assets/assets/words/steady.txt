@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>steady </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not moving or shaking </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound | become | remain | hold sb/sth, keep sb/sth </B><I>Hold the ladder steady! </I> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, perfectly, quite, rock </B><I>His gaze was rock steady. </I><B>| not quite </B><I>She opened the letter with hands that were not quite steady. </I><B>| almost </B> </P>
+<P> <SUP> 2 </SUP> <TT> developing/happening at a regular rate </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | hold, remain </B><I>Share prices have held steady over the last few days. </I> </P>
+<P> <U> ADV. </U><B> remarkably, very | fairly, relatively</B> </P>
+</DIV>

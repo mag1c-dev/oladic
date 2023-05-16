@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>insight </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great, real, significant | deep | detailed | brief | good, remarkable </B><I>The objective of the research is to gain a better insight into labour market processes. </I><B>| penetrating, profound, revealing, illuminating | crucial, important, invaluable, valuable | useful | fascinating, interesting | startling | fresh, new | original, unique </B><I>Freud's original insights into the working of the mind </I><B>| rare | clear | basic | direct </B><I>The research will provide direct insight into molecular mechanisms. </I><B>| further | sufficient | individual, personal | critical, historical, theoretical </B> </P>
+<P> <U> QUANT. </U><B> flash </B><I>With a flash of insight, she found the solution to the problem. </I><B>| degree </B> </P>
+<P> <U> VERB + INSIGHT </U><B> have </B><I>The experienced specialist has professional skills and insight. </I><B>| be lacking in, lack | show | allow (sb), afford (sb), give (sb), offer (sb), provide (sb with), produce, yield | gain, get, obtain | apply </B><I>Teachers have to apply in the classroom the insights that they gain in educational courses. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>Schopenhauer's insight about music </I><B>| ~ into </B><I>a fresh insight into Picasso's mind </I><B>| ~ (as) to </B><I>an insight as to how the gene works </I> </P>
+<P> <U> PHRASES </U><B> a lack of insight</B> </P>
+</DIV>

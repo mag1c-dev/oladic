@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>brass </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> metal </TT> </P>
+<P> <U> ADJ. </U><B> gleaming, glittering, polished, shiny | solid </B> </P>
+<P> <U> VERB + BRASS </U><B> be made from/in/(out) of </B><I>candlesticks made of solid brass </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The door knocker was a female figure in brass. </I> </P>
+<P> <SUP> 2 </SUP> <TT> musical instruments made of brass </TT> </P>
+<P> <U> BRASS + NOUN </U><B> band | instrument | section </B><I>the brass section of the orchestra </I>&gt; Special page at MUSIC </B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>interview </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> face-to-face | telephone | group | in-depth | police </B><I>a police interview with suspected terrorists </I><B>| newspaper, press, radio, television | job </B><I>I've got a job interview tomorrow. </I> </P>
+<P> <U> VERB + INTERVIEW </U><B> carry out, conduct, do, hold </B><I>The survey team carried out over 200 interviews with retired people. </I><B>| do, give (sb), grant (sb) </B><I>He's a very private man and rarely does interviews. </I><B>| attend, be called for, have </B> </P>
+<P> <U> INTERVIEW + NOUN </U><B> board, panel | techniques | procedure </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>He said in an interview that he wanted to get married. </I><B>| ~ about </B><I>The prime minister gave the paper an interview about his musical tastes. </I><B>| ~ between </B><I>an interview between the French Foreign Minister and the President of Egypt </I><B>| ~ for </B><I>an interview for the post of sales manager </I><B>| ~ with </B><I>He had an interview with United Biscuits. an interview with the Vietnamese leader </I> </P>
+<P> <U> PHRASES </U><B> a round of interviews </B><I>We're about to start the second round of interviews for the post. </I> </P>
+</DIV>

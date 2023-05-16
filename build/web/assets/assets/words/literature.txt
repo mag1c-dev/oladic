@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>literature </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> written works of art </TT> </P>
+<P> <U> ADJ. </U><B> classical, contemporary, modern | great </B> </P>
+<P> <U> QUANT. </U><B> piece, work </B> </P>
+<P> <U> VERB + LITERATURE </U><B> read, study </B> </P>
+<P> <SUP> 2 </SUP> <TT> writing on a particular subject </TT> </P>
+<P> <U> ADJ. </U><B> extensive, voluminous | promotional, sales </B> </P>
+<P> <U> QUANT. </U><B> body </B><I>the growing body of literature on development issues </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>I picked up some literature about pensions. </I><B>| ~ on </B><I>There's an extensive literature on the subject. </I> </P>
+</DIV>

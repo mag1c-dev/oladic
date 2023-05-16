@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>replica </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> exact | full-scale, full-size, life-sized | half-scale, 1:5 scale, etc. | miniature </B> </P>
+<P> <U> VERB + REPLICA </U><B> build, create, construct, make </B><I>She made a 1:5 scale replica of Captain Cook's ship, &lsquo;The Endeavour&rsquo;. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The original conservatory has been rebuilt in replica. </I> </P>
+</DIV>

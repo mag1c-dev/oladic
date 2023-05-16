@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>spark </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small bright piece of burning material/electric flash </TT> </P>
+<P> <U> ADJ. </U><B> tiny | flying | electric </B> </P>
+<P> <U> VERB + SPARK </U><B> emit, produce, send (out), shower, strike </B><I>The firework showered sparks all over the lawn. His iron-tipped stick struck sparks from the pavement. </I> </P>
+<P> <U> SPARK + VERB </U><B> fly | ignite sth, set fire to sth </B><I>Flying sparks set fire to the dry grass. </I><B>| die (out) </B> </P>
+<P> <U> PHRASES </U><B> a shower of sparks </B><I>The grinding wheel sent a shower of sparks across the workbench. </I><B>| a spark of light </B> </P>
+<P> <SUP> 2 </SUP> <TT> small amount of a quality/feeling </TT> </P>
+<P> <U> ADJ. </U><B> little, tiny </B><I>A tiny spark of rebellion flared within her. </I><B>| creative, divine, vital </B> </P>
+<P> <U> VERB + SPARK </U><B> have | lack </B><I>His performances lack creative spark. </I><B>| feel </B><I>She felt a little spark of anger. </I><B>| kindle </B> </P>
+<P> <U> SPARK + VERB </U><B> flare, kindle </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He had kindled a spark of interest within her. </I> </P>
+<P> <U> PHRASES </U><B> a spark of hope/life, a spark of originality </B> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>sparks</B>) feelings of anger/excitement </TT> </P>
+<P> <U> VERB + SPARK </U><B> shoot </B><I>Her eyes shot sparks of contempt. </I><B>| draw </B><I>His remarks drew sparks from her. </I> </P>
+<P> <U> SPARK + VERB </U><B> fly </B><I>Sparks flew at the meeting. </I> </P>
+</DIV>

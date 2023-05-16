@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>dancing </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> wild | ballet, ballroom, belly, country, disco, flamenco, folk, line, maypole, morris, sequence, traditional </B><I>She does line dancing and yoga in the evenings. </I> </P>
+<P> <U> VERB + DANCING </U><B> do, go </B><I>They liked to go dancing every Saturday night. </I> </P>
+<P> <U> DANCING + NOUN </U><B> display | lesson </B><I>She's taking dancing lessons. </I><B>| school | career | partner </B> </P>
+<P> <U> PHRASES </U><B> dancing in the streets </B><I>There was dancing in the streets when we heard that the war was over. </I> </P>
+</DIV>

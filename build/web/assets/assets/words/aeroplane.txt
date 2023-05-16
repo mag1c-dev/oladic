@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>aeroplane </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> private | vintage | model, paper </B> </P>
+<P> <U> VERB + AEROPLANE </U><B> fly in, go in, travel in </B><I>I've never flown in an aeroplane. </I><B>| fly, pilot </B> </P>
+<P> <U> AEROPLANE + VERB </U><B> fly </B><I>aeroplanes flying overhead </I><B>| take off | come down, land | crash | carry sb/sth </B><I>The aeroplane was carrying 350 people. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>flying in an aeroplane </I><B>| on a/the ~ </B><I>The president was never on the aeroplane at all. </I>&gt; See <A HREF="plane_noun.htm">PLANE</A> </B> </P>
+</DIV>

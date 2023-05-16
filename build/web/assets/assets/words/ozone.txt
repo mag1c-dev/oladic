@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>ozone layer </B><I>noun </I> </P>
+<P> <U> VERB + OZONE LAYER </U><B> be damaging to, damage, deplete, destroy | protect </B> </P>
+<P> <U> OZONE LAYER + VERB </U><B> thin | disappear </B><I>The ozone layer is disappearing over northern Europe. </I> </P>
+<P> <U> PHRASES </U><B> damage to the ozone layer, depletion/destruction of the ozone layer, a hole in the ozone layer</B> </P>
+</DIV><DIV class="item"><P class="word"><B>ozone </B><I>noun </I> </P>
+<P> <U> VERB + OZONE </U><B> deplete, destroy </B> </P>
+<P> <U> OZONE + NOUN </U><B> levels | depletion, destruction, loss | hole | pollution </B> </P>
+<P> <U> PHRASES </U><B> the loss of/reduction in ozone </B><I>the discovery of massive springtime reductions in ozone over Antarctica </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>conductor </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> substance that allows heat/electricity to pass through </TT> </P>
+<P> <U> ADJ. </U><B> good | bad, poor | electrical | lightning</B> </P>
+<P> <SUP> 2 </SUP> <TT> person who directs an orchestra </TT> </P>
+<P> <U> ADJ. </U><B> great | famous | chief, principal | guest | opera/operatic, orchestra/orchestral </B> </P>
+<P> <U> PREP. </U><B> ~ of/with </B><I>the principal conductor of the Berlin Symphony Orchestra </I> </P>
+<P> <U> PHRASES </U><B> the conductor's baton </B></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>firearm </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> imitation, replica | unlicensed </B> </P>
+<P> <U> VERB + FIREARM </U><B> be in possession of, possess </B><I>The police charged her with possessing a firearm with intent to endanger life. </I><B>| carry </B> </P>
+<P> <U> FIREARM + NOUN </U><B> training | expert | certificate, licence | offence </B><I>He is wanted for robbery and firearms offences. </I> </P>
+</DIV>

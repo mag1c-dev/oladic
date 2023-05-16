@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>method </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> effective, efficient, good, practical, reliable </B><I>Which method is the most effective? </I><B>| simple | common, conventional, principal, traditional, usual | new | alternative, other | different, various | unorthodox, unusual | farming, research, scientific, teaching, working ~s </B><I>modern farming methods </I> </P>
+<P> <U> VERB + METHOD </U><B> adopt, employ, follow, use </B><I>the method adopted by the party for the selection of its candidates </I><B>| develop, devise, work out | change, improve </B> </P>
+<P> <U> METHOD + VERB </U><B> involve sth </B><I>This method involves cutting a very thin slice from the object. </I><B>| work </B><I>How does this method work? </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>an alternative method for resolving disputes </I><B>| ~ of </B><I>This is the best method of settling such arguments. </I> </P>
+</DIV>

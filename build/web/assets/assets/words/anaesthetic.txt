@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>anaesthetic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> general, local </B> </P>
+<P> <U> VERB + ANAESTHETIC </U><B> administer, give sb </B><I>He was given a general anaesthetic. </I><B>| use </B><I>The operation was completed in ten minutes using only local anaesthetic. </I><B>| have </B><I>She had a local anaesthetic to stop the pain. </I><B>| come round from, recover from </B> </P>
+<P> <U> ANAESTHETIC + VERB </U><B> take effect, work </B><I>The anaesthetic began to take effect. </I><B>| wear off </B> </P>
+<P> <U> PREP. </U><B> under (an/the) ~ </B><I>It would have to be done under anaesthetic. </I><B>| without (an/the) ~ </B><I>They had to operate without anaesthetic. </I> </P>
+</DIV>

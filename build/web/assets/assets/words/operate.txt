@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>operate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> machine </TT> </P>
+<P> <U> ADV. </U><B> effectively, efficiently, reliably | continuously </B><I>The machine can operate for 15 hours continuously at full power. </I><B>| electrically, electronically, hydraulically, manually, remotely </B>(= by remote control) <I>The doors can be manually operated in the event of fire. </I> </P>
+<P> <U> VERB + OPERATE </U><B> be designed to </B><I>systems designed to operate at the highest speeds </I><B>| be easy to </B><I>The machinery is easy to operate. </I> </P>
+<P> <U> PHRASES </U><B> battery operated </B> </P>
+<P> <SUP> 2 </SUP> <TT> business/system </TT> </P>
+<P> <U> ADV. </U><B> effectively, efficiently, profitably, successfully | autonomously, independently | commercially </B><I>The laboratory is still owned by the government but is now commercially operated. </I> </P>
+<P> <U> VERB + OPERATE </U><B> be able to | be allowed to | continue to </B> </P>
+<P> <U> PREP. </U><B> according to </B><I>The government does not operate according to fixed rules. </I><B>| as </B><I>We operate as an advisory service for schools. </I><B>| within </B><I>Local authorities operate within a wider political system. </I> </P>
+</DIV>

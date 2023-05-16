@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>clatter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> loud, noisy, terrible | metallic | sudden </B> </P>
+<P> <U> VERB + CLATTER </U><B> make </B><I>The wheels of the cart made a terrible clatter on the cobblestones. </I><B>| hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>She dropped her fork with a clatter. </I><B>| ~ of </B><I>There was a clatter of hooves and a party of riders drew up. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>clatter </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> noisily </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The mug clattered against her teeth. </I><B>| down </B><I>Something heavy came clattering down the stairs. </I><B>| on </B><I>His boots clattered on the stairs. </I><B>| to </B><I>The knife clattered noisily to the floor. </I> </P>
+<P> <U> PHRASES </U><B> come clattering</B> </P>
+</DIV>

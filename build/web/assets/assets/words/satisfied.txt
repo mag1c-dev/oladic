@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>satisfied </b><i>adj. </i> </p>
+<p> <u> VERBS </u><div class="ex"><b> appear, be, feel, look, seem | declare/profess/pronounce yourself </b></div><div class="excontent"><i>He declared himself satisfied with the results. </i> </div></p>
+<p> <u> ADV. </u><div class="ex"><b> extremely, more than, very, well </b></div><div class="excontent"><i>feeling well satisfied with her day's work </i></div><div class="ex"><b>| absolutely, completely, fully, perfectly, quite, totally | far from, not entirely, not wholly | fairly, generally, reasonably | enough, sufficiently </b></div><div class="excontent"><i>Her parents seemed satisfied enough with her progress. </i></div><div class="ex"><b>| apparently </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> with </b></div><div class="excontent"><i>She seemed satisfied with the arrangements. </i> </div></p>
+</div>

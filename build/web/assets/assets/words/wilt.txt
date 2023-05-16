@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>wilt </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> visibly </B> </P>
+<P> <U> VERB + WILT </U><B> begin to </B><I>Some of the leaves were beginning to wilt. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>The plants will wilt in direct sunlight. </I><B>| under </B><I>By half-time, the team was wilting under the pressure. </I><B>| with </B><I>The passengers were visibly wilting with the heat and movement of the bus. </I> </P>
+</DIV>

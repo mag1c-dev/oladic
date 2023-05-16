@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>trunk </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> part of a tree </TT> </P>
+<P> <U> ADJ. </U><B> thick | gnarled | fallen | rotting | tree 2 trunks </B>for swimming </B> </P>
+<P> <U> ADJ. </U><B> bathing, swimming </B> </P>
+<P> <U> QUANT. </U><B> pair </B><I>I need a new pair of swimming trunks. </I>  </B> </P>
+<P> <SUP> 3 </SUP> <TT> strong box with a lid </TT> </P>
+<P> <U> ADJ. </U><B> old | tin | steamer </B> </P>
+<P> <U> VERB + TRUNK </U><B> pack, unpack </B> </P>
+<P> <U> PREP. </U><B> in a/the ~</B> </P>
+</DIV>

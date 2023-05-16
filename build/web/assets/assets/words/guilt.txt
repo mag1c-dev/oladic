@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>guilt </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling </TT> </P>
+<P> <U> ADJ. </U><B> dreadful, terrible </B> </P>
+<P> <U> QUANT. </U><B> pang, twinge </B> </P>
+<P> <U> VERB + GUILT </U><B> be consumed with, be haunted by, be overwhelmed with, be racked with, feel, suffer </B><I>I knew that the next day I would be consumed with guilt. You needn't feel any guilt about me. </I><B>| assuage </B><I>Talking to her helped to assuage my guilt. </I> </P>
+<P> <U> GUILT + VERB </U><B> sear sb, sweep over sb, wash over sb </B><I>Guilt swept over her. </I> </P>
+<P> <U> GUILT + NOUN </U><B> complex | feelings </B> </P>
+<P> <U> PREP. </U><B> ~ about/at/over </B><I>He had no feelings of guilt over what he had done. </I> </P>
+<P> <U> PHRASES </U><B> a burden of guilt </B><I>the burden of guilt that she carried with her </I><B>| a feeling/sense of guilt </B> </P>
+<P> <SUP> 2 </SUP> <TT> fact of having broken a law/done sth wrong </TT> </P>
+<P> <U> VERB + GUILT </U><B> admit | establish, prove </B><I>It might be difficult to prove his guilt. </I> </P>
+<P> <U> GUILT + VERB </U><B> lie </B><I>There is no doubt as to where the guilt lies. </I> </P>
+<P> <U> PHRASES </U><B> an admission of guilt </B><I>I took his silence as an admission of guilt. </I><B>| proof of guilt</B> </P>
+</DIV>

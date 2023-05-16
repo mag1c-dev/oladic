@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>boost </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, great, major, tremendous | much-needed, welcome | unexpected | confidence, financial, morale, psychological </B> </P>
+<P> <U> VERB + BOOST </U><B> give sb, provide (sb with) | need | get, receive </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a boost for British products </I><B>| ~ in </B><I>a big boost in exports </I><B>| ~ to </B><I>a boost to the economy </I> </P>
+</DIV><DIV class="item"><P class="word"><B>boost </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> considerably, greatly, substantially </B> </P>
+<P> <U> VERB + BOOST </U><B> help (to) </B><I>The new service helped boost pre-tax profits by 10%. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The total was boosted to nearly </I>&pound;</B><I>200 by donations from parents. </I> </P>
+</DIV>

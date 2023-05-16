@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>eyesight </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, keen | bad, deteriorating, failing, poor </B><I>Failing eyesight finally forced her into an old people's home. </I> </P>
+<P> <U> VERB + EYESIGHT </U><B> have </B><I>Owls have good eyesight. </I> </P>
+<P> <U> EYESIGHT + VERB </U><B> deteriorate, fail</B> </P>
+</DIV>

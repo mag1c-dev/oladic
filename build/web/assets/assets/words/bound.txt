@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>bound </B><I>adj. </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> bound to do sth certain to do sth  </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> almost </B><I>These problems were almost bound to arise. </I></P>
+<P> <SUP> 2 </SUP> <TT> bound (to do sth): obliged to do sth  </TT> </P>
+<P> <U> VERBS </U><B> be, feel | become | remain | hold sb </B><I>The president said the country could not be held bound by a treaty signed by the previous regime. </I> </P>
+<P> <U> ADJ. </U><B> absolutely | irrevocably | by law, contractually, legally </B><I>Officials are bound by law to investigate any possible fraud. He was legally bound to report them to the authorities. </I><B>| (in) honour, in duty, duty-bound | morally </B><I>I felt in duty bound to report the incident. </I> </P>
+<P> <U> PREP. </U><B> by </B><I>We are legally bound by this decision. </I> </P>
+<P> <SUP> 3 </SUP> <TT> travelling in a particular direction </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> homeward, outward </B> </P>
+<P> <U> PREP. </U><B> for </B><I>tourists who are bound for Europe </I></P>
+<P> <SUP> 4 </SUP> <TT> bound up: closely connected  </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> closely, intimately | inevitably, inextricably | intrinsically | together </B><I>A person's name and their sense of their own identity are often closely bound up together. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>From that moment my life became inextricably bound up with hers. </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>scope </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> opportunity </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>In her new house she had full scope for her passion for gardening. </I><B>| ample, considerable, enormous, great, tremendous | limited </B> </P>
+<P> <U> VERB + SCOPE </U><B> have | allow (sb), give sb, leave (sb), offer (sb), provide (sb with) </B><I>These courses give students more scope for developing their own ideas. </I><B>| increase | cut down, reduce </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>There is limited scope for creativity in my job. </I> </P>
+<P> <SUP> 2 </SUP> <TT> range/extent </TT> </P>
+<P> <U> ADJ. </U><B> broad, wide | limited, narrow </B><I>The scope of the exhibition is disappointingly narrow. </I><B>| geographical, territorial </B><I>The geographical scope of product markets has widened since the war. </I> </P>
+<P> <U> VERB + SCOPE </U><B> broaden, expand, extend, increase, widen | limit, reduce, restrict | define, determine </B><I>These criteria were used to determine the scope of the curriculum. </I> </P>
+<P> <U> SCOPE + VERB </U><B> broaden, expand, extend, increase, widen | narrow </B> </P>
+<P> <U> PREP. </U><B> beyond/outside the ~ of </B><I>The subject lies outside the scope of this book. </I><B>| in (sth's) ~ </B><I>The survey is too limited in (its) scope. </I><B>| within the ~ of </B><I>These disputes fall within the scope of the local courts. </I> </P>
+</DIV>

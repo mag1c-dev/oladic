@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>streak </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> thin line </TT> </P>
+<P> <U> ADJ. </U><B> dark </B><I>There were dark streaks down her cheeks where she had been crying. </I><B>| faint, pale </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The last streaks of light faded from the sky. </I> </P>
+<P> <U> PHRASES </U><B> a streak of lightning </B><I>A streak of lightning forked across the sky. </I><B>| a streak of red, white, etc. </B><I>She had a few streaks of grey in her black hair. </I> </P>
+<P> <SUP> 2 </SUP> <TT> aspect of sb's character </TT> </P>
+<P> <U> ADJ. </U><B> strong | hidden | adventurous, competitive, independent, mean, puritanical, rebellious, ruthless, selfish, stubborn, vicious </B> </P>
+<P> <U> VERB + STREAK </U><B> have </B><I>Most of the players have a strong competitive streak. </I><B>| reveal, show </B><I>She suddenly revealed a mean streak in her character. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>Holidays in the Australian outback are for those with an adventurous streak. </I><B>| ~ of </B><I>There was a streak of insanity in the family. </I> </P>
+<P> <SUP> 3 </SUP> <TT> period of good/bad luck </TT> </P>
+<P> <U> ADJ. </U><B> winning | losing </B> </P>
+<P> <U> VERB + STREAK </U><B> be on </B><I>The team has been on a winning streak since it won against Lazio. </I> </P>
+</DIV>

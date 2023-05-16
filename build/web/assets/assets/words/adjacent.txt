@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>adjacent </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, be situated, lie, stand </B><I>The vineyards of Verzy lie adjacent to those of Verzenay. </I> </P>
+<P> <U> ADJ. </U><B> directly, immediately </B><I>There is a row of houses immediately adjacent to the factory. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The miller's house stands adjacent to the mill. </I> </P>
+</DIV>

@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>connection </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> relationship between two things </TT> </P>
+<P> <U> ADJ. </U><B> clear, close, direct, intimate, strong </B><I>There is a close connection between family background and academic achievement. </I><B>| tenuous | obvious | causal </B> </P>
+<P> <U> VERB + CONNECTION </U><B> have </B><I>His death had no connection with drugs. </I><B>| discover, establish, find, make, see </B><I>Researchers have now established a connection between air pollution and asthma. She did not make the connection between her diet and her poor health. </I><B>| break, sever </B><I>She wanted to sever all her connections with the firm. </I> </P>
+<P> <U> PREP. </U><B> in ~ with </B><I>I am writing in connection with your recent job application. </I><B>| ~ between </B><I>the connection between crime and alcohol </I><B>| ~ to/with </B><I>What is your connection with the school? </I> </P>
+<P> <U> PHRASES </U><B> in that/this connection </B>(= for reasons connected with sth recently mentioned)  </P>
+<P> <SUP> 2 </SUP> <TT> place where wires/pipes join together </TT> </P>
+<P> <U> ADJ. </U><B> loose | electrical, pipe </B> </P>
+<P> <U> VERB + CONNECTION </U><B> break </B><I>If you break the connection, the light won't come on. </I> </P>
+<P> <U> CONNECTION + NOUN </U><B> charge </B> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>waiting for connection to the water mains </I> </P>
+<P> <SUP> 3 </SUP> <TT> bus/train/plane </TT> </P>
+<P> <U> ADJ. </U><B> good | bus, rail/railway, train </B> </P>
+<P> <U> VERB + CONNECTION </U><B> make | miss </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>There are good connections between the resort and major cities. </I><B>| ~ to </B><I>We'll be lucky if we make our connection to Paris. </I><B>| ~ with </B><I>good connections with New York </I> </P>
+<P> <SUP> 4 </SUP> <TT> person you know </TT> </P>
+<P> <U> ADJ. </U><B> good | aristocratic | business, family, personal, political, professional, social </B> </P>
+<P> <U> VERB + CONNECTION </U><B> have </B><I>I have some good business connections in New York. He has connections </I>(= he knows important people who would be able to help him)</B><I>. </I><B>| use </B><I>She used her connections to get the job. </I> </P>
+</DIV>

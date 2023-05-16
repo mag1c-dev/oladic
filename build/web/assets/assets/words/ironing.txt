@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>ironing </B><I>noun </I> </P>
+<P> <U> QUANT. </U><B> pile </B><I>There's a pile of ironing waiting to be done. </I> </P>
+<P> <U> VERB + IRONING </U><B> do </B><I>Who does the ironing in your house? </I><B>| need </B><I>This shirt needs ironing. </I> </P>
+<P> <U> IRONING + NOUN </U><B> board</B> </P>
+</DIV>

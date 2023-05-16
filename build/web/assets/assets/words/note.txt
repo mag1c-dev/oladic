@@ -1,0 +1,34 @@
+
+<DIV class="item"><P class="word"><B>note </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> short letter </TT> </P>
+<P> <U> ADJ. </U><B> brief, little, quick, short </B><I>Just a quick note to wish you luck. </I><B>| handwritten | covering, credit, delivery, love, promissory, ransom, sick, suicide, thank-you </B> </P>
+<P> <U> VERB + NOTE </U><B> scribble (sb), write (sb) | send (sb) | leave (sb) </B><I>She left me a note to say my supper was in the fridge. </I> </P>
+<P> <U> PHRASES </U><B> a note of thanks </B> </P>
+<P> <SUP> 2 </SUP> <TT> (often <B>notes</B>) words that you write down quickly </TT> </P>
+<P> <U> ADJ. </U><B> brief | copious, detailed | scrappy | lecture | case, clinical, medical </B> </P>
+<P> <U> VERB + NOTE </U><B> jot down, keep, make, take </B><I>She kept detailed notes of her travels. </I><B>| go through, look through, read through, sift through </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>I've made a note of the book's title. </I><B>| ~ on </B><I>The catalogue has full notes on each artist. </I> </P>
+<P> <U> PHRASES </U><B> make a mental note (of sth/to do sth) </B><I>She made a mental note to ring them in the morning. </I> </P>
+<P> <SUP> 3 </SUP> <TT> (usually <B>notes</B>) extra piece of information </TT> </P>
+<P> <U> ADJ. </U><B> detailed | explanatory | introductory | marginal | biographical | briefing, programme, usage </B> </P>
+<P> <SUP> 4 </SUP> <TT> piece of paper money </TT> </P>
+<P> <U> ADJ. </U><B> crumpled | five-pound, ten-euro, etc. </B> </P>
+<P> <U> QUANT. </U><B> bundle, roll, wad </B><I>a thick wad of notes </I> </P>
+<P> <SUP> 5 </SUP> <TT> single musical sound </TT> </P>
+<P> <U> ADJ. </U><B> high, top </B><I>She's a bit wobbly on the top notes. </I><B>| low | right | wrong | musical | dissonant | chromatic, diatonic </B> </P>
+<P> <U> VERB + NOTE </U><B> play, sing | hit, strike | hold </B> </P>
+<P> <SUP> 6 </SUP> <TT> quality/feeling </TT> </P>
+<P> <U> ADJ. </U><B> brighter, cheerful, happier, lighter, optimistic, positive </B><I>On a brighter note &hellip; </I><B>| discordant, jarring, sad, sour | faint | serious | right </B><I>His opening remarks struck the right note. </I><B>| odd | false | cautionary, warning </B><I>He sounded a cautionary note. </I><B>| personal </B> </P>
+<P> <U> VERB + NOTE </U><B> hit, sound, strike | inject, introduce </B><I>His remarks injected a note of levity into the proceedings. </I><B>| detect </B><I>I detected a faint note of weariness in his voice. </I> <B>| end on </B><I>The conference ended on an optimistic note. </I> </P>
+<P> <U> NOTE + VERB </U><B> creep into/enter sb's voice </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>A note of suspicio</I>n </B><I>entered his voice</I>. </B> </P>
+<P> <U> PHRASES </U><B> a note in sb's voice </B><I>There was a sad note in her voice. </I><B>| on a brighter/happier, etc. note </B> </P>
+<P> <SUP> 7 </SUP> <TT> notice/attention </TT> </P>
+<P> <U> ADJ. </U><B> careful </B> </P>
+<P> <U> VERB + NOTE </U><B> take </B><I>He took careful note of the suspicious-looking man in the corner of the bar. </I> </P>
+<P> <U> PHRASES </U><B> worthy of note </B><I>The frescoes are worthy of note. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>note </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully | in passing </B><I>He noted in passing that the government's record on unemployment was not very good. </I><B>| duly </B><I>Her lapse was duly noted by the stage manager and reported to the director. </I><B>| above, already, earlier, previously </B><I>These policies, as noted above, are not always successful. </I><B>| approvingly | ruefully </B> </P>
+<P> <U> VERB + NOTE </U><B> should </B><I>Visitors should note that the tower is not open to the public. </I><B>| be important to | be interesting to | be pleased to </B><I>I was pleased to note that my name had been spelt correctly for once. </I> </P>
+<P> <U> PHRASES </U><B> be worth noting </B><I>There are a few points here that are worth noting. </I><B>| it must/should be noted that &hellip; , a point to note </B><I>There are two other points to note from this graph. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>cuisine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excellent, fine, superb | local, regional </B><I>We sampled the local cuisine. </I><B>| traditional | haute, nouvelle | French, Italian, etc. </B> </P>
+<P> <U> VERB + CUISINE </U><B> offer, serve </B><I>The hotel has a large dining room serving superb local cuisine. </I><B>| sample, try </B> </P>
+<P> <U> PHRASES </U><B> a standard of cuisine</B> </P>
+</DIV>

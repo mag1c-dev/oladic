@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>candidate </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> potential, prospective </B><I>Prospective parliamentary candidates met party leaders last week. </I><B>| likely, possible </B><I>She's a likely candidate for promotion. </I><B>| good, ideal, suitable </B><I>There were no suitable candidates for the position. </I><B>| unsuitable | successful </B><I>The successful candidate will be fluent in French and German. </I><B>| congressional, ministerial, parliamentary, presidential | Conservative, Democratic, etc. </B> </P>
+<P> <U> VERB + CANDIDATE </U><B> put yourself forward as, stand as </B><I>She decided to stand as a candidate in the union elections. </I><B>| field, nominate, put up, run </B><I>Our organization is putting up five candidates in the elections. </I><B>| back, support, vote for | choose, select </B><I>The committee will select the best candidate for the job. </I><B>| reject </B><I>We rejected most of the candidates as unsuitable. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She was the only candidate for the post. </I> </P>
+</DIV>

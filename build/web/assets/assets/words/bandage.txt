@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>bandage </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> tight | loose | crepe </B> </P>
+<P> <U> VERB + BANDAGE </U><B> put on, wind around/round, wrap around/round </B><I>Wrap the bandage firmly around the injured limb. </I><B>| have on, wear | change, remove, take off </B> </P>
+<P> <U> PREP. </U><B> ~ around/round, ~ on </B><I>She had a bandage on her arm. </I> </P>
+<P> <U> PHRASES </U><B> be in bandages, be swathed/wrapped in bandages </B><I>He'll be in bandages for a few weeks. </I> </P>
+</DIV>

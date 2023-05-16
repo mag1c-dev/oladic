@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>similarity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> close, considerable, great, strong </B><I>the close similarity in our ages </I><B>| clear, marked, obvious | striking, uncanny | significant | certain | basic, fundamental | apparent, superficial | broad, general </B> </P>
+<P> <U> QUANT. </U><B> degree </B> </P>
+<P> <U> VERB + SIMILARITY </U><B> bear, have </B><I>The area bears a superficial similarity to south London. </I><B>| reveal, show | share </B><I>these theories share certain similarities </I><B>| explain </B><I>a route across the Pacific which may explain the similarity between the two cultures </I> </P>
+<P> <U> SIMILARITY + VERB </U><B> exist | end </B><I>Here the similarity with Western politics ends. </I> </P>
+<P> <U> PREP. </U><B> ~ between, ~ in </B><I>the striking similarity in their behaviour </I><B>| ~ to </B><I>the chimpanzee's similarity to humans </I><B>| ~ with </B><I>The panel shows marked similarities with mosaics found elsewhere. </I> </P>
+<P> <U> PHRASES </U><B> a point of similarity </B><I>There are several points of similarity between the two cases. </I> </P>
+</DIV>

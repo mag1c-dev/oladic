@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>involved </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> taking part in sth </TT> </P>
+<P> <U> VERBS </U><B> be | become, get </B> </P>
+<P> <U> ADV. </U><B> closely, deeply, heavily, intimately, very </B><I>She became heavily involved in politics. </I><B>| actively </B><I>He wanted to be actively involved in school life. </I><B>| directly </B><I>Drugs were not directly involved in her death. </I><B>| personally </B> </P>
+<P> <U> PREP. </U><B> in </B><I>He was involved in a road accident. </I><B>| with </B><I>She first became involved with the organization in 1998. </I> </P>
+<P> <SUP> 2 </SUP> <TT> emotionally connected with sb </TT> </P>
+<P> <U> VERBS </U><B> be | become, get </B> </P>
+<P> <U> ADV. </U><B> deeply, heavily, very | personally | emotionally, romantically, sexually </B> </P>
+<P> <U> PREP. </U><B> with </B><I>I never wanted to get emotionally involved with him. </I> </P>
+<P> <SUP> 3 </SUP> <TT> complicated </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem, sound | become, get </B> </P>
+<P> <U> ADV. </U><B> extremely, terribly, very </B><I>It all sounds terribly involved and complicated. </I><B>| rather</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>alcohol </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> excess/excessive </B><I>the dangers of excessive alcohol </I><B>| pure </B><I>Is it possible for cars to run on pure alcohol? </I> </P>
+<P> <U> QUANT. </U><B> drop, unit </B><I>You need to be careful how many units of alcohol you drink in a week. </I><B>| level </B><I>The driver had more than the permitted level of alcohol in his blood. </I> </P>
+<P> <U> VERB + ALCOHOL </U><B> consume, drink | avoid, keep off, not touch, stay off </B><I>I haven't touched a drop of alcohol for three weeks. </I><B>| abuse </B><I>(formal) Most drinkers do not abuse alcohol at all. </I> </P>
+<P> <U> ALCOHOL + NOUN </U><B> content, level </B><I>It can take a long time for blood alcohol levels to fall. </I><B>| consumption, intake, use | abuse, addiction, misuse | problem </B><I>People can find it hard to admit they have an alcohol problem. </I> </P>
+<P> <U> PHRASES </U><B> low alcohol </B>(= containing very little alcohol) <I>a low alcohol beer </I> </P>
+</DIV>

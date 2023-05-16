@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>scripture </B><I>noun </I><B>(</B>often <B>scriptures) </B> </P>
+<P> <U> ADJ. </U><B> holy, sacred </B><I>the sacred scripture of the Buddhists </I><B>| Christian, Hebrew, Hindu, Jewish, etc. </B> </P>
+<P> <U> QUANT. </U><B> passage, verse </B> </P>
+<P> <U> VERB + SCRIPTURE </U><B> interpret, read (from) </B><I>She read from the scriptures. </I><B>| teach | follow | quote (from) </B> </P>
+<P> <U> PREP. </U><B> in the ~s </B><I>You won't find this moral precept in the scriptures. </I> </P>
+</DIV>

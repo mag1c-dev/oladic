@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>valve </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> safety | non-return, one-way | drain, pressure-relief | fuel, water, etc. | heart, radiator, etc. </B> </P>
+<P> <U> VERB + VALVE </U><B> fit </B><I>The plumber will fit some new safety valves. </I><B>| open </B><I>You need special tools to open the valve. </I><B>| close</B> </P>
+</DIV>

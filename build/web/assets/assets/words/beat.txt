@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>beat </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> rhythm </TT> </P>
+<P> <U> ADJ. </U><B> regular, rhythmic, steady | pounding </B> </P>
+<P> <U> VERB + BEAT </U><B> clap to, dance to, sway to </B><I>They danced to the rhythmic beat of the music. </I> </P>
+<P> <U> PHRASES </U><B> two, three, four, etc. beats to the bar </B><I>The piece has four beats to the bar. </I><B>| sb's heart misses/skips a beat </B>(= sb feels very nervous) <I>As I opened the letter, my heart missed a beat. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a police officer </TT> </P>
+<P> <U> VERB + BEAT </U><B> pound, walk </B><I>We have two officers walking the beat after midnight. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>officers on the beat </I> </P>
+</DIV><DIV class="item"><P class="word"><B>beat </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> in a game </TT> </P>
+<P> <U> ADV. </U><B> comfortably, comprehensively, convincingly, easily, hands down, soundly </B><I>He beat her hands down. </I><B>| narrowly </B><I>He was narrowly beaten by his opponent. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>She beat him at chess. </I><B>| by </B><I>beating her by just three points </I> </P>
+<P> <U> PHRASES </U><B> beat sb into second, third, etc. place </B><I>He was beaten into second place by the American. </I> </P>
+<P> <SUP> 2 </SUP> <TT> hit sb </TT> </P>
+<P> <U> ADV. </U><B> badly, brutally, savagely, severely, violently </B> </P>
+<P> <U> PREP. </U><B> with </B><I>She was beaten with a metal bar. </I> </P>
+<P> <U> PHRASES </U><B> beat sb about/over the head </B><I>He had been beaten about the head with a rock. </I><B>| beat sb to death, beat sb unconscious </B> </P>
+<P> <SUP> 4 </SUP> <TT> of heart/wings </TT> </P>
+<P> <U> ADV. </U><B> fast, frantically, painfully, rapidly, wildly </B><I>I could feel my heart beating wildly. </I> </P>
+<P> <SUP> 5 </SUP> <TT> mix </TT> </P>
+<P> <U> ADV. </U><B> thoroughly, well </B><I>Beat the mixture well, until it is light and creamy. </I><B>| lightly </B><I>Add three eggs, lightly beaten. </I><B>PHRASAL VERBS beat down </B> </P>
+<P> <U> ADV. </U><B> mercilessly, relentlessly </B> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>The African sun beat relentlessly down on his aching head. </I> </P>
+</DIV>

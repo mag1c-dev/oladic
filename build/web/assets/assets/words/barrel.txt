@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>barrel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> container </TT> </P>
+<P> <U> ADJ. </U><B> beer, wine </B> </P>
+<P> <U> VERB + BARREL </U><B> fill </B><I>They filled the barrels with cider </I> </P>
+<P> <U> BARREL + VERB </U><B> contain sth </B> </P>
+<P> <U> PREP. </U><B> a/per ~ </B><I>The price of oil had fallen to $16 per barrel. </I><B>| by the ~ </B><I>Beer is sold by the barrel. </I><B>| ~ of </B><I>a barrel of beer/oil </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a gun </TT> </P>
+<P> <U> ADJ. </U><B> gun, rifle </B><I>I felt the gun barrel at my head </I> </P>
+<P> <U> VERB + BARREL </U><B> look down, peer/squint along </B><I>She found herself looking down the barrel of a gun. Pulling his rifle to his shoulder he squinted along the barrel. </I> </P>
+<P> <U> BARREL + VERB </U><B> point </B> </P>
+<P> <U> PHRASES </U><B> the barrel of a gun</B> </P>
+</DIV>

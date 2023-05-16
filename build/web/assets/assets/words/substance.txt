@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>substance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> material </TT> </P>
+<P> <U> ADJ. </U><B> addictive, carcinogenic, dangerous, harmful, hazardous, noxious, poisonous, radioactive, toxic | innocuous </B><I>Even innocuous substances can sometimes register a positive result in a drug test. </I><B>| banned, illegal | natural </B><I>a natural substance found in the body of animals </I><B>| chemical | inorganic, organic | pure | soluble, volatile | crystalline, fatty, oily, slimy, sticky, viscous | medicinal </B> </P>
+<P> <U> VERB + SUBSTANCE </U><B> use | contain | produce </B><I>Some frogs produce very toxic substances in their skin. </I><B>| take </B><I>The athletes had taken banned substances to increase their strength. </I> </P>
+<P> <SUP> 2 </SUP> <TT> important content </TT> </P>
+<P> <U> ADJ. </U><B> real </B><I>The real substance of the report was in the third part. </I><B>| added </B><I>His disappearance has given added substance to the argument that he stole the money. </I> </P>
+<P> <U> VERB + SUBSTANCE </U><B> have </B><I>The image of him that the media have presented has no substance. </I><B>| give sth, lend sth </B><I>The letters lent substance to the rumours. </I><B>| lack </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>There's no difference in substance between the two points of view. </I><B>| of ~ </B><I>Nothing of substance was achieved at the meeting. </I><B>| without ~ </B><I>Their allegations were without substance. </I><B>| ~ in </B><I>There's no substance in the story. </I><B>| ~ to </B><I>There was little substance to his claims. </I> </P>
+</DIV>

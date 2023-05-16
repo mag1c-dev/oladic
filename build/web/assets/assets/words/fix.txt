@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>fix </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> solution to a problem </TT> </P>
+<P> <U> ADJ. </U><B> quick </B><I>There is no quick fix to the breakdown in negotiations between the two companies. </I><B>| technical, technological | bug </B><I>The new software incorporates many bug fixes and product improvements. </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount of sth, especially a drug </TT> </P>
+<P> <U> ADJ. </U><B> regular </B> </P>
+<P> <U> VERB + FIX </U><B> have </B><I>He gets withdrawal symptoms if he hasn't had his regular fix. </I><B>| need | get </B> </P>
+<P> <SUP> 3 </SUP> <TT> difficult situation </TT> </P>
+<P> <U> VERB + FIX </U><B> be in </B><I>I was in a fix. </I><B>| get in/into </B><I>How did you get into such a fix? </I><B>| put sb in </B><I>The power cut put us in a fix because we had invited people to dinner. </I><B>| get (sb) out of </B><I>I lent her the money to get her out of a fix. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>fix </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> firmly, securely | directly </B> </P>
+<P> <U> PREP. </U><B> onto, to </B><I>The handrail can be fixed directly to the wall. </I> </P>
+<P> <U> PHRASES </U><B> fix sth in place/position </B><I>Fix the bars in position with the screws provided. </I> </P>
+</DIV>

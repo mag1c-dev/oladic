@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>remorse </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep, genuine, real </B> </P>
+<P> <U> QUANT. </U><B> pang, stab </B> </P>
+<P> <U> VERB + REMORSE </U><B> be filled with, be full of, be overcome with, be stricken with, feel, have, suffer </B><I>She knew that the next day she would be guilty and full of remorse. I suffered no remorse. </I><B>| display, express, show </B> </P>
+<P> <U> PREP. </U><B> without ~ </B><I>He died without remorse. </I><B>| ~ at </B><I>He felt some remorse at his behaviour. </I><B>| ~ for </B><I>She was filled with remorse for the crime. </I><B>| ~ over </B><I>She felt a sharp pang of remorse over the incident. </I> </P>
+<P> <U> PHRASES </U><B> a feeling of remorse, tears of remorse</B> </P>
+</DIV>

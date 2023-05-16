@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>hospital </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> community, district, local | NHS, private | day, long-stay | general | children's, maternity, mental, psychiatric, etc. | teaching </B> </P>
+<P> <U> VERB + HOSPITAL </U><B> go into/to </B><I>He's had to go into hospital rather suddenly. </I><B>| rush sb to, take sb to | admit sb to, readmit sb to | stay in | come out of, leave </B><I>She came out of hospital this morning. </I><B>| discharge sb from </B> </P>
+<P> <U> HOSPITAL + NOUN </U><B> doctor, staff | inpatient, outpatient, patient | care, services, treatment | clinic, unit, ward | bed | admission, stay </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>She works at the John Radcliffe Hospital. </I><B>| in (a/the) ~ </B><I>He is in hospital recovering from a heart operation. I used to work as a cleaner in a hospital. </I><B>| to (a/the) ~ </B><I>He's been taken to hospital for tests. We went to the hospital to visit my gran. </I> </P>
+<P> <U> PHRASES </U><B> admission to hospital, a stay in hospital</B> </P>
+</DIV>

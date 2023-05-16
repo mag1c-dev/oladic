@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>clip </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> used for holding things together </TT> </P>
+<P> <U> ADJ. </U><B> bulldog, crocodile, spring | bicycle, hair, nose, paper, suspender, tie </B> </P>
+<P> <U> VERB + CLIP </U><B> fasten, put (in/on) </B><I>She put a clip in her hair. He put his bicycle clips on and set off. </I><B>| take off, undo, unfasten </B> </P>
+<P> <U> CLIP + VERB </U><B> hold sth </B><I>Paper clips held the picture in place. </I> </P>
+<P> <SUP> 2 </SUP> <TT> small section from a film </TT> </P>
+<P> <U> ADJ. </U><B> brief, short | film, movie, video </B> </P>
+<P> <U> VERB + CLIP </U><B> see | show </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>You will see in this clip how well she acts. </I><B>| ~ from </B><I>a clip from a Sherlock Holmes movie </I> </P>
+</DIV>

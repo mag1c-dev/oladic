@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>subject </B><I>adj. </I><B>subject to sth </B> </P>
+<P> <SUP> 1 </SUP> <TT> likely to be affected by sth </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | leave sb/sth, make sb/sth </B><I>His illness left him subject to asthmatic attacks. </I> </P>
+<P> <U> ADV. </U><B> very | increasingly | rather | still </B><I>At this stage these are proposals and are still subject to change. </I> </P>
+<P> <SUP> 2 </SUP> <TT> under the authority of sb/sth </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>Everyone was entirely subject to the whim of the Sultan. </I><B>| become | remain | make sb/sth </B><I>All the priories were made directly subject to the abbot of Cluny. </I> </P>
+<P> <U> ADV. </U><B> entirely | directly | expressly</B> </P>
+</DIV><DIV class="item"><P class="word"><B>subject </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> topic or person under consideration </TT> </P>
+<P> <U> ADJ. </U><B> big, complex, vast | simple | excellent, fascinating, good, interesting | cheerful </B><I>Can we talk about a more cheerful subject? </I><B>| gloomy, unpleasant | delicate, difficult, embarrassing | taboo  </B><I>Work is a taboo subject when we go out for dinner. </I><B>| closed </B><I>I don't wish to discuss it any further?the subject is closed. </I><B>| chosen </B><I>Each candidate has to speak for three minutes on their chosen subject. </I><B>| pet </B><I>Once he gets onto his pet subject there's no stopping him. </I> </P>
+<P> <U> VERB + SUBJECT </U><B> cover, debate, discuss, talk about, touch on </B><I>We touched briefly on the subject. </I><B>| deal with </B><I>I wasn't quite sure how to deal with the delicate subject of money. </I><B>| examine, have a (fresh) look at, investigate, look into </B><I>We want to have a fresh look at the difficult subject of social security benefits. </I><B>| bring up, broach, get onto, raise | drop </B><I>Let's drop the subject since we don't seem to be able to agree. </I><B>| stick to </B><I>I wish he'd stick to the subject rather than telling us his boring stories. </I><B>| get off, wander off </B><I>She was supposed to be speaking about sales figures, but she kept wandering off the subject. </I> <B>| get back to, return to </B><I>Getting back to the subject of heating, has anyone got any suggestions for improvements? </I><B>| avoid | change </B><I>Don't change the subject. </I> </P>
+<P> <U> SUBJECT + VERB </U><B> arise, come up </B><I>The subject of gambling has come up several times recently. </I> </P>
+<P> <U> SUBJECT + NOUN </U><B> matter </B><I>I like the way she writes, although I'm not interested in her subject matter. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>While we're on the subject of the theatre, has anyone been to see the new show? </I> </P>
+<P> <U> PHRASES </U><B> a range of subjects </B><I>We discussed a wide range of subjects. </I> </P>
+<P> <SUP> 2 </SUP> <TT> area of study </TT> </P>
+<P> <U> ADJ. </U><B> difficult, easy | compulsory, core, main | additional, optional, special, subsidiary | specialist | arts, science | academic </B> </P>
+<P> <U> VERB + SUBJECT </U><B> take </B><I>What subjects are you taking at A level? </I><B>| offer </B><I>The department offers seven different subjects in all. </I><B>| fail (in), pass </B><I>She was disappointed to fail in two of her four subjects. </I><B>| drop </B> </P>
+<P> <U> SUBJECT + NOUN </U><B> area </B><I>The syllabus is divided into five subject areas. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He did well in every subject. </I> </P>
+<P> <U> PHRASES </U><B> a choice of subject/subjects </B><I>His unusual choice of subjects made it harder to find a job. </I><B>| a range of subjects </P>
+</DIV>

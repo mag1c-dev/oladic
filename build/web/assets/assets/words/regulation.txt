@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>regulation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> control of sth </TT> </P>
+<P> <U> ADJ. </U><B> strict, tight, tough |  increased | government, international, official, professional, public, state | </B> legal, statutory | self, voluntary <B>| economic, environmental, financial | price, temperature  </B> </P>
+<P> <U> VERB + REGULATION </U><B> call for, demand </B><I>They are calling for tighter regulation of the industry. </I><B>| introduce | be subject to </B><I>Theatre, cinema and broadcasting are all subject to regulation by local authorities. </I> </B> </P>
+<P> <U> PREP. </U><B> ~ by </B><I>regulation by local authorities </I>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> (usually <B>regulations</B>) law/rule </TT> </P>
+<P> <U> ADJ. </U><B> strict, stringent, tighter, tougher </B><I>The Act imposes more stringent regulations on atmospheric pollution. </I><B>| draft | emergency | statutory | building, fire, hygiene, planning, safety, traffic, etc. | EU, federal, government, international, official | prison, school </B> </P>
+<P> <U> VERB + REGULATION </U><B> comply with, conform to, meet, observe, satisfy </B><I>To comply with government hygiene regulations, there must be a separate sink for hand washing. </I><B>| breach, break, contravene, flout, infringe | adopt, bring in, impose, introduce, issue, make </B><I>These restrictions are set out in regulations made by the minister. </I> <B>| liberalize, relax </B><I>The government is under pressure to relax censorship regulations. </I><B>| tighten | enforce </B><I>In practice, the regulations are rarely enforced. </I> </P>
+<P> <U> REGULATION + VERB </U><B> be designed to </B><I>The regulations are designed to encourage lower consumption of water. </I><B>| control sth, govern sth, protect sth </B><I>regulations governing trade and industry </I><B>| impose sth, require sth, restrict sth, specify sth, stipulate sth </B><I>Regulations require water authorities to test sea water for bacteria. </I><B>| apply (to sth) </B><I>These regulations apply to all cows sold after June 1998. </I><B>| come into force </B> </P>
+<P> <U> REGULATION + NOUN </U><B> uniform, white shirt, etc. </B><I>She was wearing the regulation school uniform. </I> </P>
+<P> <U> PREP. </U><B> against (the) ~s </B><I>It's against safety regulations to fix these doors open. </I><B>| in (the) ~ </B><I>The limits are specified in the regulations. </I><B>| under (the) ~ </B><I>Under the new regulations, each worker must have a rest every two hours. </I><B>| ~s concerning/regarding </B><I>There are strict regulations concerning the adoption of children. </I><B>| ~ on </B><I>regulations on hygiene </I> </P>
+<P> <U> PHRASES </U><B> a breach of the regulations, compliance with a regulation, in accordance with (the) regulations </B><I>The notice is in accordance with Regulation 7. </I><B>| rules and regulations </B> </P>
+</DIV>

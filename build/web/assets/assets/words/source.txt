@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>source </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> where you get sth from </TT> </P>
+<P> <U> ADJ. </U><B> excellent, fertile, good, lucrative, reliable, rich, valuable  </B><I>a fertile source of ideas a lucrative source of income a rich source of vitamins </I><B>| important, main, major, principal | cheap </B><I>a cheap source of labour </I><B>| external, foreign </B><I>Do you have any foreign sources of income? </I><B>| independent </B><I>an independent source of funding </I><B>| additional | alternative </B><I>We need to look for alternative sources of energy. </I><B>| natural | renewable </B><I>The village obtains all its energy from renewable sources. </I><B>| energy, food, heat, light, power, water </B> </P>
+<P> <U> VERB + SOURCE </U><B> be, constitute, prove, provide </B><I>The census constitutes the principal source of official statistics. These crustaceans provide a valuable food source for some fish. </I><B>| exploit, tap, use (as) </B><I>The government hopes to tap new sources of employment in the area of health. </I><B>| locate </B><I>We tried to locate the source of the sound. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>Under the PAYE system, employees' income is taxed at source </I>(= by the employer)</B><I>. </I><B>| ~ of </B><I>a reliable source of advice </I> </P>
+<P> <U> PHRASES </U><B> a variety of sources </B><I>The research was funded from a wide variety of sources. </I> </P>
+<P> <SUP> 2 </SUP> <TT> person, book, etc. that gives information </TT> </P>
+<P> <U> ADJ. </U><B> invaluable, useful, valuable | authoritative, informed, reliable, reputable | unreliable | original | independent | anonymous | primary, secondary | published | biographical, documentary, historical, literary, written | diplomatic, government, intelligence, military, official, police </B><I>Intelligence sources report a build-up of troops just inside the border. </I><B>| data, information </B> </P>
+<P> <U> VERB + SOURCE </U><B> use (as) | cite, quote </B><I>Researchers try to quote primary sources wherever possible. </I> <B>| disclose, name, reveal </B><I>The police refused to reveal the source of their information. </I> </P>
+<P> <U> SOURCE + VERB </U><B> claim sth, describe sth, disclose sth, indicate sth, report sth, reveal sth, say sth, suggest sth </B><I>Government sources indicated that a compromise might be reached. One source said: &lsquo;Our blood is up. We are angry at the way we have been treated.&rsquo; </I><B>| deny sth </B> </P>
+<P> <U> SOURCE + NOUN </U><B> material </B> </P>
+<P> <U> PREP. </U><B> according to ~s </B><I>According to informed sources, a takeover bid is planned for next month. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> sources close to sb </B><I>Sources close to the player claim he won't be entering this year's championship. </I> </P>
+</DIV>

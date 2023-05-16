@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>brigade </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> armoured, fire, infantry </B> </P>
+<P> <U> VERB + BRIGADE </U><B> command, lead | form </B><I>A special army brigade is to be formed. </I><B>| join </B> </P>
+<P> <U> BRIGADE + NOUN </U><B> commander | headquarters </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>units in 1st Commando Brigade </I><B>| ~ of </B><I>a brigade of infantry </I> </P>
+</DIV>

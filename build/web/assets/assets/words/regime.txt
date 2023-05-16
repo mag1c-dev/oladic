@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>regime </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> system of government </TT> </P>
+<P> <U> ADJ. </U><B> new | old | current, established, existing, present | former, previous | interim | political | conservative, liberal, radical | authoritarian, autocratic, dictatorial, totalitarian | communist, democratic, fascist, socialist | brutal, hard-line, harsh, oppressive, repressive | constitutional, parliamentary | revolutionary | military | colonial | puppet </B><I>In 1940 a puppet regime was established by the invaders. </I> </P>
+<P> <U> VERB + REGIME </U><B> establish, install, set up | defeat, overthrow, topple | bolster, strengthen </B><I>Education was seen as a way of bolstering the existing regime. </I><B>| destabilize | support | oppose | head </B><I>a military regime headed by the general </I> </P>
+<P> <U> REGIME + VERB </U><B> exist | come to power </B><I>The communist regime came to power in 1975. </I><B>| collapse, fall </B> </P>
+<P> <U> PREP. </U><B> against a/the ~ </B><I>She called for sanctions against the regime. </I><B>| under a/the ~ </B><I>He spoke of the abhorrent crimes that had been committed under the regime. </I><B>| ~ under </B><I>a military regime under Franco </I> </P>
+<P> <U> PHRASES </U><B> a change of regime, the collapse/fall/overthrow of a regime, a member of a regime </B> </P>
+<P> <SUP> 2 </SUP> <TT> set of rules/procedures </TT> </P>
+<P> <U> ADJ. </U><B> harsh, rigorous, strict, tight | relaxed | new | special | exercise, fitness, health, training | dietary | drug, therapeutic, treatment | educational | economic, financial, fiscal, legal, regulatory </B><I>a financial regime imposed by the government </I><B>| trade/trading, tax | safety </B> </P>
+<P> <U> VERB + REGIME </U><B> create, introduce, set up, start </B><I>It will be necessary to create a regime to monitor compliance with the agreements. </I><B>| impose | subject sb to </B><I>The children were subjected to a strict regime of meals, walks and lessons. </I><B>| follow </B><I>He suggested to me that I follow his fitness regime. </I> </P>
+<P> <U> REGIME + VERB </U><B> be based on sth </B><I>a regime based on discipline and training </I> </P>
+<P> <U> PREP. </U><B> under a/the ~ </B><I>Under the new regime you will be liable for automatic penalties for late submission of tax returns. </I><B>| ~ for </B><I>the new regime for accounting for charities </I> </P>
+</DIV>

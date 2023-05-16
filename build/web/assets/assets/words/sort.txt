@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>sort </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> best, worst | right, wrong | funny, odd, strange </B><I>He was friendly in a funny sort of way. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The shop sells all sorts of books. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sort </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put things into different groups/places </TT> </P>
+<P> <U> ADV. </U><B> busily | out </B><I>I sorted the clothes out into two piles. </I> </P>
+<P> <U> PREP. </U><B> according to </B><I>Sort the books according to their subject matter. </I><B>| by </B><I>The most common way of grouping was to sort the children by ability. </I><B>| into </B><I>We sorted the washing into piles of different garments. </I><B>| through </B><I>busily sorting through her clothes </I> </P>
+<P> <SUP> 2 </SUP> <TT> find an answer to a problem </TT> </P>
+<P> <U> ADV. </U><B> out </B><I>Someone will have to sort this problem out. </I> </P>
+<P> <U> VERB + SORT </U><B> have to | try to | help (to), help sb (to) | leave sb to </B><I>Leave them to sort it out among themselves. </I> </P>
+<P> <U> PHRASES </U><B> get sth sorted (out) </B><I>If he can't get his talk sorted, we'll have to ask someone else. </I> </P>
+</DIV>

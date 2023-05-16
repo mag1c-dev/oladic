@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>potential </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, limitless | full </B><I>You aren't using your computer to its full potential. </I><B>| true | unfulfilled, untapped | commercial | growth </B> </P>
+<P> <U> VERB + POTENTIAL </U><B> have, show </B><I>This young man has enormous potential. </I><B>| be aware of, see </B><I>John Cadbury could see the potential for his product. </I><B>| develop, exploit, unlock </B><I>They were among the first companies to exploit the potential of the Internet. </I><B>| fulfil, reach, realize </B><I>Signing for a top club would enable him to fulfil his true potential. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>looking for a trainee with potential </I><B>| ~ as </B><I>She showed great potential as an actor. </I><B>| ~ for </B><I>an industry that has the potential for growth </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>diameter </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> inside, internal </B><I>The tubes have an internal diameter of 2mm. </I><B>| external, outside | large, small </B> </P>
+<P> <U> VERB + DIAMETER </U><B> calculate, find, measure </B><I>He used similar triangles to calculate the diameter of the earth. </I><B>| have </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The mirror is 25cm in diameter. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>absence </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fact of not being present </TT> </P>
+<P> <U> ADJ. </U><B> lengthy, long, prolonged | brief, temporary | unauthorized </B> </P>
+<P> <U> QUANT. </U><B> period, spell </B><I>You will not be paid for the full period of absence. </I> </P>
+<P> <U> PREP. </U><B> during/in sb's ~ </B>(= while sb is not there) <I>My father did all the cooking in my mother's absence. </I><B>| ~ from </B><I>absence from work </I> </P>
+<P> <U> PHRASES </U><B> conspicuous/notable by your absence </B>(= very obviously absent when you ought to be present) <I>When it came to clearing up afterwards, Anne was conspicuous by her absence. </I><B>| leave of absence </B>(= permission to be absent) <I>He asked for leave of absence from the army. </I> </P>
+<P> <SUP> 2 </SUP> <TT> lack </TT> </P>
+<P> <U> ADJ. </U><B> complete, total | virtual | conspicuous, notable </B><I>a conspicuous absence of evidence </I> </P>
+<P> <U> PREP. </U><B> in the ~ of </B><I>In the absence of stone, most houses in the area are built of wood. </I> </P>
+</DIV>

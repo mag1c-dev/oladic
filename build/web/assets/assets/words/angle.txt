@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>angle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> space between lines/surfaces that meet </TT> </P>
+<P> <U> ADJ. </U><B> acute, oblique, obtuse, right | external, internal | narrow, sharp, steep </B><I>The plane started descending at a steep angle. </I><B>| shallow, slight, wide </B><I>The instrument has a wide angle of view. </I><B>| awkward, crazy, odd </B><I>The calf's legs were splayed out at awkward angles. </I> </P>
+<P> <U> VERB + ANGLE </U><B> form, make </B><I>The vertical line makes an angle with the horizontal line. </I><B>| draw </B><I>Draw a 130&deg; angle in your exercise books. </I><B>| adjust, alter, change </B><I>She adjusted the angle of the legs to make the table stand more firmly. </I><B>| increase, reduce | measure | move through, rotate through </B><I>Each joint can move through an angle of 90&deg;. </I> </P>
+<P> <U> PREP. </U><B> at an ~ </B><I>The tower of Pisa leans at an angle. </I><B>| ~ between </B><I>the angle between these two lines </I> </P>
+<P> <SUP> 2 </SUP> <TT> position </TT> </P>
+<P> <U> ADJ. </U><B> unusual </B><I>The subject is considered from an unusual angle. </I><B>| camera </B><I>The variety of camera angles gives her photographs interest. </I><B>| viewing </B> </P>
+<P> <U> VERB + ANGLE </U><B> consider/look at/see/view sth from </B><I>We've looked at the problem from every possible angle but still haven't found a solution. Seeing herself from this angle, she realized how like her mother she looked. </I> </P>
+<P> <U> PHRASES </U><B> angle of vision </B><I>How you see the building depends on your angle of vision. </I><B>| from all angles </B><I>You need to consider the question from all angles. </I> </P>
+</DIV>

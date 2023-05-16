@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>scale </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> size/extent </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>It was several days before the full scale of the accident became clear. </I><B>| big, considerable, grand, greater, huge, large, massive, monumental, vast | modest, small | sheer </B><I>It is difficult to comprehend the sheer scale of the suffering caused by the war. </I><B>| unprecedented </B><I>a misuse of presidential power on an unprecedented scale </I><B>| ambitious, lavish </B><I>Do they always entertain on such a lavish scale? </I><B>| global, international, national, regional, world | commercial </B><I>The dolls are now produced on a commercial scale. </I><B>| human </B><I>The city would operate on a more human scale if cars were banned from the centre. </I> </P>
+<P> <U> VERB + SCALE </U><B> increase | reduce </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The paintings are small in scale. </I><B>| on a ~ </B><I>pollution on a massive scale </I> </P>
+<P> <U> PHRASES </U><B> an economy of scale </B><I>Economies of scale enable the larger companies to lower their prices. </I><B>| the scale of the problem </B> </P>
+<P> <SUP> 2 </SUP> <TT> range of values </TT> </P>
+<P> <U> ADJ. </U><B> fixed | sliding </B><I>Benefits are paid on a sliding scale according to family income. </I><B>| rating | time </B><I>Can you give me any sort of time scale for the completion of the building work? </I><B>| evolutionary | social | pay, salary, wage </B><I>The company has a five-point pay scale. </I><B>| Beaufort, Richter </B><I>The earthquake measured 6.4 on the Richter scale. </I> </P>
+<P> <U> VERB + SCALE </U><B> go/move down/up, rise up </B><I>He has risen up the social scale from rather humble beginnings. </I> </P>
+<P> <U> SCALE + VERB </U><B> go/range from &hellip; to &hellip; </B><I>a scale ranging from &lsquo;utterly miserable&rsquo; to &lsquo;deliriously happy&rsquo; </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Where do birds come on the evolutionary scale? </I><B>| ~ of &hellip; to &hellip; </B><I>On a scale of 1 to 10, he scores 7. </I> </P>
+<P> <U> PHRASES </U><B> the bottom/end/top of the scale </B><I>After 10 years, she had worked her way to the top of the pay scale. </I> </P>
+<P> <SUP> 3 </SUP> <TT> relation between actual size and size of a model, etc. </TT> </P>
+<P> <U> VERB + SCALE </U><B> draw sth to | have </B> </P>
+<P> <U> SCALE + NOUN </U><B> drawing, model </B><I>He's made a scale model of the Eiffel Tower. </I> </P>
+<P> <U> PREP. </U><B> to ~ </B><I>The plan of the building is not drawn to scale. </I><B>| ~ of &hellip; to &hellip; </B><I>The map has a scale of one centimetre to the kilometre. a scale of 1: 25,000 </I> </P>
+<P> <SUP> 4 </SUP> <TT> in music </TT> </P>
+<P> <U> ADJ. </U><B> major, minor | chromatic, diatonic, diminished, pentatonic, whole-tone </B> </P>
+<P> <U> VERB + SCALE </U><B> play, sing | practise </B><I>We could hear her practising her scales. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the scale of C major </I> </P>
+<P> <SUP> 5 </SUP> <TT> on a fish, etc. </TT> </P>
+<P> <U> ADJ. </U><B> overlapping | fine, thin | armoured | fish </B> </P>
+<P> <U> VERB + SCALE </U><B> be covered in/with</B> </P>
+</DIV>

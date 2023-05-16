@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>racing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sport of racing horses </TT> </P>
+<P> <U> ADJ. </U><B> horse | flat, jump </B> </P>
+<P> <U> RACING + NOUN </U><B> results | tip | expert, tipster </B><I>Her racing tipster got the Derby winner right. </I><B>| manager, owner, trainer | career | stable | trophy | calendar, programme, season </B><I>He organizes his life according to the racing calendar. </I><B>| business, game, industry </B><I>He has ridden horses all his life, but he was a late starter in the racing game. </I><B>| circles, scene </B><I>He's known in racing circles as a fierce competitor. She's a familiar face on the racing scene. </I><B>| correspondent </B><I>the racing correspondent of &lsquo;The Times&rsquo; </I> </P>
+<P> <SUP> 2 </SUP> <TT> sport of taking part in races </TT> </P>
+<P> <U> ADJ. </U><B> competitive, top-level </B><I>Today's cross-country event marks his return to top-level racing. </I><B>| bike, dog, motor, yacht, etc. | Grand Prix | road, track </B> </P>
+<P> <U> RACING + NOUN </U><B> champion | legend, star </B><I>racing legend Ayrton Senna </I><B>| cyclist, driver | team | programme, season | scene | career, days | debut </B><I>He made his racing debut for Benetton three years ago. </I><B>| car | circuit </B><I>The bikes sped by on the racing circuit. </I><B>| enthusiast, fan</B> </P>
+</DIV>

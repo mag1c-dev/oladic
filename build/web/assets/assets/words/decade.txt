@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>decade </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> present | coming, following, next | last, past, preceding, previous, recent </B> </P>
+<P> <U> DECADE + VERB </U><B> elapse, go by, pass </B><I>This decade has passed uneventfully. </I><B>| begin, open, start </B><I>This decade began badly for us. </I><B>| close, end | see sth </B><I>The past decade has seen a huge rise in the number of computer owners. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~, for a/the ~, in a/the ~, over a/the ~, throughout a/the ~, within a/the ~</B> </P>
+</DIV>

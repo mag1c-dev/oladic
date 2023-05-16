@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>shipment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> quantity of goods sent from one place to another </TT> </P>
+<P> <U> ADJ. </U><B> arms, drug, oil, plutonium, weapons, etc. </B> </P>
+<P> <U> VERB + SHIPMENT </U><B> receive, send | escort </B><I>An armed patrol boat will escort the shipment. </I><B>| seize </B><I>Customs officers have seized a large shipment of cocaine. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a shipment of arms </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of transporting goods </TT> </P>
+<P> <U> ADJ. </U><B> illegal | bulk | onward </B><I>taken to Aqaba in Jordan for onward shipment to Brazil </I><B>| waste </B><I>trying to ban toxic waste shipments </I> </P>
+<P> <U> VERB + SHIPMENT </U><B> await </B><I>large quantities of food awaiting shipment to the worst affected areas </I><B>| arrange, begin, make | ban, stop | resume </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>to arrange a shipment from India </I><B>| ~ to </B><I>illegal shipment of arms to the Third World </I> </P>
+</DIV>

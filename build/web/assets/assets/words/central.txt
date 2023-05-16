@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>central </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> in the centre </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> very </B><I>Our house is very central, so we can easily get to theatres and cinemas. </I><B>| quite </B> </P>
+<P> <SUP> 2 </SUP> <TT> most important </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> absolutely </B><I>This distinction is of absolutely central importance. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>These facts are central to the case. </I> </P>
+</DIV>

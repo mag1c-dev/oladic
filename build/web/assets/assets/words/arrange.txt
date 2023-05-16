@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>arrange </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> plan/organize sth </TT> </P>
+<P> <U> ADV. </U><B> easily | with difficulty </B><I>These things can be arranged with difficulty. </I><B>| hastily, hurriedly, quickly | secretly | specially </B> </P>
+<P> <U> VERB + ARRANGE </U><B> try to | be able to, can/could </B><I>Todd will be able to arrange matters. </I><B>| be difficult/easy/possible to </B><I>These matters are easy to arrange. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>I'd be very grateful if you could arrange for this work to be carried out. </I> </P>
+<P> <SUP> 2 </SUP> <TT> put in order; make neat/attractive </TT> </P>
+<P> <U> ADV. </U><B> carefully, neatly </B><I>Her red hair was carefully arranged and her face made up. </I><B>| alphabetically, chronologically, symmetrically, systematically </B><I>The books are arranged alphabetically by author. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>She arranged the chairs in neat rows. </I><B>| into </B><I>She took the list of visitors' names and arranged them into groups of four. </I> </P>
+<P> <U> PHRASES </U><B> arrange sth in alphabetical/chronological order </B><I>The names are arranged in alphabetical order. </I> </P>
+</DIV>

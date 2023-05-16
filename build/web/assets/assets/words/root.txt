@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>root </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a plant </TT> </P>
+<P> <U> ADJ. </U><B> deep, shallow | gnarled </B> </P>
+<P> <U> ROOT + VERB </U><B> develop, grow | put down, take </B><I>I hope those cuttings will take root. </I> </P>
+<P> <U> ROOT + NOUN </U><B> system | crops, vegetables </B> </P>
+<P> <U> PREP. </U><B> by its/the ~s </B><I>She pulled the shrub out by its roots. </I></P>
+<P> <SUP> 2 </SUP> <TT> roots: place where you feel you belong  </TT> </P>
+<P> <U> ADJ. </U><B> humble </B><I>Despite his wealth, he never forgot his humble roots. </I><B>| cultural </B><I>severed from our cultural roots by industrialization </I><B>| middle-class, peasant, working-class | French, Scottish, etc. </B> </P>
+<P> <U> VERB + ROOT </U><B> get/go back to, return to </B><I>My husband wants to go back to his Irish roots. </I><B>| trace </B><I>They can trace their roots back to the sixteenth century. </I><B>| put down </B><I>We haven't been here long enough to put down roots. </I><B>| cut yourself off from </B> </P>
+<P> <SUP> 3 </SUP> <TT> cause/source </TT> </P>
+<P> <U> ADJ. </U><B> deep | very | common </B><I>The two languages share a common root. </I><B>| historical </B> </P>
+<P> <U> VERB + ROOT </U><B> have | get at/to, go to </B><I>I've spent months trying to get to the root of the problem. </I><B>| lie at </B> </P>
+<P> <U> ROOT + NOUN </U><B> cause </B> </P>
+<P> <U> PREP. </U><B> at (the ~ of) </B><I>It is a moral question at root. His fears of loneliness lay at the very root of his inability to leave. </I><B>| ~ in </B><I>The unrest has roots in religious differences. </I> </P>
+<P> <U> PHRASES </U><B> the root of all evil </B><I>They consider globalization to be the root of all evil. </I><B>| the root of the matter/problem </B><I>I expect money is at the root of the matter. </I> </P>
+</DIV>

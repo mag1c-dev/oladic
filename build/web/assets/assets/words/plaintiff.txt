@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>plaintiff </B><I>noun </I> </P>
+<P> <U> VERB + PLAINTIFF </U><B> compensate </B> </P>
+<P> <U> PLAINTIFF + VERB </U><B> bring an action (against sb), sue sb | allege sth, argue sth, claim sth, contend sth, seek sth, submit sth </B><I>The plaintiff claimed that the correct procedures had not been followed. </I><B>| obtain sth, prove sth </B><I>The plaintiffs obtained an injunction in the High Court. </I> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>Costs were awarded against the plaintiff. </I><B>| on behalf of the ~ </B><I>the lawyer appearing on behalf of the plaintiff </I> </P>
+</DIV>

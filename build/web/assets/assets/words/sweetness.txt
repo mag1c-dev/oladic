@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>sweetness </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sweet smell/taste </TT> </P>
+<P> <U> ADJ. </U><B> natural | cloying, sickly | lingering </B><I>the lingering sweetness of incense </I> </P>
+<P> <U> QUANT. </U><B> hint </B><I>This is a full-bodied wine with just a hint of sweetness. </I> </P>
+<P> <U> VERB + SWEETNESS </U><B> taste </B> </P>
+<P> <SUP> 2 </SUP> <TT> pleasantness </TT> </P>
+<P> <U> ADJ. </U><B> exquisite, great | saccharine </B>(= false) <I>She smiled with saccharine sweetness. </I> </P>
+<P> <U> VERB + SWEETNESS </U><B> taste </B><I>to taste the sweetness of military success </I> </P>
+<P> <U> PHRASES </U><B> all sweetness and light </B><I>People think she's all sweetness and light, but she's actually got an awful temper. </I> </P>
+</DIV>

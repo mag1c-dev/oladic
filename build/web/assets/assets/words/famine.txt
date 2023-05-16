@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>famine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, severe, terrible | widespread | imminent, impending </B><I>Against a background of impending famine, heavy fighting took place. </I> </P>
+<P> <U> VERB + FAMINE </U><B> face, suffer </B><I>Four million people are now facing famine. countries that regularly suffer famines </I><B>| cause, produce | relieve </B> </P>
+<P> <U> FAMINE + VERB </U><B> strike </B><I>When famine strikes, it is often women and children who suffer the most. </I> </P>
+<P> <U> FAMINE + NOUN </U><B> relief | victim </B> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>Thousands of people died during the terrible famine of that year. </I> </P>
+<P> <U> PHRASES </U><B> a threat of famine</B> </P>
+</DIV>

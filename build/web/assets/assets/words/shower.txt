@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>shower </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for washing your body </TT> </P>
+<P> <U> ADJ. </U><B> cold, cool, hot | power | brief, quick </B><I>I'll just take a quick shower. </I><B>| electric | en suite, private </B> </P>
+<P> <U> VERB + SHOWER </U><B> have, take </B> </P>
+<P> <U> SHOWER + NOUN </U><B> cubicle, curtain, room | head, mixer, rose, tray | gel </B> </P>
+<P> <SUP> 2 </SUP> <TT> of rain or snow </TT> </P>
+<P> <U> ADJ. </U><B> rain, sleet, snow | heavy, light | blustery, wintry | scattered | April </B> </P>
+<P> <U> SHOWER + VERB </U><B> spread | die out </B><I>Scattered showers during the afternoon will die out by late evening. </I> </P>
+<P> <SUP> 3 </SUP> <TT> of small objects </TT> </P>
+<P> <U> ADJ. </U><B> dust, meteor, meteorite </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The grinding wheel sent out a shower of sparks. </I> </P>
+</DIV>

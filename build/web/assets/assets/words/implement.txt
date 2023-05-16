@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>implement </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> agricultural, farm, garden, kitchen, surgical | sharp </B><I>Make sure that all sharp implements, such as scythes, have covers. </I><B>| flint, metal, stone, wooden</B> </P>
+</DIV><DIV class="item"><P class="word"><B>implement </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully, properly </B><I>These policies have never been fully implemented. </I><B>| partially | adequately | actually </B><I>The proposed changes were never actually implemented. </I><B>| widely </B><I>These reforms have now been widely implemented in schools. </I><B>| effectively, successfully | quickly </B> </P>
+<P> <U> VERB + IMPLEMENT </U><B> agree to, decide to, intend to, promise to | attempt to, seek to, try to | fail to </B><I>The government failed to implement the plan. </I><B>| refuse to | be forced to, be obliged to | be difficult to, be hard to </B><I>The decision will be difficult to implement. </I> </P>
+</DIV>

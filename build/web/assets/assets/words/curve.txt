@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>curve </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gentle, graceful, slight, smooth | sharp, tight </B><I>The road went round in a tight curve. </I><B>| wide | sensual, voluptuous </B><I>the voluptuous curve of her hips </I><B>| downward, upward </B> </P>
+<P> <U> VERB + CURVE </U><B> form, make </B><I>The seats were arranged to form a curve. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>The road follows the coast in a wide curve. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>curve </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, slightly </B><I>a gently curving stream </I><B>| away, down, up </B><I>The path curved down towards the village. </I> </P>
+<P> <U> PREP. </U><B> around/round, towards, etc. </B><I>The road curved away round the back of the hill. </I> </P>
+</DIV>

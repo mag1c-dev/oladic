@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>operation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> medical </TT> </P>
+<P> <U> ADJ. </U><B> major | minor, small | life-saving, vital | emergency | routine | delicate </B><I>a delicate eye operation </I><B>| exploratory | surgical, transplant | heart, knee, etc. </B> </P>
+<P> <U> VERB + OPERATION </U><B> have, undergo </B><I>He had an operation to remove a tumour. </I><B>| come through, survive </B><I>She came through the operation very well. </I><B>| carry out, perform </B><I>the surgeon performing the operation </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>She woke during the operation. </I><B>| ~ for </B><I>an operation for a kidney problem </I><B>| ~ on </B><I>a major operation on his heart </I> </P>
+<P> <SUP> 2 </SUP> <TT> organized activity </TT> </P>
+<P> <U> ADJ. </U><B> big, large-scale, major, massive | covert, undercover | combined, joint | tricky </B><I>a tricky rescue operation </I><B>| intelligence, military, naval, police | guerrilla | clean-up, drilling, mining, mopping-up, offensive, peacekeeping, relief, rescue, salvage, security </B><I>UN troops supervised the relief operations. </I><B>| banking, building, business </B><I>restrictions placed on business operations </I> </P>
+<P> <U> VERB + OPERATION </U><B> begin, launch, mount, undertake </B><I>The authorities launched a massive security operation in the city. </I><B>| carry out, conduct | supervise </B> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>during joint military operations </I> </P>
+<P> <U> PHRASES </U><B> a theatre of operations </B>(= where military operations take place)  </P>
+<P> <SUP> 3 </SUP> <TT> fact of sth functioning </TT> </P>
+<P> <U> ADJ. </U><B> effective, efficient, smooth | day-to-day </B><I>the smooth day-to-day operation of the department </I> </P>
+<P> <U> VERB + OPERATION </U><B> come into </B><I>A ceasefire came into operation in May. </I><B>| bring/put sth into | cease </B><I>The factory will cease operation at the end of the year. </I> </P>
+<P> <U> PREP. </U><B> during ~ </B><I>The machine can get very hot during operation. </I><B>| in ~ </B><I>The current tax system has been in operation for ten years. </I> </P>
+<P> <U> PHRASES </U><B> in/into full operation </B><I>the only reactor in full operation </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>mosquito </B><I>noun </I> </P>
+<P> <U> QUANT. </U><B> swarm </B> </P>
+<P> <U> VERB + MOSQUITO </U><B> swat </B><I>He swatted the mosquito with a newspaper. </I> </P>
+<P> <U> MOSQUITO + VERB </U><B> fly | buzz, hum, whine | bite | carry sth, spread sth </B><I>This strain of mosquito carries malaria and yellow fever. </I> </P>
+<P> <U> MOSQUITO + NOUN </U><B> bite </B><I>I was awake all night scratching my mosquito bites. </I><B>| larva </B><I>fish that feed on mosquito larvae </I><B>| net/netting | repellent </B> </P>
+<P> <U> PHRASES </U><B> a strain of mosquito</B> </P>
+</DIV>

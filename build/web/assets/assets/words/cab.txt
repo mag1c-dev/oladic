@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cab </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> black, yellow </B><I>London black cab drivers </I><B>| taxi | hackney, hansom | horse-drawn </B> </P>
+<P> <U> VERB + CAB </U><B> go by, take </B><I>Let's take a cab. </I><B>| call (sb), get (sb), order (sb), phone for </B><I>I'll call you a cab. </I><B>| find </B><I>We couldn't find a cab anywhere near. </I><B>| catch, hail </B><I>I tried to hail a cab but none of them would stop. </I><B>| get into/out of | drive | pay for/off | share </B><I>We decided to share a cab. </I> </P>
+<P> <U> CAB + VERB </U><B> draw up, pull up </B><I>The cab pulled up and they got out. </I><B>| pick sb up, take sb </B><I>I ordered a cab to take him home. </I> </P>
+<P> <U> CAB + NOUN </U><B> driver | rank | fare | ride </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>I came by cab. </I><B>| in a/the ~ </B><I>The driver was sitting in his cab. </I> </P>
+<P> <U> PHRASES </U><B> the back of a cab </B><I>I left my umbrella in the back of the cab. </I> </P>
+</DIV>

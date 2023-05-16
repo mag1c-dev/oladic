@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>integrity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, high | absolute, complete | personal | artistic, financial, moral, political, professional | physical, structural, territorial </B><I>The country is fighting to preserve its territorial integrity. </I><B>| data </B><I>(computing) </I> </P>
+<P> <U> VERB + INTEGRITY </U><B> have </B><I>Her photography had great artistic integrity. </I><B>| lack | lose | restore </B><I>The minister promised to restore the honesty and integrity of the government. </I><B>| ensure </B><I>It's up to the user to ensure the integrity of the data they enter. </I><B>| maintain, retain </B><I>We all have an interest in maintaining the integrity of the ecosystem. </I><B>| defend, preserve, safeguard | threaten </B><I>The project threatens the integrity of one of the world's most important wetlands. </I><B>| compromise, impair, undermine </B><I>I would never do anything to compromise the integrity of the company. </I><B>| destroy </B><I>Nuclear weapons have the capability to destroy the physical integrity of the planet. </I><B>| question </B><I>She questioned his integrity as a councillor. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>The code calls on members to behave with integrity at all times. </I> </P>
+<P> <U> PHRASES </U><B> an attack on sb/sth's integrity, a challenge/threat to sb/sth's integrity</B> </P>
+</DIV>

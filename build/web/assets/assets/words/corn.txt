@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>corn </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> grain crops </TT> </P>
+<P> <U> ADJ. </U><B> ripe | green </B><I>The corn is still green. </I><B>| young | standing </B><I>a field of standing corn </I> </P>
+<P> <U> QUANT. </U><B> ear, sheaf | bag, sack | field </B> </P>
+<P> <U> VERB + CORN </U><B> grow | sow | cut, harvest | thresh | grind | eat </B> </P>
+<P> <U> CORN + VERB </U><B> grow </B> </P>
+<P> <U> CORN + NOUN </U><B> field | harvest | cob | mill </B> </P>
+<P> <U> PHRASES </U><B> corn on the cob </B>(= maize cooked with all the grains still attached to the cob)  </P>
+<P> <SUP> 2 </SUP> <TT> area of hard skin on the toe </TT> </P>
+<P> <U> VERB + CORN </U><B> have, suffer from | treat</B> </P>
+</DIV>

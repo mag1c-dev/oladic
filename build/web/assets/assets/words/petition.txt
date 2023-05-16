@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>petition </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bankruptcy, divorce | protest </B> </P>
+<P> <U> VERB + PETITION </U><B> sign | deliver, file, present, send, submit | draw up, get up, launch, organize, raise | support | hear </B><I>The petition will be heard tomorrow. </I><B>| grant </B><I>Her petition for divorce was granted. </I><B>| dismiss, oppose, reject </B><I>The district court has opposed the petition by the local electricity company. </I> </P>
+<P> <U> PETITION + VERB </U><B> call for sth, demand sth, urge sth | oppose sth </B><I>The petition opposes the closures. </I><B>| support sth </B><I>The petition supports the scheme to rebuild the road. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>We're getting up a petition against the proposed building plans. </I><B>| ~ by/from </B><I>a petition by local residents </I><B>| ~ for </B><I>Local government supports the petition for a new hospital. </I><B>| ~ in favour of </B><I>a petition in favour of reform </I> </P>
+</DIV>

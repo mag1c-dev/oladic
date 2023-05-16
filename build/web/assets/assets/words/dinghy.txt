@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>dinghy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> inflatable, rubber | sailing </B> </P>
+<P> <U> VERB + DINGHY </U><B> row, sail </B><I>She sailed the dinghy across the bay. </I> </P>
+<P> <U> DINGHY + NOUN </U><B> sailing, sailor </B> </P>
+<P> <U> PREP. </U><B> in/into a/the ~ </B><I>She rowed ashore in the dinghy. </I> </P>
+</DIV>

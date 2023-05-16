@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>reservation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> arrangement for a seat/room </TT> </P>
+<P> <U> ADJ. </U><B> airline, hotel </B> </P>
+<P> <U> VERB + RESERVATION </U><B> have </B><I>Do you have a reservation? </I><B>| make | confirm | cancel </B> </P>
+<P> <U> RESERVATION + NOUN </U><B> service | fee | form </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>I'd like to make a reservation for four people for Friday night, please. </I> </P>
+<P> <SUP> 2 </SUP> <TT> feeling of doubt about sth </TT> </P>
+<P> <U> ADJ. </U><B> considerable, deep, grave, major, serious, severe, strong | minor, slight | certain </B><I>I have certain reservations regarding several of the clauses in the contract. </I><B>| initial </B> </P>
+<P> <U> VERB + RESERVATION </U><B> have | express, voice </B><I>NATO generals voiced reservations about making air strikes. </I> </P>
+<P> <U> RESERVATION + VERB </U><B> concern sth </B> </P>
+<P> <U> PREP. </U><B> despite ~s </B><I>Despite his initial reservations, he came to love London. </I><B>| with ~s </B><I>The employees are backing the reorganization plans, with reservations. </I><B>| without ~ </B><I>I can recommend her without reservation. </I><B>| ~ about/concerning/over/regarding </B><I>They have expressed reservations concerning the provisions of the treaty. </I> </P>
+<P> <U> PHRASES </U><B> one/only reservation </B><I>My one reservation concerns the performance of the vehicle in wet conditions. </I> </P>
+</DIV>

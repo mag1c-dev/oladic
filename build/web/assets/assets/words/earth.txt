@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>earth </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> the world </TT> </P>
+<P> <U> VERB + EARTH </U><B> orbit </B><I>satellites orbiting the earth </I> </P>
+<P> <U> EARTH + VERB </U><B> orbit sth, revolve, rotate </B><I>The earth orbits the sun. The earth revolves on its axis. </I> </P>
+<P> <U> EARTH + NOUN </U><B> tremor </B><I>Furniture fell over as the room was shaken by an earth tremor. </I><B>| sciences </B> </P>
+<P> <U> PREP. </U><B> above the ~ </B><I>We are flying at 30,000 feet above the earth. </I><B>| around/round the ~ </B><I>the moon's orbit around the earth </I><B>| on (the) ~ </B><I>The island was there before there was life on earth. </I><B>| to ~ </B><I>The astronauts were able to send the information back to earth. </I> </P>
+<P> <U> PHRASES </U><B> the centre/surface of the earth, the earth's core/crust/mantle/surface, (the) planet earth </B> </P>
+<P> <SUP> 2 </SUP> <TT> soil </TT> </P>
+<P> <U> ADJ. </U><B> bare </B><I>The fields had been ploughed, and there was nothing but bare earth to be seen. </I><B>| fertile | barren, infertile | soft | solid | damp, moist, wet | fresh, freshly-dug | loose </B><I>I filled the pot with a handful of loose earth. </I><B>| baked </B><I>The sun beat down on the baked earth. </I><B>| scorched </B><I>The wreckage of the plane was scattered across the scorched earth. </I><B>| chalky, sandy </B> </P>
+<P> <U> QUANT. </U><B> clod, clump, lump </B><I>My boots were caked in big clods of wet earth. </I> </P>
+<P> <U> EARTH + NOUN </U><B> bank, mound </B><I>I scrambled to the top of the steep earth bank. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>The plants must have their roots in the earth. </I><B>| under the ~ </B><I>in mines deep under the earth </I> </P>
+</DIV>

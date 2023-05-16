@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>integration </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> true | complete, full | close, seamless | further, greater, improved, increased | rapid | economic, monetary, political, racial, social </B><I>We are working to bring about closer political integration in the EU. </I><B>| internal | systems </B><I>(computing) </I> </P>
+<P> <U> QUANT. </U><B> degree, level </B> </P>
+<P> <U> VERB + INTEGRATION </U><B> achieve, bring about | accelerate, encourage, facilitate, promote, speed up, stimulate </B><I>measures to promote the social integration of mentally handicapped people </I><B>| require | lead to </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>integration between research and higher education </I><B>| ~ into </B><I>the integration of disabled pupils into the general education system </I><B>| ~ with </B><I>He called for greater integration with Europe. </I><B>| ~ within </B><I>economic integration within the three communities </I> </P>
+<P> <U> PHRASES </U><B> a move towards integration </B><I>a move towards greater internal integration in Europe </I><B>| a need for integration, a process of integration</B> </P>
+</DIV>

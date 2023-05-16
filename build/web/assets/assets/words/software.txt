@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>software </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> computer | application | accounting, design, educational, management, music-sharing, etc. | anti-virus | proprietary | pirated </B><I>He was arrested for selling pirated software. </I> </P>
+<P> <U> QUANT. </U><B> piece </B><I>an exciting piece of design software </I> </P>
+<P> <U> VERB + SOFTWARE </U><B> use, run </B><I>My PC isn't powerful enough to run that software. </I><B>| design, develop, write | download, install </B> </P>
+<P> <U> SOFTWARE + VERB </U><B> run </B><I>The software will run on most IBM-compatible PCs. </I> </P>
+<P> <U> SOFTWARE + NOUN </U><B> application, package, product, program, system, tool | development, engineering | developer, engineer | company, firm, house </B>&gt; Special page at COMPUTER </B> </P>
+</DIV>

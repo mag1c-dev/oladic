@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>salad </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> fresh | crisp, crunchy | limp | green, mixed, potato, rice, tomato, etc. | fruit | chicken, ham, etc. | side </b></div><div class="excontent"><i>Is the steak served with a side salad? </i> </div></p>
+<p> <u> VERB + SALAD </u><div class="ex"><b> make, prepare | toss </b></div><div class="excontent"><i>She tossed and dressed the salad. </i></div><div class="ex"><b>| dress | serve sth with | come with </b></div></p>
+<p> <u> SALAD + NOUN </u><div class="ex"><b> greens, leaves | cream, dressing | garnish </b></div><div class="excontent"><i>The sandwiches came with a rather limp salad garnish. </i></div><div class="ex"><b>| bowl | bar </b></div><div class="excontent">&gt; Special page at FOOD  </div></p>
+</div>

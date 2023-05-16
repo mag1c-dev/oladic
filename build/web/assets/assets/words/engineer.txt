@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>engineer </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> manage to arrange sth </TT> </P>
+<P> <U> ADV. </U><B> brilliantly, carefully </B><I>She carefully engineered a meeting with the chairman. </I> </P>
+<P> <U> VERB + ENGINEER </U><B> seek to, try to </B> </P>
+<P> <SUP> 2 </SUP> <TT> design and build sth </TT> </P>
+<P> <U> ADV. </U><B> carefully, finely, precisely, superbly </B><I>the car is superbly engineered and a pleasure to drive. </I> </P>
+</DIV>
+<DIV class="item"><P class="word"><B>engineer </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> designs/builds engines/roads, etc. </TT> </P>
+<P> <U> ADJ. </U><B> chief | chartered, qualified, skilled, trained </B><I>You need the advice of a qualified engineer. </I><B>| consultant/consulting, production | aeronautical, agricultural, aircraft, chemical, civil, design, electrical, electronics, flight, marine, mechanical, mining, railway, recording, software, sound, structural </B> </P>
+<P> <U> VERB + ENGINEER </U><B> produce, train </B><I>Britain isn't producing enough engineers. </I></P>
+<a href="/collocation-tag/professionals" class="tag">Learn more about PROFESSIONALS</a>
+<P> <SUP> 2 </SUP> <TT> repairs machines/equipment </TT> </P>
+<P> <U> ADJ. </U><B> qualified, registered, skilled, trained | maintenance, service | heating, lighting, telephone </B> </P>
+<P> <U> VERB + ENGINEER </U><B> call in/out </B></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

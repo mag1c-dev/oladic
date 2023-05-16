@@ -1,0 +1,6 @@
+
+<div class="item"><p class="word first"><b>satisfactory </b><i>adj. </i> </p>
+<p> <u> VERBS </u><div class="ex"><b> appear, be, look, prove, seem, sound | consider sth, find sth, regard sth as </b></div></p>
+<p> <u> ADV. </u><div class="ex"><b> eminently, highly, most, very </b></div><div class="excontent"><i>It was all most satisfactory. </i></div><div class="ex"><b>| completely, fully, perfectly, quite | far from, less than, not altogether, not at all, not entirely, not totally, not wholly </b></div><div class="excontent"><i>The results were not entirely satisfactory. </i></div><div class="ex"><b>| broadly, fairly, generally, more or less, reasonably | apparently | mutually </b></div><div class="excontent"><i>The arrangement has proved mutually satisfactory. </i> </div></p>
+<p> <u> PREP. </u><div class="ex"><b> to </b></div><div class="excontent"><i>We hope this proposal is satisfactory to you. </i> </div></p>
+</div>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>ray </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> powerful | bright | harmful | dying, last </B><I>the dying rays of a winter sun </I><B>| cathode, cosmic, gamma, heat, infrared, light, ultraviolet, X- | the moon's, the sun's </B> </P>
+<P> <U> VERB + RAY </U><B> emit, give off, send out </B><I>gamma rays given off by plutonium </I><B>| expose sb/sth to | block, filter out, protect/shield sb/sth from </B><I>creams which filter out the sun's harmful ultraviolet rays </I><B>| bend, catch, deflect, reflect </B><I>Her brooch caught the rays of the setting sun. </I> </P>
+<P> <U> RAY + VERB </U><B> filter through sth, pass through sth, penetrate sth, travel </B><I>the moon's rays filtering through the trees </I><B>| hit sth </B><I>When the sun's rays hit the earth, a lot of heat is reflected back into space. </I><B>| damage sth </B><I>Ultraviolet rays damage the skin. </I> </P>
+<P> <U> PREP. </U><B> in the ~s of </B><I>a stream sparkling in the rays of the June sun </I> </P>
+<P> <U> PHRASES </U><B> a ray of light/sunlight/sunshine, the rays of the sun</B> </P>
+</DIV>

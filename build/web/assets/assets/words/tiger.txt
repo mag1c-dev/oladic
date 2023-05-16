@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>tiger </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> man-eating | marauding | sabre-toothed </B> </P>
+<P> <U> TIGER + VERB </U><B> growl, purr, roar | spring | maul sb </B><I>The zookeeper was mauled to death by a tiger. </I><B>| prowl </B><I>A marauding tiger was often seen prowling around the village. </I> </P>
+<P> <U> TIGER + NOUN </U><B> cub | skin | hunt</B> </P>
+</DIV>

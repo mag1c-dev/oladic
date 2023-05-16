@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>smack </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, hard </B> </P>
+<P> <U> VERB + SMACK </U><B> give sb, land (sb) </B><I>He longed to land her a good smack in the face. </I><B>| get </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>She brought her hand down on the water with a smack. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>smack </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard </B><I>I'll smack you very hard if you do that again! </I> </P>
+<P> <U> PREP. </U><B> on </B><I>She smacked the boy on his leg. </I><B>PHRASAL VERBS smack of sth </B> </P>
+<P> <U> ADV. </U><B> strongly, too much </B><I>Today's announcement smacks strongly of a government cover-up. </I><B>| a little</B> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>dose </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hefty, high, large, massive, strong </B><I>a strong dose of painkillers (figurative) The film also contains a hefty dose of comedy. </I><B>| low, small | correct | double, full, single, standard | daily, frequent | fatal, lethal </B><I>a lethal dose of radiation </I> </P>
+<P> <U> VERB + DOSE </U><B> receive, take </B><I>patients who receive high doses of this drug I had forgotten to take my dose of antibiotic. </I><B>| administer, give sb </B><I>The nurse will administer the correct dose. She needs to be given a daily dose of the medicine. </I><B>| increase | reduce</B> </P>
+</DIV>

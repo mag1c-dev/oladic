@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>premium </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> extra value/price </TT> </P>
+<P> <U> ADJ. </U><B> high | additional, extra | price </B> </P>
+<P> <U> VERB + PREMIUM </U><B> pay </B><I>Electricity companies pay a premium for renewable energy. </I><B>| charge | place, put </B> </P>
+<P> <U> PREMIUM + NOUN </U><B> price </B> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>Good student accommodation is at a premium </I>(= difficult to obtain and therefore expensive)</B><I>. </I><B>| ~ of </B><I>bought at a premium of 40 per cent above the current market price </I><B>| ~ on </B><I>The company places a high premium on customer loyalty. </I> </P>
+<P> <SUP> 2 </SUP> <TT> payment for insurance </TT> </P>
+<P> <U> ADJ. </U><B> annual, monthly, regular | high, low </B><I>Intense competition has kept premiums low. </I><B>| insurance </B> </P>
+<P> <U> VERB + PREMIUM </U><B> pay | keep up </B><I>We're struggling to keep up our premiums. </I><B>| increase, raise </B><I>The insurance company has increased our premiums. </I><B>| cut, reduce </B> </P>
+<P> <U> PREMIUM + VERB </U><B> go up, rise | fall, go down </B> </P>
+<P> <U> PREMIUM + NOUN </U><B> payment, rate </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the premiums for your pension plan </I><B>| ~ on </B><I>Premiums on many cars will go up this year. </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>shame </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling that you have lost the respect of others </TT> </P>
+<P> <U> ADJ. </U><B> deep </B> </P>
+<P> <U> VERB + SHAME </U><B> be filled with, feel | bring, cause </B><I>His arrest for stealing brought shame on his family. </I><B>| die of </B><I>(figurative) I nearly died of shame! </I> </P>
+<P> <U> PREP. </U><B> from ~ </B><I>She wept from the shame of having let everyone down. </I><B>| in ~ </B><I>She shut her eyes in shame. </I><B>| to your ~ </B><I>To my shame, I didn't tell Robert about the party. </I><B>| without ~ </B><I>He had cried noisily and without shame at the news of Esther's death. </I><B>| with ~ </B><I>She blushed with shame. </I><B>| ~ about/over </B><I>You feel absolutely no shame over what you did, do you? </I><B>| ~ at </B><I>She felt a flush of shame at what she'd done. </I> </P>
+<P> <U> PHRASES </U><B> a cause for shame </B><I>Her pregnancy was no cause for shame. </I><B>| a feeling/sense of shame, bow/hang your head in shame </B><I>He was being held by two security guards, his head bowed in shame. </I></P>
+<P> <SUP> 2 </SUP> <TT> a shame: sth that makes you feel disappointed  </TT> </P>
+<P> <U> ADJ. </U><B> crying, great, real, terrible, wicked </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>It's a terrible shame about Stuart losing his job, isn't it? </I> </P>
+<P> <U> PHRASES </U><B> a bit of a shame, rather a shame, such a shame, what a shame </B><I>What a shame you can't come! </I> </P>
+</DIV><DIV class="item"><P class="word"><B>shame </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> publicly </B><I>The people who did this deserve to be publicly shamed. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>An outcry from customers has shamed the company into lowering its prices. </I> </P>
+</DIV>

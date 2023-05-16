@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>sunset </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> beautiful, glorious, spectacular, stunning | orange, red </B> </P>
+<P> <U> VERB + SUNSET </U><B> admire, watch, ride/sail off into </B><I>At the end of the movie, the hero rides off into the sunset. </I> </P>
+<P> <U> PREP. </U><B> against the ~ </B><I>The trees were black against the sunset. </I><B>| at ~ </B><I>walking along the beach at sunset </I><B>| ~ over </B><I>a beautiful sunset over the bay </I> </P>
+<P> <U> PHRASES </U><B> the glow of the sunset </B><I>sitting in the last glow of the sunset </I> </P>
+</DIV>

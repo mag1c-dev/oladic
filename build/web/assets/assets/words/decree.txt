@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>decree </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> emergency </B><I>The government had the power to legislate by emergency decree independently of Parliament. </I><B>| papal, presidential, royal | court </B> </P>
+<P> <U> VERB + DECREE </U><B> adopt, issue, pass, publish </B><I>The president issued a decree prohibiting trade unions. </I><B>| sign | enforce </B><I>Local inspectors helped enforce presidential decrees. </I><B>| revoke | defy </B><I>10,000 demonstrators defied the decree and gathered in the square. </I><B>| govern by, legislate by, rule by </B><I>The general will rule by decree until a general election. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In an emergency decree, the government banned all rallies. </I><B>| ~ on </B><I>a decree on property rights </I> </P>
+</DIV>

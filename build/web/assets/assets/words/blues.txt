@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>blues </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> type of slow sad music </TT> </P>
+<P> <U> VERB + BLUES </U><B> play, sing </B><I>He plays blues on the accordion. She was in the back of a smoky bar singing the blues. </I> </P>
+<P> <U> BLUES + NOUN </U><B> band, musician, singer | song 2 the blues </B>state of feeling sad/depressed </B> </P>
+<P> <U> QUANT. </U><B> attack, fit </B><I>a bad attack of the blues </I> </P>
+<P> <U> VERB + BLUES </U><B> have | get, suffer from | banish, beat </B><I>I plan a holiday as a way to beat the blues. </I> </P>
+</DIV>

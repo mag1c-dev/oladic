@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>respect </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> admiration </TT> </P>
+<P> <U> ADJ. </U><B> considerable, deep, great | grudging | mutual </B><I>a relationship based on mutual respect </I> </P>
+<P> <U> VERB + RESPECT </U><B> feel, have, hold sb in </B><I>She held him in considerable respect. </I><B>| command, earn (sb), gain (sb), get, inspire, win (sb) </B><I>a society in which age commands great respect </I><B>| lose </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>He felt a grudging respect for her talents as an organizer. </I> </P>
+<P> <SUP> 2 </SUP> <TT> polite behaviour/consideration/care </TT> </P>
+<P> <U> ADJ. </U><B> great, utmost | due, proper </B><I>the respect due to his great age </I> </P>
+<P> <U> VERB + RESPECT </U><B> accord sb/sth, pay (sb/sth), show (sb/sth), treat sb/sth with </B><I>the respect accorded to her memory He treats his grandparents with great respect. </I> </P>
+<P> <U> PREP. </U><B> out of ~ </B><I>We observed a minute's silence out of respect for the disaster victims. </I><B>| with ~ </B><I>With all due respect, I think you've misunderstood what he said. The chainsaw is a dangerous tool?it should be used with respect. </I> </P>
+<P> <U> PHRASES </U><B> a lack of respect </B><I>to show a lack of respect for authority </I><B>| a mark/sign/token of respect </B> </P>
+<P> <SUP> 3 </SUP> <TT> detail/point </TT> </P>
+<P> <U> ADJ. </U><B> certain | different | crucial, important, significant | material </B> </P>
+<P> <U> VERB + RESPECT </U><B> differ in </B><I>There was one respect, however, in which they differed. </I><B>| be alike in, be identical in, be similar in, resemble sth in </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ (s) </B><I>The report is accurate in all material respects. </I><B>| in ~ of </B>(= concerning) <I>A writ was served on the firm in respect of their unpaid bill. </I><B>| with ~ to </B>(= concerning) <I>The two groups were similar with respect to income and status. </I> </P>
+<P> <U> PHRASES </U><B> in all/many/some respects </B><I>In many respects she is like her mother. </I><B>| in every/this respect </B><I>The marriage was a disaster in every respect. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>respect </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> admire sb/sth </TT> </P>
+<P> <U> ADV. </U><B> deeply, greatly, really, very much </B> </P>
+<P> <U> PREP. </U><B> as </B><I>She is widely respected as a politician. </I><B>| for </B><I>She was much respected for her knowledge of herbs. </I> </P>
+<P> <U> PHRASES </U><B> be highly/much/well respected </B><I>a highly respected doctor </I><B>| be internationally/universally/widely respected </B><I>WWF is internationally respected for its conservation work. </I> </P>
+<P> <SUP> 2 </SUP> <TT> pay attention to sth </TT> </P>
+<P> <U> VERB + RESPECT </U><B> promise to, undertake to </B><I>The government has promised to respect human rights. </I><B>| fail to </B><I>Her daughters failed to respect her last wishes. </I> </P>
+<P> <U> PHRASES </U><B> a duty to respect sth, failure to respect sth</B> </P>
+</DIV>

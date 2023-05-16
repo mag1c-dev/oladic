@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>consciousness </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> being able to see/hear/feel things </TT> </P>
+<P> <U> ADJ. </U><B> full | higher </B><I>to aspire to a higher consciousness </I><B>| individual | human </B> </P>
+<P> <U> VERB + CONSCIOUSNESS </U><B> lose </B><I>She hit her head on a rock and lost consciousness. </I><B>| recover, regain | bring sb back to </B><I>The cold water brought me back to full consciousness. </I><B>| enter </B><I>The words slowly entered her consciousness. </I> </P>
+<P> <U> PHRASES </U><B> a level/state of consciousness </B><I>an altered state of consciousness </I> </P>
+<P> <SUP> 2 </SUP> <TT> being aware of sth </TT> </P>
+<P> <U> ADJ. </U><B> full </B><I>I left the room with full consciousness of the impression I would make. </I><B>| growing | altered | collective, public | national | modern | black | working-class | class, environmental, feminist, green, political, religious, social </B><I>a new political consciousness among young people </I><B>| false </B><I>(technical) She sees racism as a form of false consciousness, where a society collectively believes untrue things about other races. </I> </P>
+<P> <U> VERB + CONSCIOUSNESS </U><B> develop, raise </B><I>They have succeeded in raising consciousness on many issues. </I><B>| enter </B><I>imagery that has entered the national consciousness through the media </I><B>| be lodged in, lodge itself in </B><I>The idea firmly lodged itself in the public consciousness. </I> </P>
+<P> <U> PREP. </U><B> in (the) ~ </B><I>a key position in feminist consciousness </I><B>| ~ among, ~ of </B><I>a growing consciousness of environmental issues among children </I> </P>
+</DIV>

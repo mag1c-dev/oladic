@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>cart </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> vehicle pulled by animals </TT> </P>
+<P> <U> ADJ. </U><B> heavy | bullock, donkey, horse-drawn, ox | farm </B> </P>
+<P> <U> VERB + CART </U><B> drive | draw, pull | ride in | climb off/on/onto, get off/on/onto | load, unload </B> </P>
+<P> <U> CART + VERB </U><B> roll | creak, lumber </B><I>The cart creaked on up the street. </I><B>| carry sth </B> </P>
+<P> <U> CART + NOUN </U><B> track </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>In the old days coal supplies came by cart. </I><B>| in a/the ~ </B><I>She brought the vegetables in an ox cart. </I><B>| on/onto a/the ~ </B><I>piling their furniture onto a cart </I> </P>
+<P> <U> PHRASES </U><B> the back of a cart </B><I>Jump in the back of my cart. </I><B>| a horse/pony and cart </B> </P>
+<P> <SUP> 2 </SUP> <TT> small vehicle </TT> </P>
+<P> <U> ADJ. </U><B> golf, hand, ice-cream </B> </P>
+<P> <U> VERB + CART </U><B> push, trundle, wheel </B><I>a man wheeling an ice-cream cart along </I><B>| drive </B><I>driving a golf cart </I> </P>
+</DIV>

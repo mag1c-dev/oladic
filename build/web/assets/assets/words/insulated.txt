@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>insulated </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> protected against the cold, sound, etc. </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> well | badly, poorly | heavily | properly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The laboratory was well insulated against all outside noise. </I><B>| with </B><I>The hot water tank should be insulated with proper insulating materials. </I> </P>
+<P> <SUP> 2 </SUP> <TT> protected from unpleasant experiences </TT> </P>
+<P> <U> ADV. </U><B> completely, totally | largely </B> </P>
+<P> <U> PREP. </U><B> from </B><I>The community was totally insulated from the outside world. </I> </P>
+</DIV>

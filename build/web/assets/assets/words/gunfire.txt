@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>gunfire </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy, intense | scattered, sporadic | indiscriminate </B><I>Seventy protesters were killed by indiscriminate gunfire. </I><B>| distant | automatic </B><I>We heard the rapid crackle of automatic gunfire. </I> </P>
+<P> <U> QUANT. </U><B> burst </B><I>A burst of gunfire echoed across the square. </I> </P>
+<P> <U> VERB + GUNFIRE </U><B> hear | spray sb/sth with </B><I>The terrorists boarded the bus and sprayed the passengers with gunfire. </I><B>| be hit/wounded by </B><I>A convoy was hit by gunfire. </I> </P>
+<P> <U> GUNFIRE + VERB </U><B> break out </B><I>Heavy gunfire broke out in the capital last night. </I><B>| echo </B> </P>
+<P> <U> PHRASES </U><B> the crack/crackle/rattle/sound of gunfire, an exchange of gunfire </B><I>They were killed in an exchange of gunfire between riot police and demonstrators. </I> </P>
+</DIV>

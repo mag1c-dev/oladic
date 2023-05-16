@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>snow </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy, thick | fine, light </B><I>The plants were covered in fine snow. </I><B>| deep | damp, wet | compacted, crisp, frozen, hard, packed </B><I>The crisp snow crunched as we walked through it. The frozen snow was treacherous to walk on. </I><B>| powder/powdery, soft | drifting, driving, falling, swirling </B><I>They struggled on through the driving snow. </I><B>| melted, melting | fresh, new, newly fallen | first </B><I>the first snow of winter </I><B>| spring, winter | artificial </B><I>They had to use artificial snow at the Winter Olympics. </I><B>| dirty </B> </P>
+<P> <U> QUANT. </U><B> flake | fall, flurry | patch | blanket, carpet | inch </B><I>Three inches of snow fell had fallen. </I> </P>
+<P> <U> VERB + SNOW </U><B> be covered in </B><I>The car was completely covered in snow. </I><B>| clear, shovel, sweep </B><I>She cleared the snow from the path. </I> </P>
+<P> <U> SNOW + VERB </U><B> cover sth, lie, pile (up), settle </B><I>Snow covered everything from horizon to horizon. Snow had piled up against the walls of the cottage. It was too warm for the snow to settle. </I><B>| drift, drive, fall, swirl | melt, thaw </B> </P>
+<P> <U> SNOW + NOUN </U><B> conditions, flurry, storm (also snowstorm) | plough (also snowplough) | blindness </B> </P>
+<P> <U> PREP. </U><B> across ~ </B><I>They travelled across the snow in a sleigh. </I><B>| in/into ~ </B><I>The children are playing in the snow. </I><B>| through ~ </B><I>We struggled through the deep snow back to the chalet. </I><B>| under ~ </B><I>The steps were buried under the snow. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>snow </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard, heavily </B><I>It had been snowing heavily all night. </I><B>| lightly </B> </P>
+<P> <U> PHRASES </U><B> start/stop snowing </B><I>It started snowing just as we were setting out. </I> </P>
+</DIV>

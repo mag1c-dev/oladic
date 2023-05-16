@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>thunder </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> loud </B><I>The thunder was getting louder and louder. </I><B>| dull </B><I>The gunfire rumbled like dull thunder. </I><B>| distant </B><I>the rumble of distant thunder </I><B>| approaching </B> </P>
+<P> <U> QUANT. </U><B> clap, crash, peal, roll, rumble </B> </P>
+<P> <U> THUNDER + VERB </U><B> boom, break, burst, crash, explode, roar </B><I>Thunder boomed in the sky overhead. </I><B>| growl, grumble, roll, rumble | rattle sth, shake sth </B><I>The windows were shaken by a tremendous crash of thunder. </I> </P>
+<P> <U> THUNDER + NOUN </U><B> clap (also thunderclap) | cloud (also thundercloud) </B> </P>
+<P> <U> PHRASES </U><B> the sound of thunder, there's thunder in the air </B>(= thunder is likely), <B>thunder and lightning</B> </P>
+</DIV>

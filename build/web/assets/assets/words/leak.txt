@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>leak </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small hole/crack </TT> </P>
+<P> <U> VERB + LEAK </U><B> have </B><I>The boat had a small leak. </I><B>| spring </B><I>The pipe has sprung a leak. </I><B>| plug, stop </B><I>I managed to plug the leak. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a leak in the roof </I> </P>
+<P> <SUP> 2 </SUP> <TT> when gas/liquid escapes </TT> </P>
+<P> <U> ADJ. </U><B> major, serious | minor | slow | fuel, gas, oil, radiation, radioactive </B> </P>
+<P> <U> VERB + LEAK </U><B> cause </B><I>The dismantling of a nuclear reprocessing plant caused a leak of radioactivity yesterday. </I><B>| detect, discover, find, notice, spot </B><I>Fortunately, we spotted the leak in time. </I><B>| fix, repair, stop </B><I>The plumber fixed the leak. </I><B>| prevent </B><I>taking steps to prevent gas leaks in the future </I> </P>
+<P> <U> LEAK + VERB </U><B> happen, occur </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>Pollution inspectors were called to a leak from a chemical factory. </I><B>| ~ of </B><I>a leak of dangerous chemicals </I> </P>
+<P> <SUP> 3 </SUP> <TT> giving away information </TT> </P>
+<P> <U> ADJ. </U><B> security </B> </P>
+<P> <U> LEAK + VERB </U><B> come from sth </B><I>The leak could only have come from one source. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a security leak about a number of suspicious deaths among civil servants </I><B>| ~ from </B><I>a leak from the prime minister's office </I><B>| ~ of </B><I>a leak of confidential material </I><B>| ~ to </B><I>a leak to the American authorities </I> </P>
+<P> <U> PHRASES </U><B> the source of a leak </B><I>The organization's press secretary is thought to be the source of the leak. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>leak </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> allow sth to get out through a hole </TT> </P>
+<P> <U> ADV. </U><B> badly </B><I>The house was old and the roof leaked quite badly. </I><B>| slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> tell sb about sth </TT> </P>
+<P> <U> ADV. </U><B> carefully, deliberately | widely </B><I>The document had been widely leaked. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>Confidential information that has been leaked from the BBC. </I><B>| to </B><I>The report was leaked to the press. </I> </P>
+</DIV>

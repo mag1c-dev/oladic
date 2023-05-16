@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>focus </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> centre of interest/attention </TT> </P>
+<P> <U> ADJ. </U><B> central, main, major, primary, prime, principal | important, special | greater, increased | clear, sharp, strong </B><I>The company's restructuring is designed to give a sharper focus on key growth markets. </I><B>| narrow </B><I>I found the focus of the debate too narrow. </I> </P>
+<P> <U> VERB + FOCUS </U><B> act as, give sb/sth, provide (sb/sth with), serve as </B><I>Cities have always acted as the principal focus of political life. </I><B>| change, shift </B><I>At this stage of the trial the defence lawyer often shifts the focus onto the victim. </I><B>| bring sth into </B><I>This case has brought the problem of drug abuse in schools into sharp focus. </I><B>| come into </B><I>The question of compensation comes into focus. </I> </P>
+<P> <U> FOCUS + VERB </U><B> be on sb/sth </B><I>Our primary focus this term will be on group work. </I><B>| shift </B><I>The focus has now shifted towards the problem of long-term unemployment. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She became a focus for all his anger. </I><B>| ~ on </B><I>an increased focus on younger people </I> </P>
+<P> <U> PHRASES </U><B> a change/shift of focus, the focus of attention </B><I>He found he was now their main focus of attention. </I> </P>
+<P> <SUP> 2 </SUP> <TT> point/distance at which sth is clearly seen </TT> </P>
+<P> <U> ADJ. </U><B> sharp | soft </B><I>soft focus shots of cuddly animals </I> </P>
+<P> <U> VERB + FOCUS </U><B> come into </B><I>When I got glasses suddenly the whole world came into focus </I>(= became clear to see)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The binoculars were not in focus </I>(= were not showing things clearly)</B><I>. </I><B>| out of ~ </B><I>The children's faces are badly out of focus </I>(= not clearly shown) </B><I>in the photograph. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>focus </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> give attention to sth </TT> </P>
+<P> <U> ADV. </U><B> heavily, largely, mainly, particularly, primarily, principally | entirely, exclusively, solely </B><I>The study focuses exclusively on secondary schools. </I><B>| increasingly | fully | firmly </B><I>The attention of the news media was firmly focused on the elections. </I><B>| specifically | clearly | directly | closely, sharply | narrowly | initially | inevitably </B><I>He inevitably focused on his own concerns, with only a passing query about Jeff. </I><B>| traditionally </B><I>Degree courses have traditionally focused on the established great writers of the past. </I> </P>
+<P> <U> VERB + FOCUS </U><B> need to | try to | decide to | tend to | help (to) </B><I>Think of some questions that will help focus the discussion. </I> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>We need to focus upon the main issues. </I> </P>
+<P> <U> PHRASES </U><B> highly/tightly focused </B><I>The department undertakes highly focused research. </I><B>| narrowly focused </B><I>The study was criticized for being too narrowly focused. </I> </P>
+<P> <SUP> 2 </SUP> <TT> direct your eyes towards sth </TT> </P>
+<P> <U> ADV. </U><B> automatically </B> </P>
+<P> <U> VERB + FOCUS </U><B> try to </B><I>She blinked and tried to focus. </I> </P>
+<P> <U> PREP. </U><B> on/upon </B><I>The eye will automatically focus on the small group in the foreground. </I> </P>
+</DIV>

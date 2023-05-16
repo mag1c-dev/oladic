@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>leaflet </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> free </B><I>a free leaflet explaining your tax return </I><B>| helpful, useful | explanatory, information, instruction | promotional, publicity | campaign, election, party </B> </P>
+<P> <U> QUANT. </U><B> copy </B> </P>
+<P> <U> VERB + LEAFLET </U><B> issue, produce, publish </B><I>The Health Council issued hundreds of leaflets. </I><B>| deliver, distribute, give out, hand out, send out </B><I>Campaigners handed out leaflets to passers by. </I><B>| enclose </B><I>I enclose a leaflet about some of the other services we offer. </I> </P>
+<P> <U> LEAFLET + VERB </U><B> advertise sth, explain sth </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>More details are given in our promotional leaflet. </I> </P>
+</DIV>

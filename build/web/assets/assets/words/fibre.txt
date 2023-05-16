@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>fibre </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> in food </TT> </P>
+<P> <U> ADJ. </U><B> dietary </B><I>your total daily intake of dietary fibre </I><B>| vegetable </B> </P>
+<P> <U> VERB + FIBRE </U><B> be high/rich in </B><I>foods that are rich in fibre </I> </P>
+<P> <U> FIBRE + NOUN </U><B> content </B><I>foods that have a high fibre content </I><B>| intake </B> </P>
+<P> <U> PHRASES </U><B> a high/low fibre diet </B><I>the problems associated with a low fibre diet </I><B>| an intake of fibre, a source of fibre </B><I>Peaches are a good source of fibre. </I> </P>
+<P> <SUP> 2 </SUP> <TT> material/body tissue </TT> </P>
+<P> <U> ADJ. </U><B> coarse </B><I>Mechanical filters draw air through flat, coarse fibres. </I><B>| hollow | strong | natural | artificial, man-made, synthetic | carbon, coconut, cotton, nylon, paper, polyester, textile, wood | glass, optical | muscle, nerve | moral </B><I>(figurative) It isn't just a lack of moral fibre that leads to a rising divorce rate. </I> </P>
+<P> <U> VERB + FIBRE </U><B> be made from/of </B><I>Wear underwear that is made from natural fibres. </I> </P>
+<P> <U> FIBRE + NOUN </U><B> optics</B> </P>
+</DIV>

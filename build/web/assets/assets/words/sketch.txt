@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>sketch </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> quick drawing </TT> </P>
+<P> <U> ADJ. </U><B> lightning, quick | rough | preliminary, preparatory | charcoal, ink, pencil, watercolour </B> </P>
+<P> <U> VERB + SKETCH </U><B> do, draw, make </B> </P>
+<P> <U> SKETCH + NOUN </U><B> book, pad | map | plan </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The family house appears in several of her sketches. </I><B>| ~ by </B><I>a series of sketches by John Constable </I><B>| ~ for </B><I>to make a sketch for an oil painting </I><B>| ~ of </B><I>He did some rough sketches of the costumes. </I></P>
+<a href="/collocation-tag/art-works" class="tag">Learn more about ART WORKS</a>
+
+<P> <SUP> 2 </SUP> <TT> short description </TT> </P>
+<P> <U> ADJ. </U><B> brief, thumbnail </B><I>The talk began with a thumbnail sketch of the political situation at that time. </I><B>| biographical, character </B> </P>
+<P> <U> VERB + SKETCH </U><B> give sb </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He gave us character sketches of all his eccentric relations. </I> </P>
+<P> <SUP> 3 </SUP> <TT> short comic scene </TT> </P>
+<P> <U> ADJ. </U><B> short | comic, satirical </B> </P>
+<P> <U> VERB + SKETCH </U><B> do, perform | write </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a comic sketch about a talking cat </I> </P>
+</DIV>

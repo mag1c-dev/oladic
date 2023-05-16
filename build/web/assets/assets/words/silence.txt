@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>silence </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> quietness </TT> </P>
+<P> <U> ADJ. </U><B> lengthy, long, prolonged | brief, momentary, a moment's, short </B><I>There was a moment's silence before she replied. </I><B>| deep, hushed | absolute, complete, dead, deadly, deathly, total, utter </B><I>We sat in complete silence, save for the ticking of the clock. A deathly silence hung over the town. </I><B>| shocked, stunned | awkward, embarrassed, embarrassing, strained, uncomfortable </B><I>An awkward silence followed. </I><B>| fraught, heavy, ominous, tense | brooding </B><I>She fell into long, brooding silences. </I><B>| stony, sullen | eerie | companionable </B><I>They walked in companionable silence. </I><B>| expectant, pregnant | sudden </B> </P>
+<P> <U> VERB + SILENCE </U><B> maintain </B><I>She maintained a stony silence. </I><B>| break, interrupt, punctuate, shatter </B><I>Lewis finally broke the long silence between them. a silence punctuated only by the occasional sniff from the children </I><B>| lapse into, relapse into, retreat into, subside into, trail into (all only used about people) </B><I>He lapsed into a sullen silence. </I><B>| stun sb into </B><I>The boys were stunned into silence by this news. </I><B>| be met with </B><I>Her question was met with an uneasy silence. </I><B>| observe </B>(= as a sign of respect for the dead, etc.) <I>A minute's silence for the victims will be observed. </I> </P>
+<P> <U> SILENCE + VERB </U><B> descend, fall </B><I>A sudden silence fell over the room. </I><B>| hang, prevail, reign </B><I>Silence reigned. </I><B>| ensue, follow | deepen, grow, lengthen, spread, stretch </B><I>He thought for a moment, the silence lengthening. </I> </P>
+<P> <U> PREP. </U><B> in (the) ~ </B><I>They ate their breakfast in silence. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not saying anything about sth </TT> </P>
+<P> <U> ADJ. </U><B> deafening </B><I>The government's only response has been a deafening silence. </I><B>| dignified | deliberate </B> </P>
+<P> <U> VERB + SILENCE </U><B> keep, maintain </B><I>He has so far kept a dignified silence on the subject. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>There seems to have been a deliberate silence from the newspapers. </I> </P>
+<P> <U> PHRASES </U><B> a conspiracy/wall of silence </B><I>There is a conspiracy of silence about what is happening </I>(= nobody is willing to talk about it)</B><I>. </I><B>| the right to silence </B>(= the right not to say anything when accused of a crime), <B>a vow of silence </B><I>She has broken her vow of silence on the issue. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>silence </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> completely | effectively </B><I>Criticism has now been effectively silenced. </I><B>| quickly | abruptly, instantly </B><I>Her scream was abruptly silenced. </I> </P>
+<P> <U> VERB + SILENCE </U><B> try to | manage to | fail to </B><I>Even these improvements to the service failed to silence a grumbling chorus of complaints. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>She silenced him with a glare. </I> </P>
+</DIV>

@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>surprise </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling of surprise </TT> </P>
+<P> <U> ADJ. </U><B> great, utter | mild, some | initial </B><I>After the initial surprise I got to like the place. </I><B>| mock </B><I>His eyebrows rose in mock surprise. </I> </P>
+<P> <U> QUANT. </U><B> element </B><I>The Egyptian team relied on the element of surprise to defeat their stronger opponents. </I> </P>
+<P> <U> VERB + SURPRISE </U><B> express, register, show | feign </B><I>He feigned surprise when I went up and said hello. </I><B>| hide </B><I>She was quick to hide her surprise. </I><B>| cause </B><I>The president's remarks caused surprise and embarrassment. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>&lsquo;Walk twenty miles!&rsquo; repeated the old man in surprise. </I><B>| to your ~ </B><I>Much to her surprise she enjoyed the party. </I><B>| with/without ~ </B><I>It was with some surprise that I read of his resignation. </I><B>| ~ at </B><I>She showed no surprise at the news. </I> </P>
+<P> <U> PHRASES </U><B> an expression/a look of surprise, a gasp/scream/shriek, etc. of surprise </B> </P>
+<P> <SUP> 2 </SUP> <TT> sth that you did not expect </TT> </P>
+<P> <U> ADJ. </U><B> big, complete, great, major, total | lovely, nice, pleasant, wonderful </B> </P>
+<P> <U> VERB + SURPRISE </U><B> come as | get, have </B><I>I had a lovely surprise when I saw Mark there. </I><B>| spring </B><I>Johnson sprung a surprise by beating the favourite in the first round. </I><B>| be in for </B><I>Your mother's in for a bit of a surprise when she gets home. </I><B>| catch sb by, take sb by </B><I>The storm took us completely by surprise. </I> </P>
+<P> <U> SURPRISE + NOUN </U><B> announcement, attack, party, victory, visit </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>It was a complete surprise for me. </I><B>| ~ to </B><I>His refusal came as no surprise to his boss. </I> </P>
+<P> <U> PHRASES </U><B> a bit of a/quite a surprise</B> </P>
+</DIV><DIV class="item"><P class="word"><B>surprise </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> greatly, really | not at all </B><I>The outcome did not surprise me at all. </I><B>| hardly | a little, slightly </B> </P>
+<P> <U> VERB + SURPRISE </U><B> wouldn't </B><I>It wouldn't surprise me if they announced they were going to get married. </I><B>| seem to | want to </B><I>They wanted to surprise their mother and get the breakfast ready. </I> </P>
+</DIV>

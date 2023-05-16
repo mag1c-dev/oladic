@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>module </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> individual | compulsory, optional </B> </P>
+<P> <U> VERB + MODULE </U><B> do, study </B><I>I'm doing two optional modules. </I><B>| complete | divide sth into </B><I>The course material is divided into four modules. </I> </P>
+</DIV>

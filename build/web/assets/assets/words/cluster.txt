@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cluster </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little, small | compact, dense </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The church stood in a small cluster of farmers' cottages. </I><B>| ~ of </B><I>a dense cluster of buildings </I> </P>
+</DIV><DIV class="item"><P class="word"><B>cluster </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> closely, tightly | together </B><I>The group clustered together closely. </I> </P>
+<P> <U> PREP. </U><B> about/around/round </B><I>The children clustered around their teacher. </I> </P>
+</DIV>

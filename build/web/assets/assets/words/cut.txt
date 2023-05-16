@@ -1,0 +1,48 @@
+
+<DIV class="item"><P class="word"><B>cut </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hole/opening made by cutting </TT> </P>
+<P> <U> ADJ. </U><B> clean, neat </B> </P>
+<P> <U> VERB + CUT </U><B> make | give </B><I>a high-quality blade that gives a clean cut </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Using sharp scissors, make a small cut in the material. </I> </P>
+<P> <SUP> 2 </SUP> <TT> wound </TT> </P>
+<P> <U> ADJ. </U><B> bad, deep, nasty | minor, small, superficial </B><I>He's got a small cut on his finger. </I><B>| clean </B> </P>
+<P> <U> VERB + CUT </U><B> have | get, suffer </B><I>She got a bad cut over her right eye. </I><B>| clean </B><I>Clean the cut and cover it to prevent infection. </I><B>| bandage, cover, dress </B> </P>
+<P> <U> CUT + VERB </U><B> heal </B><I>A clean cut heals quickly. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a cut on her hand </I><B>| ~ to </B><I>One man was attacked and suffered cuts to his face. </I> </P>
+<P> <U> PHRASES </U><B> cuts and bruises </B> </P>
+<P> <SUP> 3 </SUP> <TT> act of cutting sth </TT> </P>
+<P> <U> ADJ. </U><B> hair </B> </P>
+<P> <U> VERB + CUT </U><B> have </B><I>I've made an appointment to have a hair cut. </I> </P>
+<P> <SUP> 4 </SUP> <TT> reduction </TT> </P>
+<P> <U> ADJ. </U><B> big, deep, drastic, large, major, massive, real, savage, severe, sharp, significant, substantial, swingeing | government | financial | budget, defence, education, expenditure, interest-rate, job, pay, price, service, spending, staff, tax, wage </B><I>They get a lot of power cuts because they have overhead wires. </I><B>| power </B> </P>
+<P> <U> QUANT. </U><B> round </B><I>The company has announced a new round of job cuts. </I> </P>
+<P> <U> VERB + CUT </U><B> make </B><I>They are planning to make substantial cuts in the service. </I><B>| announce, propose </B><I>proposed tax cuts </I><B>| suffer, take </B><I>The staff have all had to take a cut in salary. </I> </P>
+<P> <U> CUT + VERB </U><B> come into effect </B><I>The cuts will come into effect next May. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>cuts in public spending </I> </P>
+<P> <SUP> 5 </SUP> <TT> piece of meat </TT> </P>
+<P> <U> ADJ. </U><B> choice, expensive, good, lean | cheap | cold ~s </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The recipe calls for a good lean cut of beef. </I> </P>
+<P> <SUP> 6 </SUP> <TT> share in the profits </TT> </P>
+<P> <U> VERB + CUT </U><B> get, have, take </B><I>By the time the organizers have had their cut, there won't be much left. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He takes a cut of the profits. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>cut </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> with a knife/scissors, etc. </B> </TT> </P>
+<P> <U> ADV. </U><B> thick </B><I>Make sure you cut the bread nice and thick. </I><B>| thinly | cleanly </B><I>Cut the stem cleanly, just beneath a leaf joint. </I><B>| easily  </B><I>Sandstone cuts easily. </I><B>| crossways, lengthways </B><I>Cut the courgette in half lengthways. </I><B>| away, down </B><I>cutting down trees </I> </P>
+<P> <U> PREP. </U><B> from </B><I>They cut away all the dead branches from the tree. </I><B>| into </B><I>She picked up the knife and cut into the meat. He cut the bread into thin slices. </I><B>| through </B><I>I can't cut through this wood. </I> </P>
+<P> <U> PHRASES </U><B> cut and paste </B><I>(computing) You can cut and paste between different programs. </I> <B>| cut sb/sth free </B><I>Two survivors were cut free after being trapped for twenty minutes. </I><B>| cut sth into pieces </B><I>Cut the cake into six pieces. </I><B>| cut sth in half/two </B><I>She cut the loaf in two and gave me one of the halves. </I><B>| cut sth open </B><I>She fell and cut her head open. </I> </P>
+<P> <SUP> 2 </SUP> <TT> reduce sth </TT> </P>
+<P> <U> ADV. </U><B> considerably, drastically, significantly | short </B><I>His career was cut short by injury. </I> </P>
+<P> <U> VERB + CUT </U><B> try to | manage to </B><I>We have managed to cut our costs quite drastically. </I><B>| be forced to, have to </B> </P>
+<P> <U> PREP. </U><B> by </B><I>The department has to cut its spending by 30%. </I><B>| from, to </B><I>The price has been cut from </I> &pound;</B><I>250 to </I>&pound;</B><I>175. </I> <B>PHRASAL VERBS cut back </B> </P>
+<P> <U> ADV. </U><B> drastically, savagely, severely, significantly </B><I>Social work services have been cut back drastically. </I> </P>
+<P> <U> VERB + CUT </U><B> be forced to, have to </B> </P>
+<P> <U> PREP. </U><B> on </B><I>Local authorities have been forced to cut back on expenditure. </I> <B>cut down </B> </P>
+<P> <U> ADV. </U><B> considerably, drastically | gradually </B> </P>
+<P> <U> VERB + CUT </U><B> try to | manage to | advise sb to </B> </P>
+<P> <U> PREP. </U><B> on </B><I>I'm trying to cut down on fatty foods. </I> <B>cut sb/sth off </B> </P>
+<P> <SUP> 1 </SUP> <TT> interrupt sb/sth </TT> </P>
+<P> <U> ADV. </U><B> abruptly, suddenly </B><I>His thoughts were abruptly cut off by a blinding flash of pain. </I> </P>
+<P> <SUP> 2 </SUP> <TT> prevent sb/sth leaving/reaching a place </TT> </P>
+<P> <U> ADV. </U><B> completely, totally, utterly, wholly | effectively, largely, virtually </B> </P>
+<P> <U> PREP. </U><B> from </B><I>They were completely cut off from the outside world. </I> </P>
+</DIV>

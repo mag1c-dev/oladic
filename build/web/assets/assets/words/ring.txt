@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>ring </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of jewellery </TT> </P>
+<P> <U> ADJ. </U><B> engagement, eternity, signet, wedding | diamond, gold, etc. </B><I>She wore a diamond engagement ring. </I> </P>
+<P> <U> VERB + RING </U><B> have on, wear </B><I>He had a signet ring on his little finger. </I><B>| put on | take off </B> </P>
+<P> <U> RING + NOUN </U><B> finger </B>(= the finger next to the little finger, especially on the left hand)  </P>
+<P> <SUP> 2 </SUP> <TT> circle </TT> </P>
+<P> <U> ADJ. </U><B> inner | outer | concentric </B><I>The street plan of the city has evolved as a series of concentric rings. </I><B>| black, dark </B><I>He had dark rings around his eyes. </I><B>| smoke, tree </B><I>to blow smoke rings </I> </P>
+<P> <U> VERB + RING </U><B> form, stand in </B><I>The children formed a ring around their teacher. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The children sat on the floor in a ring. </I> </P>
+<P> <SUP> 3 </SUP> <TT> where a performance, match, etc. takes place </TT> </P>
+<P> <U> ADJ. </U><B> boxing, bull, circus, show, wrestling </B> </P>
+<P> <U> PREP. </U><B> in/into the ~ </B><I>He was back in the ring </I>(= the boxing ring) </B><I>only a month after the injury. </I> </P>
+<P> <U> PHRASES </U><B> retire from the ring </B>(= stop boxing)  </P>
+<P> <SUP> 4 </SUP> <TT> people involved in sth secret/illegal </TT> </P>
+<P> <U> ADJ. </U><B> drugs, smuggling, spy </B> </P>
+<P> <U> VERB + RING </U><B> be involved in | break up </B><I>Customs officials have broken up a major drugs ring. </I> </P>
+<P> <SUP> 5 </SUP> <TT> telephone call </TT> </P>
+<P> <U> VERB + RING </U><B> give sb </B><I>I'll give you a ring once I get home. </I> </P>
+</DIV>

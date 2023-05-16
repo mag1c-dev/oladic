@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>consumer </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, great, large </B><I>The UK is the biggest consumer of tropical hardwoods after Japan. </I><B>| average, ordinary | potential | passive </B><I>Mass culture turns audiences into passive consumers, their participation limited to the choice between buying and not buying. </I><B>| sophisticated | domestic, foreign | commercial, industrial | green </B><I>Green consumers should be wary of manufacturers' claims that their products are environmentally friendly. </I><B>| electricity, energy </B> </P>
+<P> <U> VERB + CONSUMER </U><B> supply </B><I>supplying domestic consumers </I><B>| persuade | exploit </B><I>to exploit consumers by charging a high price </I><B>| protect </B><I>What can be done to protect the ordinary consumer from unscrupulous service operators? </I><B>| satisfy </B> </P>
+<P> <U> CONSUMER + VERB </U><B> buy sth, spend sth </B> </P>
+<P> <U> CONSUMER + NOUN </U><B> durables, electronics, goods, products, services </B><I>the market for consumer durables </I><B>| attitudes, awareness, behaviour, choice, confidence, demand, expenditure, needs, preferences, spending, tastes | protection, rights | group, organization, watchdog </B><I>Consumer watchdogs have accused banks of &lsquo;appalling arrogance&rsquo; in the way they treat customers. </I><B>| society </B><I>We are living in a consumer society. </I><B>| market | prices | boom </B><I>Government policy encouraged a consumer boom followed by a deep recession. </I><B>| boycott </B><I>The country could face a consumer boycott of its beef exports. </I> </P>
+<P> <U> PREP. </U><B> among ~ </B><I>two years of research among consumers </I> </P>
+</DIV>

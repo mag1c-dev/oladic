@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>process </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gradual, lengthy, long, slow | constant, continuous | complex, complicated, difficult | natural | due </B><I>the due process of law </I><B>| painful </B><I>Removing the splinters from the wound was a long and painful process. </I><B>| consultation, consultative, decision-making, management, planning | cognitive, creative, learning, mental </B><I>Teachers are trained to stimulate the child's cognitive processes. </I><B>| assessment, selection | democratic, electoral, political </B><I>Churches are taking a key role in the democratic process. </I><B>| chemical, industrial, manufacturing, production | ageing, biological, evolutionary, physical | judicial, legal | peace </B><I>a stalemate in the peace process </I><B>| historical, social </B> </P>
+<P> <U> VERB + PROCESS </U><B> go through </B><I>Each time we have to go through the whole decision-making process again. </I><B>| accelerate, speed up, stimulate </B><I>Excessive exposure to sunlight speeds up the ageing process of the skin. </I> </P>
+<P> <U> PROCESS + VERB </U><B> take place </B><I>The selection process takes place over a period of two weeks. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a legal process for dealing with defrauders </I><B>| ~ of </B><I>the process of change </I> </P>
+<P> <U> PHRASES </U><B> a stage in/of the process</B> </P>
+</DIV><DIV class="item"><P class="word"><B>process </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> efficiently | quickly | automatically | routinely </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The plant is then processed for dye. </I><B>| into </B><I>The berries are processed into juice or sauce. </I> </P>
+<P> <U> PHRASES </U><B> highly processed </B><I>highly processed foods </I> </P>
+</DIV>

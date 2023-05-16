@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>stride </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> step </TT> </P>
+<P> <U> ADJ. </U><B> long, short </B><I>In one short stride, he reached the window. </I><B>| quick, rapid | slow | easy | purposeful </B> </P>
+<P> <U> VERB + STRIDE </U><B> take | lengthen, shorten </B><I>He lengthened his stride to keep up with her. </I><B>| break </B><I>Without breaking her stride she ducked the ball. </I><B>| match </B><I>He matched his stride to her slower pace. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> progress </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, giant, great </B> </P>
+<P> <U> VERB + STRIDE </U><B> make </B><I>She's made enormous strides in English this term. </I> </P>
+<P> <U> PREP. </U><B> ~s in</B> </P>
+</DIV><DIV class="item"><P class="word"><B>stride </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> briskly, quickly | confidently | purposefully | angrily | ahead, away, back, forward, in, off, out, over, past </B><I>He strode off in search of a taxi. </I> </P>
+<P> <U> PREP. </U><B> across, along, away, down, into, out of, over, past, through, towards, up </B><I>She strode purposefully towards the door. </I> </P>
+<P> <U> PHRASES </U><B> come striding </B><I>He came striding up the path. </I> </P>
+</DIV>

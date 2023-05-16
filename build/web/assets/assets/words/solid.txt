@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>solid </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> hard and firm/not hollow </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become, go </B><I>If you put it in the freezer, it will go solid. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, completely | almost, practically | quite | enough </B><I>The ice felt solid enough. </I><B>| apparently, seemingly </B> </P>
+<P> <SUP> 2 </SUP> <TT> reliable and strong </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, really, very | absolutely, rock </B><I>Support for the plan remained rock solid. </I><B>| fairly, pretty </B><I>There is pretty solid evidence to show that the disease is caused by poor hygiene. </I> </P>
+</DIV>

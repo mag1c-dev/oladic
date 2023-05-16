@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>property </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> possessions </TT> </P>
+<P> <U> ADJ. </U><B> personal, private | common, public | intellectual </B><I>Companies should protect their intellectual property with patents and trademarks. </I><B>| stolen | lost </B><I>I phoned the lost property office to see if someone had found my bag. </I> </P>
+<P> <U> VERB + PROPERTY </U><B> dispose of </B><I>The market was known as a place where people disposed of stolen property. </I> </P>
+<P> <U> PROPERTY + NOUN </U><B> rights </B><I>The firm was found to have infringed intellectual property rights. </I> </P>
+<P> <SUP> 2 </SUP> <TT> land/building </TT> </P>
+<P> <U> ADJ. </U><B> freehold, leasehold | adjacent, adjoining, neighbouring | detached, semi-detached | two-bedroom, three-bedroom, etc. | business, commercial, hotel, residential | investment | private | council, council-owned | family </B> </P>
+<P> <U> VERB + PROPERTY </U><B> hold, own | acquire, buy, invest in, purchase | inherit | sell | lease, let, rent out </B><I>They decided to rent out the property while they were abroad. </I><B>| rent </B><I>living in rented property </I><B>| view </B><I>We have a potential buyer who wants to view the property. </I><B>| value </B><I>The property was valued at </I>&pound;</B><I>250,000. </I><B>| put on the market </B><I>Once the tenants have left, the property will be put on the market. </I> </P>
+<P> <U> PROPERTY + NOUN </U><B> market, prices, values | company, developer | owner | tax | boundary </B> </P>
+<P> <U> PHRASES </U><B> a man/woman of property </B><I>Now that you've paid off your mortgage, how does it feel to be a woman of property? </I> </P>
+<P> <SUP> 3 </SUP> <TT> characteristic </TT> </P>
+<P> <U> ADJ. </U><B> biological, chemical, electrical, magnetic, mechanical, physical | antiseptic, health-giving, medicinal </B><I>The medicinal properties of the leaves of this tree have been known for centuries. </I><B>| observable | individual | general</B> </P>
+</DIV>

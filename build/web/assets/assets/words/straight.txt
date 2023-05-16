@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>straight </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not bent or curved </TT> </P>
+<P> <U> VERBS </U><B> be, look | become | stay | keep sth </B><I>Keep your back absolutely straight. </I> </P>
+<P> <U> ADV. </U><B> absolutely, completely, dead, perfectly </B><I>Keep going in a dead straight line. His teeth were white and perfectly straight. </I><B>| almost, more or less, nearly, practically | fairly, relatively </B> </P>
+<P> <SUP> 2 </SUP> <TT> level/upright </TT> </P>
+<P> <U> VERBS </U><B> be, look | hang sth, put sth </B><I>Can you hang that sign straight for me? </I> </P>
+<P> <U> ADV. </U><B> absolutely, completely, perfectly, quite | almost, more or less, nearly </B> </P>
+<P> <SUP> 3 </SUP> <TT> tidy/in order </TT> </P>
+<P> <U> VERBS </U><B> be | get sth, put sth </B><I>I'm trying to get the house straight before the weekend. She tidied up and put the ornaments straight. </I> </P>
+<P> <SUP> 4 </SUP> <TT> honest and truthful </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>I think he was pretty straight with me. </I> </P>
+<P> <U> ADV. </U><B> absolutely, completely, totally | fairly, pretty </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Are you being completely straight with her? </I> </P>
+<P> <SUP> 5 </SUP> <TT> clear/understood </TT> </P>
+<P> <U> VERBS </U><B> be | get sth </B> </P>
+<P> <U> ADV. </U><B> absolutely </B><I>Let's get this absolutely straight. </I> </P>
+</DIV>

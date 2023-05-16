@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>vow </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> formal, solemn | marriage, wedding | monastic, religious | final </B><I>She left the convent before taking her final vows. </I> </P>
+<P> <U> VERB + VOW </U><B> make, take </B><I>He made a vow to avenge his father's death. </I><B>| keep </B><I>She kept her vow of silence until she died. </I><B>| break </B><I>Nothing will persuade me to break this vow. </I><B>| exchange </B><I>The couple exchanged vows at the altar. </I><B>| renew </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a vow of poverty </I> </P>
+</DIV><DIV class="item"><P class="word"><B>vow </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> quietly, silently </B><I>He silently vowed vengeance on them all. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>She vowed to herself that she would not show any emotion. </I> </P>
+<P> <U> PHRASES </U><B> vow never to do sth </B><I>I vowed never to drink so much again. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>attitude </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> conciliatory, favourable, friendly, positive, responsible, right, sympathetic </B><I>She seems to have the right attitude for the job. </I><B>| aggressive, bad, belligerent, cavalier, critical, hostile, irreverent, negative, patronizing, wrong | carefree, casual, flexible, laid-back, liberal, relaxed </B><I>The teachers seem to have a very relaxed attitude towards discipline. </I><B>| conservative, inflexible, rigid, uncompromising | ambivalent | general, prevailing, public </B><I>The general attitude of the public is sympathetic. </I><B>| changing | mental, moral, sexual </B> </P>
+<P> <U> VERB + ATTITUDE </U><B> adopt, have, take </B><I>The government has taken a positive attitude to this problem. </I><B>| change </B><I>The experience changed his attitude to religion. </I> </P>
+<P> <U> ATTITUDE + VERB </U><B> exist, persist, prevail </B><I>This sort of attitude exists among certain groups of people. </I><B>| change </B> </P>
+<P> <U> ATTITUDE + NOUN </U><B> problem </B><I>At school he was thought to have an attitude problem. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>changing attitudes about death </I><B>| ~ of </B><I>an attitude of confidence and trust Youth is simply an attitude of mind. </I><B>| ~ to/towards </B><I>There has been a marked change in attitude towards the European single currency. </I> </P>
+<P> <U> PHRASES </U><B> a change in/of attitude, with attitude </B><I>(informal) </I>(= having a confident, aggressive attitude that challenges what people think) </B><I>a rock band with attitude </I> </P>
+</DIV>

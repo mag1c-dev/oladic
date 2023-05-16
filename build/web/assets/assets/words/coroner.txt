@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>coroner </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deputy </B> </P>
+<P> <U> CORONER + VERB </U><B> issue sth </B><I>The coroner issued a burial certificate. </I><B>| order sth </B><I>The coroner ordered an investigation into the man's death. </I><B>| record a verdict of sth </B><I>The coroner recorded a verdict of accidental death. </I> </P>
+<P> <U> PHRASES </U><B> a coroner's court/inquest, a coroner's report/verdict</B> </P>
+</DIV>

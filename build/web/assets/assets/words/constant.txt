@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>constant </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | remain, stay </B><I>The level of unemployment remains fairly constant at around 10%. </I><B>| hold sth </B><I>(technical)</I>, <B>keep sth </B><I>All variables except one must be held constant. The temperature must be kept constant. </I> </P>
+<P> <U> ADV. </U><B> remarkably | absolutely | almost, nearly, virtually | fairly, reasonably, relatively | more or less, roughly </B> </P>
+<P> <U> PREP. </U><B> across </B><I>These figures were virtually constant across the 1991 and 2001 censuses. </I> </P>
+</DIV>

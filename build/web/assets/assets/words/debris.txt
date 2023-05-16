@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>debris </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> flying </B><I>She was hit on the head by flying debris. </I><B>| food, plant, rock </B><I>These worms feed on plant debris. </I><B>| garden, industrial, volcanic </B> </P>
+<P> <U> QUANT. </U><B> piece | heap, pile </B> </P>
+<P> <U> VERB + DEBRIS </U><B> scatter, shower </B><I>The tank exploded, scattering debris all over the field. </I><B>| clear (away/up), clear sth of, remove </B><I>Teams of people are working to clear the debris. Remember to clear the drain of debris regularly. </I><B>| search through, sift through </B><I>Police have spent the day sifting throught the debris for clues. </I> </P>
+<P> <U> DEBRIS + VERB </U><B> accumulate </B><I>Debris accumulates at the bottom of the bottle. </I> </P>
+<P> <U> PREP. </U><B> among the ~, in the ~ </B><I>She found a pair of children's shoes among the debris. </I><B>| through the ~</B> </P>
+</DIV>

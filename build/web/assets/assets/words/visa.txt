@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>visa </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> entry, exit, transit | student, tourist, travel </B> </P>
+<P> <U> VERB + VISA </U><B> get, obtain </B><I>I obtained a visa after hours of waiting at the embassy. </I><B>| extend, renew | give sb, grant (sb), issue, issue sb (with) | deny sb, refuse sb </B><I>She was refused a visa because of her criminal record. </I><B>| need, require </B><I>Do South Africans need a visa to go to France? </I><B>| stamp | check | overstay </B><I>He was arrested for overstaying his visa. </I> </P>
+<P> <U> VISA + VERB </U><B> expire </B><I>Her visa expired six months ago. </I> </P>
+<P> <U> VISA + NOUN </U><B> regulations, requirements, restrictions | application </B> </P>
+<P> <U> PREP. </U><B> on a ~ </B><I>She entered the country on a student visa. </I><B>| ~ for </B><I>Do you need a visa for Egypt? </I> </P>
+</DIV>

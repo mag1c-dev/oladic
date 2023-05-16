@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>theme </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> basic, central, dominant, important, key, main, major, underlying | broad, general | common, popular, universal </B><I>universal themes of love and loneliness </I><B>| constant, familiar, favourite, recurrent, recurring | related | unifying | contemporary, topical | historical, religious, etc. | campaign, conference, research | musical </B><I>The film's haunting musical theme stayed in my head for days. </I> </P>
+<P> <U> VERB + THEME </U><B> develop, discuss, examine, explore </B><I>His later novels develop the theme of alienation. </I><B>| warm to </B><I>&lsquo;Our work&rsquo;, he continued, warming to his theme, &lsquo;will be a milestone in scientific history.&rsquo; </I> </P>
+<P> <U> THEME + VERB </U><B> emerge </B><I>Several familiar themes emerged from the discussion. </I><B>| run through sth </B><I>The same themes run through all her novels. </I> </P>
+<P> <U> THEME + NOUN </U><B> music, song, tune | park, pub </B> </P>
+<P> <U> PREP. </U><B> on the ~ of </B><I>He gave a talk on the theme of teenage unemployment. </I> </P>
+<P> <U> PHRASES </U><B> variations on a theme </B><I>Most of the essays appear to be variations on a few central themes. </I> </P>
+</DIV>

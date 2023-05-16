@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>inequality </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, great, marked, substantial </B><I>Inequalities of income would lead to even greater inequalities in access to health care. </I><B>| real | growing, increased/increasing | global, regional | class, economic, educational, gender, income, pay, racial, sex/sexual, social, socio-economic, structural </B> </P>
+<P> <U> VERB + INEQUALITY </U><B> cause, create, lead to </B><I>The introduction of school fees would create inequality between schools. </I><B>| maintain, perpetuate </B><I>Many sociologists have regarded education as central in perpetuating inequality. </I><B>| reinforce </B><I>Sex inequality in pay reinforces class inequality. </I><B>| increase | reduce | remove </B><I>They can build a more harmonious society once inequality and exploitation are removed. </I><B>| rectify, redress </B><I>The country has had some success in redressing racial inequalities. </I> </P>
+<P> <U> INEQUALITY + VERB </U><B> exist </B><I>inequalities that exist in wealth and income </I><B>| arise from sth, be based on sth </B><I>inequalities based on racism and social class </I><B>| persist, remain </B><I>Even in the age of compulsory school, inequalities in education have remained. </I><B>| increase | decline </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>economic inequality between men and women </I><B>| ~ in </B><I>gender inequality in education </I> </P>
+<P> <U> PHRASES </U><B> inequalities of opportunity/power/wealth, a pattern of inequality</B> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>atmosphere </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> general feeling in a place </TT> </P>
+<P> <U> ADJ. </U><B> calm, congenial, convivial, cosy, family, friendly, happy, homely, informal, pleasant, relaxed, warm, welcoming | (highly) charged, emotional, heavy, hostile, oppressive, stifling, strained, tense | carnival, electric, heady, lively </B><I>Before the parade, the atmosphere was electric. </I><B>| intimate, romantic | gloomy | rarefied, unique </B><I>the rarefied atmosphere of academic life </I> </P>
+<P> <U> VERB + ATMOSPHERE </U><B> create </B><I>She tries to create an atmosphere of calm and security for her children. </I><B>| poison, ruin, sour, spoil </B><I>His blunt comments really soured the atmosphere. </I><B>| clear, improve, lighten </B><I>His funny remarks lightened the atmosphere. </I><B>| be aware of, be sensitive to, sense </B><I>She could sense the hostile atmosphere in the room. </I> </P>
+<P> <U> ATMOSPHERE + VERB </U><B> be charged (with sth) </B><I>The atmosphere was charged with excitement. </I><B>| pervade sth, prevail </B><I>A relaxed atmosphere prevails in the club. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>Since their argument there had been a strained atmosphere between them. </I> </P>
+<P> <SUP> 2 </SUP> <TT> the air </TT> </P>
+<P> <U> ADJ. </U><B> heavy, humid, oppressive, polluted, smoky, stale, stifling, stuffy </B> </P>
+<P> <U> VERB + ATMOSPHERE </U><B> poison, pollute </B><I>Pesticides can kill wildlife and pollute the atmosphere. </I><B>| clear </B><I>Last night's storm had cleared the atmosphere. </I> </P>
+<P> <SUP> 3 </SUP> <TT> gases around the earth </TT> </P>
+<P> <U> ADJ. </U><B> lower, upper </B> </P>
+<P> <U> VERB + ATMOSPHERE </U><B> enter, leave, re-enter </B><I>The spaceship should re-enter the earth's atmosphere later today. </I><B>| be emitted/released into, escape into </B><I>Dangerous gases have escaped into the upper atmosphere. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>levels of radiation in the atmosphere </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>unknown </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | remain </B><I>These sites remain largely unknown to the British public. </I> </P>
+<P> <U> ADV. </U><B> absolutely, completely, entirely, quite, totally, utterly </B><I>His whereabouts were quite unknown during this period. </I><B>| almost, practically, virtually </B><I>This drug was practically unknown in Britain. </I><B>| largely | comparatively, relatively </B><I>She was then still comparatively unknown. </I><B>| as yet, currently, still | hitherto, previously </B><I>a period of democratic development previously unknown in their country </I><B>| apparently | otherwise </B><I>He cites the works of two otherwise unknown authors, the originals of these works having been lost. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>Gold was totally unknown to their civilization. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>unknown </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place/thing that you know nothing about </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>What the weather will be like on the day is, as always, the great unknown. </I> </P>
+<P> <U> PREP. </U><B> into the ~ </B><I>Motherhood was for her a journey into the unknown. </I> </P>
+<P> <U> PHRASES </U><B> fear of the unknown </B> </P>
+<P> <SUP> 2 </SUP> <TT> sb who is not well known </TT> </P>
+<P> <U> ADJ. </U><B> complete </B><I>The championship was won by a complete unknown. </I><B>| virtual </B><I>a cast of virtual unknowns </I> </P>
+</DIV>

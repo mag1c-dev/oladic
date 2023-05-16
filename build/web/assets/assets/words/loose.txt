@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>loose </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not firmly fixed </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem </B><I>One of the bricks feels slightly loose. </I><B>| come, shake, work </B><I>The top of the tap has come loose. A screw had worked loose from the door handle. </I><B>| prise sth </B> </P>
+<P> <U> ADV. </U><B> a bit, rather, slightly </B> </P>
+<P> <SUP> 2 </SUP> <TT> not tied back </TT> </P>
+<P> <U> VERBS </U><B> be, hang </B><I>Her hair hung loose about her shoulders. </I><B>| leave sth, wear sth </B><I>Shall I wear my hair loose? </I> </P>
+<P> <SUP> 3 </SUP> <TT> not shut in or tied up </TT> </P>
+<P> <U> VERBS </U><B> be | cut </B><I>(figurative)</I>, <B>break, get </B><I>The animals had broken loose from their pens. (figurative) The organization broke loose from its sponsors. He felt he had to cut loose from his family. </I><B>| let sth, turn sth </B><I>I'm going to let the dogs loose. </I> </P>
+</DIV>

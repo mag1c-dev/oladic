@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ace </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> playing card </TT> </P>
+<a href="/collocation-tag/playing-card" class="tag">Learn more about PLAYING CARD</a>
+<P> <SUP> 2 </SUP> <TT> winning first hit in tennis </TT> </P>
+<P> <U> VERB + ACE </U><B> serve </B><I>Rafter has served fifteen aces in the match so far. </I> </P>
+<P> <SUP> 3 </SUP> <TT> person who is very good at sth </TT> </P>
+<P> <U> ADJ. </U><B> fighter, flying, goal, motorcycle, soccer, tennis</B> </P>
+</DIV>

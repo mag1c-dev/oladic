@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>ham </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> lean | baked, boiled, cooked, cured, honey-roast, Parma, smoked | cold </B><I>cold ham and salad </I><B>| sliced </B> </P>
+<P> <U> QUANT. </U><B> bit, piece, slice | joint, leg </B> </P>
+<P> <U> VERB + HAM </U><B> eat, have | boil, cook, roast | carve, slice </B> </P>
+<P> <U> HAM + NOUN </U><B> roll, salad, sandwich </B> </P>
+<P> <U> PHRASES </U><B> ham on the bone </B><I>We had boiled ham on the bone for dinner. </I>&gt; Special page at FOOD </B> </P>
+</DIV>

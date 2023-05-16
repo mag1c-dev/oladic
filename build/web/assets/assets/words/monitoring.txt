@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>monitoring </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, close, systematic | frequent, regular | long-term, ongoing | constant, continuous | routine </B><I>The problem was discovered during routine monitoring. </I><B>| independent | environmental </B> </P>
+<P> <U> VERB + MONITORING </U><B> need, require </B><I>It is a problem that requires constant monitoring. </I> </P>
+<P> <U> MONITORING + NOUN </U><B> agency, body, committee, group, network, organization, team, unit </B><I>a UN monitoring team </I><B>| device, equipment | procedure, process, system | programme | visit</B> </P>
+</DIV>

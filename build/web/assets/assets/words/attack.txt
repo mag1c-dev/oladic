@@ -1,0 +1,33 @@
+
+<DIV class="item"><P class="word"><B>attack </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> violence against sb </TT> </P>
+<P> <U> ADJ. </U><B> brutal, frenzied, horrific, savage, serious, vicious, violent | unprovoked | racist, sexual | arson, gun, knife </B><I>an increase in knife attacks on police officers </I> </P>
+<P> <U> QUANT. </U><B> series, spate, wave </B> </P>
+<P> <U> VERB + ATTACK </U><B> carry out </B><I>Two teenagers carried out a frenzied attack on a local shopkeeper. </I><B>| be subjected to </B><I>He was subjected to a violent attack. </I> </P>
+<P> <U> ATTACK + VERB </U><B> happen, occur, take place </B><I>Where did the attack happen? </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>vicious attacks against pensioners </I><B>| ~ by </B><I>an attack by an armed gang </I><B>| ~ on </B><I>an attack on a bus driver </I> </P>
+<P> <U> PHRASES </U><B> a victim of an attack </B> </P>
+<P> <SUP> 2 </SUP> <TT> act of violence in war </TT> </P>
+<P> <U> ADJ. </U><B> all-out, full-scale, major | sustained | surprise | retaliatory | mock | flank, frontal | enemy, guerrilla, terrorist | air, bomb, missile, mortar, nuclear </B> </P>
+<P> <U> QUANT. </U><B> series </B><I>The southern border towns have suffered a series of attacks. </I> </P>
+<P> <U> VERB + ATTACK </U><B> carry out, launch, lead, make, mount, spearhead </B><I>The soldiers mounted an all-out attack on the village. </I><B>| come under, suffer </B><I>They came under sustained attack from the air. </I><B>| repel, repulse, resist | survive, withstand </B><I>Most of the population would stand little chance of surviving a nuclear attack. </I><B>| press home, renew </B><I>Bombers pressed home their attack, causing severe damage to harbour installations. </I> </P>
+<P> <U> ATTACK + VERB </U><B> happen, occur, take place </B><I>The attack took place under cover of darkness. </I><B>| fail, succeed </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The province has been under attack from the rebels. </I><B>| ~ against </B><I>attacks against civilians </I><B>| ~ by </B><I>an attack by rebel forces </I><B>| ~ on </B><I>an attack on enemy positions </I> </P>
+<P> <SUP> 3 </SUP> <TT> criticism </TT> </P>
+<P> <U> ADJ. </U><B> bitter, blistering, fierce, outspoken, savage, scathing, scurrilous, stinging, vigorous | personal </B><I>Is this a personal attack on the president, or a criticism of the government? </I><B>| concerted | verbal </B> </P>
+<P> <U> VERB + ATTACK </U><B> deliver, go on the, launch, make, mount, unleash </B><I>Doctors have gone on the attack, accusing the government of incompetence. </I><B>| come under, provoke </B><I>All politicians come under attack for their views. The government's decision has provoked an attack from leaders of the health service. </I> </P>
+<P> <U> PREP. </U><B> ~ on/upon </B><I>an attack on my integrity </I> </P>
+<P> <U> PHRASES </U><B> a/the line of attack </B><I>The first line of attack is often name-calling. </I><B>| open to attack </B><I>He has laid himself wide open to attack. </I> </P>
+<P> <SUP> 4 </SUP> <TT> sudden illness </TT> </P>
+<P> <U> ADJ. </U><B> acute, sudden | bad, nasty, severe | fatal | mild, slight | recurrent | asthma, heart, panic </B><I>a fatal heart attack </I> </P>
+<P> <U> VERB + ATTACK </U><B> experience, have, suffer (from) </B><I>He suffers from attacks of anxiety. </I><B>| bring on, cause, trigger </B><I>a heart attack brought on by stress </I> </P>
+<P> <U> ATTACK + VERB </U><B> happen, occur, take place </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a sudden attack of nerves </I> </P>
+</DIV><DIV class="item"><P class="word"><B>attack </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> use violence </TT> </P>
+<P> <U> ADV. </U><B> brutally, savagely, viciously, violently </B><I>She was brutally attacked by two men. </I><B>| physically </B> </P>
+<P> <U> PREP. </U><B> with </B><I>He attacked her with a knife. </I> </P>
+<P> <SUP> 2 </SUP> <TT> criticize </TT> </P>
+<P> <U> ADV. </U><B> fiercely, savagely, sharply, strongly, vigorously </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The police have been strongly attacked for not taking immediate action. </I> </P>
+</DIV>

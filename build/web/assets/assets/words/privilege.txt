@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>privilege </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> special right </TT> </P>
+<P> <U> ADJ. </U><B> exclusive, special </B><I>Club members have special privileges, like free use of the pool. </I><B>| class | diplomatic </B> </P>
+<P> <U> VERB + PRIVILEGE </U><B> enjoy, exercise, have | accord sb, give sb, grant sb | abuse </B><I>He was accused of abusing his diplomatic privileges. </I><B>| revoke, withdraw </B> </P>
+<P> <SUP> 2 </SUP> <TT> opportunity to do sth pleasant </TT> </P>
+<P> <U> ADJ. </U><B> enormous, great, rare, real </B><I>It is a great privilege to be attending this conference. </I><B>| doubtful, dubious </B><I>I was given the dubious privilege of organizing the summer fair. </I> </P>
+<P> <U> VERB + PRIVILEGE </U><B> have </B><I>She had the rare privilege of a viewing of his private art collection. </I><B>| give sb</B> </P>
+</DIV>

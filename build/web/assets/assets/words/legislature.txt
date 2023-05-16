@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>legislature </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> highest, supreme | bicameral, unicameral | 109-member, etc. | elected | standing | central, federal, national, provincial, state </B> </P>
+<P> <U> VERB + LEGISLATURE </U><B> be elected to </B><I>She is the youngest woman to be elected to the national legislature. </I> </P>
+<P> <U> LEGISLATURE + VERB </U><B> comprise sth, consist of sth </B><I>The legislature comprises a 212-member Chamber of Deputies elected for a four-year term. </I><B>| pass sth </B><I>The legislature passed a law to prohibit the dumping of nuclear waste. </I><B>| vote </B><I>The legislature voted narrowly to table a motion of no-confidence in the government. </I> </P>
+</DIV>

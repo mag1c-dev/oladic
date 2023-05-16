@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>component </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> basic, central, core, critical, crucial, essential, fundamental, important, integral, key, main, major, necessary, principal, significant, vital | minor | common </B><I>The researchers discovered a common component in all types of the organism. </I><B>| standard </B><I>Our software is becoming a standard component of many computer systems. </I><B>| individual, separate, simple </B><I>Individual components for the car can be very expensive. </I><B>| chemical, genetic | electrical, electronic | aircraft, engine, etc. | course </B> </P>
+<P> <U> COMPONENT + NOUN </U><B> failure </B><I>Component failure was the cause of the accident. </I><B>| manufacturer, supplier </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a crucial component in our success. </I> </P>
+</DIV>

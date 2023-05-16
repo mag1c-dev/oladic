@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>prison </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> local | overcrowded | high-security, maximum-security, top-security | closed | open </B><I>Open prisons prepare prisoners for life back in the community. </I><B>| private | women's | debtors' </B><I>(historical) </I><B>| military </B> </P>
+<P> <U> VERB + PRISON </U><B> go to </B><I>He went to prison for tax evasion. </I><B>| put sb in, send sb to, throw sb into </B><I>She was sent to prison for leaking state secrets. He was immediately seized and thrown into prison. </I><B>| be discharged from, be released from, come out of, get out of </B><I>When did he get out of prison? </I><B>| escape from </B><I>A dangerous criminal has escaped from a high-security prison. </I><B>| avoid, escape </B><I>You only escaped prison </I>(= escaped being sent to prison) </B><I>because of your previous good character. </I><B>| face </B><I>She was told by magistrates she could now face prison. </I> </P>
+<P> <U> PRISON + NOUN </U><B> sentence, term | cell, hospital | conditions | population | authorities, governor, inmate, officer, staff, warder | service, system </B> </P>
+<P> <U> PREP. </U><B> at a/the~ </B><I>The police are investigating disturbances at the prison. </I><B>| in (a/the) ~ </B><I>How long has her father been in prison? There have been riots in the prison. </I> </P>
+</DIV>

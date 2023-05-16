@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>understanding </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> knowledge of a subject, of how sth works, etc. </TT> </P>
+<P> <U> ADJ. </U><B> complete, full </B><I>He showed a full understanding of the sequence of events. </I><B>| growing | clear, deep, good, profound, proper, sophisticated, thorough, true </B><I>You need to read more widely to gain a proper understanding of the issue. </I><B>| adequate, basic, broad, general, sufficient | limited </B><I>She has only a limited understanding of what the job involves. </I><B>| conceptual, critical, rational, theoretical | historical, musical, scientific, etc. | instinctive | common </B><I>Some religions have a common understanding of the nature of a divine being. </I> </P>
+<P> <U> QUANT. </U><B> level </B><I>The students seem to have a reasonable level of understanding of how genes work. </I> </P>
+<P> <U> VERB + UNDERSTANDING </U><B> have | show | reflect </B><I>This change of policy reflects a growing understanding of the extent of the problem. </I><B>| lack | acquire, arrive at, gain | give sb | advance, broaden, deepen, develop, enhance, enrich, improve, increase </B><I>a book that will deepen your understanding of global warming </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>The book aims to give children a balanced understanding of food, farming and the environment. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> a lack of understanding </B> </P>
+<P> <SUP> 2 </SUP> <TT> intelligence </TT> </P>
+<P> <U> ADJ. </U><B> human </B> </P>
+<P> <U> VERB + UNDERSTANDING </U><B> pass </B><I>a level of cruelty that passes human understanding </I> </P>
+<P> <U> PREP. </U><B> beyond (your) ~ </B><I>The idea of eternity is beyond our full understanding. </I> </P>
+<P> <SUP> 3 </SUP> <TT> ability to feel sympathy and trust </TT> </P>
+<P> <U> ADJ. </U><B> deeper, great | mutual | international </B> </P>
+<P> <U> VERB + UNDERSTANDING </U><B> show </B><I>He didn't show much understanding towards her when she lost her job. </I><B>| bring (about), develop, lead to </B><I>Greater contact between the two groups should lead to a better mutual understanding. </I><B>| gain in, grow in </B><I>After spending a month living together, they have gained in understanding of each other. </I><B>| foster, promote, work for </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>The association fosters a deeper understanding between prisons and the public. </I> </P>
+<P> <SUP> 4 </SUP> <TT> informal agreement </TT> </P>
+<P> <U> ADJ. </U><B> written | verbal | tacit, unspoken </B><I>There is an unspoken understanding that Hugh will be in charge while Jane is away. </I> </P>
+<P> <U> VERB + UNDERSTANDING </U><B> have | come to, reach </B><I>They came to an understanding on when final payment was to be made. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>an understanding between the companies to fight against the proposed tax reform </I><B>| ~ on </B><I>a tacit understanding on the need for a pay rise </I><B>| on the ~ </B><I>I thought you gave me the book on the understanding that I could keep it. </I> </P>
+</DIV>

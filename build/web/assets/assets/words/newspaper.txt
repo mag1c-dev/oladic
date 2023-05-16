@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>newspaper </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> daily, evening, morning, Sunday, weekly | today's, yesterday's | independent, left-wing, right-wing | local, national, provincial, regional | broadsheet, quality | tabloid | popular | financial | folded, rolled-up </B> </P>
+<P> <U> QUANT. </U><B> copy </B><I>Have you got a copy of yesterday's newspaper? </I><B>| edition </B><I>today's edition of the newspaper </I> </P>
+<P> <U> VERB + NEWSPAPER </U><B> buy, get, take </B><I>Do you take a daily newspaper? </I><B>| flick through, read | print, produce, publish | edit, write for/in | appear in </B><I>Her article appeared in the Saturday newspaper. </I><B>| get into </B> </P>
+<P> <U> NEWSPAPER + VERB </U><B> come out </B><I>The newspaper comes out every Saturday. </I> </P>
+<P> <U> NEWSPAPER + NOUN </U><B> article, clipping, column, coverage, cutting | baron, magnate, owner | correspondent, editor, reporter | kiosk, shop, stand </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>an article in a local newspaper </I><B>| on a/the ~ </B><I>She got a job on a national newspaper. </I> </P>
+</DIV>

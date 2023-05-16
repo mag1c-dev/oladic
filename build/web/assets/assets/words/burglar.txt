@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>burglar </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> professional | cat </B>(= a burglar who climbs up the outside of buildings) <B>| suspected </B> </P>
+<P> <U> VERB + BURGLAR </U><B> hunt </B><I>(informal) Police are hunting burglars who stole property worth </I>&pound;</B><I>3,500. </I><B>| catch </B> </P>
+<P> <U> BURGLAR + VERB </U><B> break in </B><I>The burglar had broken in through a window. </I><B>| steal sth | strike </B><I>Burglars had already struck twice that week in their road. </I> </P>
+<P> <U> BURGLAR + NOUN </U><B> alarm</B> </P>
+</DIV>

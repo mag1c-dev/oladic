@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>history </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> the past, especially as a subject of study </TT> </P>
+<P> <U> ADJ. </U><B> contemporary, early, recent </B><I>the early history of the trade union movement things that happened in recent history </I><B>| ancient, medieval, modern | local | family | British, world, etc. | official </B><I>the official history of the Labour Party </I><B>| recorded </B><I>The debate about the origins of the universe has been going on throughout recorded history. </I><B>| oral </B><I>Oral history enables us to take account of those many aspects of history that are not recorded in documents. </I><B>| art, church, cultural, economic, human, literary, military, political, social, etc. </B> </P>
+<P> <U> QUANT. </U><B> piece </B><I>She created a piece of history by winning her fourth title. </I> </P>
+<P> <U> VERB + HISTORY </U><B> be steeped in </B><I>a building that is steeped in history </I><B>| go down in, make, pass into </B><I>He will go down in history as a wise adviser and a kind man. He made history by being the first man to walk on the moon. </I><B>| trace </B><I>The regiment traces its history back to 1803. </I><B>| distort, rewrite </B><I>her attempt to rewrite history with herself in the role of heroine </I> </P>
+<P> <U> HISTORY + VERB </U><B> go back (to) &hellip; </B><I>The town's history goes back to Roman times. </I><B>| reveal sth, show sth </B><I>History shows that New Zealand are almost unbeatable by British teams on their own turf. </I><B>| repeat itself </B><I>Years later, family history repeated itself with Eve's daughters. </I> </P>
+<P> <U> HISTORY + NOUN </U><B> book </B><I>(figurative) She has earned her place in the history books. </I> </P>
+<P> <U> PREP. </U><B> during sth's ~ </B><I>The country has suffered several invasions during its history. </I><B>| in (sth's) ~ </B><I>the most extraordinary royal meeting in history the best player in the sport's history </I><B>| throughout ~ </B><I>There have been conflicts such as this throughout history. </I> </P>
+<P> <U> PHRASES </U><B> change the course of history </B><I>events that could change the course of history </I><B>| a period of history </B><I>This is a fascinating period of history. </I><B>| the rest is history </B>(= the rest of the story does not need to be told because it is well-known), <B>a sense of history </B><I>a people with no sense of history </I><B>| a slice of history </B><I>The team grabbed a slice of history here today </I>(= achieved sth that will be remembered)</B><I>. </I> </P>
+<a href="/collocation-tag/subject" class="tag">Learn more about SUBJECT</a>
+<P> <SUP> 2 </SUP> <TT> facts about sb/sth's life/existence in the past </TT> </P>
+<P> <U> ADJ. </U><B> chequered, colourful, fascinating, interesting, rich </B><I>The city has a rich and colourful history. </I><B>| long </B><I>She has a long history of mental illness. </I><B>| previous, subsequent | case </B><I>She familiarized herself with the case history of her new patient. </I><B>| employment, family, life, medical, personal, sexual </B><I>The doctor will need some details of your medical history. I know nothing about his personal history. </I> </P>
+<P> <U> VERB + HISTORY </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a history of heart disease in the family </I> </P>
+<P> <SUP> 3 </SUP> <TT> sth in the past that is no longer important </TT> </P>
+<P> <U> ADJ. </U><B> past </B><I>They had an affair once, but that's past history now. </I> </P>
+</DIV>

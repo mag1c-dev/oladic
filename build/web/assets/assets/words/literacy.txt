@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>literacy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> basic </B><I>All the children are tested in basic literacy. </I><B>| adult | mass | computer </B> </P>
+<P> <U> VERB + LITERACY </U><B> achieve, acquire </B><I>different methods for acquiring literacy </I><B>| develop, promote, teach </B> </P>
+<P> <U> LITERACY + NOUN </U><B> campaign, programme</B> </P>
+</DIV>

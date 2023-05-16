@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>timetable </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> overall | detailed | strict | realistic | busy, full </B><I>a full timetable of teaching </I><B>| college, school, etc. | exam/examination | bus, train, etc. </B> </P>
+<P> <U> VERB + TIMETABLE </U><B> agree on, draw up, establish, outline, set (out) | adhere to, follow, keep to </B><I>Implementation of the reforms was kept to a very strict timetable. </I><B>| consult, look at </B> </P>
+<P> <U> PREP. </U><B> according to the ~ </B><I>According to the timetable, the bus should have come in at 9.00. </I><B>| in a/the ~ </B><I>It said in the timetable that a train was due at 5.30. </I><B>| ~ for </B><I>The delegates outlined what they considered a realistic timetable for troop withdrawal. </I> </P>
+</DIV>

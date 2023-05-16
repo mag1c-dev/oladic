@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>corruption </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gross, massive, serious | petty | endemic, rampant, rife, widespread </B><I>Corruption was rife before the election. </I><B>| high-level | alleged | financial, moral, political | official | government, police </B> </P>
+<P> <U> QUANT. </U><B> case </B> </P>
+<P> <U> VERB + CORRUPTION </U><B> attack, combat, curb, eliminate, fight, root out, stem, tackle </B><I>He strongly attacked corruption and favouritism in the government. This police unit was established to fight corruption. </I><B>| be involved in </B> </P>
+<P> <U> CORRUPTION + NOUN </U><B> scandal </B><I>She was brought down by a corruption scandal. </I><B>| allegation </B><I>The corruption allegations proved false. </I><B>| investigation </B> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>corruption among high-ranking government officials </I> </P>
+<P> <U> PHRASES </U><B> accusations/allegations of corruption, bribery and corruption </B></P>
+<a href="/collocation-tag/crimes" class="tag">Learn more about CRIMES</a>
+</DIV>

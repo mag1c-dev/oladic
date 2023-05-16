@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>invite </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> ask sb to do sth </TT> </P>
+<P> <U> ADV. </U><B> formally, officially | cordially, kindly, warmly </B><I>You are cordially invited to attend the annual parish meeting. She very kindly invited me to lunch. </I><B>| personally | along, around/round/over, back, in, out </B><I>They've invited us over for a drink. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>As a child I was allowed to play in the garden at the Manor, but I never got invited into the house. </I><B>| for </B><I>Let's invite them all for dinner. </I><B>| to </B><I>Thank you for inviting me to the meeting. </I> </P>
+<P> <SUP> 2 </SUP> <TT> encourage sth </TT> </P>
+<P> <U> ADV. </U><B> positively </B><I>The hype and fervour surrounding the event positively invited scepticism. </I> </P>
+<P> <U> VERB + INVITE </U><B> seem to </B><I>The film seems to invite comparison with &lsquo;The Italian Job&rsquo;. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>nest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> ant's, bird's, wasp's, etc. </B> </P>
+<P> <U> VERB + NEST </U><B> build, make | sit on </B><I>The male and female take turns to sit on the nest. </I><B>| fly, leave </B><I>The young ones have flown the nest. </I> </P>
+<P> <U> NEST + NOUN </U><B> site </B><I>The male uses song to attract a female to his nest site. </I><B>| hole </B> </P>
+<P> <U> PREP. </U><B> away from a/the ~ </B><I>A rat took the egg while the mother was away from the nest. </I><B>| in/inside a/the ~ </B><I>The snake will attack if disturbed inside its nest. </I><B>| on a/the ~ </B><I>The female spends all her time on the nest. </I> </P>
+</DIV>

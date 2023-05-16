@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>inflate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully | partially </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The balloon was kept fully inflated with hydrogen. </I> </P>
+</DIV>

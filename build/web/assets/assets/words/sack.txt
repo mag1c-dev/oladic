@@ -1,0 +1,10 @@
+
+<div class="item"><p class="word first"><b>sack </b><i>noun </i> </p>
+<p> <sup> 1 </sup> <tt> large bag </tt> </p>
+<p> <u> ADJ. </u><div class="ex"><b> bulging </b></div><div class="excontent"><i>bulging sacks of toys </i></div><div class="ex"><b>| hessian, paper, plastic, stuff | flour, mail, potato, refuse </b></div></p>
+<p> <u> VERB + SACK </u><div class="ex"><b> fill </b></div><div class="excontent"><i>They filled the sacks with potatoes. </i></div><div class="ex"><b>| put sth in, tie sb/sth (up) in </b></div><div class="excontent"><i>The kittens had been tied up in a sack and thrown in the river. </i></div><div class="ex"><b>| empty | carry (sth in) </b></div></p>
+<p> <u> SACK + VERB </u><div class="ex"><b> be filled with sth, be full of sth </b></div></p>
+<p> <u> PREP. </u><div class="ex"><b> in a/the ~ | ~ of </b></div><div class="excontent"><i>a sack of coal </i></div></p>
+<p> <sup> 2 </sup> <tt> the sack: dismissal from your job  </tt> </p>
+<p> <u> VERB + SACK </u><div class="ex"><b> get </b></div><div class="excontent"><i>She got the sack after 20 years of service. </i></div><div class="ex"><b>| give sb | be threatened with, face </b></div><div class="excontent"><i>Hundreds of postal workers are facing the sack. </i> </div></p>
+</div>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>normal </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem | become | consider sth, regard sth as, view sth as </B><I>It is now regarded as normal for women to work outside the home. </I> </P>
+<P> <U> ADV. </U><B> very | completely, perfectly, quite </B><I>It started out as a perfectly normal day. </I><B>| fairly, near, pretty </B><I>I'd say it was pretty normal to be upset if your house burned down. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The temperature is near normal for spring. </I> </P>
+<P> <U> PHRASES </U><B> as normal </B><I>First work out the answers as normal. </I><B>| in the normal way </B><I>Go for your check-ups in the normal way until you are six months pregnant. </I><B>| in/under normal circumstances </B><I>Under normal circumstances Martin would probably have gone to university. </I><B>| sb's normal self </B><I>Mandy doesn't seem her normal self today. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>normal </B><I>noun </I> </P>
+<P> <U> VERB + NORMAL </U><B> be/go back to, return to </B><I>After a week of festivities, life returned to normal. </I> </P>
+<P> <U> PREP. </U><B> above ~ </B><I>The rainfall has been above normal for the time of year. </I><B>| below ~ </B><I>Sales to December are well below normal. </I><B>| near ~ </B><I>His pulse rate had slowed to somewhere near normal. </I> </P>
+</DIV>

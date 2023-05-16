@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>origin </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> time/place/reason that sth starts </TT> </P>
+<P> <U> ADJ. </U><B> common | doubtful, obscure, unknown </B><I>a letter of doubtful origin </I><B>| true | ancient, early, primitive | recent </B><I>The term &lsquo;black hole&rsquo; is of very recent origin. </I><B>| immediate </B><I>The development had its immediate origins in discussions with management. </I><B>| African, English, etc. | foreign | local | mixed | natural | supernatural | environmental, geographical, historical, intellectual | animal, human, mineral, plant, vegetable </B><I>foods of animal origin We shouldn't forget our animal origins. </I> </P>
+<P> <U> VERB + ORIGIN </U><B> have, share </B><I>The vases share common origins. </I><B>| investigate, trace | owe </B><I>Population genetics owes its origin to Francis Galton. </I><B>| explain | reflect </B> </P>
+<P> <U> ORIGIN + VERB </U><B> go back to sth, lie in sth </B><I>The origins of Gdansk go back to the tenth century. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The rock is volcanic in origin. </I><B>| of &hellip; ~ </B><I>a painting of unknown origin </I> </P>
+<P> <U> PHRASES </U><B> sth's country of origin </B><I>Bottles are labelled by country of origin. </I><B>| have its origin in sth </B><I>The dispute had its origin in the Battle of Wakefield. </I> </P>
+<P> <SUP> 2 </SUP> <TT> family, race, class, etc, that a person comes from </TT> </P>
+<P> <U> ADJ. </U><B> African, English, etc. | foreign | mixed | class, ethnic, national, racial, social | middle-class, noble, peasant, slave, working-class | humble, lowly </B><I>He had risen from humble origins through hard work. </I> </P>
+<P> <U> VERB + ORIGIN </U><B> trace </B><I>Their family can trace its origins back to the Norman Conquest. </I><B>| betray </B><I>Her accent betrayed her working-class origins. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>He is a Londoner by origin. </I><B>| in ~ </B><I>Her family is Portuguese in origin. </I><B>| of &hellip; ~ </B><I>He was of lowly origins. </I> </P>
+<P> <U> PHRASES </U><B> sb's country of origin</B> </P>
+</DIV>

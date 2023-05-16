@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>bad </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not good; serious </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound | become, get </B><I>The weather got very bad later in the day. </I> </P>
+<P> <U> ADV. </U><B> extremely, really, very | enough </B><I>Things are bad enough without our own guns shelling us. </I><B>| fairly, pretty, quite, rather </B><I>John's in a pretty bad mood this morning. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He's really bad at maths. </I><B>| for </B><I>Smoking is very bad for you. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not safe to eat </TT> </P>
+<P> <U> VERBS </U><B> be, look, smell, taste </B><I>The sausages tasted bad. </I><B>| go, turn </B><I>This meat has gone bad. </I> </P>
+<P> <SUP> 3 </SUP> <TT> guilty/sorry </TT> </P>
+<P> <U> VERBS </U><B> feel </B> </P>
+<P> <U> ADV. </U><B> really, very | enough </B><I>I feel bad enough without you constantly telling me how it was all my fault! </I><B>| fairly, pretty, quite, rather </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She felt pretty bad about leaving him. </I> </P>
+</DIV>

@@ -1,0 +1,42 @@
+
+<DIV class="item"><P class="word"><B>case </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> example </TT> </P>
+<P> <U> ADJ. </U><B> classic, textbook, typical | clear, obvious, simple </B><I>It was a simple case of mistaken identity. </I><B>| borderline </B><I>After the exams, the teacher gave all borderline cases a spoken test. </I><B>| extreme | isolated, rare </B><I>Except in a few rare cases, bee stings are not dangerous. </I><B>| exceptional, special | striking </B> </P>
+<P> <U> VERB + CASE </U><B> highlight, illustrate, show </B><I>He highlighted the case of Harry Farr, 25, who was executed for cowardice in 1916. </I> </P>
+<P> <U> CASE + VERB </U><B> arise, occur </B><I>The committee has full powers to deal with any cases of malpractice that arise. </I> </P>
+<P> <U> CASE + NOUN </U><B> study </B><I>a case study of an Amazonian tribe </I><B>| example </B> </P>
+<P> <U> PREP. </U><B> in sb's/this ~ </B><I>In her case, she failed the exam because she wasn't well. </I><B>| ~ of </B><I>a case of animal cruelty </I> </P>
+<P> <U> PHRASES </U><B> case by case/on a case by case basis </B><I>Complaints are dealt with on a case by case basis. </I><B>| a case in point </B><I>Many professions feel they deserve higher pay, and nurses are a case in point. </I> </P>
+<P> <SUP> 2 </SUP> <TT> true situation </TT> </P>
+<P> <U> VERB + CASE </U><B> be, remain </B><I>It remains the case that not enough graduates are going into teaching. </I><B>| overstate, understate </B><I>I agree with him, but don't you think he slightly overstates the case? </I> </P>
+<P> <SUP> 3 </SUP> <TT> of a disease </TT> </P>
+<P> <U> ADJ. </U><B> acute, chronic | advanced, serious, severe | mild </B> </P>
+<P> <U> CASE + NOUN </U><B> history </B><I>Medical students study the case histories of many patients. </I><B>| file, notes, records, report </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a severe case of food poisoning </I> </P>
+<P> <SUP> 4 </SUP> <TT> police investigation </TT> </P>
+<P> <U> ADJ. </U><B> notorious </B><I>the notorious case of the Botley strangler </I><B>| tragic | murder, robbery </B> </P>
+<P> <U> VERB + CASE </U><B> investigate, work on </B><I>Four police officers are investigating the case. </I><B>| crack, solve </B><I>They never solved the Jones murder case. </I> </P>
+<P> <U> CASE + NOUN </U><B> officer </B><I>Carter was the senior case officer on the investigation. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>A detective is on the case at the moment. </I><B>| ~ of </B><I>a case of theft </I> </P>
+<P> <SUP> 5 </SUP> <TT> in a court of law </TT> </P>
+<P> <U> ADJ. </U><B> court | criminal | civil | test </B><I>This is a test case which will influence what other judges decide. </I><B>| divorce </B> </P>
+<P> <U> VERB + CASE </U><B> bring </B><I>The victim decided to bring a case of rape against him. </I><B>| handle </B><I>This was the hardest case she had handled since becoming a lawyer. </I><B>| consider, hear, try </B><I>The court will consider the case soon. The case will be heard in the Court of Appeal. </I><B>| adjourn | dismiss, throw out </B><I>The case was thrown out for lack of evidence. </I><B>| drop </B><I>The prosecution decided to drop the case. </I><B>| decide, settle </B><I>The case was settled out of court. </I><B>| win | lose | review </B> </P>
+<P> <U> CASE + VERB </U><B> come before sb, come to court, go to court, go to trial </B><I>The case came before Judge Hales in the Crown Court. He was so clearly innocent, the case should never have gone to court. </I><B>| collapse </B><I>The case against her collapsed when a key witness was proved to have lied. </I><B>| centre on sth, hinge on sth, rest on sth, turn on sth </B><I>The case hinged on the evidence of the only witness to the killing. </I><B>| raise sth </B><I>The case raises a number of issues. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the evidence in the case </I><B>| ~ against </B><I>The case against her was very weak. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> a/no case to answer </B><I>The judge ruled that the defendant had no case to answer, as the evidence had been discredited. </I><B>| the circumstances/facts of a case </B> </P>
+<P> <SUP> 6 </SUP> <TT> arguments </TT> </P>
+<P> <U> ADJ. </U><B> convincing, good, powerful, strong | open-and-shut, unanswerable </B><I>With his current superb form, he presents an unanswerable case for selection in the team. </I><B>| weak | defence, prosecution/prosecution's </B> </P>
+<P> <U> VERB + CASE </U><B> have </B><I>Our lawyer didn't think we had a case </I>(= had enough good arguments to win in a court of law)</B><I>. </I><B>| prepare </B><I>The defendant requested more time to prepare his case. </I><B>| outline, set out | deliver, make (out), present, put, state </B><I>You can make out a case for changing our teaching methods. </I><B>| argue, plead </B><I>I thought she argued her case very well. </I><B>| take up </B><I>The local MP has taken up the case of the family of six who have been left homeless. </I><B>| judge </B><I>The teacher must judge each case according to its merits. </I><B>| bolster, help, support </B><I>What evidence do you have to support your case? </I><B>| weaken </B> </P>
+<P> <U> CASE + VERB </U><B> exist </B><I>A strong cas</I>e </B><I>exists for adopting a simila</I>r </B><I>system in this country</I>. </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>Is there a case against wearing school uniforms? </I><B>| ~ for </B> </P>
+<P> <U> PHRASES </U><B> the case for the defence/prosecution, the merits of a case </B><I>The disciplinary committee considered the merits of his case before fining him. </I> </P>
+<P> <SUP> 7 </SUP> <TT> container </TT> </P>
+<P> <U> ADJ. </U><B> display </B><I>She kept all her trophies in a display case. </I><B>| presentation </B><I>a gold wristwatch in a presentation case </I><B>| carrying </B><I>He put the binoculars back in their carrying case. </I><B>| packing | glass </B><I>The room was full of stuffed animals in glass cases. </I><B>| cigarette, glasses, jewellery, pencil, pillow | guitar, violin, etc. </B> </P>
+<P> <U> PREP. </U><B> in/inside a/the ~, out of a/the ~ </B> </P>
+<P> <SUP> 8 </SUP> <TT> suitcase </TT> </P>
+<P> <U> ADJ. </U><B> attache | overnight </B>&gt; See <A HREF="suitcase_noun.htm">SUITCASE</A> (for other collocates with case) </P>
+<P> <SUP> 9 </SUP> <TT> grammar </TT> </P>
+<P> <U> ADJ. </U><B> ablative, accusative, dative, genitive, instrumental, locative, nominative, vocative </B> </P>
+<P> <U> VERB + CASE </U><B> take </B><I>In Polish the verb &lsquo;to be&rsquo; takes the instrumental case. </I> </P>
+<P> <U> CASE + NOUN </U><B> ending</B> </P>
+</DIV>

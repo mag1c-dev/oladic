@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>folly </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lack of good judgement </TT> </P>
+<P> <U> ADJ. </U><B> absolute, sheer | ultimate | youthful | human | economic, political </B> </P>
+<P> <U> VERB + FOLLY </U><B> realize, recognize, see </B><I>Suddenly she saw the folly of it all. </I><B>| demonstrate, show </B><I>These facts demonstrate the folly of the policy. </I><B>| underline </B> </P>
+<P> <U> PHRASES </U><B> an act of folly </B><I>That would be an act of sheer folly! </I><B>| the folly of your ways </B><I>They have finally seen the folly of their ways. </I><B>| the height of folly </B><I>To sign away his rights to the book would have been the height of folly. </I> </P>
+<P> <SUP> 2 </SUP> <TT> building </TT> </P>
+<P> <U> ADJ. </U><B> Gothic, Victorian | monumental | architectural </B> </P>
+<P> <U> VERB + FOLLY </U><B> build</B> </P>
+</DIV>

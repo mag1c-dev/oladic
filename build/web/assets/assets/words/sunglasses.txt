@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>sunglasses </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clip-on | wrap-around | mirror, mirrored, reflecting | designer </B> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + SUNGLASSES </U><B> have on, wear | put on, take off | adjust </B> </P>
+<P> <U> SUNGLASSES + VERB </U><B> be perched on sth, perch on sth </B><I>Her sunglasses were perched on her head. </I> </P>
+<P> <U> PREP. </U><B> behind your ~ </B><I>She observed the goings-on from behind her mirrored sunglasses. </I> </P>
+</DIV>

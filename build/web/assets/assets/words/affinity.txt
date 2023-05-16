@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>affinity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> strong feeling that you like/understand sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> close, great, natural, real, special, strong </B><I>I felt a great affinity with the people of the Highlands. </I><B>| natural </B><I>He has a natural affinity with numbers. </I> </P>
+<P> <U> VERB + AFFINITY </U><B> feel, have, share </B><I>It's important that you share an affinity with your husband. </I><B>| display, show </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>an affinity between the two women </I><B>| ~ for </B><I>Many girls do show an affinity for craft skills. </I><B>| ~ towards </B><I>Jo feels a great affinity towards Pamela. </I><B>| ~ with </B><I>an affinity with animals </I> </P>
+<P> <SUP> 2 </SUP> <TT> similar quality in two or more people/things </TT> </P>
+<P> <U> ADJ. </U><B> close, great </B> </P>
+<P> <U> QUANT. </U><B> degree, level </B> </P>
+<P> <U> VERB + AFFINITY </U><B> have </B><I>A house design should have some affinity with the surrounding architecture. </I><B>| show </B><I>In his poems he showed some affinity with Coleridge. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>There is a close affinity between these two species. </I><B>| ~ with </B><I>an affinity with earlier poets </I> </P>
+</DIV>

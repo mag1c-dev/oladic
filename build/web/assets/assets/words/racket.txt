@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>racket </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> noise </TT> </P>
+<P> <U> ADJ. </U><B> appalling, frightful, hellish, terrible </B> </P>
+<P> <U> VERB + RACKET </U><B> make </B><I>Do you kids have to make such a terrible racket? </I> </P>
+<P> <U> PREP. </U><B> above/over the ~ </B><I>He had to shout over the racket. </I> </P>
+<P> <SUP> 2 </SUP> <TT> illegal way of making money </TT> </P>
+<P> <U> ADJ. </U><B> drugs, extortion, protection, smuggling </B> </P>
+<P> <U> VERB + RACKET </U><B> set up </B><I>He set up a protection racket and demanded thousands of pounds from local shopkeepers. </I><B>| control, operate, run | be involved in </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the other people in this racket </I><B>| ~ in </B><I>a racket in stolen goods </I> </P>
+</DIV>

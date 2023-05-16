@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>crossing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> journey across a stretch of water </TT> </P>
+<P> <U> ADJ. </U><B> rough | smooth | ferry </B><I>The price includes accommodation and ferry crossing. </I><B>| river, sea | Atlantic, Channel, etc. </B> </P>
+<P> <U> VERB + CROSSING </U><B> make </B><I>You can only make the crossing in good weather. </I> </P>
+<P> <U> PREP. </U><B> during a/the ~ </B><I>We discussed our plans during the crossing. </I><B>| ~ from, ~ to </B><I>a very rough crossing from England to Ireland </I> </P>
+<P> <SUP> 2 </SUP> <TT> place where you can cross sth </TT> </P>
+<P> <U> ADJ. </U><B> border | level </B>(= over a railway) <B>| pedestrian, pelican, zebra (These are all places where people walking can cross a road.)  </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>They were stopped and searched at the border crossing. </I><B>| on a/the ~ </B><I>A passenger train smashed into a truck on a level crossing. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>checkpoint </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> border | army, military | vehicle </B> </P>
+<P> <U> VERB + CHECKPOINT </U><B> set up </B><I>The army has set up checkpoints on all the major roads in the area. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We were stopped at the checkpoint. </I><B>| through a/the ~ </B><I>The police waved our car through the border checkpoint. </I> </P>
+</DIV>

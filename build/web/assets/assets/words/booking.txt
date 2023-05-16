@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>booking </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> advance, early | late | priority | double </B>(= two bookings for the same time) <B>| block </B>(= a large number of seats booked together) <B>| postal, telephone </B> </P>
+<P> <U> VERB + BOOKING </U><B> make </B><I>I made the booking through a travel agent. </I><B>| cancel | confirm | change | accept, take </B><I>We accept both telephone and postal bookings. </I> </P>
+<P> <U> BOOKING + NOUN </U><B> fee, form, system | office | clerk </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a booking for the Saturday performance </I> </P>
+</DIV>

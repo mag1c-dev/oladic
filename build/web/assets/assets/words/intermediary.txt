@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>intermediary </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> financial </B> </P>
+<P> <U> VERB + INTERMEDIARY </U><B> act as </B> </P>
+<P> <U> PREP. </U><B> through an ~ </B><I>They were approached indirectly through an intermediary. </I><B>| via an ~ </B><I>The product is then sold to the end-user via an intermediary. </I><B>| ~ between </B><I>She agreed to act as intermediary between the two tribes. </I> </P>
+</DIV>

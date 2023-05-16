@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>pool </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> swimming pool, etc. </TT> </P>
+<P> <U> ADJ. </U><B> paddling, swimming | birthing </B><I>babies born in birthing pools </I><B>| big | little, small | deep | empty | indoor | open-air, outdoor | heated | inflatable </B><I>We gave the children an inflatable paddling pool for Christmas. </I> </P>
+<P> <U> VERB + POOL </U><B> swim in | dive/jump/plunge into </B> </P>
+<P> <U> POOL + NOUN </U><B> attendant </B> </P>
+<P> <U> PHRASES </U><B> the bottom/edge/middle/side of the pool, a length of the pool </B><I>He swam three lengths of the pool. </I> </P>
+<P> <SUP> 2 </SUP> <TT> small shallow area of water </TT> </P>
+<P> <U> ADJ. </U><B> big, large | little, small | deep | shallow | stagnant, still | freshwater, salt-water | muddy | rock | ornamental </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The children waded in the shallow rock pools. </I><B>| ~ of </B><I>pools of water </I> </P>
+<P> <SUP> 3 </SUP> <TT> small area of liquid/light </TT> </P>
+<P> <U> ADJ. </U><B> big | little, small | dark | mud </B> </P>
+<P> <U> VERB + POOL </U><B> lie in </B><I>The body lay in a dark pool of blood. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>animals wallowing in the mud pools </I><B>| ~ of </B><I>pools of light </I> </P>
+<P> <SUP> 4 </SUP> <TT> supply of sth </TT> </P>
+<P> <U> ADJ. </U><B> big, huge, large | small | common </B><I>drawing on funds from a common pool </I><B>| car, labour, typing </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a large pool of cheap labour </I> </P>
+</DIV>

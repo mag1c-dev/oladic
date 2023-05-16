@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>reconciliation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> ending a disagreement/conflict </TT> </P>
+<P> <U> ADJ. </U><B> full | lasting | national, personal, political </B> </P>
+<P> <U> VERB + RECONCILIATION </U><B> seek </B><I>He sought reconciliation with those he had stolen from. </I><B>| attempt | achieve, bring about, effect, make, secure | promote, work for | call for </B><I>The rebel leader called for reconciliation with the armed forces. </I> </P>
+<P> <U> RECONCILIATION + NOUN </U><B> agreement | talks </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>They aimed to secure a lasting reconciliation between the two countries. </I><B>| ~ with </B><I>She attempted reconciliation with her estranged brother. </I> </P>
+<P> <U> PHRASES </U><B> an attempt at reconciliation, efforts at/towards reconciliation, a gesture of reconciliation </B><I>In a bold gesture of reconciliation, the government released the rebel leader. </I><B>| a mood/spirit of reconciliation, a policy of reconciliation</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>fortress </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great | formidable, impregnable, strong | grim </B> </P>
+<P> <U> VERB + FORTRESS </U><B> attack, besiege, lay siege to | take </B><I>Greek warriors took the fortress with little effort. </I><B>| hold, occupy </B> </P>
+<P> <U> FORTRESS + VERB </U><B> be/come under attack, be/come under siege | fall </B><I>The fortress fell after a nine-day siege. </I> </P>
+<P> <U> FORTRESS + NOUN </U><B> town </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>They took refuge in the fortress. </I> </P>
+</DIV>

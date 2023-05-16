@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>establishment </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of starting sth </TT> </P>
+<P> <U> ADJ. </U><B> formal </B><I>the formal establishment of the republic in 1948 </I><B>| gradual, rapid </B> </P>
+<P> <U> VERB + ESTABLISHMENT </U><B> call for, support </B><I>Opposition MPs are calling for the establishment of an independent food and drugs agency. </I><B>| agree to, consent to | lead to </B><I>This report led to the establishment of a special committee to investigate the matter. </I><B>| allow (for), enable, provide for </B><I>a law allowing the establishment of private television stations </I><B>| announce | see </B><I>The months that followed saw the establishment of a strong military presence in the region. </I> </P>
+<P> <U> PREP. </U><B> with the ~ of </B><I>With the establishment of major new markets, the economy is thriving. </I> </P>
+<P> <SUP> 2 </SUP> <TT> the establishment: people in positions of power  </TT> </P>
+<P> <U> ADJ. </U><B> academic, art, literary, medical, musical, political, religious, scientific | British, French, etc. </B><I>The British Establishment is very slow to accept change. </I> </P>
+<P> <U> VERB + ESTABLISHMENT </U><B> offend </B><I>His abstract paintings offended the art establishment. </I> </P>
+<P> <SUP> 3 </SUP> <TT> shop/business/organization </TT> </P>
+<P> <U> ADJ. </U><B> catering, educational, military, research, training </B><I>She's now running a small government research establishment. </I></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+</DIV>

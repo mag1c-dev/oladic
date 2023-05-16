@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>libel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> alleged | criminal, seditious </B> </P>
+<P> <U> VERB + LIBEL </U><B> sue (sb) for | claim | deny </B> </P>
+<P> <U> LIBEL + NOUN </U><B> action, case, proceedings, suit | writ | law, lawyer | damages </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>He has issued a writ for libel against the radio star Michael Clery. </I></P>
+<a href="/collocation-tag/crimes" class="tag">Learn more about CRIMES</a>
+</DIV>

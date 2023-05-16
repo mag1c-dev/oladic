@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>tumour </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> cancerous | malignant | benign | primary | brain, breast, kidney, etc. </B> </P>
+<P> <U> VERB + TUMOUR </U><B> diagnose | remove </B> </P>
+<P> <U> TUMOUR + NOUN </U><B> cell, tissue | formation, growth | virus </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a primary tumour in the breast </I><B>| ~ on </B><I>a malignant tumour on the eyelid </I> </P>
+</DIV>

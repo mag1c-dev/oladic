@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>inconsistent </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> appear, be, seem </B> </P>
+<P> <U> ADV. </U><B> highly, very | quite, totally, wholly | not necessarily | rather, somewhat | apparently | clearly, plainly | internally, logically </B><I>Her argument is internally inconsistent. </I><B>| mutually </B><I>The two accounts are mutually inconsistent. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>The company is inconsistent in the way it disciplines staff. </I><B>| with </B><I>His statement was inconsistent with other accounts of the events. </I> </P>
+</DIV>

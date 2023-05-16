@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>sound </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> in good condition </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, very | fairly, pretty, quite, reasonably </B><I>That seems like fairly sound advice. </I><B>| structurally </B><I>Is the building structurally sound? </I> </P>
+<P> <U> PHRASES </U><B> safe and sound </B>(= not hurt) <I>We arrived home safe and sound. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sensible </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, perfectly </B><I>She had a perfectly sound reason for acting as she did. </I><B>| fairly, pretty, reasonably | basically, fundamentally | commercially, ecologically, environmentally, financially, ideologically, theoretically </B><I>It was a financially sound investment. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sound </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth you hear </TT> </P>
+<P> <U> ADJ. </U><B> big, deafening, loud, powerful </B><I>We need a big powerful sound from the trumpets in the final passage. </I><B>| audible | faint, little, soft | high | deep, low | clean, clear, sharp </B><I>He produces a good clean sound on his flute. </I><B>| piercing | muffled | amazing, beautiful, good, lovely, pleasing | awful, horrible, sickening </B><I>There was a sickening sound as his head made contact with the concrete. </I><B>| familiar, strange | distinctive | haunting | booming, buzzing, clanking, etc. | metallic | hollow | distorted | distant </B><I>the distant sound of church bells </I><B>| guitar, piano, etc. </B><I>She tried to describe what made a good guitar sound. </I><B>| speech, vowel </B> </P>
+<P> <U> VERB + SOUND </U><B> hear | emit, make, produce, pronounce, transmit, utter </B><I>What's making that awful creaking sound? Three bones transmit sounds to the inner ear. He didn't utter a single sound throughout the meeting. </I> </P>
+<P> <U> SOUND + VERB </U><B> carry, travel </B><I>Sound carries well over calm water. </I><B>| come </B><I>A strange sound came from the box. </I><B>| echo | die away </B> </P>
+<P> <U> SOUND + NOUN </U><B> wave | effect | bite </B><I>As a politician he is a master of the 30-second sound bite. </I> </P>
+<P> <U> PREP. </U><B> at the ~ of </B><I>He turned around at the sound of footsteps behind him. </I><B>| without a ~ </B><I>The door opened without a sound. </I><B>| ~ of </B><I>the sound of breaking glass </I><B>| ~ from </B><I>There was a strange sound from downstairs. </I> </P>
+<P> <U> PHRASES </U><B> the speed of sound 2 the sound </B>from television/radio, etc. </B> </P>
+<P> <U> ADJ. </U><B> recorded | mono, stereo </B> </P>
+<P> <U> VERB + SOUND </U><B> turn down/up </B><I>Can you turn the sound up? </I> </P>
+<P> <U> SOUND + NOUN </U><B> level, quality | system </B><I>a stereo sound system </I><B>| recording | recorder | engineer </B></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+</DIV>

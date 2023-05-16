@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>song </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of music with words </TT> </P>
+<P> <U> ADJ. </U><B> beautiful, good, great, lovely | catchy | mournful, sad | country, folk, pop/popular, traditional </B><I>a Hungarian folk song </I><B>| bawdy, children's, drinking, love, patriotic, protest, religious </B><I>After a few drinks, they were all singing bawdy songs at the top of their voices. a protest song written in the sixties </I><B>| theme, title </B><I>the theme song from &lsquo;The Godfather&rsquo; the title song from the Beatles' album &lsquo;Help!&rsquo; </I> </P>
+<P> <U> VERB + SONG </U><B> compose, write | do, perform, play, sing </B><I>They performed another two songs as encores. Sing us a song, Susanna! </I><B>| record </B> </P>
+<P> <U> SONG + NOUN </U><B> writer (also songwriter) </B><I>a singer-songwriter </I><B>| contest </B> </P>
+<P> <U> PREP. </U><B> in (a/the) ~ </B><I>Important historical events were commemorated in song. </I><B>| ~ about </B><I>a song about love </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of singing </TT> </P>
+<P> <U> VERB + SONG </U><B> break into, burst into </B><I>He strummed a couple of chords on the guitar and they all burst into song. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He heard voices raised in song. </I> </P>
+</DIV>

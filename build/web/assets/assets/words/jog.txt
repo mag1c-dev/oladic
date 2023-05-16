@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>jog </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> brisk | slow </B> </P>
+<P> <U> VERB + JOG </U><B> go for </B><I>He goes for a brisk jog before work each morning. </I> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>I began at a slow jog and gradually increased my pace. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>jog </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> slowly, steadily </B> </P>
+<P> <U> PREP. </U><B> along, down, up </B><I>They jogged steadily up the hill. </I> </P>
+<P> <U> PHRASES </U><B> go jogging </B><I>She decided to go jogging each morning. </I><B>| jog on the spot </B><I>She was jogging on the spot to keep warm. </I> </P>
+</DIV>

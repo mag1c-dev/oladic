@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>wealth </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money, property, etc. </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, untold, vast | growing, increasing | economic, financial, material, mineral, natural </B><I>The country's strong economy was built on its mineral wealth. The region possesses a vast natural wealth, particularly of timber. </I><B>| national, personal, private </B> </P>
+<P> <U> VERB + WEALTH </U><B> have, possess | accumulate, acquire, inherit | lose </B><I>He lost his wealth through poor investment. </I><B>| create </B> </P>
+<P> <U> PHRASES </U><B> a distribution/redistribution of wealth </B><I>a redistribution of wealth through taxation </I></P>
+<P> <SUP> 2 </SUP> <TT> a wealth of: a lot of  </TT> </P>
+<P> <U> ADJ. </U><B> enormous, whole </B> </P>
+<P> <U> VERB + WEALTH </U><B> have </B><I>Switzerland has an enormous wealth of beautiful old buildings. </I> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>She is a woman of untold wealth. </I> </P>
+</DIV>

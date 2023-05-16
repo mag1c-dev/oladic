@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>rush </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sudden quick movement </TT> </P>
+<P> <U> ADJ. </U><B> headlong, sudden </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The film ended, and there was a rush for the exits. </I><B>| ~ of </B><I>A rush of water came from the burst pipe. </I> </P>
+<P> <SUP> 2 </SUP> <TT> busy period </TT> </P>
+<P> <U> ADJ. </U><B> awful, great, mad, tearing | sudden | last-minute | Christmas </B> </P>
+<P> <U> RUSH + NOUN </U><B> decision | job </B><I>You can see that the painting was a rush job. </I><B>| hour </B><I>During the rush hour the journey may take up to twice as long. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>I've been in a mad rush all day. </I><B>| ~ for </B><I>a last-minute rush for tickets </I><B>| ~ of </B><I>a sudden rush of tourist traffic </I> </P>
+<P> <U> PHRASES </U><B> have a rush on </B><I>We've had a rush on at the office, dealing with the backlog of orders. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rush </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> headlong, madly </B><I>a train rushing headlong down the track </I><B>| immediately | suddenly | about, around, back, home, in, off, out, over, past </B><I>She was rushing around madly looking for her bag. </I> </P>
+<P> <U> PREP. </U><B> along, from, into, out of, through, to, etc. </B><I>A surge of joy rushed through her body. He was rushed to hospital. </I> </P>
+<P> <U> PHRASES </U><B> come/go rushing </B><I>Two men came rushing into the room. </I><B>| rush to sb's/the rescue </B><I>Whenever her little brother was upset, Jane rushed to the rescue. </I> </P>
+</DIV>

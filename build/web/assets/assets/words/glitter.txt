@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>glitter </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> shine brightly </TT> </P>
+<P> <U> ADV. </U><B> brightly </B><I>Crystal chandeliers glittered brightly above them. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>His metal buttons glittered in the sunlight. </I><B>| with </B><I>Trees and grass glittered with dew. </I> </P>
+<P> <SUP> 2 </SUP> <TT> show emotion </TT> </P>
+<P> <U> ADV. </U><B> coldly, dangerously, darkly, fiercely, strangely </B><I>His deep-set eyes glittered coldly. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>Her eyes glittered with delight. </I> </P>
+</DIV>

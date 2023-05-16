@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>brake </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> defective, faulty | front, rear | foot, hand | air, anti-lock, disc, drum, vacuum </B> </P>
+<P> <U> VERB + BRAKE </U><B> apply, hit, jam on, put/slam your foot on, put on, slam on </B><I>She slammed on the brakes to try to avoid the dog. </I><B>| keep your foot on | let off, release, take your foot off </B><I>He released the brake and sped off. </I> </P>
+<P> <U> BRAKE + VERB </U><B> work </B><I>My brakes are not working properly. </I><B>| fail </B><I>The car crashed after its brakes failed. </I><B>| screech, squeal | be on/off </B><I>Is the brake on? </I> </P>
+<P> <U> BRAKE + NOUN </U><B> failure | cable, fluid, lights, pads, pedal, pipes </B> </P>
+<P> <U> PHRASES </U><B> act/serve as a brake on sth </B><I>(figurative)</I>, <B>put a brake/the brakes on sth </B><I>(figurative) The need to earn some money put the brakes on my wilder ambitions. </I><B>| a screech/squeal of brakes </B><I>We heard the screech of brakes, followed by a loud crash. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>brake </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard, heavily, sharply, suddenly, violently </B> </P>
+<P> <U> PHRASES </U><B> brake to a halt </B><I>The train braked to a shuddering halt. </I><B>| brake to avoid sth </B><I>She braked suddenly to avoid a cat. </I> </P>
+</DIV>

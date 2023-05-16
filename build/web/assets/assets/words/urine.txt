@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>urine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> stale </B><I>I gagged on the stench of stale urine. </I> </P>
+<P> <U> QUANT. </U><B> drop, stream </B> </P>
+<P> <U> VERB + URINE </U><B> pass | leak </B><I>He said he leaked urine when he coughed. </I> </P>
+<P> <U> URINE + NOUN </U><B> sample, specimen | analysis, test, testing | output, production, volume | retention | flow | infection </B> </P>
+<P> <U> PREP. </U><B> in (the/your) ~ </B><I>sugars in urine </I> </P>
+<P> <U> PHRASES </U><B> a smell/stench of urine</B> </P>
+</DIV>

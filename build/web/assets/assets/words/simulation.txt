@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>simulation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> computer, electronic, laboratory, real-time, virtual reality | accident, flight </B> </P>
+<P> <U> VERB + SIMULATION </U><B> carry out, run </B><I>To test the model under different conditions, it is necessary to run simulations on a computer. </I> </P>
+<P> <U> SIMULATION + VERB </U><B> indicate sth, show sth </B> </P>
+<P> <U> SIMULATION + NOUN </U><B> model </B><I>using simulation models to predict earthquake patterns </I><B>| program | techniques | exercise, experiment | game </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the basic steps in the simulation </I><B>| through </B><I>The pilot's skills are tested through simulation. </I><B>| ~ of </B><I>a virtual reality simulation of a moon landing </I> </P>
+</DIV>

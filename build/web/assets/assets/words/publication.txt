@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>publication </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a book, etc. </TT> </P>
+<P> <U> VERB + PUBLICATION </U><B> begin | cease, stop | prepare sth for | be due/scheduled for </B><I>The book is scheduled for publication in the autumn. </I><B>| accept sth for </B> </P>
+<P> <U> PUBLICATION + VERB </U><B> be due/scheduled </B><I>The publication of her memoirs is scheduled for the autumn. </I> </P>
+<P> <U> PUBLICATION + NOUN </U><B> date </B> </P>
+<P> <U> PHRASES </U><B> the date/time of publication </B> </P>
+<P> <SUP> 2 </SUP> <TT> book, magazine, etc. </TT> </P>
+<P> <U> ADJ. </U><B> new, recent | forthcoming | leading, major | sister </B><I>&lsquo;This Week&rsquo;'s German sister publication, &lsquo;Diese Woche&rsquo;, went out of business. </I><B>| government, official | specialist | academic, business, scientific, trade </B> </P>
+<P> <U> PUBLICATION + NOUN </U><B> publications catalogue/list </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>specialist publications about bees </I><B>| ~ on </B><I>She has several publications to her name on local history. </I> </P>
+</DIV>

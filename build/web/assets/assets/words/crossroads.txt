@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>crossroads </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place where two roads cross </TT> </P>
+<P> <U> VERB + CROSSROADS </U><B> come to </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>Turn right at the next crossroads. </I> </P>
+<P> <SUP> 2 </SUP> <TT> important point in your life/career, etc. </TT> </P>
+<P> <U> ADJ. </U><B> important | historic </B> </P>
+<P> <U> VERB + CROSSROADS </U><B> stand at | reach </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We are standing at an important crossroads in the history of Europe. </I><B>| ~ in </B><I>He had reached a crossroads in his career. </I> </P>
+</DIV>

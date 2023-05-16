@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>tour </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> journey </B> </TT> </P>
+<P> <U> ADJ. </U><B> foreign, international, national, nationwide, overseas, provincial, world | American, UK, etc. | two-city, three-country, etc. </B><I>The group will shortly go on a ten-city European tour. </I><B>| whirlwind, whistle-stop </B><I>The president embarked on a whirlwind tour of the provinces. </I><B>| comprehensive, gruelling, lengthy, long, marathon | two-week, three-week, etc. | official </B><I>the prime minister's first official overseas tour </I><B>| grand </B><I>He took his degree in 1665 before embarking on the grand tour </I>(= a tour of Europe lasting several months)</B><I>. </I><B>| inclusive, package </B><I>an all-inclusive package tour of Austria </I><B>| mystery </B><I>(often humorous) We reboarded the coach and set off on a magical mystery tour in search of tea. </I><B>| coach, cycle, rail, walking | camping | cricket, rugby, etc. | concert, lecture, speaking, study, theatre | sell-out, successful </B><I>The band is just back from a sell-out European tour. </I> </P>
+<P> <U> VERB + TOUR </U><B> do, go on, make, undertake | embark on, set off on </B> </P>
+<P> <U> TOUR + NOUN </U><B> company, operator | date, schedule </B><I>Phone for details of the band's tour dates. </I><B>| leader, manager </B><I>Our tour leaders are all fluent in English. The team's tour manager called a press conference. </I><B>| party, squad </B><I>He wasn't selected for England's tour party to Australia. </I><B>| bus, van </B> </P>
+<P> <U> PREP. </U><B> on (a) ~ </B><I>We met a group of cyclists on a tour in the Lake District. The band is currently on tour in the States. </I><B>| ~ of </B><I>I'd like to do a tour of Belgium on foot. </I> </P>
+<P> <U> PHRASES </U><B> tour of duty </B><I>The soldiers were returning from a six-month tour of duty in Northern Ireland. </I> </P>
+<P> <SUP> 2 </SUP> <TT> short visit </TT> </P>
+<P> <U> ADJ. </U><B> brief, quick, lightning </B><I>Our host gave us a quick tour of the house. </I><B>| extensive | grand </B><I>(humorous) Come on, I'll give you the grand tour of the backyard. </I><B>| conducted, guided, self-guided | city, factory | sightseeing | circular </B> </P>
+<P> <U> VERB + TOUR </U><B> give sb, take sb on | do, make </B><I>I made a lightning tour of the office to say goodbye. </I> </P>
+<P> <U> TOUR + NOUN </U><B> guide </B> </P>
+<P> <U> PHRASES </U><B> tour of inspection </B><I>The headmaster started his tour of inspection with the staff room. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tour </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> extensively </B> </P>
+<P> <U> VERB + TOUR </U><B> plan to </B> </P>
+<P> <U> PREP. </U><B> all over </B><I>We plan to tour all over the country. </I><B>| in </B><I>She has toured extensively in the US. </I> </P>
+</DIV>

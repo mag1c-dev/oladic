@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>doubtful </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling doubt </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound </B><I>Eric was far from sure and Marion looked doubtful. </I><B>| become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very | a bit, a little, rather </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She was rather doubtful about the wisdom of eating the two-day-old food. </I> </P>
+<P> <SUP> 2 </SUP> <TT> unlikely </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>Even if we could go, which is highly doubtful, John wouldn't be able to come with us. </I><B>| increasingly | a bit, a little, rather, somewhat</B> </P>
+</DIV>

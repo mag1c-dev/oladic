@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>undone </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not fastened or tied </TT> </P>
+<P> <U> VERBS </U><B> be | come </B><I>My button's come undone again. </I><B>| get sth </B><I>I can't get this knot undone. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not done </TT> </P>
+<P> <U> VERBS </U><B> be | remain | leave sth </B><I>We left the washing-up undone and went out for the day. </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>demonstrate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> show </TT> </P>
+<P> <U> ADV. </U><B> amply, beyond doubt, clearly, conclusively, convincingly, successfully, well </B><I>Our study demonstrates beyond doubt that the play was written by Shakespeare. </I><B>| adequately | further | easily | elegantly, neatly | empirically, experimentally | graphically, vividly </B><I>This tragedy graphically demonstrates the dangers of walking on the fells after dark. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The prime minister must demonstrate to the country that he is really in control of his government. </I> </P>
+<P> <SUP> 2 </SUP> <TT> protest </TT> </P>
+<P> <U> ADV. </U><B> peacefully </B> </P>
+<P> <U> PREP. </U><B> against </B><I>Campaigners were demonstrating against the slaughter of dolphins. </I><B>| for </B><I>Their objective was to demonstrate peacefully for civil rights. </I> </P>
+</DIV>

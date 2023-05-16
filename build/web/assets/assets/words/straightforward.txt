@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>straightforward </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> clear and simple </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, prove, seem, sound | find sth </B><I>I think you'll find it all quite straightforward. </I> </P>
+<P> <U> ADV. </U><B> extremely, remarkably, very | absolutely, entirely, perfectly, quite </B><I>Look, it's perfectly straightforward?just multiply everything by five. </I><B>| by no means, far from, hardly, less than </B><I>Getting funding for the project was far from straightforward. </I><B>| comparatively, fairly, pretty, quite, reasonably, relatively | apparently | deceptively </B><I>The answer to this question is deceptively straightforward </I>(= more straightforward than it looks)</B><I>. </I> </P>
+<P> <SUP> 2 </SUP> <TT> honest </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> very | quite | refreshingly </B><I>a refreshingly straightforward attitude </I> </P>
+<P> <U> PREP. </U><B> about, with </B><I>He was quite straightforward with us about the difficulties involved. </I> </P>
+</DIV>

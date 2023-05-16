@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>deliver </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> goods/letters </TT> </P>
+<P> <U> ADV. </U><B> free of charge </B><I>The company will deliver free of charge. </I><B>| by hand </B><I>The package had been delivered by hand. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>The letter was delivered to his office. </I> </P>
+<P> <U> PHRASES </U><B> have sth delivered </B><I>You can either collect the goods or have them delivered. </I> </P>
+<P> <SUP> 2 </SUP> <TT> baby </TT> </P>
+<P> <U> ADV. </U><B> safely </B><I>The baby was delivered safely on Tuesday night. </I><B>| by Caesarean (section)</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>repayment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | partial | early </B><I>Interest will be refunded in the event of early repayment of the loan. </I><B>| regular | monthly, weekly, etc. | capital, principal | interest | debt, loan, mortgage </B> </P>
+<P> <U> VERB + REPAYMENT </U><B> make </B><I>The repayments can be made directly from your current account. </I><B>| keep up, meet </B><I>They are struggling to keep up their loan repayments. </I><B>| claim, demand </B><I>The bank has demanded repayment of the loan. </I><B>| be due for </B><I>The loans were due for repayment in July 2002. </I><B>| spread </B><I>Repayments can be spread over one to 25 years. </I><B>| calculate </B> </P>
+<P> <U> REPAYMENT + NOUN </U><B> period | method, schedule, terms | loan, mortgage </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>repayments on the mortgage </I><B>| ~ to </B><I>repayment to the fund </I> </P>
+</DIV>

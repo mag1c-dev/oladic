@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>tense </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound | become, get, grow </B><I>The situation grew increasingly tense. </I><B>| remain </B> </P>
+<P> <U> ADV. </U><B> extremely, incredibly, very | increasingly | a bit, a little, rather </B><I>I was feeling a bit tense and restless. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>There's no point in getting tense about the situation. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tense </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> future, past, present | continuous, perfect, progressive, simple </B><I>the present simple tense </I><B>| verb </B> </P>
+<P> <U> VERB + TENSE </U><B> use | form </B><I>&lsquo;Have&rsquo; is the auxiliary verb used to form perfect tenses. </I> </P>
+<P> <U> TENSE + NOUN </U><B> marker | system </B> </P>
+<P> <U> PREP. </U><B> in the &hellip; ~ </B><I>In the sentence &lsquo;I stroked the cat&rsquo;, &lsquo;stroked&rsquo; is in the past tense. </I> </P>
+</DIV>

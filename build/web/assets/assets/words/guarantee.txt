@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>guarantee </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> written promise by a company </TT> </P>
+<P> <U> ADJ. </U><B> full | lifetime, three-year, two-year, etc. | money-back </B> </P>
+<P> <U> VERB + GUARANTEE </U><B> carry, come with, have </B><I>All our products come with a two-year guarantee. </I><B>| give (sb), issue, offer (sb) </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The car is still under guarantee, so you should be able to get it repaired free of charge. </I><B>| ~ against </B><I>The window frames carry a 20-year guarantee against rot or decay. </I><B>| ~ for </B><I>The garage gives a year's guarantee for all repair work. </I><B>| ~ on </B><I>The contractors offer a full money-back guarantee on all their work. </I> </P>
+<P> <SUP> 2 </SUP> <TT> promise that sth will be done/will happen </TT> </P>
+<P> <U> ADJ. </U><B> absolute, cast-iron, firm, reliable | long-term | constitutional, personal </B><I>The country gives a constitutional guarantee of the rights of minorities. </I> </P>
+<P> <U> VERB + GUARANTEE </U><B> give (sb), offer (sb), provide (sb with) | demand, want | get </B><I>We didn't get any firm guarantee of a loan. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>There was no guarantee against misuse of the king's power. </I><B>| ~ for </B><I>The demonstrators were demanding guarantees for fair elections. </I><B>| ~ of </B><I>Driving into town early is no longer a guarantee of getting a parking space. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>guarantee </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> promise to do sth/promise sth will happen </TT> </P>
+<P> <U> ADV. </U><B> absolutely </B><I>I can absolutely guarantee that you will enjoy the show. </I><B>| personally </B><I>I personally guarantee total and immediate support in all measures undertaken. </I> </P>
+<P> <U> VERB + GUARANTEE </U><B> be able to, can </B> </P>
+<P> <SUP> 2 </SUP> <TT> give a written promise about the quality of sth </TT> </P>
+<P> <U> PHRASES </U><B> be fully guaranteed </B><I>All our electrical goods are fully guaranteed. </I> </P>
+<P> <SUP> 3 </SUP> <TT> make sth certain to happen </TT> </P>
+<P> <U> ADV. </U><B> absolutely | almost, practically, virtually | effectively </B><I>The complicated electoral system effectively guarantees the president's re-election. </I><B>| automatically </B><I>The process of training and qualification does not automatically guarantee you a job. </I><B>| by no means, not necessarily </B><I>The outcome is by no means guaranteed. </I> </P>
+</DIV>

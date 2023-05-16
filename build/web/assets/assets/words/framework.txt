@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>framework </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> basic, broad, general | wider </B><I>The needs of individual schools need to be considered in a wider framework. </I><B>| existing | flexible | comprehensive | coherent | analytical, conceptual, theoretical | legal, political | administrative, management, policy | economic, financial | chronological, historical </B><I>Carbon dating provides the archaeologist with a basic chronological framework. </I> </P>
+<P> <U> VERB + FRAMEWORK </U><B> establish, have, set </B><I>They established a basic framework of ground rules for discussions. </I><B>| offer (sb), provide (sb with) </B> </P>
+<P> <U> PREP. </U><B> outside a/the ~ </B><I>Negotiations were also conducted outside the framework of the treaty talks proper. </I><B>| within a/the ~ </B><I>The committee will work within the framework of certain broad objectives. </I><B>| ~ for </B><I>a legal framework for the regulation of public access to databases </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>discrepancy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> glaring, great, huge, large, major, marked, material, serious, substantial, wide | minor, slight, small | apparent </B> </P>
+<P> <U> VERB + DISCREPANCY </U><B> account for, explain </B><I>How do you explain the apparent discrepancies between the money and the receipts? </I><B>| find, note, notice, observe, perceive </B><I>She failed to notice the discrepancy between the name on the cheque and the name on the driving licence. </I><B>| ignore </B> </P>
+<P> <U> DISCREPANCY + VERB </U><B> exist | arise, occur </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>Discrepancies occurred between the written and electronic records. </I><B>| ~ in </B><I>There were wide discrepancies in the evidence. </I> </P>
+</DIV>

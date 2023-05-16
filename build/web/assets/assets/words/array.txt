@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>array </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad, diverse, extensive, huge, vast, wide | bewildering, colourful, confusing, dazzling, fascinating, fine, formidable, glittering, impressive, remarkable, rich, splendid, staggering, stunning, wonderful </B><I>a dazzling array of talent </I> </P>
+<P> <U> VERB + ARRAY </U><B> have, offer, provide </B><I>The store offers a bewildering array of garden tools. </I><B>| be faced with </B><I>The customer is faced with a formidable array of products. </I><B>| choose from, select from </B><I>It is difficult to choose from the vast array of wines on offer. </I> </P>
+</DIV>

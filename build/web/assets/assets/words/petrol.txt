@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>petrol </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> lead-free, ultra-low sulphur </B>(= <B>ULSP</B>), <B>unleaded | leaded, lead replacement </B>(= <B>LRP</B>) <B>| high-octane </B> </P>
+<P> <U> QUANT. </U><B> litre, tankful </B> </P>
+<P> <U> VERB + PETROL </U><B> fill up with, fill sth (up) with | run on, take, use </B><I>My car runs on unleaded petrol. </I><B>| run out of </B><I>We ran out of petrol and had to walk to the nearest garage. </I><B>| douse sb/sth in/with, pour </B><I>Thugs poured petrol over a schoolboy and tried to set him alight. </I><B>| smell (of) </B><I>Can you smell petrol? The air smelled of petrol. </I> </P>
+<P> <U> PETROL + VERB </U><B> burn, ignite </B> </P>
+<P> <U> PETROL + NOUN </U><B> engine, tank | gauge, pump | station | tanker | fumes | prices | tax | bomb</B> </P>
+</DIV>

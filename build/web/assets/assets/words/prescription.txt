@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>prescription </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> medical | free </B><I>people who get free prescriptions </I><B>| repeat </B><I>I just get a repeat prescription every week. </I> </P>
+<P> <U> VERB + PRESCRIPTION </U><B> give sb, write (out) | make up </B><I>Would you like to wait while the pharmacist makes up your prescription? </I> </P>
+<P> <U> PRESCRIPTION + NOUN </U><B> charge | drug, medicine </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>Some drugs are only available on prescription. </I><B>| ~ for </B><I>the usual prescription for asthma She gave him a prescription for antibiotics. </I> </P>
+</DIV>

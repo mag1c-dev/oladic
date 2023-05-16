@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>quota </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full </B><I>He never takes his full quota of holidays. </I><B>| annual, daily, monthly, weekly | national | fishing, milk, etc. </B><I>the introduction of EU milk quotas </I><B>| export, import, production </B> </P>
+<P> <U> VERB + QUOTA </U><B> agree, determine, establish, set | allocate, impose, introduce | increase | reduce | achieve, fill, fulfil, reach </B><I>We had to increase our output to fill the quota by the end of the year. </I><B>| exceed </B><I>Many countries are still exceeding their quotas. </I> </P>
+<P> <U> QUOTA + NOUN </U><B> system </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>quotas for oil production </I><B>| ~ on </B><I>national quotas on imports of cars </I> </P>
+</DIV>

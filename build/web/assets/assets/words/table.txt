@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>table </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> piece of furniture </TT> </P>
+<P> <U> ADJ. </U><B> big, high, huge, large, long | little, low, small | circular,  rectangular, round, square | drop-leaf, fold-away, folding, trestle </B><I>We arranged the party food on a trestle table in the garden. </I><B>| baize-covered, glass-topped, </B> white-clothed, white-napped | <B>glass, plastic, wooden | polished, scrubbed | ramshackle, rickety, rough | empty </B><I>We found an empty table at the back of the restaurant. </I><B>| bare | corner, window </B><I>We'll take the corner table near the bar, please. </I><B>| dining (room), kitchen </B><I>She often does her homework at the kitchen table. </I><B>| breakfast, dinner, lunch </B><I>We never discuss politics at the breakfast table. </I><B>| conference, negotiating </B><I>They spent hours around the negotiating table. </I><B>| billiard, ping-pong, pool, snooker, table-tennis | makeshift </B><I>We turned the box upside down and used it as a makeshift table. </I> </P>
+<P> <U> VERB + TABLE </U><B> sit around/round, sit (down) at </B><I>They were all five of them sitting round the kitchen table. </I><B>| get up from, leave </B><I>He left the table in a hurry. </I><B>| lay, set </B><I>Please lay the table for six. </I><B>| clear </B><I>You clear the table and I'll wash the dishes. </I><B>| book, reserve </B><I>We booked a table in our favourite restaurant for 8 p.m. </I> </P>
+<P> <U> TABLE + NOUN </U><B> decorations | edge </B> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>She leaned across the table towards him. </I><B>| around/round the ~ </B><I>We gathered round the table to hear his news. </I><B>| at the ~ </B><I>to sit down at the table </I><B>| on the ~ </B><I>She put the vase on the table. </I><B>| over the ~ </B><I>They flirted over the dinner table. </I><B>| under the ~ </B><I>The potato rolled under the table. </I> </P>
+<P> <U> PHRASES </U><B> the centre/middle of the table, the edge/end/head of the table </B><I>My father always sits at the head of the table. </I><B>| a round table discussion/meeting, round table talks </B><I>All parties took part in the round table discussions on the peace process. </I> </P>
+<P> <SUP> 2 </SUP> <TT> list of facts/figures </TT> </P>
+<P> <U> ADJ. </U><B> statistical | league </B><I>The league table shows the Danish team in first place with eight points. </I> </P>
+<P> <U> VERB + TABLE </U><B> compile, draw (up) | see </B><I>See Table XII for population figures. </I> </P>
+<P> <U> TABLE + VERB </U><B> show sth </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>He showed the price fluctuations in a statistical table. United are second in the table. </I> </P>
+<P> <U> PHRASES </U><B> the bottom/top of the table, mid-table </B><I>The team will be lucky to finish the season mid-table. </I> </P>
+</DIV>

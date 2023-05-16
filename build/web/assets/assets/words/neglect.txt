@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>neglect </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> general, total | comparative, relative | benign </B><I>The eighteenth-century interior of the building has survived through benign neglect. </I><B>| deliberate, serious, wilful | physical | child </B><I>The maximum penalty for child neglect is ten years' imprisonment. </I> </P>
+<P> <U> VERB + NEGLECT </U><B> suffer (from) </B><I>The buildings suffered neglect for centuries. </I><B>| be guilty of </B><I>The doctor was guilty of serious neglect of duty. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>cruelty by neglect </I><B>| through ~ </B><I>the suffering of children through neglect </I><B>| to the ~ of </B><I>She had concentrated on her music to the neglect of her other studies. </I> </P>
+<P> <U> PHRASES </U><B> centuries/years of neglect </B><I>After years of neglect the house is at last being restored. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>neglect </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> grossly, seriously | completely, entirely, totally, wholly | largely | conveniently </B><I>(ironic)</I>, <B>deliberately, wilfully </B><I>conveniently neglecting their responsibilities </I><B>| conspicuously </B><I>an aspect of the problem conspicuously neglected by social scientists </I><B>| hitherto, previously </B> </P>
+<P> <U> VERB + NEGLECT </U><B> tend to | cannot/could not afford to </B><I>This sector is one of the major growth areas and we cannot afford to neglect it. </I> </P>
+<P> <U> PREP. </U><B> in favour of </B><I>Local communities have been neglected in favour of private sector interests. </I> </P>
+</DIV>

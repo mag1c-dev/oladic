@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>star </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small point of light in the night sky </TT> </P>
+<P> <U> ADJ. </U><B> bright, brilliant | faint | distant | nearby, nearer/nearest | falling, shooting | evening, morning </B> </P>
+<P> <U> QUANT. </U><B> cluster </B><I>a dense cluster of stars at the galaxy's nucleus </I> </P>
+<P> <U> STAR + VERB </U><B> be out | shine, twinkle </B><I>A bright star shone in the East. </I><B>| appear, come out </B> </P>
+<P> <U> STAR + NOUN </U><B> cluster </B> </P>
+<P> <U> PREP. </U><B> under the ~s </B><I>We camped out under the stars. </I> </P>
+<P> <U> PHRASES </U><B> a canopy of stars </B><I>They lay down under a canopy of stars. </I><B>| the brightness/density/luminosity of a star </B> </P>
+<P> <SUP> 2 </SUP> <TT> famous person </TT> </P>
+<P> <U> ADJ. </U><B> big </B><I>There were several big Hollywood stars at the function. </I><B>| true, undisputed | rising, young | football, pop, etc. | Hollywood, screen, film, movie, soap, TV </B> </P>
+<P> <U> QUANT. </U><B> array, galaxy, host </B><I>Channel 4 has lined up a galaxy of stars for the coming season. </I> </P>
+<P> <U> STAR + NOUN </U><B> quality, status | role | actor, performer, player | attraction, turn </B><I>He was the star turn at the celebrations. </I><B>| vehicle </B><I>The film was nothing more than a star vehicle for Tom Hanks. </I> </P>
+</DIV>

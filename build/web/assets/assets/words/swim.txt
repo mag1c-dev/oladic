@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>swim </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> evening, morning, regular | quick </B><I>How about a quick swim before breakfast? </I> </P>
+<P> <U> VERB + SWIM </U><B> go for, have, take </B><I>She got up early and went for a swim. </I> </P>
+<P> <U> PREP. </U><B> for a ~ </B><I>Are you joining us for a swim? </I> </P>
+</DIV><DIV class="item"><P class="word"><B>swim </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> strongly, vigorously </B><I>A water vole swam vigorously upstream. </I><B>| quickly, rapidly | slowly | around, ashore, back, downstream, out, upstream </B><I>Exhausted, they swam ashore. </I> </P>
+<P> <U> VERB + SWIM </U><B> can/could | learn to | teach sb to </B> </P>
+<P> <U> PREP. </U><B> across </B><I>swimming across the river </I><B>| in </B><I>swimming in the sea </I><B>| to </B><I>We swam out to the boat. </I><B>| towards </B><I>She swam back towards the shore. </I> </P>
+<P> <U> PHRASES </U><B> go swimming</B> </P>
+</DIV>

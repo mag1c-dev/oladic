@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>expose </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> uncover sth </TT> </P>
+<P> <U> ADV. </U><B> completely, fully | briefly | suddenly | deliberately </B><I>She lifted her chin in a gesture that deliberately exposed the line of her throat. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>These drawings must not be exposed to the air. </I> </P>
+<P> <SUP> 2 </SUP> <TT> show the truth </TT> </P>
+<P> <U> ADV. </U><B> fully | clearly </B><I>a report which clearly exposes the weakness of the government's economic policy </I><B>| publicly </B><I>He was publicly exposed as a liar and a cheat. </I><B>| cruelly </B><I>He was outclassed by an Aston Villa side that cruelly exposed his lack of pace. </I> </P>
+<P> <U> VERB + EXPOSE </U><B> threaten to | seek to, try to </B> </P>
+<P> <SUP> 3 </SUP> <TT> to sth harmful </TT> </P>
+<P> <U> ADV. </U><B> directly | constantly </B><I>The general public is constantly exposed to radiation. </I><B>| regularly </B> </P>
+<P> <U> PREP. </U><B> to</B> </P>
+</DIV>

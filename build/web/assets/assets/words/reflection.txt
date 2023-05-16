@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>reflection </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> image in a mirror, etc. </TT> </P>
+<P> <U> ADJ. </U><B> clear | faint | blurred, distorted </B> </P>
+<P> <U> VERB + REFLECTION </U><B> catch a glimpse of, catch sight of, see </B><I>He caught sight of her reflection in the window. </I><B>| glance at, look at | gaze at, stare at, watch | examine, inspect, study </B> </P>
+<P> <U> REFLECTION + VERB </U><B> look &hellip; </B><I>Her reflection in the mirror looked distorted. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In the reflection on the glass door he could see the class behind him. </I><B>| ~ in </B><I>I saw my reflection in the polished marble. </I><B>| ~ on </B><I>the reflection of the mountains on the calm waters of the lake </I> </P>
+<P> <SUP> 2 </SUP> <TT> sending light/heat/sound back from a surface </TT> </P>
+<P> <U> ADJ. </U><B> heat, light, sound </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>There is reflection of heat from the metal surface. </I> </P>
+<P> <U> PHRASES </U><B> the angle of reflection </B> </P>
+<P> <SUP> 3 </SUP> <TT> indication/description of sth </TT> </P>
+<P> <U> ADJ. </U><B> accurate, fair, true | inadequate | mere, pale </B><I>This account is only a pale reflection of the true state of affairs. </I><B>| direct, simple </B><I>Young people's behaviour is a direct reflection of adults'. </I><B>| sad </B> </P>
+<P> <U> VERB + REFLECTION </U><B> give (sb), provide </B><I>Such studies do not give a true reflection of population needs. </I> </P>
+<P> <U> PREP. </U><B> ~ of/on/upon </B><I>His low level of performance is no reflection on his general ability. </I> </P>
+<P> <SUP> 4 </SUP> <TT> careful thought about sth </TT> </P>
+<P> <U> ADJ. </U><B> deep, mature, serious, sober | further | quiet | personal | critical, philosophical, theological </B> </P>
+<P> <U> VERB + REFLECTION </U><B> encourage </B><I>Counselling should encourage reflection on the past. </I> </P>
+<P> <U> REFLECTION + VERB </U><B> show sb/sth </B><I>A moment's reflection will show you that that can't be true. </I> </P>
+<P> <U> PREP. </U><B> after/on/upon ~ </B><I>On further reflection, I'm not so sure it's a good idea. </I><B>| ~ about/on/upon </B><I>The party needs a period of sober reflection about what went wrong. </I> </P>
+<P> <U> PHRASES </U><B> a moment's reflection, a period for/of reflection, time for reflection </B> </P>
+<P> <SUP> 5 </SUP> <TT> written or spoken thoughts about sth </TT> </P>
+<P> <U> ADJ. </U><B> interesting | poignant </B> </P>
+<P> <U> VERB + REFLECTION </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ about/on/upon </B><I>She has some interesting reflections about the spiritual state of the country. </I> </P>
+</DIV>

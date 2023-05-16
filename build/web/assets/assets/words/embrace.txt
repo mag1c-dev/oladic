@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>embrace </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> close, passionate, tight, warm </B><I>the comfort of her warm embrace </I> </P>
+<P> <U> VERB + EMBRACE </U><B> be locked in, hold sb in </B><I>They were locked in a passionate embrace on the station platform. </I><B>| escape (from), extract yourself from, free yourself from </B><I>He managed to free himself from her embrace. </I><B>| release sb from </B><I>He released her from his embrace. </I> </P>
+<P> <U> PREP. </U><B> in an ~ </B><I>two lovers in a tight embrace </I><B>| into an ~ </B><I>He drew her into his embrace. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>embrace </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> put your arms round sb </TT> </P>
+<P> <U> ADV. </U><B> tightly, warmly </B><I>He rose from his chair and embraced her warmly. </I> </P>
+<P> <SUP> 2 </SUP> <TT> accept sth </TT> </P>
+<P> <U> ADV. </U><B> fully, genuinely </B><I>the only party which fully embraces the concept of a united Europe </I><B>| enthusiastically, wholeheartedly, with enthusiasm </B><I>She embraced the feminist cause with enthusiasm. </I> </P>
+</DIV>

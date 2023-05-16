@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>strife </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> internal | ethnic, factional, internecine, sectarian | civil, industrial, political, religious, social | domestic, marital </B> </P>
+<P> <U> VERB + STRIFE </U><B> cause, provoke | be torn (apart) by </B><I>The country has been torn apart by years of civil strife. </I><B>| end </B> </P>
+<P> <U> PREP. </U><B> during/in the ~ </B><I>He lost his job during last year's industrial strife. </I><B>| ~ among/between </B><I>internecine strife among the nationalities of the empire </I> </P>
+<P> <U> PHRASES </U><B> an end to the strife, a time of strife</B> </P>
+</DIV>

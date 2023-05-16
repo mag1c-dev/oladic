@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>slip </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> mistake </TT> </P>
+<P> <U> ADJ. </U><B> little, slight, tiny | unfortunate | Freudian </B> </P>
+<P> <U> VERB + SLIP </U><B> make </B><I>She made a couple of unfortunate slips during the talk. </I> </P>
+<P> <U> PHRASES </U><B> a slip of the pen/tongue </B><I>I didn't mean to say that?it was just a slip of the tongue. </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of paper </TT> </P>
+<P> <U> ADJ. </U><B> betting, pay, rejection, voting </B><I>He got over fifty rejection slips before his novel was published. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>He wrote the address on a slip of paper. </I> </P>
+<P> <U> PHRASES </U><B> a slip of paper</B> </P>
+</DIV>

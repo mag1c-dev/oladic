@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>amnesty </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> general, political </B> </P>
+<P> <U> VERB + AMNESTY </U><B> give sb, grant, offer </B><I>The government granted an amnesty to all political prisoners. </I><B>| announce, declare </B> </P>
+<P> <U> PREP. </U><B> under an/the ~ </B><I>He was released from prison under an amnesty. </I><B>| ~ for </B><I>They announced a general amnesty for crimes committed during the war. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>manuscript </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> copy of a book that has not yet been printed </TT> </P>
+<P> <U> ADJ. </U><B> original | autograph, handwritten </B><I>the original autograph manuscript of the poem </I><B>| unpublished | unfinished | literary, music/musical </B> </P>
+<P> <U> QUANT. </U><B> copy </B><I>I only have one copy of the manuscript. </I> </P>
+<P> <U> VERB + MANUSCRIPT </U><B> write | type | edit, revise | submit (for publication) </B><I>He submitted the manuscript to an editor at Longman. </I><B>| accept/reject (for publication) </B><I>He was delighted when the manuscript was accepted for publication. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Her autobiography remained in manuscript </I>(= was not published)</B><I>. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very old book/document, written by hand </TT> </P>
+<P> <U> ADJ. </U><B> ancient, early, medieval | contemporary </B><I>One contemporary manuscript shows Henry II crowned by the hand of Christ. </I><B>| rare | surviving </B><I>the surviving manuscript of &lsquo;Beowulf&rsquo; </I><B>| illuminated </B> </P>
+<P> <U> MANUSCRIPT + VERB </U><B> survive </B><I>earlier manuscripts which no longer survive </I> </P>
+</DIV>

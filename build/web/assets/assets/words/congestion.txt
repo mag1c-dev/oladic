@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>congestion </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> serious, severe | increased, increasing | road, traffic </B><I>Parking near the school causes severe traffic congestion. </I><B>| nasal </B> </P>
+<P> <U> VERB + CONGESTION </U><B> cause, lead to | avoid, ease, reduce, relieve </B><I>measures to ease the increasing congestion in the centre of London </I><B>| increase</B> </P>
+</DIV>

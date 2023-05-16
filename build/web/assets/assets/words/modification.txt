@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>modification </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> considerable, extensive, major | minor, slight | further | important, necessary, significant </B> </P>
+<P> <U> VERB + MODIFICATION </U><B> involve, need, require </B><I>The design requires considerable modification. </I><B>| propose, suggest | carry out, introduce, make | receive, undergo </B><I>The original plan had undergone fairly extensive modifications. </I> </P>
+<P> <U> PREP. </U><B> with/without ~ </B><I>These bikes are designed for racing and cannot be used on the road without modification. </I><B>| ~ in </B><I>a modification in smoking behaviour among older men </I><B>| ~ to </B><I>We need to make a few modifications to the proposals. </I> </P>
+</DIV>

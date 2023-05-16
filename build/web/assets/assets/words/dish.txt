@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>dish </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> container </TT> </P>
+<P> <U> ADJ. </U><B> deep | flat, shallow | empty | baking, cooking, roasting, serving | fireproof, heatproof, ovenproof | china, glass, metal, silver | casserole, gratin, pie, souffle, soup | butter, food, soap, vegetable </B><I>your pet's food dish </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Arrange the chicken and salad in a serving dish. </I></P>
+<P> <SUP> 2 </SUP> <TT> the dishes: plates, bowls, etc.  </TT> </P>
+<P> <U> ADJ. </U><B> clean | dirty, unwashed </B><I>The dirty breakfast dishes were still in the sink when we got home. </I><B>| breakfast </B> </P>
+<P> <U> VERB + DISH </U><B> do, wash </B><I>It's your turn to do the dishes. </I><B>| dry </B><I>He dried the dishes and put them away. </I><B>| put away </B> </P>
+<P> <SUP> 3 </SUP> <TT> type of food </TT> </P>
+<P> <U> ADJ. </U><B> main, side </B><I>Serve one or two main dishes with a choice of salads and nibbles. </I><B>| favourite </B><I>Do you have a favourite dish? </I><B>| delicious, tasty, wonderful | elaborate | simple </B><I>a simple dish, beautifully prepared </I><B>| classic, traditional | savoury, sweet | spiced/spicy | cold, hot | local, international, national, regional </B><I>The national dish is &lsquo;bigos&rsquo;?hunter's stew. </I><B>| Chinese, French, etc. | vegetarian | cheese, egg, fish, meat, pasta, rice, seafood, vegetable </B><I>Goulash is a meat dish. </I><B>| breakfast, lunch, supper </B><I>Kedgeree makes a wonderful supper dish. </I> </P>
+<P> <U> VERB + DISH </U><B> cook, make, prepare </B><I>She cooked us a delicious French dish with pork and tomatoes. </I><B>| serve </B><I>a restaurant that serves traditional Indian dishes </I><B>| recommend | sample, try </B><I>They sampled all the local dishes. </I> </P>
+<P> <U> PHRASES </U><B> the dish of the day </B><I>I can recommend the chef's dish of the day. </I>&gt; Special page at FOOD </B> </P>
+</DIV>

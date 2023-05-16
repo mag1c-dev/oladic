@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>body </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> whole physical form of a person/an animal </TT> </P>
+<P> <U> ADJ. </U><B> whole </B><I>Her whole body trembled. </I><B>| upper | lower | healthy | human </B> </P>
+<P> <U> BODY + NOUN </U><B> heat, temperature | shape, size, weight </B><I>to maintain your ideal body weight </I><B>| fat | odour | language </B> </P>
+<P> <U> PREP. </U><B> in the/your ~ </B><I>Extreme heat may cause changes in the body. </I><B>| on the/your ~ </B><I>She still had the marks from the ropes on her body. </I> </P>
+<P> <U> PHRASES </U><B> part of the body, sell your body </B>(= to work as a prostitute)  </P>
+<P> <SUP> 2 </SUP> <TT> dead human body </TT> </P>
+<P> <U> ADJ. </U><B> dead | decomposed, decomposing | bloated </B> </P>
+<P> <U> VERB + BODY </U><B> examine | bury, cremate, embalm | exhume </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>A diary was found on the body. </I> </P>
+<P> <SUP> 3 </SUP> <TT> amount of sth </TT> </P>
+<P> <U> ADJ. </U><B> large, substantial, vast </B><I>a large body of evidence </I> </P>
+<P> <U> PHRASES </U><B> a body of water </B><I>The two islands are separated by a large body of water. </I> </P>
+<P> <SUP> 4 </SUP> <TT> main part of sth </TT> </P>
+<P> <U> ADJ. </U><B> main </B><I>The bar is in the main body of the hotel. </I> </P>
+<P> <SUP> 5 </SUP> <TT> object </TT> </P>
+<P> <U> ADJ. </U><B> foreign </B><I>They removed a foreign body from her eye. </I><B>| celestial, heavenly </B><I>Stars are celestial bodies. </I> </P>
+<P> <SUP> 6 </SUP> <TT> group of people who work/act together </TT> </P>
+<P> <U> ADJ. </U><B> advisory, corporate, executive, governing, legislative, professional, statutory | national, public | government, student | independent | voluntary | elected | politic </B>(always after <B>body) </B><I>Freedom of speech is necessary for the health of the body politic. </I> </P>
+<P> <U> VERB + BODY </U><B> create, establish, form, set up | elect </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>The students marched in a body to the government offices. </I></P>
+<a href="/collocation-tag/organization" class="tag">Learn more about ORGANIZATION</a>
+
+</DIV>

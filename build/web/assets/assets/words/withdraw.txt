@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>withdraw </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move/move sth away from a place </TT> </P>
+<P> <U> ADV. </U><B> altogether, completely | immediately, instantly | abruptly, hastily, promptly, quickly, soon </B><I>She hastily withdrew her hand from his. </I><B>| gently | gradually, progressively </B><I>Forces will be progressively withdrawn. </I><B>| eventually | temporarily | unconditionally </B> </P>
+<P> <U> VERB + WITHDRAW </U><B> decide to | intend to, wish to | threaten to | be compelled to, be forced to, be obliged to </B><I>He was forced to withdraw from the competition due to injury. </I><B>| persuade sb to </B> </P>
+<P> <U> PREP. </U><B> from </B><I>Two thousand troops were withdrawn from the battle zone. </I><B>| in favour of </B><I>He eventually withdrew in favour of Blair, thought to be the more popular candidate. </I><B>| into </B><I>She withdrew into her own world. </I> </P>
+<P> <SUP> 2 </SUP> <TT> take sth away </TT> </P>
+<P> <U> ADV. </U><B> immediately | subsequently | eventually | formally </B><I>She formally withdrew her resignation. </I><B>| voluntarily | unconditionally </B><I>Last night he unconditionally withdrew his comments. </I> </P>
+<P> <U> VERB + WITHDRAW </U><B> threaten to | agree to | refuse to | advise sb to, persuade sb to, urge sb to </B> </P>
+<P> <U> PREP. </U><B> from </B><I>They threatened to withdraw their support from the government. </I> </P>
+</DIV>

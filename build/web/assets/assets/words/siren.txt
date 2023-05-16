@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>siren </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> approaching </B><I>The cars had stopped at the sound of the approaching siren. </I><B>| air-raid, ambulance, factory, police, warning </B> </P>
+<P> <U> VERB + SIREN </U><B> put on, sound, switch on </B><I>The ships all sounded their sirens. </I><B>| hear </B> </P>
+<P> <U> SIREN + VERB </U><B> go (off), sound, start | blare, howl, scream, wail </B><I>The ambulance sped off with its siren wailing. </I><B>| die away </B><I>The police siren died away into the hot night. </I> </P>
+</DIV>

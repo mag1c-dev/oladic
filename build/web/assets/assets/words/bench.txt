@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>bench </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> long seat </TT> </P>
+<P> <U> ADJ. </U><B> long | narrow | hard | padded | wooden | garden, park | replacements', subs', substitutes' </B><I>(sport) They have several top players on the subs' bench. </I> </P>
+<P> <U> VERB + BENCH </U><B> sit (down) on </B> </P>
+<P> <U> BENCH + NOUN </U><B> seat </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>He often sleeps on park benches. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in Parliament </TT> </P>
+<P> <U> ADJ. </U><B> government, Opposition | Conservative, Labour, etc. | back, front </B>(Government ministers and the most important members of the Opposition sit on the <B>front benches</B>. <B>Back-bench </B>MPs have no official position besides that of MP.) </B> </P>
+<P> <U> VERB + BENCH </U><B> be on, sit on </B> </P>
+<P> <U> PREP. </U><B> from the &hellip; ~s </B><I>There were cheers from the Labour benches. </I><B>| on the &hellip; ~s </B><I>Some MPs on the government back benches are starting to question the government's handling of the war. </I> </P>
+<P> <SUP> 3 </SUP> <TT> long narrow table that people work at </TT> </P>
+<P> <U> ADJ. </U><B> work, workbench | carpenter's, laboratory </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>He was working at his bench. </I> </P>
+</DIV>

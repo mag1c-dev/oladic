@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>tomato </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> ripe | green | rotten, squashed | cherry, plum | sundried, tinned </B> </P>
+<P> <U> VERB + TOMATO </U><B> eat, have | chop, peel, slice | grow </B> </P>
+<P> <U> TOMATO + NOUN </U><B> juice, ketchup, paste, puree, salad, sauce, soup | plant</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>solvent </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> volatile | chlorinated | chemical, organic | cleaning, industrial </B> </P>
+<P> <U> VERB + SOLVENT </U><B> abuse, sniff </B> </P>
+<P> <U> SOLVENT + VERB </U><B> evaporate </B> </P>
+<P> <U> SOLVENT + NOUN </U><B> abuse, sniffing</B> </P>
+</DIV>

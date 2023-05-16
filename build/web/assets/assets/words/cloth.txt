@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>cloth </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> material used for making clothes, curtains, etc. </TT> </P>
+<P> <U> ADJ. </U><B> coarse, fine | homespun | woven | cotton, damask, linen, woollen </B><I>a jacket made from woollen cloth </I> </P>
+<P> <U> QUANT. </U><B> bale, bolt, length | piece, scrap, strip </B> </P>
+<P> <U> VERB + CLOTH </U><B> make, produce, weave | dye </B> </P>
+<P> <U> CLOTH + NOUN </U><B> industry, manufacture, merchant, mill, trade </B> </P>
+<P> <SUP> 2 </SUP> <TT> piece of cloth used for a particular purpose </TT> </P>
+<P> <U> ADJ. </U><B> damp, dry, soft </B><I>Wipe the table with a damp cloth. </I><B>| cleaning, floor, polishing | table, tablecloth | tea | loin, loincloth </B> </P>
+</DIV>

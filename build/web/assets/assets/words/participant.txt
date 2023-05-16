@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>participant </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> full | active | unwilling, willing </B><I>She was an unwilling participant in his downfall. </I><B>| key, leading, main, major | course | conference, seminar </B> </P>
+<P> <U> VERB + PARTICIPANT </U><B> attract </B><I>Protests on 12 April attracted 100,000 participants. </I> </P>
+<P> <U> PARTICIPANT + VERB </U><B> attend sth </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>an active participant in the discussion </I> </P>
+</DIV>

@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>swing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> change in public opinion, sb's mood, etc. </TT> </P>
+<P> <U> ADJ. </U><B> big, dramatic, huge, sharp, violent </B><I>violent swings in policy </I><B>| modest, small | 10%, etc. | adverse, negative </B><I>The Conservatives suffered an adverse swing of 6%. </I><B>| sudden, wild </B><I>his sudden swings of mood </I><B>| late </B><I>a late swing towards the Tories </I><B>| national | electoral | mood </B><I>She suffers from severe mood swings. </I> </P>
+<P> <U> VERB + SWING </U><B> need, require </B><I>The party needs a swing of only 2.5% to win the seat. </I><B>| represent </B><I>This represents a swing of 14% towards Labour. </I><B>| suffer (from) </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>a dramatic swing against the socialists </I><B>| ~ away from </B><I>the swing away from science in the sixth form </I><B>| ~ from, ~ in </B><I>a sharp swing in the attitudes of many economists </I><B>| ~ to/towards/in favour of </B><I>signs of a late swing to the Democrats </I> </P>
+<P> <SUP> 2 </SUP> <TT> swinging movement </TT> </P>
+<P> <U> ADJ. </U><B> wild | backward, forward | golf | practice </B> </P>
+<P> <U> VERB + SWING </U><B> do, make, take </B><I>the technique for making the perfect golf swing </I><B>| change | practise </B><I>golfers practising their swings </I> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>He took a wild swing at the ball. </I> </P>
+<P> <SUP> 3 </SUP> <TT> swinging seat </TT> </P>
+<P> <U> VERB + SWING </U><B> go/play on </B><I>Some kids were playing on the swings. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~</B> </P>
+</DIV><DIV class="item"><P class="word"><B>swing </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move backwards and forwards/from side to side </TT> </P>
+<P> <U> ADV. </U><B> gently, slowly | violently, wildly </B><I>She lashed out, her arm swinging wildly. </I><B>| back and forth, backwards and forwards, from side to side, to and fro </B><I>The pendulum swung slowly backwards and forwards. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>I could see him swinging from the branch of a large tree. </I> </P>
+<P> <SUP> 2 </SUP> <TT> move smoothly </TT> </P>
+<P> <U> VERB + SWING </U><B> slowly | suddenly | sharply </B><I>The road swung sharply round. </I><B>| across, around/round, away, back, down, off, up </B><I>Hearing a sarcastic note in his voice, she swung around to face him. </I> </P>
+<P> <U> VERB + SWING </U><B> let sth </B><I>She let the door swing shut behind her. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>She swung down from the tree in one easy movement. </I><B>| into </B><I>He swung up into the saddle and rode off. </I><B>| towards </B><I>Niccolo </I>` </B><I>swung towards her. </I> </P>
+<P> <U> PHRASES </U><B> swing open/shut/to </B> </P>
+<P> <SUP> 3 </SUP> <TT> change quickly </TT> </P>
+<P> <U> ADV. </U><B> rapidly | suddenly | wildly </B><I>The balance of power swung wildly from one party to the other. </I><B>| heavily </B><I>Opinion swung heavily to the left. </I> </P>
+<P> <U> PREP. </U><B> from, to </B><I>Her mood could swing rapidly from gloom to exhilaration. </I> </P>
+</DIV>

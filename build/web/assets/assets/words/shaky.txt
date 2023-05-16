@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>shaky </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> shaking because you are frightened/ill </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem, sound | get, go | leave sb/sth </B><I>The experience had left him rather shaky. </I> </P>
+<P> <U> ADV. </U><B> distinctly, extremely, very | all </B><I>You've gone all shaky! </I><B>| a bit, a little, rather, slightly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Her voice was low and shaky with emotion. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not firm or strong </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look | remain </B> </P>
+<P> <U> ADV. </U><B> dangerously, decidedly, distinctly, extremely, very </B><I>Financially, the arrangement was distinctly shaky. </I><B>| a bit, a little, pretty, rather, somewhat</B> </P>
+</DIV>

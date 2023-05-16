@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>boo </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> loud </B> </P>
+<P> <U> VERB + BOO </U><B> be greeted/met with </B><I>His speech was met with boos. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>There were loud boos from the audience. </I> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>novel </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, sound </B><I>The scheme sounded rather novel. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | completely, entirely, quite, totally, wholly | rather, relatively | essentially</B> </P>
+</DIV><DIV class="item"><P class="word"><B>novel </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hardback, paperback | first </B><I>a prize for the best first novel of the year </I><B>| latest, new | literary | best-selling, popular | acclaimed </B><I>his critically acclaimed novel </I><B>| famous | classic | contemporary, modern | nineteenth-century, Victorian | adult, children's | autobiographical | epistolary </B><I>Samuel Richardson's novels are all epistolary in form. </I><B>| adventure, comic, crime, detective, historical, satirical, spy, realist, romantic </B> </P>
+<P> <U> QUANT. </U><B> copy </B><I>I took a copy of a Graham Greene novel on the train with me. </I> </P>
+<P> <U> VERB + NOVEL </U><B> produce, write | publish | read | accept (for publication), reject (for publication) </B><I>Her first novel was finally accepted for publication. </I><B>| translate | adapt </B><I>adapting the novel for television </I><B>| review </B> </P>
+<P> <U> NOVEL + VERB </U><B> be based on sth </B><I>The novel was based on a true life story. </I><B>| be set, take place </B><I>The novel was set in a small village in France. </I> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>a novel about growing up </I> </P>
+</DIV>

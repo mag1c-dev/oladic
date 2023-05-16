@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>glow </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> steady light </TT> </P>
+<P> <U> ADJ. </U><B> cosy, rich, soft, warm | dim, dull, faint, pale | fierce | steady | eerie, ghostly </B> </P>
+<P> <U> VERB + GLOW </U><B> cast, give sth, throw </B><I>The lamplight gave a cosy glow to the room. The sunset threw an orange glow on the cliffs. </I><B>| be bathed in </B><I>The whole village was bathed in the glow of the setting sun. </I> </P>
+<P> <U> GLOW + VERB </U><B> light sth </B><I>Our faces were lit by the faint green glow of the dashboard lights. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>the soft glow from the lamp </I><B>| ~ of </B> </P>
+<P> <SUP> 2 </SUP> <TT> in sb's face </TT> </P>
+<P> <U> ADJ. </U><B> healthy, pink, rosy, warm </B> </P>
+<P> <U> VERB + GLOW </U><B> have </B><I>Her cheeks had a healthy glow. </I> </P>
+<P> <U> PHRASES </U><B> bring a glow to sb's cheeks/face </B><I>The wine had brought a warm glow to her cheeks. </I> </P>
+<P> <SUP> 3 </SUP> <TT> feeling </TT> </P>
+<P> <U> ADJ. </U><B> rosy, warm </B> </P>
+<P> <U> VERB + GLOW </U><B> bask in, bathe in, feel </B><I>She bathed in the warm glow of first love. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>He felt a glow of pride as he watched them. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>glow </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> give out light/heat </TT> </P>
+<P> <U> ADV. </U><B> dully, faintly, softly </B><I>Two lamps glowed softly in the lounge. </I> </P>
+<P> <U> PHRASES </U><B> glow orange, red, etc. </B><I>The stones around the bonfire glowed red with the heat. </I> </P>
+<P> <SUP> 2 </SUP> <TT> look healthy, happy, angry, etc. </TT> </P>
+<P> <U> ADV. </U><B> positively </B> </P>
+<P> <U> PREP. </U><B> with </B><I>She was positively glowing with happiness. </I> </P>
+</DIV>

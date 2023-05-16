@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>famous </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | make sb/sth </B><I>The school was made famous by its association with Charles Dickens. </I> </P>
+<P> <U> ADV. </U><B> really, very | quite | internationally, locally </B><I>internationally famous rock stars </I><B>| justly, rightly </B><I>The city is justly famous for its nightclubs. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>He was famous as both a teacher and a scientist. </I><B>| for </B><I>The town became famous for its lace. </I> </P>
+<P> <U> PHRASES </U><B> rich and famous </B><I>One day I'll be rich and famous, you'll see! </I><B>| world famous </B><I>He became a world famous conductor. </I> </P>
+</DIV>

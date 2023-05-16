@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>atrocity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> appalling, dreadful, terrible, worst </B><I>one of the worst atrocities of the war </I><B>| alleged | terrorist </B> </P>
+<P> <U> VERB + ATROCITY </U><B> be responsible for, carry out, commit, perpetrate </B><I>In the war, both sides committed atrocities. </I><B>| suffer </B> </P>
+<P> <U> ATROCITY + VERB </U><B> occur, take place </B> </P>
+<P> <U> ATROCITY + NOUN </U><B> stories </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>atrocities against the civilian population </I><B>| ~ by </B><I>reports of atrocities by gunmen </I> </P>
+<P> <U> PHRASES </U><B> accounts/allegations/reports of atrocities</B> </P>
+</DIV>

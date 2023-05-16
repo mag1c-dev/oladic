@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>interaction </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complex | informal | social | human | face-to-face, group | classroom </B> </P>
+<P> <U> INTERACTION + NOUN </U><B> processes </B><I>the interaction processes of chimpanzees </I> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>Informal interaction among employees is seen as part of the ongoing training process. </I><B>| ~ between </B><I>the complex interaction between animals and their environment </I><B>| ~ with </B><I>What is her interaction with her boss like? </I><B>| ~ within </B><I>interaction within the group </I> </P>
+<P> <U> PHRASES </U><B> patterns of interaction </B><I>Specific patterns of interaction in the family have been observed. </I> </P>
+</DIV>

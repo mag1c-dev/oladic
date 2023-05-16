@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>miracle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great | minor </B><I>The letter's survival is something of a minor miracle. </I><B>| economic </B> </P>
+<P> <U> VERB + MIRACLE </U><B> perform, work </B><I>Don't expect this medicine to work miracles. </I><B>| believe in | ask for, expect, hope for, pray for | need, take </B><I>It would take a miracle to get the old car going again. </I> </P>
+<P> <U> MIRACLE + VERB </U><B> happen, occur </B> </P>
+<P> <U> MIRACLE + NOUN </U><B> worker | cure </B> </P>
+<P> <U> PREP. </U><B> by a ~ </B><I>By a miracle she escaped serious injury. </I> </P>
+</DIV>

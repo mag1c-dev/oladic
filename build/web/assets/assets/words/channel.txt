@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>channel </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> television/radio station </TT> </P>
+<P> <U> ADJ. </U><B> radio, television/TV, video | cable, satellite, terrestrial | commercial, independent | movie, sports, etc. </B> </P>
+<P> <U> VERB + CHANNEL </U><B> change (to), switch (to/over to), tune (in) to </B><I>I changed channels when the news came on. </I> </P>
+<P> <U> CHANNEL + VERB </U><B> broadcast </B><I>This channel broadcasts 24 hours a day. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>There's an interesting documentary on Channel 4 tonight. </I> </P>
+<P> <SUP> 2 </SUP> <TT> route for sending information </TT> </P>
+<P> <U> ADJ. </U><B> direct, indirect </B><I>Journalists always have indirect channels for getting information. </I><B>| formal, official </B><I>She first tried to get a doctor's certificate through official channels. </I><B>| informal | appropriate, conventional, normal, proper, right, usual | effective </B><I>an effective channel for communication </I><B>| diplomatic | communication, distribution </B><I>worldwide distribution channels </I> </P>
+<P> <U> VERB + CHANNEL </U><B> go through, use </B><I>If you want a visa, you will have to go through the proper channels. </I><B>| establish, open (up) </B><I>attempts to open up new channels of communication </I> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>The government hopes to settle the dispute through diplomatic channels. </I> </P>
+<P> <U> PHRASES </U><B> a channel of communication, channels of distribution </B> </P>
+<P> <SUP> 3 </SUP> <TT> narrow area of water </TT> </P>
+<P> <U> ADJ. </U><B> deep | narrow | drainage, irrigation </B><I>Irrigation channels supply the crops with water. </I><B>| river, water </B><I>The estate has fountains and water channels. </I><B>| shipping</B> </P>
+</DIV>

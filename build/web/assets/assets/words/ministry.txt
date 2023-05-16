@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ministry </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> government | Agriculture, Defence, Education, Environment, Finance, Foreign (Affairs), Health, Interior, Justice, Transport, etc. | key </B><I>He assumed direct control of key ministries. </I> </P>
+<P> <U> VERB + MINISTRY </U><B> run | take over </B><I>The president took over the Ministry of Justice. </I><B>| create </B> </P>
+<P> <U> MINISTRY + VERB </U><B> approve sth, support sth </B><I>The scheme was approved by the Ministry of Housing. </I><B>| control sth | own sth </B><I>on ministry-owned land </I> </P>
+<P> <U> MINISTRY + NOUN </U><B> official, spokesperson </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>staff at the Greek Foreign Ministry </I><B>| for a/the ~, in/within the ~ </B><I>a senior man in the Ministry of Health </I><B>| ~ of </B><I>a spokesman for the Ministry of Culture </I> </P>
+<P> <U> PHRASES </U><B> a department at/in the ministry</B> </P>
+</DIV>

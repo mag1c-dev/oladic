@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>bus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> regular </B><I>There are regular buses to the city centre. </I><B>| double-decker, open-topped | last </B><I>I missed the last bus and had to walk. </I><B>| airport, local, school, sightseeing, tourist </B> </P>
+<P> <U> VERB + BUS </U><B> go by, go on, take, travel by, use | wait for </B><I>I waited 40 minutes for a bus. </I><B>| run for </B><I>I left work a bit late and had to run for my bus. </I><B>| catch, get | miss | board, get on/onto | get off | drive </B> </P>
+<P> <U> BUS + VERB </U><B> go, run </B><I>Local buses run regularly to and from the nearest town. </I><B>| arrive, come | pull up, stop </B><I>The bus pulled up and we got on. The buses stop outside the post office. </I><B>| pick sb up </B><I>The double-decker bus stopped to pick up some more passengers. </I><B>| go from, leave (from) </B><I>Buses leave from here every hour or so. </I><B>| carry sb </B><I>a bus carrying 56 passengers </I> </P>
+<P> <U> BUS + NOUN </U><B> times, timetable </B><I>Look up the bus times in the local timetable. </I><B>| route | lane | depot, shelter, station, stop | queue | journey </B><I>a short bus journey to work </I><B>| conductor, driver, passenger | fare | pass, ticket | company, service </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>It's about 15 minutes away by bus. </I><B>| on a/the ~ </B><I>people travelling on buses </I><B>| ~ for </B><I>Is this the bus for Oxford? </I><B>| ~ from, ~ to </B><I>We took the bus from Reading to Bristol. </I> </P>
+</DIV>

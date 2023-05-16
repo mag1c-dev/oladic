@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>assessment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> broad, general, overall | individual | continuous, regular </B><I>Examination is by continuous assessment. </I><B>| quick, rapid | external, internal | initial | final | accurate, balanced, fair, good, proper, realistic | careful, comprehensive, detailed, formal, systematic, thorough | independent, objective | personal, subjective </B><I>He was shrewd in his personal assessments. </I><B>| adequate | critical | optimistic, pessimistic | course | tax | needs, performance, quality, risk </B><I>Needs assessment is crucial if the hospital is to deliver effective health care. </I><B>| environmental, financial, medical, psychiatric, scientific </B> </P>
+<P> <U> VERB + ASSESSMENT </U><B> carry out, do, give, make, undertake </B><I>The new manager carried out an assessment of the sales department. </I> </P>
+<P> <U> ASSESSMENT + NOUN </U><B> methods, procedures, technique | criteria | process, system </B> </P>
+<P> <U> PHRASES </U><B> a form/method of assessment</B> </P>
+</DIV>

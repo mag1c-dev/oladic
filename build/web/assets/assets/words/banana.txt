@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>banana </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> ripe | green | mashed </B> </P>
+<P> <U> QUANT. </U><B> bunch </B><I>I bought a small bunch of bananas. </I> </P>
+<P> <U> VERB + BANANA </U><B> eat, have | pick | peel </B> </P>
+<P> <U> BANANA + NOUN </U><B> skin </B><I>(figurative) The company has acquired an unhappy knack of slipping on banana skins </I>(= being led into making mistakes that make it look stupid)</B><I>. </I><B>| plant, tree | leaf | grove, plantation </B>&gt; Special page at FRUIT </B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>dissertation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> research | doctoral, Master's, undergraduate | MSc, PhD, etc. | 15,000-word, etc. </B> </P>
+<P> <U> VERB + DISSERTATION </U><B> do, prepare, write </B><I>Students can either do a dissertation or take part in a practical project. </I><B>| complete, finish | hand in, present, submit </B><I>Candidates are required to present a dissertation of between 8,000 and 12,000 words. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He wrote his Master's dissertation on rats. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>electrician </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> apprentice, qualified </B> </P>
+<P> <U> VERB + ELECTRICIAN </U><B> call in </B><I>We need to call in an electrician to sort out the wiring. </I> </P>
+<P> <U> ELECTRICIAN + VERB </U><B> rewire sth, wire sth </B><I>You'll need a qualified electrician to rewire your house. </I></P>
+<a href="/collocation-tag/job" class="tag">Learn more about JOB</a>
+</DIV>

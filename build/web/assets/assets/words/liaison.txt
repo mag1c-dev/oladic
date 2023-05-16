@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>liaison </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> communication </TT> </P>
+<P> <U> ADJ. </U><B> close, effective, good | poor | community, customer | military </B> </P>
+<P> <U> VERB + LIAISON </U><B> maintain </B><I>We maintained a close liaison with the trade union. </I><B>| establish </B><I>We are hoping to establish better customer liaison. </I><B>| improve </B> </P>
+<P> <U> LIAISON + NOUN </U><B> committee, group, unit | officer | work </B> </P>
+<P> <U> PREP. </U><B> in ~ with </B><I>It's important that we work in close liaison with other charities in this field. </I><B>| ~ between </B><I>good liaison between management and staff </I><B>| ~ with </B><I>She is responsible for liaison with researchers at other universities. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sexual relationship </TT> </P>
+<P> <U> ADJ. </U><B> romantic, sexual | adulterous </B> </P>
+<P> <U> VERB + LIAISON </U><B> have </B><I>She was having a romantic liaison with her husband's best friend. </I><B>| form </B> </P>
+<P> <U> PREP. </U><B> ~ with</B> </P>
+</DIV>

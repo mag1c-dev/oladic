@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>stair </B><I>noun </I></B> </P>
+<P> <SUP> 1 </SUP> <TT> stairs steps inside a building  </TT> </P>
+<P> <U> ADJ. </U><B> steep | wide | narrow | rickety | main | back </B> </P>
+<P> <U> QUANT. </U><B> flight </B><I>We went up three flights of stairs. </I> </P>
+<P> <U> VERB + STAIR </U><B> ascend, climb, go/run, etc. up, mount | descend, go/run, etc. down | take, use </B><I>Take the back stairs. </I> </P>
+<P> <U> STAIR + VERB </U><B> lead to sth | creak </B> </P>
+<P> <U> STAIR + NOUN </U><B> rod </B><I>The carpet was held in place by brass stair rods. </I><B>| gate </B> </P>
+<P> <U> PREP. </U><B> under the ~ </B><I>a cupboard under the stairs </I><B>| ~ (down/up) to </B><I>the stairs to the third floor </I> </P>
+<P> <U> PHRASES </U><B> the bottom/foot/head/top of the stairs, take the stairs two, etc. at a time </B><I>He rushed up to the bedroom, taking the stairs two at a time. </I> </P>
+<P> <SUP> 2 </SUP> <TT> one step </TT> </P>
+<P> <U> ADJ. </U><B> top | bottom </B> </P>
+<P> <U> STAIR + VERB </U><B> creak </B><I>The third stair creaked as I stepped on it. </I> </P>
+<P> <U> PREP. </U><B> on/the a ~ </B><I>He sat waiting on the bottom stair. </I> </P>
+</DIV>

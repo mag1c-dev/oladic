@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>diving </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deep-sea, scuba, sub-aqua | commercial </B> </P>
+<P> <U> VERB + DIVING </U><B> go </B> </P>
+<P> <U> DIVING + NOUN </U><B> board | display </B><I>The crowd enjoyed a diving display before the swimming races. </I><B>| equipment, gear, suit | bell </B><I>A diving bell is usually used for operations below 50 metres. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>analysis </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, close, comprehensive, detailed, in-depth, systematic, thorough | brief | objective, subjective | comparative, critical, qualitative, quantitative, statistical, theoretical | cost-benefit, discourse, economic, financial, historical, linguistic, strategic, structural, stylistic </B> </P>
+<P> <U> VERB + ANALYSIS </U><B> carry out, do, make, perform </B><I>They carried out an in-depth analysis of the results. </I><B>| give </B><I>He gave a brief analysis of the present economic situation. </I> </P>
+<P> <U> ANALYSIS + VERB </U><B> indicate sth, show sth </B><I>Analysis of the wine showed that it contained dangerous additives. </I> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>In his analysis of the novel he discusses various aspects of the author's own life. </I> </P>
+<P> <U> PHRASES </U><B> in the final/last analysis </B><I>In the final analysis, the king's power was greater than the bishop's. </I> </P>
+</DIV>

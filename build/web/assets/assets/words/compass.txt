@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>compass </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> magnetic </B> </P>
+<P> <U> VERB + COMPASS </U><B> use | check </B> </P>
+<P> <U> COMPASS + VERB </U><B> show sth </B><I>A compass shows you which direction is north. </I> </P>
+<P> <U> COMPASS + NOUN </U><B> needle | bearing, reading | direction, point | error </B> </P>
+<P> <U> PHRASES </U><B> a map and compass, the points of the compass </B><I>The railway fanned out from Moscow to all points of the compass. </I> </P>
+</DIV>

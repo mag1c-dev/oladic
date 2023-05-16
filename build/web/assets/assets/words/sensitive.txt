@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>sensitive </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> able to understand other people's feelings </TT> </P>
+<P> <U> VERBS </U><B> be | become | make sb </B><I>Her experiences had made her sensitive to other people's troubles. </I> </P>
+<P> <U> ADV. </U><B> deeply, extremely, highly, unusually, very </B><I>a highly sensitive, caring man </I><B>| increasingly | quite </B> </P>
+<P> <U> PREP. </U><B> to </B><I>Horses are very sensitive to their riders' moods. </I> </P>
+<P> <SUP> 2 </SUP> <TT> easily upset/annoyed </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain </B> </P>
+<P> <U> ADV. </U><B> acutely, deeply, extremely, morbidly, painfully, particularly, terribly, very | a bit, pretty, rather </B> </P>
+<P> <U> PREP. </U><B> about </B><I>Teenagers are often very sensitive about their appearance. </I><B>| to </B><I>He was acutely sensitive to criticism. </I> </P>
+<P> <SUP> 3 </SUP> <TT> needing to be dealt with carefully </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, particularly, very </B><I>this highly sensitive issue </I><B>| fairly, rather, somewhat </B><I>a somewhat sensitive question </I><B>| commercially, environmentally, politically, socially </B><I>commercially sensitive information </I> </P>
+<P> <SUP> 4 </SUP> <TT> reacting quickly/more than usual to sth </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, morbidly, painfully, particularly, unusually, very | quite </B> </P>
+<P> <U> PREP. </U><B> to </B><I>Her eyes are very sensitive to light. </I> </P>
+<P> <SUP> 5 </SUP> <TT> able to measure very small changes </TT> </P>
+<P> <U> VERBS </U><B> be </B><I>The bat's hearing is remarkably sensitive. </I> </P>
+<P> <U> ADV. </U><B> acutely, especially, exquisitely, extremely, highly, keenly, remarkably, very </B><I>The equipment is highly sensitive. </I><B>| fairly, quite | enough, sufficiently </B><I>The probe is sensitive enough to detect the presence of a single microbe. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>sensitive to the slightest movement </I> </P>
+</DIV>

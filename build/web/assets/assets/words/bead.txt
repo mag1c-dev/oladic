@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>bead </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> small piece of glass, wood, etc. </TT> </P>
+<P> <U> ADJ. </U><B> amber, glass, wooden, etc. | prayer, rosary </B> </P>
+<P> <U> QUANT. </U><B> strand, string </B><I>a string of wooden beads </I> </P>
+<P> <U> VERB + BEAD </U><B> wear | fasten, put on | take off, undo, unfasten | thread </B><I>She threaded the beads carefully. </I> </P>
+<P> <U> BEAD + VERB </U><B> hang </B><I>A strand of coral beads hung round her neck. </I> </P>
+<P> <U> BEAD + NOUN </U><B> curtain </B> </P>
+<P> <SUP> 2 </SUP> <TT> small drop of liquid </TT> </P>
+<P> <U> PHRASES </U><B> a bead of moisture/perspiration/sweat</B> </P>
+</DIV>

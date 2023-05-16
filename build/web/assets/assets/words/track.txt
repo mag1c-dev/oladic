@@ -1,0 +1,33 @@
+
+<DIV class="item"><P class="word"><B>track </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> marks left behind by a car/a person/an animal </TT> </P>
+<P> <U> ADJ. </U><B> deep | fresh | animal, boot, car, tyre </B><I>The beach is criss-crossed with animal tracks. </I> </P>
+<P> <U> VERB + TRACK </U><B> leave, make </B><I>Rabbits had left tracks in the snow. </I><B>| cover </B><I>(often figurative) He had been careless, and had done little to cover his tracks. </I><B>| follow </B> </P>
+<P> <U> PREP. </U><B> on the ~ of </B><I>(often figurative) She felt the excitement of a journalist on the track of a good story. </I> </P>
+<P> <U> PHRASES </U><B> freeze/halt/stop in your tracks </B><I>(figurative)</I>, <B>halt/stop sb/sth in their/its tracks </B><I>(figurative) The disease was stopped in its tracks by immunization programmes. </I><B>| make tracks </B><I>(figurative) It's getting late?I'd better make tracks </I>(= leave)</B><I>. </I> </P>
+<P> <SUP> 2 </SUP> <TT> path/rough road </TT> </P>
+<P> <U> ADJ. </U><B> narrow | wide | steep | bumpy, dusty, grassy, muddy, rough, rutted, sandy, slippery, stony | ancient, medieval | cinder, dirt, mud, unpaved | cart, cycle, sheep, ski | single </B><I>a single track road with passing places </I><B>| farm, forest/forestry, hillside, mountain, woodland | perimeter </B><I>A few planes were parked on the perimeter track of the airfield. </I> </P>
+<P> <U> VERB + TRACK </U><B> follow </B> </P>
+<P> <U> TRACK + VERB </U><B> lead </B><I>The track leads across a meadow. </I><B>| fork </B><I>When the track forks, take the left fork. </I> </P>
+<P> <U> PREP. </U><B> along/down/up a/the ~ </B><I>Continue along the farm track for another hundred metres. </I> </P>
+<P> <U> PHRASES </U><B> off the beaten track </B><I>(figurative) </I>(= not in a place that most people go to), <B>on the right/wrong track </B><I>(figurative) The new manager successfully got the team back onto the right track. </I><B>| on the wrong track </B><I>(figurative) The police were on the wrong track when they treated the case as a revenge killing. </I> </P>
+<P> <SUP> 3 </SUP> <TT> special path, often in a circle, for racing </TT> </P>
+<P> <U> ADJ. </U><B> race (also racetrack), running | indoor, outdoor | all-weather | training, warm-up | fast | dog </B> </P>
+<P> <U> PHRASES </U><B> track and field </B><I>The competition features many top track and field athletes. </I> </P>
+<P> <SUP> 4 </SUP> <TT> metal rails on which a train runs </TT> </P>
+<P> <U> ADJ. </U><B> rail, railway, tram | double, single | elevated | eastbound, westbound, etc. | narrow gauge, standard gauge </B> </P>
+<P> <U> VERB + TRACK </U><B> lay | lift </B><I>Many branch lines were closed, and the tracks lifted. </I> </P>
+<P> <U> TRACK + NOUN </U><B> layout </B> </P>
+<P> <SUP> 5 </SUP> <TT> direction/course that sb/sth takes </TT> </P>
+<P> <U> ADJ. </U><B> fast, inside </B><I>an inside track to the ear of government </I><B>| parallel, twin </B><I>a twin track approach to crime </I><B>| career </B><I>She decided to change her career track. </I> </P>
+<P> <U> VERB + TRACK </U><B> switch </B><I>He switched tracks and went back to college. </I> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>Film comedy developed along a similar track to film drama. </I><B>| on (a/the) ~ </B><I>A UN spokesman insisted that the implementation of the peace plan is back on track. The ship was on a southerly track. </I><B>| ~ for </B><I>She seems to be on the fast track for promotion. </I><B>| ~ to </B><I>The country is on the fast track to democracy. </I> </P>
+<P> <U> PHRASES </U><B> keep track of sth </B>(= to know what is happening, where sth is, etc.) <I>Keep track of all your payments by writing them down in a book. </I><B>| lose track of sth </B>(= to not know what is happening, where sth is, etc.) <I>I was so absorbed in my work that I lost track of time. </I> </P>
+<P> <SUP> 6 </SUP> <TT> one song/piece of music on a cassette/CD </TT> </P>
+<P> <U> ADJ. </U><B> album | live | title | unreleased | dance, disco | backing | drum, guitar, rhythm, solo, vocal </B>(see also <B>soundtrack) </B> </P>
+<P> <U> VERB + TRACK </U><B> cut, lay down, record </B><I>She had already cut a couple of tracks as lead singer with her own group. </I><B>| play | listen to</B> </P>
+</DIV><DIV class="item"><P class="word"><B>track record </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, impressive, proven | poor </B> </P>
+<P> <U> VERB + TRACK RECORD </U><B> have, possess </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>If possible, select pairs of fish that already have a track record for breeding. </I><B>| ~ in </B><I>Applicants should have a proven track record in telesales. </I> </P>
+</DIV>

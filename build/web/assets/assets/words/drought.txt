@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>drought </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> severe, terrible, worst </B><I>It has been the worst drought in the country's history. </I><B>| long, prolonged | summer </B> </P>
+<P> <U> VERB + DROUGHT </U><B> have </B><I>England has had several summer droughts in recent years. </I><B>| cause | break </B><I>A week of good rains has broken the drought. </I> </P>
+<P> <U> DROUGHT + VERB </U><B> affect sth </B><I>Large areas of Africa are affected by severe drought. </I> </P>
+<P> <U> DROUGHT + NOUN </U><B> conditions </B> </P>
+<P> <U> PREP. </U><B> during/in ~ </B><I>Some of the newer plants in the garden died during the drought. </I> </P>
+<P> <U> PHRASES </U><B> in times of drought, months/years of drought</B> </P>
+</DIV>

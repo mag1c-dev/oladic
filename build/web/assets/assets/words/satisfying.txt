@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>satisfying </b><i>adj. </i> </p>
+<p> <u> VERBS </u><div class="ex"><b> be | find sth </b></div></p>
+<p> <u> ADV. </u><div class="ex"><b> deeply, eminently, extremely, highly, immensely, really, richly, very </b></div><div class="excontent"><i>There's something deeply satisfying about eating vegetables that you have grown yourself. </i></div><div class="ex"><b>| completely, thoroughly, wholly | quite | personally </b></div><div class="excontent"><i>the need for a personally satisfying set of beliefs </i></div><div class="ex"><b>| mutually </b></div><div class="excontent"><i>a mutually satisfying relationship </i></div><div class="ex"><b>| aesthetically, logically, musically</b></div></p>
+</div>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>freight </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | air, rail, road </B> </P>
+<P> <U> VERB + FREIGHT </U><B> carry, handle, haul, move, transfer, transport </B><I>All vehicles carrying freight need a special licence. an agent handling freight and passengers The freight was transferred to a train at Rotterdam. </I> </P>
+<P> <U> FREIGHT + NOUN </U><B> car, locomotive, train, transport, wagon </B><I>The train's freight wagons can carry a fully-laden lorry. </I><B>| traffic | depot, terminal, yard | carrier, company | business, industry | service | charges, costs</B> </P>
+</DIV>

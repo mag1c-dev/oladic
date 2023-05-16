@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>reliable </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, prove, seem | become | consider sth </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>It has a highly reliable control system. </I><B>| absolutely, completely, perfectly, totally </B><I>He's a good musician and totally reliable. </I><B>| not entirely, not exactly, not terribly, not wholly | fairly, quite, pretty, reasonably | enough, sufficiently </B><I>These measurements are reliable enough for most purposes. </I> </P>
+<P> <U> PREP. </U><B> as </B><I>This statement is not reliable as evidence. </I> </P>
+</DIV>

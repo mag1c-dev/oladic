@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>transmit </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> pass sth from one person to another </TT> </P>
+<P> <U> ADV. </U><B> actively | easily, readily | genetically, sexually </B><I>the study of genetically transmitted diseases </I> </P>
+<P> <U> PREP. </U><B> from, through </B><I>The disease cannot be transmitted through coughing or sneezing. </I><B>| to </B><I>The infection can be transmitted from a mother to her baby. </I><B>| via </B><I>The virus is easily transmitted via needles. </I> </P>
+<P> <SUP> 2 </SUP> <TT> send out TV programmes/electronic signals, etc. </TT> </P>
+<P> <U> ADV. </U><B> automatically | electronically </B> </P>
+<P> <U> PREP. </U><B> from, to </B><I>automatically transmitting data from one part of the system to another </I> </P>
+</DIV>

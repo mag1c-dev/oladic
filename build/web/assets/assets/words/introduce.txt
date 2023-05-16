@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>introduce </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> tell people sb's name </TT> </P>
+<P> <U> ADV. </U><B> formally, properly </B><I>We have met before, but we haven't been formally introduced. </I> </P>
+<P> <U> VERB + INTRODUCE </U><B> allow me to, can, let me, may </B><I>Let me introduce myself. May I introduce my wife, Sarah? </I> </P>
+<P> <U> PREP. </U><B> as </B><I>He introduced me as a new member of the company. </I><B>| to </B><I>She introduced me to her neighbours. </I> </P>
+<P> <SUP> 2 </SUP> <TT> start using/doing sth for the first time </TT> </P>
+<P> <U> ADV. </U><B> gradually | rapidly </B> </P>
+<P> <U> VERB + INTRODUCE </U><B> intend to, plan to, want to </B><I>The local council plans to introduce new regulations on parking. </I><B>| attempt to, try to </B><I>She attempted in vain to introduce some order into the classroom. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>New technology is rapidly being introduced into factories. </I> </P>
+<P> <U> PHRASES </U><B> newly/recently introduced </B><I>These measures have only been recently introduced. </I> </P>
+</DIV>

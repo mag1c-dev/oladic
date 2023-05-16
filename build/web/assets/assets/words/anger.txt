@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>anger </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bitter, black, cold, deep, fierce, great, savage, terrible | genuine, real | growing, mounting, rising </B><I>mounting anger among teachers and parents </I><B>| sudden | righteous </B><I>Catherine appeared in the doorway, shaking with righteous anger. </I><B>| controlled, pent-up, suppressed | popular, public | widespread </B> </P>
+<P> <U> QUANT. </U><B> burst, fit, outburst </B><I>He slammed the door in a fit of anger. </I> </P>
+<P> <U> VERB + ANGER </U><B> be filled with, feel, shake with, tremble with </B><I>His eyes were filled with anger. She was trembling with anger. </I><B>| express, give vent to, show, vent, voice </B><I>Children give vent to their anger in various ways. </I><B>| control, hide, suppress </B><I>It is not healthy to suppress your anger. </I><B>| arouse, cause, fill sb with, fuel, provoke, stir up </B><I>His words fuelled her anger. </I><B>| change to, give way to, turn to </B><I>His joy soon turned to anger when he heard the full story. </I> </P>
+<P> <U> ANGER + VERB </U><B> boil over/up, bubble up, build up, flare (up), grow, mount, rise, well up </B><I>Henry stood up, his anger rising. </I><B>| abate, drain, evaporate, fade, subside </B><I>The anger drained from his face. Her anger subsided as quickly as it had flared up. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He raised his voice in anger. </I><B>| with ~ </B><I>His face was flushed with anger. </I><B>| ~ against </B><I>her feelings of anger against the murderer </I><B>| ~ at </B><I>I felt a sudden anger at his suggestion. </I><B>| ~ over </B><I>There is much anger over plans to close the hospital. </I><B>| ~ towards </B><I>her anger towards her parents </I> </P>
+<P> <U> PHRASES </U><B> a feeling of anger, in a moment of anger </B><I>He had walked out in a moment of anger. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>anger </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> deeply, greatly </B><I>I was deeply angered by their lack of concern. </I> </P>
+</DIV>

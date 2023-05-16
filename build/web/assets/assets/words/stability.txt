@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>stability </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> greater | relative | long-term | internal | economic, financial, monetary, price | political, social | emotional </B> </P>
+<P> <U> VERB + STABILITY </U><B> achieve, bring, ensure, give sb, provide (sb with) </B><I>The policy should bring greater monetary stability to the country. </I><B>| lack | threaten, undermine | maintain, preserve </B> </P>
+<P> <U> PHRASES </U><B> a period of stability </B><I>The country was enjoying a period of political stability. </I><B>| a threat to stability </B><I>The conflict is becoming a threat to stability in the region. </I> </P>
+</DIV>

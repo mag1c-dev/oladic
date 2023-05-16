@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>bed </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of furniture for sleeping on </TT> </P>
+<P> <U> ADJ. </U><B> double, king-size, single, twin | bunk, camp, feather, folding, four-poster, hospital, sofa | warm | unmade </B><I>a messy room, with an unmade bed and clothes on the floor </I><B>| marriage </B> </P>
+<P> <U> VERB + BED </U><B> do </B><I>(informal)</I>, <B>make, make up | strip </B><I>Please strip the beds and put the sheets in the washing machine. </I><B>| climb into, crawl into, get into, go to, tumble into </B><I>She crawled into bed exhausted. </I><B>| climb out of, get out of, leap out of | lie (down) on, lie in, sit on </B><I>He lay in bed, reading his book. Elizabeth was sitting on her bed writing a letter. </I><B>| put sb to, tuck sb up in </B><I>It's your turn to put the children to bed. </I><B>| wet </B><I>Don't punish a child who wets the bed. </I> </P>
+<P> <U> BED + NOUN </U><B> clothes, linen </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>I like to be in bed before 11 o'clock. </I><B>| out of ~ </B><I>Are you out of bed yet? </I> </P>
+<P> <U> PHRASES </U><B> bed and breakfast, the edge/side of the bed, the foot/head of the bed, get sb into bed </B>(= have sex with sb), <B>go to bed with sb </B>(= have sex with sb), <B>take to your bed </B>(= go to bed because you are ill), <B>time for bed </B><I>Come on, children, it's time for bed. </I> </P>
+<P> <SUP> 2 </SUP> <TT> piece of ground for growing flowers, vegetables, etc. </TT> </P>
+<P> <U> ADJ. </U><B> flower, rose, strawberry | ornamental | raised </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>ornamental beds of roses </I> </P>
+</DIV>

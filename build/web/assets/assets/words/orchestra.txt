@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>orchestra </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large, small | full </B><I>The full orchestra includes two pairs of French horns. </I><B>| great, top | amateur, professional | philharmonic, symphony | chamber, dance, jazz, string, wind | school, youth </B> </P>
+<P> <U> VERB + ORCHESTRA </U><B> conduct | lead </B> </P>
+<P> <U> ORCHESTRA + VERB </U><B> perform (sth), play (sth) | strike (sth) up </B><I>The orchestra struck up a lively march. </I><B>| tune up </B> </P>
+<P> <U> ORCHESTRA + NOUN </U><B> pit </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>She plays viola in a string orchestra. </I><B>| ~ under </B><I>the Ulster Orchestra under Philip Ledger </I> </P>
+<P> <U> PHRASES </U><B> the leader of the orchestra</B> </P>
+</DIV>

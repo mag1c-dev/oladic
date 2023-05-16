@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>turnover </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount of business a company does </TT> </P>
+<P> <U> ADJ. </U><B> large | low, small | company, group | aggregate, combined, total </B><I>The combined turnover of both businesses has doubled in the last two years. </I><B>| gross, net | annual, daily, etc. | global, worldwide | market | capital | stock </B> </P>
+<P> <U> VERB + TURNOVER </U><B> have | record </B><I>The company recorded a turnover of </I>&pound;</B><I>50 million last year. </I><B>| boost, increase | reduce </B> </P>
+<P> <U> TURNOVER + VERB </U><B> be up | be down </B><I>Turnover was down compared with last year's figures. </I><B>| double, grow, increase, rise </B><I>The firm's UK turnover increased (by) 30% to </I>&pound;</B><I>10 million. </I><B>| drop, fall, slip </B><I>Turnover fell from </I>&pound;</B><I>12 million to </I>&pound;</B><I>11 million. </I><B>| reach sth </B><I>Turnover reached $2 billion in the 12 months to September. </I><B>| exceed sth, top sth </B><I>The company's worldwide turnover exceeds $5 billion. </I> </P>
+<P> <U> TURNOVER + NOUN </U><B> figure, growth, rate, tax </B> </P>
+<P> <U> PHRASES </U><B> a decline/fall in turnover, an increase/a rise in turnover </B>&gt; Special page at BUSINESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> rate at which people come and go from a job/place </TT> </P>
+<P> <U> ADJ. </U><B> fast, high, rapid | low | labour, staff | population </B><I>The inner city has a rapid population turnover. </I> </P>
+<P> <U> VERB + TURNOVER </U><B> have</B> </P>
+</DIV>

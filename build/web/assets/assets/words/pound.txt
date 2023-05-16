@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pound </B><I>noun</I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> money </TT> </P>
+<a href="/collocation-tag/currencies" class="tag">Learn more about CURRENCIES</a>
+
+<P> <SUP> 2 </SUP> <TT> measure of weight </TT> </P>
+<a href="/collocation-tag/measure" class="tag">Learn more about MEASURE</a>
+</DIV>

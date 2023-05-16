@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>flood </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large amount of water </TT> </P>
+<P> <U> ADJ. </U><B> devastating, great, heavy, severe | summer, winter </B> </P>
+<P> <U> VERB + FLOOD </U><B> cause </B><I>Heavy rainfall in the mountains caused the floods. </I> </P>
+<P> <U> FLOOD + VERB </U><B> hit sth, strike sth </B><I>This summer the region was struck by devastating floods. </I><B>| inundate sth </B><I>The meadowland was inundated by heavy floods. </I><B>| cause sth </B><I>The flood caused widespread destruction. </I><B>| subside </B><I>The floods are slowly subsiding. </I> </P>
+<P> <U> FLOOD + NOUN </U><B> water/waters | alert, damage, victim | control, defence, prevention, protection, relief </B> </P>
+<P> <U> PHRASES </U><B> be in (full) flood </B><I>The river was in full flood </I>(= had flooded its banks)</B><I>. </I> </P>
+<P> <SUP> 2 </SUP> <TT> large number/amount </TT> </P>
+<P> <U> ADJ. </U><B> great | constant | sudden </B> </P>
+<P> <U> FLOOD + VERB </U><B> inundate sb/sth </B><I>She was inundated by floods of fan mail. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a great flood of refugees </I> </P>
+<P> <U> PHRASES </U><B> in floods of tears </B>(= crying a lot) <I>The little girl was in floods of tears. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>flood </B><I>verb </I> </P>
+<P> <U> VERB + FLOOD </U><B> be liable to </B><I>The area near the river is liable to flood. </I> </P>
+<P> <U> PHRASES </U><B> be badly flooded </B><I>The village had been badly flooded. </I> </P>
+</DIV>

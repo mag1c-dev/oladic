@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>monastery </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great </B><I>the great monstery of St-Quentin </I><B>| medieval, old | ruined | Benedictine, Dominican, etc. | Buddhist </B> </P>
+<P> <U> VERB + MONASTERY </U><B> enter, go into </B>(= become a monk) <I>He entered a monastery as a young man. </I><B>| found </B><I>The monastery was founded in 1665. </I> </P>
+<P> <U> MONASTERY + NOUN </U><B> building, church </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>You can stay at the monastery. </I><B>| in a/the ~ </B><I>He lived in a monastery for most of his life. </I> </P>
+</DIV>

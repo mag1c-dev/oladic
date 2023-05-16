@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>habitat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> native, natural </B><I>her observations of wild chimps in their natural habitat </I><B>| important | endangered, fragile, threatened </B><I>Peat bogs are one of Europe's most threatened habitats. </I><B>| coastal, forest, wetland, wildlife, woodland </B> </P>
+<P> <U> VERB + HABITAT </U><B> provide </B><I>The forest provides a habitat for hundreds of species of plants and animals. </I><B>| conserve, protect </B><I>new measures to protect wildlife habitats </I><B>| damage, destroy, disrupt </B><I>Development is destroying the animal's native habitat. </I> </P>
+<P> <U> HABITAT + VERB </U><B> support sth </B><I>The many different habitats support a wide variety of birds. </I> </P>
+<P> <U> HABITAT + NOUN </U><B> destruction, loss </B><I>Many species are threatened in the wild due to habitat destruction by man. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>the animals and plants in this woodland habitat </I><B>| ~ for </B><I>The moorland is an important habitat for many rare bird species. </I> </P>
+<P> <U> PHRASES </U><B> loss of habitat </B><I>The greatest danger to tigers now is through loss of habitat. </I> </P>
+</DIV>

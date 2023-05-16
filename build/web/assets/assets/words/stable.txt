@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>stable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not likely to move </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | make sth | keep sth </B><I>Put a book under the table to keep it stable. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | perfectly, quite </B><I>Don't worry?it's perfectly stable! </I><B>| fairly, pretty | enough, sufficiently </B><I>The unit is stable enough on level ground. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not likely to change suddenly </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become | remain | keep sth </B><I>attempts to keep prices stable </I> </P>
+<P> <U> ADV. </U><B> extremely, highly, remarkably, very | completely, perfectly </B><I>Animals rarely live in completely stable environments. </I><B>| broadly, comparatively, fairly, more or less, quite, reasonably, relatively, roughly | enough, sufficiently </B><I>He was not emotionally stable enough to think through his decision. </I><B>| apparently | emotionally, financially, politically</B> </P>
+</DIV>

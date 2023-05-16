@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>metaphor </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> appropriate, apt, striking | mixed </B> </P>
+<P> <U> VERB + METAPHOR </U><B> use </B><I>He uses the metaphor of fire to represent hatred. </I> </P>
+<P> <U> METAPHOR + VERB </U><B> describe sth, represent sth </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>&lsquo;This vale of tears&rsquo; is a metaphor for the human condition. </I><B>| ~ of </B><I>the metaphor of life as a journey </I> </P>
+</DIV>

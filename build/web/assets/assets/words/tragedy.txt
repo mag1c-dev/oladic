@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>tragedy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> event/situation that causes great sadness </TT> </P>
+<P> <U> ADJ. </U><B> absolute, appalling, awful, great, major, real, terrible | family, human, personal, private </B> </P>
+<P> <U> VERB + TRAGEDY </U><B> end in </B><I>A family's outing ended in tragedy when their boat capsized. </I><B>| be dogged by, suffer | avert, avoid, prevent </B> </P>
+<P> <U> TRAGEDY + VERB </U><B> happen, occur, strike (sb) </B><I>Tragedy struck when their 8-year-old daughter was knocked down by a car. </I> </P>
+<P> <U> PREP. </U><B> ~ for sb </B><I>The closure of the factory is a tragedy for the whole community. </I> </P>
+<P> <SUP> 2 </SUP> <TT> serious play with a sad ending </TT> </P>
+<P> <U> ADJ. </U><B> classical, Greek, Jacobean, Shakespearean</B> </P>
+</DIV>

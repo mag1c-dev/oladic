@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>succession </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> series of people, things, etc. </TT> </P>
+<P> <U> ADJ. </U><B> endless, long, never-ending | constant, continuous, uninterrupted | quick, rapid </B><I>We lost three secretaries in quick succession. </I><B>| whole </B><I>A whole succession of presidents had tried to resolve the issue without success. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>There has been a rise in crime for the second year in succession. </I> </P>
+<P> <SUP> 2 </SUP> <TT> right to have an important position after sb else </TT> </P>
+<P> <U> ADJ. </U><B> legitimate | disputed | dynastic, hereditary </B> </P>
+<P> <U> VERB + SUCCESSION </U><B> ensure, secure </B><I>He wanted to have a son to secure the succession. </I> </P>
+<P> <U> PREP. </U><B> in ~ to </B><I>Betty Munn is the manager in succession to Edna Greenan. </I> </P>
+<P> <U> PHRASES </U><B> the line/order of succession </B><I>He is next in (the) line of succession to the British throne. </I><B>| the right of succession, succession to the throne</B> </P>
+</DIV>

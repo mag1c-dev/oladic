@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>knife </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> tool for cutting </TT> </P>
+<P> <U> ADJ. </U><B> blunt, sharp | long | bone, bone-handled, silver, steel | bread, butcher's, carving, craft, fish, flick, hunting, kitchen, palette, pocket, sheath, Stanley(R), surgeon's, table </B> </P>
+<P> <U> QUANT. </U><B> set </B><I>a set of kitchen knives </I> </P>
+<P> <U> VERB + KNIFE </U><B> pick up </B><I>She picked up her knife and fork and started to eat. </I><B>| lay down, put down | use </B><I>Use a sharp knife to cut away the spare pastry. </I><B>| sharpen | hold </B> </P>
+<P> <U> KNIFE + VERB </U><B> cut </B><I>That knife doesn't cut very well?it needs sharpening. </I><B>| clatter </B> </P>
+<P> <U> KNIFE + NOUN </U><B> blade, handle </B> </P>
+<P> <U> PREP. </U><B> with a/the ~ </B><I>The lines can be cut with a craft knife. </I> </P>
+<P> <U> PHRASES </U><B> the blade of a knife, the handle of a knife, a knife and fork </B> </P>
+<P> <SUP> 2 </SUP> <TT> used as a weapon </TT> </P>
+<P> <U> ADJ. </U><B> long, sharp </B> </P>
+<P> <U> VERB + KNIFE </U><B> be armed with, carry, have </B><I>She carries a knife in her bag now. </I><B>| brandish, wield | draw (out), produce, pull (out), take out </B><I>He suddenly pulled a knife on me. </I><B>| come at sb with, stab sb with, threaten sb with </B><I>She stabbed him in the back with a 12-inch knife. </I><B>| plunge, push, put, stick </B><I>He plunged the knife deep into her heart. </I><B>| sharpen, whet </B> </P>
+<P> <U> KNIFE + VERB </U><B> cut | clatter </B><I>As he fell, the knife clattered to the floor. </I> </P>
+<P> <U> KNIFE + NOUN </U><B> attack </B><I>a frenzied knife attack </I><B>| wound | blade </B> </P>
+<P> <U> PREP. </U><B> with a/the ~ </B> </P>
+<P> <U> PHRASES </U><B> the blade of a knife, the hilt of a knife, hold a knife against/at/to sb's throat, a knife in sb's heart </B><I>(figurative) Each word he uttered was a knife in her heart. </I><B>| put a knife to sb's throat </B><I>She put the knife to his throat to frighten him into silence. </I> </P>
+</DIV>

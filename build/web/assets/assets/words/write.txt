@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>write </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> form letters and words on paper </TT> </P>
+<P> <U> ADV. </U><B> clearly, neatly </B><I>Children must learn to write neatly. </I><B>| busily </B><I>She was busily writing in an exercise book. </I><B>| down, out </B><I>I'd better write this down, otherwise I'll forget it. </I> </P>
+<P> <U> VERB + WRITE </U><B> learn to | teach sb to </B> </P>
+<P> <U> PREP. </U><B> on </B><I>He wrote a list on the back of an old envelope. </I> </P>
+<P> <SUP> 2 </SUP> <TT> produce a piece of writing </TT> </P>
+<P> <U> ADV. </U><B> beautifully, well | badly | clearly </B><I>the ability to write clearly in plain English </I><B>| extensively </B><I>He has written extensively on the subject. </I><B>| anonymously </B> </P>
+<P> <U> VERB + WRITE </U><B> commission sb to </B><I>He has been commissioned to write a history of the town. </I><B>| inspire sb to, prompt sb to </B><I>She was inspired to write the poem by a visit to the cathedral. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>a journalist who writes about problems in the developing world </I><B>| for </B><I>She writes for &lsquo;The Times&rsquo;. </I><B>| of </B><I>She wrote of her life in Africa. </I><B>| on </B><I>He writes on political issues. </I> </P>
+</DIV>

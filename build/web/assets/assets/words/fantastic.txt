@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>fantastic </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> very good </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, smell, sound, taste </B><I>I felt fantastic after my swim. This cake tastes fantastic. </I> </P>
+<P> <U> ADV. </U><B> really, truly </B><I>We had a really fantastic holiday. </I><B>| absolutely, just, quite </B><I>The sense of freedom was absolutely fantastic. </I> </P>
+<P> <SUP> 2 </SUP> <TT> strange </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound </B> </P>
+<P> <U> ADV. </U><B> rather </B><I>It may sound rather fantastic, but it's the truth. </I><B>| increasingly </B><I>The plot gets increasingly fantastic as the film goes on. </I> </P>
+</DIV>

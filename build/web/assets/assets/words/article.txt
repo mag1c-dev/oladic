@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>article </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of writing </TT> </P>
+<P> <U> ADJ. </U><B> brilliant, excellent, good, informative, interesting | influential, major, seminal | controversial, critical, provocative | in-depth | feature, lead/leading, review </B><I>A leading article in &lsquo;The Times&rsquo; accused the minister of lying. </I><B>| occasional </B>(= not part of a series) <I>It was her job to commission occasional articles. </I><B>| offending </B><I>An advertisement will now replace the offending article. </I><B>| academic, learned, scholarly | journal, magazine, newspaper, periodical, press </B> </P>
+<P> <U> QUANT. </U><B> series </B> </P>
+<P> <U> VERB + ARTICLE </U><B> commission | do </B><I>I'm doing an article about ways of preventing pollution. </I><B>| contribute, submit | read, see </B><I>Did you see the article on Europe in today's paper? </I><B>| carry, feature, print, publish, run </B><I>The magazine refused to print his article. </I> </P>
+<P> <U> ARTICLE + VERB </U><B> appear </B><I>The article appears in this week's edition of &lsquo;The Spectator&rsquo;. </I><B>| describe sth, detail sth, explain sth, point sth out, say sth, state sth | discuss sth, examine sth, explore sth, focus on sth, look at sth </B><I>The article looks at two questions. </I><B>| allege sth, argue sth, claim sth, imply sth, suggest sth | attack sb/sth, criticize sb/sth | cite sb/sth, quote sb/sth | continue, go on </B><I>The article goes on to quote from Darwin's &lsquo;Origin of Species&rsquo;. </I><B>| conclude sth </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>She admitted she was wrong in an article in the newspaper. </I><B>| ~ about, ~ by </B><I>an article about atomic clocks by Professor Keith Runcorn </I><B>| ~ on </B><I>an article on the dangers of sunbathing </I> </P>
+<P> <U> PHRASES </U><B> an article called/entitled/headed sth </B><I>an article entitled &lsquo;Think Yourself Thin&rsquo; </I> </P>
+<P> <SUP> 2 </SUP> <TT> part of law </TT> </P>
+<P> <U> ADJ. </U><B> key </B><I>The key articles of the constitution can only be changed by referendum. </I> </P>
+<P> <U> VERB + ARTICLE </U><B> be in breach of, breach, contravene, flout, infringe, violate </B><I>The actions of the organization are in breach of Article 12 of the treaty. </I> </P>
+<P> <U> ARTICLE + VERB </U><B> provide sth, specify sth, state sth </B><I>Article 10 provides that all businesses must be registered correctly. </I> </P>
+<P> <U> PREP. </U><B> under an/the ~ </B><I>The judge ordered the child's return home under Article 12 of the Convention. </I> </P>
+<P> <U> PHRASES </U><B> the terms of an article </B><I>The terms of Article 3 will be changed by the new government. </I> </P>
+<P> <SUP> 3 </SUP> <TT> thing </TT> </P>
+<P> <U> ADJ. </U><B> finished </B><I>The finished article takes two months to manufacture. </I><B>| the genuine </B><I>Fake designer watches are sold at a fraction of the price of the genuine article. </I><B>| offending | household, toilet </B> </P>
+<P> <U> VERB + ARTICLE </U><B> make, manufacture, produce </B> </P>
+<P> <U> PHRASES </U><B> an article of clothing </B> </P>
+<P> <SUP> 4 </SUP> <TT> grammar </TT> </P>
+<P> <U> ADJ. </U><B> definite, indefinite </B> </P>
+<P> <U> VERB + ARTICLE </U><B> take </B><I>Names of countries in English do not usually take an article. </I> </P>
+</DIV>

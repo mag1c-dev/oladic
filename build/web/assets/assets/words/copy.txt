@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>copy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> document/work of art </TT> </P>
+<P> <U> ADJ. </U><B> accurate, faithful, good | cheap, crude, poor </B><I>It was not the original painting, but a crude copy. </I><B>| carbon, duplicate, exact, facsimile, identical, perfect, true </B><I>The twins were carbon copies of each other. It must be certified as a true copy of the original document. </I><B>| draft, working | clean, fair | master, original, top </B><I>Take a photocopy of the master copy. </I><B>| additional, extra, further, spare | multiple </B><I>The photocopier had been set for multiple copies. </I><B>| modern | certified | photographic, photostat | back-up </B><I>Remember to make back-up copies of all your disks. </I><B>| hard, paper, printed </B><I>(computing) You will need to supply a hard copy version of all files. </I> </P>
+<P> <U> VERB + COPY </U><B> make, print, run off, take </B><I>I ran off a couple of copies of the letter. </I><B>| attach, enclose, send </B><I>I attach a copy of the report. Please find enclosed a copy of the draft document. </I><B>| circulate, distribute, supply </B><I>Copies of the article were circulated to members of the committee. </I><B>| obtain, receive | keep </B><I>Remember to keep copies of all your correspondence. </I> </P>
+<P> <SUP> 2 </SUP> <TT> book/newspaper/tape, etc. </TT> </P>
+<P> <U> ADJ. </U><B> additional, extra, further, spare | back, old </B><I>I have a few back copies of the newspaper. </I><B>| advance </B><I>Advance copies of the book were sent out to reviewers. </I><B>| review | complimentary, free </B><I>Free copies of the leaflet are available from the Department of the Environment. </I><B>| illegal, illicit, pirate/pirated, unauthorized | manuscript, printed, proof | bound, hardback, leather-bound, paperback, presentation </B><I>The candidate must submit two bound copies of his or her thesis. </I><B>| battered, tattered, well-thumbed </B><I>my battered copy of Shakespeare's plays </I><B>| perfect, pristine | personal </B><I>Charles I's personal copy of the psalter </I><B>| signed </B> </P>
+<P> <U> VERB + COPY </U><B> circulate, distribute | sign </B><I>Author Bob Woodhouse will be signing copies of his new book. </I> </P>
+<P> <U> COPY + VERB </U><B> circulate </B><I>Even with the new legislation pirate copies will circulate. </I><B>| be available </B> </P>
+<P> <SUP> 3 </SUP> <TT> written material </TT> </P>
+<P> <U> ADJ. </U><B> good, great | advertising | editorial | knocking </B><I>(informal) Knocking copy </I>(= writing that just says how bad sb/sth is) </B><I>is simply lazy journalism. </I> </P>
+<P> <U> VERB + COPY </U><B> edit, prepare, produce, write </B><I>The subeditors prepare the reporters' copy for the paper. </I><B>| make </B><I>This will make great copy for the advertisement. </I> </P>
+<P> <U> COPY + NOUN </U><B> editor | date, deadline </B><I>Copy date </I>(= the date for handing in copy) </B><I>for the next issue is 1 May. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>copy </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make a copy </TT> </P>
+<P> <U> ADV. </U><B> illegally </B><I>illegally copied software </I> </P>
+<P> <U> PREP. </U><B> from, onto </B><I>Data can be copied from the computer onto floppy disks. </I> </P>
+<P> <SUP> 2 </SUP> <TT> write sth down exactly </TT> </P>
+<P> <U> ADV. </U><B> carefully, laboriously, painstakingly | down, out </B><I>I copied down several phone numbers from the list. laboriously copying out an old manuscript </I> </P>
+<P> <U> PREP. </U><B> from, into </B><I>She copied all the addresses into her address book. </I><B>| off </B><I>copying a recipe off the packet </I><B>| onto </B><I>He copied all the details from the brochure onto a piece of paper. </I> </P>
+<P> <SUP> 3 </SUP> <TT> do the same as sb else </TT> </P>
+<P> <U> ADV. </U><B> slavishly </B><I>She slavishly copies the older girl's style. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>He's copied that mannerism from his brother. </I><B>| off </B><I>She was caught copying off another student. </I> </P>
+</DIV>

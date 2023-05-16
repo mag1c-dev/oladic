@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>writing </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> putting words on paper </TT> </P>
+<P> <U> VERB + WRITING </U><B> do, practise </B><I>Every morning the children do writing. </I><B>| improve </B> </P>
+<P> <U> WRITING + NOUN </U><B> paper | desk </B> </P>
+<P> <U> PHRASES </U><B> reading and writing </B> </P>
+<P> <SUP> 2 </SUP> <TT> activity/job of writing </TT> </P>
+<P> <U> ADJ. </U><B> effective </B><I>The book aims to teach effective essay writing. </I><B>| creative, descriptive, imaginative | academic, critical, scientific, technical | fiction, essay, letter, novel, prose, report, script |  travel </B> </P>
+<P> <U> QUANT. </U><B> piece </B> </P>
+<P> <U> VERB + WRITING </U><B> teach </B> </P>
+<P> <U> WRITING + NOUN </U><B> skills </B> </P>
+<P> <U> PHRASES </U><B> a style of writing </B> </P>
+<P> <SUP> 3 </SUP> <TT> written/printed words </TT> </P>
+<P> <U> VERB + WRITING </U><B> put sth into </B><I>The arrangement was never put into writing. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>This agreement has to be confirmed in writing. </I>  </B> </P>
+<P> <SUP> 4 </SUP> <TT> (often <B>writings</B>) books, etc. </TT> </P>
+<P> <U> ADJ. </U><B> fine, good, great | bad | influential | early, later </B><I>His experiences in India influenced his later writings. </I><B>| ancient, contemporary </B><I>Ancient writings reinforce their claims to the land. </I><B>| published, unpublished | prose | academic, critical, historical, mystical, philosophical, political, religious, sacred, scholarly, scientific </B><I>Christians share some of their sacred writings with the Jews. </I> <B>| popular | feminist | modernist | collected, selected </B><I>Ruskin's Collected Writings </I> </P>
+<P> <U> QUANT. </U><B> piece | anthology, collection </B><I>an anthology of writing about jazz </I> </P>
+<P> <U> VERB + WRITING </U><B> read | publish </B><I>His writings on the history of art were published by Greenway and Settle. </I> <B>| influence, inspire </B> </P>
+<P> <U> WRITING + VERB </U><B> be about sth, be concerned with sth, deal with sth </B><I>Her early writing was concerned with the French Revolution. </I><B>| include sth, range </B><I>His writings range from ancient to contemporary art, and include a study of Giorgione's paintings. </I><B>| indicate sth, provide sth, reflect sth, show sth, suggest sth </B><I>His writings provide us with a first-hand account of the civil war.  Her writings reflect the breadth of her interests. </I><B>| influence sb/sth, inspire sb/sth </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>You find a greater use of the passive in scientific writing. </I> | through sb's ~ </B><I>Her influence has been greatest through her writings. </I><B>| ~ about </B><I>Her name crops up frequently in writings about the Renaissance. </I><B>| ~ by </B><I>a collection of writings by artists </I><B>| ~ on </B><I>The book is a collection of writings on death by various authors. </I> </B> </P>
+<P> <SUP> 5 </SUP> <TT> handwriting </TT> </P>
+<P> <U> ADJ. </U><B> small, tiny | legible, neat | illegible | cursive, joined-up | childish | spidery </B> </P>
+<P> <U> VERB + WRITING </U><B> have </B><I>He's got very neat writing. </I><B>| read </B><I>I can't read your writing. </I><B>| recognize </B><I>I didn't recognize the writing. </I> </P>
+<P> <U> PREP. </U><B> in sb's ~ </B><I>The list was in Elizabeth's writing. </I> &gt; See <A HREF="handwriting_noun.htm">HANDWRITING</A> </P>
+</DIV>

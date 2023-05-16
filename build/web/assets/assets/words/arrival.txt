@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>arrival </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of arriving </TT> </P>
+<P> <U> ADJ. </U><B> early | late | timely </B><I>The timely arrival of the cheque took away the need to borrow money. </I><B>| eventual | dramatic, sudden, surprise, unexpected | expected, imminent, impending </B><I>I told her of my brother's expected arrival. </I> </P>
+<P> <U> VERB + ARRIVAL </U><B> announce, herald, signal </B><I>A fanfare of trumpets heralded the arrival of the King. </I><B>| expect | await </B><I>a crowd awaiting the arrival of the film star </I><B>| greet </B><I>The staff greeted the arrival of the new head teacher with excitement. </I><B>| celebrate, welcome | delay | hasten </B> </P>
+<P> <U> ARRIVAL + NOUN </U><B> time </B> </P>
+<P> <U> PREP. </U><B> on/upon (sb's) ~ </B><I>Guests receive dinner upon arrival at the hotel. </I><B>| with the ~ </B><I>With the arrival of John's friends, the party became really enjoyable. </I><B>| ~ at </B><I>his arrival at the theatre </I><B>| ~ in </B><I>their arrival in Paris </I> </P>
+<P> <U> PHRASES </U><B> arrival on the scene </B><I>They were saved by the arrival on the scene of another boat. </I><B>| arrivals and departures </B><I>There are 120 arrivals and departures every day. </I><B>| time of arrival </B><I>your expected time of arrival is 7.15. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb/sth that arrives </TT> </P>
+<P> <U> ADJ. </U><B> early, first | late </B><I>Someone should stay here to meet the late arrivals. </I><B>| latest, new, recent </B><I>The club has a dinner to welcome new arrivals to the town. We're expecting a new arrival </I>(= a baby) </B><I>in the family soon. </I> </P>
+<P> <U> VERB + ARRIVAL </U><B> expect | meet | welcome</B> </P>
+</DIV>

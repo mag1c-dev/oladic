@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>allocation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> process of giving sth out </TT> </P>
+<P> <U> ADJ. </U><B> efficient, inefficient | random | budget, grant, housing, land, resource, time </B> </P>
+<P> <U> VERB + ALLOCATION </U><B> make </B><I>The allocation must be made according to a strict set of criteria. </I> </P>
+<P> <SUP> 2 </SUP> <TT> amount given to sb </TT> </P>
+<P> <U> ADJ. </U><B> big, generous, large | modest | total </B> </P>
+<P> <U> VERB + ALLOCATION </U><B> give </B><I>The school gave them a generous allocation of money with which to purchase books. </I><B>| get, receive | increase, up </B><I>The charity is trying to get its allocation upped for next year. </I><B>| cut, reduce</B> </P>
+</DIV>

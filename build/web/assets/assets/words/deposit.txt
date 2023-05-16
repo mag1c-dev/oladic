@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>deposit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money paid into a bank account </TT> </P>
+<P> <U> ADJ. </U><B> bank, building society </B><I>Building society deposits have increased by 2.3%. </I><B>| cash | dollar, sterling, etc. </B> </P>
+<P> <U> VERB + DEPOSIT </U><B> make </B><I>She made a deposit of </I>&pound;</B><I>60 into her account. </I> </P>
+<P> <U> DEPOSIT + NOUN </U><B> account </B> </P>
+<P> <SUP> 2 </SUP> <TT> money which is the first payment for sth </TT> </P>
+<P> <U> VERB + DEPOSIT </U><B> pay, put down </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>We've put down the deposit on our new car. </I> </P>
+<P> <SUP> 3 </SUP> <TT> money paid when you rent sth </TT> </P>
+<P> <U> ADJ. </U><B> refundable, returnable </B><I>All deposits for holiday cottages are refundable. </I> </P>
+<P> <U> VERB + DEPOSIT </U><B> give (sb), leave (sb), pay (sb) </B><I>You have to pay a deposit of </I>&pound;</B><I>100 as well as two months' rent. </I><B>| get back </B><I>You'll get back your deposit once we've checked the bikes are all right. </I><B>| forfeit, lose </B><I>If furniture is damaged, you will forfeit your deposit. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>I had to leave a </I>&pound;</B><I>50 deposit on the bike. </I> </P>
+<P> <SUP> 4 </SUP> <TT> layer of sth </TT> </P>
+<P> <U> ADJ. </U><B> large | rich | thick, thin </B><I>The floods left a thick deposit of mud over the fields. </I><B>| gas, mineral, ore, etc. </B><I>an area with large mineral deposits </I><B>| geological, glacial, sedimentary </B> </P>
+<P> <U> VERB + DEPOSIT </U><B> have </B><I>The region has many deposits of valuable oil. </I><B>| leave</B> </P>
+</DIV>

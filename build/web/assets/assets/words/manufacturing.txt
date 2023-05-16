@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>manufacturing </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large-scale, small-scale | industrial | heavy | labour-intensive | computer-aided, computer-integrated, high-tech/high-technology | car, chemical, component, food, motor, textile, vehicle, etc. </B> </P>
+<P> <U> MANUFACTURING + NOUN </U><B> business, company, enterprise, firm, organization | division, facility, operation, plant, site, subsidiary, unit </B><I>The company set up a manufacturing operation in Lisbon. </I><B>| side </B><I>He now works on the manufacturing side of the business. </I><B>| base, industry, sector </B><I>the decline in the country's manufacturing base </I><B>| area, centre, district, region, town | capability, capacity | output, production, productivity | costs | worker, workforce | employment, jobs | methods, process, system, techniques | expertise</B> </P>
+</DIV>

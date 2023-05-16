@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>belt </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> narrow piece of leather, etc. worn round the waist </TT> </P>
+<P> <U> ADJ. </U><B> broad, wide | narrow | thick | studded | cartridge, money, sword | trouser </B> </P>
+<P> <U> VERB + BELT </U><B> buckle, do up, fasten | unbuckle, undo, unfasten | tighten | loosen </B> </P>
+<P> <U> BELT + NOUN </U><B> buckle, loop </B>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> in a machine </TT> </P>
+<P> <U> ADJ. </U><B> conveyor, drive, fan </B> </P>
+<P> <SUP> 3 </SUP> <TT> area of land </TT> </P>
+<P> <U> ADJ. </U><B> wide | narrow, thin | coastal, mountain | corn, cotton, wheat | green, industrial </B><I>New roads are cutting into the green belt </I>(= open land round a city where building is strictly controlled)</B><I>. </I><B>| commuter, stockbroker </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a narrow belt of trees </I> </P>
+</DIV>

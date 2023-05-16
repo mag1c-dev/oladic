@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>capacity </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount held/produced </TT> </P>
+<P> <U> ADJ. </U><B> high, large </B><I>a high capacity electric pump large capacity disk drives </I><B>| limited, small | maximum, total </B><I>a total capacity of 50 litres </I><B>| excess, spare </B><I>spare capacity in the health service </I><B>| economic, productive | earning </B><I>The qualification should increase my earning capacity. </I><B>| carrying, nuclear, seating, storage | engine, lung </B> </P>
+<P> <U> VERB + CAPACITY </U><B> have | be filled/packed to </B><I>The theatre was filled to capacity </I>(= was full) </B><I>for every performance. </I><B>| expand, increase | reduce </B> </P>
+<P> <U> CAPACITY + NOUN </U><B> audience, crowd </B> </P>
+<P> <U> PHRASES </U><B> operate/work at full capacity </B>(= to produce the maximum amount possible)  </P>
+<P> <SUP> 2 </SUP> <TT> ability </TT> </P>
+<P> <U> ADJ. </U><B> amazing, enormous, great, remarkable | limited | innate, natural </B><I>Children have an innate capacity to understand language. </I><B>| intellectual, mental | human </B><I>the human capacity for compassion </I> </P>
+<P> <U> VERB + CAPACITY </U><B> have | lose </B><I>She seems to have lost the capacity to enjoy herself. </I><B>| increase | reduce, restrict </B> </P>
+<P> <U> PREP. </U><B> beyond your ~ </B><I>This maths is beyond the capacity of most school children. </I><B>| within your ~ </B><I>The mountain walk is well within the capacity of most fit people. </I><B>| ~ for </B><I>her amazing capacity for organization </I> </P>
+<P> <SUP> 3 </SUP> <TT> official position </TT> </P>
+<P> <U> ADJ. </U><B> official | personal, private, unofficial, voluntary | professional | acting, caretaker | advisory | judicial </B> </P>
+<P> <U> VERB + CAPACITY </U><B> act in, work in </B><I>I have worked in an advisory capacity with many hospitals. </I> </P>
+<P> <U> PREP. </U><B> in your ~ </B><I>In my capacity as president, I would like to thank Jack for his hard work. </I> </P>
+</DIV>

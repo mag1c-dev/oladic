@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>crow </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> black | carrion </B> </P>
+<P> <U> QUANT. </U><B> flock </B> </P>
+<P> <U> CROW + VERB </U><B> fly | perch </B><I>The black crow perched on the telephone pole. </I><B>| caw, shriek</B> </P>
+</DIV><DIV class="item"><P class="word"><B>crow </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> triumphantly, with delight </B><I>She gave the purse to Ruby, who crowed with delight. </I> </P>
+<P> <U> PREP. </U><B> about/over </B><I>The company hasn't much to crow about, with sales down compared with last year. </I> </P>
+</DIV>

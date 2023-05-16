@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>route </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> quick, short </B><I>The shortest route home is round the ring road. </I><B>| convenient, easy | long | direct | circuitous, circular, devious, indirect, roundabout, tortuous | dangerous, safe | attractive, beautiful, scenic </B><I>We had plenty of time so we took the scenic route. </I><B>| accessible | alternative </B><I>Travellers are advised to find an alternative route during road repairs. </I><B>| main, trunk | air, overland, sea | bus, cycle, etc. | shipping, supply, trade | coastal | east-west, southerly, southern, etc. | trans-Pennine, trans-Sahara, etc. | tourist | well-travelled, well-worn | access | escape </B> </P>
+<P> <U> VERB + ROUTE </U><B> follow, take | choose, map out, plan, work out </B><I>You'll have to plan your route carefully. </I><B>| retrace </B><I>We retraced our route in an attempt to get back on the right path. </I> </P>
+<P> <U> ROUTE + VERB </U><B> cross sth, follow sth, go, pass through sth, run, take sb </B><I>The alternative route takes you along the river. </I><B>| climb, turn | lead | lie </B><I>Our route lay straight ahead and downhill. </I> </P>
+<P> <U> ROUTE + NOUN </U><B> map </B> </P>
+<P> <U> PREP. </U><B> along the ~ </B><I>There are plenty of bed and breakfasts along the route. </I><B>| on the ~ </B><I>We live on the school bus route. </I><B>| ~ between </B><I>the most direct route between London and Brighton </I><B>| ~ from </B><I>the air route from Berlin to Beijing </I><B>| ~ through </B><I>a scenic route through the south of France </I><B>| ~ to </B><I>the shortest route to Bruges the best route to success </I> </P>
+<P> <U> PHRASES </U><B> en route </B>(= on the way) <I>We'll stop for lunch en route. </I> </P>
+</DIV>

@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>expense </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> cost/money spent on sth </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, vast | additional, extra | unexpected | unnecessary | public </B><I>The bridge was built at public expense. </I><B>| personal </B> </P>
+<P> <U> VERB + EXPENSE </U><B> go to, incur </B><I>They went to all the expense of redecorating the house and then they moved. </I><B>| put sb to </B><I>Their visit put us to a lot of expense. </I><B>| bear, cover, meet </B><I>She had to meet the expense herself. </I><B>| spare no </B><I>No expense was spared </I>(= they spent as much money as was needed) </B><I>to make the party a success. </I><B>| avoid | be worth </B><I>The results are well worth the expense. </I> </P>
+<P> <U> EXPENSE + VERB </U><B> arise </B> </P>
+<P> <U> PREP. </U><B> at sb/sth's ~ </B><I>They had to repair the damage at their own expense. He built up the business at the expense of his health. </I><B>| at &hellip; ~ </B><I>The garden was transformed at great expense. The accommodation package includes admission to the golf course at no extra expense. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth that makes you spend money </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable | incidental </B><I>Relocated employees received grants towards incidental expenses like buying carpets. </I><B>| business, management </B><I>Meetings, and the time for them, are a considerable management expense. </I> </P>
+<P> <SUP> 3 </SUP> <TT> expenses: money spent for a particular purpose  </TT> </P>
+<P> <U> ADJ. </U><B> high </B><I>Medical expenses can be quite high if you are not insured. </I><B>| deduct </B><I>You will have to pay income tax on the rent you receive, although you can deduct expenses such as insurance. </I> </P>
+<P> <U> EXPENSE + VERB </U><B> arise </B><I>You can expect to receive compensation for all expenses arising out of the accident. </I> </P>
+<P> <U> EXPENSE + NOUN </U><B> expense account </B><I>Put the cost of the meal on your expense account. </I><B>| expense/expenses claim </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>a commercial traveller staying at the hotel on expenses </I> </P>
+<P> <U> PHRASES </U><B> all expenses paid </B><I>a two-day, all expenses paid trip to London </I> allowable, legitimate, reasonable </B><I>You can claim back the tax on legitimate business expenses. </I><B>| basic </B><I>The guides are unpaid except for basic expenses. </I><B>| out-of-pocket </B>(= paid for by an employee, to be claimed back later from the employer) <I>Any out-of-pocket expenses incurred on the firm's business will be reimbursed. </I><B>| personal | living | household | operating, overhead, running | business, work-related | travel/travelling | relocation, removal | legal, medical | funeral </B> </P>
+<P> <U> VERB + EXPENSE </U><B> incur | cover, defray, meet, pay, refund, reimburse </B><I>He was given a sum of money to cover his travel expenses. </I><B>| claim (back) </B><I>They are claiming expenses for travel and overnight accommodation. </I><B>|</B> </P>
+</DIV>

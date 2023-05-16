@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>detect </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> early, late </B><I>A lot of cancers can now be cured if they are detected early. </I><B>| quickly | easily, readily </B><I>Some substances can be detected fairly easily. </I><B>| accurately </B> </P>
+<P> <U> VERB + DETECT </U><B> be able to, be sensitive enough to, can </B><I>a machine that is sensitive enough to detect tiny amounts of explosives </I><B>| be unable to | be designed to | fail to </B><I>The test failed to detect any illegal substances. </I><B>| be difficult to, be hard to, be impossible to | be easy to, be possible to | be used to </B> </P>
+<P> <U> PHRASES </U><B> be capable of detecting sth, a means/method/way of detecting sth</B> </P>
+</DIV>

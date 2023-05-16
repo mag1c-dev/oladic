@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>deploy </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> effectively </B><I>Tanks were deployed effectively during the long campaign. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>She rejected the arguments that had been deployed against her. </I> </P>
+</DIV>

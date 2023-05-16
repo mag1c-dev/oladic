@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>exempt </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | remain </B> </P>
+<P> <U> ADV. </U><B> completely, entirely, totally, wholly | partially | automatically </B><I>Pensioners are automatically exempt from prescription charges. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>This income is totally exempt from taxation. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>exempt </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> expressly, specifically </B> </P>
+<P> <U> PREP. </U><B> from </B><I>Small businesses are expressly exempted from the requirements of this legislation. </I> </P>
+</DIV>

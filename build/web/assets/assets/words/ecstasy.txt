@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>ecstasy </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling </TT> </P>
+<P> <U> ADJ. </U><B> pure, sheer | religious, sexual </B> </P>
+<P> <U> PREP. </U><B> in ~ | ~ at </B><I>Kate closed her eyes in ecstasy at the thought of a cold drink. </I><B>| ~ over </B><I>I was in sheer ecstasy over the prospect of meeting my idol. </I></P>
+<P> <SUP> 2 </SUP> <TT> Ecstasy: drug  </TT> </P>
+<P> <U> ECSTASY + NOUN </U><B> tablet </B></P>
+<a href="/collocation-tag/drug" class="tag">Learn more about DRUG</a>
+</DIV>

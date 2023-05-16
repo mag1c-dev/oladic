@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>quotation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> words taken from a book, etc. </TT> </P>
+<P> <U> ADJ. </U><B> famous, memorable | direct, verbatim </B><I>a direct quotation from a recent speech by the prime minister </I><B>| illustrative | biblical </B> </P>
+<P> <U> VERB + QUOTATION </U><B> take </B><I>My quotation is taken from &lsquo;Hamlet&rsquo;. </I> </P>
+<P> <U> QUOTATION + VERB </U><B> come from sth </B><I>Where does that quotation come from? </I> </P>
+<P> <U> QUOTATION + NOUN </U><B> dictionary </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>It's a quotation from a poem by Keats. </I> </P>
+<P> <SUP> 2 </SUP> <TT> price that will be charged for a piece of work </TT> </P>
+<P> <U> ADJ. </U><B> written | free | detailed </B> </P>
+<P> <U> VERB + QUOTATION </U><B> give (sb), provide (sb with), supply (sb with) </B><I>Most builders will give you a free quotation. </I><B>| get, obtain | accept </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Always get several quotations for the job. </I> </P>
+</DIV>

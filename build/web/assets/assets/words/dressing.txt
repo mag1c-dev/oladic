@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>dressing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> covering put on a wound </TT> </P>
+<P> <U> ADJ. </U><B> clean, fresh, sterile | surgical, wound </B> </P>
+<P> <U> VERB + DRESSING </U><B> apply, put on </B><I>Clean the wound and put on a fresh dressing. </I><B>| change | remove </B> </P>
+<P> <SUP> 2 </SUP> <TT> sauce for food, especially salads </TT> </P>
+<P> <U> ADJ. </U><B> salad | French | herb | vinaigrette </B> </P>
+<P> <U> PREP. </U><B> in a ~, with a ~ </B><I>salad with a vinaigrette dressing </I><B>| ~ for </B><I>a herb dressing for fish </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>peace </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> not war </TT> </P>
+<P> <U> ADJ. </U><B> lasting, permanent | fragile, uneasy | relative </B><I>The country is in a state of relative peace after ten years of fighting. </I><B>| world </B><I>obstacles in the way of world peace </I> </P>
+<P> <U> VERB + PEACE </U><B> bring about, establish, make | keep </B><I>UN troops are trying to keep the peace in the region. </I> </P>
+<P> <U> PEACE + VERB </U><B> come | prevail, reign </B><I>An uneasy peace prevailed in the first days of the ceasefire. </I> </P>
+<P> <U> PEACE + NOUN </U><B> conference, congress, negotiations, process, talks </B><I>This must not be allowed to hold up the peace process. </I><B>| efforts, initiative | formula, plan, proposal | accord, agreement, deal, pact, settlement, treaty | broker, envoy | mission </B><I>The president is visiting the country on a peace mission. </I><B>| activist, campaigner, protester | group, movement | rally </B> </P>
+<P> <U> PREP. </U><B> at ~ (with) </B><I>Although the two countries were officially at peace, fighting continued. </I><B>| ~ between </B><I>peace between the warring factions in the area </I><B>| ~ with </B><I>England finally made peace with France. </I> </P>
+<P> <SUP> 2 </SUP> <TT> state of being calm </TT> </P>
+<P> <U> ADJ. </U><B> inner | perfect </B> </P>
+<P> <U> VERB + PEACE </U><B> find, seek </B><I>She finally found inner peace and happiness. </I><B>| disturb, shatter </B><I>The peace of the afternoon was suddenly shattered by a police siren. </I><B>| leave sb in </B><I>Go away and leave me in peace! </I> </P>
+<P> <U> PEACE + VERB </U><B> reign </B><I>She stopped shouting, and peace reigned supreme once again. </I><B>| descend on sth, settle over sth </B><I>Peace descended once more on the little town. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>Her father is at peace </I>(= dead) </B><I>now. </I><B>| at ~ with </B><I>For the first time in months, she felt calm and at peace with the world. </I><B>| in ~ </B><I>to live in peace and harmony </I> </P>
+<P> <U> PHRASES </U><B> peace and quiet/tranquillity </B><I>The island is a haven of peace and tranquillity. </I><B>| peace of mind </B><I>The computer comes with a three-year guarantee for peace of mind. </I> </P>
+</DIV>

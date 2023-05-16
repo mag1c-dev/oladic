@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>candle </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> lighted | flickering </B> </P>
+<P> <U> VERB + CANDLE </U><B> light | blow out, snuff (out) </B> </P>
+<P> <U> CANDLE + VERB </U><B> burn | flicker | go out </B> </P>
+<P> <U> CANDLE + NOUN </U><B> flame</B> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>suburb </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> outer, outlying | inner | northern, southern, etc. | Berlin, Tokyo, etc. | affluent, comfortable, exclusive, prosperous, smart, wealthy | poor | middle-class, working-class | respectable | pleasant | leafy, quiet | grey | industrial, residential | sprawling </B><I>out beyond the sprawling suburbs </I> </P>
+<P> <U> VERB + SUBURB </U><B> move out to </B><I>As soon as we can afford it, we'll move out to the suburbs. </I> </P>
+<P> <U> SUBURB + VERB </U><B> grow </B><I>The middle-class suburbs are growing fast. </I> </P>
+<P> <U> PREP. </U><B> from the ~s </B><I>For a child from the suburbs, a trip to the city was a great adventure. </I><B>| in a/the ~ </B><I>She's renting in some grey suburb of Birmingham. </I><B>| in the ~s </B><I>Many people work in the centre but live in the suburbs. </I> </P>
+</DIV>

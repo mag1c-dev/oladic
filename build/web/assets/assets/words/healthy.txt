@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>healthy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not ill </TT> </P>
+<P> <U> VERBS </U><B> appear, be, be born, feel, look, seem | become | keep, remain, stay | make sb </B><I>Working in the open air has made him very healthy. </I><B>| keep sb </B><I>Her good diet had kept her healthy. </I> </P>
+<P> <U> ADV. </U><B> extremely, fantastically, really, very | perfectly </B><I>He's a perfectly healthy child. </I><B>| fairly, quite, reasonably | apparently </B><I>The rare disorder strikes apparently healthy boys between the ages of five and twelve. </I><B>| disgustingly </B><I>(informal, ironic) You look disgustingly healthy! How do you manage it? </I><B>| otherwise </B><I>She looked pale, but otherwise healthy. </I><B>| mentally, physically </B> </P>
+<P> <U> PHRASES </U><B> fit and healthy </B> </P>
+<P> <SUP> 2 </SUP> <TT> producing good health </TT> </P>
+<P> <U> VERBS </U><B> be | consider sth </B><I>a new diet which is considered much healthier than previous ones </I> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>We have a very healthy diet. </I><B>| quite </B><I>Their lifestyle is quite healthy. </I><B>| generally </B> </P>
+<P> <SUP> 3 </SUP> <TT> working well </TT> </P>
+<P> <U> VERBS </U><B> be | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>The economy is extremely healthy at the moment. </I><B>| fairly, quite, reasonably, relatively | basically, fundamentally, generally | financially</B> </P>
+</DIV>

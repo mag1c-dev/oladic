@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>negative </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> only thinking about/showing sb/sth's bad qualities </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem, sound | become | remain </B> </P>
+<P> <U> ADV. </U><B> distinctly, extremely, strongly, terribly, very </B><I>the strongly negative implications of these survey results Their attitude was terribly negative. </I><B>| completely, entirely, exclusively, purely, totally, wholly </B><I>She spoke in entirely negative terms. </I><B>| largely, mainly, overwhelmingly | fairly, rather, slightly, somewhat | apparently | essentially </B><I>Critical thinking is essentially negative as it seeks to dissect and not to build. </I><B>| generally </B> </P>
+<P> <U> PREP. </U><B> about </B><I>He's been rather negative about the idea. </I> </P>
+<P> <SUP> 2 </SUP> <TT> showing that sth has not happened/been found </TT> </P>
+<P> <U> VERBS </U><B> be, prove, test </B><I>The breathalyser test proved negative. He tested negative for HIV infection. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>The urine tests were negative for protein. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>negative </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> denial </TT> </P>
+<P> <U> VERB + NEGATIVE </U><B> answer (sth) in, reply in </B><I>She answered the question in the negative. </I> </P>
+<P> <SUP> 2 </SUP> <TT> developed photographic film </TT> </P>
+<P> <U> ADJ. </U><B> original | photographic | film, glass </B> </P>
+<P> <U> QUANT. </U><B> strip </B> </P>
+<P> <U> VERB + NEGATIVE </U><B> produce | develop </B><I>His interest in photography started with him developing negatives that he found lying around the house. </I><B>| keep </B><I>We must assume that the spy kept the negatives. </I><B>| destroy</B> </P>
+</DIV>

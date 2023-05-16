@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>currency </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> money used in a particular country </TT> </P>
+<P> <U> ADJ. </U><B> domestic | foreign </B><I>They prefer to be paid in foreign currencies. </I><B>| common, international </B><I>US dollars are considered common currency in international transactions. </I><B>| local </B><I>You can convert sterling into the local currency. </I><B>| national | European, Japanese, etc. | single </B><I>the single European currency </I><B>| major | stable, strong </B><I>A stable currency means that your savings do not diminish in value </I><B>| weak | hard | convertible </B> </P>
+<P> <U> VERB + CURRENCY </U><B> change, convert sth into/to, exchange | buy, sell | devalue | support </B><I>The fund supports weak currencies. </I><B>| raise </B><I>The country needs to raise enough hard currency to pay for its oil imports. </I> </P>
+<P> <U> CURRENCY + VERB </U><B> rise | fall | float, fluctuate </B><I>For four months all major currencies floated. The system allows currencies to fluctuate within certain limits. </I> </P>
+<P> <U> CURRENCY + NOUN </U><B> conversion, exchange, translation </B><I>The disappointing profits are due to unfavourable currency translations. </I><B>| markets </B><I>They make money by speculating on the currency markets. </I><B>| deal, dealing, speculation, trade, trading | dealer, speculator, trader | crisis | fluctuation, movements | devaluation | system | reform | reserves </B> </P>
+<P> <U> PREP. </U><B> in &hellip; ~ </B><I>She had </I>&pound;</B><I>50 in foreign currency. </I> </P>
+<P> <SUP> 2 </SUP> <TT> being believed/accepted/used by many people </TT> </P>
+<P> <U> ADJ. </U><B> general, wide, widespread </B> </P>
+<P> <U> VERB + CURRENCY </U><B> enjoy, have </B><I>This belief has general currency. </I><B>| gain </B><I>How did the idea gain currency? </I> </P>
+<a href="/collocation-tag/currencies" class="tag">Learn more about CURRENCIES</a>
+</DIV>

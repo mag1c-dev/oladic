@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>transformation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> amazing, complete, dramatic, fundamental, major, miraculous, profound, radical, remarkable, revolutionary, startling, total | subtle | gradual | immediate, instant, rapid, sudden | cultural, economic, historical, intellectual, physical, political, social, structural </B> </P>
+<P> <U> VERB + TRANSFORMATION </U><B> undergo </B><I>The way we work has undergone a radical transformation in the past decade. </I><B>| make </B><I>He was struggling to make the transformation from single man to responsible husband. </I><B>| achieve, bring about, carry out, cause, effect, lead to </B><I>Going to college brought about a dramatic transformation in her outlook. </I><B>| accelerate | complete </B> </P>
+<P> <U> TRANSFORMATION + VERB </U><B> begin | come about, occur, take place </B><I>A startling cultural transformation occurred in post-war Britain. </I> </P>
+<P> <U> TRANSFORMATION + NOUN </U><B> process </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>The transformation from disused docks into city-centre cultural venue took three years. </I><B>| ~ in </B><I>This decision marked a fundamental transformation in policy. </I><B>| ~ into </B><I>Japan's transformation into an economic superpower </I><B>| ~ to </B><I>Russia's transformation to a market economy </I> </P>
+</DIV>

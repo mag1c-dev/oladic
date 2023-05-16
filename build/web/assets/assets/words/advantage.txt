@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>advantage </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> thing that helps </TT> </P>
+<P> <U> ADJ. </U><B> big, considerable, enormous, great, huge, overwhelming | clear, decided/decisive, definite, distinct, material, obvious, positive, real </B><I>Breastfeeding offers a clear advantage to your baby. </I><B>| key, main, major, important, significant | dubious | unfair </B><I>The company has an unfair advantage over its competitors. </I><B>| added, additional </B><I>These computers have the added advantage of being cheap. </I><B>| special | potential | comparative, relative | mutual </B><I>The plan would be to our mutual advantage. </I><B>| natural </B><I>the natural advantages of countries with low labour costs </I><B>| commercial, competitive, economic, educational, electoral, financial, military, personal, political, practical, psychological, social, strategic, tactical, technical, technological | cost, price, speed, tax </B> </P>
+<P> <U> VERB + ADVANTAGE </U><B> have | gain, get </B><I>He would gain considerable advantage from staying in that job. </I><B>| bring (sb), give sb, offer (sb) </B><I>Another qualification would give me a big advantage at job interviews. </I><B>| press home </B><I>The commanders were keen to press home their advantage with a further offensive in the north. </I><B>| outweigh </B><I>They argue that the possible risks attached to such vaccines vastly outweigh any advantages. </I> </P>
+<P> <U> PREP. </U><B> to sb's ~ </B><I>It is to your advantage to delay things for as long as possible. </I><B>| ~ in </B><I>There may be some advantage in laying down a clearer procedure. </I><B>| ~ over </B><I>East coast resorts have the advantage over west coast ones. </I><B>| ~ to </B><I>the advantage to both countries of closer economic ties </I> </P>
+<P> <U> PHRASES </U><B> to good advantage, to sb/sth's best advantage </B><I>The bright lighting showed the jewels to their best advantage. </I></P>
+<P> <SUP> 2 </SUP> <TT> take advantage of: make use of  </TT> </P>
+<P> <U> ADJ. </U><B> full, maximum </B><I>We took full advantage of the hotel facilities. </I> </P>
+</DIV>

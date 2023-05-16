@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>junta </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> ruling | civilian, military, revolutionary </B> </P>
+<P> <U> VERB + JUNTA </U><B> form | dissolve, overthrow </B> </P>
+<P> <U> JUNTA + VERB </U><B> appoint sb </B><I>The civilian junta appointed a prime minister. </I> </P>
+<P> <U> JUNTA + NOUN </U><B> leader, member</B> </P>
+</DIV>

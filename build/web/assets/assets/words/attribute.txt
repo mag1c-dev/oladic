@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>attribute </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chief, great, key, main | desirable, essential, important, necessary, positive, useful </B><I>Patience is an essential attribute for a teacher. </I><B>| common | divine, human | cultural, personal, physical, social </B><I>Her physical attributes were much admired. </I> </P>
+<P> <U> VERB + ATTRIBUTE </U><B> have, possess</B> </P>
+</DIV><DIV class="item"><P class="word"><B>attribute </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> directly | solely | in large measure, largely, mainly | in part, partly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>They claim that one i</I>n </B><I>twenty deaths can be directl</I>y </B><I>attributed to air pollution</I>. </B> </P>
+<P> <U> PHRASES </U><B> be commonly/generally/usually/widely attributed to </B><I>The goals commonly attributed to management are status, power, salary and security. </I> </P>
+</DIV>

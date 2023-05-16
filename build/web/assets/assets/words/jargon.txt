@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>jargon </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> current | incomprehensible, obscure | unnecessary | academic, computer, legal, scientific, technical </B> </P>
+<P> <U> QUANT. </U><B> piece </B> </P>
+<P> <U> VERB + JARGON </U><B> speak (in), use </B><I>He always speaks in obscure legal jargon. </I><B>| avoid </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>in computer jargon </I><B>| ~ for </B><I>&lsquo;All necessary means&rsquo; is diplomatic jargon for &lsquo;war&rsquo;. </I> </P>
+</DIV>

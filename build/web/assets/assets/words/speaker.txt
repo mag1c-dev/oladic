@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>speaker </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who makes a speech </TT> </P>
+<P> <U> ADJ. </U><B> brilliant, good | keynote, main, principal | guest, invited, visiting | public </B><I>She's a good public speaker. </I><B>| after-dinner </B> </P>
+<P> <SUP> 2 </SUP> <TT> person who speaks a particular language </TT> </P>
+<P> <U> ADJ. </U><B> fluent </B><I>He's a fluent Arabic speaker. </I><B>| mother-tongue, native </B><I>a native speaker of English </I><B>| non-native | Japanese, Russian, etc.</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>person </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> young | elderly, old | married, single | decent, good, lovely, nice | caring, gentle, kind, warm | bad, evil, wicked | happy, outgoing | rational, reasonable, sensible </B><I>Any reasonable person can see that it is not fair. </I><B>| average, normal, ordinary | private </B><I>She is a warm but very private person. </I><B>| blind, deaf, disabled | ill, sick </B><I>the care of a terminally-ill person </I><B>| missing | displaced, homeless | unemployed | dead | famous | important | innocent </B><I>the imprisonment of an innocent person </I><B>| right, wrong </B><I>She's the right person for the job. The police now realize that they had the wrong person. </I><B>| religious | business </B> </P>
+<P> <U> PREP. </U><B> as a ~ </B><I>What's she like as a person? </I><B>| in ~ </B><I>She appeared in person to collect her prize. </I><B>| in the ~ of </B><I>Help arrived in the person of our next-door neighbour. </I> </P>
+<P> <U> PHRASES </U><B> the person concerned </B><I>The disciplinary panel will notify the person concerned of its findings. </I><B>| the person in charge </B><I>Can I speak to the person in charge, please? </I><B>| the person responsible </B><I>Police think they have found the person responsible for the of muggings. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>departure </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> leaving/going away from a place </TT> </P>
+<P> <U> ADJ. </U><B> abrupt, sudden </B><I>Everyone was a bit puzzled by her sudden departure. </I><B>| hasty, speedy | early | imminent, impending </B><I>The guard blew his whistle to warn of the train's imminent departure. </I><B>| flight </B><I>The last check-in time is 45 minutes before flight departure. </I> </P>
+<P> <U> VERB + DEPARTURE </U><B> make </B><I>He made a hasty departure. </I><B>| hasten </B><I>Her row with the MD probably hastened her departure. </I><B>| delay </B> </P>
+<P> <U> DEPARTURE + NOUN </U><B> point </B><I>Atocha station was the departure point for our tour. </I><B>| date | gate, lounge </B><I>We sat in the departure lounge waiting for our flight to be called. </I> </P>
+<P> <U> PREP. </U><B> before ~, prior to ~ </B><I>You should receive your flight tickets at least a week prior to departure. </I><B>| on ~ </B><I>All visitors must sign the book on arrival and again on departure. </I><B>| ~ for </B><I>his departure for Naples </I><B>| ~ from </B><I>her departure from London </I> </P>
+<P> <U> PHRASES </U><B> the day/time of departure, the point of departure </B><I>(figurative) The author takes Freud's dream theories as the point of departure for his essay. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth different from what is usual/expected </TT> </P>
+<P> <U> ADJ. </U><B> fresh, new | dramatic, fundamental, major, radical, revolutionary, significant </B> </P>
+<P> <U> VERB + DEPARTURE </U><B> be, mark, represent </B> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>This document marks a radical departure from earlier recommendations. </I> </P>
+</DIV>

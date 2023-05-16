@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>vision </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> ability to see </B> </TT> </P>
+<P> <U> ADJ. </U><B> 20/20, excellent, perfect </B><I>The eye test shows she has perfect vision. </I><B>| normal | clear </B><I>The rain prevented her having clear vision of the road ahead. </I><B>| blurred, defective, distorted, impaired, poor | double, tunnel </B><I>(often figurative) </I><B>| all-round </B><I>The high driving position gives excellent all-round vision. </I><B>| binocular, stereoscopic | X-ray | distance </B><I>I can read without glasses, but my distance vision is poor. </I><B>| night | peripheral </B><I>Use your peripheral vision widely when moving from place to place. </I> </P>
+<P> <U> VERB + VISION </U><B> have | give (sb) | obscure, restrict | blur </B><I>The tears blurred her vision. </I><B>| improve </B> </P>
+<P> <U> VISION + VERB </U><B> clear </B><I>Her vision cleared and she realized Niall was standing beside her. </I> </P>
+<P> <U> PREP. </U><B> across your ~ </B><I>A bird shot across her vision. </I> </P>
+<P> <U> PHRASES </U><B> your field of vision </B><I>She was aware of shapes moving across her field of vision. </I><B>| your line of vision </B><I>Someone was standing in my line of vision so I couldn't see the screen. </I> </P>
+<P> <SUP> 2 </SUP> <TT> picture in your imagination </TT> </P>
+<P> <U> ADJ. </U><B> disturbing, dreadful, ghastly, horrible | bleak | inner, intuitive, mental, spiritual | mystic/mystical, prophetic, religious </B><I>A young girl in the village experienced a prophetic vision. </I><B>| poetic | apocalyptic </B><I>an apocalyptic vision of the end of civilization </I><B>| momentary, sudden </B> </P>
+<P> <U> VERB + VISION </U><B> experience, have, receive </B><I>I had visions of us getting hopelessly lost. </I><B>| conjure up </B><I>The word &lsquo;island&rsquo; conjures up a vision of a relaxing summer holiday. </I> </P>
+<P> <U> VISION + VERB </U><B> fade </B><I>As he approached, the vision faded and there was no one there. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The idea came to her in a vision. </I><B>| ~ of </B> </P>
+<P> <SUP> 3 </SUP> <TT> ability to see/plan for the future </TT> </P>
+<P> <U> ADJ. </U><B> great | imaginative | alternative | broad, comprehensive, global, wide </B><I>The company needs to develop a global vision. </I><B>| narrow | overall | personal | clear </B><I>The engineers had a clear vision of what they wanted to achieve. </I><B>| common </B><I>They share a common vision for the development of health services. </I><B>| strategic | political | revolutionary | romantic, Utopian </B> </P>
+<P> <U> VERB + VISION </U><B> have | develop | convey, expand on/upon, outline, promote </B><I>He outlined his vision for the new economic order. </I> <B>| impose </B><I>The new leader set about imposing his vision on the party. </I><B>| share | cloud </B><I>He was determined not to let emotions cloud his vision. </I> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>a statesman of great vision </I><B>| ~ for </B><I>a vision for the future </I><B>| ~ of </B><I>an alternative vision of society </I> </P>
+<P> <U> PHRASES </U><B> breadth of vision </B><I>His plans for the country's future show a remarkable breadth of vision. </I> </P>
+</DIV>

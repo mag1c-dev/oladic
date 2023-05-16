@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>march </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> movement/journey </TT> </P>
+<P> <U> ADJ. </U><B> long | brisk | steady | forced | approach </B><I>They reached the enemy position after an arduous approach march. </I><B>| fifty-mile, four-day, etc. | two hours, half a day's, etc. </B><I>The camp was half a day's march away. </I><B>| northward, southward, etc. | forward, onward </B><I>(figurative) the forward march of technology </I><B>| inevitable, inexorable </B><I>(figurative) the inexorable march of time </I> </P>
+<P> <U> VERB + MARCH </U><B> begin, set off on </B><I>The army set off on a forced march towards Berlin. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>The army has been on the march for two weeks </I><B>| ~ from </B><I>the march from Paris to Brittany </I><B>| ~ of </B><I>a march of over 30 miles (figurative) the march of history/progress/science </I><B>| ~ to, ~ towards </B><I>(figurative) the steady march towards equality </I> </P>
+<P> <U> PHRASES </U><B> line of march </B><I>Villages in the army's line of march were burned to the ground. </I><B>| a &hellip; march away </B><I>The border was still a day's march away. </I><B>| the march eastward, westward, etc. </B> </P>
+<P> <SUP> 2 </SUP> <TT> organized walk </TT> </P>
+<P> <U> ADJ. </U><B> hunger, peace, protest, victory | anti-racism, pro-democracy, etc. </B> </P>
+<P> <U> VERB + MARCH </U><B> hold, organize, stage | lead | be on, go on, join in, take part in | halt, stop </B><I>The farmers halted the march outside the Ministry of Agriculture. </I><B>| break up </B><I>The march was broken up by police in riot gear. </I> </P>
+<P> <U> MARCH + VERB </U><B> mark sth </B><I>a march marking the thirtieth anniversary of the shootings </I> </P>
+<P> <U> PREP. </U><B> at/on a/the ~ </B><I>There were in excess of 100,000 people at the march. </I><B>| ~ against </B><I>a march against racism </I><B>| ~ for </B><I>a march for the victims of the war </I><B>| ~ from, ~ of </B><I>a march of over 6,000 people </I><B>| ~ to </B> </P>
+<P> <U> PHRASES </U><B> a march past </B><I>There will be a special march past of competitors. </I> </P>
+<P> <SUP> 3 </SUP> <TT> music </TT> </P>
+<P> <U> ADJ. </U><B> military | funeral, wedding </B> </P>
+<P> <U> VERB + MARCH </U><B> compose | play | strike up </B><I>The orchestra struck up a military march. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>march </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> walk with regular steps </TT> </P>
+<P> <U> ADV. </U><B> briskly, swiftly | boldly | purposefully | inexorably </B><I>(figurative) Time marches inexorably on and we still have not made a decision. </I><B>| north, south, etc. | ahead, away, back, forward, off, on, out, over, past, up (and down) </B><I>Craig marched up to the front door and rang the bell. Soldiers were marching up and down outside the government buildings. </I> </P>
+<P> <U> PREP. </U><B> from, into, on </B><I>The invading army marched on Rome. </I><B>| out of </B><I>So saying, she marched boldly out of the house. </I><B>| through, to </B><I>They marched all the way from London to Edinburgh. </I><B>| towards </B> </P>
+<P> <U> PHRASES </U><B> march in step </B><I>conscripts learning to march in step </I>(= in time with each other) </B> </P>
+<P> <SUP> 2 </SUP> <TT> walk in a large group to protest about sth </TT> </P>
+<P> <U> ADV. </U><B> peacefully </B> </P>
+<P> <U> PREP. </U><B> for </B><I>marching for peace </I><B>| in support of </B><I>protesters marching in support of the students' demands </I><B>| on </B><I>The demonstrators marched on the Italian embassy. </I><B>| through </B><I>marching peacefully through the town centre </I><B>| to, towards</B> </P>
+</DIV>

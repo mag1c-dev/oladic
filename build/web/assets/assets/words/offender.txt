@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>offender </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who commits a crime </TT> </P>
+<P> <U> ADJ. </U><B> alleged | convicted | first </B><I>As a first offender, he received a lenient sentence. </I><B>| persistent | adult, juvenile, young | sex </B> </P>
+<P> <U> VERB + OFFENDER </U><B> sentence </B> </P>
+<P> <SUP> 2 </SUP> <TT> sb/sth that causes trouble </TT> </P>
+<P> <U> ADJ. </U><B> main, worst </B><I>As regards pollution, old diesel-engined vehicles are the worst offenders. </I> </P>
+</DIV>

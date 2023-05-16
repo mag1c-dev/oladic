@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>player </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a game </TT> </P>
+<P> <U> ADJ. </U><B> accomplished, brilliant, dangerous, excellent, exciting, fine, gifted, good, great, outstanding, strong, talented, top, world-class </B><I>one of the country's top tennis players </I><B>| star </B><I>The club were forced to sell their star player. </I><B>| poor </B><I>He's a poor player, but he tries very hard. </I><B>| average </B><I>These boots are for the professional rather than for the average player. </I><B>| experienced | aggressive | attacking, midfield </B>(both in football) <B>| handicap, scratch </B>(both in golf) <B>| basketball, bridge, chess, rugby, snooker, tennis, etc. </B> </P>
+<P> <SUP> 2 </SUP> <TT> of a musical instrument </TT> </P>
+<P> <U> ADJ. </U><B> accomplished, gifted, great, outstanding, talented | bass, horn, keyboard, sax, etc. </B> </P>
+<P> <SUP> 3 </SUP> <TT> in business </TT> </P>
+<P> <U> ADJ. </U><B> key, leading, major </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Their firm is a major player in the London property market. </I> </P>
+</DIV>

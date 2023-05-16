@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>foul </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> blatant, clear, deliberate, nasty </B> </P>
+<P> <U> VERB + FOUL </U><B> commit </B><I>He committed a second clear foul and was sent off. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>He was sent off for a blatant foul on Giggs. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>foul play </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> criminal activity </TT> </P>
+<P> <U> VERB + FOUL PLAY </U><B> suspect | rule out </B><I>The police have ruled out foul play in the case of his death. </I> </P>
+<P> <SUP> 2 </SUP> <TT> play that is against the rules </TT> </P>
+<P> <U> ADJ. </U><B> deliberate, serious </B> </P>
+<P> <U> VERB + FOUL PLAY </U><B> be guilty of </B><I>He was clearly guilty of foul play and deserved to be sent off. </I> </P>
+</DIV>

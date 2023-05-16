@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>trait </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> admirable, appealing | negative, undesirable, unfortunate | human </B><I>Her boss did not display any human traits. </I><B>| distinctive, enduring, individual | family, genetic, hereditary, inherited | behavioural, character, personal, personality | mental, psychological | obsessional | physical | female, male | cultural, national </B> </P>
+<P> <U> VERB + TRAIT </U><B> have, possess | lack | share </B><I>She shares several character traits with her father. </I><B>| display, exhibit, show | acquire, develop, inherit </B><I>We do not know which behavioural traits are inherited and which acquired. </I><B>| identify, recognize</B> </P>
+</DIV>

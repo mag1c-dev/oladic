@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>phrase </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> colloquial, idiomatic | key </B><I>&lsquo;Start slowly&rsquo; is the key phrase for the first-time marathon runner. </I><B>| famous | empty, glib, hackneyed, stock </B><I>He keeps coming out with the same old stock phrases </I><B>| memorable, well-turned | musical | adjectival, adverbial, noun, verb </B> </P>
+<P> <U> VERB + PHRASE </U><B> use | coin </B><I>Who coined the phrase &lsquo;desktop publishing&rsquo;? </I> </P>
+<P> <U> PHRASE + NOUN </U><B> book </B> </P>
+<P> <U> PREP. </U><B> in a/the~ </B><I>She was, in her own memorable phrase, &lsquo;a woman without a past&rsquo;. </I> </P>
+<P> <U> PHRASES </U><B> a choice of phrase </B><I>Her unfortunate choice of phrase offended most of the audience. </I><B>| a turn of phrase </B><I>He is meticulous in his choice of words and turns of phrase. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>phrase </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully </B><I>The statement was very carefully phrased. </I><B>| differently </B><I>I should have phrased my question differently. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>reflex </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, lightning, quick | poor | automatic | natural | conditioned </B> </P>
+<P> <U> VERB + REFLEX </U><B> trigger </B><I>The rapid movement of an object towards the eye triggers the blink reflex. </I><B>| control | sharpen, speed up </B><I>The training is designed to sharpen the fighter's reflexes. </I><B>| slow (down) </B><I>Alcohol can slow your reflexes. </I><B>| suppress | test </B><I>The doctor tested her reflexes. </I> </P>
+<P> <U> REFLEX + NOUN </U><B> action, reaction </B><I>Almost as a reflex action, I grab my pen as the phone rings. </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>Almost by reflex, he helped himself to a drink. </I> </P>
+</DIV>

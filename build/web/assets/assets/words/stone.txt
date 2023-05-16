@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>stone </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hard solid substance </TT> </P>
+<P> <U> ADJ. </U><B> heavy | hard, soft | rough, smooth | weathered | carved </B><I>a carved stone fireplace </I><B>| building </B> </P>
+<P> <U> QUANT. </U><B> block, slab </B> </P>
+<P> <U> VERB + STONE </U><B> break, cut, hew (sth from/out of) </B><I>Convicts were made to break stone for the roads. The stone is cut into blocks ready for building. The walls were hewn from local stone. </I><B>| dress | be built/carved/made from/in/(out) of, carve sth in </B><I>names carved in stone </I> </P>
+<P> <U> STONE + NOUN </U><B> block, flag, slab </B><I>The path's stone flags were worn and broken. </I><B>| arch/archway, bridge, building, floor, pillar, stairs, structure, wall, etc. | monument, sculpture | age </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He is a sculptor who works mainly in stone. </I> </P>
+<P> <SUP> 2 </SUP> <TT> small piece of rock </TT> </P>
+<P> <U> ADJ. </U><B> sharp | smooth | round | loose </B><I>Some loose stones tumbled down the slope behind her. </I><B>| foundation, memorial, paving, stepping | grinding </B> </P>
+<P> <U> QUANT. </U><B> heap, pile </B> </P>
+<P> <U> VERB + STONE </U><B> hurl, throw </B><I>The boys were caught throwing stones at passing trains. </I> </P>
+<P> <SUP> 3 </SUP> <TT> precious stone </TT> </P>
+<P> <U> ADJ. </U><B> gem (also gemstone), precious, semi-precious </B> </P>
+<P> <U> VERB + STONE </U><B> mine | cut | set </B><I>She had the stone set in a ring. </I> </P>
+<P> <U> STONE + VERB </U><B> glitter, shine </B> </P>
+<P> <SUP> 4 </SUP> <TT> measure of weight </TT> </P>
+<a href="/collocation-tag/measure" class="tag">Learn more about MEASURE</a>
+</DIV>

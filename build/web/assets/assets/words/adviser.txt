@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>adviser </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chief, lead, principal, senior, special </B><I>the government's chief medical adviser </I><B>| close, trusted </B><I>The duke was the king's most trusted adviser. </I><B>| personal | expert, professional | independent | government, presidential | business, careers, economic, environmental, financial, legal, medical, military, policy/political, public relations, scientific, security, technical </B> </P>
+<P> <U> VERB + ADVISER </U><B> act as | appoint, appoint sb (as) | have </B><I>Do you have a financial adviser? </I><B>| consult (with), go to, see, speak to, talk to </B><I>You ought to consult an independent legal adviser. </I> </P>
+<P> <U> ADVISER + VERB </U><B> advise sb/sth </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>an adviser on environmental issues </I><B>| ~ to </B><I>She acts as an adviser to the president. </I> </P>
+</DIV>

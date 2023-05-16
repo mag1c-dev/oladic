@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>read </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> activity of reading </TT> </P>
+<P> <U> ADJ. </U><B> good | quiet </B> </P>
+<P> <U> VERB + READ </U><B> have </B><I>I had a good read of the paper before they arrived. </I> </P>
+<P> <SUP> 2 </SUP> <TT> writer/book </TT> </P>
+<P> <U> ADJ. </U><B> compelling, good, great, interesting </B> </P>
+<P> <U> VERB + READ </U><B> be, make </B><I>The story made an interesting read. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>read </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> aloud </B><I>listening to children reading aloud </I><B>| silently | carefully, with interest </B><I>He read her letter with interest. </I><B>| avidly, voraciously </B><I>She read avidly from an early age?books, magazines, anything. </I><B>| out </B><I>Shall I read this out to you? </I> </P>
+<P> <U> VERB + READ </U><B> be able to, can/could </B><I>Most children can read by the age of seven. </I><B>| learn (how) to | teach sb (how) to </B> </P>
+<P> <U> PREP. </U><B> about </B><I>Hogan had read about her death in the papers. </I><B>| from </B><I>She read from the letter. </I><B>| of </B><I>I had read of the case in the local newspaper. </I><B>| through </B><I>I read through the first paragraph again. </I><B>| to </B><I>I read a story to my son every night. </I> </P>
+<P> <U> PHRASES </U><B> read and write </B><I>She had great difficulty learning to read and write. </I> </P>
+</DIV>

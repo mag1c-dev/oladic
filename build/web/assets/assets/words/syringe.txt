@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>syringe </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clean, sterile | used </B><I>a beach scattered with used syringes </I><B>| disposable | hypodermic </B> </P>
+<P> <U> VERB + SYRINGE </U><B> fill, prepare | draw sth into </B><I>The doctor drew a dose of morphia into the syringe. </I><B>| share </B> </P>
+<P> <U> SYRINGE + NOUN </U><B> exchange </B><I>a syringe exchange scheme </I> </P>
+</DIV>

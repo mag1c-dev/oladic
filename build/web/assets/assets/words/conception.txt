@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>conception </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> idea/understanding </TT> </P>
+<P> <U> ADJ. </U><B> clear, distinct </B><I>We now have a clearer conception of the problem. </I><B>| broad, general | narrow | bold, grand | modern | traditional | popular | initial, original </B> </P>
+<P> <U> VERB + CONCEPTION </U><B> have </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>His work is strikingly fresh in conception. </I> </P>
+<P> <U> PHRASES </U><B> have no conception of sth </B><I>You have no conception of what her life is like. </I> </P>
+<P> <SUP> 2 </SUP> <TT> becoming/making sb pregnant </TT> </P>
+<P> <U> VERB + CONCEPTION </U><B> prevent </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>Sex identity is fixed at conception. </I> </P>
+<P> <U> PHRASES </U><B> the moment of conception</B> </P>
+</DIV>

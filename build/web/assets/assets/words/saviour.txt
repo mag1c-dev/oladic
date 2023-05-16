@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>saviour </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> possible, potential </b></div></p>
+<p> <u> VERB + SAVIOUR </u><div class="ex"><b> hail sb as, see sb/sth as, treat sb as </b></div><div class="excontent"><i>The people clearly saw her as their saviour. </i></div><div class="ex"><b>| be acclaimed as, emerge as </b></div><div class="excontent"><i>He emerged as the potential saviour of the club. </i> </div></p>
+</div>

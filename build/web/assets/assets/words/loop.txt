@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>loop </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> continuous, endless </B> </P>
+<P> <U> VERB + LOOP </U><B> form, make </B><I>Lay the two ends of string so they make a loop over each other. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The audio tape runs in a continuous loop lasting thirty minutes. </I><B>| through a/the ~ </B><I>Put the other end of the string through the loop. </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>tide </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> change in the level of the sea </TT> </P>
+<P> <U> ADJ. </U><B> big, strong | flood, incoming, rising | ebb, outgoing | full, high | low | neap, spring </B> </P>
+<P> <U> VERB + TIDE </U><B> catch </B>(= to take advantage of a favourable tide) <I>We have to get up early to catch the tide. </I> </P>
+<P> <U> TIDE + VERB </U><B> be in | be out | come/flow in, rise | ebb, fall, flow/go out, retreat | be on the turn, turn | occur </B><I>the time of day when the highest tides occur </I><B>| wash sb/sth up </B><I>The body was washed up by the tide the next day. </I> </P>
+<P> <U> PREP. </U><B> at &hellip; ~ </B><I>Seals lie on the rocks at low tide. </I><B>| on a/the ~ </B><I>We went out to sea on the ebb tide. </I> </P>
+<P> <U> PHRASES </U><B> the ebb and flow of the tide </B> </P>
+<P> <SUP> 2 </SUP> <TT> strong movement in favour of/against sth </TT> </P>
+<P> <U> ADJ. </U><B> growing, rising </B><I>the rising tide of crime </I><B>| shifting | political </B><I>He hasn't the courage to swim against the political tide. </I> </P>
+<P> <U> VERB + TIDE </U><B> go with | go/swim against | stem, turn (back) </B><I>attempts to stem the tide of revolution </I> </P>
+<P> <U> TIDE + VERB </U><B> run </B><I>Seeing the tide was now running in his direction, he renewed his campaign for reform. </I><B>| carry sb/sth along | turn </B><I>The tide of public opinion seems to be turning at last. </I> </P>
+<P> <U> PREP. </U><B> against a/the ~ </B><I>It takes courage to speak out against the tide of public opinion. </I><B>| on a ~ </B><I>They were carried along on a tide of euphoria. </I><B>| ~ against, ~ in favour of </B><I>Civil liberties groups helped to turn the tide against industrial violence. </I> </P>
+<P> <U> PHRASES </U><B> a tide of history </B><I>the shifting tides of history </I><B>| the turn of the tide </B><I>In the early 1990s there was a marked turn of the tide. </I> </P>
+</DIV>

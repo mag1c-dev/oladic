@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>validity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great | equal </B><I>Don't you think that both views have equal validity? </I><B>| doubtful, dubious, questionable | face </B><I>The theory has the face validity of being consistent with recent findings. </I><B>| legal, scientific </B><I>The legal validity of the claims has been challenged. </I> </P>
+<P> <U> VERB + VALIDITY </U><B> have | give sth, lend sth </B><I>His reputation lends a certain validity to the approach that it might not deserve. </I><B>| cast doubt on, challenge, deny, question | accept, confirm, uphold </B><I>The judges upheld the validity of the previous judgement. </I><B>| assess, test </B><I>to assess the scientific validity of new treatments </I> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>The results are of doubtful validity. </I><B>| ~ for </B><I>the theory's validity for parent-child relationships </I> </P>
+</DIV>

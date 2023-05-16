@@ -1,0 +1,7 @@
+
+<div class="item"><p class="word first"><b>salmon </b><i>noun </i> </p>
+<p> <u> ADJ. </u><div class="ex"><b> fresh | wild | farmed | smoked | tinned | pink, red </b></div></p>
+<p> <u> VERB + SALMON </u><div class="ex"><b> eat, have | bake, cook, grill, poach, roast | fish for | catch, land | farm </b></div></p>
+<p> <u> SALMON + NOUN </u><div class="ex"><b> fillet, steak | mousse, paste | farm, farming, fishing | river | pink </b></div><div class="excontent"><i>a salmon-pink shirt </i> </div></p>
+<p> <u> PHRASES </u><div class="ex"><b> a fillet of salmon</b></div></p>
+</div>

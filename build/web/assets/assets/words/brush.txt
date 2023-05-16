@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>brush </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fine, soft, stiff </B><I>Scrub the wood thoroughly with water and a stiff brush. </I><B>| nylon, wire | clothes, lavatory, nail, pastry, scrubbing, shaving, toilet </B> </P>
+<P> <U> VERB + BRUSH </U><B> apply sth with </B><I>Apply the paint with a clean brush. </I><B>| use, wield </B> </P>
+<P> <U> BRUSH + NOUN </U><B> stroke </B><I>The artist has used tiny brush strokes. </I> </P>
+<P> <U> PREP. </U><B> with a/the ~ </B><I>Remove all the rust with a wire brush. </I> </P>
+<P> <U> PHRASES </U><B> a brush and comb, a dustpan and brush</B> </P>
+</DIV><DIV class="item"><P class="word"><B>brush </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> clean with a brush </TT> </P>
+<P> <U> ADV. </U><B> down </B><I>She hummed happily as she brushed down her coat. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>Lucille brushed at the blood on his jacket. </I> </P>
+<P> <U> PHRASES </U><B> brush sth clean </B> </P>
+<P> <SUP> 2 </SUP> <TT> touch lightly </TT> </P>
+<P> <U> ADV. </U><B> gently, lightly | accidentally </B> </P>
+<P> <U> PREP. </U><B> against </B><I>She carefully avoided brushing against the man sitting beside her at the table. </I><B>| by </B><I>She brushed by him and dashed up the stairs. </I><B>| past </B><I>I hardly noticed the man who brushed past me in the corridor. </I><B>| with </B><I>He brushed her lips with his. </I> </P>
+</DIV>

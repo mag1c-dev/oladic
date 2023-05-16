@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>pond </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, large | little, small | stagnant | muddy | ornamental | garden, village | duck, fish, lily </B> </P>
+<P> <U> VERB + POND </U><B> build, construct, dig | fill | drain, empty </B><I>The pond is drained every year. </I> </P>
+<P> <U> POND + NOUN </U><B> life, water </B> </P>
+<P> <U> PREP. </U><B> across a/the ~ </B><I>She swam across the pond. </I><B>| in a/the ~ </B><I>There are goldfish in the pond. </I><B>| into a/the ~ </B><I>Her sunglasses had fallen into the pond. </I><B>| on a/the ~ </B><I>some ducks swimming on a pond </I> </P>
+<P> <U> PHRASES </U><B> the bottom/edge/middle/side/surface of a pond </B><I>The dog raced around to the other side of the pond. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>highlight </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> real, undoubted </B><I>The real highlight of the trip for me was the visit to the Tower of London. </I><B>| personal | edited, recorded ~s (used to talk about sports broadcasts) </B><I>Recorded highlights of the match will be shown later tonight. </I> </P>
+<P> <U> PHRASES </U><B> the highlight of the day, week, year, etc. </B><I>The highlight of the week was Saturday's firework display. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>highlight </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> clearly </B><I>These figures clearly highlight the difference in world living standards. </I><B>| dramatically, graphically </B><I>The needs of these children were dramatically highlighted by the Child Poverty Action Group. </I><B>| merely, only, simply </B><I>The peace talks merely highlighted the great gulf in understanding between the two sides. </I> </P>
+<P> <U> VERB + HIGHLIGHT </U><B> serve to </B><I>The incident has sadly only served to highlight the differences within the party. </I> </P>
+</DIV>

@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>string </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> thin cord </TT> </P>
+<P> <U> ADJ. </U><B> taut, tight </B><I>He pulled the string tight. </I><B>| loose | tangled </B><I>He had hair like tangled yellow string. </I> </P>
+<P> <U> QUANT. </U><B> bit, length, piece </B><I>I cut a length of string to tie up the package. </I><B>| ball </B> </P>
+<P> <U> VERB + STRING </U><B> knot, tie, tie sth up with </B><I>Tie the string round the parcel. </I><B>| undo, untie | wind (up) </B><I>He wound the string into a ball. </I><B>| unwind | dangle (sth) on </B><I>Next to the phone, there was a pencil dangling on a string. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>There's a knot in the string. </I> </P>
+<P> <U> PHRASES </U><B> on the end of a string </B> </P>
+<P> <SUP> 2 </SUP> <TT> on a musical instrument </TT> </P>
+<P> <U> ADJ. </U><B> tight | slack | open | stopped | guitar, violin, etc. | A, G, etc. </B> </P>
+<P> <U> VERB + STRING </U><B> tighten, tune | loosen | pluck | change, replace | break </B> </P>
+<P> <U> STRING + VERB </U><B> break | vibrate </B> </P>
+<P> <U> STRING + NOUN </U><B> instrument </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>Play it on the G string. </I> </P>
+</DIV>

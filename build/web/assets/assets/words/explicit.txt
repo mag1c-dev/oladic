@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>explicit </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become | make sth, render sth </B><I>We think such information should be made explicit and not left vague. </I> </P>
+<P> <U> ADV. </U><B> highly </B><I>a highly explicit description of torture </I><B>| absolutely, fully, quite </B><I>Our orders were quite explicit. </I><B>| increasingly | fairly, relatively | sufficiently | sexually </B> </P>
+<P> <U> PREP. </U><B> about </B><I>The government has been quite explicit about its intentions. </I><B>| as to </B><I>She told him he needed to be more creative, without being explicit as to what this meant in practice. </I> </P>
+</DIV>

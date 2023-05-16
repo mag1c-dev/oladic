@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>keyboard </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> set of keys on a computer, etc. </TT> </P>
+<P> <U> ADJ. </U><B> British, Cyrillic, etc. | qwerty | computer, PC, typewriter </B> </P>
+<P> <U> VERB + KEYBOARD </U><B> lock </B><I>The program locks the keyboard until a password is given. </I> </P>
+<P> <U> KEYBOARD + NOUN </U><B> operator </B> </P>
+<P> <U> PREP. </U><B> on the~ </B><I>Using the mouse is quicker than typing it on the keyboard. </I>&gt; Special page at COMPUTER </B> </P>
+<P> <SUP> 2 </SUP> <TT> set of keys on a piano, etc. </TT> </P>
+<P> <U> ADJ. </U><B> piano </B> </P>
+<P> <U> KEYBOARD + NOUN </U><B> instrument </B> </P>
+<P> <SUP> 3 </SUP> <TT> electrical musical instrument </TT> </P>
+<P> <U> ADJ. </U><B> electric, electronic </B> </P>
+<P> <U> PREP. </U><B> at the ~ </B><I>Ed Duke was at the keyboard. </I><B>| on (a/the) ~ </B><I>He played the song on his keyboard. The recording features Herbie Hancock on keyboard. </I>&gt; Special page at MUSIC </B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>prose </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clear, plain, simple | elegant, flowing, rhythmic | flowery, purple </B>(= elaborate or exaggerated in style) <B>| descriptive | discursive | continuous </B><I>I plan out an essay in note form before writing it up in continuous prose. </I><B>| academic, literary </B> </P>
+<P> <U> QUANT. </U><B> piece </B> </P>
+<P> <U> VERB + PROSE </U><B> write (in) </B> </P>
+<P> <U> PROSE + NOUN </U><B> works, writing | writer | style | narrative | passage, text | fiction </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>a passage in prose </I> </P>
+</DIV>

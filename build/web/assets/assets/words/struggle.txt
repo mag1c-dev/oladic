@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>struggle </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fight </TT> </P>
+<P> <U> ADJ. </U><B> great, life-and-death, titanic | bitter, desperate, fierce, heroic, violent </B><I>There were the sounds of a desperate struggle. </I><B>| just </B><I>The UN supported what it saw as the just struggle of an oppressed people. </I><B>| unequal | armed </B><I>The group supported the armed struggle against the dictator. </I><B>| class, internecine </B><I>Marx wrote about the class struggle. </I><B>| economic, ideological, leadership, political, power, revolutionary </B> </P>
+<P> <U> VERB + STRUGGLE </U><B> begin, put up, take up </B><I>If someone snatched your bag, would you put up a struggle? They took up the struggle against racism. </I><B>| be engaged/locked in, carry on, wage </B><I>species engaged in a life-or-death struggle with the ever-changing environment </I> </P>
+<P> <U> STRUGGLE + VERB </U><B> ensue, take place | continue, go on | intensify </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>One of the security guards was hurt in the struggle. </I><B>| without a ~ </B><I>She won't give up without a struggle. </I><B>| ~ against </B><I>the struggle against fascism </I><B>| ~ between </B><I>the struggle between good and evil </I><B>| ~ for </B><I>the long struggle for democracy </I><B>| ~ over </B><I>a struggle over the property </I><B>| ~ with </B><I>He was involved in a struggle with the police. </I> </P>
+<P> <U> PHRASES </U><B> a sign of a struggle </B><I>The police said that there was no sign of a struggle by the murder victim. </I><B>| years of struggle </B><I>After 150 years of struggle against brutal colonial rule, the country won its independence. </I> </P>
+<P> <SUP> 2 </SUP> <TT> great effort </TT> </P>
+<P> <U> ADJ. </U><B> desperate, great, hard, real, uphill </B><I>It will be an uphill struggle to maintain exports at the current level. </I><B>| long | ceaseless, constant, endless | unequal </B> </P>
+<P> <U> VERB + STRUGGLE </U><B> face, have </B><I>We had a real struggle to get everything into the suitcase. </I><B>| give up </B><I>I've given up the unequal struggle to keep my house tidy. </I> </P>
+<P> <U> PHRASES </U><B> a bit of a struggle </B><I>It was a bit of a struggle for me to get there so early. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>struggle </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> try very hard to do sth </TT> </P>
+<P> <U> ADV. </U><B> desperately, hard, manfully, painfully, really, valiantly </B><I>He struggled desperately to get to the shore. He struggled hard to keep the boat upright. </I><B>| a little | constantly | on </B><I>She struggled on despite the pain. </I> </P>
+<P> <U> VERB + STRUGGLE </U><B> have to </B> </P>
+<P> <U> PREP. </U><B> against </B><I>The small boat struggled against the waves. </I><B>| along, down, for </B><I>Shona struggled for breath. </I><B>| through </B><I>The family struggled through the next few years. </I><B>| up </B><I>They struggled up the hill. </I><B>| with </B><I>I'm really struggling with this essay. </I> </P>
+<P> <U> PHRASES </U><B> struggle to your feet </B><I>She struggled to her feet and set off after him. </I> </P>
+<P> <SUP> 2 </SUP> <TT> have great difficulties </TT> </P>
+<P> <U> ADV. </U><B> badly </B><I>The team struggled badly last season. </I><B>| financially </B><I>I was unemployed and struggling financially. </I> </P>
+<P> <SUP> 3 </SUP> <TT> fight sb/try to get away from them </TT> </P>
+<P> <U> ADV. </U><B> fiercely, furiously, violently </B><I>She struggled furiously but could not get away. </I><B>| together </B><I>Ben and Jack struggled together on the grass. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>struggling against her attacker </I><B>| with </B><I>He was hit in the mouth as he struggled with the raiders. </I> </P>
+<P> <U> PHRASES </U><B> struggle free </B><I>The attacker's victim managed to struggle free. </I> </P>
+</DIV>

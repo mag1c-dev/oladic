@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pus </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> yellow </B> </P>
+<P> <U> VERB + PUS </U><B> discharge, ooze </B><I>The wound had not healed properly and was oozing pus. </I> </P>
+<P> <U> PUS + VERB </U><B> gather | ooze (out) </B> </P>
+<P> <U> PUS + NOUN </U><B> cell</B> </P>
+</DIV>

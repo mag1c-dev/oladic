@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>hiss </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sharp | faint, soft, low </B><I>There was a low hiss on the tape. </I><B>| audible </B> </P>
+<P> <U> VERB + HISS </U><B> give, let out </B><I>The snake gave a hiss. </I><B>| hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>She drew in her breath with a hiss. </I><B>| ~ of </B><I>We could hear the faint hiss of escaping gas. </I> </P>
+<P> <U> PHRASES </U><B> boos and hisses, a hiss of air, the hiss of a snake </B></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+</DIV><DIV class="item"><P class="word"><B>hiss </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make a sound like a long &lsquo;s&rsquo; </TT> </P>
+<P> <U> ADV. </U><B> gently </B><I>The gas lamp hissed gently. </I> </P>
+<P> <SUP> 2 </SUP> <TT> say sth in an angry, hissing voice </TT> </P>
+<P> <U> ADV. </U><B> angrily, furiously </B><I>&lsquo;Don't be stupid!&rsquo; she hissed furiously. </I><B>| quietly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>She hissed at me to be quiet. </I> </P>
+<P> <U> PHRASES </U><B> hiss (sth) through your teeth </B><I>&lsquo;Go away!&rsquo; he hissed through clenched teeth. </I> </P>
+</DIV>

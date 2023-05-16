@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>luxury </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> comfort and pleasure </TT> </P>
+<P> <U> ADJ. </U><B> great, pure, sheer </B><I>It was sheer luxury to step into a hot bath. </I><B>| ultimate </B><I>the ultimate luxury of a sauna in your own home </I> </P>
+<P> <U> QUANT. </U><B> touch </B><I>Silk sheets added the final touch of luxury. </I> </P>
+<P> <U> VERB + LUXURY </U><B> enjoy </B><I>enjoying the luxury of an expensive bottle of wine </I><B>| afford </B><I>We can't afford such luxury. </I><B>| live in </B> </P>
+<P> <U> LUXURY + NOUN </U><B> hotel | car, coach, liner, yacht | cruise | apartment, flat, home </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>brought up in luxury </I> </P>
+<P> <U> PHRASES </U><B> (live) a life of luxury </B><I>I found out that he wasn't dead, but living a life of luxury in Australia. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth expensive and unnecessary </TT> </P>
+<P> <U> ADJ. </U><B> expensive | little, simple, small </B><I>one of life's little luxuries </I><B>| unnecessary </B> </P>
+<P> <U> VERB + LUXURY </U><B> afford </B><I>We can't afford luxuries. </I><B>| enjoy, have, indulge in | do without | miss </B><I>He missed the simple luxuries of life, like regular meals. </I> </P>
+<P> <U> LUXURY + NOUN </U><B> goods, items </B> </P>
+<P> <U> PHRASES </U><B> have every luxury </B><I>She's had every luxury in life. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>bat </B><I>noun</I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> in games </TT> </P>
+<P> <U> ADJ. </U><B> baseball, cricket, table tennis </B> </P>
+<P> <U> VERB + BAT </U><B> grip, hold | carry | swing </B> </P>
+<P> <SUP> 2 </SUP> <TT> small flying animal </TT> </P>
+<P> <U> ADJ. </U><B> fruit, pipistrelle, vampire </B> </P>
+<P> <U> BAT + VERB </U><B> flutter, fly | roost | squeak </B> </P>
+<P> <U> PHRASES </U><B> a species of bat</B> </P>
+</DIV><DIV class="item"><P class="word"><B>bat </B><I>verb </I> </P>
+<P> <U> VERB + BAT </U><B> go in to </B><I>Hick went in to bat after Hussain. </I><B>| put sb in to </B><I>India won the toss and put England in to bat. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>Smith was first to bat for Warwickshire. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>cordon </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> tight | police, security </B> </P>
+<P> <U> VERB + CORDON </U><B> form, throw </B><I>Police officers threw a cordon around his car to protect him. </I><B>| break through </B><I>The crowd managed to break through the police cordon. </I> </P>
+<P> <U> CORDON + VERB </U><B> prevent sth </B><I>A police cordon prevented the marchers from entering the main square. </I> </P>
+<P> <U> PREP. </U><B> ~ around/round </B><I>There is a tight security cordon around the area. </I> </P>
+</DIV>

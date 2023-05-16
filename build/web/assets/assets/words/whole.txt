@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>whole </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> all of sth </TT> </P>
+<P> <U> VERB + WHOLE </U><B> cover, embrace, encompass, involve, span </B><I>The project involved the whole of the university. </I><B>| fill, occupy, take up </B><I>The library takes up the whole of the first floor. </I><B>| permeate, pervade </B><I>Technology permeates the whole of our lives. </I> </P>
+<P> <SUP> 2 </SUP> <TT> complete thing </TT> </P>
+<P> <U> ADJ. </U><B> coherent, cohesive, harmonious, homogeneous, integrated, organized, seamless </B><I>She was struggling to organize her ideas into a coherent whole. </I><B>| single | complex </B><I>The author examines each aspect of Roman society, then attempts to summarize the complex whole. </I><B>| meaningful </B><I>At this age, babies do not yet combine sounds into a meaningful whole. </I><B>| organic </B> </P>
+<P> <U> VERB + WHOLE </U><B> form, make (up) </B><I>He tried to fit the pieces of evidence together to make a coherent whole. </I> </P>
+<P> <U> PHRASES </U><B> as a whole </B><I>Unemployment is higher in the north than in the country as a whole. </I> </P>
+</DIV>

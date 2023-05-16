@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>cheque </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large | blank | bad, dud, forged | crossed, post-dated, signed | personal | giro, pay, traveller's </B> </P>
+<P> <U> VERB + CHEQUE </U><B> issue, make out, sign, write (out), write sb </B><I>Shall I make the cheque out to you? Can I write you a cheque? </I><B>| draw </B><I>He drew a large cheque on his company's account. </I><B>| make payable </B><I>Cheques should be made payable to Toyland plc. </I><B>| give sb, hand sb, hand over | deposit, pay in </B><I>She deposited the cheque in her husband's account. I've got to go to the bank to pay this cheque in. </I><B>| pay by | cash </B><I>I'll cash a traveller's cheque at the bank. </I><B>| accept </B><I>Does the restaurant accept cheques? </I><B>| clear, honour, pass </B><I>He was sacked for passing bad cheques. </I><B>| bounce | cancel, stop | endorse </B> </P>
+<P> <U> CHEQUE + VERB </U><B> bounce </B><I>The cheque will bounce if your salary doesn't reach your account today. </I> </P>
+<P> <U> CHEQUE + NOUN </U><B> account | (guarantee) card </B><I>Cheques must be supported by a cheue guarantee card. </I><B>| book, stub </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a cheque for ten pounds </I> </P>
+</DIV>

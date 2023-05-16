@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>debt </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> sum of money owed </TT> </P>
+<P> <U> ADJ. </U><B> big, crippling, enormous, high, huge, large, massive, substantial </B><I>He was burdened with crippling debts. </I><B>| mounting </B><I>a company faced with mounting debts </I><B>| outstanding, unpaid </B><I>She used her lottery winnings to pay off her outstanding debts. </I><B>|  overdue | bad </B>(= that cannot be </B>repaid) <I>Bad debt has hit the bank's profits this year. </I><B>| long-term, short-term | overall, total | gross, net | commercial, corporate | external, foreign, international | national, public  </B><I>The country has a national debt of 80% of GNP. </I><B>| gambling </B> </P>
+<P> <U> VERB + DEBT </U><B> be burdened with, have, owe (sb) </B><I>the substantial debts that the company owed to the bank </I><B>| incur, run up </B><I>She ran up huge debts on her credit card. </I><B>| clear, meet, pay (back/off), repay, settle </B><I>Without a job, he'll never clear his debts. It'll take months to pay off all your debts. </I><B>| reduce | tackle </B><I>The new governments main aim is to tackle the country's massive debt. </I><B>| default on </B><I>The firm defaulted on its debt and its assets were seized. </I> <B>| cancel, wipe off/out, write off </B><I>After a series of meetings, the banks were forced to write off the company's debts. </I><B>| service </B>(= pay interest on) <I>The fall in exports has left the country unable to service its debts. </I><B>| reschedule, restructure </B><I>The company has reached a deal with its major creditors allowing it to restructure its debts. </I><B>| secure </B><I>a debt secured on property </I> </P>
+<P> <U> DEBT + VERB </U><B> fall due | stand at sth, total sth </B><I>The national debt stands at $7,000 million. </I><B>| arise from sth </B><I>debts arising from bad investments </I> </P>
+<P> <U> DEBT + NOUN </U><B> collection, collector | burden </B> </P>
+<P> <U> PREP. </U><B> of ~ </B><I>$80 million of debt </I> </P>
+<P> <U> PHRASES </U><B> a burden of debt </B><I>Faced with a mounting burden of debt, he sold off the company. </I><B>| payment/repayment/settlement of a debt </B> </P>
+<P> <SUP> 2 </SUP> <TT> state of owing money </TT> </P>
+<P> <U> ADJ. </U><B> serious </B> </P>
+<P> <U> VERB + DEBT </U><B> go into, get into, slip into </B><I>It is easy to get into serious debt with a credit card. </I><B>| get out of </B><I>You can get out of debt by strict economizing. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He was heavily in debt by the time he sought advice. </I><B>| out of ~ </B><I>struggling to stay out of debt </I> </P>
+<P> <U> PHRASES </U><B> deeply/heavily in debt </B> </P>
+<P> <SUP> 3 </SUP> <TT> sth that you owe sb </TT> </P>
+<P> <U> ADJ. </U><B> great </B> </P>
+<P> <U> VERB + DEBT </U><B> owe | acknowledge, recognize </B> </P>
+<P> <U> PREP. </U><B> in sb's ~ </B><I>I am in Ruth's debt for the excellent advice she gave me. </I><B>| ~ to </B><I>In the introduction, the author acknowledges her debt to other writers on the subject. </I> </P>
+<P> <U> PHRASES </U><B> owe a debt of gratitude to sb </B><I>We owe a great debt of gratitude to our families for their support. </I> </P>
+</DIV>

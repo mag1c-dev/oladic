@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>lid </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> removable top </TT> </P>
+<P> <U> ADJ. </U><B> airtight, close-fitting, sealed, tight-fitting, tight </B><I>Choose a dish with a tight-fitting lid. </I><B>| hinged | box, case, coffin, dustbin, piano, saucepan, etc. </B> </P>
+<P> <U> VERB + LID </U><B> lift, open, prise off, raise, remove, take off </B><I>She lifted the lid of the box. We managed to prise off the lid with a tyre lever. </I><B>| close, put down, put on, replace, screw down, screw on, shut </B><I>I poured some water and screwed the lid back on the bottle. The coffin lid had been screwed down. </I><B>| keep on </B><I>Keep the lid on the pan until the liquid comes to the boil. </I> </P>
+<P> <U> PREP. </U><B> on the ~ </B><I>His name was on the lid. </I></P>
+<P> <SUP> 2 </SUP> <TT> lids: eyelids  </TT> </P>
+<P> <U> ADJ. </U><B> closed, drooping, half-closed, half-open, heavy, hooded, lowered, narrowed </B><I>She felt the tears burning against her closed lids. </I> </P>
+<P> <U> VERB + LID </U><B> close, lower </B><I>She saw James walk in and hastily lowered her lids. </I><B>| lift, open </B><I>She lifted her lids and found him looking at her. </I> </P>
+<P> <U> LID + VERB </U><B> droop </B><I>Heavy lids drooped over her eyes. </I> </P>
+<P> <U> PREP. </U><B> behind &hellip; ~ </B><I>She could still see the light flickering behind her closed lids. </I><B>| beneath &hellip; ~ </B><I>She glanced at him occasionally from beneath lowered lids. </I><B>| through &hellip; ~ </B><I>He was watching her through hooded lids. </I> </P>
+</DIV>

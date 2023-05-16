@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>humour </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amusing quality/ability to find things funny </TT> </P>
+<P> <U> ADJ. </U><B> wry </B><I>With wry humour, they laugh at their misfortunes. </I><B>| irreverent | caustic, sardonic | black, dark, gallows, grim | self-deprecating | gentle | tongue-in-cheek | slapstick, visual | unconscious, unintentional | deadpan, dry | schoolboy </B><I>His colleagues soon got fed up with his schoolboy humour. </I><B>| lavatorial </B> </P>
+<P> <U> QUANT. </U><B> touch </B><I>Her speech was serious, but not without the occasional touch of humour. </I> </P>
+<P> <U> VERB + HUMOUR </U><B> be full of, contain </B><I>The stories are full of humour. </I><B>| appreciate, see </B><I>The man who lost his shoes failed to see the humour of the situation. </I> </P>
+<P> <U> PHRASES </U><B> a brand of humour </B><I>a television sitcom with its own peculiar brand of humour </I><B>| sense of humour </B><I>to have a dry/good/great/warped/weird/wicked sense of humour </I> </P>
+<P> <SUP> 2 </SUP> <TT> mood </TT> </P>
+<P> <U> ADJ. </U><B> good </B><I>Her good humour was restored by the excellent meal. </I> </P>
+<P> <U> PHRASES </U><B> in (a) good humour </B><I>The remarks were made in good humour. He was obviously in a good humour this evening. </I> </P>
+</DIV>

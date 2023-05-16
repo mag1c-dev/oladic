@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>spice </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> flavour for food </TT> </P>
+<P> <U> ADJ. </U><B> ground | mixed | exotic </B> </P>
+<P> <U> SPICE + NOUN </U><B> mix/mixture | cupboard, jar, rack </B> </P>
+<P> <U> PHRASES </U><B> herbs and spices </B> </P>
+<P> <SUP> 2 </SUP> <TT> excitement and interest </TT> </P>
+<P> <U> VERB + SPICE </U><B> add, give </B><I>The romance added spice to the holiday. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>spice </B><I>verb </I> </P>
+<P> <U> PREP. </U><B> with </B><I>Their bread is spiced with cinnamon. </I> </P>
+<P> <U> PHRASES </U><B> heavily/highly spiced </B><I>I don't really like highly spiced food. </I><B>| lightly spiced </B><I>a dish of lightly spiced rice </I> </P>
+</DIV>

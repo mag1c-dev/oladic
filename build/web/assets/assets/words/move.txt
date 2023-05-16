@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>move </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> action to achieve sth; change in ideas/behaviour </TT> </P>
+<P> <U> ADJ. </U><B> big, important, major, radical, significant, substantial | decisive | astute, brilliant, clever, good, inspired, sensible, shrewd, smart, wise | bad | right </B><I>She wondered whether she had made the right move in telling the truth. </I><B>| false, wrong </B><I>One false move could lead to war. </I><B>| positive | bold, brave, strong | defensive | serious | dramatic, shock </B>(used in journalism), <B>surprise, unexpected </B><I>The company was put up for sale yesterday in a shock move by management. </I><B>| obvious | interesting | unusual | controversial | conciliatory | popular | gradual | rapid | new | current, present </B><I>the current move towards networked organizations </I><B>| latest, recent | first, initial </B><I>If he wants to see me, he should make the first move. </I><B>| far-sighted | strategic, tactical | precautionary | logical | diplomatic, legal, military, political | career </B><I>Getting a job in advertising was a good career move. </I> </P>
+<P> <U> VERB + MOVE </U><B> be, represent </B><I>The talks represented the first significant move towards peace. </I><B>| make </B><I>The management has made no move to settle the strike. </I><B>| prompt | initiate | signal </B><I>The new legislation signalled a move away from state involvement in telecommunications. </I><B>| spearhead </B><I>The move is spearheaded by a former MP. </I><B>| back, encourage, support | welcome | condemn | oppose, reject, resist | consider, contemplate | decide (on) </B><I>They are waiting for the results of the opinion polls before deciding their next move. </I><B>| announce </B><I>The government announced its move to ban smoking in public spaces. </I> </P>
+<P> <U> MOVE + VERB </U><B> take place | be afoot, be underway </B><I>Moves are afoot to increase car insurance premiums. </I><B>| fail | be aimed at sth, be designed to do sth </B><I>a move designed to control inflation </I><B>| reflect sth </B><I>The move reflects a change in approach to research. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In a move which surprised commentators, the president sacked several cabinet ministers. </I><B>| ~ against </B><I>a move against drug dealers </I><B>| ~ away from </B><I>a move away from traditional Labour policies </I><B>| ~ back to </B><I>a move back to old teaching styles </I><B>| ~ to/towards </B><I>a move towards greater trade liberalization </I> </P>
+<P> <U> PHRASES </U><B> a move in the right direction </B><I>Although the new environmental regulations are flawed, they represent a move in the right direction </I>(= they do improve the current situation)</B><I>. </I> </P>
+<P> <SUP> 2 </SUP> <TT> change of place </TT> </P>
+<P> <U> ADJ. </U><B> false </B><I>One false move and I'll shoot! </I><B>| sudden </B> </P>
+<P> <U> VERB + MOVE </U><B> make </B><I>We should make a move </I>(= leave) </B><I>? it's really late. </I> </P>
+<P> <U> PREP. </U><B> ~ to/towards </B><I>She made a move towards the door. </I> </P>
+<P> <U> PHRASES </U><B> be/keep (sb/sth) on the move </B><I>His career as a petroleum engineer has kept him on the move </I>(= kept him moving about from place to place)</B><I>. </I><B>| every/no/one move </B><I>She made no move as the lion sniffed at the tent. </I><B>| follow/watch sb/sth's every move </B><I>The cubs followed their mother on the hunt, watching her every move. </I><B>| get a move on </B><I>We're leaving in five minutes so you'd better get a move on </I>(= hurry)</B><I>! </I><B>| make a move for sth </B><I>(informal) He made a move for </I>(= towards) </B><I>the door. </I> </P>
+<P> <SUP> 3 </SUP> <TT> change of house/job </TT> </P>
+<P> <U> ADJ. </U><B> permanent | sideways </B><I>His new job was a sideways move rather than a promotion. </I><B>| house </B> </P>
+<P> <U> MOVE + VERB </U><B> take place </B> </P>
+<P> <U> PREP. </U><B> ~ from, ~ to </B><I>a move from London to Leeds </I> </P>
+<P> <SUP> 4 </SUP> <TT> in a board game </TT> </P>
+<P> <U> ADJ. </U><B> brilliant, good | bad | opening | chess </B> </P>
+<P> <U> VERB + MOVE </U><B> learn </B><I>She learned all the chess moves when she was four. </I><B>| play </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She captured the rook with her bishop on the 32nd move. </I> </P>
+</DIV>

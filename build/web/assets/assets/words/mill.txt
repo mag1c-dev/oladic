@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>mill </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for making flour </TT> </P>
+<P> <U> ADJ. </U><B> corn, flour | water (also watermill) </B> </P>
+<P> <U> VERB + MILL </U><B> operate, work | convert, restore </B><I>living in a converted watermill </I><B>| drive, power </B><I>The river was harnessed to drive many mills. </I> </P>
+<P> <U> MILL + VERB </U><B> grind sth, work sth </B><I>The mill can be seen grinding corn. </I> </P>
+<P> <U> MILL + NOUN </U><B> house | wheel </B> </P>
+<P> <SUP> 2 </SUP> <TT> factory </TT> </P>
+<P> <U> ADJ. </U><B> cotton, paper, steel, textile, woollen </B> </P>
+<P> <U> VERB + MILL </U><B> operate, own, run | work in </B> </P>
+<P> <U> MILL + VERB </U><B> manufacture sth, produce sth </B> </P>
+<P> <U> MILL + NOUN </U><B> town </B><I>a northern mill town </I><B>| buildings</B> </P>
+</DIV>

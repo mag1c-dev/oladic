@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>bowling </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> indoor game </TT> </P>
+<P> <U> ADJ. </U><B> tenpin </B> </P>
+<P> <U> VERB + BOWLING </U><B> go </B><I>Let's go bowling on Saturday. </I> </P>
+<P> <U> BOWLING + NOUN </U><B> ball | alley | green </B></B> </P>
+<P> <SUP> 2 </SUP> <TT> in the game of cricket </TT> </P>
+<P> <U> ADJ. </U><B> fast, pace, quick | slow | seam, spin, swing | short-pitched | intimidatory </B> </P>
+<P> <U> VERB + BOWLING </U><B> open </B><I>McArthur opened the bowling on the first day of the match. </I> </P>
+<P> <U> BOWLING + NOUN </U><B> attack </B><I>England were no match for the Indian bowling attack. </I><B>| average | crease</B> </P>
+</DIV>

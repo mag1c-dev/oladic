@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>illumination </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bright, good, strong </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>providing an excellent level of illumination </I> </P>
+<P> <U> VERB + ILLUMINATION </U><B> provide </B><I>The skylight will provide good illumination from above. </I> </P>
+<P> <U> ILLUMINATION + VERB </U><B> come from sth </B><I>Most of the illumination came from candles. </I> </P>
+<P> <U> PHRASES </U><B> a source of illumination </B><I>The only source of illumination was a single small window. </I> </P>
+</DIV>

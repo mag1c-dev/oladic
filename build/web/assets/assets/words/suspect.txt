@@ -1,0 +1,19 @@
+
+<DIV class="item"><P class="word"><B>suspect </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem, sound | render sth </B><I>The theory is rendered suspect by its reliance on now discredited sources. </I> </P>
+<P> <U> ADV. </U><B> deeply, highly, very </B><I>Some of the evidence was deeply suspect. </I><B>| increasingly | a bit, a little, rather, slightly, somewhat | politically </B><I>the forced adoption of children of politically suspect citizens </I> </P>
+</DIV><DIV class="item"><P class="word"><B>suspect </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chief, main, number one, prime </B><I>She has been identified as the prime suspect. </I><B>| likely, obvious, possible, potential | usual | murder, terrorist </B> </P>
+<P> <U> VERB + SUSPECT </U><B> have, identify (sb as) </B><I>The police have several suspects. </I><B>| arrest, detain, hold, round up </B><I>The army rounded up all the usual terrorist suspects. </I><B>| interrogate, interview, question | release | extradite, hand over </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>The letter makes him a possible suspect for her murder. </I><B>| ~ in </B><I>Two men were arrested as suspects in the bombing. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>suspect </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> believe that sth may happen/be true </TT> </P>
+<P> <U> ADV. </U><B> strongly | rather </B><I>I rather suspect they were trying to get rid of me. </I><B>| rightly, wrongly | all along, always </B><I>These revelations only prove what I suspected all along. </I> </P>
+<P> <U> VERB + SUSPECT </U><B> begin to | have reason to </B><I>She had no reason to suspect that Sylvia had not been telling the truth. </I> </P>
+<P> <U> PHRASES </U><B> be widely suspected </B><I>It was widely suspected that the cadets had been acting on orders. </I> </P>
+<P> <SUP> 2 </SUP> <TT> believe sb is guilty of sth </TT> </P>
+<P> <U> ADV. </U><B> rightly, wrongly </B> </P>
+<P> <U> PREP. </U><B> of </B><I>He was wrongly suspected of the crime. </I> </P>
+<P> <U> VERB + SUSPECT </U><B> have grounds to, have reason to </B> </P>
+<P> <U> PHRASES </U><B> have grounds for suspecting sb/sth</B> </P>
+</DIV>

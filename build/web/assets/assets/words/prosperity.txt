@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>prosperity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> economic, material | growing, increasing, rising | relative | future, lasting, long-term | general, global, national, world | personal </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>an area with a level of prosperity higher than the national average </I> </P>
+<P> <U> VERB + PROSPERITY </U><B> bring, create </B><I>The growth of tourism brought prosperity to the island. </I><B>| achieve </B> </P>
+<P> <U> PROSPERITY + VERB </U><B> depend on sth </B><I>The island's prosperity depends on its fishing industry. </I> </P>
+<P> <U> PHRASES </U><B> a period of prosperity</B> </P>
+</DIV>

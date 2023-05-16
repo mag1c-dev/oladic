@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>handling </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> careful, delicate, gentle </B><I>Timid children need gentle handling to build up their confidence. </I><B>| careless, clumsy | sensitive, sympathetic </B><I>Issues such as drug addiction require sensitive handling when featured in TV dramas. </I><B>| insensitive | competent </B><I>She was praised for her competent handling of the crisis. </I><B>| baggage, cargo, freight, stock | customer, passenger </B><I>a small airport with limited passenger handling facilities </I><B>| food </B><I>hygienic food handling practice </I><B>| data, information </B> </P>
+<P> <U> VERB + HANDLING </U><B> need, require</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>flex </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> long | trailing </B><I>Long trailing flexes are a serious trip hazard. </I><B>| electric/electical | kettle, telephone, etc. </B> </P>
+<P> <U> QUANT. </U><B> length </B> </P>
+<P> <U> VERB + FLEX </U><B> cut </B><I>Side cutters are useful for cutting electrical flex to length. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>antibiotic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> effective </B> </P>
+<P> <U> QUANT. </U><B> course, dose </B><I>The doctor put her on a course of antibiotics. </I> </P>
+<P> <U> VERB + ANTIBIOTIC </U><B> be on, take </B><I>Did you remember to take your antibiotics? </I><B>| give sb, prescribe, put sb on, treat sth with </B><I>The doctor prescribed antibiotics. </I> </P>
+</DIV>

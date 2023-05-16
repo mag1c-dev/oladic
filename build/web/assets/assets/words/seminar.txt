@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>seminar </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> class at a university, etc. </TT> </P>
+<P> <U> ADJ. </U><B> termly, weekly, etc. | graduate </B> </P>
+<P> <U> QUANT. </U><B> series </B> </P>
+<P> <U> VERB + SEMINAR </U><B> conduct, give | attend, go to </B> </P>
+<P> <U> SEMINAR + NOUN </U><B> group | discussion, paper | room | programme, series </B> </P>
+<P> <U> PREP. </U><B> at/in a/the ~ </B><I>There was some lively debate at this week's seminar. </I><B>| ~ on </B><I>Professor Mackay will give a seminar on musical settings of Verlaine's poetry. </I> </P>
+<P> <SUP> 2 </SUP> <TT> conference for discussion/training </TT> </P>
+<P> <U> ADJ. </U><B> all-day, half-day, weekend | one-day, two-day, etc. | business, economic | training </B> </P>
+<P> <U> VERB + SEMINAR </U><B> organize, hold, run | attend, go to </B> </P>
+<P> <U> SEMINAR + VERB </U><B> take place </B> </P>
+<P> <U> SEMINAR + NOUN </U><B> participant</B> </P>
+</DIV>

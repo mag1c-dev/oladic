@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>grip </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> hold on sth </TT> </P>
+<P> <U> ADJ. </U><B> firm, good, secure, strong, tight | cruel, crushing, fierce, iron, painful, punishing, vice-like </B><I>Her upper arms were seized in an iron grip. </I><B>| restraining </B> </P>
+<P> <U> VERB + GRIP </U><B> have </B><I>He still had a firm grip on my arm. </I><B>| get, take </B><I>Taking a tight grip on the hook, he began to pull it towards himself. </I><B>| keep </B><I>Keep a secure grip on the rope at all times. </I><B>| lose </B><I>She slipped and lost her grip of the rope. </I><B>| tighten </B><I>Robert tightened his grip on her shoulder. </I><B>| loosen, relax, release, slacken </B> </P>
+<P> <U> GRIP + VERB </U><B> tighten | loosen, relax, slacken </B><I>His grip slackened and she tore herself away. </I> </P>
+<P> <U> PREP. </U><B> in a/sb's ~ </B><I>Hold the microphone in a firm grip. She was powerless in his vice-like grip. </I><B>| ~ on </B><I>She relaxed her grip on the door frame. </I> </P>
+<P> <SUP> 2 </SUP> <TT> power/control </TT> </P>
+<P> <U> ADJ. </U><B> firm, iron, powerful, strong, tight, vice-like </B> </P>
+<P> <U> VERB + GRIP </U><B> have </B><I>The Church does not have a strong grip on the population. </I><B>| get, take </B><I>The government needs to get a grip on this problem. (informal) Get a grip! </I>(= take control of yourself, your life, etc.) <B>| keep </B><I>We need to keep a tight grip on costs. </I><B>| strengthen, tighten </B><I>They managed to strengthen their grip on the southern part of the country. </I><B>| lose </B><I>(informal) Sometimes I feel I'm losing my grip </I>(= losing control of my life, etc.) </B> </P>
+<P> <U> PREP. </U><B> in sth's ~ </B><I>Winter still held them in its iron grip. a country in the grip of recession </I><B>| ~ on </B><I>The government does not seem to have a very firm grip on the economy. </I> </P>
+<P> <U> PHRASES </U><B> come/get to grips with sth </B>(= to begin to take control of sth or understand sth difficult) <I>I'm slowly getting to grips with the language. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>grip </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> firmly, hard, tightly | gently, lightly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>She gripped hard at the arms of her chair. </I><B>| by </B><I>He gripped her gently by the shoulders. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>marsh </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> coastal, salt | freshwater | grazing </B> </P>
+<P> <U> VERB + MARSH </U><B> drain, reclaim </B> </P>
+<P> <U> MARSH + NOUN </U><B> plant </B> </P>
+<P> <U> PREP. </U><B> in/on a/the ~ </B><I>He keeps his cattle on the marshes. </I> </P>
+</DIV>

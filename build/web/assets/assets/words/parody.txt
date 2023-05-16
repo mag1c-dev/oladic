@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>parody </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> writing/speech/music </TT> </P>
+<P> <U> ADJ. </U><B> brilliant, clever | cruel </B> </P>
+<P> <U> VERB + PARODY </U><B> compose, write </B> </P>
+<P> <U> PREP. </U><B> through ~ </B><I>He attacked her ideas through parody. </I><B>| ~ of </B><I>She has written a cruel parody of his book. </I><B>| ~ on </B><I>The show included a parody on current affairs programmes. </I> </P>
+<P> <SUP> 2 </SUP> <TT> bad example </TT> </P>
+<P> <U> ADJ. </U><B> grotesque </B> </P>
+<P> <U> PREP. </U><B> in a ~ of </B><I>He sighed in a parody of deep emotion. </I><B>| ~ of </B><I>She has become a grotesque parody of her former elegant self. </I> </P>
+<P> <U> PHRASES </U><B> a parody of justice </B><I>The trial was a parody of justice. </I> </P>
+</DIV>

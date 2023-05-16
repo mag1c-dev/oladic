@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>velocity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> enormous, high | low | constant, uniform | average, mean | maximum </B> </P>
+<P> <U> VERB + VELOCITY </U><B> achieve, attain, reach </B><I>Eventually, the star attained the velocity of light. </I><B>| move with </B><I>to move with a uniform velocity </I><B>| increase, raise </B> </P>
+<P> <U> VELOCITY + VERB </U><B> increase, rise | decrease, fall </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>Light travels at a constant velocity. </I> </P>
+</DIV>

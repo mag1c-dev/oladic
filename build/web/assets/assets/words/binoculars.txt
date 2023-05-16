@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>binoculars </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high-powered, powerful </B> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + BINOCULARS </U><B> look through | focus, train </B><I>He focused his binoculars on the building in the distance. </I><B>| adjust | lift, raise </B><I>She raised her binoculars to the distant road across the valley. </I><B>| lower </B> </P>
+<P> <U> PREP. </U><B> through ~ </B><I>watching the race through binoculars </I> </P>
+</DIV>

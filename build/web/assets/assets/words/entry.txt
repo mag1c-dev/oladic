@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>entry </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> right to enter sth </TT> </P>
+<P> <U> ADJ. </U><B> free </B><I>The club offers free entry to women on Thursdays. </I><B>| school,  university </B> </P>
+<P> <U> VERB + ENTRY </U><B> apply for | gain | allow sb, grant sb </B><I>They were later allowed entry into the country. </I><B>| refuse sb, restrict </B><I>It has been necessary to restrict entry into the club. </I><B>| guarantee sb </B> </P>
+<P> <U> ENTRY + NOUN </U><B> criteria, qualifications, requirements, standard | visa | ticket </B><I>Entry tickets to most attractions are included in the price of the holiday. </I> </P>
+<P> <U> PREP. </U><B> ~ into </B><I>These qualifications will not guarantee you entry into the police force. </I><B>| ~ to </B><I>She applied for entry to Nottingham University. </I> </P>
+<P> <U> PHRASES </U><B> right of entry </B><I>The landlord had the right of entry to the flat with due warning. </I> </P>
+<P> <SUP> 2 </SUP> <TT> act of coming in </TT> </P>
+<P> <U> ADJ. </U><B> forced, forcible </B><I>The house was quiet, and there were no signs of a forced entry. </I><B>| unauthorized </B><I>The sign on the gates read &lsquo;No Unauthorized Entry&rsquo;. </I><B>| illegal | dramatic | triumphal </B><I>Caesar's triumphal entry into Rome </I> </P>
+<P> <U> VERB + ENTRY </U><B> force, gain </B><I>He found the door locked, but he forced an entry. </I><B>| make </B><I>The champion made his usual dramatic entry into the arena. </I> </P>
+<P> <U> ENTRY + NOUN </U><B> point </B><I>Drugs are believed to come into the country through five main entry points. </I> </P>
+<P> <U> PREP. </U><B> ~ into </B><I>Hungary's entry into the EU </I><B>| ~ to </B><I>She wondered how she could gain entry to the building. </I> </P>
+<P> <SUP> 3 </SUP> <TT> sb/sth that enters a competition </TT> </P>
+<P> <U> ADJ. </U><B> winning </B><I>The winning entry will be published in next month's issue. </I> </P>
+<P> <U> VERB + ENTRY </U><B> post, send (in) </B><I>Send in your entry as soon as possible! </I><B>| attract, get, have, receive </B><I>The show attracted entries from all over the country. We have had a lot of entries this year. </I><B>| judge </B> </P>
+<P> <U> ENTRY + NOUN </U><B> coupon, form | fee </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>We had too many entries for this event. </I><B>| ~ in </B><I>There were a record 2,000 entries in the under-17 section. </I><B>| ~ to </B><I>one of the best entries to our competition </I> </P>
+<P> <SUP> 4 </SUP> <TT> one item in a list/book </TT> </P>
+<P> <U> ADJ. </U><B> diary | dictionary </B> </P>
+<P> <U> VERB + ENTRY </U><B> make, write </B> </P>
+<P> <U> PREP. </U><B> in an/the ~ </B><I>Very little information is given in the diary entries. </I><B>| ~ for </B><I>Look at the dictionary entry for &lsquo;welcome&rsquo;. </I><B>| ~ in </B><I>the last entry she made in her diary </I><B>| ~ on </B><I>First examine the entries on the marriage register. </I> </P>
+</DIV>

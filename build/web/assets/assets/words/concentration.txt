@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>concentration </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> giving all your attention/effort to sth </TT> </P>
+<P> <U> ADJ. </U><B> deep, great, intense | total </B><I>a look of total concentration on her face </I><B>| poor | exclusive </B> </P>
+<P> <U> VERB + CONCENTRATION </U><B> demand, require </B><I>The game requires great concentration. </I><B>| lose | break, disturb </B><I>Don's voice from outside broke my concentration. </I> </P>
+<P> <U> CONCENTRATION + NOUN </U><B> span </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>his concentration on his writing </I> </P>
+<P> <U> PHRASES </U><B> a lack of concentration, a lapse in/of concentration </B><I>One momentary lapse in concentration could prove fatal. </I><B>| powers of concentration </B><I>She has great powers of concentration for a child her age. </I> </P>
+<P> <SUP> 2 </SUP> <TT> large number/amount of sth in one place </TT> </P>
+<P> <U> ADJ. </U><B> great, heavy, high, large </B><I>The greatest concentration of traffic is in the city centre. </I><B>| low | geographical </B> </P>
+<P> <U> CONCENTRATION + VERB </U><B> increase, rise </B><I>The concentration of nitrates in the drinking water has risen in recent years. </I><B>| decrease, fall</B> </P>
+</DIV>

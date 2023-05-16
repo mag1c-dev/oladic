@@ -1,0 +1,5 @@
+
+<div class="item"><p class="word first"><b>savage </b><i>adj. </i> </p>
+<p> <u> VERBS </u><div class="ex"><b> be, look, seem, sound | become </b></div></p>
+<p> <u> ADV. </u><div class="ex"><b> downright, really, very | increasingly </b></div><div class="excontent"><i>The war became increasingly savage. </i></div><div class="ex"><b>| rather </b></div><div class="excontent"><i>a rather savage dog </i> </div></p>
+</div>

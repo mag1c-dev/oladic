@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>lantern </B><I>noun </I> </P>
+<P> <U> VERB + LANTERN </U><B> light, shine </B><I>He shone his lantern into the dark room. </I><B>| blow out, put out </B> </P>
+<P> <U> LANTERN + VERB </U><B> glow, shine | hang </B><I>The lantern hung from the roof. </I> </P>
+</DIV>

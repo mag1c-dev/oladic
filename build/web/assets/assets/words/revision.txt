@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>revision </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> making changes </TT> </P>
+<P> <U> ADJ. </U><B> complete, considerable, drastic, extensive, fundamental, major, radical, substantial, thorough | minor | constant, frequent | downward, upward </B><I>an upward revision of government expenditure plans </I><B>| policy, treaty </B> </P>
+<P> <U> VERB + REVISION </U><B> propose, recommend, suggest | call for, demand </B><I>They called for revisions to the treaty. </I><B>| be open to, be subject to </B><I>Our conclusions are always open to revision in the light of fresh evidence. </I><B>| undergo </B><I>The scheme has recently undergone drastic revision. </I><B>| agree (to), announce, approve </B><I>In October Parliament approved a revision of the budget. </I><B>| bring about, lead to, result in | carry out, complete, conduct, make, undertake </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>This has brought about a radical revision in the style of school management. </I><B>| ~ to </B><I>revisions to the plan </I> </P>
+<P> <U> PHRASES </U><B> the process of revision </B><I>The process of revision continued at rehearsals. </I> </P>
+<P> <SUP> 2 </SUP> <TT> studying </TT> </P>
+<P> <U> VERB + REVISION </U><B> do </B><I>I've got to do some maths revision tonight. </I> </P>
+<P> <U> REVISION + NOUN </U><B> class, course, lesson | question </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>revision for tomorrow's history exam </I> </P>
+</DIV>

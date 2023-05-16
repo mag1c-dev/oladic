@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>noise </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> deafening, loud | awful, horrible, terrible | low, slight </B><I>The slightest noise will wake him. </I><B>| sudden | funny, strange | background </B><I>There was constant background noise from the motorway. </I><B>| constant, incessant | banging, buzzing, clattering, etc. | aircraft, engine, traffic | rude </B><I>One of the children made a rude noise. </I> </P>
+<P> <U> VERB + NOISE </U><B> create, generate, make </B><I>the noise created by aircraft She was making a lot of noise. </I><B>| hear, listen to </B><I>We could hear funny little sucking noises. </I><B>| deaden, reduce </B><I>Wood is used to deaden the noise. </I> </P>
+<P> <U> NOISE + VERB </U><B> come from sth </B><I>There were strange noises coming from the sitting room. </I><B>| become/get/grow louder, grow, increase, rise | abate, die away/down, drop, fade away, fall </B><I>The deafening noise of the machine dropped to a rumble, then stopped. </I> </P>
+<P> <U> NOISE + NOUN </U><B> level | pollution </B> </P>
+<P> <U> PREP. </U><B> above/over the ~ </B><I>We had to shout over the noise of the traffic. </I><B>| ~ from </B><I>the noise from the engine room </I> </P>
+</DIV>

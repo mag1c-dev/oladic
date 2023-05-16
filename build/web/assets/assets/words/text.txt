@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>text </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> writing in a book/newspaper, on a computer, etc. </TT> </P>
+<P> <U> ADJ. </U><B> complete, full </B><I>The newspaper printed the full text of the interview. </I><B>| draft | final | original | main </B><I>The illustrations are printed separately from the main text. </I><B>| accompanying </B><I>The catalogue consists of colour reproductions of the paintings with accompanying text. </I><B>| electronic, handwritten, printed, typewritten, written </B> </P>
+<P> <U> QUANT. </U><B> block, body, chunk, line, page, piece, portion </B><I>Hand symbols in the main body of the text cross-refer the reader to the appendices. Use the mouse to move chunks of text from place to place. </I> </P>
+<P> <U> VERB + TEXT </U><B> create, draft, write | edit, modify | highlight | cut, delete | insert, move, paste | scan (in) | handle, manipulate, process </B><I>computer programs that process text </I><B>| set, typeset | print | publish | read | transcribe | annotate | stray from </B><I>She strayed from the text in a few places to illustrate some of her more interesting points. </I> </P>
+<P> <U> TEXT + NOUN </U><B> file </B><I>The program allows you to import text files from other word processors. </I><B>| editor </B><I>one of the best HTML text editors available </I><B>| message, messaging </B><I>The text message just said &lsquo;Hope 2CU@the party&rsquo;. </I>&gt; Special page at COMPUTER </B> </P>
+<P> <SUP> 2 </SUP> <TT> book or piece of writing to be studied </TT> </P>
+<P> <U> ADJ. </U><B> basic, key, standard | recommended, set </B><I>&lsquo;Antony and Cleopatra&rsquo; was one of our set texts for A level. </I><B>| prepared </B><I>He stood up and began reading from a prepared text. </I><B>| authoritative, influential | introductory | academic, dramatic, legal, literary, poetic, sacred, scientific, etc. </B><I>We're studying dramatic texts by sixteenth-century playwrights. </I><B>| biology, mathematics, etc. </B> </P>
+<P> <U> VERB + TEXT </U><B> read (from) | analyse, deconstruct, interpret, study | annotate </B> </P>
+<P> <U> TEXT + NOUN </U><B> analysis </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>We discussed the use of metaphor in the text. </I><B>| ~ about/on </B><I>a poetic text about growing up in rural England </I> </P>
+</DIV>

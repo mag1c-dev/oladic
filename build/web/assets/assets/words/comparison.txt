@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>comparison </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> favourable, unfavourable | broad, crude, simple | close, detailed, direct | fair, good, meaningful, useful, valid | unfair </B> </P>
+<P> <U> VERB + COMPARISON </U><B> draw, make </B><I>It's difficult to make a direct comparison?the two things are so different. </I><B>| allow, enable, facilitate, invite </B><I>The similarity between the two invites comparison. </I><B>| bear, stand </B><I>Our problems don't bear comparison with those elsewhere. </I> </P>
+<P> <U> PREP. </U><B> by ~ (with) </B><I>Jane is still quite young, and Fiona seems old by comparison. </I><B>| for ~ </B><I>Let's put them side by side for comparison. </I><B>| in ~ to/with </B><I>The glasses are small in comparison with the old ones. </I><B>| ~ between </B><I>a comparison between figures for last year and this year </I><B>| ~ with </B><I>a comparison with other schools </I> </P>
+<P> <U> PHRASES </U><B> a basis for comparison </B><I>to provide a basis for comparison </I><B>| a point of comparison</B> </P>
+</DIV>

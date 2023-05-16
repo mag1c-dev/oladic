@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>briefing </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> detailed, full, thorough | formal, informal | final </B><I>She returned to Washington for a final briefing. </I><B>| press </B> </P>
+<P> <U> VERB + BRIEFING </U><B> give sb </B><I>All staff will be given a full briefing tomorrow. </I><B>| get, receive | arrange, hold </B><I>I asked him to arrange a formal briefing. </I><B>| attend </B> </P>
+<P> <U> BRIEFING + NOUN </U><B> session | document, paper </B> </P>
+<P> <U> PREP. </U><B> at a/the~ </B><I>Details of the scheme will be announced at a press briefing later today. </I><B>| ~ by/from </B><I>a briefing by the commanding officer </I><B>| ~ on </B><I>a briefing on security issues </I> </P>
+</DIV>

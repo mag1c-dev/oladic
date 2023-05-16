@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>compulsion </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> strange | inner </B> </P>
+<P> <U> QUANT. </U><B> element </B><I>There is an element of compulsion in the new scheme for the unemployed. </I> </P>
+<P> <U> VERB + COMPULSION </U><B> feel, have </B><I>He felt an inner compulsion to write. </I> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>You're under no compulsion to take part. </I> </P>
+</DIV>

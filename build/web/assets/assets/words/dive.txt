@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>dive </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of an aircraft </TT> </P>
+<P> <U> ADJ. </U><B> steep, vertical | gentle, shallow | spiral </B> </P>
+<P> <U> VERB + DIVE </U><B> go into </B><I>The plane went into a steep dive. </I><B>| pull out of </B><I>The pilot seemed to be having difficulty in pulling out of the dive. </I> </P>
+<P> <SUP> 2 </SUP> <TT> move/jump/fall </TT> </P>
+<P> <U> ADJ. </U><B> headlong, nose (also nosedive) </B><I>(both often figurative) The economy is on a headlong dive to disaster. His acting career took a nosedive and he turned to drink for solace. </I><B>| sudden | running </B><I>She made a running dive to get across the crevasse. </I> </P>
+<P> <U> VERB + DIVE </U><B> make, take </B><I>She made a dive for the door. He took a dive in the penalty area and won his team a controversial penalty. (figurative) The market is volatile and profits could take a dive. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>There would be a dive for the bar as soon as the show finished. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>dive </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> jump into water </TT> </P>
+<P> <U> ADV. </U><B> deep, head first | down </B> </P>
+<P> <U> PREP. </U><B> for </B><I>diving for pearls </I><B>| from </B><I>She dived from the top diving board. </I><B>| into </B><I>He dived head first into the water. </I><B>| off </B> </P>
+<P> <U> PHRASES </U><B> go diving </B><I>The main purpose of his holiday to Greece was to go diving. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of birds/aircraft </TT> </P>
+<P> <U> ADV. </U><B> suddenly | vertically </B><I>Unlike some birds, it does not dive vertically. </I> </P>
+<P> <U> PREP. </U><B> from, to </B><I>The plane suddenly dived from 10,000 feet to 5,000. </I> </P>
+<P> <SUP> 3 </SUP> <TT> move/jump/fall </TT> </P>
+<P> <U> ADV. </U><B> head first, headlong </B> </P>
+<P> <U> PREP. </U><B> beneath, into </B><I>He dived headlong into the ditch. </I><B>| through, under </B> </P>
+<P> <U> PHRASES </U><B> dive for cover </B><I>We heard an explosion and dived for cover. </I> </P>
+</DIV>

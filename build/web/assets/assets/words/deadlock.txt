@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>deadlock </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete | political </B> </P>
+<P> <U> VERB + DEADLOCK </U><B> end in, reach </B><I>The negotiations ended in deadlock. The strike appeared to have reached a deadlock. </I><B>| break, resolve </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The negotiations were adjourned in deadlock last week. </I><B>| ~ between </B><I>the deadlock between striking workers and their employer </I><B>| ~ in </B><I>The summit called for an end to the deadlock in the peace talks. </I><B>| ~ over </B><I>The government has called new talks in an attempt to break the deadlock over the issue of redundancy money. </I> </P>
+<P> <U> PHRASES </U><B> a state of deadlock </B><I>Talks between the two sides remain in a state of complete deadlock. </I> </P>
+</DIV>

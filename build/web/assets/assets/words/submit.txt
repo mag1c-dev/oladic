@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>submit </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> give/propose sth so that it can be discussed </TT> </P>
+<P> <U> ADV. </U><B> formally </B><I>He formally submitted his resignation </I> </P>
+<P> <U> VERB + SUBMIT </U><B> ask sb to, invite sb to, require sb to </B><I>Six groups were invited to submit proposals for the research. Candidates for the degree are required to submit a 30,000-word thesis. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>They have submitted plans for our approval. </I><B>| to </B><I>She submitted her report to the committee. </I> </P>
+<P> <SUP> 2 </SUP> <TT> accept sb's power/control </TT> </P>
+<P> <U> ADV. </U><B> voluntarily, willingly </B><I>He submitted voluntarily to arrest. </I><B>| meekly </B> </P>
+<P> <U> VERB + SUBMIT </U><B> refuse to | be willing to | be compelled to, be forced to, be obliged to </B><I>They were forced to submit to Bulgarian rule. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>She refused to submit to threats. They abandoned their town rather than submit to the Persians. </I> </P>
+</DIV>

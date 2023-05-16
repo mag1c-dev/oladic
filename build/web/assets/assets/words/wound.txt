@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>wound </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bad, deep, serious | flesh </B><I>Despite the large amount of blood, it was only a flesh wound. </I><B>| gaping, open | clean | face, head, leg, etc. | bullet, gunshot, knife, stab | entry, exit </B><I>The exit wound made by the bullet was much larger than the entry wound. </I><B>| old | war </B><I>His old war wounds still ached in certain weathers. </I> </P>
+<P> <U> VERB + WOUND </U><B> inflict | receive, suffer | examine, probe | clean, dress </B> </P>
+<P> <U> WOUND + VERB </U><B> close | heal </B><I>It was a clean wound, and it healed quickly. </I> </P>
+<P> <U> WOUND + NOUN </U><B> care, healing </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>He had deep wounds in his chest. </I><B>| ~ to </B><I>He died of gunshot wounds to the head. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wound </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> injure sb's body </TT> </P>
+<P> <U> ADV. </U><B> badly, critically, gravely, grievously, seriously, severely | fatally, mortally </B><I>She was fatally wounded in a car crash. </I><B>| slightly </B> </P>
+<P> <U> PREP. </U><B> in </B><I>One reporter was wounded in the leg. </I> </P>
+<P> <U> PHRASES </U><B> the walking wounded </B>(= people who have been wounded, but not so badly that they cannot walk)  </P>
+<P> <SUP> 2 </SUP> <TT> hurt sb's feelings </TT> </P>
+<P> <U> ADV. </U><B> deeply </B><I>She was deeply wounded by his remarks. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>heater </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> convector, fan, immersion, instantaneous, multi-point, storage | electric, gas, oil, paraffin | aquarium, car, greenhouse, pool, room, water </B> </P>
+<P> <U> VERB + HEATER </U><B> have off/on | turn off/on | turn down/up </B> </P>
+<P> <U> HEATER + VERB </U><B> be off/on </B><I>Even with the heater full on, the room felt cold. </I> </P>
+</DIV>

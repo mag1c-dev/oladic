@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>calculation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of calculating/sum calculated </TT> </P>
+<P> <U> ADJ. </U><B> accurate, correct, exact, precise </B><I>an exact calculation of the amount spent so far If your calculations are correct, then we will make a large profit. </I><B>| incorrect, wrong </B><I>It turned out that our calculations were incorrect. </I><B>| approximate, rough </B><I>Even a rough calculation shows that you have spent too much. </I><B>| complex, detailed | simple | quick, rapid | arithmetical, mathematical | economic, financial </B> </P>
+<P> <U> VERB + CALCULATION </U><B> do, make </B><I>She did a rapid calculation in her head. We cannot make a precise calculation of the price until we have all the costs. </I> </P>
+<P> <U> PHRASES </U><B> a method of calculation </B> </P>
+<P> <SUP> 2 </SUP> <TT> careful planning to get what you want </TT> </P>
+<P> <U> ADJ. </U><B> cold, cool </B> </P>
+<P> <U> QUANT. </U><B> act </B><I>an act of cold calculation </I> </P>
+</DIV>

@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>bubble </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> air, soap </B> </P>
+<P> <U> VERB + BUBBLE </U><B> blow </B><I>children blowing bubbles </I><B>| burst </B><I>They jumped about, bursting the bubbles. </I> </P>
+<P> <U> BUBBLE + VERB </U><B> form </B><I>Soap bubbles formed on the surface. </I><B>| burst</B> </P>
+</DIV><DIV class="item"><P class="word"><B>bubble </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> form bubbles </TT> </P>
+<P> <U> ADV. </U><B> furiously </B><I>The water in the saucepan was bubbling furiously. </I><B>| away, up </B><I>The soup was bubbling away on the stove. </I> </P>
+<P> <SUP> 2 </SUP> <TT> feeling </TT> </P>
+<P> <U> ADV. </U><B> to the surface </B><I>Emotions quickly bubble to the surface. </I><B>| over, up </B><I>He was bubbling over with excitement. </I> </P>
+<P> <U> PREP. </U><B> inside </B><I>She could feel the anger bubbling up inside her. </I><B>| with </B><I>The business was still small but I was bubbling with ideas. </I> </P>
+</DIV>

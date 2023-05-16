@@ -1,0 +1,32 @@
+
+<DIV class="item"><P class="word"><B>drive </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> car journey </B> </TT> </P>
+<P> <U> ADJ. </U><B> long | easy, short | eight-hour, sixty-mile, etc. | leisurely | pleasant, scenic </B><I>It's a pleasant drive to the coast. </I><B>| test  </B> </P>
+<P> <U> VERB + DRIVE </U><B> go for, take </B><I>Let's go for a drive. </I> </P>
+<P> <U> PREP. </U><B> within a ~ </B><I>All my family live within an hour's drive. </I> </P>
+<P> <U> PHRASES </U><B> a &hellip; drive away </B><I>The lakes are only a short drive away. </I> </P>
+<P> <SUP> 2 </SUP> <TT> way a vehicle is moved </TT> </P>
+<P> <U> ADJ. </U><B> all-wheel, four-wheel, front-wheel, rear-wheel | left-hand, right-hand </B><I>Left-hand drive cars make driving in Britain difficult. </I> </P>
+<P> <SUP> 3 </SUP> <TT> path/road outside a house </TT> </P>
+<P> <U> ADJ. </U><B> sweeping, winding | gravel/gravelled | tree-lined | private | front </B> </P>
+<P> <U> DRIVE + VERB </U><B> sweep, swing </B><I>A gravel drive swept between manicured lawns. </I> </P>
+<P> <U> PREP. </U><B> down the ~, in the ~, on the ~ </B><I>There was a car parked on the drive. </I><B>| up the ~ </B><I>He walked up the front drive of the vicarage. </I> </P>
+<P> <SUP> 4 </SUP> <TT> energy/determination </TT> </P>
+<P> <U> ADJ. </U><B> competitive | personal | narrative </B><I>A lack of narrative drive leaves the reader with piecemeal vignettes. </I> </P>
+<P> <U> VERB + DRIVE </U><B> have | lack </B><I>He lacks the competitive drive needed to succeed. </I> </P>
+<P> <SUP> 5 </SUP> <TT> desire/need </TT> </P>
+<P> <U> ADJ. </U><B> innate, inner, instinctive/instinctual | creative | emotional, sex/sexual </B> </P>
+<P> <SUP> 6 </SUP> <TT> effort </TT> </P>
+<P> <U> ADJ. </U><B> big | relentless | national, nationwide | cost-cutting, efficiency, export, fundraising, marketing, membership, modernization, recruitment, sales | anti-corruption, anti-drug, etc. </B> </P>
+<P> <U> VERB + DRIVE </U><B> launch </B><I>We're going to launch a big recruitment drive in the autumn. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>a drive against corruption </I><B>| ~ by </B><I>the recent recruitment drive by the police </I><B>| ~ for </B><I>the country's drive for modernization </I><B>| ~ towards </B><I>a drive towards higher safety standards </I> </P>
+<P> <SUP> 7 </SUP> <TT> computing </TT> </P>
+<P> <U> ADJ. </U><B> CD-ROM, disk, DVD, floppy, hard, zip </B> </P>
+<P> <SUP> 8 </SUP> <TT> in sport </TT> </P>
+<P> <U> ADJ. </U><B> powerful, strong, thunderous | angled, crisp | left-foot, right-foot </B>(in football) </B><I>Cole scored with a thunderous left-foot drive. </I><B>| backhand, forehand (in tennis) </B><I>a forehand drive down the line </I> </P>
+<P> <U> VERB + DRIVE </U><B> hit | hook, slice </B>(in golf) &gt; Special page at SPORT</B> </P>
+</DIV><DIV class="item"><P class="word"><B>drive </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fast, quickly </B><I>You shouldn't drive so fast! She drove quickly back to the office. </I><B>| slowly | carefully | recklessly </B><I>He was arrested for driving recklessly. </I><B>| around, away, back, off, on </B><I>She got into the car and drove away. </I> </P>
+<P> <U> PREP. </U><B> from, to </B><I>driving from London to Manchester </I> </P>
+<P> <U> PHRASES </U><B> drink and drive</B> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>workings </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> inner, internal </B><I>the inner workings of a watch the internal workings of Parliament </I><B>| basic | complex, detailed | financial </B> </P>
+<P> <U> VERB + WORKINGS </U><B> analyse, explore, investigate | lay bare, reveal, shed light on </B><I>Their research aims to shed light on the workings of the human mind. </I><B>| know | understand </B><I>It is hard to understand the complex workings of the social security system. </I><B>| explain</B> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>impenetrable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> impossible to enter/get through </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem | become | find sth </B><I>They found the jungle virtually impenetrable. </I> </P>
+<P> <U> ADV. </U><B> almost, nearly, virtually </B> </P>
+<P> <SUP> 2 </SUP> <TT> impossible to understand </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | remain | find sth </B> </P>
+<P> <U> ADV. </U><B> almost, virtually | somewhat </B><I>I find his style somewhat impenetrable. </I><B>| seemingly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>The language of this document would be impenetrable to anyone except a specialist. </I> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>blockade </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, total | tight | partial | virtual | economic, military, naval </B> </P>
+<P> <U> VERB + BLOCKADE </U><B> impose | end, lift, remove | enforce, maintain | tighten | ease, relax | break, get through, run </B><I>They attempted to break the blockade by using submarines. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>the need to enforce a naval blockade against the country </I><B>| ~ around/round </B><I>a blockade around the city </I><B>| ~ by </B><I>the blockade by Western nations </I><B>| ~ of, ~ on </B><I>The president imposed a complete blockade on the island's harbours. </I> </P>
+</DIV>

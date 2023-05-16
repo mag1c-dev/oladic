@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>characteristic </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> deeply, extremely, highly, very </B><I>his highly characteristic features </I><B>| entirely, utterly | fairly, quite </B> </P>
+<P> <U> PREP. </U><B> of </B><I>a problem that was fairly characteristic of late eighteenth century society </I> </P>
+</DIV><DIV class="item"><P class="word"><B>characteristic </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> defining, distinctive, distinguishing, identifying, individual, marked, special, striking, unique | personal | common, family, inherited, national, shared | basic, general | chief, dominant, main, major, outstanding, principal | essential, fundamental, important, key, salient | desirable | behavioural, biological, cultural, demographic, economic, genetic, physical, psychological, racial, sexual, social | human </B> </P>
+<P> <U> VERB + CHARACTERISTIC </U><B> have </B><I>The two species have several characteristics in common. </I> </P>
+</DIV>

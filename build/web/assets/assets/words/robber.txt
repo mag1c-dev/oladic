@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>robber </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> armed, masked | bank, train | grave, tomb </B> </P>
+<P> <U> QUANT. </U><B> band, gang </B> </P>
+<P> <U> VERB + ROBBER </U><B> hunt </B><I>Police are hunting a masked robber who snatched </I>&pound;</B><I>15,000 from a post office. </I><B>| catch </B> </P>
+<P> <U> ROBBER + VERB </U><B> hold sb/sth up </B><I>Robbers held up a bank at gunpoint. </I><B>| snatch sth, steal sth, take sth | escape with sth, get away with sth, make off with sth </B><I>Robbers escaped with </I>&pound;</B><I>30,000 of payroll money. </I> </P>
+</DIV>

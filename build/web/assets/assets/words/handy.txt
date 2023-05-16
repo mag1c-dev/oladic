@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>handy </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> useful </TT> </P>
+<P> <U> VERBS </U><B> be | come in </B><I>I advise you to buy one?it may come in handy one day. </I> </P>
+<P> <U> ADV. </U><B> very | quite </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The arrangement was handy for both of us. </I> </P>
+<P> <SUP> 2 </SUP> <TT> nearby </TT> </P>
+<P> <U> VERBS </U><B> be | keep sth </B><I>Always keep a cloth handy to wipe up any mess. </I> </P>
+<P> <U> ADV. </U><B> very | quite </B> </P>
+<P> <U> PREP. </U><B> for </B><I>The house was near Drury Lane, very handy for the theatre. </I> </P>
+<P> <SUP> 3 </SUP> <TT> good at using sth </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> very | fairly, pretty, quite </B> </P>
+<P> <U> PREP. </U><B> at </B><I>&lsquo;I'm pretty handy at giving out advice,&rsquo; claimed Mark. </I><B>| with </B><I>Lucy is quite handy with a drill! </I> </P>
+</DIV>

@@ -1,0 +1,27 @@
+
+<DIV class="item"><P class="word"><B>post </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> postal system </TT> </P>
+<P> <U> ADJ. </U><B> first-class, second-class | registered | inland </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>I sent it by first-class post. </I><B>| in the ~ </B><I>My application for the job is in the post. </I> </P>
+<P> <U> PHRASES </U><B> by return of post </B><I>Orders will be sent by return of post. </I> </P>
+<P> <SUP> 2 </SUP> <TT> letters, parcels, etc. </TT> </P>
+<P> <U> ADJ. </U><B> first, last </B><I>If you hurry you'll just catch the last post. </I> </P>
+<P> <U> VERB + POST </U><B> check, open </B><I>She arrived at the office early and checked her post </I> </P>
+<P> <U> VERB + POST </U><B> box (also postbox) </B> </P>
+<P> <SUP> 3 </SUP> <TT> job </TT> </P>
+<P> <U> ADJ. </U><B> senior | full-time, part-time | permanent, temporary | vacant | managerial, teaching | government, university </B> </P>
+<P> <U> VERB + POST </U><B> apply for | take up | hold | leave, quit, resign | appoint sb to, fill | dismiss sb from, relieve sb of </B><I>He was relieved of his post when he was found to have accepted bribes. </I> </P>
+<P> <U> PREP. </U><B> ~ as </B><I>He quit his post as chief executive. </I><B>| ~ of </B><I>She applied for the new post of training officer. </I> </P>
+<P> <SUP> 4 </SUP> <TT> place where sb is on duty </TT> </P>
+<P> <U> ADJ. </U><B> army, police | command, observation | border, frontier </B> </P>
+<P> <U> VERB + POST </U><B> take up </B><I>The guard took up his post at the gate. </I><B>| desert </B><I>The sentries had deserted their posts. </I> </P>
+<P> <U> PREP. </U><B> at your ~ </B><I>The gun crew were at their posts. </I> </P>
+<P> <SUP> 5 </SUP> <TT> upright piece of wood, etc. </TT> </P>
+<P> <U> ADJ. </U><B> finishing, winning | far, near (both in football) </B><I>He steered a shot between the keeper and the near post. </I> </P>
+<P> <U> PHRASES </U><B> first past the post </B><I>The first horse past the post wins the race. </I><B>| pip sb/sth at the post </B><I>She led for most of the way before being pipped at the post. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>post office </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> head, main | sub | local, village </B> </P>
+<P> <U> VERB + POST OFFICE </U><B> go to </B> </P>
+<P> <U> POST OFFICE + NOUN </U><B> counter </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>You can buy stamps at the post office. </I> </P>
+</DIV>

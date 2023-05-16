@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>yacht </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> luxury | private, royal | charter | cruising, racing | motor, sailing, steam </B> </P>
+<P> <U> VERB + YACHT </U><B> cruise on, sail </B><I>They are cruising on a large motor yacht. </I><B>| moor, tie up </B> </P>
+<P> <U> YACHT + VERB </U><B> sail, set sail </B> </P>
+<P> <U> YACHT + NOUN </U><B> race | club | marina </B> </P>
+<P> <U> PREP. </U><B> aboard/on/on board a/the ~</B> </P>
+</DIV>

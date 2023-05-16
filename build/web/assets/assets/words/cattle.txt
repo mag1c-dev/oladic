@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cattle </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> beef, dairy | horned | highland, hill, upland | lowland | indigenous, native | wild </B> </P>
+<P> <U> QUANT. </U><B> head </B><I>5,000 head of cattle died of the disease in one month. </I><B>| herd </B> </P>
+<P> <U> VERB + CATTLE </U><B> keep, rear | breed | tend | graze </B><I>Villagers traditionally have the right to graze their cattle on the common land. </I><B>| drive, herd, round up </B><I>Farmers drove cattle along major roads as a protest against high taxes. </I><B>| slaughter | raid, rustle, steal | domesticate </B><I>Cattle were first domesticated in Neolithic times. </I> </P>
+<P> <U> CATTLE + VERB </U><B> browse, graze </B><I>cattle grazing in the fields </I><B>| low | stray, wander </B><I>Cattle that stray onto the electric railway line are killed instantly. </I> </P>
+<P> <U> CATTLE + NOUN </U><B> auction, market | breeding, ranching, rearing | breeder, dealer, farmer | farm, ranch | feed, food | grid </B><I>There was a cattle grid across the road to stop the cows escaping. </I><B>| prod </B><I>Electric cattle prods were used against the demonstrators. </I><B>| truck </B> </P>
+<P> <U> PHRASES </U><B> a breed of cattle</B> </P>
+</DIV>

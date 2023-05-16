@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>bailiff </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> court | private </B> </P>
+<P> <U> VERB + BAILIFF </U><B> send in </B><I>Their landlord has threatened to send in the bailiffs if they don't pay their rent. </I> </P>
+<P> <U> BAILIFF + VERB </U><B> seize sth </B><I>The bailiffs seized the car and house. </I> </P>
+</DIV>

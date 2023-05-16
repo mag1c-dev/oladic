@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fragrance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> exquisite, fresh, pleasant, sweet | delicate, faint, gentle, light, soft, subtle | floral </B> </P>
+<P> <U> VERB + FRAGRANCE </U><B> have </B><I>This perfume has a light, fresh fragrance. </I><B>| smell </B> </P>
+<P> <U> FRAGRANCE + VERB </U><B> fill sth </B><I>The fragrance of lavender filled the room. </I><B>| be reminiscent of sth </B><I>Geranium oil has a sweet fragrance reminiscent of roses. </I> </P>
+<P> <U> PHRASES </U><B> full of fragrance </B><I>fruits full of exquisite fragrance and flavour </I> </P>
+</DIV>

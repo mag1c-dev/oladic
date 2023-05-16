@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>hit </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of hitting sth/sb </TT> </P>
+<P> <U> ADJ. </U><B> direct </B> </P>
+<P> <U> VERB + HIT </U><B> give sth, make, score </B><I>Give it a good hit At last he managed to score a hit. </I><B>| receive, suffer, take </B><I>One of the tanks took a direct hit. </I> </P>
+<P> <U> HIT + NOUN </U><B> list </B><I>She was at the top of the terrorists' hit list </I>(= the list of people they intended to kill) </B><I>for over two years. Which services are on the government's hit list? </I><B>| man, squad </B><I>He claimed that a hit man had been paid </I>&pound;</B><I>20,000 to kill him. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sb/sth that is very popular </TT> </P>
+<P> <U> ADJ. </U><B> big, greatest, huge, massive, real, smash </B><I>The show has been a smash hit. </I><B>| immediate, instant | box-office, chart </B><I>The band are here to promote their latest chart hit. </I> </P>
+<P> <U> HIT + NOUN </U><B> album, film, movie, record, show, single, song | parade </B><I>(old-fashioned) The single was number one in the British hit parade </I> </P>
+<P> <U> PREP. </U><B> ~ with </B><I>The series has been a big hit with children. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>hit </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> touch sb/sth with a lot of force </TT> </P>
+<P> <U> ADV. </U><B> hard </B><I>She didn't hit me very hard. </I><B>| almost, nearly </B><I>A taxi almost hit him as he was crossing the street. </I><B>| accidentally </B><I>I accidentally hit my knee on the desk. </I> </P>
+<P> <U> VERB + HIT </U><B> want to </B><I>I was so angry, I wanted to hit him. </I><B>| be going to </B><I>I was afraid he was going to hit me. </I> </P>
+<P> <U> PREP. </U><B> in </B><I>She hit him in the face. </I><B>| on </B><I>I hit my head on the low doorway. </I><B>| with </B><I>He hit her with a stick. </I> </P>
+<P> <U> PHRASES </U><B> hit sb over the head </B><I>He was hit over the head with a broken bottle. </I> </P>
+<P> <SUP> 2 </SUP> <TT> have a bad effect on sb/sth </TT> </P>
+<P> <U> ADV. </U><B> badly, hard, heavily, severely </B><I>Our department has been badly hit by the cutbacks. Some businesses have been hit very hard by the rise in interest rates. </I><B>PHRASAL VERBS hit out </B> </P>
+<P> <U> ADV. </U><B> hard | wildly </B><I>I just hit out wildly in all directions. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>In a rousing speech the minister hit out at racism in the armed forces. </I> </P>
+</DIV>

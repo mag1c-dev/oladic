@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>dwelling </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> permanent | private | family | human </B><I>The building looked more like a doll's house than a human dwelling. </I><B>| characterful, elegant </B> </P>
+<P> <U> VERB + DWELLING </U><B> convert sth into </B><I>an application to convert the old barn into a dwelling </I><B>| occupy </B> </P>
+<P> <U> DWELLING + NOUN </U><B> house, place</B> </P>
+</DIV>

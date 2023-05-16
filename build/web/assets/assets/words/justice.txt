@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>justice </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> fairness </TT> </P>
+<P> <U> ADJ. </U><B> economic, natural, social | rough </B><I>He saw it as rough justice when he got food poisoning from the stolen meat. </I><B>| divine </B><I>Some people saw the epidemic as divine justice. </I> </P>
+<P> <U> VERB + JUSTICE </U><B> ask for, want </B><I>All I'm asking for is justice. </I><B>| get | deny sb </B><I>We have been denied justice for too long. </I> </P>
+<P> <U> PHRASES </U><B> a sense of justice </B><I>The teacher's system of punishments appealed to the children's sense of justice. </I> </P>
+<P> <SUP> 2 </SUP> <TT> law </TT> </P>
+<P> <U> ADJ. </U><B> civil, criminal, juvenile </B> </P>
+<P> <U> VERB + JUSTICE </U><B> do </B><I>Justice must be done in every case. </I><B>| bring sb to | escape </B><I>So far the robbers have escaped justice. </I> </P>
+<P> <U> JUSTICE + NOUN </U><B> department </B> </P>
+<P> <U> PHRASES </U><B> a miscarriage of justice </B><I>He spent twenty years in prison as a result of a miscarriage of justice. </I><B>| pervert the course of justice </B><I>She was charged with perverting the course of justice after admitting to burning vital evidence. </I> </P>
+</DIV>

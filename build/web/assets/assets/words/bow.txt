@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>bow1 </B>/baq/ </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of bowing </TT> </P>
+<P> <U> ADJ. </U><B> deep, low | little, slight | formal, stiff </B> </P>
+<P> <U> VERB + BOW </U><B> give, make </B><I>He gave a formal bow and left the room. </I><B>| take </B>(= used about a performer) <I>The song ended and Albert took a bow. (figurative) The team's chairman takes his final bow at this match </I>(= is retiring after this match)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>He made a deep bow to the king. </I> </P>
+<P> <SUP> 2 </SUP> <TT> front part of a ship </TT> </P>
+<P> <U> ADJ. </U><B> port, starboard </B><I>There's a small boat on the port bow. </I> </P>
+<P> <U> VERB + BOW </U><B> cross </B><I>A huge whale crossed our bows. </I> </P>
+<P> <U> PREP. </U><B> across the ~ </B><I>They fired a shot across our bows. </I><B>| in the ~ </B><I>We left two men in the bows to receive the cargo. </I><B>| off the ~ </B><I>100 yards off our bows </I><B>| on the ~ </B><I>The ship's name was printed on her bow. </I><B>| over the ~ </B><I>There were huge waves breaking over the bows. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>bow2 </B>/baq/ </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> deeply, low </B><I>He swept off his hat and bowed deeply to the Queen. </I><B>| slightly | politely, respectfully | down </B> </P>
+<P> <U> PREP. </U><B> before </B><I>The Emperor's subjects bowed down before him. </I><B>| to </B><I>The pianist stood up and bowed to the audience. </I> </P>
+</DIV>

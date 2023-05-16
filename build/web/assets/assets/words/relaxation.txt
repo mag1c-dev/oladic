@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>relaxation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> time spent resting/sth you do to rest </TT> </P>
+<P> <U> ADJ. </U><B> deep, great </B><I>an ointment that helps muscle relaxation </I><B>| complete, total | muscle/muscular </B> </P>
+<P> <U> VERB + RELAXATION </U><B> aid, promote </B><I>Some people take up yoga to aid relaxation. </I> </P>
+<P> <U> RELAXATION + NOUN </U><B> exercises, techniques | therapy | class </B><I>He goes to relaxation classes. </I> </P>
+<P> <U> PREP. </U><B> for ~ </B><I>She listens to classical music for relaxation. </I><B>| ~ from </B><I>a chance for relaxation from work </I> </P>
+<P> <U> PHRASES </U><B> a form/kind of relaxation, rest and relaxation, a state of relaxation </B> </P>
+<P> <SUP> 2 </SUP> <TT> making rules/controls less strict </TT> </P>
+<P> <U> ADJ. </U><B> further | general | limited, partial, slight | temporary | gradual </B> </P>
+<P> <U> VERB + RELAXATION </U><B> call for, seek </B><I>Financiers are calling for a relaxation of these stringent measures. </I><B>| promise </B><I>The government has promised further relaxations in foreign exchange controls. </I> </P>
+<P> <U> PREP. </U><B> ~ in/of </B><I>a relaxation in the rules </I> </P>
+</DIV>

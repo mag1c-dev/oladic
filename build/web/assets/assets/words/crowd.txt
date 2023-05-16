@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>crowd </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> large number of people in one place </TT> </P>
+<P> <U> ADJ. </U><B> big, bumper, capacity, good, great, huge, large, massive, record, sell-out, vast </B><I>The show played to capacity crowds. </I><B>| small | gathering, growing | assembled </B><I>The president read a declaration to a vast assembled crowd. </I><B>| jostling, madding, milling, surging </B><I>We pushed our way through the milling crowds of guests. </I><B>| admiring, appreciative, cheering, enthusiastic, excited, expectant | angry, hostile, partisan | rush-hour | motley </B><I>the usual motley crowd of tourists, hawkers and pigeons </I><B>| football, theatre | home (at a football match) </B> </P>
+<P> <U> VERB + CROWD </U><B> attract, draw, pull (in) </B><I>Boxing is a sport that always attracts large crowds. </I><B>| break up, disperse </B><I>Police were called to disperse the crowd. </I><B>| control | address, play to | join, mingle with </B> </P>
+<P> <U> CROWD + VERB </U><B> assemble, collect, gather </B><I>An expectant crowd gathered outside his house. </I><B>| grow, swell </B><I>The crowd grew to over 15,000. </I><B>| flock, mill, throng </B><I>Crowds have been flocking to the beaches in this hot weather. A crowd thronged around the wounded man. </I><B>| disperse, melt away, thin out </B><I>After the ambulance drove off, the crowd dispersed. </I><B>| cheer, roar | boo, hiss, jeer | line the street </B><I>Crowds lined the streets of the city as the president's car approached. </I> </P>
+<P> <U> PREP. </U><B> among a/the ~ </B><I>A bewildered child was wandering among the crowd. </I><B>| in a/the ~ </B><I>I saw some familiar faces in the crowd. </I><B>| through a/the ~ </B><I>She fought her way through the crowd. </I><B>| ~ of </B><I>a big crowd of football supporters </I> </P>
+<P> <U> CROWD + NOUN </U><B> control </B> </P>
+<P> <U> PHRASES </U><B> the back/front/middle of a crowd 2 the crowd </B>ordinary people </B> </P>
+<P> <U> VERB + CROWD </U><B> be one of, follow </B><I>She's happy to follow the crowd. </I><B>| stand out from </B><I>We all like to think we stand out from the crowd </I>(= are different from other people)</B><I>. </I> </P>
+</DIV>

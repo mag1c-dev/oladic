@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>irritation </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling/cause of being irritated </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, intense, major, serious, some | growing, increasing | mild, minor, slight </B><I>the minor irritation of having to queue </I><B>| constant </B> </P>
+<P> <U> VERB + IRRITATION </U><B> feel </B><I>He felt slight irritation at being kept waiting. </I><B>| express, show </B><I>He showed no irritation at the delay. </I><B>| conceal, hide, suppress </B><I>She made no attempt to conceal her irritation. </I><B>| cause </B><I>Such delays can cause considerable irritation. </I> </P>
+<P> <U> IRRITATION + VERB </U><B> grow, rise </B><I>She felt irritation rising in her. </I><B>| show </B><I>She didn't let her irritation show. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>Gary shook his head in irritation. </I><B>| to your ~ </B><I>I found to my great irritation that I'd forgotten the film. </I><B>| with ~ </B><I>&lsquo;Of course not&rsquo; she said with some irritation. </I><B>| ~ at </B><I>our irritation at the delay </I><B>| ~ to </B><I>This is a major irritation to travellers. </I><B>| ~ with </B><I>her irritation with people who were slow </I> </P>
+<P> <U> PHRASES </U><B> a feeling/sense of irritation, a source of irritation </B><I>Traffic noise is a source of constant irritation. </I> </P>
+<P> <SUP> 2 </SUP> <TT> slight pain in part of the body </TT> </P>
+<P> <U> ADJ. </U><B> intense, severe | mild | eye, skin </B><I>a new cream to treat skin irritation </I> </P>
+<P> <U> VERB + IRRITATION </U><B> cause, lead to </B><I>The infection can cause intense irritation of the throat. </I><B>| experience, get, suffer </B><I>Stop using the cream if you get any irritation. </I> </P>
+</DIV>

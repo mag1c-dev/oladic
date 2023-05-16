@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>dough </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> firm | soft | smooth | sticky | bread, pizza </B> </P>
+<P> <U> QUANT. </U><B> ball, lump, piece </B> </P>
+<P> <U> VERB + DOUGH </U><B> make | knead, shape </B><I>Knead the dough lightly, then shape it into a round loaf. </I><B>| roll out, turn out </B><I>Turn the dough out onto a lightly floured surface. </I> </P>
+<P> <U> DOUGH + VERB </U><B> rise </B><I>Leave the dough to rise. </I> </P>
+</DIV>

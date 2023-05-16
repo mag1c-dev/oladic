@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>interactive </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> highly | fully </B><I>The program is fully interactive. </I> </P>
+</DIV>

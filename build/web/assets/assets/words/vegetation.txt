@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>vegetation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> green | dense, lush, luxuriant, thick | scrub, scrubby, sparse </B><I>As we drove towards the desert, the vegetation became sparse. </I><B>| decaying, decomposing, rotten, rotting </B><I>piles of rotting vegetation </I><B>| natural </B><I>Removal of the natural vegetation has resulted in a loss of nutrients in the soil. </I><B>| aquatic, woodland, sub-tropical, tropical </B> </P>
+<P> <U> VERB + VEGETATION </U><B> be covered in/with </B><I>The hills are covered in lush green vegetation. </I> </P>
+<P> <U> VEGETATION + VERB </U><B> grow </B> </P>
+<P> <U> VEGETATION + NOUN </U><B> cover</B> </P>
+</DIV>

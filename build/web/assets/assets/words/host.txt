@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>host </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> person who receives and entertains visitors </TT> </P>
+<P> <U> ADJ. </U><B> charming, generous, genial, good, perfect, welcoming </B><I>George was a perfect host. </I> </P>
+<P> <U> VERB + HOST </U><B> act as, play </B><I>The village is playing host to a film crew. </I> </P>
+<P> <U> HOST + NOUN </U><B> club, community, country, family, government, nation, society, state </B><I>The host club is to be congratulated on its organization of the tournament. </I> </P>
+<P> <U> PREP. </U><B> ~ to </B><I>The acre of garden is host to a splendid bank of rhododendrons. </I> </P>
+<P> <SUP> 2 </SUP> <TT> person who introduces a television or radio show </TT> </P>
+<P> <U> ADJ. </U><B> chat-show, game-show, talk-show, television, TV </B><I>The event will be opened by television host Bill Punter. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>host </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> jointly </B><I>The tournament is to be jointly hosted by India, Pakistan and Sri Lanka. </I> </P>
+<P> <U> VERB + HOST </U><B> agree to, offer to | be keen to </B><I>The country is very keen to host the Winter Olympics in six years' time. </I> </P>
+<P> <U> PHRASES </U><B> a bid to host sth </B><I>the city's bid to host the Olympic Games in the year 2008 </I> </P>
+</DIV>

@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>sedation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy | light </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The attack victim is currently in hospital, under heavy sedation. </I> </P>
+</DIV>

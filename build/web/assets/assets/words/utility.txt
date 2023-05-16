@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>utility </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> usefulness </TT> </P>
+<P> <U> ADJ. </U><B> great, high | low | social </B><I>He argued that the arts have great social utility. </I> </P>
+<P> <U> VERB + UTILITY </U><B> have </B> </P>
+<P> <U> PREP. </U><B> of &hellip; ~ </B><I>This computer is of low utility for the home user. </I> </P>
+<P> <SUP> 2 </SUP> <TT> service provided for the public </TT> </P>
+<P> <U> ADJ. </U><B> public, state-owned | privatized | electricity, water </B><I>a privatized electricity utility </I> </P>
+</DIV>

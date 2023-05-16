@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>morale </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, high </B><I>Morale is very high in the school. </I><B>| low, poor, shaky | national, popular | staff </B> </P>
+<P> <U> VERB + MORALE </U><B> affect, be bad for, be damaging to, damage, hit, lower, sap, undermine </B><I>These unfortunate incidents sapped both our morale and our resources. </I><B>| be good for, bolster, boost, do wonders for, improve, lift, raise, restore </B><I>measures designed to boost the morale of the police </I><B>| keep up, maintain </B><I>The bonus helped maintain morale among the staff. </I><B>| destroy </B> </P>
+<P> <U> MORALE + VERB </U><B> improve, rise | be at rock bottom, decline, sag, weaken </B> </P>
+<P> <U> MORALE + NOUN </U><B> booster </B><I>Mail from home is a great morale booster for our soldiers. </I> </P>
+<P> <U> PREP. </U><B> ~ among </B><I>Morale among nurses is at rock bottom. </I> </P>
+<P> <U> PHRASES </U><B> a collapse/loss of morale</B> </P>
+</DIV>

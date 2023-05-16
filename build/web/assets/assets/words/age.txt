@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>age </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> how old sb/sth is </TT> </P>
+<P> <U> ADJ. </U><B> early, young </B><I>He was sent away to school at an early age. </I><B>| advanced, great, old </B><I>He was still active even at the advanced age of 87. White hair is a sign of great age. She dreaded old age. </I><B>| middle </B><I>a pleasant woman in early middle age </I><B>| childbearing, pensionable, retirement, school, school-leaving, voting, working </B><I>children of school age </I> </P>
+<P> <U> VERB + AGE </U><B> attain, get to, live to, reach </B><I>When you get to my age you get a different perspective on life. She lived to the age of 75. </I><B>| feel, look </B><I>She was beginning to feel her age </I>(= feel that she was getting old)</B><I>. </I><B>| lower, raise </B><I>The voting age was lowered from 21 to 18 years. </I> </P>
+<P> <U> AGE + NOUN </U><B> group, range | limit </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>At your age, I had already started work. </I><B>| between the ~s </B><I>children between the ages of five and eleven </I><B>| by the ~ </B><I>He could read by the age of four. </I><B>| for sb's ~ </B><I>He's quite a big boy for his age. </I><B>| over the ~ </B><I>Twelve million people in Great Britain are over retirement age. </I><B>| under ~ </B><I>It is illegal to sell alcohol to children who are under age </I>(= not legally old enough)</B><I>. </I><B>| under the ~ </B><I>It is illegal to sell alcohol to children under the age of 18. </I><B>| with ~ </B><I>A lot of wines improve with age. </I><B>| ~ of </B><I>He left school at the age of 18. </I> </P>
+<P> <U> PHRASES </U><B> the age of consent </B><I>The general age of consent for sexual activity is 16. </I><B>| sb's own age </B><I>She needs a friend of her own age to play with. </I><B>| years of age </B><I>He's 20 years of age. </I> &gt; See <A HREF="old age_noun.htm">OLD AGE</A> </B> </P>
+<P> <SUP> 2 </SUP> <TT> period of history </TT> </P>
+<P> <U> ADJ. </U><B> another, different </B><I>This exquisite little hotel seemed to belong to a different age. </I><B>| Elizabethan, Victorian, etc. | Bronze, Ice, Stone | computer, modern, nuclear, etc. | golden </B><I>the golden age of cinema </I> </P>
+<P> <U> PREP. </U><B> during the ~ </B><I>He lived during the Elizabethan age. </I><B>| in a/the ~ </B><I>In an age when few women became politicians, her career was unusual. </I><B>| through the ~s </B><I>an exhibition of spinning through the ages </I><B>| ~ of </B><I>the age of the wireless communication </I> </P>
+<P> <U> PHRASES </U><B> in this day and age </B>(= in the period we now live in) <I>Why dress so formally in this day and age? </I> </P>
+<P> <SUP> 3 </SUP> <TT> ages/an age: a very long time  </TT> </P>
+<P> <U> VERB + AGE </U><B> spend, take </B><I>It took an age for us all to get on the boat. </I> </P>
+<P> <U> PHRASES </U><B> absolutely ages </B><I>I've been sitting here for absolutely ages. </I><B>| ages ago </B><I>Carlos left ages ago. </I><B>| for ages </B><I>We had to wait for ages! </I> </P>
+</DIV><DIV class="item"><P class="word"><B>age </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> considerably, greatly, a lot, really </B><I>The shock has aged her considerably. My mother has really aged since she became ill. </I><B>| a little </B><I>He had put on weight and aged a little. </I><B>| rapidly, suddenly </B><I>a rapidly ageing population </I><B>| prematurely | well </B><I>This wine has not aged well. </I> </P>
+</DIV>

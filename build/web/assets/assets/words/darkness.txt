@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>darkness </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, pitch, total </B><I>The building was in pitch darkness. </I><B>| deep, inky </B><I>the inky darkness of the tunnel </I><B>| gathering </B><I>It was becoming impossible to see the map in the gathering darkness. </I> </P>
+<P> <U> VERB + DARKNESS </U><B> be plunged into </B><I>The electricity failed and the house was plunged into darkness. </I><B>| lie in, stand in </B><I>The valley lay in darkness. </I> </P>
+<P> <U> DARKNESS + VERB </U><B> come, close in, descend, fall </B><I>We arrived at the village just as darkness fell. </I><B>| lift </B><I>waiting for the darkness to lift </I> </P>
+<P> <U> PREP. </U><B> in (the) ~ </B><I>The building was in darkness. Her eyes seemed to glow in the darkness. </I><B>| into the ~ </B><I>The car disappeared into the darkness. </I><B>| out of the ~ </B><I>A figure appeared out of the darkness. </I> </P>
+<P> <U> PHRASES </U><B> the hours of darkness </B><I>The bombing took place during the hours of darkness. </I><B>| under cover of darkness </B><I>They moved about under cover of darkness. </I> </P>
+</DIV>

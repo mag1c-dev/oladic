@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>oxygen </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> pure | liquid | atmospheric </B> </P>
+<P> <U> VERB + OXYGEN </U><B> carry, contain </B><I>the blood which carries oxygen to the brain </I><B>| absorb, breathe, consume, take in, use up | generate, produce, release </B><I>After dark the plants stop producing oxygen. </I><B>| administer, give sb | get, receive </B><I>The patient didn't seem to be getting enough oxygen. </I><B>| deprive sb/sth of, starve sb/sth of </B><I>There was a risk the brain might be starved of oxygen. </I> </P>
+<P> <U> OXYGEN + NOUN </U><B> atom | level, supply | mask </B> </P>
+<P> <U> PHRASES </U><B> a lack of oxygen, a supply of oxygen</B> </P>
+</DIV>

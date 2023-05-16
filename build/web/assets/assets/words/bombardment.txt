@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>bombardment </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> constant, continuous | heavy, intense | aerial, artillery, naval </B> </P>
+<P> <U> VERB + BOMBARDMENT </U><B> conduct, launch, mount | stop | be subjected to, be under, come under, suffer | survive, withstand </B><I>They have withstood heavy bombardment for many months. </I> </P>
+<P> <U> BOMBARDMENT + VERB </U><B> begin, start | continue, resume | (come to an) end, cease, stop </B> </P>
+<P> <U> PREP. </U><B> during/in a/the ~ </B><I>Many people were killed in the bombardment. </I><B>| under ~ </B><I>The city has been under constant bombardment for three days. </I><B>| ~ against </B><I>The army launched artillery bombardments against enemy positions. </I><B>| ~ from </B><I>bombardments from the sea </I><B>| ~ with </B><I>a three-hour bombardment with rockets and mortars </I> </P>
+</DIV>

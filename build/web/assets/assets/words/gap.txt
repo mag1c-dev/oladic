@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>gap </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> space between things </TT> </P>
+<P> <U> ADJ. </U><B> big, huge, large, wide |  narrow, small | awkward </B><I>an awkward gap between the bed and the door </I> </P>
+<P> <U> VERB + GAP </U><B> leave | fill, seal </B><I>Seal the gaps around the windows with an exterior-quality sealant. </I> </P>
+<P> <U> GAP + VERB </U><B> appear, open up </B><I>He flashed his headlights and jumped lanes whenever a gap opened up. </I> </P>
+<P> <U> PREP. </U><B> through a/the ~ </B><I>A rabbit ran along the fence and darted through a gap. </I><B>| ~ between </B><I>Position the tiles, leaving a narrow gap between the edges. </I><B>| ~ in </B><I>A huge gap had appeared in the hedge. </I> </P>
+<P> <SUP> 2 </SUP> <TT> period of time </TT> </P>
+<P> <U> ADJ. </U><B> awkward | long, short | time </B> </P>
+<P> <U> VERB + GAP </U><B> fill </B><I>wondering how to fill an awkward gap in the conversation </I> </P>
+<P> <U> GAP + NOUN </U><B> year </B><I>I'm planning to travel in my gap year </I>(= the year between school and university)</B><I>. </I> </P>
+<P> <U> PREP. </U><B> after a/the ~ </B><I>She returned to teaching after a twelve-year gap. </I><B>| ~ between </B><I>a job to fill the gap between school and university </I> <B>| ~ in </B><I>a gap in his career </I> </P>
+<P> <SUP> 3 </SUP> <TT> difference </TT> </P>
+<P> <U> ADJ. </U><B> big, huge, large, significant, substantial, wide, yawning | unbridgeable </B><I>the unbridgeable gap between the two cultures </I><B>| growing, widening | narrow | age, generation </B><I>Despite the age gap, romance blossomed. </I><B>| cultural/culture | gender </B><I>the gender gap in earnings </I><B>| credibility </B><I>Newspapers were talking of a credibility gap between what he said and what he did. </I><B>| information, knowledge, skills </B><I>the knowledge gap between doctor and patient </I><B>| trade </B>(= the gap between export and imports; used in journalism)  </P>
+<P> <U> VERB + GAP </U><B> bridge </B><I>an attempt to bridge the gap between the academic world and industry </I> </P>
+<P> <U> GAP + VERB </U><B> widen | narrow | separate sb/sth </B><I>He realized how narrow was the gap separating him from his pagan ancestors. </I> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>The gap between rich and poor widened. </I> </P>
+<P> <SUP> 4 </SUP> <TT> where sth is missing </TT> </P>
+<P> <U> ADJ. </U><B> big, enormous, great, huge, important, large, serious, significant, terrible, yawning </B><I>serious gaps in their knowledge </I> </P>
+<P> <U> VERB + GAP </U><B> create, leave </B><I>His death left a huge gap in my life. </I><B>| identify | close, fill (in), plug </B><I>Her appointment will fill the gap created when the marketing manager left. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>legislation to close a gap in the law </I> </P>
+<P> <U> PHRASES </U><B> a gap in the market </B><I>We think we've identified a gap in the market </I>(= a business opportunity to make or sell sth that is not yet available)</B><I>. </I> </P>
+</DIV>

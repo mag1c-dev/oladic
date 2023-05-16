@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>usual </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> very | quite </B><I>Don't worry?it's quite usual to have a few problems at first. </I><B>| fairly | far from </B><I>This kind of behaviour is far from usual in children of this age. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>It's usual for the man to propose marriage. </I> </P>
+<P> <U> PHRASES </U><B> as per usual </B><I>(informal) Everyone blamed me as per usual. </I><B>| as usual </B>(= in the same way as what happens most of the time or in most cases) <I>Steve, as usual, was the last to arrive. </I><B>| business as usual </B>(= things will continue as normal in spite of a difficult situation) <I>It's business as usual at the factory, even while investigators sift through the bomb wreckage. </I><B>| in the usual way </B><I>The metal can then be painted in the usual way. </I> </P>
+</DIV>

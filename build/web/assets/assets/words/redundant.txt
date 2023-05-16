@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>redundant </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> no longer needed for a job </TT> </P>
+<P> <U> VERBS </U><B> be | become | make sb </B><I>the decision to make 800 employees compulsorily redundant </I> </P>
+<P> <U> ADV. </U><B> compulsorily </B> </P>
+<P> <SUP> 2 </SUP> <TT> not necessary or wanted </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem | become | declare sth, make sth, render sth </B><I>The chapel was declared redundant in 1995. </I> </P>
+<P> <U> ADV. </U><B> completely | virtually | largely</B> </P>
+</DIV>

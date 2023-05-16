@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>strained </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> worried and tense </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound </B> </P>
+<P> <U> ADV. </U><B> very | a bit, a little, rather </B><I>She looked rather strained and miserable. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not natural or friendly </TT> </P>
+<P> <U> VERBS </U><B> be | become, grow | remain </B><I>The atmosphere remained somewhat strained all evening. </I> </P>
+<P> <U> ADV. </U><B> extremely, severely, very </B><I>Relations between the two countries had become severely strained. </I><B>| increasingly | a bit, a little, rather, slightly, somewhat</B> </P>
+</DIV>

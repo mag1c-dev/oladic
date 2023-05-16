@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>unbalanced </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> rather mad </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> a little, slightly | mentally </B><I>She became mentally unbalanced after the accident. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not fair to all ideas or sides of sth </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> extremely, seriously, very | completely, wholly </B><I>The report is completely unbalanced. </I><B>| slightly, somewhat </B><I>a somewhat unbalanced account of the events </I> </P>
+</DIV>

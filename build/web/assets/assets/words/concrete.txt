@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>concrete </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> solid | bare </B><I>a floor made of bare concrete </I><B>| wet | pre-cast, ready-mix/ready-mixed, reinforced </B> </P>
+<P> <U> QUANT. </U><B> layer, slab </B> </P>
+<P> <U> VERB + CONCRETE </U><B> mix | lay, pour | be made from/(out) of | set sth in </B><I>The pathway is formed from large pebbles set in concrete. (figurative) I do not regard the constitution of the United Kingdom as set in concrete. </I> </P>
+<P> <U> CONCRETE + VERB </U><B> set </B><I>Before the concrete sets the surface can be given a final smoothing over. </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>trainee </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> management, teacher | graduate </B><I>Many companies recruit graduate trainees to train as managers. </I> </P>
+<P> <U> VERB + TRAINEE </U><B> employ, recruit, take on </B> </P>
+<P> <U> TRAINEE + VERB </U><B> work </B> </P>
+<P> <U> TRAINEE + NOUN </U><B> accountant, dealer, manager, nurse, solicitor, teacher </B> </P>
+<P> <U> PREP. </U><B> as a ~ </B><I>She joined as a management trainee. </I> </P>
+</DIV>

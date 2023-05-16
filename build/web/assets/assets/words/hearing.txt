@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>hearing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> ability to hear </TT> </P>
+<P> <U> ADJ. </U><B> acute, excellent, good, normal, sharp | bad, impaired, poor </B> </P>
+<P> <U> VERB + HEARING </U><B> have, possess  </B><I>Whales have acute hearing. </I><B>| lose  </B><I>She lost her hearing when she was a child. </I><B>| get back, regain </B><I>Is there any chance that he'll get his hearing back? </I><B>| affect, impair, make worse </B> </P>
+<P> <U> HEARING + VERB </U><B> deteriorate, get worse, go </B><I>His hearing began to deteriorate. Her hearing was already going. </I><B>| come back, get better, improve </B><I>Two months after the accident her hearing came back. </I> </P>
+<P> <U> HEARING + NOUN </U><B> impairment, loss, problems | aid </B><I>to have/wear a hearing aid </I><B>| person </B><I>a course in sign language for both deaf and hearing people </I> </P>
+<P> <U> PHRASES </U><B> hard of hearing </B><I>You'll have to speak more loudly. I'm afraid she's rather hard of hearing. </I> </P>
+<P> <SUP> 2 </SUP> <TT> trial in a court of law/similar investigation </TT> </P>
+<P> <U> ADJ. </U><B> final, preliminary | fair | formal, full | open, public | private, secret | oral | appeal, custody, disciplinary, petition, pre-trial | committee, congressional, court, tribunal </B> </P>
+<P> <U> VERB + HEARING </U><B> conduct, hold </B><I>Most councils hold hearings in public. </I><B>| ask for, call for, demand </B><I>Protesters are calling for a public hearing. </I><B>| get, have </B><I>She said that she had had a very fair hearing from the disciplinary tribunal. </I><B>| attend | adjourn | tell </B><I>The hearing was told that the child had been left with a 14-year-old babysitter. </I> </P>
+<P> <U> HEARING + VERB </U><B> take place | begin, open </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>At a preliminary hearing the judge announced that the trial would begin on March 21. </I> <B>| in a/the ~ </B><I>She was granted a divorce in a five-minute hearing. </I><B>| pending a/the ~ </B><I>Pending the hearing of the case by the court, the business will be allowed to continue trading. </I><B>| without a ~ </B><I>A High Court judge dismissed the case without a hearing. </I> </P>
+<P> <SUP> 3 </SUP> <TT> chance for an opinion to be considered </TT> </P>
+<P> <U> ADJ. </U><B> fair, sympathetic </B> </P>
+<P> <U> VERB + HEARING </U><B> give sb/sth </B><I>At least give our ideas a fair hearing before you reject them. </I><B>| get </B><I>You haven't got much chance of your plan getting a sympathetic hearing. </I><B>| deserve </B><I>Their views deserve a hearing. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>All I'm asking is a fair hearing for my ideas. </I> </P>
+</DIV>

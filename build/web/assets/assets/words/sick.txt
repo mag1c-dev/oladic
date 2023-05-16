@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>sick </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> ill </TT> </P>
+<P> <U> VERBS </U><B> be, look | become, fall </B><I>(formal)</I>, <B>get </B><I>(informal) He fell sick with yellow fever. She was afraid she would get sick if she stayed in that place any longer. </I> </P>
+<P> <U> ADV. </U><B> chronically, desperately, extremely, terribly, very </B><I>The house has accommodation for up to 60 chronically sick or disabled residents. a very sick woman in the next bed </I><B>| incurably, terminally | mentally </B> </P>
+<P> <U> PHRASES </U><B> be off sick </B><I>John's not in the office today, he's off sick. </I> </P>
+<P> <SUP> 2 </SUP> <TT> ill in your stomach </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look </B><I>Mum, I feel sick! </I><B>| get </B><I>I get travel-sick if I sit in the back seat. </I><B>| make sb </B><I>If you eat all that chocolate it'll make you sick. </I> </P>
+<P> <U> ADV. </U><B> horribly, really, very, violently </B><I>He leaned sideways and was violently sick. </I><B>| almost | a bit, faintly, a little, quite, rather, slightly | continually | physically </B><I>Every time I think about it I feel physically sick. </I> </P>
+<P> <U> PREP. </U><B> with </B><I>Laura felt almost sick with embarrassment. </I> </P>
+<P> <U> PHRASES </U><B> be as sick as a dog </B> </P>
+<P> <SUP> 3 </SUP> <TT> bored/disgusted/annoyed </TT> </P>
+<P> <U> VERBS </U><B> be | become, get </B><I>I'm getting sick of all these delays. </I><B>| make sb </B><I>Her attitude makes me sick. </I> </P>
+<P> <U> ADV. </U><B> heartily, really </B><I>He was getting heartily sick of all the false sympathy. </I><B>| absolutely, thoroughly | a bit, pretty, rather </B><I>She was getting a bit sick of his moaning. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>I'm getting sick of you leaving things in a mess. </I> </P>
+<P> <U> PHRASES </U><B> sick and tired of sth, sick to death of sth, sick to the back teeth of sth </B> </P>
+<P> <SUP> 4 </SUP> <TT> cruel/in bad taste </TT> </P>
+<P> <U> VERBS </U><B> be, seem, sound </B> </P>
+<P> <U> ADV. </U><B> extremely, really, very </B><I>You're really sick, you know that? </I><B>| pretty, rather </B><I>It was pretty sick humour, I thought. </I> </P>
+<P> <U> PHRASES </U><B> sick in the head </B><I>Whoever started the fire must be sick in the head. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>sick </B><I>noun </I><B>the sick </B> </P>
+<P> <U> ADJ. </U><B> chronic, long-term </B> </P>
+<P> <U> VERB + SICK </U><B> visit | care for, look after </B><I>workers who are caring for the sick and elderly </I><B>| treat | cure, heal </B><I>the Church's mission to preach the gospel and heal the sick </I> </P>
+<P> <U> PHRASES </U><B> the sick and wounded </B><I>The sick and wounded were evacuated from the war zone. </I> </P>
+</DIV>

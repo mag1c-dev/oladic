@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>fork </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> tool for eating </TT> </P>
+<P> <U> ADJ. </U><B> toasting </B> </P>
+<P> <U> VERB + FORK </U><B> pick up | put down | use </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>She impaled a piece of meat on her fork. </I><B>| with a ~ </B><I>Mash the mixture with a fork. </I> </P>
+<P> <U> PHRASES </U><B> a knife and fork </B><I>He put the knives and forks on the table. </I> </P>
+<P> <SUP> 2 </SUP> <TT> place where sth divides into two parts </TT> </P>
+<P> <U> ADJ. </U><B> left/left-hand, right/right-hand </B> </P>
+<P> <U> VERB + FORK </U><B> take </B><I>As you pass the farm, take the right fork of the track up the hill. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>Bear left at the fork in the road. </I><B>| ~ in </B><I>sitting in the fork of the tree </I> </P>
+</DIV>

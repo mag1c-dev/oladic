@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>rhyme </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> using words that have the same sound as each other </TT> </P>
+<P> <U> ADJ. </U><B> internal </B> </P>
+<P> <U> VERB + RHYME </U><B> write (in) </B> </P>
+<P> <U> RHYME + NOUN </U><B> scheme </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>a story in rhyme </I> </P>
+<P> <SUP> 2 </SUP> <TT> word that has the same sound as another </TT> </P>
+<P> <U> ADJ. </U><B> half </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>Can you think of a rhyme for &lsquo;tragic&rsquo;? </I> </P>
+<P> <SUP> 3 </SUP> <TT> short piece of writing with rhyming words </TT> </P>
+<P> <U> ADJ. </U><B> nonsense | nursery </B> </P>
+<P> <U> VERB + RHYME </U><B> recite | make up </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>The kids made up a rhyme about a frog. </I> </P>
+</DIV>

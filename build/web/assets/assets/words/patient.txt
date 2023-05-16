@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>patient </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, sound | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, incredibly, very | endlessly </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She's been extremely patient about it all. </I><B>| with </B><I>He was endlessly patient with the children. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>patient </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> Aids, cancer, diabetic, heart, etc. | mental, mentally-ill, psychiatric | seriously-ill, terminally-ill | hospital | long-stay | private </B><I>He only takes private patients. </I><B>| elderly, older | adult, child </B> </P>
+<P> <U> VERB + PATIENT </U><B> examine, see, treat </B><I>A GP sees an average of 35 patients every day. </I><B>| admit </B><I>The patient was admitted to hospital yesterday. </I><B>| discharge </B><I>patients waiting to be discharged from hospital </I><B>| transfer </B> </P>
+<P> <U> PATIENT + VERB </U><B> develop sth, have sth, suffer from sth </B><I>The patient has a severe mental condition. </I><B>| respond (to sth) </B><I>These patients are responding well to the new drug. </I><B>| improve </B> </P>
+<P> <U> PATIENT + NOUN </U><B> care </B> </P>
+<P> <U> PREP. </U><B> ~ with </B><I>patients with liver disease </I> </P>
+</DIV>

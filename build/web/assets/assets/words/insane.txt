@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>insane </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> mentally ill/crazy </TT> </P>
+<P> <U> VERBS </U><B> be, look | become, go </B><I>He later became insane and was confined to an asylum. He went almost insane when he heard that his daughter had died. </I><B>| drive sb </B><I>You're driving me nearly insane with that noise. </I><B>| certify sb, declare sb </B><I>In 1975 she was certified clinically insane and sent to a mental hospital. </I> </P>
+<P> <U> ADV. </U><B> completely, totally | almost, nearly | a little | dangerously | clinically | criminally </B><I>He is criminally insane, unable to stop himself attacking women. </I> </P>
+<P> <SUP> 2 </SUP> <TT> very stupid/dangerous </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B><I>It seems insane to cut the budget now. </I> </P>
+<P> <U> ADV. </U><B> quite, totally </B><I>The whole idea is quite insane. </I> </P>
+</DIV>

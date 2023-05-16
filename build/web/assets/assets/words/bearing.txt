@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>bearing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way in which sth is related </TT> </P>
+<P> <U> ADJ. </U><B> direct, important, significant </B><I>The rise in interest rates had a direct bearing on the company's profits. </I> </P>
+<P> <U> VERB + BEARING </U><B> have </B> </P>
+<P> <U> PREP. </U><B> ~ on </B> </P>
+<P> <SUP> 2 </SUP> <TT> direction/position </TT> </P>
+<P> <U> ADJ. </U><B> compass </B> </P>
+<P> <U> VERB + BEARING </U><B> check </B><I>He checked his bearings on the map in the car. </I><B>| find, get </B><I>Everything was in darkness and it was difficult to get my bearings. </I><B>| keep </B><I>To keep your bearings in a desert sandstorm is impossible. </I><B>| lose </B><I>She lost her bearings in the thick forest. </I> </P>
+<P> <U> PHRASES </U><B> take a (compass) bearing on sth </B><I>Take a compass bearing on that mountain. </I> </P>
+</DIV>

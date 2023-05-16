@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>killing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> killing sb deliberately </TT> </P>
+<P> <U> ADJ. </U><B> brutal, cold-blooded </B><I>the cold-blooded killing of a defenceless woman </I><B>| deliberate | indiscriminate, random | mass, serial </B><I>This was the fourth mass killing in Australia in four years. </I><B>| contract, gangland, political, revenge, sectarian </B><I>a brutal revenge killing </I><B>| mercy </B><I>Should the law allow mercy killing? </I><B>| unlawful </B><I>(law) a verdict of unlawful killing </I> </P>
+<P> <U> VERB + KILLING </U><B> be responsible for, carry out | order </B><I>The Mafia ordered the killing. </I><B>| prevent, stop </B><I>It is difficult to prevent such killings. </I><B>| confess to | deny </B><I>The sentenced man had denied the killings. </I> </P>
+<P> <U> KILLING + VERB </U><B> happen, occur, take place </B> </P>
+<P> <U> PHRASES </U><B> a motive for the killing </B><I>No motive for the killing has yet been established. </I> </P>
+<P> <SUP> 2 </SUP> <TT> making a lot of money quickly </TT> </P>
+<P> <U> VERB + KILLING </U><B> make </B><I>Investors are set to make a killing from the sell-off. </I> </P>
+</DIV>

@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>modem </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> data, facsimile, fax | external, internal | fast </B> </P>
+<P> <U> VERB + MODEM </U><B> connect, plug in | drive </B> </P>
+<P> <U> MODEM + NOUN </U><B> link </B><I>Data is transmitted via a modem link to the central office. </I> </P>
+<P> <U> PREP. </U><B> via (a/the) ~ </B><I>You can send the files to us on disk or via modem. </I>&gt; Special page at COMPUTER </B> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>usage </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way/amount that sth is used </TT> </P>
+<P> <U> ADJ. </U><B> heavy, high </B><I>high energy usage </I><B>| low | normal </B><I>With normal usage, the equipment should last at least five years. </I><B>| drug </B><I>Drug usage by teenagers has increased in recent years. </I><B>| energy | water </B> </P>
+<P> <U> VERB + USAGE </U><B> increase | reduce </B> </P>
+<P> <U> USAGE + VERB </U><B> increase | fall </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>Usage of computers in schools is increasing. </I> </P>
+<P> <SUP> 2 </SUP> <TT> way that words are used </TT> </P>
+<P> <U> ADJ. </U><B> common, everyday, general, normal, ordinary, popular </B><I>That word is no longer in common usage. </I><B>| current, modern </B><I>a book on current English usage </I><B>| actual </B><I>Actual usage of the word is different from the meaning given in the dictionary. </I><B>| correct | American, English, etc. | language, linguistic, word | colloquial </B> </P>
+<P> <U> VERB + USAGE </U><B> come into, enter </B><I>The term &lsquo;eco-tourism&rsquo; entered common usage in the 1990s. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The word has a slightly different meaning in popular usage. </I> </P>
+<P> <U> PHRASES </U><B> patterns of usage </B><I>Dictionary definitions tend to show stereotypical patterns of usage. </I> </P>
+</DIV>

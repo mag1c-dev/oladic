@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>taunt </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> playground, racial/racist </B> </P>
+<P> <U> VERB + TAUNT </U><B> hurl, shout | endure, face, suffer </B><I>He had to endure the racist taunts of the crowd. </I><B>| ignore </B> </P>
+<P> <U> TAUNT + VERB </U><B> sting (sb into) </B><I>Their taunts stung him into his best performance for the team yet. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>taunt </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> softly </B><I>&lsquo;Running away?&rsquo;he taunted softly. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>Some of the girls taunted her about her weight. </I><B>| with </B><I>The other children taunted him with nicknames. </I> </P>
+</DIV>

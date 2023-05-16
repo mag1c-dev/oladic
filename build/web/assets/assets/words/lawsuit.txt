@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>lawsuit </B><I>noun </I> </P>
+<P> <U> VERB + LAWSUIT </U><B> bring, file, issue </B><I>A lawsuit has been filed against the company. </I><B>| be involved in, pursue | drop </B><I>They have agreed to drop their lawsuit against the Dutch company. </I><B>| be faced with, face </B><I>The company now faces several lawsuits over its failure to protect its employees. </I><B>| defend </B><I>She plans to defend the lawsuit vigorously. </I><B>| win | lose | settle </B><I>The two companies have settled the lawsuit. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>They are seeking damages in a lawsuit. </I><B>| ~ against </B><I>a lawsuit against her former husband </I><B>| ~ over </B><I>a lawsuit over a disputed estate </I> </P>
+</DIV>

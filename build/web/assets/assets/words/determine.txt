@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>determine </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> exactly, precisely </B><I>We need a detailed investigation to determine exactly why these cancers are occurring. </I> </P>
+<P> <U> VERB + DETERMINE </U><B> try to | be used to, help to </B><I>Computer models help to determine whether a particular area is likely to flood. </I><B>| be easy to, be possible to | be difficult to, be impossible to </B><I>It is difficult to determine the exact cause of the illness. </I><B>| be necessary to | be able to</B> </P>
+</DIV>

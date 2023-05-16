@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>smoking </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chain, heavy | passive </B><I>the dangers of passive smoking </I><B>| cigar, cigarette, pipe, tobacco </B> </P>
+<P> <U> VERB + SMOKING </U><B> start, take up | give up, quit, stop </B><I>I'm trying to give up smoking. </I><B>| cut down on </B><I>The doctor advised me to cut down on smoking and alcohol. </I><B>| ban </B> </P>
+<P> <U> SMOKING + NOUN </U><B> habit | ban </B><I>A total smoking ban has been imposed throughout the building. </I><B>| room </B> </P>
+<P> <U> PHRASES </U><B> a ban on smoking, the dangers/effects of smoking </B><I>a study of the harmful effects of smoking </I><B>| no smoking </B><I>The company has a strict no smoking policy. </I><B>| smoking-related death/disease/illness</B> </P>
+</DIV>

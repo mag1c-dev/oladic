@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>plunge </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> headlong | cold </B><I>Bathers would go straight from the hot room to take a cold plunge. </I> </P>
+<P> <U> VERB + PLUNGE </U><B> take </B><I>The river takes a headlong plunge into a maelstrom of rocks and boulders. (figurative) He finally took the plunge and gave in his notice. </I> </P>
+<P> <U> PREP. </U><B> ~ into </B><I>a plunge into the icy water </I><B>| ~ to </B><I>a plunge to the ground </I> </P>
+</DIV><DIV class="item"><P class="word"><B>plunge </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> downwards, forward, head first, headlong </B><I>The car plunged headlong into the river. </I><B>| in </B><I>The pool was declared open and eager swimmers plunged in. </I> </P>
+<P> <U> PREP. </U><B> down </B><I>The bus came off the road and plunged down an embankment. </I><B>| from </B><I>He plunged from a tenth floor window. </I><B>| into </B><I>(often figurative) She plunged straight into her story. </I><B>| off </B><I>The car had plunged off the road. </I> </P>
+<P> <U> PHRASES </U><B> plunge to your death </B><I>A climber plunged 300 feet to his death. </I> </P>
+</DIV>

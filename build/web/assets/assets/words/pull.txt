@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>pull </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of pulling </TT> </P>
+<P> <U> ADJ. </U><B> sharp | strong | gentle | downward | gravitational </B><I>the earth's gravitational pull </I><B>| magnetic </B><I>(figurative) The magnetic pull of the city was hard to resist. </I> </P>
+<P> <U> VERB + PULL </U><B> give sth </B><I>I gave the door a sharp pull. </I><B>| feel </B><I>(figurative) She felt the pull of her homeland. </I> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>A gentle pull at her sleeve got her attention. </I><B>| ~ on </B><I>He felt a strong pull on the rope. </I> </P>
+<P> <SUP> 2 </SUP> <TT> on a cigarette/drink </TT> </P>
+<P> <U> ADJ. </U><B> long </B> </P>
+<P> <U> VERB + PULL </U><B> take </B><I>She took a long pull on her cigarette and sighed. </I> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>a pull at his flask </I><B>| ~ on</B> </P>
+</DIV><DIV class="item"><P class="word"><B>pull </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard </B><I>He got hold of the rope and pulled hard. </I><B>| gently | apart, off, on, out, over </B><I>She pulled off her boots. He pulled his sweater on. </I><B>| along, away, back </B><I>She took his arm and pulled him along. The dog snapped at her and she pulled back her hand. </I> </P>
+<P> <U> VERB + PULL </U><B> try to </B><I>He tried to pull away. </I><B>| manage to </B> </P>
+<P> <U> PREP. </U><B> at </B><I>He pulled at her coat sleeve. </I><B>| on </B><I>She pulled on the lever. </I><B>| towards </B><I>She pulled him gently towards her. </I> </P>
+<P> <U> PHRASES </U><B> pull (yourself) free </B><I>John finally managed to pull himself free. </I><B>| pull yourself to your feet</B> </P>
+</DIV>

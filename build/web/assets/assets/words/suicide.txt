@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>suicide </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> attempted | mass </B><I>Members of the sect committed mass suicide. </I><B>| economic | electoral, political </B><I>Raising taxes before an election would be political suicide. </I> </P>
+<P> <U> VERB + SUICIDE </U><B> commit | attempt | contemplate </B> </P>
+<P> <U> SUICIDE + NOUN </U><B> threat | attempt, bid </B><I>He slashed his wrists in a failed suicide bid. </I><B>| pact </B><I>The couple died together in a suicide pact. </I><B>| bomber, bombing | mission | letter, note </B><I>He died without leaving a suicide note. </I><B>| rate</B> </P>
+</DIV>

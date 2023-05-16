@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>notion </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> absurd, peculiar, ridiculous | hazy, vague | faintest, foggiest </B><I>I haven't the faintest notion how to get there. </I><B>| romantic | accepted, conventional, traditional | preconceived | general </B><I>There seems to be a general notion that nothing can be done about the problem. </I><B>| simple, simplistic </B> </P>
+<P> <U> VERB + NOTION </U><B> have </B><I>He's got some vague notion that people will be queueing up to finance the project. </I><B>| reject | accept | support | dispel </B><I>We must dispel this notion that you can rely on the state for everything. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>They have come to reject the traditional notion of womanhood. </I> </P>
+</DIV>

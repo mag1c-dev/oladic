@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>injunction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> court order </TT> </P>
+<P> <U> ADJ. </U><B> interim, preliminary | temporary | permanent | court </B> </P>
+<P> <U> VERB + INJUNCTION </U><B> apply for, seek | get, obtain, take out, win </B><I>She took out an injunction to prevent the press publishing the information. </I><B>| grant (sb), issue | refuse (sb/sth) | vary </B><I>an application to court to vary an injunction </I><B>| lift </B><I>It was agreed that the temporary injunction should be lifted. </I><B>| uphold | overturn | ignore </B> </P>
+<P> <U> INJUNCTION + VERB </U><B> order sth, require sth | ban sth, bar sth, forbid sth, prohibit sth, restrain sb/sth </B><I>The court upheld an injunction barring protesters from blocking access to the company. an injunction restraining the disclosure of company secrets </I><B>| prevent sth </B> </P>
+<P> <U> PREP. </U><B> ~ against/on </B><I>They got an interim injunction against the union. </I> </P>
+<P> <U> PHRASES </U><B> a breach of an injunction </B> </P>
+<P> <SUP> 2 </SUP> <TT> warning/order from sb in authority </TT> </P>
+<P> <U> ADJ. </U><B> stern </B> </P>
+<P> <U> VERB + INJUNCTION </U><B> follow, obey </B><I>The rank and file members will follow the injunction of the party leadership. </I><B>| ignore</B> </P>
+</DIV>

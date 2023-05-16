@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>knock </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> firm sharp sound </TT> </P>
+<P> <U> ADJ. </U><B> loud, sharp | gentle, light | determined | timid </B> </P>
+<P> <U> VERB + KNOCK </U><B> hear | answer </B><I>She hurried to answer the knock at the door. </I> </P>
+<P> <U> PHRASES </U><B> a knock at/on the door </B><I>There was a loud knock at the door. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sharp blow from sth </TT> </P>
+<P> <U> ADJ. </U><B> hard, nasty, severe </B><I>(figurative) the hard knocks of life </I><B>| minor </B> </P>
+<P> <U> VERB + KNOCK </U><B> get, have, take </B><I>You've had a nasty knock on the head. (figurative) Their pride took quite a knock when they lost 5?0. </I><B>| give sb/sth </B> </P>
+<P> <U> PREP. </U><B> ~ on</B> </P>
+</DIV><DIV class="item"><P class="word"><B>knock </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> hit/bump </TT> </P>
+<P> <U> ADV. </U><B> accidentally </B><I>I accidentally knocked the vase off the table. </I><B>| about, aside, over </B><I>Her boyfriend had been knocking her about. Mind you don't knock that glass over. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>The stick knocked against the wall. </I><B>| off </B><I>He had knocked one of the pictures off the wall. </I><B>| on </B><I>I knocked my head on one of the beams. </I> </P>
+<P> <U> PHRASES </U><B> knock sb/sth flying </B><I>He was knocked flying as two policemen came crashing through the door. </I><B>| knock sb off their feet </B><I>The explosion knocked him off his feet. </I><B>| knock sb out/senseless/unconscious </B><I>The blow knocked him unconscious. </I><B>| knock sb to the ground </B> </P>
+<P> <SUP> 2 </SUP> <TT> bang on a door </TT> </P>
+<P> <U> ADV. </U><B> loudly | softly | politely, timidly </B> </P>
+<P> <U> PREP. </U><B> at </B><I>Someone knocked loudly at the door. </I><B>| on </B><I>She knocked timidly on the study door and entered. </I> </P>
+<P> <U> PHRASES </U><B> without knocking </B><I>Dobson walked straight into her office without knocking. </I> </P>
+</DIV>

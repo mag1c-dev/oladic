@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>college </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> community, local | sixth form, tertiary | tutorial | university | agricultural, art, FE/further education, military, music, police, secretarial, teacher training, technical, theological, veterinary, etc. </B> </P>
+<P> <U> VERB + COLLEGE </U><B> attend, go to | finish, graduate from </B> </P>
+<P> <U> COLLEGE + NOUN </U><B> lecturer, principal, teacher | staff | student | course | chapel, library, room </B> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>She's at college in Swindon. </I><B>| in ~ </B><I>Not all the lecturers are in college at any one time. </I> </P>
+<P> <U> PHRASES </U><B> a college of (further/higher) education</B> </P>
+</DIV>

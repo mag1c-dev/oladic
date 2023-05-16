@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>calculate </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> work out a number, etc. </TT> </P>
+<P> <U> ADV. </U><B> accurately, exactly </B> </P>
+<P> <U> PREP. </U><B> according to </B><I>The amount is calculated according to the number of years you have paid into the scheme. </I><B>| at </B><I>The sum involved was calculated at $82 million. </I> </P>
+<P> <SUP> 2 </SUP> <TT> guess </TT> </P>
+<P> <U> ADV. </U><B> carefully, shrewdly | correctly </B><I>He correctly calculated that the others would not dare fight back. </I> </P>
+</DIV>

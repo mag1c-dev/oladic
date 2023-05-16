@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>wing </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a bird/insect </TT> </P>
+<P> <U> ADJ. </U><B> left, right | fore, front </B><I>The beetle's fore wings are small and are not used in flight. </I><B>| back, hind | broad, long, narrow, pointed, short, stubby | delicate | leathery, membranous | broken, damaged </B><I>a bird with a broken wing </I><B>| outspread, outstretched | butterfly, chicken, etc. </B><I>the patterns on butterfly wings First, fry the chicken wings in the oil until they begin to brown. </I> </P>
+<P> <U> QUANT. </U><B> pair </B> </P>
+<P> <U> VERB + WING </U><B> extend, open, spread, stretch, unfold | close, fold | flap, flutter </B><I>It flapped its wings and flew off. </I><B>| clean | clip </B><I>(often figurative) Pete felt he had had his wings clipped when his driving licence was confiscated. </I><B>| grow, sprout </B><I>I wish I could sprout wings and fly away. </I> </P>
+<P> <U> WING + VERB </U><B> beat, flap, flutter</B> </P>
+<P> <U> WING + NOUN </U><B> tip | feathers</B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>It had whit</I>e </B><I>markings on its wings. </I><B>| under a/the ~ </B><I>The young birds were under the mother bird's wing. (figurative) Simon's uncle had taken him under his wing. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of a plane </TT> </P>
+<P> <U> ADJ. </U><B> aircraft | left, port | right, starboard | fixed | folding </B> </P>
+<P> <U> WING + VERB </U><B> stick out </B> </P>
+<P> <U> WING + NOUN </U><B> tip </B> </P>
+<P> <SUP> 3 </SUP> <TT> of a building </TT> </P>
+<P> <U> ADJ. </U><B> north, south, etc. | private | hospital | maternity | maximum security </B>(= of a prison)  </P>
+<P> <U> VERB + WING </U><B> add, build | demolish, destroy, pull down </B><I>A bomb destroyed the east wing. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Our rooms were in the west wing. </I> </P>
+<P> <SUP> 4 </SUP> <TT> of a car </TT> </P>
+<P> <U> ADJ. </U><B> nearside, offside | front, rear </B> </P>
+<P> <U> VERB + WING </U><B> damage, dent </B><I>The nearside wing was damaged in the accident. </I><B>| mend, repair, replace </B> </P>
+<P> <U> WING + NOUN </U><B> mirror </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There was a dent in one wing. </I> </P>
+<P> <SUP> 5 </SUP> <TT> of an organization </TT> </P>
+<P> <U> ADJ. </U><B> left, right | conservative | liberal, progressive, reformist | extreme, radical | revolutionary | moderate | dissident | political | military, paramilitary </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>They're on the left wing of the Labour Party. </I> </P>
+</DIV>

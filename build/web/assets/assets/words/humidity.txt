@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>humidity </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | ambient, relative </B><I>in dry weather, when the ambient humidity is low </I> </P>
+<P> <U> QUANT. </U><B> level </B> </P>
+<P> <U> HUMIDITY + VERB </U><B> increase, rise | decrease, fall </B> </P>
+<P> <U> HUMIDITY + NOUN </U><B> level | control </B><I>The museum is equipped with sophisticated humidity controls. </I> </P>
+</DIV>

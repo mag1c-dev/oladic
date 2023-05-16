@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>underestimate </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gross, serious </B><I>The official figures are a gross underestimate of the true number. </I> </P>
+<P> <U> PREP. </U><B> ~ of</B> </P>
+</DIV><DIV class="item"><P class="word"><B>underestimate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly, considerably, greatly, grossly, massively, seriously, substantially </B><I>He realized that he had seriously underestimated their strength. </I><B>| totally | fatally </B> </P>
+<P> <U> VERB + UNDERESTIMATE </U><B> tend to </B> </P>
+<P> <U> PHRASES </U><B> sth should not be underestimated </B><I>The importance of these feelings should not be underestimated. </I> </P>
+</DIV>

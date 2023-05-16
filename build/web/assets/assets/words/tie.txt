@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>tie </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> worn round the neck with a shirt </TT> </P>
+<P> <U> ADJ. </U><B> undone </B><I>His tie was undone. </I><B>| loose | askew </B><I>His tie was askew and his hair dishevelled. </I><B>| loud | bootlace, bow, kipper | black, white </B>(= a black/white bow tie as part of formal dress) <I>a black-tie dinner </I><B>| club, college, regimental, school </B> </P>
+<P> <U> VERB + TIE </U><B> knot, tie | loosen | adjust, straighten </B> </P>
+<P> <U> TIE + NOUN </U><B> pin </B> </P>
+<P> <U> PHRASES </U><B> collar/jacket/shirt/suit and tie </B>   </B> </P>
+<P> <SUP> 2 </SUP> <TT> (usually <B>ties</B>) sth that connects you with sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> close, strong | weak | blood, family | emotional | personal | business, commercial, economic | cultural, diplomatic, political, social, traditional </B> </P>
+<P> <U> VERB + TIE </U><B> have </B><I>We have close economic ties with our neighbours. </I><B>| establish | cement, strengthen | cut, sever </B><I>He cut all ties with the Church. </I><B>| loosen, weaken </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>There is a strong tie between her and her daughters. </I><B>| ~ of </B><I>ties of kinship </I><B>| ~ to/with </B><I>to establish diplomatic ties with China </I> </P>
+<P> <SUP> 3 </SUP> <TT> in a game/competition </TT> </P>
+<P> <U> VERB + TIE </U><B> end in, result in </B><I>The match ended in a tie. </I> </P>
+<P> <U> TIE + NOUN </U><B> break/breaker </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>a tie between Egypt and France </I><B>| ~ for </B><I>There was a tie for first place. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tie </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> attach/fasten sb/sth with string/rope </TT> </P>
+<P> <U> ADV. </U><B> firmly, securely, tightly </B><I>Did you tie the balloons on tightly? </I><B>| loosely </B><I>He wore plimsolls, loosely tied with bits of string. </I><B>| carefully | neatly </B><I>Tie the cords neatly. </I><B>| back, on, together, up </B> </P>
+<P> <U> PREP. </U><B> around/round </B><I>He tied his dressing gown firmly around him. </I><B>| onto </B><I>I tied the bundle onto the end of the string. </I><B>| to </B><I>She tied the rope securely to a tree. </I><B>| with </B><I>Katie tied her hair back with a ribbon. </I> </P>
+<P> <U> PHRASES </U><B> tie sb hand and foot </B><I>The prisoners were tied hand and foot. </I> </P>
+<P> <SUP> 2 </SUP> <TT> connect sb/sth with sb/sth else </TT> </P>
+<P> <U> ADV. </U><B> closely, intimately </B><I>Their company's future is closely tied to our own. </I><B>| directly | firmly | inextricably | in, together, up </B><I>Production and consumption are inextricably tied together. </I> </P>
+<P> <U> PREP. </U><B> in with </B><I>The concert will tie in with the festival of dance taking place the same weekend. </I><B>| to </B><I>You can't stay tied to her forever. </I><B>| up with </B><I>Her behaviour is tied up with her feelings of guilt. </I> </P>
+</DIV>

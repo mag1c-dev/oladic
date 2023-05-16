@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>exclusive </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> belonging to/used by only one person/group </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> almost </B><I>the course's almost exclusive concentration on grammar </I><B>| not necessarily </B><I>The recording deal is not necessarily exclusive. The band can record material for other companies as well. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>These products are exclusive to our shops. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not welcoming to everyone </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain | keep sth </B><I>The owners of the golf club are determined to keep it exclusive. </I> </P>
+<P> <U> ADV. </U><B> very | quite, rather, somewhat </B><I>a somewhat exclusive venue </I><B>| necessarily </B><I>The school is expensive and necessarily exclusive. </I><B>| racially, socially </B> </P>
+<P> <SUP> 3 </SUP> <TT> not able to exist/be true at the same time </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> mutually </B><I>The two options are not mutually exclusive </I>(= you can have them both)</B><I>. </I> </P>
+</DIV>

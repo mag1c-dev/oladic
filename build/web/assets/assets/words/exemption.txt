@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>exemption </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> complete, full, total | blanket </B><I>The bill gives sensitive police files a blanket exemption. </I><B>| partial | temporary | special | tax </B> </P>
+<P> <U> VERB + EXEMPTION </U><B> be entitled to, be subject to, enjoy, qualify for </B><I>These goods are subject to exemption from tax. They enjoyed exemption from customs duties on goods to be used by themselves. </I><B>| apply for, claim, seek | gain, get, obtain | give (sb), grant (sb) | refuse | waive </B><I>(law) </I> </P>
+<P> <U> EXEMPTION + VERB </U><B> apply (to sb/sth), cover sb/sth, relate to sb/sth </B><I>The exemption which applies to home-buyers. </I> </P>
+<P> <U> EXEMPTION + NOUN </U><B> clause </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>There are parking restrictions in the city centre with exemptions for disabled drivers. </I><B>| ~ from </B><I>You may be able to apply for exemption from local taxes. </I><B>| ~ on </B><I>tax exemptions on gifts to spouses </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>hardship </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> appalling, considerable, dreadful, extreme, genuine, great, immense, real, severe | widespread | undue, unnecessary | economic, financial, material, personal, physical </B> </P>
+<P> <U> VERB + HARDSHIP </U><B> cause | bear, endure, experience, face, suffer, survive </B><I>a close community which makes these hardships easier to bear Students may suffer severe financial hardship as a result of the government's decision. They have already survived considerable hardship. </I> </P>
+<P> <U> HARDSHIP + NOUN </U><B> payment </B><I>The union made hardship payments to some of the sacked workers. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>They are living in genuine hardship. </I><B>| without ~ </B><I>Rail services to rural areas could be withdrawn without undue hardship. </I><B>| ~ among </B><I>widespread hardship among students </I><B>| ~ to </B><I>The cold was no real hardship to me. </I> </P>
+<P> <U> PHRASES </U><B> times of hardship </B><I>In times of economic hardship, firms cut back on training. </I> </P>
+</DIV>

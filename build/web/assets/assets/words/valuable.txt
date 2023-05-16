@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>valuable </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> worth a lot of money </TT> </P>
+<P> <U> VERBS </U><B> be, look | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, really, very | quite, rather | commercially </B><I>commercially valuable expertise </I> </P>
+<P> <SUP> 2 </SUP> <TT> very useful </TT> </P>
+<P> <U> VERBS </U><B> be, prove, seem | become | remain | make sb/sth </B><I>They have skills and qualities which make them highly valuable. </I><B>| consider sth </B> </P>
+<P> <U> ADV. </U><B> eminently, enormously, especially, exceedingly, exceptionally, extremely, highly, immensely, most, particularly, really, truly, very | increasingly | quite | equally </B><I>The subject could be equally valuable for scientists. </I><B>| inherently, intrinsically </B><I>The Romantics believed that the life of the imagination was intrinsically valuable. </I><B>| potentially | ecologically, educationally, scientifically, socially </B><I>ecologically valuable species </I> </P>
+<P> <U> PREP. </U><B> as </B><I>The survey was valuable as an indicator of local opinion. </I><B>| for </B><I>Good eyesight is a quality which is extremely valuable for a hunting animal. </I><B>| to </B><I>documents that are enormously valuable to historians </I> </P>
+</DIV>

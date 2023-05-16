@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>verb </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> plural, singular | intransitive, transitive | active, passive | irregular, regular | main </B><I>What's the main verb of the sentence? </I><B>| finite | auxiliary, linking, modal | phrasal </B> </P>
+<P> <U> VERB + VERB </U><B> use </B><I>In this essay he has used the same verbs over and over again. </I><B>| take </B><I>&lsquo;Government&rsquo; can take a singular or plural verb. </I><B>| agree with </B><I>The subject doesn't agree with the verb. </I><B>| conjugate, inflect </B><I>Do you know how to conjugate the verb &lsquo;seek&rsquo;? </I><B>| modify, qualify </B><I>Adverbs modify verbs. </I> </P>
+<P> <U> VERB + VERB </U><B> take sth </B><I>Transitive verbs take a direct object. </I><B>| agree with sth, inflect </B><I>Add an ending to make the verb agree with the subject. </I><B>| end in sth </B> </P>
+<P> <U> VERB + NOUN </U><B> ending, form, phrase </B> </P>
+<P> <U> PHRASES </U><B> a verb of motion/perception</B> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>redundancy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large-scale, major, mass, massive </B><I>The closure of the mine led to large-scale redundancies. </I><B>| widespread | threatened | compulsory, enforced, forced | voluntary </B> </P>
+<P> <U> QUANT. </U><B> round, wave </B><I>a fresh wave of redundancies </I> </P>
+<P> <U> VERB + REDUNDANCY </U><B> make </B><I>The bank will be making 3,500 redundancies over the next five years. </I><B>| lead to, result in | avoid | announce | be threatened by/with, face </B><I>Sixty workers at a clothing factory face redundancy because the firm is relocating. </I><B>| accept, take, volunteer for </B><I>Those choosing to take redundancy will receive the company's standard redundancy terms. </I> </P>
+<P> <U> REDUNDANCY + VERB </U><B> occur, take place </B> </P>
+<P> <U> REDUNDANCY + NOUN </U><B> policy | programme | notice </B><I>Redundancy notices have been sent to 200 workers. </I><B>| compensation, package, terms | money, pay, payment | costs </B><I>Most of the companies' losses stemmed from redundancy costs. </I> </P>
+<P> <U> PHRASES </U><B> the threat of redundancy</B> </P>
+</DIV>

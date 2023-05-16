@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>pencil </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> blunt, sharp | hard, soft | coloured </B><I>a box of coloured pencils </I><B>| graphite, lead </B> </P>
+<P> <U> VERB + PENCIL </U><B> colour sth in with, draw (sth) with, use, write (sth) with | sharpen </B> </P>
+<P> <U> PENCIL + NOUN </U><B> lead, sharpener | drawing, sketch | line, mark </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>margin notes in pencil </I> </P>
+</DIV>

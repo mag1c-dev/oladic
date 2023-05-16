@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>fan </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> enjoys watching/listening to sb/sth very much </TT> </P>
+<P> <U> ADJ. </U><B> adoring, ardent, avid, big, dedicated, devoted, great, keen, loyal, number one, real </B><I>I'm a big fan of Italian food. one of the team's biggest fans The singer says her dad is her number one fan. </I><B>| lifelong | armchair </B><I>For armchair fans back home, it was one of the highlights of the Sydney Olympics. </I><B>| obsessive </B><I>The actress is asking the court to protect her from an obsessive fan who is making her life a misery. </I><B>| cricket, football, rugby, soccer, sports, etc. | jazz, music, pop, etc. | film, movie | home </B><I>The goal was greeted by jubilation from the home fans. </I><B>| away, travelling, visiting | opposing/opposition, rival </B><I>There were clashes between rival fans after the match. </I> </P>
+<P> <U> VERB + FAN </U><B> delight </B><I>The big band sound of Syd Lawrence and his Orchestra will delight fans. </I><B>| disappoint, let down </B><I>Fans will not be disappointed. </I> </P>
+<P> <U> FAN + VERB </U><B> converge on sth, gather, turn out/up </B><I>Soccer fans converged on the capital for the cup final. More than 40,000 fans turned up for the 12-hour event. </I><B>| watch sth | applaud (sb/sth), boo (sb/sth), chant sth </B><I>Over 25,000 fans applauded both teams off the field. </I><B>| besiege sth </B><I>Hundreds of fans besieged the star's hotel. </I> </P>
+<P> <U> FAN + NOUN </U><B> club, letter, mail </B> </P>
+<P> <SUP> 2 </SUP> <TT> machine that creates a current of air </TT> </P>
+<P> <U> ADJ. </U><B> electric | cooling | extractor | ceiling, overhead </B> </P>
+<P> <U> FAN + NOUN </U><B> belt, heater</B> </P>
+</DIV>

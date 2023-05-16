@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>box </B><I>noun </I> </B> </P>
+<P> <SUP> 1 </SUP> <TT> container </TT> </P>
+<P> <U> ADJ. </U><B> oblong, rectangular, square | upturned </B><I>They were sitting round the fire on upturned boxes. </I> | cardboard | storage | chocolate, cigar, egg | jewel/jewellery, shoe, tool,toolbox | cassette, CD, video | gift | lunch, sandwich | first-aid | (safe/safety) deposit, security </B><I>There is a safety deposit box in every room of the hotel. </I><B>| cash, money </B><I>The cash box was kept in the safe at the back of the shop. She opened her money box to see if she had saved enough for a tennis racket. </I><B>| collection, donation </B><I>The exhibition is free, but there is a collection box for donations. </I> </P>
+<P> <U> QUANT. </U><B> pile, stack </B> </P>
+<P> <U> VERB + BOX </U><B> fill, pack </B><I>She filled the box with old clothes. </I><B>| pack sth in/into, put sth in/into, put sth away in, store sth in </B><I>We packed all the books into boxes. </I><B>| remove sth from, take sth out of | empty, unpack | open | close, shut | lock </B> </P>
+<P> <U> BOX + VERB </U><B> contain sth, be filled with/full of sth, hold sth </B><I>This box holds ten candles and costs </I> &pound;</B><I>21. </I><B>| be labelled sth, be marked sth </B><I>a box marked &lsquo;fragile&rsquo; </I><B>| be covered in/with sth, be lined with sth </B><I>The dog sleeps in a box lined with an old blanket. </I> </P>
+<P> <U> PREP. </U><B> in/into a/the ~, inside a/the ~, out of a/the ~ | ~ of </B><I>a box of chocolates </I> </P>
+<P> <U> PHRASES </U><B> the lid of a box </B> </P>
+<P> <SUP> 2 </SUP> <TT> enclosed area </TT> </P>
+<P> <U> ADJ. </U><B> soundproof | call, phone, telephone | jury, witness | commentary, press </B><I>There was a babble of languages in the commentary box when the race began. </I><B>| director's, executive, hospitality </B><I>They drank champagne as they watched the match from the executive box. </I><B>| private, Royal </B><I>a private box at the theatre </I> <B>| signal | horse, horsebox </B><I>The car in front was pulling a horsebox. </I> </P>
+<P> <U> PREP. </U><B> in/into a/the ~ </B> </P>
+<P> <SUP> 3 </SUP> <TT> square on a form/screen </TT> </P>
+<P> <U> ADJ. </U><B> appropriate, relevant </B><I>Tick the relevant box below. </I><B>| dialog/dialogue </B><I>Click on &lsquo;open file&rsquo; in the dialogue box. </I><B>| question </B> </P>
+<P> <U> VERB + BOX </U><B> fill in, put sth in, tick, write (sth) in </B><I>Put a cross in the box if you agree with the comments. </I> </P>
+<P> <U> PREP. </U><B> in/into a/the ~</B> </P>
+</DIV><DIV class="item"><P class="word"><B>box office </B><I>noun </I> </P>
+<P> <U> BOX OFFICE + NOUN </U><B> hit, success | receipts, takings </B><I>Box office receipts for the film have hit $50 million. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>Tickets are available at the box office. </I> </P>
+<P> <U> PHRASES </U><B> do well/badly at the box office </B><I>The musical has done very well at the box office </I>(= a lot of tickets have been sold)</B><I>. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>learn </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> gain knowledge/skill </TT> </P>
+<P> <U> ADV. </U><B> a lot </B><I>I learned a lot from my father. </I><B>| quickly, soon </B><I>Children learn very quickly. They soon learn that bad behaviour is a sure-fire way of getting attention. </I> </P>
+<P> <U> VERB + LEARN </U><B> need to | be eager to, want to </B><I>He was eager to learn all she could teach him. </I><B>| have a lot to </B><I>I've got a lot to learn, haven't I? </I> </P>
+<P> <U> PREP. </U><B> about </B><I>learning about art </I><B>| from </B><I>She learned from watching others. </I><B>| through </B><I>Children learn through play. </I> </P>
+<P> <SUP> 2 </SUP> <TT> become aware </TT> </P>
+<P> <U> VERB + LEARN </U><B> be astonished to, be astounded to, be intrigued to, be surprised to </B><I>I was surprised to learn that he was only 24. </I><B>| be dismayed to, be saddened to </B> </P>
+<P> <U> PREP. </U><B> of </B><I>We first learned of the problem from her school. </I> </P>
+</DIV>

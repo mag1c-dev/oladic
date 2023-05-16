@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>unfit </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> unsuitable for sth/not capable of sth </TT> </P>
+<P> <U> VERBS </U><B> be, look | become | make sb/sth, render sb/sth </B><I>His conduct made him unfit to act as director of a company. </I><B>| consider sb/sth, declare sb/sth, deem sb/sth, find sb/sth </B><I>The house was declared quite unfit for human habitation. </I> </P>
+<P> <U> ADV. </U><B> completely, quite, totally, wholly | medically, mentally, physically </B> </P>
+<P> <U> PREP. </U><B> for </B><I>completely unfit for our purposes She was found unfit for work. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not in good physical health </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem | become </B> </P>
+<P> <U> ADV. </U><B> very | completely, quite | slightly</B> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>discretion </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> freedom to make decisions </TT> </P>
+<P> <U> ADJ. </U><B> considerable, full, greater, more, wide | absolute, complete, unfettered </B><I>The school governors have absolute discretion over which pupils they admit. </I><B>| executive, judicial, management/managerial, personal, professional </B><I>The president used his executive discretion to pardon the two men. </I> </P>
+<P> <U> VERB + DISCRETION </U><B> exercise, have, use </B><I>The police exercise discretion in the area of minor traffic offences. </I><B>| give sb </B><I>They would like local authorities to be given greater discretion as to how the money is spent. </I><B>| leave sth to </B><I>&lsquo;Do you want me to do the job myself or hire a photographer?&rsquo; &lsquo;I leave it to your discretion.&rsquo; </I> </P>
+<P> <U> PREP. </U><B> at sb's ~ </B><I>Bail is granted at the discretion of the court. There is no service charge and tipping is at your discretion. </I><B>| ~ about </B><I>We have discretion about how much to charge. </I><B>| ~ as to </B><I>She has considerable discretion as to how the money is spent. </I><B>| ~ over </B><I>giving judges more discretion over sentencing </I> </P>
+<P> <U> PHRASES </U><B> the exercise/operation of discretion </B> </P>
+<P> <SUP> 2 </SUP> <TT> being discreet </TT> </P>
+<P> <U> ADJ. </U><B> great, the utmost </B> </P>
+<P> <U> VERB + DISCRETION </U><B> call for, need, require </B><I>This case calls for the utmost discretion. </I><B>| rely on </B><I>This is confidential, but I know that I can rely on your discretion. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>to conduct enquiries with discretion. </I> </P>
+<P> <U> PHRASES </U><B> a lack of discretion, a need for discretion</B> </P>
+</DIV>

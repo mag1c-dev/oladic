@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>plot </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> plan </TT> </P>
+<P> <U> ADJ. </U><B> fiendish | alleged | assassination, blackmail, coup, death, murder </B> </P>
+<P> <U> VERB + PLOT </U><B> hatch | uncover | foil </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>They had taken part in a Jacobite plot against William III. </I><B>| ~ by </B><I>The police claim to have uncovered a plot by terrorists to assassinate the president. </I> </P>
+<P> <SUP> 2 </SUP> <TT> events in a story </TT> </P>
+<P> <U> ADJ. </U><B> simple | complex, complicated </B> </P>
+<P> <U> VERB + PLOT </U><B> construct </B><I>She has constructed a complicated plot, with a large cast of characters. </I> </P>
+<P> <U> PLOT + VERB </U><B> develop, unfold </B> </P>
+<P> <U> PLOT + NOUN </U><B> development </B> </P>
+<P> <U> PHRASES </U><B> a twist in/of the plot </B><I>There are several unexpected twists in the plot before the murderer is revealed. </I> </P>
+<P> <SUP> 3 </SUP> <TT> piece of land </TT> </P>
+<P> <U> ADJ. </U><B> garden, vegetable | farm, subsistence | building | burial | small | 10-acre, 12-acre, etc. </B><I>They own a five-acre plot of land. </I><B>| family, private </B> </P>
+<P> <U> VERB + PLOT </U><B> work </B> </P>
+<P> <U> PLOT + VERB </U><B> measure sth </B><I>The plots each measure 10 metres by 20 metres. </I> </P>
+<P> <U> PHRASES </U><B> a plot of land</B> </P>
+</DIV><DIV class="item"><P class="word"><B>plot </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make secret plans </TT> </P>
+<P> <U> ADV. </U><B> allegedly | secretly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>He was arrested on suspicion of plotting against the king. </I><B>| with </B><I>Taylor plotted with his daughter to murder her husband. </I> </P>
+<P> <U> PHRASES </U><B> accuse/suspect sb of plotting sth </B> </P>
+<P> <SUP> 2 </SUP> <TT> mark sth on a chart </TT> </P>
+<P> <U> ADV. </U><B> accurately </B><I>The positions of the archaeological finds are accurately plotted. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>Greenhouse temperature can be plotted against plant growth. </I><B>| on </B><I>plotting the figures on a graph </I> </P>
+</DIV>

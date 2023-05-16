@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>qualification </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> skill/knowledge needed for a job, etc. </TT> </P>
+<P> <U> ADJ. </U><B> formal, paper, recognized | basic, minimum | entry | further | appropriate, necessary | special, specialist | management, professional, vocational | academic, educational, postgraduate | technical | legal, medical, secretarial, teaching, etc. </B> </P>
+<P> <U> VERB + QUALIFICATION </U><B> acquire, gain, obtain | have, hold </B><I>Only two of the applicants had the necessary qualifications. </I> </P>
+<P> <U> QUALIFICATION + NOUN </U><B> course, programme </B><I>a qualification programme in business management </I><B>| period </B><I>The job usually has a three-year qualification period. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>the minimum entry qualification for admission </I><B>| ~ in </B><I>He held no formal qualification in law. </I> </P>
+<P> <SUP> 2 </SUP> <TT> weakening of a statement </TT> </P>
+<P> <U> ADJ. </U><B> important </B> </P>
+<P> <U> VERB + QUALIFICATION </U><B> add | need, require </B><I>The term &lsquo;population&rsquo; as used here requires qualification. </I> </P>
+<P> <U> PREP. </U><B> with ~s </B><I>I agree with his view, with a few qualifications. </I><B>| without ~ </B><I>The committee supported her proposal, without qualification. </I> </P>
+</DIV>

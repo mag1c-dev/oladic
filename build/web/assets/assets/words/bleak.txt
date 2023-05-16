@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>bleak </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> without hope </TT> </P>
+<P> <U> VERBS </U><B> appear, be, look, seem | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>Prospects for the industry are extremely bleak. </I><B>| increasingly | unnecessarily </B><I>The report paints an unnecessarily bleak picture of the town. </I> </P>
+<P> <SUP> 2 </SUP> <TT> bare/empty/without pleasant features </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem </B><I>The moors looked bleak and desolate in the rain. </I><B>| become </B> </P>
+<P> <U> ADV. </U><B> very | a bit, rather </B><I>It was a rather bleak and dismal place. </I> </P>
+</DIV>

@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>plain </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> simple/not decorated </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, completely </B><I>The dress was absolutely plain, but quite stunning. </I><B>| fairly, quite, rather </B><I>The food was fairly plain, but well cooked. </I> </P>
+<P> <U> PHRASES </U><B> plain blue, white, etc. </B><I>a plain white shirt </I> </P>
+<P> <SUP> 2 </SUP> <TT> not beautiful </TT> </P>
+<P> <U> VERBS </U><B> be, look </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>She looked very plain and dowdy. </I><B>| rather </B><I>a rather plain woman </I> </P>
+<P> <SUP> 3 </SUP> <TT> clear </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | make sth </B><I>They made it plain that they were against the idea. </I> </P>
+<P> <U> ADV. </U><B> very | absolutely, perfectly, quite </B><I>Within weeks, it became perfectly plain that we were in the grip of a tyrant. </I><B>| increasingly | fairly, pretty, reasonably </B> </P>
+<P> <U> PREP. </U><B> to </B><I>It is all quite plain to me. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>plain </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> open </B><I>The horses galloped across the open plains. </I><B>| rolling, sweeping </B><I>miles of rolling plain, made fertile by the river </I><B>| great, unbroken, vast | flat | fertile </B><I>fertile plains suitable for farming </I><B>| grassy | coastal </B> </P>
+<P> <U> PREP. </U><B> across a/the ~ </B><I>Cattle move freely across the grassy plain. </I><B>| in a/the ~ </B><I>the Olduvai Gorge in the vast plain of Tanzania </I><B>| on a/the ~ </B><I>Nothing grew on the plain. </I> </P>
+</DIV>

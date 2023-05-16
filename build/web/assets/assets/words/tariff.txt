@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tariff </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high, low | preferential, protective, punitive </B><I>British industry was sheltered from foreign competition by protective tariffs. </I><B>| external | domestic, internal | import | customs </B> </P>
+<P> <U> QUANT. </U><B> level </B><I>a 40% level of tariffs on imports </I> </P>
+<P> <U> VERB + TARIFF </U><B> fix, set </B><I>The agreement fixed tariffs for foreign goods coming into Japan at 5%. </I><B>| impose, introduce, levy </B><I>The US could impose punitive tariffs of up to 100% on some countries' exports. </I><B>| pay | increase, raise | cut, lower, reduce | abolish, eliminate </B> </P>
+<P> <U> TARIFF + NOUN </U><B> reduction, reform | structure, system | level, rate | barrier </B><I>the aim of removing all tariff barriers by the year 2003 </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>They set a tariff of 36% on British wool cloth. </I> </P>
+<P> <U> PHRASES </U><B> a reduction in tariff/tariffs</B> </P>
+</DIV>

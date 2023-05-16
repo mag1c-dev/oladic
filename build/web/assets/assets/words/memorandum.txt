@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>memorandum </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> internal | confidential, private, secret | brief | detailed | explanatory, factual </B> </P>
+<P> <U> QUANT. </U><B> copy </B> </P>
+<P> <U> VERB + MEMORANDUM </U><B> draft, draw up, prepare, write | issue, send, submit | sign | date </B><I>The memorandum was dated 23 August, 2001. </I><B>| leak </B> </P>
+<P> <U> MEMORANDUM + VERB </U><B> set sth out </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>Refer to the terms set out in the company's memorandum. </I><B>| ~ from, ~ of </B><I>your memorandum of 18 February, 2001 </I><B>| ~ on, ~ to</B> </P>
+</DIV>

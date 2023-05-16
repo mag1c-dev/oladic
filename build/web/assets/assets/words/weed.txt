@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>weed </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> annual, perennial | aquatic, pond, water </B> </P>
+<P> <U> VERB + WEED </U><B> kill | clear, pull up, remove | control, keep down, keep under control </B><I>Routine maintenance of the garden consists of keeping weeds under control. </I> </P>
+<P> <U> VERB + WEED </U><B> grow, spread | push up, spring up </B><I>There were weeds pushing up through the gravel. </I> </P>
+<P> <U> WEED + NOUN </U><B> control | killer (also weedkiller) | growth | seed, seedling</B> </P>
+</DIV>

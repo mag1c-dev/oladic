@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>sheep </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hill | lost, stray </B><I>the doleful cries of lost sheep </I> </P>
+<P> <U> QUANT. </U><B> flock, herd </B> </P>
+<P> <U> VERB + SHEEP </U><B> farm, keep, raise, rear </B><I>My grandfather used to raise sheep in Wales. </I><B>| tend | slaughter | shear | drive, herd, round up, shepherd </B><I>The dogs herded the sheep into the pen. </I> </P>
+<P> <U> SHEEP + VERB </U><B> graze </B><I>There were a lot of sheep grazing high up on the mountain. </I><B>| bleat, (go) baa | lamb </B><I>It's nearly the sheep's lambing time. </I> </P>
+<P> <U> SHEEP + NOUN </U><B> farm, station </B><I>a 4,000-acre sheep station in New South Wales </I><B>| farmer | farming, industry | dip | dog (also sheepdog) | flock | pasture | shearing </B> </P>
+<P> <U> PHRASES </U><B> a breed of sheep</B> </P>
+</DIV>

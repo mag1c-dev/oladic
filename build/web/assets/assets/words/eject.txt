@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>eject </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> push/send sth out </TT> </P>
+<P> <U> ADV. </U><B> forcibly | summarily </B><I>They were summarily ejected by the security guard. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>He was forcibly ejected from the restaurant. </I> </P>
+<P> <SUP> 2 </SUP> <TT> make an emergency exit </TT> </P>
+<P> <U> ADV. </U><B> safely </B> </P>
+<P> <U> PREP. </U><B> from </B><I>All the crew members ejected safely from the plane. </I> </P>
+</DIV>

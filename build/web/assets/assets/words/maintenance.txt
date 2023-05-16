@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>maintenance </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> keeping sth in good condition </TT> </P>
+<P> <U> ADJ. </U><B> annual, regular, routine | long-term, ongoing | proper | essential </B><I>The power station has been shut down for essential maintenance. </I><B>| preventative | careful | easy </B><I>The engine is designed for easy maintenance. </I><B>| low, minimal </B><I>This type of garden requires minimal maintenance. </I><B>| on-site | aircraft, car, machine, etc. </B> </P>
+<P> <U> VERB + MAINTENANCE </U><B> carry out </B><I>We carry out routine maintenance of the equipment. </I><B>| need, require </B> </P>
+<P> <U> MAINTENANCE + NOUN </U><B> engineer, crew, man, staff, team | bill, costs | contract | service </B><I>We provide a maintenance service on all our products. </I><B>| programme | work </B> </P>
+<P> <SUP> 2 </SUP> <TT> money paid to support sb </TT> </P>
+<P> <U> ADJ. </U><B> child </B> </P>
+<P> <U> VERB + MAINTENANCE </U><B> pay | claim </B> </P>
+<P> <U> MAINTENANCE + NOUN </U><B> payments | arrears </B><I>He was jailed for failing to pay maintenance arrears. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>He pays </I>&pound;</B><I>1,000 a month in child maintenance. </I> </P>
+</DIV>

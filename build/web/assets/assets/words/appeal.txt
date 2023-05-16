@@ -1,0 +1,34 @@
+
+<DIV class="item"><P class="word"><B>appeal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> serious request for sth you </B>need/want very much </B> </TT> </P>
+<P> <U> ADJ. </U><B> desperate, emergency, emotional, urgent | direct | fresh, further </B><I>a fresh appeal for witnesses to come forward </I><B>| mute  </B><I>She gazed at him in mute appeal. </I> </B> </P>
+<P> <U> VERB + APPEAL </U><B> issue, make </B><I>They made a direct appeal to the government for funding. </I> </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>an appeal for help </I><B>| ~ to </B><I>an appeal to reason </I> </P>
+<P> <SUP> 2 </SUP> <TT> formal request to sb in authority </TT> </P>
+<P> <U> ADJ. </U><B> formal, personal </B> </P>
+<P> <U> VERB + APPEAL </U><B> bring, file, lodge, make </B><I>He's lodged an appeal against the size of the fine. </I><B>| win | lose | allow </B><I>(formal)</I>, <B>consider, hear </B><I>The judge has agreed to allow his appeal. The court will hear the appeal on 10 June. </I><B>| uphold </B><I>His appeal was upheld and he was released immediately. </I><B>| deny, dismiss, reject, throw out, turn down </B> </P>
+<P> <U> APPEAL + VERB </U><B> fail | succeed </B> </P>
+<P> <U> APPEAL + NOUN </U><B> court, tribunal | hearing | judge | procedure, process, system </B> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>On appeal, it was held that the judge was correct. </I><B>| under ~ </B><I>a case currently under appeal </I><B>| ~ against </B><I>an appeal against his conviction of fraud </I><B>| ~ for </B><I>an appeal for leniency </I><B>| ~ to </B><I>an appeal to the High Court </I> </P>
+<P> <U> PHRASES </U><B> a court of appeal, give/grant sb leave to appeal, grounds of appeal, pending appeal </B><I>The players have been suspended pending appeal. </I><B>| a right of appeal </B><I>You have the right of appeal to the Consitutional Court. </I> </P>
+<P> <SUP> 3 </SUP> <TT> event for raising money </TT> </P>
+<P> <U> ADJ. </U><B> charity, fund-raising | radio, television </B> </P>
+<P> <U> VERB + APPEAL </U><B> hold, launch </B><I>An appeal is to be launched on behalf of the refugees. </I><B>| back, support </B> </P>
+<P> <U> APPEAL + VERB </U><B> raise sth </B><I>The radio appeal raised over three million pounds. </I> </P>
+<P> <U> APPEAL + NOUN </U><B> fund </B> </P>
+<P> <SUP> 4 </SUP> <TT> attraction/interest </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, growing, obvious, powerful, special, strong | immediate, instant </B><I>the book's immediate apeal to young children </I><B>| limited, little | broad, mass, popular, universal, wide </B><I>a publication designed for mass appeal </I><B>| aesthetic, commercial, electoral, intellectual, sex, visual </B><I>Unfortunately, the film lacks commercial appeal. </I> </P>
+<P> <U> VERB + APPEAL </U><B> have, hold </B><I>His views hold no appeal for me. </I><B>| broaden, extend, widen </B><I>We are trying to broaden the appeal of classical music. </I><B>| lose </B> </P>
+<P> <U> APPEAL + VERB </U><B> lie in sth </B><I>His considerable appeal lies in his quiet, gentle manner. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>School lost its appeal for her in the second year. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>appeal </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> make serious request for sth </TT> </P>
+<P> <U> ADV. </U><B> directly </B><I>He went over the heads of union officials, appealing directly to the workforce. </I> </P>
+<P> <U> PREP. </U><B> for, to </B><I>Police have appealed to the public for information about the crime. </I> </P>
+<P> <SUP> 2 </SUP> <TT> to sb in authority </TT> </P>
+<P> <U> ADV. </U><B> succesfully, unsuccessfully | directly </B> </P>
+<P> <U> PREP. </U><B> against </B><I>She appealed unsuccessfully against her conviction for murder. </I><B>| to </B><I>He has decided to appeal to the European Court. </I> </P>
+<P> <SUP> 3 </SUP> <TT> be attractive/interesting to sb </TT> </P>
+<P> <U> ADV. </U><B> enormously, really, strongly </B><I>The prospect of teaching such bright children appealed enormously. The idea of retiring early really appeals to me. </I><B>| directly </B> </P>
+<P> <U> PREP. </U><B> to </B><I>These characters will appeal directly to children's imaginations. </I> </P>
+</DIV>

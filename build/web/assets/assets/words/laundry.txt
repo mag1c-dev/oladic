@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>laundry </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> clean, dirty </B> </P>
+<P> <U> QUANT. </U><B> bundle, pile </B><I>There was a pile of clean laundry on her bed. </I> </P>
+<P> <U> VERB + LAUNDRY </U><B> do </B><I>The housekeeper cooks, does the laundry and cleans. </I> </P>
+<P> <U> LAUNDRY + NOUN </U><B> bag, basket | service </B><I>The hotel offers a free laundry service. </I> </P>
+</DIV>

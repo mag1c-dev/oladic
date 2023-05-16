@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>throat </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> front part of the neck </TT> </P>
+<P> <U> VERB + THROAT </U><B> cut, slash, slit </B> </P>
+<P> <U> PREP. </U><B> by the ~ </B><I>She seized her attacker by the throat. </I> </P>
+<P> <SUP> 2 </SUP> <TT> passage down which air and food pass </TT> </P>
+<P> <U> ADJ. </U><B> bad, infected, sore | dry </B> </P>
+<P> <U> VERB + THROAT </U><B> clear </B><I>She cleared her throat, then began to speak. </I> </P>
+<P> <U> THROAT + VERB </U><B> ache, hurt | close (up), constrict, seize up, tighten </B><I>His throat constricted with fear when he saw the knife. </I><B>| dry, go dry </B> </P>
+<P> <U> THROAT + NOUN </U><B> infection | lozenge, pastille </B> </P>
+<P> <U> PREP. </U><B> down the/your ~ </B><I>She felt the cold water trickle down her throat. </I> </P>
+<P> <U> PHRASES </U><B> the back of your throat </B><I>The medicine left a sour taste in the back of my throat. </I><B>| a lump in your throat </B><I>He felt a lump in his throat, and tears forming in his eyes. </I> </P>
+</DIV>

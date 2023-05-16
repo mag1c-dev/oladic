@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>shoot </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> new part of a plant </TT> </P>
+<P> <U> ADJ. </U><B> fresh, green, new, tender, young | flowering | lateral, side | bamboo </B> </P>
+<P> <U> VERB + SHOOT </U><B> have </B><I>This plant hasn't got any shoots yet. </I><B>| develop, produce, put out, send out </B><I>These shrubs will need more light to produce flowering shoots. </I> </P>
+<P> <U> SHOOT + VERB </U><B> appear, come up, develop, emerge, grow, sport </B><I>Keep the bulbs in a cool dark place until shoots appear. </I> </P>
+<P> <SUP> 2 </SUP> <TT> occasion when you photograph sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> fashion, film, photo, photographic, video </B><I>a five-day photo shoot in Cyprus </I><B>| location </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>He goes out on shoots with very little equipment. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>shoot </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> straight </B><I>She practised for days until she could shoot straight. </I><B>| accidentally </B><I>He accidentally shot himself in the foot. </I><B>| fatally </B><I>Four policemen were fatally shot in the incident. </I><B>| summarily </B><I>If caught, the men could be summarily shot as spies. </I><B>| back </B><I>If they shoot, we shoot back. </I> </P>
+<P> <U> VERB + SHOOT </U><B> want to | threaten to | be going to </B><I>I thought for a moment that he was going to shoot. </I><B>| try to </B> </P>
+<P> <U> PREP. </U><B> at </B><I>soldiers shooting at a target </I><B>| with </B><I>She was shot with a small automatic pistol. </I> </P>
+<P> <U> PHRASES </U><B> shoot (sb) on sight </B><I>Any intruders will be shot on sight. </I><B>| shoot sb dead </B><I>The police shot him dead. </I><B>| shoot sb in the arm, leg, chest, etc., shoot to kill </B><I>The soldiers were told to shoot to kill. </I> </P>
+</DIV>

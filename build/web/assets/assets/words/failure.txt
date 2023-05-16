@@ -1,0 +1,21 @@
+
+<DIV class="item"><P class="word"><B>failure </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> lack of success </TT> </P>
+<P> <U> ADJ. </U><B> complete, total | abject, humiliating, ignominious </B><I>The attempt ended in abject failure. </I><B>| inevitable | costly | alleged, apparent, perceived | evident | comparative, relative | initial </B><I>Initial failure was followed by unexpected, if modest, success. </I><B>| ultimate </B><I>War is the ultimate failure of public communication. </I><B>| personal | moral | academic | economic, financial | military </B> </P>
+<P> <U> VERB + FAILURE </U><B> be doomed to, end in, result in </B><I>All her efforts were doomed to failure. </I><B>| admit, confess </B><I>He was too proud to admit failure. </I><B>| expect </B><I>Children who are doing badly tend to expect failure and criticism. </I><B>| fear | avoid </B> </P>
+<P> <U> FAILURE + NOUN </U><B> rate </B><I>There is a high failure rate with this treatment. </I> </P>
+<P> <U> PHRASES </U><B> fear of failure </B><I>Fear of failure should not deter you from trying. </I><B>| a history of failure </B><I>John had a long history of academic failure. </I><B>| a possibility/risk of failure, a sense of failure </B> </P>
+<P> <SUP> 2 </SUP> <TT> unsuccessful person/thing </TT> </P>
+<P> <U> ADJ. </U><B> great, serious | complete, total, utter | catastrophic, disastrous | abject, conspicuous, dismal, humiliating, ignominious, lamentable, miserable | costly | heroic </B><I>Her ideas were large: if she could not succeed, she would at least be a heroic failure. </I><B>| alleged, apparent, perceived | evident | comparative, relative | past </B><I>to learn from past failures </I><B>| rare </B><I>The film was one of the rare failures in his career. </I><B>| unexpected | personal | collective | moral | academic | economic, financial </B><I>economic failure and increasing unemployment </I><B>| military </B> </P>
+<P> <U> VERB + FAILURE </U><B> be, represent | prove </B><I>The venture proved a costly failure. </I><B>| feel </B><I>I felt a complete failure. </I><B>| consider sb/sth, regard sb/sth as | brand sb/sth, pronounce sb/sth </B><I>Her parents had long since branded her a failure. </I> </P>
+<P> <U> FAILURE + VERB </U><B> arise from sth </B><I>failures arising from circumstances beyond your control </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>The decision to withdraw funding represents a failure of imagination. </I> </P>
+<P> <SUP> 3 </SUP> <TT> not doing sth </TT> </P>
+<P> <U> ADJ. </U><B> fundamental | general | manifest | consistent, constant, continued/continuing, persistent, repeated | government, management </B><I>government failure to listen to the voice of the electorate </I> </P>
+<P> <U> VERB + FAILURE </U><B> excuse, justify </B><I>seeking to excuse his failure to ask her permission </I> </P>
+<P> <SUP> 4 </SUP> <TT> of a machine/system/part of the body, etc. </TT> </P>
+<P> <U> ADJ. </U><B> battery, brake, component, computer, engine, equipment, mechanical, power, system, technical | bank, business, commercial, company, corporate, market </B><I>Business failures rose by 30% in 2001. </I><B>| brain, heart, kidney, liver | crop, harvest | communication </B> </P>
+<P> <U> VERB + FAILURE </U><B> cause, lead to, result in </B><I>a rare viral infection that can lead to heart failure </I> </P>
+<P> <U> FAILURE + VERB </U><B> occur </B><I>A power failure occurred between 4 and 5 p.m. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>a failure in the computer system </I> </P>
+</DIV>

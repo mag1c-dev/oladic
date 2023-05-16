@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>shy </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound </B><I>Please don't be shy?I won't eat you! </I><B>| become, get, go, grow </B> </P>
+<P> <U> ADV. </U><B> desperately, excessively, extremely, painfully, terribly, very </B><I>As a teenager I was painfully shy. </I><B>| all </B><I>She went all shy and hid behind her mother. </I><B>| almost | a bit, fairly, a little, quite, rather, slightly, somewhat | naturally </B><I>He is a naturally shy, retiring man. </I><B>| chronically </B> </P>
+<P> <U> PREP. </U><B> of </B><I>I was a bit shy of them at first. </I><B>| with </B><I>You don't have to be shy with me, you know. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>shy </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> violently </B> </P>
+<P> <U> PREP. </U><B> at </B><I>Her horse shied violently at a gorse bush. </I> </P>
+</DIV>

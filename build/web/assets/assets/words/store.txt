@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>store </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> shop </TT> </P>
+<P> <U> ADJ. </U><B> big, large, major | small | retail | department | self-service | high-street, local, village | chain | discount | convenience, corner, general | electrical, grocery, hardware, etc. </B> </P>
+<P> <U> QUANT. </U><B> chain </B> </P>
+<P> <U> STORE + VERB </U><B> sell sth </B> </P>
+<P> <U> STORE + NOUN </U><B> chain | account, card | assistant, manager, owner | detective </B> </P>
+<P> <U> PREP. </U><B> at/in a/the ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> supply for future use </TT> </P>
+<P> <U> ADJ. </U><B> considerable, good, great, inexhaustible, large, vast | small | food | fat </B><I>your body's fat stores </I> </P>
+<P> <U> VERB + STORE </U><B> have, keep | build up </B> </P>
+<P> <U> STORE + NOUN </U><B> cupboard, room (also storeroom) </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a vast store of knowledge </I> </P>
+<P> <SUP> 3 </SUP> <TT> place for keeping sth </TT> </P>
+<P> <U> ADJ. </U><B> cold, cool, dry </B><I>Beef and lamb are hung in a cold store for at least a week. </I><B>| temporary | ammunition, equipment, grain, etc. </B> </P>
+<P> <U> STORE + VERB </U><B> hold sth </B><I>The grain store holds several thousand tonnes. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>You'll find a ladder in the equipment store. </I><B>| ~ for </B><I>We're using the shed as a temporary store for all our stuff. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>store </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully, properly, safely </B><I>The paintings were carefully stored in crates dependent on their size. </I><B>| conveniently, easily </B><I>Butane can be conveniently stored as a liquid in a can. </I><B>| electronically </B><I>electronically stored information </I><B>| separately | together | away, up</B> </P>
+</DIV>

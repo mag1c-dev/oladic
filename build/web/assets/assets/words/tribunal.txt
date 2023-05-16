@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>tribunal </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> independent | international, local, village | higher, inferior | industrial, military, transport, war crimes | appeal/appeals, appellate, arbitral, arbitration, complaints, disciplinary, judicial </B> </P>
+<P> <U> VERB + TRIBUNAL </U><B> set up </B><I>A war crimes tribunal was set up to prosecute those charged with atrocities. </I><B>| go to </B><I>The dismissed workers decided to go to a tribunal. </I><B>| apply to | refer sth to </B><I>The case was referred to an industrial tribunal. </I><B>| appear before/at | tell </B><I>She told the tribunal that she was a victim of sex discrimination. </I> </P>
+<P> <U> TRIBUNAL + VERB </U><B> be in session, hold a session </B><I>The tribunal held its first session later that month. </I><B>| hear sth | conclude sth, decide sth, find sth </B><I>The tribunal found for her employers </I>(= judged that they were right)</B><I>. </I><B>| settle sth </B><I>The dispute was settled by a tribunal. </I><B>| order sth, rule sth | dismiss sth </B> </P>
+<P> <U> TRIBUNAL + NOUN </U><B> decision | hearing | procedure, proceedings | representation | chairman, member </B> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>The police gave evidence at the tribunal. </I><B>| before a/the ~ </B><I>No legal aid was available to cover representation before tribunals. </I><B>| by ~ </B><I>The fee for the player will be decided by tribunal. </I> </P>
+</DIV>

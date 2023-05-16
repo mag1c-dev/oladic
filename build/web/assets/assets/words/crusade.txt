@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>crusade </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great | moral, personal </B> </P>
+<P> <U> VERB + CRUSADE </U><B> embark on, launch, mount </B><I>The charity tonight launched its great crusade against homelessness. </I><B>| be engaged in, carry out, conduct, join </B><I>She seems to be carrying out a personal crusade to stop this building work. </I><B>| lead </B> </P>
+<P> <U> PREP. </U><B> on a ~ </B><I>He is on a crusade to take the church to the people. </I><B>| ~ against </B><I>urging parents to join a crusade against crime </I><B>| ~ for </B><I>For 23 years he led a crusade for peace. </I> </P>
+</DIV>

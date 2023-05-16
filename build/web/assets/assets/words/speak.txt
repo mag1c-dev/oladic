@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>speak </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> have a conversation </TT> </P>
+<P> <U> ADV. </U><B> briefly </B><I>We spoke briefly on the phone. </I><B>| at length | hardly </B><I>Ben hardly spoke to me all evening. </I> </P>
+<P> <U> VERB + SPEAK </U><B> want to | refuse to </B><I>The president refused to speak to the waiting journalists. </I><B>| dare (to) </B><I>No one had ever dared speak to him like that before. </I> </P>
+<P> <U> PREP. </U><B> about, to </B><I>I need to speak to Joseph about this matter. </I><B>| with </B><I>Can I speak with you for a minute? </I> </P>
+<P> <U> PHRASES </U><B> be on speaking terms (with sb) </B><I>We are still on speaking terms after the argument. </I><B>| not be speaking (to sb) </B><I>Ed and Dave aren't speaking at the moment. </I> </P>
+<P> <SUP> 2 </SUP> <TT> use your voice to say sth </TT> </P>
+<P> <U> ADV. </U><B> loudly | quietly, softly | clearly </B><I>You must speak loudly and clearly on the stage. </I><B>| slowly | calmly | brusquely, sharply | briefly | at length | suddenly | hardly | eloquently, movingly </B><I>She spoke eloquently about the need for action. </I><B>| lovingly, warmly | disparagingly, harshly | encouragingly, soothingly | authoritatively, forcefully | earnestly | coherently, intelligibly, meaningfully | absently | freely, openly | boldly | hesitantly | out </B> </P>
+<P> <U> VERB + SPEAK </U><B> be able/unable to, can/could (hardly) </B><I>She was so moved she could hardly speak. </I><B>| begin to, open your mouth to </B><I>She opened her mouth to speak and found she couldn't. </I><B>| try to | dare not, not trust yourself to </B><I>He nodded, not trusting himself to speak. </I><B>| hear sb </B><I>I heard him speak at the debating society. </I> </P>
+<P> <U> PREP. </U><B> about, against </B><I>He spoke out against mismanagement. </I><B>| for </B><I>I speak for all my colleagues. </I><B>| in favour of </B><I>She spoke in favour of the new tax. </I><B>| on </B><I>She speaks on women's issues. </I><B>| on behalf of </B><I>I speak on behalf of many thousands of women. </I><B>| of </B><I>He speaks very warmly of you. </I><B>| to </B><I>He will be speaking to history students about the causes of war. </I> </P>
+<P> <SUP> 3 </SUP> <TT> know a language </TT> </P>
+<P> <U> ADV. </U><B> fluently, well </B><I>He speaks German fluently. </I> </P>
+<P> <U> VERB + SPEAK </U><B> be able/unable to, can/could | learn to </B><I>learning to speak a foreign language </I><B>| teach sb to </B> </P>
+<P> <U> PREP. </U><B> in </B><I>Would you prefer it if we spoke in French? </I> </P>
+</DIV>

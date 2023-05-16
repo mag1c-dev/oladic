@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>verse </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> humorous, light, satirical | blank, free, rhyming </B> </P>
+<P> <U> VERB + VERSE </U><B> compose, write </B> </P>
+<P> <U> VERSE + NOUN </U><B> form | drama </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>a play in verse </I> </P>
+</DIV>

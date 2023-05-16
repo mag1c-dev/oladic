@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>stop </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> stopping or staying </TT> </P>
+<P> <U> ADJ. </U><B> long | brief, short | overnight | abrupt, sharp, sudden | emergency | scheduled, unscheduled | coffee, fuel, lunch, refreshment, refuelling, toilet, etc. | pit </B><I>The cars made two pit stops during the race. </I> </P>
+<P> <U> VERB + STOP </U><B> bring/draw sth to, put </B><I>She brought the car to an abrupt stop. to put a stop to all the arguments </I><B>| come to, draw to, slow to </B><I>The truck came to a sudden stop. </I><B>| screech to | have, make </B><I>We had a lunch stop at Timperley. </I> </P>
+<P> <U> STOP + NOUN </U><B> sign </B> </P>
+<P> <U> PREP. </U><B> ~ at </B><I>There will be a stop at Canterbury. </I><B>| ~ for </B><I>a stop for refreshments </I> </P>
+<P> <U> PHRASES </U><B> come to a dead/full stop </B><I>Between twelve and two everything comes to a dead stop. </I> </P>
+<P> <SUP> 2 </SUP> <TT> for a bus, etc. </TT> </P>
+<P> <U> ADJ. </U><B> bus, tram | request </B> </P>
+<P> <U> VERB + STOP </U><B> get off at | miss </B><I>We were chatting and missed our stop. </I> </P>
+<P> <U> PREP. </U><B> at a/the ~ </B><I>We dropped the kids off at the bus stop. </I><B>| between ~s </B><I>You're not allowed to get off between stops. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>stop </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> abruptly, dead, (dead) in your tracks, immediately, short, suddenly </B><I>Suddenly he stopped dead: what was he doing? The question stopped Alice in her tracks. </I><B>| altogether </B><I>The sobs came less frequently, then stopped altogether. </I><B>| for a moment, momentarily | never </B><I>That phone never stops ringing! </I> </P>
+<P> <U> VERB + STOP </U><B> can/can't, could/couldn't </B><I>He couldn't stop thinking about her. </I><B>| try to | be going to </B><I>When is the violence going to stop? </I><B>| want (sb/sth) to </B><I>I was enjoying myself so much I didn't want to stop. </I> </P>
+<P> <U> PREP. </U><B> from </B><I>They tried to stop me from leaving. </I> </P>
+</DIV>

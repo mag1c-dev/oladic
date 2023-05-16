@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>nudge </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> gentle, little | affectionate </B> </P>
+<P> <U> VERB + NUDGE </U><B> give sb </B><I>She gave me a gentle nudge in the ribs to tell me to shut up. </I><B>| feel</B> </P>
+</DIV><DIV class="item"><P class="word"><B>nudge </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, playfully </B> </P>
+<P> <U> PHRASES </U><B> nudge sb in the ribs </B><I>She nudged him playfully in the ribs. </I> </P>
+</DIV>

@@ -1,0 +1,24 @@
+
+<DIV class="item"><P class="word"><B>weight </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> amount sth weighs </TT> </P>
+<P> <U> ADJ. </U><B> considerable, enormous, great, heavy, immense | light | gross, net | average, mean | sheer </B><I>(figurative) The sheer weight of visitors is destroying this tourist attraction. </I> </P>
+<P> <U> VERB + WEIGHT </U><B> bear, carry, support </B><I>The arch bears the weight of the bridge above. </I><B>| bend/buckle/collapse/crack/sag/shift/sink beneath/under, give way beneath/under </B><I>Many buildings collapsed under the weight of rain-soaked ash and mud. (figurative) He was buckling under the weight of his responsibilities. </I><B>| crush sb beneath/under | creak/groan beneath/under </B><I>She tried to be quiet, but the stairs creaked under her weight. </I><B>| stagger/strain beneath/under </B><I>The boy was staggering beneath the weight of a pile of boxes. </I> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>It is about 76 kilos in weight. </I> </P>
+<P> <SUP> 2 </SUP> <TT> weight of sb's body </TT> </P>
+<P> <U> ADJ. </U><B> low | ideal, right | excess, surplus | target </B><I>I should soon be down to my target weight of 70 kilos. </I><B>| body | birth </B><I>babies with a low birth weight </I> </P>
+<P> <U> VERB + WEIGHT </U><B> watch </B><I>I won't have any cake?I have to watch my weight. </I><B>| gain, put on | lose, reduce, shed </B><I>He's lost a lot of weight. </I><B>| keep down | bear, carry, hold, support, stand, take </B><I>I was worried that the branch wouldn't take my weight. </I><B>| put, rest </B><I>The doctor told me not to put my weight on this ankle for a month. </I><B>| shift, transfer </B><I>He nervously shifted his weight from foot to foot. </I><B>| distribute </B><I>Stand with your legs apart and your weight evenly distributed. </I><B>| hurl, throw </B><I>He threw his weight at the door and it burst open. </I> </P>
+<P> <U> WEIGHT + VERB </U><B> go up, increase | go down, decrease, drop, fall, plummet, plunge | fluctuate </B><I>People's body weight can fluctuate during the day. </I> </P>
+<P> <U> WEIGHT + NOUN </U><B> gain, loss | control | problem </B> </P>
+<P> <SUP> 3 </SUP> <TT> piece of metal </TT> </P>
+<P> <U> ADJ. </U><B> heavy, large | light </B> </P>
+<P> <U> VERB + WEIGHT </U><B> lift </B><I>She did circuit training and lifted weights to build her fitness. </I> </P>
+<P> <U> WEIGHT + NOUN </U><B> lifting, training </B> </P>
+<P> <U> PHRASES </U><B> weights and measures </B> </P>
+<P> <SUP> 4 </SUP> <TT> heavy object </TT> </P>
+<P> <U> ADJ. </U><B> heavy | dead </B><I>With difficulty she managed to pull his dead weight onto the bed. </I><B>| leaden </B><I>(figurative) A leaden weight lay on her heart as she waved him goodbye. </I> </P>
+<P> <U> VERB + WEIGHT </U><B> lift </B><I>Heavy weights should be lifted with a straight back. </I> </P>
+<P> <SUP> 5 </SUP> <TT> importance/influence of sth </TT> </P>
+<P> <U> ADJ. </U><B> due, sufficient </B><I>Environmental considerations were given due weight in making the decision. </I><B>| insufficient | considerable | sheer </B><I>How can you ignore the sheer weight of medical opinion? </I><B>| economic, financial, intellectual, political </B><I>America's economic weight </I> </P>
+<P> <U> VERB + WEIGHT </U><B> attach, give, place </B><I>They attach too much weight to academic achievement. </I><B>| carry </B><I>Her opinion seemed to carry little weight in the company. </I><B>| add, lend </B><I>The new evidence added considerable weight to the prosecution's case. Sir Leon lent his weight to the Tory campaign yesterday. </I> </P>
+<P> <U> PHRASES </U><B> put/throw your weight behind sth, weight of numbers </B><I>The rebels were defeated by sheer weight of numbers. </I> </P>
+</DIV>

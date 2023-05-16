@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>conviction </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> for a crime </TT> </P>
+<P> <U> ADJ. </U><B> earlier, previous | spent </B><I>You are not obliged to acknowledge spent convictions. </I><B>| successful | unsafe, wrongful </B><I>The men's convictions were declared unsafe. </I><B>| criminal | manslaughter,  murder, etc. </B> </P>
+<P> <U> VERB + CONVICTION </U><B> have </B><I>He has three previous criminal convictions. </I><B>| lead to </B><I>A reward is offered for information leading to the conviction of the attacker. </I><B>| obtain, secure </B><I>They need strong evidence to secure a conviction. </I><B>| escape </B><I>He believes that too many defendants are escaping conviction by claiming that they are insane. </I><B>| appeal against </B><I>He appealed against his conviction for murder. </I> <B>| overturn, quash | uphold </B> </P>
+<P> <U> CONVICTION + NOUN </U><B> rate </B><I>The conviction rate for rape is extremely low. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>an offence which carries, on conviction, a sentence of not more than five years' imprisonment </I><B>| ~ against </B><I>The appeal court overturned the conviction against her. </I><B>| ~ for </B><I>a conviction for murder </I> </P>
+<P> <U> PHRASES </U><B> the rate of conviction </B> </P>
+<P> <SUP> 2 </SUP> <TT> belief/appearance of belief </TT> </P>
+<P> <U> ADJ. </U><B> absolute, complete, total, unshakeable, utter | deep, deeply held, fervent, firm, fundamental, great, intense, passionate, real, strong </B><I>It is the firm conviction of the governors that this child should not be admitted to the school. There was no great conviction in his voice. </I><B>| growing | personal | inner | ideological, moral, political, religious | Catholic, Christian, etc. </B> </P>
+<P> <U> VERB + CONVICTION </U><B> have </B><I>She had this absolute conviction that what she liked others would like. </I><B>| share </B><I>The ex-leaders share a deep conviction that their views on world matters are still vitally important. </I><B>| express | shake </B><I>Nothing could shake her conviction that &lsquo;abroad&rsquo; was a dangerous place. </I><B>| strengthen | carry </B><I>Her explanation failed to carry conviction in the face of the facts. </I> <B>| lack </B><I>Her arguments lacked conviction. </I> </P>
+<P> <U> CONVICTION + NOUN </U><B> politics </B><I>The demise of consensus and the rise of conviction politics. </I> </P>
+<P> <U> PREP. </U><B> with/without ~ </B><I>&lsquo;Not true!&rsquo; she said with conviction. </I><B>| ~ about </B><I>He had a strong personal conviction about the power of the printed word. </I> </P>
+<P> <U> PHRASES </U><B> have the courage of your convictions </B>(= to be brave enough to do what you feel to be right)  </P>
+</DIV>

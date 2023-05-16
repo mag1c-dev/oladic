@@ -1,0 +1,22 @@
+
+<DIV class="item"><P class="word"><B>manoeuvre </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> skilful movement </TT> </P>
+<P> <U> ADJ. </U><B> complex, complicated | difficult | dangerous | clever, skilful </B> </P>
+<P> <U> QUANT. </U><B> series </B> </P>
+<P> <U> VERB + MANOEUVRE </U><B> carry out, execute, perform </B><I>The pilot has to carry out a series of complex manoeuvres. </I><B>| attempt | complete </B> </P>
+<P> <SUP> 2 </SUP> <TT> clever plan </TT> </P>
+<P> <U> ADJ. </U><B> successful | strategic, tactical </B><I>Her withdrawal from the contest was a tactical manoeuvre. </I><B>| diplomatic, political </B> </P>
+<P> <U> VERB + MANOEUVRE </U><B> carry out, execute </B> </P>
+<P> <U> MANOEUVRE + VERB </U><B> fail, succeed </B> </P>
+<P> <U> PREP. </U><B> by a/the ~ </B><I>By this manoeuvre, he hopes to gain an advantage at a later stage. </I> </P>
+<P> <U> PHRASES </U><B> freedom of manoeuvre </B><I>The economic conditions are restricting the Chancellor's freedom of manoeuvre. </I><B>| room for manoeuvre </B><I>The government has very little room for manoeuvre on this issue. </I> </P>
+<P> <SUP> 3 </SUP> <TT> military operation </TT> </P>
+<P> <U> ADJ. </U><B> military, strategic, tactical </B> </P>
+<P> <U> VERB + MANOEUVRE </U><B> carry out, conduct, execute, perform </B> </P>
+<P> <U> PHRASES </U><B> be/go on manoeuvres </B><I>The unit is on manoeuvres in southern Italy. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>manoeuvre </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> carefully | easily | expertly, skilfully </B> </P>
+<P> <U> VERB + MANOEUVRE </U><B> be difficult to, be easy to </B> </P>
+<P> <U> PREP. </U><B> around, past, through, etc. </B><I>He skilfully manoeuvred the motor boat past the rocks. </I> </P>
+<P> <U> PHRASES </U><B> manoeuvre (sth) into position, manoeuvre your way </B><I>(figurative) He had manoevred his way into a position of strength in the party. </I><B>| room to manoeuvre </B><I>The clutter of ships had little room to manoeuvre. </I> </P>
+</DIV>

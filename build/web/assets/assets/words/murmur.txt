@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>murmur </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sound of words that are spoken quietly </TT> </P>
+<P> <U> ADJ. </U><B> dull, faint, low, quiet, soft | general </B><I>a general murmur of assent </I><B>| angry </B> </P>
+<P> <U> VERB + MURMUR </U><B> give, let out </B><I>He gave a little murmur of relief. </I><B>| hear </B> </P>
+<P> <U> MURMUR + VERB </U><B> rise, run </B><I>A murmur of excitement rose from the audience. A murmur of amusement ran round the room. </I> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>She answered in a low murmur. </I><B>| with a ~ </B><I>He took the mug of coffee with a murmur of thanks. </I><B>| without a ~ </B><I>They did as they were told, without a murmur. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> the murmur of voices </B></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+<P> <SUP> 2 </SUP> <TT> low, gentle, continuous sound </TT> </P>
+<P> <U> ADJ. </U><B> soft | low | distant, far-off </B> </P>
+<P> <U> VERB + MURMUR </U><B> hear </B> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>the distant murmur of traffic </I> </P>
+</DIV><DIV class="item"><P class="word"><B>murmur </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> gently, quietly, softly, under your breath </B><I>&lsquo;What a fool I've been,&rsquo; he murmured softly. </I><B>| huskily, thickly, throatily | sleepily | shakily | apologetically, appreciatively, politely, soothingly, thoughtfully </B><I>&lsquo;Mmm, &rsquo; she murmured appreciatively. </I><B>| drily, ironically, sarcastically, sardonically, silkily, sweetly </B><I>(ironic)</I>, <B>wryly </B> </P>
+<P> <U> VERB + MURMUR </U><B> hear sb </B><I>She heard him murmur something under his breath. </I> </P>
+<P> <U> PREP. </U><B> to </B><I>He held her tight and murmured to her. </I> </P>
+</DIV>

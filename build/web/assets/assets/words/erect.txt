@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>erect </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> standing/sitting straight up </TT> </P>
+<P> <U> VERBS </U><B> be, sit, stand </B><I>He sat very erect, listening intently. </I><B>| hold sth </B><I>She held her head erect as she walked proudly up to the platform. </I> </P>
+<P> <U> ADV. </U><B> very </B> </P>
+<P> <SUP> 2 </SUP> <TT> stiff </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> completely, fully | stiffly</B> </P>
+</DIV><DIV class="item"><P class="word"><B>erect </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hastily, quickly | specially </B><I>The event will take place in a specially erected marquee. </I> </P>
+<P> <U> PHRASES </U><B> newly/recently erected </B><I>the newly erected station buildings </I> </P>
+</DIV>

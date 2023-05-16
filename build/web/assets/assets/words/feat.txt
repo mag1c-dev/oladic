@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>feat </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> amazing, astonishing, brilliant, extraordinary, incredible, remarkable | considerable, great | major | difficult, no mean </B><I>Dragging the fully laden boat across the sand dunes was no mean feat. </I><B>| easy | impossible | acrobatic, intellectual | engineering </B><I>The tunnel was one of the greatest engineering feats of the 19th century. </I> </P>
+<P> <U> VERB + FEAT </U><B> accomplish, achieve, bring off, perform, pull off </B><I>He has pulled off an extraordinary feat in completing the voyage single-handedly. </I><B>| be capable of </B><I>She was capable of remarkable feats of endurance. </I><B>| repeat | emulate </B><I>He emulated the feat of the legendary athlete Jesse Owens. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a remarkable feat of strength </I> </P>
+</DIV>

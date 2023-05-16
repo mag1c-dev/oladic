@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>mineral </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> essential, vital | trace | rare | industrial </B> </P>
+<P> <U> VERB + MINERAL </U><B> be rich in, contain </B><I>foods that are rich in essential minerals </I><B>| extract </B><I>to extract minerals from ores </I><B>| absorb </B> </P>
+<P> <U> MINERAL + VERB </U><B> be found in sth, be present in sth </B><I>calcium and other minerals found in your bones </I> </P>
+<P> <U> MINERAL + NOUN </U><B> deposits, resources, wealth | exploitation, exploration, extraction, working </B> </P>
+<P> <U> PHRASES </U><B> vitamins and minerals</B> </P>
+</DIV>

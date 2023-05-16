@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>brilliance </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> great, sheer | academic, intellectual, technical </B> </P>
+<P> <U> QUANT. </U><B> flash </B><I>There were flashes of brilliance from several of the players. </I> </P>
+<P> <U> PREP. </U><B> with ~ </B><I>He played with great brilliance. </I> </P>
+</DIV>

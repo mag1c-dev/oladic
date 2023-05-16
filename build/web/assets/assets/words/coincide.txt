@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>coincide </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> happen at the same time </TT> </P>
+<P> <U> ADV. </U><B> exactly </B><I>Her visit coincided exactly with a visit by the American president. </I><B>| roughly </B> </P>
+<P> <U> VERB + COINCIDE </U><B> be planned to, be timed to </B> </P>
+<P> <U> PREP. </U><B> with </B><I>The singer's arrival was timed to coincide with the opening of the festival. </I> </P>
+<P> <SUP> 2 </SUP> <TT> be the same </TT> </P>
+<P> <U> ADV. </U><B> closely | exactly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Our views on this issue coincide closely with yours. </I> </P>
+</DIV>

@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>lane </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> narrow road </TT> </P>
+<P> <U> ADJ. </U><B> little, narrow, single-track, small | quiet | bumpy, rough | dusty, muddy | twisting, winding | grassy, green, leafy | cobbled | country | back </B><I>Lighting is poor in the back lanes of the city. </I> </P>
+<P> <U> VERB + LANE </U><B> turn down/into </B> </P>
+<P> <U> LANE + VERB </U><B> go, lead, run </B><I>the lane leading to the village The lane runs past the the lake. </I> </P>
+<P> <U> PREP. </U><B> along a/the ~ </B><I>We cycled for miles along winding country lanes. </I><B>| down a/the ~, in a/the ~, up a/the ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> part of a wide road for one line of traffic </TT> </P>
+<P> <U> ADJ. </U><B> fast, slow | inside, left-hand, middle, outside, right-hand | overtaking | northbound, southbound, etc. | traffic | bus, cycle </B> </P>
+<P> <U> VERB + LANE </U><B> change, get in </B><I>I hate changing lanes on the motorway. Get in lane early when approaching a junction. </I><B>| keep in, stay in </B> </P>
+<P> <U> LANE + NOUN </U><B> closures, restrictions </B><I>Lane closures are causing hold-ups on the M6 near junction 2. </I> </P>
+<P> <U> PREP. </U><B> in (the) ~ </B><I>The bus was crawling along in the slow lane. </I> </P>
+</DIV>

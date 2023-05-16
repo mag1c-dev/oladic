@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>trading </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> busy, heavy, hectic, intensive </B><I>In heavy trading, the 100-share index closed down 38 points. </I><B>| quiet | free | fair, unfair </B><I>a code of practice for fair trading </I><B>| fraudulent, illegal, insider </B><I>a Wall Street dealer jailed for insider trading </I><B>| sole </B><I>Sole trading is where an individual carries on his or her own business. </I><B>| global, international, world | stock market | commodity, currency, equity, foreign exchange, share, stock | ivory </B> </P>
+<P> <U> TRADING + VERB </U><B> begin, open | close</B> </P>
+</DIV>

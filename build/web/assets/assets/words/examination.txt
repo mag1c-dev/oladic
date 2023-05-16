@@ -1,0 +1,14 @@
+
+<DIV class="item"><P class="word"><B>examination </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> exam </TT> </P>
+<P> <U> ADJ. </U><B> difficult, stiff </B><I>The stiff entrance examination removes 60 per cent of prospective students. </I><B>| easy | important | entrance, matriculation, selection | end of  term/year, final </B><I>He has just completed his final examinations at London University. </I><B>| professional, school | formal | competitive | external, public  </B><I>One of the teacher's principal duties is to prepare students for external examinations. </I><B>| A level, GCSE, etc. | mock | multiple choice, oral, practical, written, viva voce </B> </P>
+<P> <U> VERB + EXAMINATION </U><B> prepare for, revise for, study for | enter for </B><I>Students may enter for both examinations. </I><B>| do, sit, take </B><I>She will take her professional examinations later this year. </I><B>| resit, retake | do well in, pass | do badly in, fail | set </B><I>The examinations are set by individual teachers. </I><B>| administer, invigilate | mark </B> </P>
+<P> <U> EXAMINATION + NOUN </U><B> paper, question | syllabus | candidate | grades, marks, results | certificate | hall, room | fee | technique | success </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>He failed his examination in history. </I><B>| ~ on </B><I>an examination on human anatomy </I> </P>
+<P> <SUP> 2 </SUP> <TT> looking at sth carefully </TT> </P>
+<P> <U> ADJ. </U><B> careful, close, detailed, full, lengthy, rigorous, thorough </B><I>Each of the proposals deserves careful examination. </I><B>| brief, cursory, superficial | initial, preliminary | critical </B><I>The school curriculum has undergone critical examination in recent years. </I><B>| clinical, forensic, medical, physical, post-mortem, psychiatric, scientific </B> </P>
+<P> <U> VERB + EXAMINATION </U><B> carry out, conduct, do, make, perform </B><I>He carried out a post-mortem examination. We will make a more thorough examination of the area later. </I><B>| come under, have, be subject/subjected to, undergo </B><I>I was advised to have a full eyesight examination. </I><B>| stand up to </B><I>His ideas about social change do not stand up to close examination. </I> </P>
+<P> <U> EXAMINATION + VERB </U><B> reveal sth, show sth </B><I>A medical examination showed no signs of hypertension. </I> </P>
+<P> <U> EXAMINATION + NOUN </U><B> couch </B><I>She lay on the examination couch and waited for the doctor to return. </I> </P>
+<P> <U> PREP. </U><B> on ~ </B><I>On closer examination the wood was found to be rotten. </I><B>| under ~ </B><I>Several items of clothing are still under examination. </I><B>| ~ by </B><I>The school's controversial methods have come under examination by the local authority. </I> </P>
+</DIV>

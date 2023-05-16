@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>slump </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> world/worldwide | economic, housing, price, property, sales </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>The economy is in a slump. </I><B>| into ~ </B><I>The industry is sinking into slump. </I><B>| ~ in </B><I>Estate agents were badly hit by the slump in property prices. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>slump </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> decrease suddenly </TT> </P>
+<P> <U> ADV. </U><B> badly, disastrously, dramatically, heavily </B><I>Oil prices have slumped quite badly in recent months. </I> </P>
+<P> <U> PREP. </U><B> by </B><I>Profits slumped by 70 per cent. </I><B>| from, to </B><I>Shares in the company slumped from </I>&pound;</B><I>2.75 to </I> &pound;</B><I>1.54. </I> </P>
+<P> <SUP> 2 </SUP> <TT> fall/sit down suddenly and heavily </TT> </P>
+<P> <U> ADV. </U><B> a little | dejectedly | forward </B><I>sitting with her head slumped forward </I><B>| back, down </B> </P>
+<P> <U> PREP. </U><B> against </B><I>He slumped against the wall. </I><B>| in </B><I>She slumped back in her seat. </I><B>| into </B><I>He slumped down into a chair. </I><B>| over </B><I>She slumped dejectedly over the wheel. </I> </P>
+<P> <U> PHRASES </U><B> be found slumped &hellip; </B><I>He was found slumped in a pool of blood by security guards. </I><B>| lie/sit slumped &hellip;</B> </P>
+</DIV>

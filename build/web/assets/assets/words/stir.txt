@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>stir </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> action of stirring </TT> </P>
+<P> <U> ADJ. </U><B> good </B> </P>
+<P> <U> VERB + STIR </U><B> give sth </B><I>Give the mixture a good stir. </I> </P>
+<P> <SUP> 2 </SUP> <TT> general excitement or shock </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, real </B> </P>
+<P> <U> VERB + STIR </U><B> cause, create </B> </P>
+<P> <U> PREP. </U><B> ~ about/over </B><I>There was quite a stir about the book. </I><B>| ~ among/amongst </B><I>The discovery caused something of a stir among physicists. </I> </P>
+<P> <U> PHRASES </U><B> quite a/something of a stir</B> </P>
+</DIV><DIV class="item"><P class="word"><B>stir </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> move a liquid round and round </TT> </P>
+<P> <U> ADV. </U><B> thoroughly, well | carefully, gently | vigorously | gradually | all the time, constantly, continuously </B><I>Bring to the boil, stirring all the time. </I><B>| occasionally | in </B><I>Gradually stir in the beaten egg. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>Chop an onion and stir it into the sauce. </I> </P>
+<P> <SUP> 2 </SUP> <TT> move </TT> </P>
+<P> <U> ADV. </U><B> barely, hardly </B><I>The wind came in tiny puffs that hardly stirred the surface of the water. </I><B>| slightly | suddenly | restlessly </B><I>The students stirred restlessly in their seats. </I><B>| sleepily | uneasily </B> </P>
+<P> <U> PHRASES </U><B> stir in your sleep </B> </P>
+<P> <SUP> 3 </SUP> <TT> make sb feel an emotion </TT> </P>
+<P> <U> ADV. </U><B> deeply, greatly </B><I>It was not music to set hearts on fire or deeply stir the emotions. </I><B>| up </B><I>Going back there stirred up a lot of memories for her. </I> </P>
+</DIV>

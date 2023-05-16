@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>complex </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, look, seem, sound | become </B> </P>
+<P> <U> ADV. </U><B> enormously, especially, exceedingly, exceptionally, extraordinarily, extremely, highly, hugely, immensely, incredibly, infinitely, particularly, very </B><I>This is a highly complex matter. </I><B>| increasingly | fairly, quite, rather, relatively, somewhat | surprisingly | unnecessarily | technically </B><I>technically complex surgery </I> </P>
+</DIV><DIV class="item"><P class="word"><B>complex </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> set of buildings </TT> </P>
+<P> <U> ADJ. </U><B> huge, large, vast | conference, entertainment, factory, holiday, hospital, housing, industrial, leisure, museum, office, shopping, sports </B> </P>
+<P> <U> VERB + COMPLEX </U><B> build </B> </P>
+<P> <SUP> 2 </SUP> <TT> mental/emotional problem </TT> </P>
+<P> <U> ADJ. </U><B> real, terrible | inferiority, superiority | castration, guilt, Oedipus, persecution </B> </P>
+<P> <U> VERB + COMPLEX </U><B> have, suffer from | develop, get </B><I>Don't keep on at him about his handwriting or he'll get a complex. </I><B>| give sb </B> </P>
+<P> <U> PREP. </U><B> ~ about </B><I>She has a complex about her big ears. </I> </P>
+</DIV>

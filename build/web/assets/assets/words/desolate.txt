@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>desolate </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> empty and depressing </TT> </P>
+<P> <U> VERBS </U><B> be, seem, stand </B><I>The house stands desolate and empty. </I><B>| become | leave sth </B><I>The land was left desolate. </I> </P>
+<P> <U> ADV. </U><B> completely, quite </B><I>The landscape was quite desolate. </I><B>| rather </B><I>a rather desolate place </I> </P>
+<P> <SUP> 2 </SUP> <TT> very unhappy </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, sound </B><I>He looked as desolate as Ruth felt. </I><B>| become </B> </P>
+<P> <U> ADV. </U><B> quite, utterly </B><I>She was utterly desolate after losing her baby. </I><B>| a little </B><I>Her voice sounded a little desolate. </I> </P>
+</DIV>

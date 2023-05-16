@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>donation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> generous, handsome, large, substantial | small | company, corporate | personal, private | public </B><I>The project is funded by public donation. </I><B>| voluntary | charitable, political | cash, financial | blood, organ </B> </P>
+<P> <U> VERB + DONATION </U><B> give, make, send </B><I>He made a generous donation to the charity. </I><B>| get, receive | appeal for, ask for | depend on, need, rely on </B> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>The charity has received over $10 million in donations. </I><B>| ~ to </B><I>a donation to a charity </I><B>| ~ towards </B><I>a donation towards the building of a new hospital </I> </P>
+</DIV>

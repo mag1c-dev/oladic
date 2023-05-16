@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>freeze </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> period of weather with a temperature below 0&deg; </TT> </P>
+<P> <U> ADJ. </U><B> big </B><I>The weather report advised us to prepare for a big freeze. </I> </P>
+<P> <SUP> 2 </SUP> <TT> putting a particular level on sth </TT> </P>
+<P> <U> ADJ. </U><B> immediate | complete, total </B><I>a total freeze on gas emissions </I><B>| virtual | pay, price, wage </B> </P>
+<P> <U> VERB + FREEZE </U><B> bring in, impose </B><I>The government has imposed a price freeze on petrol. </I><B>| announce, declare | lift </B><I>It's too expensive to lift the freeze on pay. </I> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>a freeze on bus fares </I> </P>
+</DIV><DIV class="item"><P class="word"><B>freeze </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> become ice/extremely cold </TT> </P>
+<P> <U> ADV. </U><B> solid </B><I>The pond had frozen solid. </I><B>| over, up </B><I>The lake has frozen over. The pipes have frozen up. </I> </P>
+<P> <U> PHRASES </U><B> freeze to death </B><I>Hundreds of homeless people could freeze to death this winter. </I> </P>
+<P> <SUP> 2 </SUP> <TT> preserve food </TT> </P>
+<P> <U> ADV. </U><B> well </B><I>Many vegetables freeze very well. </I> </P>
+<P> <SUP> 3 </SUP> <TT> stop moving </TT> </P>
+<P> <U> ADV. </U><B> suddenly | for a moment/second, momentarily </B><I>His smile froze for a moment. </I> </P>
+<P> <U> VERB + FREEZE </U><B> seem to </B><I>Suddenly, Ronny seemed to freeze. </I> </P>
+<P> <U> PREP. </U><B> in/with </B><I>She froze with horror when she saw the body. </I><B>| into </B><I>Maggie's face had frozen into a cold mask. </I> </P>
+<P> <U> PHRASES </U><B> freeze to the spot </B><I>He was so surprised he froze to the spot. </I> </P>
+<P> <SUP> 4 </SUP> <TT> wages/prices </TT> </P>
+<P> <U> ADV. </U><B> effectively </B><I>Wages were effectively frozen for six months. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>Prices have been frozen at this level for over a year now. </I> </P>
+</DIV>

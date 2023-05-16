@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>debate </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> discussion </TT> </P>
+<P> <U> ADJ. </U><B> considerable | fierce, heated, intense, lively, vigorous </B><I>There has been heated debate about whether the film should be allowed. </I><B>| wider </B><I>You cannot separate unemployment from the wider debate about the economy. </I> <B>| public </B><I>Television actually encourages public debate about such issues. </I><B>| political </B> </P>
+<P> <U> VERB + DEBATE </U><B> have | contribute to </B><I>Many leading charities have contributed to the debate on world poverty. </I><B>| encourage, promote </B><I>A healthy society promotes vigorous debate. </I><B>| spark off </B><I>This accident has sparked off an intense debate on road safety. </I><B>| stifle </B><I>He accused the government of trying to stifle debate. </I><B>| lose, win </B><I>The environmentalists seem to have lost the debate over the building of this road. </I><B>| be a matter for, be open to </B><I>The benefits of the new law are open to debate. </I> </P>
+<P> <U> DEBATE + VERB </U><B> rage, take place </B><I>A debate about safety is taking place in schools everywhere. </I> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The issue is still under debate. </I><B>| ~ about/on/over </B><I>the debate on the environment </I><B>| ~ among </B><I>the debate among academics </I><B>| ~ surrounding </B><I>the debate surrounding contemporary art </I> </P>
+<P> <U> PHRASES </U><B> the subject of debate </B><I>The proposed changes to the law have been the subject of much debate. </I> </P>
+<P> <SUP> 2 </SUP> <TT> a formal discussion </TT> </P>
+<P> <U> ADJ. </U><B> brief | lengthy, long | acrimonious, fierce, heated, lively, stormy </B><I>a stormy debate in the House of Commons </I><B>| congressional, parliamentary </B><I>a parliamentary debate on the fishing industry </I> </P>
+<P> <U> VERB + DEBATE </U><B> have, hold </B><I>We had a brief debate about whether or not to accept the offer. The union holds debates for students. </I><B>| participate in, speak in, take part in </B><I>Do you ever speak in debates? </I><B>| open </B><I>The prime minister will open the debate. </I><B>| close | lose, win </B><I>The government lost the debate in the House of Commons. </I> </P>
+<P> <U> PREP. </U><B> during/in a/the~ | ~ about/on </B><I>Many of these points were raised during the debate on prison reform. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>debate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> fully, properly, seriously, thoroughly | fiercely, hotly </B><I>The issue is still being hotly debated. </I><B>| openly, publicly </B><I>The question of security needs to be debated publicly. </I><B>| at length, endlessly, extensively </B> </P>
+<P> <U> PREP. </U><B> with </B><I>a presidential candidate debating with his opponent He sat there debating with himself what to do. </I> </P>
+<P> <U> PHRASES </U><B> be widely debated </B><I>The report has been widely debated in the industry. </I> </P>
+</DIV>

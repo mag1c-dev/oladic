@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>hut </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> makeshift | prefabricated | bamboo, metal, mud, stone, straw, wooden | thatched | circular, round | single-storey/single-storeyed | ramshackle, rickety | derelict | beach, garden, mountain | fisherman's, fishing, shepherd's, etc. | army, barrack | site </B><I>The builders were collecting their wages from the site hut. </I><B>| refreshment | changing </B> </P>
+<P> <U> VERB + HUT </U><B> build </B><I>huts built with mud bricks </I> </P>
+<P> <U> HUT + VERB </U><B> stand </B><I>The wooden hut stood on a lonely stretch of beach. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>The scheme housed children in large numbers in prefabricated huts. </I> </P>
+</DIV>

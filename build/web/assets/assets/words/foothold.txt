@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>foothold </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> place to put your foot when climbing </TT> </P>
+<P> <U> ADJ. </U><B> firm, secure </B> </P>
+<P> <U> VERB + FOOTHOLD </U><B> have | find, get, scrabble for </B><I>He found a secure foothold and pulled himself up. scrabbling for a foothold on the steep grassy bank </I><B>| give sb </B><I>The bench gave me the foothold I needed to climb into the tree. </I> </P>
+<P> <SUP> 2 </SUP> <TT> strong position for making further progress </TT> </P>
+<P> <U> ADJ. </U><B> firm, secure | permanent | big | small </B> </P>
+<P> <U> VERB + FOOTHOLD </U><B> have | establish, gain, get, obtain, secure </B><I>The company is trying to gain a foothold in the European market. </I><B>| maintain | lose | regain | give (sb/sth), provide (sb with) </B><I>I hope the textbook will provide a foothold for students of the subject. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>The firm has a firm foothold in this market. </I> </P>
+</DIV>

@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>realistic </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> showing acceptance of the facts of a situation </TT> </P>
+<P> <U> VERBS </U><B> be, seem | keep sth </B><I>Try to keep your ambitions realistic. </I> </P>
+<P> <U> ADV. </U><B> extremely, very | fairly, quite, reasonably | enough, sufficiently </B><I>He was realistic enough to know this success could not last. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>My friends were quite realistic about my problems. </I><B>| in </B><I>being very realistic in their expectations </I> </P>
+<P> <SUP> 2 </SUP> <TT> showing things as they really are </TT> </P>
+<P> <U> VERBS </U><B> be, look, sound | become | make sth </B><I>You could make the hands a little more realistic. </I> </P>
+<P> <U> ADV. </U><B> extremely, truly, very | fairly, quite | grimly </B><I>his grimly realistic first novel about drug addicts </I> </P>
+</DIV>

@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>outstanding </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> excellent </TT> </P>
+<P> <U> VERBS </U><B> be | consider sth </B> </P>
+<P> <U> ADV. </U><B> particularly, really, truly | absolutely, quite </B><I>That was a quite outstanding performance! </I> </P>
+<P> <SUP> 2 </SUP> <TT> not yet paid or done </TT> </P>
+<P> <U> VERBS </U><B> be, remain </B><I>Two or three tasks still remain outstanding. </I><B>| leave sth </B><I>One option may be to leave the debt outstanding and extend the payment terms. </I> </P>
+<P> <U> ADV. </U><B> still </B><I>75 per cent of the amount originally borrowed is still outstanding. </I> </P>
+</DIV>

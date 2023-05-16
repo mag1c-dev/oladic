@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>real </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> serious </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> all too, very </B><I>Her suffering was all too real. the very real danger of war </I> </P>
+<P> <SUP> 2 </SUP> <TT> genuine </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem </B> </P>
+<P> <U> ADV. </U><B> enough </B><I>The pearls looked real enough. </I> </P>
+</DIV>

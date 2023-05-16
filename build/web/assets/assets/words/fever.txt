@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>fever </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> high temperature </TT> </P>
+<P> <U> ADJ. </U><B> high, raging </B><I>She had a very high fever. </I><B>| slight | glandular, rheumatic, scarlet, etc. </B> </P>
+<P> <U> QUANT. </U><B> bout </B><I>He suffered from recurrent bouts of fever. </I> </P>
+<P> <U> VERB + FEVER </U><B> have, run, suffer from </B><I>He put his hand to my forehead as if I was running a fever. </I><B>| catch, come/go down with, develop </B><I>James has gone down with a fever. </I><B>| die of | bring down, reduce </B><I>drugs which can help to bring down the fever </I><B>| be accompanied by </B><I>Inflammation is frequently accompanied by fever. </I> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He was in bed with a fever. </I>&gt; Special page at ILLNESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> nervous excitement </TT> </P>
+<P> <U> ADJ. </U><B> election, World Cup </B> </P>
+<P> <U> FEVER + VERB </U><B> grip sb </B><I>Election fever suddenly gripped the nation. </I> </P>
+<P> <U> PREP. </U><B> in a ~ of </B><I>She was in a fever of anxiety about him. </I> </P>
+</DIV>

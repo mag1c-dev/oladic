@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>arrest </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> illegal, unlawful, wrongful | arbitrary | mass, widespread | citizen's </B><I>He grabbed the intruder by the arm and said, &lsquo;I am making a citizen's arrest.&rsquo; </I><B>| house </B><I>Following the coup, parliamentary leaders were put under house arrest. </I> </P>
+<P> <U> VERB + ARREST </U><B> make | place sb under, put sb under | lead to </B><I>A reward has been offered for information that leads to the arrest of the murderer. </I><B>| avoid, escape, evade | resist </B><I>He was charged with violent behaviour and resisting arrest. </I> </P>
+<P> <U> ARREST + NOUN </U><B> warrant </B> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>The man is now under arrest in London. </I><B>| ~ for </B><I>They made 11 arrests for possession of drugs. </I> </P>
+<P> <U> PHRASES </U><B> the power of arrest </B><I>The government may remove the power of arrest from military police. </I><B>| under close arrest </B><I>Woolley was placed under close arrest for mutiny. </I><B>| a warrant for sb's arrest</B> </P>
+</DIV>

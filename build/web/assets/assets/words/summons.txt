@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>summons </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> order to go somewhere </TT> </P>
+<P> <U> ADJ. </U><B> peremptory, urgent | royal </B> </P>
+<P> <U> VERB + SUMMONS </U><B> send (out) | await, expect </B><I>I stayed in that night awaiting her summons. </I><B>| get, hear, receive | answer, obey, respond to | ignore </B> </P>
+<P> <U> SUMMONS + VERB </U><B> come </B><I>She was ready when the summons duly came. </I> </P>
+<P> <U> PREP. </U><B> ~ from </B><I>She responded immediately to the summons from the head teacher. </I><B>| ~ to </B><I>I received an urgent summons to her office. </I> </P>
+<P> <U> PHRASES </U><B> in answer to a summons </B><I>He arrived panting in answer to Blake's summons. </I> </P>
+<P> <SUP> 2 </SUP> <TT> order to go to a court of law </TT> </P>
+<P> <U> ADJ. </U><B> court | private | witness </B> </P>
+<P> <U> VERB + SUMMONS </U><B> issue, take out | deliver, present (sb with), serve (sb with) </B><I>The summons can be served on either of the partners in the business. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>Her neighbours took out a summons against her for noise nuisance. </I><B>| ~ for</B> </P>
+</DIV>

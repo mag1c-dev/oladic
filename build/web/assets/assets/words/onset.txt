@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>onset </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> rapid, sudden </B><I>the sudden onset of the disease </I><B>| slow | early | delayed, late </B> </P>
+<P> <U> VERB + ONSET </U><B> delay | mark </B><I>His first hit record marked the onset of an astonishing career. </I> </P>
+<P> <U> PREP. </U><B> after the ~ </B><I>after the onset of sleep </I><B>| at the ~ </B><I>at the onset of the war </I><B>| before/prior to the ~, since the ~</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>infer </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> reasonably </B> </P>
+<P> <U> VERB + INFER </U><B> can/could | be possible to | be difficult to, be hard to </B><I>It is difficult to infer anything from such scanty evidence. </I><B>| be reasonable to | be wrong to </B> </P>
+<P> <U> PREP. </U><B> from </B><I>From this study we can reasonably infer that this behaviour is inherited. </I> </P>
+</DIV>

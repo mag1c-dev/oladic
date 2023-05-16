@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>final </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> last game/match in a competition </TT> </P>
+<P> <U> ADJ. </U><B> grand </B><I>He got through to the grand final of the competition. </I><B>| area, national, regional, world | men's, women's | championship, cup </B> </P>
+<P> <U> VERB + FINAL </U><B> hold, stage | be/get through to, go through to, make it to, qualify for, reach </B><I>If we play well, we hope to make it to the final. </I><B>| compete in, meet sb in, play in </B><I>Scotland met Wales in the final at Twickenham. </I> </P>
+<P> <U> FINAL + VERB </U><B> be played, take place </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>Who is in the men's final? </I></P>
+<P> <SUP> 2 </SUP> <TT> finals: final exams at university  </TT> </P>
+<P> <U> VERB + FINAL </U><B> do, sit, take | fail, pass</B> </P>
+</DIV>

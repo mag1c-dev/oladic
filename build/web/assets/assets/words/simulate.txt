@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>simulate </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> closely </B><I>The device simulates conditions in space quite closely. </I> </P>
+<P> <U> VERB + SIMULATE </U><B> be designed to, be used to </B><I>Models are used to simulate the workings of a real-life system. </I><B>| try to</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>poetry </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> good, great | classical | contemporary, modern | 18th-century, etc. | dramatic, epic, heroic, lyric, narrative | Modernist, Romantic, symbolist, etc. | love, pastoral, war, etc. </B> </P>
+<P> <U> QUANT. </U><B> line </B><I>He began his speech with a few lines of poetry. </I><B>| piece | anthology, book, collection, volume </B> </P>
+<P> <U> VERB + POETRY </U><B> compose, write | read | recite | learn by heart </B><I>At school we had to learn a lot of poetry by heart. </I> </P>
+<P> <U> POETRY + NOUN </U><B> book, collection | reading </B><I>She invited me to one of her poetry readings. </I><B>| competition, workshop | group </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>an essay on imagery in poetry </I> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>database </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> large | comprehensive | national | computer, computerized, electronic | online </B> </P>
+<P> <U> VERB + DATABASE </U><B> create, establish, set up </B><I>We're trying to create our own computerized database. </I><B>| add to, update </B><I>The database is updated monthly. </I><B>| access </B> </P>
+<P> <U> DATABASE + VERB </U><B> contain sth </B><I>The new database contains 200,000 images. </I> </P>
+<P> <U> DATABASE + NOUN </U><B> application, engine, package, server, software, system | technology | creation, design, development | management | access | administrator, user </B> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>The information is stored on a large database. </I><B>| ~ of </B><I>a very large database of information </I> </P>
+</DIV>

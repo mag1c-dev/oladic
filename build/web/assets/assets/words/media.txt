@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>media </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> audio-visual, broadcast, broadcasting, electronic, mass, news, print, visual </B><I>The event was widely covered by the mass media </I><B>| foreign, international, local, national | mainstream, official, popular </B> </P>
+<P> <U> MEDIA + VERB </U><B> report sth </B><I>The local media reported rioting across the country. </I> </P>
+<P> <U> MEDIA + NOUN </U><B> attention, coverage, interest, publicity, reporting </B><I>There was a lot of media coverage of the wedding. </I><B>| campaign | report | event </B><I>Sport has been turned into a series of media events. </I><B>| blitz, circus, hype </B><I>The company is anxious to play down the media hype. </I><B>| spotlight | image </B><I>She's very different from her media image. </I><B>| bias | blackout, censorship | freedom | relations | baron, magnate, mogul, person, pundit, tycoon | conglomerate, empire, group, interests, organization, outlet | awareness, studies </B> </P>
+<P> <U> PREP. </U><B> through/via the ~ </B><I>propaganda through the media </I> </P>
+<P> <U> PHRASES </U><B> access to the media, the role of the media</B> </P>
+</DIV>

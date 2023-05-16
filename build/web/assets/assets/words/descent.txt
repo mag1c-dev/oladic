@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>descent </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> movement down </TT> </P>
+<P> <U> ADJ. </U><B> rapid, swift | slow | steep | gentle, gradual | difficult, easy </B><I>They began the difficult descent of the mountain's south west face. </I><B>| final </B><I>The plane was making its final descent so we had to fasten our seat belts. </I> </P>
+<P> <U> VERB + DESCENT </U><B> make </B> </P>
+<P> <U> PREP. </U><B> on/during a/the ~ </B><I>The engines failed on the plane's descent to Orly. </I><B>| ~ down </B><I>I made a slow and painful descent down the stairs. </I><B>| ~ from </B><I>the descent from the top of the mountain </I><B>| ~ into </B><I>(figurative) his descent into alcoholism </I><B>| ~ to </B><I>The plane began its gentle descent to Heathrow. </I> </P>
+<P> <U> PHRASES </U><B> a rate of descent </B><I>We slowed the balloon's rate of descent. </I> </P>
+<P> <SUP> 2 </SUP> <TT> surface that goes downwards </TT> </P>
+<P> <U> ADJ. </U><B> gentle | steep </B> </P>
+<P> <SUP> 3 </SUP> <TT> family origins </TT> </P>
+<P> <U> ADJ. </U><B> direct, lineal </B><I>She claims direct descent from Queen Victoria. </I><B>| common </B><I>Most European languages have a common descent. </I><B>| mixed | Chinese, Irish, etc. </B> </P>
+<P> <U> VERB + DESCENT </U><B> claim, have | trace | share </B><I>groups sharing common descent </I> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>She is Hungarian by descent. </I><B>| ~ from </B><I>He claims to have traced descent from Christopher Columbus. </I> </P>
+<P> <U> PHRASES </U><B> a line of descent </B><I>Humans and other apes followed separate lines of descent from a common ancestor. </I><B>| of Mexican, Scottish, etc. descent </B><I>She is of mixed European and African descent. </I> </P>
+</DIV>

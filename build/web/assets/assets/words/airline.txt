@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>airline </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, large, major | domestic, international, national | commercial, private, state/state-owned </B><I>He operates a private airline. </I><B>| charter, scheduled </B><I>Prices on charter airlines are usually lower. </I> </P>
+<P> <U> VERB + AIRLINE </U><B> operate, run </B> </P>
+<P> <U> AIRLINE + VERB </U><B> fly, operate </B><I>The airline operates mainly between Florida and Puerto Rico. </I> </P>
+<P> <U> AIRLINE + NOUN </U><B> business, company, industry | flight, service </B><I>All scheduled airline services will be affected by the strike. </I><B>| employee, operator, pilot | passenger | reservation, ticket</B> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>acquainted </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> familiar with sth </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> well | fully </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Are you fully acquainted with the facts? </I> </P>
+<P> <SUP> 2 </SUP> <TT> knowing sb personally </TT> </P>
+<P> <U> VERBS </U><B> be | become, get </B><I>I would like to get acquainted with her. </I><B>| get sb </B><I>Playing a game with the children is a good way of getting them acquainted. </I> </P>
+<P> <U> ADV. </U><B> closely, intimately, well | personally </B> </P>
+<P> <U> PREP. </U><B> with </B><I>I am not personally acquainted with her. </I> </P>
+</DIV>

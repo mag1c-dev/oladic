@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>tilt </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> sharp | slight | downward, upward | backward, forward </B> </P>
+<P> <U> PREP. </U><B> at a ~ </B><I>I positioned the photo at a slight tilt. </I><B>| ~ to/towards </B><I>a tilt to the left </I> </P>
+</DIV><DIV class="item"><P class="word"><B>tilt </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> sharply </B><I>The ground tilted sharply downwards. </I><B>| a little, slightly | back/backwards, down/downwards, forward, up/upwards </B> </P>
+<P> <U> PREP. </U><B> away from </B><I>Tilt the mirror away from you. </I><B>| towards </B><I>Her face was tilted towards the sky. </I> </P>
+<P> <U> PHRASES </U><B> tilted to one side </B><I>She thought for a minute, her head tilted to one side. </I> </P>
+</DIV>

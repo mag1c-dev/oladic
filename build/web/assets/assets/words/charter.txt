@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>charter </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> official written statement of principles, rights, etc. </TT> </P>
+<P> <U> ADJ. </U><B> draft | founding | environmental, social | national, UN/United Nations | citizens', patients', etc. </B> </P>
+<P> <U> VERB + CHARTER </U><B> draw up | sign </B> </P>
+<P> <U> CHARTER + VERB </U><B> set sth out </B><I>The charter clearly sets out children's rights. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>a national charter for the protection of animals </I><B>| ~ of </B><I>a charter of workers' rights </I> </P>
+<P> <SUP> 2 </SUP> <TT> document giving rights to a town/an organization </TT> </P>
+<P> <U> ADJ. </U><B> royal </B> </P>
+<P> <U> VERB + CHARTER </U><B> give sb/sth, grant sb/sth, issue | sign | apply for | receive | revoke </B> </P>
+<P> <U> PREP. </U><B> by ~ </B><I>They were given this right by royal charter. </I> </P>
+</DIV>

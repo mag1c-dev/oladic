@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>rain </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> driving, heavy, lashing, pouring, torrential | steady | fine, gentle, light, patchy </B><I>The fine rain turned to mist in the early evening. The forecast is for wind and patchy rain. </I><B>| warm | cold | constant, continuous, persistent | intermittent | overnight </B><I>Overnight rain had freshened up the garden. </I><B>| monsoon, tropical </B><I>The monsoon rains started early this year. </I><B>| autumn, spring, etc. </B> </P>
+<P> <U> QUANT. </U><B> drop, spot </B><I>A few spots of rain had fallen. </I><B>| inch, shower, spot </B><I>(informal) We had three inches of rain last night. We could do with a spot of rain. </I> </P>
+<P> <U> VERB + RAIN </U><B> forecast </B><I>Rain is forecast for tomorrow. </I><B>| look like, threaten </B><I>It looks like rain </I>(= it looks as though it is going to rain)</B><I>. Black clouds threatened rain. </I><B>| pour with </B><I>It poured with rain all afternoon. </I><B>| get caught in </B><I>We got caught in the rain on the way home. </I> </P>
+<P> <U> RAIN + VERB </U><B> beat, come down, drip, drum, fall, lash, patter, pelt, pour down, splash, trickle </B><I>Rain beat against the window all night. Rain dripped down his collar. </I><B>| come, set in, start </B><I>The rain came just as we set off. The rain had set in steadily by the time we got home. </I><B>| cease, let up, stop </B><I>The rain didn't let up all day. </I><B>| continue </B><I>The rain continued for most of the day. </I><B>| threaten </B><I>With rain threatening, we headed home as fast as we could. </I><B>| drive sb </B><I>The rain drove the players off the court. </I> </P>
+<P> <U> RAIN + NOUN </U><B> cloud, water </B> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>We found her sitting in the pouring rain. </I><B>| out of the ~ </B><I>Come in out of the rain. </I><B>| through the ~ </B><I>We drove slowly through the driving rain. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>rain </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> hard, heavily | a little, slightly | incessantly, non-stop, solidly, steadily </B><I>It's been raining solidly for an hour now. It rained incessantly for the whole two weeks. </I> </P>
+<P> <U> VERB + RAIN </U><B> begin to, start to | be going to </B><I>I don't think it's going to rain. </I> </P>
+<P> <U> PHRASES </U><B> start/stop raining</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>headquarters </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> international, local, national, regional | permanent | temporary | field | enemy | rebel | administrative, campaign, operational | army, military | police | business, company, corporate, group | party </B> </P>
+<P> <U> VERB + HEADQUARTERS </U><B> have </B><I>The organization has its headquarters in Brussels. </I><B>| establish, set up </B><I>The company has set up its European headquarters in the UK. </I><B>| open | close </B><I>They're planning to close their headquarters in Washington. </I> </P>
+<P> <U> PREP. </U><B> at (the) ~ </B><I>They're very worried about this at headquarters. She works at the company's headquarters. </I> </P>
+</DIV>

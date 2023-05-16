@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>perform </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> do a task/duty/piece of work </TT> </P>
+<P> <U> ADV. </U><B> effectively, efficiently, properly, successfully, well </B><I>ensuring that tasks are properly performed </I><B>| poorly | adequately, competently, reliably, satisfactorily | correctly | duly, faithfully </B><I>He duly performed his own half of the bargain and expected the others to do likewise. </I><B>| automatically | manually </B> </P>
+<P> <U> VERB + PERFORM </U><B> be able/unable to </B><I>The prince is no longer able to perform his duties. </I><B>| be expected to </B> </P>
+<P> <U> PHRASES </U><B> failure to perform sth </B><I>failure to perform a contract </I> </P>
+<P> <SUP> 2 </SUP> <TT> work/function/play </TT> </P>
+<P> <U> ADV. </U><B> brilliantly, efficiently, excellently, faultlessly, strongly, well </B><I>One or two of the players performed brilliantly. The company has been performing strongly over the past year. </I><B>| badly, disappointingly, disastrously, poorly </B><I>The car performed poorly at high speeds. </I><B>| adequately, competently, reliably, satisfactorily </B> </P>
+<P> <U> VERB + PERFORM </U><B> be able/unable to | be expected to </B><I>students who are expected to perform well </I> </P>
+<P> <SUP> 3 </SUP> <TT> give a performance </TT> </P>
+<P> <U> ADV. </U><B> live </B><I>The group will be performing live on tonight's show. </I><B>| in public, publicly | together </B><I>The two artists have never performed together before. </I> </P>
+<P> <U> PHRASES </U><B> first performed </B><I>The play was first publicly performed in 1872. </I><B>| rarely performed, see sth performed </B><I>I've never seen this play performed before. </I> </P>
+</DIV>

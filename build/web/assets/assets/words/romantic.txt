@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>romantic </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> showing/causing feelings of love </TT> </P>
+<P> <U> VERBS </U><B> be, feel, seem, sound | become, get </B><I>You're getting quite romantic in your old age! </I> </P>
+<P> <U> ADV. </U><B> extremely, incredibly, intensely, terribly, very, wildly, wonderfully | not at all | quite, rather </B> </P>
+<P> <SUP> 2 </SUP> <TT> imaginative and emotional, not realistic </TT> </P>
+<P> <U> VERBS </U><B> be, seem </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>highly romantic notions of honour </I><B>| hopelessly, ridiculously </B><I>Their dreams of love and marriage are hopelessly romantic. </I><B>| rather</B> </P>
+</DIV><DIV class="item"><P class="word"><B>romantic </B><I>noun</I> </B> </P>
+<P> <U> ADJ. </U><B> great, true | old | incurable </B> </P>
+<P> <U> PHRASES </U><B> be a romantic at heart</B> </P>
+</DIV>

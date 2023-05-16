@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>explore </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> travel around an area </TT> </P>
+<P> <U> VERB + EXPLORE </U><B> be keen to, want to, wish to | be free to </B><I>In the afternoon you'll be free to explore a little on your own. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>exploring for oil </I> </P>
+<P> <SUP> 2 </SUP> <TT> think about sth in detail </TT> </P>
+<P> <U> ADV. </U><B> extensively | briefly | fully, thoroughly </B><I>These questions have not been fully explored yet. </I><B>| properly, systematically | carefully, in detail </B><I>This idea is worth exploring in some detail. </I><B>| further | usefully </B><I>The film usefully explores some of the issues surrounding adoption. </I> </P>
+<P> <U> VERB + EXPLORE </U><B> need to | be keen to, want to, wish to | aim to, seek to | begin to, continue to</B> </P>
+</DIV>

@@ -1,0 +1,16 @@
+
+<DIV class="item"><P class="word"><B>curl </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> piece of hair </TT> </P>
+<P> <U> ADJ. </U><B> natural | soft | tight | corkscrew, spiral | auburn, blonde, dark, etc. | natural | stray </B><I>She pushed a stray curl away from her eyes. </I><B>| tangled, tumbling, unruly, untamed, wayward </B><I>She smoothed down her tangled curls. </I><B>| damp </B> </P>
+<P> <U> VERB + CURL </U><B> press/push/stroke back, smooth back/down | ruffle, run your fingers through | tease </B><I>He carefully teased his curls into place. </I><B>| shake </B><I>She shook her dark curls sadly. </I> </P>
+<P> <U> CURL + VERB </U><B> fall, tumble </B><I>Her auburn curls tumbled about her face. </I><B>| bounce | frame sth </B><I>Her face was framed by a mop of black curls. </I> </P>
+<P> <U> PREP. </U><B> in ~s </B><I>His hair spilled in curls over his forehead. </I><B>| through the/your ~s </B><I>She raked a comb through her wayward curls. </I> </P>
+<P> <U> PHRASES </U><B> a cascade/mass/mop of curls </B><I>Her hair was styled into a cascade of spiral curls. </I><B>| lose its curl </B><I>Her hair lost its curl as she got older. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sth with a curved round shape </TT> </P>
+<P> <U> ADJ. </U><B> faint, little, slight </B><I>He acknowledged her remark with a faint curl of his lips. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>a curl of smoke </I> </P>
+</DIV><DIV class="item"><P class="word"><B>curl </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> tightly | slightly | up </B><I>She curled her legs up under her. </I> </P>
+<P> <U> PREP. </U><B> around/round </B><I>His fingers curled tightly round the steering wheel. </I><B>| from </B><I>Smoke was curling up from the chimney. </I><B>| into </B><I>The cat curled into a ball and fell asleep. </I> </P>
+<P> <U> PHRASES </U><B> be/lie/sit curled up </B><I>She was lying curled up on her bed. </I><B>| curl (up) at the edges </B><I>The photograph was brown and curling at the edges. </I> </P>
+</DIV>

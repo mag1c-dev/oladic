@@ -1,0 +1,15 @@
+
+<DIV class="item"><P class="word"><B>peal </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> loud sound </TT> </P>
+<P> <U> ADJ. </U><B> loud </B> </P>
+<P> <U> VERB + PEAL </U><B> burst into, give, let out </B><I>He burst into peals of laughter. She let out a peal of laughter. </I><B>| hear </B> </P>
+<P> <U> PEAL + VERB </U><B> ring out </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>The bishop was welcomed to the church with a peal of bells. </I><B>| ~ of </B> </P>
+<P> <U> PHRASES </U><B> a peal of bells/laughter/thunder </B></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+<P> <SUP> 2 </SUP> <TT> loud ringing sound of a bell </TT> </P>
+<P> <U> ADJ. </U><B> loud </B> </P>
+<P> <U> VERB + PEAL </U><B> ring (out) </B><I>The bells of the cathedral rang out their loud peal. </I> </P>
+<P> <U> PEAL + VERB </U><B> ring out </B> </P>
+<P> <U> PHRASES </U><B> a peal of bells</B> </P>
+</DIV>

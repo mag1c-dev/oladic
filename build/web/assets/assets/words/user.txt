@@ -1,0 +1,4 @@
+
+<DIV class="item"><P class="word"><B>user </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> heavy, large </B><I>heavy users of credit The larger users of the service have to pay more. </I><B>| small | daily, regular | current, existing </B><I>Existing users will be able to upgrade their software at a reduced price. </I><B>| first-time, novice </B><I>They offer a short course to first-time users of the software. </I><B>| end </B><I>The company supplies its computers direct to the end user. </I><B>| computer, PC | business, home </B><I>a computer intended for business and home users </I><B>| bus, car, rail, road, transport | wheelchair </B><I>A special entrance is being built for wheelchair users. </I><B>| library | service </B><I>a survey of health service users </I><B>| telephone | electricity, energy | drug, heroin, etc.</B> </P>
+</DIV>

@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>program </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> computer, software | analysis, database, design, desktop publishing, drawing, graphics, image-editing, page make-up, simulation, spreadsheet, video-editing, word-processing, etc. | shareware </B> </P>
+<P> <U> VERB + PROGRAM </U><B> run, use | design, develop, write </B><I>a program designed to evaluate road safety measures </I><B>| download, execute, install, load | uninstall | copy </B> </P>
+<P> <U> PROGRAM + VERB </U><B> crash </B><I>I lost half a morning's work when the program crashed. </I><B>| allow sth </B><I>This program allows you to edit and catalogue digital photographs. </I><B>| contain sth </B><I>The program contains powerful new features. </I><B>| provide sth </B><I>This program provides everything you need to prepare your own publication. </I><B>| require sth </B><I>This program requires at least 24Mb of RAM. </I><B>| create sth </B><I>The program creates simulations of real-life driving conditions. </I><B>| operate, run | close </B> </P>
+<P> <U> PROGRAM + NOUN </U><B> file </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>There may be a bug in the program. </I><B>| ~ for </B><I>a program for debugging </I>&gt; Special page at COMPUTER </B> </P>
+</DIV>

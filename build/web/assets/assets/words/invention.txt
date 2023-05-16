@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>invention </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> new thing </TT> </P>
+<P> <U> ADJ. </U><B> latest, new | modern | brilliant, ingenious, wonderful | successful </B> </P>
+<P> <U> VERB + INVENTION </U><B> come up with, design | patent, register </B><I>He failed to patent his invention and never made a penny from it. </I> </P>
+<P> <SUP> 2 </SUP> <TT> untrue story </TT> </P>
+<P> <U> ADJ. </U><B> pure </B><I>Most of what he says is pure invention! </I> </P>
+<P> <U> PHRASES </U><B> power/powers of invention </B><I>His powers of invention are somewhat limited. </I> </P>
+</DIV>

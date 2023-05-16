@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>practical </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, seem, sound | become </B> </P>
+<P> <U> ADV. </U><B> eminently, extremely, highly, intensely, very | entirely, purely, strictly </B><I>For entirely practical reasons, children are not invited. </I><B>| hardly | quite, reasonably | essentially | severely </B><I>She always adopted a severely practical tone. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>practical </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> chemistry, physics, etc. </B> </P>
+<P> <U> VERB + PRACTICAL </U><B> sit, take | pass | fail </B><I>I passed the written exam but failed the practical. </I> </P>
+</DIV>

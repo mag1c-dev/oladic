@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>prediction </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> accurate, correct | dire, gloomy | long-term | reliable, safe | confident | definite, firm | computer | earthquake, weather </B> </P>
+<P> <U> VERB + PREDICTION </U><B> make | confirm, fulfil </B><I>The results of the experiment confirmed their predictions. </I><B>| confound, contradict </B> </P>
+<P> <U> PREDICTION + VERB </U><B> prove sth, turn out to be sth </B><I>Our prediction turns out to be correct. </I><B>| be borne out, come true </B> </P>
+<P> <U> PREP. </U><B> amid ~s </B><I>Six hundred workers there lost their jobs today, amid gloomy predictions that there could be worse to come. </I><B>| contrary to a/the ~ </B><I>Contrary to almost all predictions, however, the government did not fall. </I><B>| despite a/the ~ </B><I>Despite earlier dire predictions, shares remained steady. </I><B>| ~ about </B><I>I've learnt not to make predictions about the weather. </I><B>| ~ for </B><I>the government's prediction for unemployment </I><B>| ~ of </B><I>their predictions of future growth </I> </P>
+</DIV>

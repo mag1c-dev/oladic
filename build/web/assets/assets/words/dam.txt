@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>dam </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hydroelectric </B> </P>
+<P> <U> VERB + DAM </U><B> build, construct | breach </B><I>The dam has been breached and there is a danger of flooding. </I> </P>
+<P> <U> DAM + VERB </U><B> burst </B><I>The dam burst and the valley was flooded. </I><B>| hold sth back </B><I>The dam holds back the water. </I> </P>
+<P> <U> PREP. </U><B> ~ across/on </B><I>a large hydroelectric dam on the River Danube </I> </P>
+</DIV>

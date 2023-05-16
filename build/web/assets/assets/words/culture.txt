@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>culture </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> customs/ideas/beliefs </TT> </P>
+<P> <U> ADJ. </U><B> ancient | primitive | dominant | alien, foreign | indigenous, native | local, national | traditional | African, black, Greek, Western, world, etc. </B><I>These ideas have always been central to Western culture. </I><B>| rural, urban | mainstream | underground | wider </B><I>Prisoners are isolated from the wider culture of society at large. </I><B>| bourgeois, working-class, etc. | street, youth </B><I>As young people started to have more money, a significant youth culture developed. </I><B>| dance, drug, football, etc. | academic, business, company, corporate, intellectual, legal, political, professional, religious, scientific, etc. </B><I>the political culture of the United States </I><B>| capitalist, computer, consumer, enterprise, materialistic, etc. </B><I>the development of the enterprise culture in Britain </I> </P>
+<P> <U> VERB + CULTURE </U><B> assimilate (sb into) </B><I>The Romans gradually assimilated the culture of the people they had conquered. Newcomers to the company are soon assimilated into the culture. </I><B>| create, develop, foster, produce </B><I>The new director is trying to foster a culture of open communication within the company. </I> </P>
+<P> <U> CULTURE + VERB </U><B> develop </B> </P>
+<P> <U> CULTURE + NOUN </U><B> group </B><I>a country containing many language and culture groups </I><B>| shock </B><I>She experienced great culture shock when she first came to Europe. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>In some cultures children have an important place. </I><B>| ~ of </B><I>The social security system has been accused of producing a culture of dependency. </I> </P>
+<P> <SUP> 2 </SUP> <TT> art/literature/music, etc </TT> </P>
+<P> <U> ADJ. </U><B> contemporary, modern | mass, pop, popular | folk | high | wide | literary, oral </B><I>Jokes are an important part of our popular, oral culture. </I> </P>
+<P> <U> PREP. </U><B> a man/woman of culture </B><I>She is a woman of wide culture. </I> </P>
+</DIV>

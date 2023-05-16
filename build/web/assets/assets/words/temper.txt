@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>temper </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> tendency to become angry easily </TT> </P>
+<P> <U> ADJ. </U><B> bad, fierce, fiery, nasty, terrible, vicious, violent | uncontrollable </B> </P>
+<P> <U> QUANT. </U><B> display, fit, flash, outburst </B><I>He broke the chair in a fit of violent temper. </I> </P>
+<P> <U> VERB + TEMPER </U><B> have </B><I>He has a nasty temper. </I><B>| control, keep </B><I>I only just managed to keep my temper with him. </I><B>| fly into, lose </B><I>She loses her temper at the drop of a hat </I>(= without good reason)</B><I>. </I> </P>
+<P> <U> TEMPER + VERB </U><B> flare, rise </B><I>Tempers flared as the traffic jam became worse. </I><B>| cool (down) </B> </P>
+<P> <U> TEMPER + NOUN </U><B> tantrum </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>She stormed out of the room in a temper. </I> </P>
+<P> <U> PHRASES </U><B> keep you temper in check/under control </B><I>He had to learn to keep his temper under control before he could become a teacher. </I> </P>
+<P> <SUP> 2 </SUP> <TT> way you are feeling </TT> </P>
+<P> <U> ADJ. </U><B> bad, filthy, foul, ill, terrible </B><I>Peter's comments were responsible for her ill temper. </I><B>| good | frayed </B><I>Frayed tempers at the end of the match led to three players being se </I><B>| uncertain </B> </P>
+<P> <U> VERB + TEMPER </U><B> improve | recover, regain </B><I>She regained her good temper after a chat. </I> </P>
+<P> <U> TEMPER + VERB </U><B> improve | fray, worsen </B> </P>
+<P> <U> PREP. </U><B> in a ~ </B><I>He stormed out of the room in a temper. </I> </P>
+<P> <U> PHRASES </U><B> not be in the best of tempers </B><I>I wasn't in the best of tempers when I arrived at the meeting. </I> </P>
+</DIV>

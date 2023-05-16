@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>cap </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> soft flat hat </TT> </P>
+<P> <U> ADJ. </U><B> flat, peaked | cloth | baseball, bathing, cricket, forage, school, shower, skull, swimming </B> </P>
+<P> <U> CAP + NOUN </U><B> badge </B>  </B> </P>
+<P> <SUP> 2 </SUP> <TT> covering for the end/top of sth </TT> </P>
+<P> <U> ADJ. </U><B> filler, hub, lens | screw </B><I>The bottle has a screw cap. </I> </P>
+<P> <U> VERB + CAP </U><B> put on, screw on </B><I>Put the cap back on the pen. </I><B>| remove, take off, unscrew</B> </P>
+</DIV>

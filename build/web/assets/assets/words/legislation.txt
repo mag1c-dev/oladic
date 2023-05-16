@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>legislation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> parliamentary | draft | fresh, further, new | effective, tough | complex | controversial | unworkable </B><I>The police think that such legislation would be unworkable. </I><B>| knee-jerk </B><I>The terrorist attack prompted knee-jerk legislation. </I><B>| anti-abortion, anti-discrimination, employment, environmental, financial, gun control, health, housing, social, etc. </B> </P>
+<P> <U> QUANT. </U><B> piece </B><I>a major piece of legislation </I> </P>
+<P> <U> VERB + LEGISLATION </U><B> need, require | call for, propose </B><I>They are calling for tough legislation to tackle this problem. </I><B>| draft, draw up | bring forward, initiate </B><I>Anyone has the right to initiate legislation in Parliament by means of a private bill. </I><B>| approve, enact, introduce, pass </B><I>Congress approved legislation which outlawed the sale of the drug. </I><B>| adopt </B><I>Member states may not adopt legislation contrary to EU law. </I><B>| block, delay </B><I>The reform will make it more difficult for MPs to block legislation. </I><B>| amend | repeal | comply with </B><I>Companies have until December 31 to comply with the new legislation. </I> </P>
+<P> <U> LEGISLATION + VERB </U><B> come into effect, come into force </B><I>New legislation on drink-driving comes into effect at the end of the year. </I> </P>
+<P> <U> PREP. </U><B> under ~ </B><I>This will be a criminal offence under the new legislation. </I><B>| ~ against </B><I>They are planning the introduction of legislation against sex discrimination. </I><B>| ~ on </B><I>Legislation on this issue is urgently needed. </I> </P>
+</DIV>

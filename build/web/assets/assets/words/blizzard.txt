@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>blizzard </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> fierce, howling </B> </P>
+<P> <U> VERB + BLIZZARD </U><B> blow </B><I>After a short while it began to blow a blizzard. </I> </P>
+<P> <U> BLIZZARD + VERB </U><B> hit (sth), strike (sth) </B><I>The blizzard struck while we were still on the mountain. </I><B>| blow, rage </B> </P>
+<P> <U> BLIZZARD + NOUN </U><B> conditions </B> </P>
+<P> <U> PREP. </U><B> in/into ~ </B><I>We got stuck in a howling blizzard. </I><B>| through ~ </B><I>He fought his way through the blizzard. </I> </P>
+</DIV>

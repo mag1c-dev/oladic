@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>partition </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> movable | folding </B> </P>
+<P> <U> VERB + PARTITION </U><B> build, erect, put up | remove, take down </B> </P>
+<P> <U> PARTITION + VERB </U><B> divide sth (up), separate sth </B><I>The cafe was divided up by glass partitions. </I> </P>
+<P> <U> PARTITION + NOUN </U><B> wall </B> </P>
+<P> <U> PREP. </U><B> ~ between </B><I>There were no partitions between the showers. </I> </P>
+</DIV>

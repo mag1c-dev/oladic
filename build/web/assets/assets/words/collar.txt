@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>collar </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> on a shirt, coat, dress, etc. </TT> </P>
+<P> <U> ADJ. </U><B> open, undone </B><I>His tie was knotted below his open collar. His collar was undone. </I><B>| button-down, turned-down | tight | starched, stiff | detachable | coat, shirt, etc. | high, stand-up, wing | clerical, dog </B><I>The vicar had his dog collar on. </I> </P>
+<P> <U> VERB + COLLAR </U><B> have </B><I>The shirt had a button-down collar. </I><B>| have on, wear | button, do up, fasten | unbutton, undo, unfasten | raise, turn up </B><I>She turned up her coat collar for extra warmth. </I><B>| turn down | loosen </B> </P>
+<P> <U> COLLAR + NOUN </U><B> stud | size </B> </P>
+<P> <U> PHRASES </U><B> collar and tie </B><I>He wore a collar and tie for the occasion. </I> </P>
+<P> <SUP> 2 </SUP> <TT> round an animal's neck </TT> </P>
+<P> <U> ADJ. </U><B> dog | flea </B> </P>
+<P> <U> VERB + COLLAR </U><B> have on, wear | slip </B><I>The dog slipped its collar and ran off. </I> </P>
+</DIV>

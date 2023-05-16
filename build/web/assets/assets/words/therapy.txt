@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>therapy </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> alternative, complementary | behaviour, speech | aversion, occupational, regression, relaxation, shock, etc. | family, group </B><I>They discuss their problems in group therapy sessions. </I> </P>
+<P> <U> QUANT. </U><B> course </B> </P>
+<P> <U> VERB + THERAPY </U><B> need, require | be given, have, receive, undergo </B><I>He will have to have shock therapy. </I><B>| be in, go into </B><I>I went into therapy because my doctor suggested it. </I> </P>
+<P> <U> THERAPY + NOUN </U><B> group, session </B> </P>
+<P> <U> PHRASES </U><B> a form of therapy </B><I>the use of hypnosis as a form of therapy </I> </P>
+</DIV>

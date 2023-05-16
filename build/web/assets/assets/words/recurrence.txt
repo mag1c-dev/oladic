@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>recurrence </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> high | frequent | tumour, ulcer, etc. </B> </P>
+<P> <U> VERB + RECURRENCE </U><B> avoid, prevent | experience, have, suffer </B><I>He has suffered a recurrence of his hamstring injury. </I> </P>
+<P> <U> RECURRENCE + NOUN </U><B> rate </B> </P>
+<P> <U> PHRASES </U><B> the likelihood of a recurrence, the risk of recurrence </B><I>a high risk of recurrence </I> </P>
+</DIV>

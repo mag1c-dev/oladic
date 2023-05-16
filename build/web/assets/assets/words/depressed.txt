@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>depressed </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> unhappy/mentally ill </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem, sound | become, get </B><I>You mustn't let yourself get depressed </I><B>| remain, stay </B> </P>
+<P> <U> ADV. </U><B> acutely, deeply, extremely, really, severely, terribly, very </B><I>She became severely depressed after her mother's death. </I><B>| thoroughly | increasingly | a bit, a little, mildly, quite, rather, slightly | clinically, suicidally </B><I>There is medical evidence to show that he is suicidal and clinically depressed. </I> </P>
+<P> <U> PREP. </U><B> about </B><I>She's terribly depressed about losing her job. </I><B>| by </B><I>I was depressed by our lack of progress. </I> </P>
+<P> <SUP> 2 </SUP> <TT> not economically successful </TT> </P>
+<P> <U> VERBS </U><B> be | become | remain, stay </B> </P>
+<P> <U> ADV. </U><B> badly, severely, very </B><I>The shipping trade was badly depressed. </I><B>| relatively | economically</B> </P>
+</DIV>

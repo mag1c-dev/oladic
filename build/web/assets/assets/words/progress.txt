@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>progress </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> movement forwards </TT> </P>
+<P> <U> ADJ. </U><B> considerable, dramatic, encouraging, excellent, genuine, good, great, impressive, real, remarkable, significant, substantial | fast, rapid, swift | inexorable | slow, stately </B><I>We watched the ship's stately progress out of the harbour. </I><B>| satisfactory, steady | further | academic, educational </B> </P>
+<P> <U> VERB + PROGRESS </U><B> achieve, make | assess, chart, check (on), evaluate, monitor, observe, review, trace, track, watch </B><I>Regular tests enable the teacher to monitor the progress of each child. </I><B>| block, hamper, hinder, impede, obstruct, slow (down) | halt, stop | accelerate, facilitate </B> </P>
+<P> <U> PROGRESS + NOUN </U><B> report </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>There was a cricket match in progress. </I><B>| ~ from &hellip; to &hellip; </B><I>The book traced his steady progress from petty theft to serious crime. </I><B>| ~ in </B><I>He's making good progress in maths. </I><B>| ~ on </B><I>How much progress have the builders made on the extension? </I><B>| ~ towards </B><I>Who can halt Woods' inexorable progress towards yet another championship? </I><B>| ~ with </B><I>She's making steady progress with her thesis. </I> </P>
+<P> <U> PHRASES </U><B> a lack of progress </B><I>I was frustrated by my apparent lack of progress when I started the violin. </I><B>| a rate of progress </B><I>At the present rate of progress we won't be finished before July. </I><B>| work in progress </B><I>I have one file for completed work and one for work in progress. </I> </P>
+<P> <SUP> 2 </SUP> <TT> improvement in society </TT> </P>
+<P> <U> ADJ. </U><B> economic, evolutionary, industrial, medical, scientific, social, technical, technological | human </B> </P>
+<P> <U> VERB + PROGRESS </U><B> hold back </B> </P>
+<P> <U> PHRASES </U><B> the march of progress </B><I>the onward march of technological progress </I> </P>
+</DIV><DIV class="item"><P class="word"><B>progress </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> satisfactorily, smoothly, well </B><I>The talks are progressing very well. </I><B>| further </B><I>He felt he still needed to progress further in his learning. </I><B>| rapidly </B><I>progressing rapidly in his chosen career </I><B>| slowly </B><I>The work is progressing quite slowly. </I><B>| steadily </B> </P>
+<P> <U> VERB + PROGRESS </U><B> fail to </B> </P>
+<P> <U> PREP. </U><B> beyond </B><I>Samir failed to progress beyond this first step on the ladder. </I><B>| from, through </B><I>allowing students to progress through the stages of the course </I><B>| to </B><I>She soon progressed from the basics to more difficult work. </I><B>| towards </B><I>slowly progressing towards a new kind of art </I><B>| up </B><I>his ambition to progress up the career ladder </I><B>| with </B><I>They are keen to progress with the scheme. </I> </P>
+</DIV>

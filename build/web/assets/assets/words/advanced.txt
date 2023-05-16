@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>advanced </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> modern and highly developed </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, very </B><I>a highly advanced economy </I><B>| fairly, quite, relatively | industrially, technically, technologically </B> </P>
+<P> <SUP> 2 </SUP> <TT> at a late stage of development </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> far, greatly, well </B><I>The disease was too far advanced for doctors to operate. </I><B>| fairly, quite | further</B> </P>
+</DIV>

@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>cramp </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> agonizing, painful | sudden </B><I>She had a sudden painful cramp in her left leg. </I><B>| abdominal, stomach </B> </P>
+<P> <U> QUANT. </U><B> attack </B><I>I was suddenly seized by an attack of cramp. </I> </P>
+<P> <U> VERB + CRAMP </U><B> have</B> </P>
+</DIV>

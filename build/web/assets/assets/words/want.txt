@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>want </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> human </B> </P>
+<P> <U> VERB + WANT </U><B> meet, satisfy, see to </B><I>a society that satisfied all human wants </I> </P>
+<P> <U> PREP. </U><B> for ~ of </B><I>Refugees are dying for want of proper health care. </I><B>| in ~ </B><I>Thousands of children are living in want. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>want </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> badly, desperately, really | just, only, simply </B><I>I just want you to be happy. </I><B>| genuinely, truly </B><I>If you truly want to help, just do as I say. </I><B>| always </B><I>Thanks for the present?it's just what I've always wanted. </I> </P>
+<P> <U> PHRASES </U><B> all you want </B><I>All I want is the truth. </I><B>| exactly/just what you want</B> </P>
+</DIV>

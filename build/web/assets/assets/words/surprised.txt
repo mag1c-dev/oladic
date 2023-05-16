@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>surprised </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, seem, sound </B> </P>
+<P> <U> ADV. </U><B> extremely, greatly, most, really, terribly, very | hardly, not altogether, not at all, not entirely, not in the least, not particularly, not totally, scarcely </B><I>Her father didn't seem at all surprised. </I><B>| almost | a bit, faintly, a little, mildly, pretty, quite, rather, slightly, somewhat, vaguely </B><I>She looked faintly surprised at my remark. </I><B>| genuinely | clearly, evidently, obviously | secretly | constantly, continually </B><I>I am constantly surprised by what my fourteen-month-old son understands. </I><B>| momentarily | agreeably, pleasantly </B><I>He was pleasantly surprised to discover that he was no longer afraid. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>He sounded surprised at this request. </I><B>| by </B><I>She appeared genuinely surprised by this gesture of affection. </I> </P>
+</DIV>

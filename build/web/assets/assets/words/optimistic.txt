@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>optimistic </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> appear, be, feel, look, seem, sound | become | remain </B> </P>
+<P> <U> ADV. </U><B> extremely, highly, strongly, very </B><I>He remained strongly optimistic that an agreement could be reached. </I><B>| excessively, hopelessly, incredibly, overly, ridiculously, unduly, wildly </B><I>These estimates were wildly optimistic. </I><B>| a bit, fairly, a little, quite, rather, reasonably, somewhat | basically, essentially, generally </B><I>an essentially optimistic view of human nature </I><B>| cautiously, guardedly, quietly </B><I>I don't want to exaggerate our chances, but I'm cautiously optimistic. </I><B>| cheerfully </B> </P>
+<P> <U> PREP. </U><B> about </B><I>He's very optimistic about his chances. </I> </P>
+</DIV>

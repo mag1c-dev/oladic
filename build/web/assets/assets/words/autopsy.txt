@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>autopsy </B><I>noun </I> </P>
+<P> <U> VERB + AUTOPSY </U><B> carry out, conduct, do, perform </B> </P>
+<P> <U> AUTOPSY + VERB </U><B> find sth, reveal sth, show sth </B><I>The autopsy revealed that he had been poisoned. </I> </P>
+<P> <U> AUTOPSY + NOUN </U><B> report, result </B> </P>
+<P> <U> PREP. </U><B> ~ on </B><I>They carried out an autopsy on the victim. </I> </P>
+</DIV>

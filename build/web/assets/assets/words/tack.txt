@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>tack </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> way of achieving sth </TT> </P>
+<P> <U> ADJ. </U><B> right, wrong </B> </P>
+<P> <U> VERB + TACK </U><B> go off on, take, try </B><I>New research is taking a different tack. The interviewer decided to try another tack. </I><B>| change, switch </B><I>She suddenly changed tack, taking him by surprise. </I> </P>
+<P> <U> PREP. </U><B> on a/the ~ </B><I>I think you're on the wrong tack with that approach. </I> </P>
+<P> <U> PHRASES </U><B> a change of tack </B> </P>
+<P> <SUP> 2 </SUP> <TT> direction of a sailing boat in relation to the wind </TT> </P>
+<P> <U> ADJ. </U><B> port, starboard | opposite </B> </P>
+<P> <U> VERB + TACK </U><B> sail on </B><I>We were sailing on starboard tack. </I><B>| change, swing onto/to </B><I>The yacht swung to the opposite tack. </I> </P>
+</DIV>

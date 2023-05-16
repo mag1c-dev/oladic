@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>grunt </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> little | low | non-committal </B><I>He gave a non-committal grunt in reply. </I> </P>
+<P> <U> VERB + GRUNT </U><B> give, let out | hear </B> </P>
+<P> <U> PREP. </U><B> with a ~ </B><I>He lifted the heavy box with a grunt. </I><B>| ~ of </B><I>a grunt of pain </I></P>
+<a href="/collocation-tag/sound" class="tag">Learn more about SOUND</a>
+</DIV><DIV class="item"><P class="word"><B>grunt </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> loudly | merely, only </B><I>He merely grunted at her and nodded his head. </I> </P>
+<P> <U> PREP. </U><B> at </B><I>His father grunted at him as he left the room. </I><B>| in </B><I>She asked him a question and he grunted in reply. He grunted in pain. </I><B>| with </B><I>She stirred the soup, grunting with satisfaction. </I> </P>
+<P> <U> PHRASES </U><B> grunt and groan </B><I>Grunting and groaning, they heaved the wardrobe up the stairs. </I> </P>
+</DIV>

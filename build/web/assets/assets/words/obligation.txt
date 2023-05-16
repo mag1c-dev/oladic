@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>obligation </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> contractual, legal, statutory | moral, social | financial | family </B><I>I can't travel next month because of family obligations. </I><B>| professional | mutual </B> </P>
+<P> <U> VERB + OBLIGATION </U><B> discharge, fulfil, meet </B><I>The builders failed to meet their contractual obligations. </I><B>| comply with, honour | have </B><I>We have a moral obligation to help. </I><B>| feel | owe | assume, incur, take on | impose </B> </P>
+<P> <U> OBLIGATION + VERB </U><B> arise from sth </B><I>obligations arising from your contract of employment </I> </P>
+<P> <U> PREP. </U><B> under an ~ </B><I>I am under no obligation to tell you my name. </I><B>| without ~ </B><I>Our mortgage advice is given free and without obligation. </I><B>| ~ to </B><I>A lawyer owes an obligation of confidence to the client. </I> </P>
+</DIV>

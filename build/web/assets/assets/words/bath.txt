@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>bath </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> hot, warm | cold | long | quick | bubble </B><I>lying in a hot bubble bath </I><B>| baby, bird </B> </P>
+<P> <U> VERB + BATH </U><B> fill, run </B><I>Could you run the bath for me? </I><B>| have, take | lie in, soak in | need </B> </P>
+<P> <U> BATH + NOUN </U><B> tap, water, bathwater | mat, towel | time </B><I>It's the children's bath time. </I> </P>
+<P> <U> PREP. </U><B> in the ~ </B><I>Please answer the phone. I'm in the bath! </I> </P>
+</DIV>

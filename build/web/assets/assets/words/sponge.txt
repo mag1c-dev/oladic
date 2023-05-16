@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>sponge </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> damp/dampened, wet | bath </B> </P>
+<P> <U> VERB + SPONGE </U><B> squeeze (out) </B> </P>
+<P> <U> SPONGE + VERB </U><B> fill with sth, soak sth up </B><I>This sponge doesn't soak up water very well. </I> </P>
+<P> <U> PREP. </U><B> with a/the ~ </B><I>Wipe the surface with a damp sponge. </I> </P>
+</DIV>

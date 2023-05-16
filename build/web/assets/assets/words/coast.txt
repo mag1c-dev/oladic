@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>coast </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> forbidding, rocky, rugged, wild | north, northern, etc. | indented | mainland | sea </B> </P>
+<P> <U> QUANT. </U><B> stretch </B><I>the long stretch of coast between Lowestoft and Felixstowe </I> </P>
+<P> <U> VERB + COAST </U><B> follow, hug </B><I>The path hugs the coast all the way to Tenby. </I> </P>
+<P> <U> COAST + VERB </U><B> stretch </B><I>The coast stretched far into the distance. </I> </P>
+<P> <U> COAST + NOUN </U><B> road </B> </P>
+<P> <U> PREP. </U><B> along the ~ </B><I>We travelled south along the coast. </I><B>| around/round the ~ </B><I>They sailed round the coast to Falmouth. </I><B>| at the ~ </B><I>We spent a day at the coast. </I><B>| off the ~ </B><I>an island two miles off the west coast of Scotland </I><B>| on the ~ </B><I>a village on the Mediterranean coast </I> </P>
+</DIV>

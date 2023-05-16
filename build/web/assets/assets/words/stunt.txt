@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>stunt </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> sth done for attention </TT> </P>
+<P> <U> ADJ. </U><B> publicity </B> </P>
+<P> <U> VERB + STUNT </U><B> arrange, organize </B><I>She arranged a publicity stunt to make the public aware of the product. </I><B>| pull </B><I>What do you hope to gain by pulling a stunt like that? </I> </P>
+<P> <U> PREP. </U><B> as a ~ </B><I>They jumped off London Bridge as a publicity stunt. </I> </P>
+<P> <SUP> 2 </SUP> <TT> dangerous act </TT> </P>
+<P> <U> ADJ. </U><B> dangerous, daredevil | dramatic, spectacular | film </B> </P>
+<P> <U> VERB + STUNT </U><B> carry out, do, perform </B><I>The actor performed all the stunts himself. </I><B>| attempt </B> </P>
+<P> <U> STUNT + VERB </U><B> backfire, go wrong </B> </P>
+<P> <U> STUNT + NOUN </U><B> artist, man (also stuntman), woman (also stuntwoman) | driver, pilot, rider</B> </P>
+</DIV>

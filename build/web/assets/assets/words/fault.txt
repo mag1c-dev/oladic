@@ -1,0 +1,26 @@
+
+<DIV class="item"><P class="word"><B>fault </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> responsibility for sth wrong </TT> </P>
+<P> <U> ADJ. </U><B> stupid </B><I>It's his own stupid fault his car was stolen?he should have kept it locked. </I> </P>
+<P> <U> FAULT + VERB </U><B> lie with sb </B><I>The fault lay not with her but with her manager. </I> </P>
+<P> <U> PREP. </U><B> at ~ </B><I>The party at fault in a court case usually pays the other party's legal costs. </I><B>| through sb's ~ </B><I>Many of the soldiers died through his fault. </I><B>| without ~ </B><I>Having made an error of judgement she was not without fault in the matter. </I> </P>
+<P> <U> PHRASES </U><B> be all/entirely your (own) fault </B><I>It's all your own fault, you know. </I><B>| be largely/partly your (own) fault, be hardly your (own) fault, fault on sb's part </B><I>(law) the absence of fault on the part of the prosecution </I><B>| through no fault of your own </B><I>helping people who, through no fault of their own, have lost their homes </I> </P>
+<P> <SUP> 2 </SUP> <TT> weakness in sb's character </TT> </P>
+<P> <U> ADJ. </U><B> great </B><I>Her great fault was that she thought too well of herself. </I><B>| moral </B> </P>
+<P> <U> VERB + FAULT </U><B> have </B><I>We all have our faults. </I><B>| be blind to, overlook </B><I>He is blind to his son's faults. She was prepared to overlook his faults. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Incorrectness in speech was considered a great fault in a gentleman. </I> </P>
+<P> <U> PHRASES </U><B> for all sb's faults </B><I>For all her faults </I>(= in spite of her faults) </B><I>she was a great woman. </I><B>| to a fault </B><I>He is generous to a fault </I>(= very generous and perhaps too generous)</B><I>. </I> </P>
+<P> <SUP> 3 </SUP> <TT> sth wrong or not perfect with sth </TT> </P>
+<P> <U> ADJ. </U><B> bad, major, serious | basic </B><I>There is a basic fault in the design of the engine. It cannot be fixed. </I><B>| dangerous | minor | common </B><I>a common fault with this type of machine </I><B>| real </B><I>The only real fault of the book is its looseness of structure. </I><B>| obvious | possible | design | technical | electrical, engine, mechanical, structural </B><I>Of course, minor mechanical faults sometimes occur. </I> </P>
+<P> <U> VERB + FAULT </U><B> have </B><I>The engine has a serious fault. </I><B>| develop </B><I>The car soon developed another fault. </I><B>| look for | diagnose, discover, find, identify, locate </B><I>They've found a major fault with the electrical system. When she tested the recorder she could find no fault with it. </I><B>| find, pick </B><I>My mother did nothing but find fault with my schoolboy manners. He's deliberately picking fault with the meal to get a reduction on the bill. </I><B>| correct, fix, rectify, repair </B><I>trying to correct the faults in the program </I><B>| report </B><I>You should report any fault directly to the phone company. </I> </P>
+<P> <U> FAULT + VERB </U><B> occur | lie in sth </B><I>The fault lay in the structure of the economy. </I> </P>
+<P> <U> FAULT + NOUN </U><B> detection, diagnosis, finding </B> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>Diabetes is caused by a fault in the insulin production of the body. </I><B>| ~ with </B><I>She was always finding fault with his manners. </I> </P>
+<P> <U> PHRASES </U><B> for all its faults </B><I>For all its faults </I>(= in spite of the faults)</B><I>, we love this city. </I> </P>
+<P> <SUP> 4 </SUP> <TT> in tennis </TT> </P>
+<P> <U> ADJ. </U><B> double | foot </B> </P>
+<P> <U> VERB + FAULT </U><B> serve </B><I>Even tennis champions sometimes serve double faults. </I> </P>
+<P> <SUP> 5 </SUP> <TT> geology </TT> </P>
+<P> <U> ADJ. </U><B> geological </B> </P>
+<P> <U> FAULT + NOUN </U><B> line | scarp | system, zone</B> </P>
+</DIV>

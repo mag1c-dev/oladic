@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>fieldwork </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> extensive, intensive | detailed </B> </P>
+<P> <U> VERB + FIELDWORK </U><B> be engaged in, carry out, conduct, do, participate in, undertake </B> </P>
+<P> <U> FIELDWORK + NOUN </U><B> student </B> </P>
+<P> <U> PREP. </U><B> during/in the course of ~ </B><I>evidence obtained during fieldwork </I><B>| ~ on </B><I>extensive fieldwork on chimpanzees </I> </P>
+</DIV>

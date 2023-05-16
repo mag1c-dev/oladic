@@ -1,0 +1,9 @@
+
+<DIV class="item"><P class="word"><B>butterfly </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> insect </TT> </P>
+<P> <U> VERB + BUTTERFLY </U><B> collect </B> </P>
+<P> <U> BUTTERFLY + VERB </U><B> flit, flutter, fly | emerge </B><I>The butterfly emerged from the pupa. </I> </P>
+<P> <U> BUTTERFLY + NOUN </U><B> wing </B> </P>
+<P> <SUP> 2 </SUP> <TT> swimming stroke </TT> </P>
+<a href="/collocation-tag/stroke" class="tag">Learn more about STROKE</a>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>mount </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> organize sth </TT> </P>
+<P> <U> ADV. </U><B> successfully </B><I>The company successfully mounted a takeover bid in 1996. </I> </P>
+<P> <SUP> 2 </SUP> <TT> increase </TT> </P>
+<P> <U> ADV. </U><B> quickly, rapidly | steadily | gradually | hourly </B><I>Election fever is mounting hourly. </I><B>| up </B><I>The cost quickly mounts up. </I> </P>
+<P> <U> VERB + MOUNT </U><B> begin to, continue to </B> </P>
+<P> <SUP> 3 </SUP> <TT> picture/jewel, etc. </TT> </P>
+<P> <U> ADV. </U><B> beautifully </B><I>The prints were beautifully mounted. </I><B>| carefully | directly </B><I>The switch is mounted directly on the wall. </I><B>| horizontally, vertically </B> </P>
+<P> <U> PREP. </U><B> in </B><I>The diamond is mounted in gold. </I><B>| on </B><I>The specimens were carefully mounted on slides. </I> </P>
+</DIV>

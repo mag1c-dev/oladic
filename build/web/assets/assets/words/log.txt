@@ -1,0 +1,12 @@
+
+<DIV class="item"><P class="word"><B>log </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> wood </TT> </P>
+<P> <U> ADJ. </U><B> cut, sawn </B><I>a pile of sawn logs </I><B>| fallen </B><I>The road was blocked by fallen logs. </I><B>| blazing, burning </B> </P>
+<P> <U> VERB + LOG </U><B> chop, saw, split </B> </P>
+<P> <U> LOG + VERB </U><B> blaze, burn, crackle </B><I>logs crackling in the fireplace </I> </P>
+<P> <U> LOG + NOUN </U><B> cabin | fire </B> </P>
+<P> <SUP> 2 </SUP> <TT> written record </TT> </P>
+<P> <U> ADJ. </U><B> detailed | captain's, ship's </B> </P>
+<P> <U> VERB + LOG </U><B> keep </B><I>She kept a log of their voyage. </I> </P>
+<P> <U> LOG + NOUN </U><B> book</B> </P>
+</DIV>

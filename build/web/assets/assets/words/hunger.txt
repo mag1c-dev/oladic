@@ -1,0 +1,13 @@
+
+<DIV class="item"><P class="word"><B>hunger </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> feeling of wanting to eat </TT> </P>
+<P> <U> ADJ. </U><B> extreme </B><I>Any good weight loss regime should not lead to extreme hunger. </I><B>| world </B> </P>
+<P> <U> VERB + HUNGER </U><B> feel </B><I>It is usual to feel hunger during exercise. </I><B>| be weak with | die from/of </B><I>Thousands of people have died of hunger. </I><B>| alleviate, relieve, satisfy </B><I>looking for ways to alleviate world hunger Perhaps the cat was killing to satisfy hunger. </I> </P>
+<P> <U> HUNGER + NOUN </U><B> pangs </B><I>The new snack bar will keep those hunger pangs at bay. </I><B>| strike </B><I>About 60 prisoners have gone on hunger strike. </I> </P>
+<P> <U> PHRASES </U><B> pangs of hunger </B> </P>
+<P> <SUP> 2 </SUP> <TT> strong desire for sth </TT> </P>
+<P> <U> ADJ. </U><B> great, insatiable | land </B><I>Peasant land hunger grew ever more acute as the population swelled. </I> </P>
+<P> <U> VERB + HUNGER </U><B> feel, have | satisfy </B> </P>
+<P> <U> HUNGER + VERB </U><B> grow </B> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>She has an insatiable hunger for knowledge. </I> </P>
+</DIV>

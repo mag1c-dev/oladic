@@ -1,0 +1,6 @@
+
+<DIV class="item"><P class="word"><B>buffer </B><I>noun </I> </P>
+<P> <U> VERB + BUFFER </U><B> act as | provide | use sth as </B> </P>
+<P> <U> BUFFER + NOUN </U><B> state, zone </B> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>A family can provide a buffer against stress at work. </I><B>| ~ between </B><I>The organization acts as a buffer between the management and the union. </I> </P>
+</DIV>

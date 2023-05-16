@@ -1,0 +1,23 @@
+
+<DIV class="item"><P class="word"><B>fine </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> good enough/suitable </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem, smell, sound, taste | turn out </B><I>I knew that everything would turn out fine in the end. </I> </P>
+<P> <U> ADV. </U><B> absolutely, just </B><I>Don't worry. Your voice sounds absolutely fine. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>This paper's not very good quality, but it's fine for rough work. </I> </P>
+<P> <SUP> 2 </SUP> <TT> in good health/happy and comfortable </TT> </P>
+<P> <U> VERBS </U><B> be, feel, look, seem </B><I>George looks fine now. </I> </P>
+<P> <U> ADV. </U><B> absolutely </B><I>I feel absolutely fine. </I> </P>
+<P> <SUP> 3 </SUP> <TT> bright and sunny/not raining </TT> </P>
+<P> <U> VERBS </U><B> be | turn out </B><I>It's turned out fine again today. </I><B>| keep, remain, stay </B><I>Let's hope it stays fine for the wedding this afternoon. </I> </P>
+<P> <SUP> 4 </SUP> <TT> thin/small </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>Her hair is very fine. a very fine distinction </I><B>| quite</B> </P>
+</DIV><DIV class="item"><P class="word"><B>fine </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, heavy, hefty, large, massive, stiff, substantial | maximum | parking </B> </P>
+<P> <U> VERB + FINE </U><B> get </B><I>I got a parking fine for parking on double yellow lines. </I><B>| pay | give (sb), impose, levy </B><I>Heavy fines were levied on motoring offenders. </I><B>| be liable for/to, face, risk </B><I>Drivers risk heavy fines for driving without a licence. </I><B>| be punishable by, carry, lead to </B><I>The offence carries a maximum fine of </I>&pound;</B><I>500. </I><B>| increase </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>The club is struggling to pay </I>&pound;</B><I>75,000 in fines to the football league. </I><B>| ~ for </B><I>a fine for water pollution </I> </P>
+</DIV><DIV class="item"><P class="word"><B>fine </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> heavily </B><I>Any company found to be breaking these rules will be heavily fined. </I> </P>
+<P> <U> PREP. </U><B> for </B><I>He got fined </I>&pound;</B><I>200 for parking illegally. </I> </P>
+<P> <U> PHRASES </U><B> get fined</B> </P>
+</DIV>

@@ -1,0 +1,11 @@
+
+<DIV class="item"><P class="word"><B>gown </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> woman's long dress </TT> </P>
+<P> <U> ADJ. </U><B> long | flowing </B><I>She was dressed in a long flowing gown. </I><B>| ball, bridal, evening, wedding </B> </P>
+<P> <U> GOWN + VERB </U><B> be trimmed with sth </B><I>She wore a white satin gown trimmed with lace. </I> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B> </P>
+<P> <SUP> 2 </SUP> <TT> worn by judges, surgeons, etc. </TT> </P>
+<P> <U> ADJ. </U><B> academic | hospital, surgical </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B> </P>
+<P> <U> PHRASES </U><B> town and gown </B>(= the permanent members of a university town and the members of its university)   </B> </P>
+</DIV>

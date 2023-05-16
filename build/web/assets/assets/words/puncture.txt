@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>puncture </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> slow </B><I>The tyre had a slow puncture and had to be pumped up every day. </I><B>| bicycle </B> </P>
+<P> <U> VERB + PUNCTURE </U><B> get, have, suffer </B><I>She suffered a puncture in the fifth lap. </I><B>| fix, mend, repair</B> </P>
+</DIV>

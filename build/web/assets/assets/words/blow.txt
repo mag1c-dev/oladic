@@ -1,0 +1,25 @@
+
+<DIV class="item"><P class="word"><B>blow </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> act of blowing </TT> </P>
+<P> <U> VERB + BLOW </U><B> give sth </B><I>Give your nose a blow. </I> </P>
+<P> <SUP> 2 </SUP> <TT> hard knock that hits sb/sth </TT> </P>
+<P> <U> ADJ. </U><B> hard, heavy, nasty, painful, powerful, severe, sharp, stinging, violent | fatal, final, mortal | glancing, light </B><I>Jack caught him a glancing blow on the jaw. </I><B>| single </B><I>He killed the man with a single blow of his cricket bat. </I> </P>
+<P> <U> QUANT. </U><B> flurry, hail </B><I>The man went down in a hail of blows. </I> </P>
+<P> <U> VERB + BLOW </U><B> get, receive, suffer, take </B><I>He suffered a severe blow to the head. </I><B>| catch sb, deal sb, deliver, give sb, land, rain (down), strike sb </B><I>It was the gardener who delivered the fatal blow. She landed a nasty blow on his nose. He rained heavy blows on the old woman. </I><B>| exchange </B><I>The boys exchanged blows with the police. </I><B>| come to </B><I>The children came to blows over the new toy. </I><B>| aim </B><I>She aimed a blow at Lucy. </I><B>| avoid, deflect, dodge, parry, ward off </B> </P>
+<P> <U> BLOW + VERB </U><B> fall, land </B><I>The blow landed on my right shoulder. </I> </P>
+<P> <U> PREP. </U><B> ~ of </B><I>two blows of the axe </I><B>| ~ on </B><I>a nasty blow on the head </I><B>| ~ to </B><I>a blow to the victim's chest </I> </P>
+<P> <SUP> 3 </SUP> <TT> sudden shock/disappointment </TT> </P>
+<P> <U> ADJ. </U><B> big, great, major, serious, severe, terrible | bitter, crippling, cruel, crushing, devastating, knock-out | double | decisive, mortal </B><I>a mortal blow to British industry </I><B>| body </B> </P>
+<P> <U> VERB + BLOW </U><B> deal (sb/sth), deliver, strike </B><I>His defeat dealt a crushing blow to the party. </I><B>| receive, suffer | cushion, soften </B><I>to soften the blow of tax increases </I><B>| come as </B><I>The news came as a bitter blow to the staff. </I> </P>
+<P> <U> BLOW + VERB </U><B> come, fall </B><I>The blow came at a meeting on Saturday. </I> </P>
+<P> <U> PREP. </U><B> ~ for </B><I>A tax on books would be a body blow for education. </I><B>| ~ to </B><I>Her decision to live abroad was a terrible blow to her parents. </I> </P>
+<P> <U> PHRASES </U><B> a bit of a blow</B> </P>
+</DIV><DIV class="item"><P class="word"><B>blow </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> of wind/air, etc. </TT> </P>
+<P> <U> ADV. </U><B> hard, strongly | gently </B> </P>
+<P> <U> PREP. </U><B> from </B><I>a gale blowing from the west </I><B>| off </B><I>The wind blew the papers off the table. </I> </P>
+<P> <U> PHRASES </U><B> be blowing a gale </B><I>It's blowing a gale out there! </I><B>| blow sth off course </B><I>The ship was blown off course in the storm. </I> </P>
+<P> <SUP> 2 </SUP> <TT> send air out of your mouth </TT> </P>
+<P> <U> ADV. </U><B> hard </B> </P>
+<P> <U> PREP. </U><B> on </B><I>He blew on his soup to cool it. </I> </P>
+</DIV>

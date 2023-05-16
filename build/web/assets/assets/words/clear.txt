@@ -1,0 +1,31 @@
+
+<DIV class="item"><P class="word"><B>clear </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> easy to understand </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become | make sth | find sth </B> </P>
+<P> <U> ADV. </U><B> abundantly, extremely, very | crystal, perfectly, quite </B><I>You've got to make your intentions crystal clear to them. </I><B>| by no means, not entirely, not quite </B><I>It wasn't entirely clear whether she wanted us to help. </I><B>| fairly, pretty, reasonably </B> </P>
+<P> <U> PREP. </U><B> to </B><I>It was clear to us that there was a problem. </I> </P>
+<P> <SUP> 2 </SUP> <TT> sure/certain </TT> </P>
+<P> <U> VERBS </U><B> be </B> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, quite </B> </P>
+<P> <U> PREP. </U><B> about </B><I>She was quite clear about her reasons for leaving. </I><B>| on </B><I>Are you clear on that point? </I> </P>
+<P> <SUP> 3 </SUP> <TT> easy to see/hear </TT> </P>
+<P> <U> VERBS </U><B> be, look | become </B> </P>
+<P> <U> ADV. </U><B> extremely, very </B><I>The photograph wasn't very clear. </I><B>| fairly, pretty, reasonably </B> </P>
+<P> <SUP> 4 </SUP> <TT> easy to see through </TT> </P>
+<P> <U> VERBS </U><B> be | become </B> </P>
+<P> <U> ADV. </U><B> extremely, very | absolutely, completely | fairly, reasonably </B><I>The water was fairly clear. </I> </P>
+<P> <SUP> 5 </SUP> <TT> free from things that are blocking the way </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | remain, stay | keep sth </B><I>Make sure you keep all gutters and drainpipes clear of leaves. </I> </P>
+<P> <U> ADV. </U><B> completely | fairly, pretty, reasonably </B> </P>
+<P> <U> PREP. </U><B> of </B><I>The roads are reasonably clear of snow. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>clear </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> remove sth that is not wanted/needed </TT> </P>
+<P> <U> ADV. </U><B> completely, totally </B><I>The site must be completely cleared and made safe for children. </I><B>| partially | hastily, quickly </B><I>She hastily cleared a space for him to sit down. </I><B>| away </B><I>Can you clear away all your toys now? </I> </P>
+<P> <U> PREP. </U><B> from </B><I>They cleared the mud from the steps. </I><B>| of </B><I>We cleared the path of leaves. </I><B>| off </B><I>Clear those papers off the desk. </I> </P>
+<P> <SUP> 2 </SUP> <TT> your head/mind </TT> </P>
+<P> <U> ADV. </U><B> suddenly </B><I>His face suddenly cleared as understanding dawned. </I> </P>
+<P> <U> VERB + CLEAR </U><B> try to </B><I>I went for a walk to try to clear my head. </I><B>| help (to) </B><I>Correct breathing helps to clear the mind and reduce tension. </I> </P>
+<P> <SUP> 3 </SUP> <TT> prove sb innocent </TT> </P>
+<P> <U> ADV. </U><B> formally </B><I>The three defendants were formally cleared by the judge. </I> </P>
+<P> <U> PREP. </U><B> of </B><I>Four men accused of assault have been cleared of all charges. </I> </P>
+</DIV>

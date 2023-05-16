@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>narrow </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not wide </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | become, get </B> </P>
+<P> <U> ADV. </U><B> extremely, very | a bit, fairly, quite, rather, relatively </B><I>The pass gets quite narrow towards the east. </I> </P>
+<P> <SUP> 2 </SUP> <TT> limited </TT> </P>
+<P> <U> VERBS </U><B> be, seem | become </B> </P>
+<P> <U> ADV. </U><B> excessively, extremely, peculiarly, very | increasingly | comparatively, fairly, quite, rather, relatively, somewhat </B> </P>
+<P> <U> PREP. </U><B> in </B><I>people who are rather narrow in outlook </I> </P>
+</DIV><DIV class="item"><P class="word"><B>narrow </B><I>verb </I> </P>
+<P> <SUP> 1 </SUP> <TT> of a road/river/gap/range </TT> </P>
+<P> <U> ADV. </U><B> considerably | a bit, a little, slightly </B><I>The river narrows a little here. </I><B>| sharply </B><I>The gap between the two parties narrowed sharply in the days before the election. </I><B>| steadily </B> </P>
+<P> <U> PREP. </U><B> to </B><I>By the final round the gap had narrowed to three votes. </I> </P>
+<P> <SUP> 2 </SUP> <TT> of eyes </TT> </P>
+<P> <U> ADV. </U><B> fractionally, slightly </B><I>Though her eyes narrowed fractionally, she made no comment. </I><B>| suddenly | dangerously, shrewdly, speculatively, suspiciously, thoughtfully </B><I>The blue eyes narrowed thoughtfully. </I> </P>
+<P> <U> PREP. </U><B> against </B><I>Her eyes narrowed against the sun. </I><B>| at </B><I>His eyes suddenly narrowed at the sight of her. </I><B>| to </B><I>His eyes narrowed to slits. </I><B>| with </B><I>His eyes narrowed with suspicion. </I> </P>
+</DIV>

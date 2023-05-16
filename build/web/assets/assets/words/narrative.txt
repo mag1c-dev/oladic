@@ -1,0 +1,8 @@
+
+<DIV class="item"><P class="word"><B>narrative </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> popular | coherent | simple, straightforward | complex, detailed | chronological, sequential | first-person, second-person, third-person </B><I>The book is written in the style of first-person narrative. </I><B>| fictional, prose | film | historical | biblical </B> </P>
+<P> <U> VERB + NARRATIVE </U><B> construct, create, develop, produce </B><I>It's difficult to construct a narrative out of a series of fast-moving events. </I><B>| interrupt </B><I>The author interrupts her narrative to tell us that the idea for the book had not been well received. </I> </P>
+<P> <U> NARRATIVE + VERB </U><B> be based on sth </B> </P>
+<P> <U> NARRATIVE + NOUN </U><B> form, style, technique | framework, structure | flow </B><I>interruptions to the narrative flow </I><B>| content | passage, sequence, text </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>events in the narrative </I> </P>
+</DIV>

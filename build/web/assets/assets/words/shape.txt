@@ -1,0 +1,20 @@
+
+<DIV class="item"><P class="word"><B>shape </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> physical outline </TT> </P>
+<P> <U> ADJ. </U><B> basic, simple </B><I>The children cut the paper into various simple shapes. </I><B>| characteristic, distinctive </B><I>I recognized the distinctive shape of a Boeing-747. </I><B>| curious, interesting, unusual, weird | awkward </B><I>The desk was an awkward shape and wouldn't fit through the door. </I><B>| original | geometric/geometrical, regular, symmetrical | complex | asymmetrical, irregular | odd, random </B><I>tiles of random shape </I><B>| solid, three-dimensional | aerodynamic | angular, arch, circular, cone/conical, cylindrical, diamond, dome, egg, elliptical, elongated, hemispherical, hexagonal, oblong, pentagonal, pointed, pyramid/pyramidal, rectangular, round, spherical, triangular, wedge | rounded, smooth | arrow, banana, cross, pear, star, T, etc. </B><I>The road forms an L shape. The bruise was a sort of mushroom shape. </I><B>| blurred, ghostly, shadowy, vague | huge, massive | black, dark, grey | human | body </B><I>You can't change your natural body shape. </I> </P>
+<P> <U> VERB + SHAPE </U><B> cut out, draw, make, trace </B><I>First draw the rough shape of your chosen animal. Fold the paper to make the shape of a cone. </I><B>| cut sth into, make sth in, produce sth in </B><I>a cheese similar to Brie but produced in a different shape </I><B>| come in, have </B><I>Tables come in various shapes. </I><B>| assume, make, take on </B><I>Ordinary things assumed different shapes in the mist. </I><B>| keep, retain </B><I>These garments will retain their shape even with repeated washing. </I><B>| regain | change | lose | distort </B><I>The wide-angle lens distorts shapes. </I><B>| distinguish, make out, see </B><I>I could just make out the shapes of animals in the field. </I> </P>
+<P> <U> SHAPE + VERB </U><B> appear, emerge, loom </B><I>Ghostly shapes loomed out of the fog. </I> </P>
+<P> <U> PREP. </U><B> in the ~ of </B><I>a doormat in the shape of a cat </I> </P>
+<P> <U> PHRASES </U><B> out of shape </B><I>The bicycle had been battered out of shape. </I><B>| oblong/rectangular/hexagonal, etc. in shape </B><I>The island is roughly circular in shape. </I> </P>
+<P> <SUP> 2 </SUP> <TT> structure/nature of sth </TT> </P>
+<P> <U> ADJ. </U><B> general | changing | final | future </B> </P>
+<P> <U> VERB + SHAPE </U><B> alter, change, determine, influence </B><I>He did much to determine the shape of Europe's political map at that time. </I><B>| take </B><I>A wonderful idea began to take shape in her brain. </I><B>| give </B><I>the words we use to give a shape to our feelings </I> </P>
+<P> <U> PHRASES </U><B> in any shape or form </B><I>I can't stand insects in any shape or form. </I><B>| the shape of things to come </B><I>This revolutionary transport system could be the shape of things to come. </I> </P>
+<P> <SUP> 3 </SUP> <TT> good or bad condition </TT> </P>
+<P> <U> ADJ. </U><B> fine, good, great | bad, poor | physical </B><I>He's 64, but he's in better physical shape than I am. </I> </P>
+<P> <U> VERB + SHAPE </U><B> get sb/sth into, knock/lick/whip sb/sth into </B><I>Get your body into shape for the summer! Leave the boy with me?I'll soon knock him into shape! </I><B>| be in, keep in, stay in </B><I>You are in pretty good shape for your age. She likes to stay in shape. </I><B>| be out of</B> </P>
+</DIV><DIV class="item"><P class="word"><B>shape </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> profoundly </B><I>Memory can be profoundly shaped by subsequent experience. </I><B>| largely | actively, deliberately </B><I>actively shaping the history of their country </I> </P>
+<P> <U> VERB + SHAPE </U><B> help (to) </B> </P>
+<P> <U> PHRASES </U><B> a part/role in shaping sth</B> </P>
+</DIV>

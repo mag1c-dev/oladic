@@ -1,0 +1,18 @@
+
+<DIV class="item"><P class="word"><B>initiative </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> new plan </TT> </P>
+<P> <U> ADJ. </U><B> fresh, new </B><I>fresh initiatives to find a peaceful end to the conflict </I><B>| pioneering </B><I>pioneering initiatives in bioengineering </I><B>| current, latest, recent | important, major | welcome | successful | practical | exciting | private | co-operative, joint | international, local, national, regional | government | business, diplomatic, economic, education/educational, environmental, marketing, peace, policy, political, research, training </B> </P>
+<P> <U> QUANT. </U><B> range, series </B> </P>
+<P> <U> VERB + INITIATIVE </U><B> undertake </B><I>The research initiative is being undertaken by a group of environmentalists. </I><B>| plan | develop | announce | introduce, launch, set up, start </B><I>The government has launched a new policy initiative. </I><B>| be/become involved in </B><I>Ten schools have been involved in the initiative. </I><B>| lead | approve | reject </B><I>The peace initiative was rejected out of hand. </I><B>| sponsor </B><I>a peace initiative sponsored by the Organization of African Unity </I><B>| endorse, support </B><I>The committee endorsed an initiative by the chairman to enter discussion about a possible merger. </I><B>| welcome </B><I>We welcome the government's initiative to help the homeless. </I><B>| praise | encourage </B> </P>
+<P> <U> INITIATIVE + VERB </U><B> be aimed at sth, be designed to </B><I>a local initiative aimed at economic regeneration an initiative designed to promote collaborative research </I><B>| involve sth, relate to sth | founder </B><I>The initiative foundered because there was no market interest in redevelopment. </I> </P>
+<P> <U> PREP. </U><B> ~ against </B><I>a new initiative against car theft </I><B>| ~ by </B><I>the latest initiative by the UN Secretary General </I><B>| ~ for </B><I>an initiative for peace and human rights </I><B>| ~ on </B><I>the government's major new initiative on crime </I>&gt; Special page at BUSINESS </B> </P>
+<P> <SUP> 2 </SUP> <TT> ability to decide/act independently </TT> </P>
+<P> <U> ADJ. </U><B> considerable, great, real | individual, personal, private </B><I>It is a very hierarchical company and there's little place for individual initiative. </I><B>| entrepreneurial </B> </P>
+<P> <U> VERB + INITIATIVE </U><B> have </B><I>He had the initiative to ask what time the last train left. </I><B>| display, show | act/work on your own, use </B><I>He acted on his own initiative and wasn't following orders. Don't ask me what you should do all the time. Use your initiative! </I><B>| lack | encourage, promote | stifle </B><I>Raising taxes on small businesses will stifle initiative. </I> </P>
+<P> <U> PREP. </U><B> on sb's ~ </B><I>The project was set up on the initiative of a local landowner. </I><B>| ~ in </B><I>Some scientists show little initiative in applying their knowledge. </I> </P>
+<P> <U> PHRASES </U><B> a lack of initiative, on your own initiative </B><I>In an unprecedented action, the army, on its own initiative, arrested seven civilians. </I> </P>
+<P> <SUP> 3 </SUP> <TT> the initiative: opportunity to gain an advantage  </TT> </P>
+<P> <U> VERB + INITIATIVE </U><B> have, hold </B><I>After their latest setback, the rebel forces no longer hold the initiative. </I><B>| gain, seize, take | regain </B><I>In the second half, Manchester United regained the initiative. </I><B>| lose </B> </P>
+<P> <U> INITIATIVE + VERB </U><B> comes from sb/sth, lie with sb </B><I>The initiative to re-open negotiations came from Moscow. </I> </P>
+<P> <U> PREP. </U><B> ~ in </B><I>She took the initiative in asking the board to conduct an enquiry. </I> </P>
+</DIV>

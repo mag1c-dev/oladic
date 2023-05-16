@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>suite </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> of furniture </TT> </P>
+<P> <U> ADJ. </U><B> three-piece </B><I>a three-piece lounge suite </I><B>| bathroom, bedroom, dining/dining-room, lounge </B> </P>
+<P> <U> VERB + SUITE </U><B> put in </B><I>We're having a new bathroom suite put in. </I> </P>
+<P> <U> PHRASES </U><B> a suite of furniture </B> </P>
+<P> <SUP> 2 </SUP> <TT> set of rooms in a hotel, office block, etc. </TT> </P>
+<P> <U> ADJ. </U><B> private | executive, luxury | furnished | penthouse | bridal, conference, delivery </B>(= in the maternity ward of a hospital), <B>family, honeymoon, hospitality </B><I>a family suite of two interconnecting rooms </I><B>| hotel, office </B> </P>
+<P> <U> PHRASES </U><B> a suite of rooms/offices</B> </P>
+</DIV>

@@ -1,0 +1,17 @@
+
+<DIV class="item"><P class="word"><B>shock </B><I>noun </I> </P>
+<P> <SUP> 1 </SUP> <TT> extreme surprise </TT> </P>
+<P> <U> ADJ. </U><B> awful, big, complete, considerable, dreadful, great, major, nasty, real, terrible, tremendous | mild, slight | first, initial </B><I>Once the initial shock had worn off, I got to like my new hairstyle. </I><B>| sudden | culture </B><I>It was a bit of a culture shock when I first came to this country. </I> </P>
+<P> <U> VERB + SHOCK </U><B> come as | feel, get, have </B><I>She felt shock that he would be capable of such an act. I got a terrible shock when I saw him. </I><B>| give sb | be in for </B><I>If you think it's going to be easy you're in for a shock! </I><B>| die of </B><I>(informal) I nearly died of shock when your mother appeared. </I><B>| get over, recover from </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>She looked round in shock. </I><B>| with a ~ </B><I>She realized with a sudden shock that she was being followed. </I><B>| ~ at/on </B><I>her shock on seeing him with another woman </I><B>| ~ to </B><I>This news came as a great shock to me. </I> </P>
+<P> <U> PHRASES </U><B> a bit/something of a shock, quite/rather a shock, a hell of a shock, in a state of shock </B><I>I think I'm still in a state of shock. </I><B>| a feeling/sense of shock, the shock of your life </B><I>(informal)</I>, <B>a shock to the system </B><I>(informal) The low wages came as something of a shock to her system. </I> </P>
+<P> <SUP> 2 </SUP> <TT> electric shock </TT> </P>
+<P> <U> ADJ. </U><B> massive | mild </B><I>He gave himself a mild electric shock while changing a light bulb. </I><B>| electric </B> </P>
+<P> <U> VERB + SHOCK </U><B> get, receive | give sb </B> </P>
+<P> <SUP> 3 </SUP> <TT> extreme weakness caused by injury or shock </TT> </P>
+<P> <U> ADJ. </U><B> deep | mild | delayed </B> </P>
+<P> <U> VERB + SHOCK </U><B> be in, be suffering from, suffer </B><I>He was in deep shock after the accident. </I><B>| go into </B><I>He had gone into shock and was shaking violently. </I><B>| be treated for</B> </P>
+</DIV><DIV class="item"><P class="word"><B>shock </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> deeply, really </B><I>The news had shocked her deeply. </I><B>| easily </B><I>He had old-fashioned ideas and was easily shocked. </I> </P>
+<P> <U> PREP. </U><B> into </B><I>The news shocked her into action. </I> </P>
+</DIV>

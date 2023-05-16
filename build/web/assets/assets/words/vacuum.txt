@@ -1,0 +1,5 @@
+
+<DIV class="item"><P class="word"><B>vacuum </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> perfect | moral, political, spiritual </B><I>The writer criticized the moral vacuum in society. </I><B>| power </B><I>Her resignation left a power vacuum in the government. </I> </P>
+<P> <U> VERB + VACUUM </U><B> create, leave, produce </B><I>The machine then creates a vacuum. </I><B>| fill </B><I>Other gases rush in to fill the vacuum. </I> </P>
+</DIV>

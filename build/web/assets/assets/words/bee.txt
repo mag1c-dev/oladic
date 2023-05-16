@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>bee </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> bumble, bumblebee, honey, killer | queen, worker | angry </B><I>He was stung by thousands of angry bees. </I> </P>
+<P> <U> QUANT. </U><B> swarm </B> </P>
+<P> <U> BEE + VERB </U><B> buzz, hum </B><I>A bee buzzed in my ear. </I><B>| sting (sb) | fly, swarm </B><I>The bees swarmed round the hive. </I> </P>
+<P> <U> BEE + NOUN </U><B> hive, beehive | sting | keeper, bee-keeper</P>
+</DIV>

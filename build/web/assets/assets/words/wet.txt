@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>wet </B><I>adj. </I> </P>
+<P> <U> VERBS </U><B> be, feel, look | become, get, turn </B><I>We got soaking wet just going from the car to the house. The weather may turn wet later on in the week. </I><B>| get sth </B><I>Mind you don't get your feet wet. </I> </P>
+<P> <U> ADV. </U><B> dripping, extremely, really, soaking, sopping, very </B><I>His clothes were dripping wet. </I><B>| a bit, a little, quite, rather, slightly </B><I>It's still quite wet outside. </I><B>| permanently </B><I>permanently wet conditions </I> </P>
+<P> <U> PREP. </U><B> with </B><I>The grass was wet with dew. </I> </P>
+<P> <U> PHRASES </U><B> wet through </B><I>We were wet through and cold. </I> </P>
+</DIV><DIV class="item"><P class="word"><B>wet </B><I>verb </I> </P>
+<P> <U> ADV. </U><B> thoroughly </B><I>Wet your hair thoroughly before applying the shampoo. </I><B>| slightly </B> </P>
+<P> <U> PREP. </U><B> with </B><I>Wet the towel slightly with warm water. </I> </P>
+</DIV>

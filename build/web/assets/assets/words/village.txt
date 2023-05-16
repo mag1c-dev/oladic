@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>village </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> big, large | global </B><I>Technology has turned the world into a global village. </I><B>| little, small, tiny | ancient, old | attractive, beautiful, picturesque, pretty | quiet | nearby, neighbouring, surrounding </B><I>The flood affected the town and surrounding villages. </I><B>| outlying, remote, scattered | country, rural | coastal, seaside | deserted | home, native </B><I>She married a man from her home village. </I><B>| agricultural, farming, fishing, holiday, mining </B> </P>
+<P> <U> VILLAGE + NOUN </U><B> community, life | church, green, hall, pub, school, shop, street | centre </B> </P>
+<P> <U> PREP. </U><B> in a/the ~ </B><I>They live in a farming village. </I><B>| outside a/the ~ </B><I>Our cottage is just outside the village. </I> </P>
+<P> <U> PHRASES </U><B> the centre/middle of the village, the edge/outskirts of the village</B> </P>
+</DIV>

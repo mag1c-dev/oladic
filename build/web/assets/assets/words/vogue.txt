@@ -1,0 +1,7 @@
+
+<DIV class="item"><P class="word"><B>vogue </B><I>noun </I> </P>
+<P> <U> ADJ. </U><B> current | temporary </B> </P>
+<P> <U> VERB + VOGUE </U><B> enjoy </B><I>Cycling enjoyed a vogue at the end of the nineteenth century. </I><B>| come (back) into </B><I>Scooters have recently come back into vogue. </I> </P>
+<P> <U> VOGUE + NOUN </U><B> word </B> </P>
+<P> <U> PREP. </U><B> in ~ </B><I>the type of pop song in vogue at that time </I><B>| out of ~ </B><I>Disaster movies are currently out of vogue. </I><B>| ~ for </B><I>the current vogue for Japanese food </I> </P>
+</DIV>

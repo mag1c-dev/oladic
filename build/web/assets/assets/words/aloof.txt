@@ -1,0 +1,10 @@
+
+<DIV class="item"><P class="word"><B>aloof </B><I>adj. </I> </P>
+<P> <SUP> 1 </SUP> <TT> not friendly </TT> </P>
+<P> <U> VERBS </U><B> be, look, seem | find sb </B><I>Some people find her aloof and unfriendly. </I> </P>
+<P> <U> ADV. </U><B> a bit, a little, somewhat </B> </P>
+<P> <SUP> 2 </SUP> <TT> not involved in sth </TT> </P>
+<P> <U> VERBS </U><B> hold (yourself), keep (yourself), remain, stand </B><I>Some thought that Britain was standing aloof from Europe. </I><B>| keep sb </B><I>There were many things that had kept her aloof and apart from the crowd. </I> </P>
+<P> <U> ADV. </U><B> largely </B> </P>
+<P> <U> PREP. </U><B> from </B><I>He has remained largely aloof from the hurly-burly of parliamentary politics. </I> </P>
+</DIV>

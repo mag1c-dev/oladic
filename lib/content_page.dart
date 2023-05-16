@@ -1,19 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_html/flutter_html.dart';
-import 'package:oladic/main.dart';
 
 
-class WordPage extends StatefulWidget {
-  const WordPage({Key? key, required this.word}) : super(key: key);
+class ContentPage extends StatefulWidget {
+  const ContentPage({Key? key, this.word}) : super(key: key);
 
-  final String word;
+  final String? word;
 
   @override
-  State<WordPage> createState() => _WordPageState();
+  State<ContentPage> createState() => _ContentPageState();
 }
 
-class _WordPageState extends State<WordPage> {
+class _ContentPageState extends State<ContentPage> {
   @override
   void initState() {
     super.initState();
@@ -25,7 +24,7 @@ class _WordPageState extends State<WordPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: FutureBuilder(
-          future: rootBundle.loadString('words/${widget.word}.txt'),
+          future: rootBundle.loadString(widget.word!= null? 'words/${widget.word}.txt' : 'home.txt'),
           builder: (context, snapshot) {
             if (snapshot.hasData) {
               return SingleChildScrollView(
@@ -61,7 +60,7 @@ class _WordPageState extends State<WordPage> {
       },
       'i': (context, parsedChild) {
         return Row(
-          children: [parsedChild],
+          children: [Expanded(child: parsedChild)],
         );
       }
     };
@@ -77,6 +76,8 @@ class _WordPageState extends State<WordPage> {
       'U': Style(color: const Color.fromRGBO(6, 95, 70, 1)),
       'SUP': Style(color: const Color.fromRGBO(30, 64, 175, 1)),
       'TT': Style(color: const Color.fromRGBO(30, 64, 175, 1)),
+      'p': Style(fontWeight: FontWeight.w500, fontSize: FontSize.rem(1.2)),
+      'ul': Style(fontWeight: FontWeight.w400, fontSize: FontSize.rem(1.1)),
     };
   }
 }
